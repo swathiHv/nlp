@@ -31,4 +31,4 @@ def idf(t,D):
 					count += 1
 					break
 		
-		return log(N/count,10)
+		return log(N/count,10) #can change the base to 2 or natural log
