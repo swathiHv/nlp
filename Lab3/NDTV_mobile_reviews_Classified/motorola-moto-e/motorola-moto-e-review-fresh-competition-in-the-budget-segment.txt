@@ -1,0 +1,225 @@
+Motorola Moto E Review: Fresh Competition in the Budget Segment
+
+Motorola has been bullish so far this year with its 
+pricing and strategy for India. After a long absence, it came back with the Moto G and Moto X, and now continues with 
+the Moto E, making other manufacturers sit up and take notice.At Rs. 6,999, the Motorola Moto E is priced to ruffle feathers. Motorola is clearly sending a message to buyers that they can get a whole lot more for their money than they have before, and competitors had better adapt to this new reality. However, it is rather unfortunate that Motorola has chosen to 
+stick to online sales only in India. Even though it managed to
+ run through its first stock of Moto E within two days on Flipkart, 
+Motorola could have done a lot better with a more traditional retail presence - at least competitors have that advantage for now. There has been lots of buzz around the Moto E even before its official launch, but that's nothing compared to the actual potential of the Indian smartphone market. We try to find out if the Moto E lives up to the hype surrounding it. Look and feelThe
+ Moto E follows the same design language of its elder siblings, the Moto X (Review) 
+and Moto G. This is evident in the dimpled chin on the curved back 
+which features the Motorola logo. There are a few subtle differences, though.At its thickest point, the Moto E measures 12.3mm, making it a bit fatter than
+ the Moto G. Also, at 142g it weighs slightly more, and definitely feels heavier in the hand. Fortunately
+ the heft is reassuring considering its compact size. The body feels sturdy, and we get the impression that it will be able to withstand years of use. Despite being 
+predominantly plastic, the Moto E feels premium, almost making us wonder 
+how Motorola could afford to price it so low. Our only complaint is that
+ the rear has a rubbery feel to it which could get oily after prolonged
+ use. The rear cover is interchangeable, and nine  colours will be available, all of which look pretty good. Above the distinctive dimple is the 
+recessed rear camera module. This protects the lens from 
+scratches - a small example of attention to detail from Motorola that we 
+appreciate. Prying open the rear cover is a rather tedious process. Once
+ opened, there are two slots on the right edge for the Micro-SIM cards 
+and a slot for the memory card. The battery is non-removable. The
+ right edge of the Moto E houses the volume rocker and power button.
+ Motorola has decided to leave the left edge blank. The ambient light, 
+proximity sensors and a hidden status/charging indicator LED are above 
+the screen. A front-facing mono speaker is masked by a metallic strip below
+ the screen. The Moto E uses on-screen buttons for navigation. 
+The bottom of the phone has a Micro-USB port for data transfer and 
+charging, and the top features the 3.5mm jack for headphones. 
+Inside the box, apart from the phone, you'll find a charger and a headset. The
+ absence of a data cable is a downer. Features and specificationsThe Moto E is powered by a
+ low-end Snapdragon 200 dual-core processor clocked at 1.2GHz, with an integrated Adreno 302 graphics processor. There is 1GB of RAM, which is a good sign that the phone will be able to run without stuttering (more on that later). The Moto E has 4GB of internal 
+storage with 2.2GB available for use. Surprisingly, the phone recognizes
+ it as external storage and installs apps to this partition. Unlike the Moto G, Motorola allows expansion of 
+storage by up to 32GB using a microSD card. It supports two Micro-SIM cards in dual-standby mode, each of which can connect to a 3G
+ network. The phone has a 5-megapixel rear camera with no 
+flash or auto-focus, and there is no front 
+camera. We can already hear selfie lovers grumbling about this 
+exclusion. The Moto E's 4.3-inch display is protected by a sheet of Corning 
+Gorilla Glass 3 - a first for a phone in this price range. The display 
+has a qHD resolution of 960x540, which translates to a relatively sharp density of 256ppi. We couldn't really discern individual pixels. The 
+colours displayed are quite vibrant, though viewing angles and sunlight 
+legibility are not up to the mark. SoftwareA major
+ complaint among detractors of Android is the fragmentation of software 
+versions across different devices. In that regard, it 
+is extremely heartening to note that Motorola is constantly striving to 
+bring the latest and the best version of Android to its smartphones. The
+ Moto E runs Android 4.4.2 (KitKat), and Motorola has promised that it will get at least one future upgrade. This is
+ another first for any Android smartphone in the sub-Rs. 10k segment. Motorola leaves the Android software largely 
+untouched, and so we are treated to the taste of unadulterated KitKat (pun intended): clean home screens, a lock screen with a camera shortcut, 
+a whole collection of Google apps, Google Now, and on-screen navigation buttons which
+hide when you play games and watch videos. Motorola adds a Moto 
+Assist app that lets users determine which ringing mode the phone should
+ be in at certain times. For example, it syncs with your calendar to check for meetings and enters the meeting mode at the appropriate time. The app offers two 
+presets - meeting and sleep. We don't consider this
+ bloatware because it is actually useful, and owners of other Android devices
+ can also download it from the Play Store. Motorola 
+also preinstalls an app called Moto Migrate that makes transferring important data from an old phone to the Moto E an easy process. Setting it up is quite effortless, and it functions as advertised. CameraThe less we 
+talk about the Moto E's 5-megapixel camera, the better. Before we 
+get into the performance details, we want to remind users about the HTC 
+Desire 310's abysmal camera performance. The Moto E is only slightly 
+better. We don't expect anyone to buy this phone if they need a device that can take decent photos.The default camera app on the Moto E is the same as the one on the Moto G. It is extremely basic with very few available settings. There is an
+ HDR mode and a panorama mode. Motorola allows for selective exposure 
+(with a very intuitive interface) but no autofocus. This baffles us, although without an autofocus lag, you can take shots really quickly. Captured images 
+have a lot of noise even in broad daylight, and low-light performance is a whole lot worse. Colour reproduction is average, which is the only 
+saving grace of the camera. Video performance is dismal too. Then again, we can't expect much more from a phone priced this low. (Click to see full size)PerformanceObviously, this phone isn't meant to be a performance beast. The best we can expect of it is to function without lags during everyday use. Thankfully, we found
+ that the Moto E is extremely responsive while browsing through apps and websites . It is a really capable budget smartphone, and really does stand out amongst its competition. The performance benchmark scores are surprisingly good 
+too.In AnTuTu and Quadrant, the phone 
+registered scores of 12,546 and 5,324 respectively. The Moto E rendered 
+the GFXbench animation at an impressive 10.7 fps. To give users some perspective, this is close to the performance of 
+the Sony Xperia T2 Ultra. We tried Dead Trigger 2, a graphically intense
+ first-person shooter for Android, and it was mostly smooth, with only very few 
+lags. The default video app doesn't play 1080p videos, but we 
+were completely surprised when third-party apps managed to do so just fine,
+without any hiccups or dropped frames. The mono speaker's sound quality
+ is just about average, but it is adequately loud. The bundled 
+earphones are uncomfortable to use and just sound bad. The situation did get
+ better with the use of our reference headphones. We were slightly
+ disappointed with the battery life, considering the phone has a 
+powerful 1,980mAh battery inside. It lasted only 5 hours, 41 
+minutes in our continuous loop test. This means that users will have to 
+charge it at the end of each day, if not more often. On the flipside, call quality was phenomenally good.VerdictWhat Motorola has done with the 
+Moto E is let loose a performance beast in the sub-10k range of 
+smartphones. It might have a bad camera, but in every other respect the Moto
+ E trumps its competition by a large margin. The only other smartphone that comes close is the Nokia Lumia 525 (review) which runs Windows Phone 8, is more expensive,
+ and has a limited number of applications in the app store.  Motorola
+ is now the Goliath in the budget 
+smartphone battle. We admire this phone immensely, and we're also excited to see how the competition in this extremely important market segment will respond now that the bar has been raised.  Motorola Moto E in pictures
+
+
+Motorola has been bullish so far this year with its 
+pricing and strategy for India. After a long absence, it came back with the Moto G and Moto X, and now continues with 
+the Moto E, making other manufacturers sit up and take notice.
+
+At Rs. 6,999, the Motorola Moto E is priced to ruffle feathers. Motorola is clearly sending a message to buyers that they can get a whole lot more for their money than they have before, and competitors had better adapt to this new reality. However, it is rather unfortunate that Motorola has chosen to 
+stick to online sales only in India. Even though it managed to
+ run through its first stock of Moto E within two days on Flipkart, 
+Motorola could have done a lot better with a more traditional retail presence - at least competitors have that advantage for now. There has been lots of buzz around the Moto E even before its official launch, but that's nothing compared to the actual potential of the Indian smartphone market. 
+
+We try to find out if the Moto E lives up to the hype surrounding it. 
+
+Look and feelThe
+ Moto E follows the same design language of its elder siblings, the Moto X (Review) 
+and Moto G. This is evident in the dimpled chin on the curved back 
+which features the Motorola logo. There are a few subtle differences, though.
+
+At its thickest point, the Moto E measures 12.3mm, making it a bit fatter than
+ the Moto G. Also, at 142g it weighs slightly more, and definitely feels heavier in the hand. Fortunately
+ the heft is reassuring considering its compact size. The body feels sturdy, and we get the impression that it will be able to withstand years of use. 
+
+Despite being 
+predominantly plastic, the Moto E feels premium, almost making us wonder 
+how Motorola could afford to price it so low. Our only complaint is that
+ the rear has a rubbery feel to it which could get oily after prolonged
+ use. The rear cover is interchangeable, and nine  colours will be available, all of which look pretty good. 
+
+Above the distinctive dimple is the 
+recessed rear camera module. This protects the lens from 
+scratches - a small example of attention to detail from Motorola that we 
+appreciate. Prying open the rear cover is a rather tedious process. Once
+ opened, there are two slots on the right edge for the Micro-SIM cards 
+and a slot for the memory card. The battery is non-removable. 
+
+The
+ right edge of the Moto E houses the volume rocker and power button.
+ Motorola has decided to leave the left edge blank. The ambient light, 
+proximity sensors and a hidden status/charging indicator LED are above 
+the screen. A front-facing mono speaker is masked by a metallic strip below
+ the screen. 
+
+The Moto E uses on-screen buttons for navigation. 
+The bottom of the phone has a Micro-USB port for data transfer and 
+charging, and the top features the 3.5mm jack for headphones. 
+Inside the box, apart from the phone, you'll find a charger and a headset. The
+ absence of a data cable is a downer. 
+
+Features and specificationsThe Moto E is powered by a
+ low-end Snapdragon 200 dual-core processor clocked at 1.2GHz, with an integrated Adreno 302 graphics processor. There is 1GB of RAM, which is a good sign that the phone will be able to run without stuttering (more on that later). The Moto E has 4GB of internal 
+storage with 2.2GB available for use. Surprisingly, the phone recognizes
+ it as external storage and installs apps to this partition. Unlike the Moto G, Motorola allows expansion of 
+storage by up to 32GB using a microSD card. It supports two Micro-SIM cards in dual-standby mode, each of which can connect to a 3G
+ network. 
+
+The phone has a 5-megapixel rear camera with no 
+flash or auto-focus, and there is no front 
+camera. We can already hear selfie lovers grumbling about this 
+exclusion. 
+
+The Moto E's 4.3-inch display is protected by a sheet of Corning 
+Gorilla Glass 3 - a first for a phone in this price range. The display 
+has a qHD resolution of 960x540, which translates to a relatively sharp density of 256ppi. We couldn't really discern individual pixels. The 
+colours displayed are quite vibrant, though viewing angles and sunlight 
+legibility are not up to the mark. 
+
+SoftwareA major
+ complaint among detractors of Android is the fragmentation of software 
+versions across different devices. In that regard, it 
+is extremely heartening to note that Motorola is constantly striving to 
+bring the latest and the best version of Android to its smartphones. The
+ Moto E runs Android 4.4.2 (KitKat), and Motorola has promised that it will get at least one future upgrade. This is
+ another first for any Android smartphone in the sub-Rs. 10k segment. 
+
+Motorola leaves the Android software largely 
+untouched, and so we are treated to the taste of unadulterated KitKat (pun intended): clean home screens, a lock screen with a camera shortcut, 
+a whole collection of Google apps, Google Now, and on-screen navigation buttons which
+hide when you play games and watch videos. 
+
+Motorola adds a Moto 
+Assist app that lets users determine which ringing mode the phone should
+ be in at certain times. For example, it syncs with your calendar to check for meetings and enters the meeting mode at the appropriate time. The app offers two 
+presets - meeting and sleep. We don't consider this
+ bloatware because it is actually useful, and owners of other Android devices
+ can also download it from the Play Store. Motorola 
+also preinstalls an app called Moto Migrate that makes transferring important data from an old phone to the Moto E an easy process. Setting it up is quite effortless, and it functions as advertised. 
+
+CameraThe less we 
+talk about the Moto E's 5-megapixel camera, the better. Before we 
+get into the performance details, we want to remind users about the HTC 
+Desire 310's abysmal camera performance. The Moto E is only slightly 
+better. We don't expect anyone to buy this phone if they need a device that can take decent photos.
+
+The default camera app on the Moto E is the same as the one on the Moto G. It is extremely basic with very few available settings. There is an
+ HDR mode and a panorama mode. Motorola allows for selective exposure 
+(with a very intuitive interface) but no autofocus. This baffles us, although without an autofocus lag, you can take shots really quickly. 
+
+Captured images 
+have a lot of noise even in broad daylight, and low-light performance is a whole lot worse. Colour reproduction is average, which is the only 
+saving grace of the camera. Video performance is dismal too. Then again, we can't expect much more from a phone priced this low. 
+
+(Click to see full size)
+
+PerformanceObviously, this phone isn't meant to be a performance beast. The best we can expect of it is to function without lags during everyday use. Thankfully, we found
+ that the Moto E is extremely responsive while browsing through apps and websites . It is a really capable budget smartphone, and really does stand out amongst its competition. The performance benchmark scores are surprisingly good 
+too.
+
+In AnTuTu and Quadrant, the phone 
+registered scores of 12,546 and 5,324 respectively. The Moto E rendered 
+the GFXbench animation at an impressive 10.7 fps. To give users some perspective, this is close to the performance of 
+the Sony Xperia T2 Ultra. We tried Dead Trigger 2, a graphically intense
+ first-person shooter for Android, and it was mostly smooth, with only very few 
+lags. 
+
+The default video app doesn't play 1080p videos, but we 
+were completely surprised when third-party apps managed to do so just fine,
+without any hiccups or dropped frames. The mono speaker's sound quality
+ is just about average, but it is adequately loud. The bundled 
+earphones are uncomfortable to use and just sound bad. The situation did get
+ better with the use of our reference headphones. 
+
+We were slightly
+ disappointed with the battery life, considering the phone has a 
+powerful 1,980mAh battery inside. It lasted only 5 hours, 41 
+minutes in our continuous loop test. This means that users will have to 
+charge it at the end of each day, if not more often. On the flipside, call quality was phenomenally good.
+
+VerdictWhat Motorola has done with the 
+Moto E is let loose a performance beast in the sub-10k range of 
+smartphones. It might have a bad camera, but in every other respect the Moto
+ E trumps its competition by a large margin. The only other smartphone that comes close is the Nokia Lumia 525 (review) which runs Windows Phone 8, is more expensive,
+ and has a limited number of applications in the app store.  
+
+Motorola
+ is now the Goliath in the budget 
+smartphone battle. We admire this phone immensely, and we're also excited to see how the competition in this extremely important market segment will respond now that the bar has been raised. 
+

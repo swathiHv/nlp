@@ -1,0 +1,276 @@
+Asus ZenFone C (ZC451CG) Review: A Minor Entry-Level Update
+
+Asus was one of the players responsible for upending the Indian 
+smartphone market in 2014. After years of missteps entering the 
+smartphone space, the Taiwanese PC component giant finally hit it big 
+with its ZenFone lineup - the ZenFone 4, ZenFone 5, and ZenFone 6. Each 
+of the three served a different market, giving customers plenty of 
+choice under Rs. 20,000.Now, following plenty of positive reviews
+ and regular appearances in our smartphone buyers' guides, Asus has 
+released a new model to refresh the bottom end of its lineup: the Asus 
+ZenFone C. Given the number of new competitors in the market, it's good 
+to see the company keeping things fresh.Look and feelThe ZenFone C
+ is pretty similar to its siblings. The most noticeable part of its 
+design is the shiny chin, with Asus' trademark concentric ring pattern 
+that catches the light no matter which way you hold this phone. It's 
+available in black, white and red. Our black review unit looked pretty 
+staid, which should work well for most people. The capacitive 
+buttons below the screen are printed on in bright silver, which makes 
+them fairly easy to locate even though there's no backlighting.  A 
+matching Asus logo above the screen stands out just as prominently. 
+There's nothing else to see on the front other than a camera to one side
+ of the earpiece. Unlike most modern high-end phones, the screen is not 
+bonded to the front glass, so it feels a bit sunken. You might also find
+ the plastic borders around the screen a bit thick by today's standards.The
+ ZenFone C is pretty chunky and heavy at 150g, but the back is curved 
+nicely and has a matte texture that makes it very easy to grip. It's 
+easy enough to reach all four corners of the 4.5-inch screen with a 
+thumb when using this phone in one hand.The Micro-USB port is on 
+the bottom, and headset socket is on top. The power and volume buttons 
+are on the right side. The camera lens, flash and speaker grille are all
+ in a line down the centre  of the rear, with another Asus logo thrown 
+in for good measure.Specifications and softwareAs we 
+expected, the insides of this budget phone aren't exactly cutting-edge. 
+At the heart of it all is a dual-core Intel Atom Z2520 running at 
+1.2GHz. This is from Intel's previous-generation Cloverview platform and
+ is incidentally the same processor that powered the Asus ZenFone 4. 
+There's 1GB of RAM and 8GB of internal storage space.The screen 
+has a very low resolution of 480x854 pixels, and its graininess is 
+instantly noticeable. The rest of the basics are covered: Wi-Fi b/g/n, 
+Bluetooth 4.0, support for 64GB microSD cards, and FM radio. The rear 
+camera has a 5-megapixel sensor while the one in front has a 
+barely-there 640x480-pixel VGA resolution. There's an accelerometer, 
+ambient light sensor and proximity sensor, but nothing else. While more 
+than enough for most purposes, these are definitely not pathbreaking 
+specifications for a phone at this price level.Asus' offerings 
+stand out most because of the company's ZenUI Android skin. It's one of 
+the more imaginative takes on Android customisation, with useful 
+features all around. The lockscreen has shortcuts to the camera, dialler
+ and messaging apps, and also shows the weather, alarm status and a neat
+ timeline of upcoming calendar events. You can choose different views 
+within the app drawer, and even resize the grid and hide unwanted icons.There
+ are quite a few preloaded apps. Share Link and Party Link give you 
+different ways of sharing content such as photos and contacts between 
+users. Remote Link and PC Link also offer somewhat overlapping features,
+ letting you control a PC from your smartphone. Omlet Chat is a popular 
+messaging application, Zinio lets you read digital magazines, and 
+SuperNote lets you create notes with pictures and other annotations. 
+AudioWizard and Splendid let you tweak the ZenFone C's audio and screen 
+respectively. Power Saver automatically changes the screen brightness 
+for certain apps and tasks, and Clean Master lets you clear out junk 
+files and scan for malware. There's even more, and it verges on 
+unnecessary clutter.PerformanceWe were satisfied with the 
+performance of the ZenFone C, keeping in mind its low-budget 
+positioning. We didn't face any slowdowns in day-to-day usage, but the 
+low amount of available internal storage space, likely due to Asus' 
+software bloat, became apparent fairly quickly. We also found that some 
+of the popup hints, which were meant to be helpful, were in fact 
+confusing because of poor translations from Chinese to English.The
+ screen is not very good, in terms of resolution and overall quality. 
+Colours are dull and viewing angles aren't all that great. Reflections 
+are harsh, especially under sunlight. Benchmark results were in 
+line with what we've seen from other recently launched phones at this 
+price level. The ZenFone C gave us scores of 19,088 in AnTuTu and 5,477 
+overall in Quadrant. Intel's smartphone SoCs have had a slight advantage
+ in terms of graphics processing, and we saw pretty good scores of 15fps
+ in GFXbench and 5,197 points in 3DMark's Ice Storm test. These could 
+also be attributed to the low-res screen which doesn't take much effort 
+to fill up.The scores were slightly lower than those we recorded 
+with the ZenFone 4 (Review | Photos) and also trailed this market segment's leader, the 
+Xiaomi Redmi 1S (Review | Photos). We also felt the device's rear getting a bit warm after
+ heavy tests were run.(Click to see full size)The ZenFone C's camera was perhaps the 
+biggest letdown we encountered. Photos were just dull, grainy and 
+unrealistic. Some phones manage to mask low image quality because 
+high-res photos look better when scaled down, but this device doesn't 
+have even that leeway. Colours are pretty okay in sunlight but 
+compression is way too high and details are missing, so textures are 
+just lost. Only objects that are right in the foreground are captured 
+with any degree of accuracy.  You can completely forget about using this
+ camera after dark, unless you're a fan of extreme blur effects. Shots 
+taken even on well-lit roads came out without any definition whatsoever,
+ and the less said about indoor shots, the better. Video clips 
+taken at 1080p did not look like they had been shot in high-definition 
+at all. Colours were dull and everything was unclear. At least it didn't
+ stutter, though. The front camera is no good for any photos you might 
+want to share or preserve - use it only for video chatting if an urgent 
+need arises.(Click to see full size)Interestingly, the ZenFone C managed all our video 
+test clips without any hiccups, including 1080p samples in multiple 
+formats and compression levels. On the other hand, the speaker on the 
+rear is loud and clear even when the phone is lying on a table. 
+Everything from EDM to classical music came out sounding really good. 
+Sadly, Asus doesn't include a headset in the box.Call quality was
+ pretty good, and we had no complaints. The battery lasted just 6 hours,
+ 5 minutes in our video loop test, which is the bare minimum we would 
+consider acceptable these days. Don't expect to get any more than one 
+day of even moderate usage with each charge. VerdictThe 
+ZenFone C is somewhat of an update to the ZenFone 4, but isn't very 
+different from it in many ways. The larger screen is nice to have, but 
+even so, Asus will have to do a lot more to be competitive as others 
+release newer and more capable products. The Xiaomi Redmi 1S is still 
+the class leader, though its highly restricted availability leaves a lot
+ of room for companies such as Asus to be successful. If you think the 
+ZenUI might be too confusing, there are also plenty of stock Android One
+ devices in the market at this price level. We're expecting other
+ major companies to refresh their sub-Rs. 6,000 offerings before too 
+long, but until then, Asus continues to offer a product worth 
+considering. As long as your expectations are in check and you don't 
+plan on any serious camera usage, this is a good phone to buy.  Asus ZenFone C (ZC451CG) in pictures
+
+Asus was one of the players responsible for upending the Indian 
+smartphone market in 2014. After years of missteps entering the 
+smartphone space, the Taiwanese PC component giant finally hit it big 
+with its ZenFone lineup - the ZenFone 4, ZenFone 5, and ZenFone 6. Each 
+of the three served a different market, giving customers plenty of 
+choice under Rs. 20,000.
+
+Now, following plenty of positive reviews
+ and regular appearances in our smartphone buyers' guides, Asus has 
+released a new model to refresh the bottom end of its lineup: the Asus 
+ZenFone C. Given the number of new competitors in the market, it's good 
+to see the company keeping things fresh.
+
+Look and feelThe ZenFone C
+ is pretty similar to its siblings. The most noticeable part of its 
+design is the shiny chin, with Asus' trademark concentric ring pattern 
+that catches the light no matter which way you hold this phone. It's 
+available in black, white and red. Our black review unit looked pretty 
+staid, which should work well for most people. 
+
+The capacitive 
+buttons below the screen are printed on in bright silver, which makes 
+them fairly easy to locate even though there's no backlighting.  A 
+matching Asus logo above the screen stands out just as prominently. 
+There's nothing else to see on the front other than a camera to one side
+ of the earpiece. Unlike most modern high-end phones, the screen is not 
+bonded to the front glass, so it feels a bit sunken. You might also find
+ the plastic borders around the screen a bit thick by today's standards.
+
+The
+ ZenFone C is pretty chunky and heavy at 150g, but the back is curved 
+nicely and has a matte texture that makes it very easy to grip. It's 
+easy enough to reach all four corners of the 4.5-inch screen with a 
+thumb when using this phone in one hand.
+
+The Micro-USB port is on 
+the bottom, and headset socket is on top. The power and volume buttons 
+are on the right side. The camera lens, flash and speaker grille are all
+ in a line down the centre  of the rear, with another Asus logo thrown 
+in for good measure.
+
+Specifications and softwareAs we 
+expected, the insides of this budget phone aren't exactly cutting-edge. 
+At the heart of it all is a dual-core Intel Atom Z2520 running at 
+1.2GHz. This is from Intel's previous-generation Cloverview platform and
+ is incidentally the same processor that powered the Asus ZenFone 4. 
+There's 1GB of RAM and 8GB of internal storage space.
+
+The screen 
+has a very low resolution of 480x854 pixels, and its graininess is 
+instantly noticeable. The rest of the basics are covered: Wi-Fi b/g/n, 
+Bluetooth 4.0, support for 64GB microSD cards, and FM radio. The rear 
+camera has a 5-megapixel sensor while the one in front has a 
+barely-there 640x480-pixel VGA resolution. There's an accelerometer, 
+ambient light sensor and proximity sensor, but nothing else. While more 
+than enough for most purposes, these are definitely not pathbreaking 
+specifications for a phone at this price level.
+
+Asus' offerings 
+stand out most because of the company's ZenUI Android skin. It's one of 
+the more imaginative takes on Android customisation, with useful 
+features all around. The lockscreen has shortcuts to the camera, dialler
+ and messaging apps, and also shows the weather, alarm status and a neat
+ timeline of upcoming calendar events. You can choose different views 
+within the app drawer, and even resize the grid and hide unwanted icons.
+
+There
+ are quite a few preloaded apps. Share Link and Party Link give you 
+different ways of sharing content such as photos and contacts between 
+users. Remote Link and PC Link also offer somewhat overlapping features,
+ letting you control a PC from your smartphone. Omlet Chat is a popular 
+messaging application, Zinio lets you read digital magazines, and 
+SuperNote lets you create notes with pictures and other annotations. 
+AudioWizard and Splendid let you tweak the ZenFone C's audio and screen 
+respectively. Power Saver automatically changes the screen brightness 
+for certain apps and tasks, and Clean Master lets you clear out junk 
+files and scan for malware. There's even more, and it verges on 
+unnecessary clutter.
+
+PerformanceWe were satisfied with the 
+performance of the ZenFone C, keeping in mind its low-budget 
+positioning. We didn't face any slowdowns in day-to-day usage, but the 
+low amount of available internal storage space, likely due to Asus' 
+software bloat, became apparent fairly quickly. We also found that some 
+of the popup hints, which were meant to be helpful, were in fact 
+confusing because of poor translations from Chinese to English.
+
+The
+ screen is not very good, in terms of resolution and overall quality. 
+Colours are dull and viewing angles aren't all that great. Reflections 
+are harsh, especially under sunlight. 
+
+Benchmark results were in 
+line with what we've seen from other recently launched phones at this 
+price level. The ZenFone C gave us scores of 19,088 in AnTuTu and 5,477 
+overall in Quadrant. Intel's smartphone SoCs have had a slight advantage
+ in terms of graphics processing, and we saw pretty good scores of 15fps
+ in GFXbench and 5,197 points in 3DMark's Ice Storm test. These could 
+also be attributed to the low-res screen which doesn't take much effort 
+to fill up.
+
+The scores were slightly lower than those we recorded 
+with the ZenFone 4 (Review | Photos) and also trailed this market segment's leader, the 
+Xiaomi Redmi 1S (Review | Photos). We also felt the device's rear getting a bit warm after
+ heavy tests were run.
+
+(Click to see full size)
+
+The ZenFone C's camera was perhaps the 
+biggest letdown we encountered. Photos were just dull, grainy and 
+unrealistic. Some phones manage to mask low image quality because 
+high-res photos look better when scaled down, but this device doesn't 
+have even that leeway. Colours are pretty okay in sunlight but 
+compression is way too high and details are missing, so textures are 
+just lost. Only objects that are right in the foreground are captured 
+with any degree of accuracy.  You can completely forget about using this
+ camera after dark, unless you're a fan of extreme blur effects. Shots 
+taken even on well-lit roads came out without any definition whatsoever,
+ and the less said about indoor shots, the better. 
+
+Video clips 
+taken at 1080p did not look like they had been shot in high-definition 
+at all. Colours were dull and everything was unclear. At least it didn't
+ stutter, though. The front camera is no good for any photos you might 
+want to share or preserve - use it only for video chatting if an urgent 
+need arises.
+
+(Click to see full size)
+
+Interestingly, the ZenFone C managed all our video 
+test clips without any hiccups, including 1080p samples in multiple 
+formats and compression levels. On the other hand, the speaker on the 
+rear is loud and clear even when the phone is lying on a table. 
+Everything from EDM to classical music came out sounding really good. 
+Sadly, Asus doesn't include a headset in the box.
+
+Call quality was
+ pretty good, and we had no complaints. The battery lasted just 6 hours,
+ 5 minutes in our video loop test, which is the bare minimum we would 
+consider acceptable these days. Don't expect to get any more than one 
+day of even moderate usage with each charge. 
+
+VerdictThe 
+ZenFone C is somewhat of an update to the ZenFone 4, but isn't very 
+different from it in many ways. The larger screen is nice to have, but 
+even so, Asus will have to do a lot more to be competitive as others 
+release newer and more capable products. The Xiaomi Redmi 1S is still 
+the class leader, though its highly restricted availability leaves a lot
+ of room for companies such as Asus to be successful. If you think the 
+ZenUI might be too confusing, there are also plenty of stock Android One
+ devices in the market at this price level. 
+
+We're expecting other
+ major companies to refresh their sub-Rs. 6,000 offerings before too 
+long, but until then, Asus continues to offer a product worth 
+considering. As long as your expectations are in check and you don't 
+plan on any serious camera usage, this is a good phone to buy. 
+

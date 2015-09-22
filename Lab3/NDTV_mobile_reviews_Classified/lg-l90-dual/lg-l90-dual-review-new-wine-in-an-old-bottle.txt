@@ -1,0 +1,344 @@
+LG L90 Dual Review: New Wine in an Old Bottle
+
+LG competes with Samsung in nearly every imaginable category of 
+electronics and appliances, but while both companies are well known for 
+TVs, refrigerators and air conditioners, Samsung clearly has the lead 
+when it comes to smartphones. Nearly everyone knows of Samsung's Galaxy 
+line of phones, but there aren't that many who could even name a recent 
+LG model.That's why we're particularly interested in LG's latest 
+launch, the L 90 Dual. This phone is part of LG's third-generation L 
+series, which is the company's mid-budget range. This phone is priced 
+with the mass market in mind, but there's tough competition to overcome.
+ Let's see if Samsung has any reason to be worried.Look and feelThe
+ LG L90 is a fairly ordinary-looking phone; not too big and not too 
+small. Its most distinct feature is the rather busy line of capacitive 
+touch buttons beneath the screen. While most phones today aim for a 
+minimalist style or use backlit buttons that fade away when not needed, 
+LG has four large icons printed right there. The standard Home and Back buttons 
+are placed next to a Menu button (more on this later) and a special 
+button for LG's dual-SIM management settings.Above the screen, 
+there's a big silver earpiece and LG logo. We have to say all these 
+distractions on the front face make the phone look a lot less appealing 
+than some of its contemporaries.The removable rear panel is made 
+of grey plastic with a very rough texture. It's great for grip, but not 
+the most comfortable in our hands. The L90 Dual actually looks quite 
+good from this angle, with silver accents around the phone's edges and 
+surrounding the camera lens, though we could have done without another 
+LG logo in the centre of the rear panel.The power button on the 
+right and volume rocker on the left are both thin and shallow, and we 
+sometimes had to fumble around while reaching for them. Under the cover,
+ there's space for two SIM cards, a microSD card, and a decent 2,540mAh 
+battery. You'll find an infrared LED on the top, right next to the 3.5mm
+ headset socket, with a standard Micro-USB port on the bottom.When
+ you power it on, you'll immediately notice that the screen has a grainy
+ quality to it. That's because despite having a 4.7-inch screen, the 
+resolution is only a lowly 540x960, commonly known as qHD. This was a 
+huge disappointment to us, since even 720x1280 is low-end these days.We like how light the L90 Dual is, and if not for the sandpapery texture, it would feel very good to hold and use.Specifications and softwareLG
+ has gone with a fairly competent Qualcomm Snapdragon 400 processor, 
+which is something we like seeing in this price range rather than 
+lower-performing processors with inflated core counts. It's supported by
+ 1GB of RAM and 8GB of built-in storage space. Oddly, our review unit 
+reported a total capacity of only 3.87GB.Connectivity comes in 
+the form of Infrared, Bluetooth 4.0, Wi-Fi b/g/n and of course USB. The 
+L90 has A-GPS and an accelerometer as well as a digital compass. There's an app that lets you use the IR emitted to control your TV, set-top box and home theatre receiver.While
+ most of the spec sheet reads like something a year or two old, the L90 
+actually runs Android 4.4.2. LG's custom UI is typically over the top, 
+with extensive visual tweaks and loads of little features scattered 
+around. It just doesn't seem as though this phone was designed for 
+KitKat - the most obvious example being the Menu button on the front 
+panel which has been completely deprecated. You'll wind up seeing the 
+Android menu overflow button on loads of screens, and tapping both that 
+and the actual button bring up the same menu, just on different parts of
+ the screen. It's a complete waste, and makes the phone less easy to use
+ too.Since there are already four buttons beneath the screen, 
+there's no place for a Recents button. You'll need to long-tap the Home 
+button to bring up the list of recently used apps. It's just awkward and
+ unnecessary. Without backlighting, it's also easy to miss the off-centre Home button in the dark.LG's headline software feature, which is prominently
+ advertised on the L90 Dual's box and web page, is called Knock Code. 
+This is a security method similar to the pattern swipe option, except 
+that you tap within a square area on screen rather than drawing a line 
+between points. It works really well, even though there are only four 
+"zones" to tap, rather than the 16 points you get with a pattern swipe 
+code.There's no need to actually knock the screen; ordinary taps 
+will do. The method does not check for the actual rhythm or timing you 
+use while tapping, only the sequence. It's really easy to use and those 
+paranoid about security will like the fact that there's no traceable 
+smudge on the screen that can be used to decipher your code.Your 
+code can have up to seven taps, and you'll have to set up a four-digit 
+PIN to fall back on. We like what LG has come up with here - it's far 
+less gimmicky than face recognition and some of the other tricks we've 
+seen over the years. You can also double-tap the screen to wake the 
+phone from sleep.LG throws in tons of animations and flourishes, 
+including three options for the effect you see when the phone goes into 
+standby, and seven options for the effect used when flipping between 
+home screens. Icons on the home screen can be scaled to four times their
+ default size, and ones such as the Android browser icon will become an 
+interactive list of recently visited tabs which can be scrolled through 
+in place. For some unimaginable reason, there's also an option to change
+ icons, with a few dozen preset options as well as the ability to create
+ a new icon out of any saved image.The notifications area and 
+options screens are prime targets for customisation, and LG has gone 
+quite wild in both places. There's a row of quick toggle buttons and 
+another of shortcuts in the notifications area, plus a brightness slider
+ that's always on. The options have been divided into four tabs, and 
+several of the individual screens, such as the battery usage graph, are 
+completely unique to LG. Animations take way too long, and there were 
+too many little things we needed to discover (the choice of screen 
+unlock methods can be found under Display rather than the more relevant 
+Security tab) which really made us miss the simplicity of stock Android 
+at times. Even LG's keyboard is garish and cluttered.You can set 
+the phone to keep the screen on while your face is in front of it, and 
+pause video when you move away. Thankfully, options like these are off 
+by default. LG advertises 100 free minutes' worth of calls using the 
+Nimbuzz app, which is not preloaded. There are also loads of obscure 
+features which are named but not always explained, such as Eco Mode (a 
+battery saving option), Clip Tray (a clipboard that can hold multiple 
+things), Plug & Pop (lets you launch apps automatically when 
+connecting a headset), Privacy Keeper (prevents caller ID information 
+from being displayed), Quick Memo (take a screenshot and draw over it 
+before sharing it) and even more.One useful tool is Qslide - that
+ row of shortcuts in the notification area actually launches apps in 
+floating windows, rather than fullscreen. You can have two open at once 
+and even adjust their opacity. They're always on top till you dismiss 
+them. This is a neat trick on higher-end handsets, but on the L90's 
+low-res screen, it's all a bit pointless. Yes, floating apps could come 
+in handy, but not that often.CameraLG has of course 
+customised the camera app, but it's fairly straightforward. You get a 
+choice of shutter release sounds (because why not), basic colour 
+effects, a "cheese shutter" which detects smiles, a timer, and flash 
+control. Interestingly, there's an option to disable autofocus, and a 
+dedicated face tracking autofocus mode.Photos taken with the 
+8-megapixel rear camera are actually very good. There's definitely a lot
+ of compression, but details are generally well defined. Distant objects
+ become a bit blurry and edges aren't all that sharp, but close-ups look
+ good, and you won't notice the flaws unless you zoom in to 100 percent.Video
+ can go up to 1080p, but the default is 1280x720. Again, we liked what 
+we saw in daylight, though low light wasn't all that good. The front 
+camera has a lowly VGA resolution, and we weren't impressed by anything 
+it managed to achieve.(Click to see full size)PerformanceThe LG L90 struggled 
+quite a bit in our benchmark tests, often losing out to much cheaper 
+devices such as the Motorola Moto G and Xolo Q1100. Performance trailed 
+both those two models in nearly every test, except some of the 
+graphics-intensive ones, though this could be explained away by the 
+lower screen resolution which means there's less work to do.The 
+L90's screen was the device's biggest letdown. It isn't all that vivid 
+unless you really push the brightness level up, and viewing angles are 
+disappointing. The low resolution is noticeable no matter what you do, 
+and text is especially jarring. Maybe we're just used to higher pixel 
+densities, but we felt somewhat shortchanged by the L90.HD 1080p 
+videos were laggy and skipping around the timeline often resulted in 
+long pauses while the phone caught up. High-bitrate clips were 
+unplayable, but stepping down to 720p seemed to take care of most 
+problems. Sound was surprisingly clear though, and this phone can get 
+pretty loud.We didn't notice anything out of the ordinary with the L90 Dual's battery life in ordinary use, but we encountered bizarre behaviour in our battery test. On its first run, the LG L90 lasted an atrocious 4 
+hours, 24 minutes. We ran the test again out of sheer disbelief, and got a much more impressive time of 10 hours, 34 minutes. All conditions and settings on the phone were consistent between runs, so we hope the first score was just an aberration with our review unit. VerdictWe have mixed feelings about the
+ LG L90. It could have been a great phone, but it just feels old and 
+underpowered, with modern software bogging it down. LG seriously needs 
+to take care of issues like the pointless Menu button, and tone down its
+ UI. Its biggest problem is its pricing. Even the current street price 
+is well above the level that competitors such as the Moto G and Xolo 
+Q1100 sell at, and both models beat it in terms of specifications as 
+well as performance. LG is going to have to do a lot more work 
+developing products and understanding the markets. The L90 could be a 
+good budget phone, but it just isn't right at this price.
+LG L90 Dual in pictures
+
+
+LG competes with Samsung in nearly every imaginable category of 
+electronics and appliances, but while both companies are well known for 
+TVs, refrigerators and air conditioners, Samsung clearly has the lead 
+when it comes to smartphones. Nearly everyone knows of Samsung's Galaxy 
+line of phones, but there aren't that many who could even name a recent 
+LG model.
+
+That's why we're particularly interested in LG's latest 
+launch, the L 90 Dual. This phone is part of LG's third-generation L 
+series, which is the company's mid-budget range. This phone is priced 
+with the mass market in mind, but there's tough competition to overcome.
+ Let's see if Samsung has any reason to be worried.
+
+Look and feelThe
+ LG L90 is a fairly ordinary-looking phone; not too big and not too 
+small. Its most distinct feature is the rather busy line of capacitive 
+touch buttons beneath the screen. While most phones today aim for a 
+minimalist style or use backlit buttons that fade away when not needed, 
+LG has four large icons printed right there. The standard Home and Back buttons 
+are placed next to a Menu button (more on this later) and a special 
+button for LG's dual-SIM management settings.
+
+Above the screen, 
+there's a big silver earpiece and LG logo. We have to say all these 
+distractions on the front face make the phone look a lot less appealing 
+than some of its contemporaries.
+
+The removable rear panel is made 
+of grey plastic with a very rough texture. It's great for grip, but not 
+the most comfortable in our hands. The L90 Dual actually looks quite 
+good from this angle, with silver accents around the phone's edges and 
+surrounding the camera lens, though we could have done without another 
+LG logo in the centre of the rear panel.
+
+The power button on the 
+right and volume rocker on the left are both thin and shallow, and we 
+sometimes had to fumble around while reaching for them. Under the cover,
+ there's space for two SIM cards, a microSD card, and a decent 2,540mAh 
+battery. You'll find an infrared LED on the top, right next to the 3.5mm
+ headset socket, with a standard Micro-USB port on the bottom.
+
+When
+ you power it on, you'll immediately notice that the screen has a grainy
+ quality to it. That's because despite having a 4.7-inch screen, the 
+resolution is only a lowly 540x960, commonly known as qHD. This was a 
+huge disappointment to us, since even 720x1280 is low-end these days.
+
+We like how light the L90 Dual is, and if not for the sandpapery texture, it would feel very good to hold and use.
+
+Specifications and softwareLG
+ has gone with a fairly competent Qualcomm Snapdragon 400 processor, 
+which is something we like seeing in this price range rather than 
+lower-performing processors with inflated core counts. It's supported by
+ 1GB of RAM and 8GB of built-in storage space. Oddly, our review unit 
+reported a total capacity of only 3.87GB.
+
+Connectivity comes in 
+the form of Infrared, Bluetooth 4.0, Wi-Fi b/g/n and of course USB. The 
+L90 has A-GPS and an accelerometer as well as a digital compass. There's an app that lets you use the IR emitted to control your TV, set-top box and home theatre receiver.
+
+While
+ most of the spec sheet reads like something a year or two old, the L90 
+actually runs Android 4.4.2. LG's custom UI is typically over the top, 
+with extensive visual tweaks and loads of little features scattered 
+around. It just doesn't seem as though this phone was designed for 
+KitKat - the most obvious example being the Menu button on the front 
+panel which has been completely deprecated. You'll wind up seeing the 
+Android menu overflow button on loads of screens, and tapping both that 
+and the actual button bring up the same menu, just on different parts of
+ the screen. It's a complete waste, and makes the phone less easy to use
+ too.
+
+Since there are already four buttons beneath the screen, 
+there's no place for a Recents button. You'll need to long-tap the Home 
+button to bring up the list of recently used apps. It's just awkward and
+ unnecessary. Without backlighting, it's also easy to miss the off-centre Home button in the dark.
+
+LG's headline software feature, which is prominently
+ advertised on the L90 Dual's box and web page, is called Knock Code. 
+This is a security method similar to the pattern swipe option, except 
+that you tap within a square area on screen rather than drawing a line 
+between points. It works really well, even though there are only four 
+"zones" to tap, rather than the 16 points you get with a pattern swipe 
+code.
+
+There's no need to actually knock the screen; ordinary taps 
+will do. The method does not check for the actual rhythm or timing you 
+use while tapping, only the sequence. It's really easy to use and those 
+paranoid about security will like the fact that there's no traceable 
+smudge on the screen that can be used to decipher your code.
+
+Your 
+code can have up to seven taps, and you'll have to set up a four-digit 
+PIN to fall back on. We like what LG has come up with here - it's far 
+less gimmicky than face recognition and some of the other tricks we've 
+seen over the years. You can also double-tap the screen to wake the 
+phone from sleep.
+
+LG throws in tons of animations and flourishes, 
+including three options for the effect you see when the phone goes into 
+standby, and seven options for the effect used when flipping between 
+home screens. Icons on the home screen can be scaled to four times their
+ default size, and ones such as the Android browser icon will become an 
+interactive list of recently visited tabs which can be scrolled through 
+in place. For some unimaginable reason, there's also an option to change
+ icons, with a few dozen preset options as well as the ability to create
+ a new icon out of any saved image.
+
+The notifications area and 
+options screens are prime targets for customisation, and LG has gone 
+quite wild in both places. There's a row of quick toggle buttons and 
+another of shortcuts in the notifications area, plus a brightness slider
+ that's always on. The options have been divided into four tabs, and 
+several of the individual screens, such as the battery usage graph, are 
+completely unique to LG. Animations take way too long, and there were 
+too many little things we needed to discover (the choice of screen 
+unlock methods can be found under Display rather than the more relevant 
+Security tab) which really made us miss the simplicity of stock Android 
+at times. Even LG's keyboard is garish and cluttered.
+
+You can set 
+the phone to keep the screen on while your face is in front of it, and 
+pause video when you move away. Thankfully, options like these are off 
+by default. LG advertises 100 free minutes' worth of calls using the 
+Nimbuzz app, which is not preloaded. There are also loads of obscure 
+features which are named but not always explained, such as Eco Mode (a 
+battery saving option), Clip Tray (a clipboard that can hold multiple 
+things), Plug & Pop (lets you launch apps automatically when 
+connecting a headset), Privacy Keeper (prevents caller ID information 
+from being displayed), Quick Memo (take a screenshot and draw over it 
+before sharing it) and even more.
+
+One useful tool is Qslide - that
+ row of shortcuts in the notification area actually launches apps in 
+floating windows, rather than fullscreen. You can have two open at once 
+and even adjust their opacity. They're always on top till you dismiss 
+them. This is a neat trick on higher-end handsets, but on the L90's 
+low-res screen, it's all a bit pointless. Yes, floating apps could come 
+in handy, but not that often.
+
+CameraLG has of course 
+customised the camera app, but it's fairly straightforward. You get a 
+choice of shutter release sounds (because why not), basic colour 
+effects, a "cheese shutter" which detects smiles, a timer, and flash 
+control. Interestingly, there's an option to disable autofocus, and a 
+dedicated face tracking autofocus mode.
+
+Photos taken with the 
+8-megapixel rear camera are actually very good. There's definitely a lot
+ of compression, but details are generally well defined. Distant objects
+ become a bit blurry and edges aren't all that sharp, but close-ups look
+ good, and you won't notice the flaws unless you zoom in to 100 percent.
+
+Video
+ can go up to 1080p, but the default is 1280x720. Again, we liked what 
+we saw in daylight, though low light wasn't all that good. The front 
+camera has a lowly VGA resolution, and we weren't impressed by anything 
+it managed to achieve.
+
+(Click to see full size)
+
+PerformanceThe LG L90 struggled 
+quite a bit in our benchmark tests, often losing out to much cheaper 
+devices such as the Motorola Moto G and Xolo Q1100. Performance trailed 
+both those two models in nearly every test, except some of the 
+graphics-intensive ones, though this could be explained away by the 
+lower screen resolution which means there's less work to do.
+
+The 
+L90's screen was the device's biggest letdown. It isn't all that vivid 
+unless you really push the brightness level up, and viewing angles are 
+disappointing. The low resolution is noticeable no matter what you do, 
+and text is especially jarring. Maybe we're just used to higher pixel 
+densities, but we felt somewhat shortchanged by the L90.
+
+HD 1080p 
+videos were laggy and skipping around the timeline often resulted in 
+long pauses while the phone caught up. High-bitrate clips were 
+unplayable, but stepping down to 720p seemed to take care of most 
+problems. Sound was surprisingly clear though, and this phone can get 
+pretty loud.
+
+We didn't notice anything out of the ordinary with the L90 Dual's battery life in ordinary use, but we encountered bizarre behaviour in our battery test. On its first run, the LG L90 lasted an atrocious 4 
+hours, 24 minutes. We ran the test again out of sheer disbelief, and got a much more impressive time of 10 hours, 34 minutes. All conditions and settings on the phone were consistent between runs, so we hope the first score was just an aberration with our review unit. 
+
+VerdictWe have mixed feelings about the
+ LG L90. It could have been a great phone, but it just feels old and 
+underpowered, with modern software bogging it down. LG seriously needs 
+to take care of issues like the pointless Menu button, and tone down its
+ UI. Its biggest problem is its pricing. Even the current street price 
+is well above the level that competitors such as the Moto G and Xolo 
+Q1100 sell at, and both models beat it in terms of specifications as 
+well as performance. 
+
+LG is going to have to do a lot more work 
+developing products and understanding the markets. The L90 could be a 
+good budget phone, but it just isn't right at this price.
+

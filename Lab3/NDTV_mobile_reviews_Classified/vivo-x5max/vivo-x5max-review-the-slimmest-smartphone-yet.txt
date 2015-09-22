@@ -1,0 +1,271 @@
+Vivo X5Max Review: The Slimmest Smartphone Yet
+
+After
+ reviewing two really slim smartphones, the Gionee Elife S5.1 (Review | 
+Pictures) and the Oppo R5 (Review | Pictures), we finally got a chance 
+to review the Vivo X5Max - the latest smartphone to claim the title of slimmest in the world. The battery life and heating problems we faced with the
+ Elife S5.1 and R5 lead us to believe that in a bid to make slim 
+smartphones companies are making certain sacrifices. Can the Vivo X5Max 
+change our perception? We find out. Look and feelOne look 
+at the X5Max and we noticed similarities in design with the Oppo R5. 
+Both phones are available in only a single white/grey colour scheme. They 
+are made from a mix of metal and plastic, and have similar 
+chamfered edges. The X5Max is slightly wider 
+and taller than the R5 at 153.9 x 78mm. Additionally, 
+the 156g weight makes it light enough to hold comfortably. Thanks to the use of metal in the construction, including the frame, the phone feels sturdy.The X5Max's USP
+ is its 4.75mm thickness, officially making it the slimmest smartphone in the 
+world. However, we couldn't really feel much of a difference in slimness 
+between the X5Max, Gionee Elife S5.1 and Oppo R5. All the 
+talk about slimnness feels like more like a
+ marketing tactic than a feature that has any sort of practical 
+benefit.The power button 
+and volume rocker are on the right. Also present on the right is a tray that can 
+hold two SIM cards, one Micro and the other Nano. Interestingly, the 
+slot that accepts the Nano-SIM card also doubles up as a microSD card 
+slot. This of course means that you can't use two SIMs if you want to add storage space. This is a disappointing 
+workaround, and will only be practical if users are alright with 
+swapping cards. The Micro-USB port lies on the bottom whereas the 3.5mm 
+audio jack sits on top. The phone has three capacitive buttons 
+below the screen for navigating through the operating system. 
+Above the display, Vivo has placed the earpiece, front facing camera, a 
+cutout for ambient light and proximity sensors, and the notification LED.
+ A large speaker grille is at the bottom on the rear. Also on the rear
+ is the primary camera which juts out a bit (this seems like a 
+normal thing now if you are making a slim smartphone) with the flash module by its side. Specifications and softwareVivo
+ packs the X5Max with Qualcomm's latest mid-range octa-core 
+processor, the Snapdragon 615. This SoC fuses four 1.7 GHz Cortex-A53 
+cores and four 1.0 GHz Cortex-A53 cores, with an Adreno 405 GPU for 
+graphics. There is also 2GB of RAM which should be sufficient for most 
+practical purposes. The phone has 16GB of internal storage which can be expanded by up to 128GB using a microSD card. The Vivo 
+X5Max has a 13-megapixel primary shooter with flash. There is a 5-megapixel front-facing camera for selfies and 
+video calls. Apart from connecting to 3G networks, the Vivo 
+X5Max can also connect to Indian 4G networks on 
+the 2300MHz band. With respect to other connectivity options, it has
+ support for Bluetooth 4.0, GPS, and Wi-Fi a/b/g/n. Despite the space
+ constraints, Vivo has fitted the X5Max with a 2,000mAh battery. A 
+5.5-inch Super AMOLED screen adorns the front of the phone and has a
+ resolution of 1080x1920. As is the case with AMOLED screens, the 
+colours are really vibrant. Thanks to the fairly high pixel density of 
+401ppi, text and images are super crisp. The viewing angles were not too
+ bad but our only grouse with the otherwise good display was that the 
+brightness level wasn't as high as other phones, which drastically affected sunlight legibility. Vivo's FunTouch OS skin is 
+wrapped around Android 4.4.4 KitKat. The company has promised an update 
+to Android Lollipop in the near future. FunTouch OS, much like the skins
+ used on other Chinese smartphones, does not have an app drawer. Unlocking the phone leads to the homepage lined with tons of icons. 
+The lockscreen has a large circular icon with a customisable avatar that 
+can be swiped upwards to enter the homescreen. There is a digital clock 
+on top under which you can show a custom signature. The
+ skin has a quite a few other software-level tweaks. Unlike most Android 
+phones that have quick settings options in the notifications shade, 
+FunTouch OS brings up a separate panel when you swipe upwards from the bottom of
+ the screen. This bottom shade has a row of icons representing open apps, which you can close with a neat animation by swiping the icons upwards. Below that is a brightness 
+slider. All the quick settings are available in an endless scroll on the
+lowest row. Vivo also provides an option for a multitasking window 
+which can open four preset apps like - notes, video, music and inbox. 
+Also available are a ton of optional gestures which allow the user 
+to perform functions from the lock screen itself, such as drawing an 'e'
+ to open the browser or sliding downwards to take a photo. All these 
+gestures work really well. By giving its apps names such as i Music, i Theme and i Manager, we 
+think Vivo is trying to escape a lawsuit by not directly using 'i' as a prefix. VivoCloud can be used to save your contacts, text messages and web bookmarks 
+directly to the cloud. Vivo also bundles the messaging clients WhatsApp and WeChat with the phone. Other apps include 
+Facebook and WPS Office. Only the third-party apps can be deleted. (Click for full size)CameraVivo's
+ default camera app is similar to Apple's fuss free app. It doesn't have
+ any manual controls and has only a few shooting modes in the form of Face 
+Beauty, HDR, Panorama, Night, Children, PPT, Bokeh, Sports and 
+Watermark. None of the modes, including HDR, give good output and as a 
+result we stuck to regular shooting mode for best results. (Click for full size)The 
+primary camera can capture some decent details and naturally 
+warm colours, although in our test shots we noticed that images had a 
+fair bit of distortion around the edges and some chromatic aberration as
+ well. In low light the camera struggled to capture images without 
+noise. The 1080p video we shot was too dark even in 
+bright sunlight, and a lot of details were missing. The 5-megapixel front
+ camera surprised us with really good colour fidelity and details. This camera won't disappoint 
+you unless you want a really wide-angle lens. PerformanceThe phone handles  FunTouch OS's umpteen animations with ease.
+ In retrospect, we actually appreciate Vivo for making a skin 
+that is loaded with animations yet light. We played a video in windowed 
+mode, read a couple of pages of text and fired up a game, and not once did we face any slowdown or stutter. You should be 
+able to play even graphically intensive games without any hassle. Most 
+importantly, the heating issues that were persistent with other slim
+ smartphones we reviewed are not present in the Vivo X5Max which is 
+really great. The benchmark numbers weren't too bad either and 
+were close to what we achieved with the Oppo R5. In the 3DMark Ice Storm and
+ GFXbench graphics benchmark tests we managed to achieve scores of 9,277
+ and 15fps respectively. AnTuTu and Quadrant returned scores of 19,040 
+and 16,152. However, we were really surprised to see that our 
+heavily encoded 40mbps 1080p test video skipped frames during playback. We 
+tried multiple video players form the Play Store and yet the problem 
+persisted. The speakers can put out loud audio but at the highest 
+volume the sound crackles a bit. The bundled earphones are really good 
+and should be more than sufficient. The sound quality in calls is good 
+but we noticed that the phone dropped calls quite a bit in areas where 
+some other smartphones managed to hold on to signal without any problem, but
+ this could have been due to network congestion on that 
+particular day. In our
+ rigorous battery test the phone lasted a good 8 hours, 4 minutes, which
+ is better than the results we got with the Elife S5.1 and the R5. You 
+should easily get at least a day's worth of use from the X5Max before it
+ dies on you. VerdictWe are actually quite impressed with 
+the the Vivo X5Max. Despite being slimmer than its counterparts, it 
+actually has better battery life and doesn't heat up either. However, 
+the primary camera is not the best of the lot. Another major downer 
+for the Vivo X5Max is its asking price of Rs. 32,980. This is too high for
+ a phone that competes directly with behemoths like the Motorola Moto X 
+(Gen 2) (Review | Pictures) and the Lenovo Vibe Z2 Pro (Review | Pictures). Taking
+ all points into consideration, we can't deny that the Vivo X5Max is  overall the
+best ultra-slim smartphone at the moment. The fact that it is the 
+slimmest of all the options available is an added advantage. 
+Vivo X5Max in pictures
+
+After
+ reviewing two really slim smartphones, the Gionee Elife S5.1 (Review | 
+Pictures) and the Oppo R5 (Review | Pictures), we finally got a chance 
+to review the Vivo X5Max - the latest smartphone to claim the title of slimmest in the world. The battery life and heating problems we faced with the
+ Elife S5.1 and R5 lead us to believe that in a bid to make slim 
+smartphones companies are making certain sacrifices. Can the Vivo X5Max 
+change our perception? We find out. 
+
+Look and feelOne look 
+at the X5Max and we noticed similarities in design with the Oppo R5. 
+Both phones are available in only a single white/grey colour scheme. They 
+are made from a mix of metal and plastic, and have similar 
+chamfered edges. The X5Max is slightly wider 
+and taller than the R5 at 153.9 x 78mm. Additionally, 
+the 156g weight makes it light enough to hold comfortably. Thanks to the use of metal in the construction, including the frame, the phone feels sturdy.
+
+The X5Max's USP
+ is its 4.75mm thickness, officially making it the slimmest smartphone in the 
+world. However, we couldn't really feel much of a difference in slimness 
+between the X5Max, Gionee Elife S5.1 and Oppo R5. All the 
+talk about slimnness feels like more like a
+ marketing tactic than a feature that has any sort of practical 
+benefit.
+
+The power button 
+and volume rocker are on the right. Also present on the right is a tray that can 
+hold two SIM cards, one Micro and the other Nano. Interestingly, the 
+slot that accepts the Nano-SIM card also doubles up as a microSD card 
+slot. This of course means that you can't use two SIMs if you want to add storage space. This is a disappointing 
+workaround, and will only be practical if users are alright with 
+swapping cards. The Micro-USB port lies on the bottom whereas the 3.5mm 
+audio jack sits on top. 
+
+The phone has three capacitive buttons 
+below the screen for navigating through the operating system. 
+Above the display, Vivo has placed the earpiece, front facing camera, a 
+cutout for ambient light and proximity sensors, and the notification LED.
+ A large speaker grille is at the bottom on the rear. Also on the rear
+ is the primary camera which juts out a bit (this seems like a 
+normal thing now if you are making a slim smartphone) with the flash module by its side. 
+
+Specifications and softwareVivo
+ packs the X5Max with Qualcomm's latest mid-range octa-core 
+processor, the Snapdragon 615. This SoC fuses four 1.7 GHz Cortex-A53 
+cores and four 1.0 GHz Cortex-A53 cores, with an Adreno 405 GPU for 
+graphics. There is also 2GB of RAM which should be sufficient for most 
+practical purposes. The phone has 16GB of internal storage which can be expanded by up to 128GB using a microSD card. 
+
+The Vivo 
+X5Max has a 13-megapixel primary shooter with flash. There is a 5-megapixel front-facing camera for selfies and 
+video calls. Apart from connecting to 3G networks, the Vivo 
+X5Max can also connect to Indian 4G networks on 
+the 2300MHz band. With respect to other connectivity options, it has
+ support for Bluetooth 4.0, GPS, and Wi-Fi a/b/g/n. Despite the space
+ constraints, Vivo has fitted the X5Max with a 2,000mAh battery. 
+
+A 
+5.5-inch Super AMOLED screen adorns the front of the phone and has a
+ resolution of 1080x1920. As is the case with AMOLED screens, the 
+colours are really vibrant. Thanks to the fairly high pixel density of 
+401ppi, text and images are super crisp. The viewing angles were not too
+ bad but our only grouse with the otherwise good display was that the 
+brightness level wasn't as high as other phones, which drastically affected sunlight legibility. 
+
+Vivo's FunTouch OS skin is 
+wrapped around Android 4.4.4 KitKat. The company has promised an update 
+to Android Lollipop in the near future. FunTouch OS, much like the skins
+ used on other Chinese smartphones, does not have an app drawer. Unlocking the phone leads to the homepage lined with tons of icons. 
+The lockscreen has a large circular icon with a customisable avatar that 
+can be swiped upwards to enter the homescreen. There is a digital clock 
+on top under which you can show a custom signature. 
+
+The
+ skin has a quite a few other software-level tweaks. Unlike most Android 
+phones that have quick settings options in the notifications shade, 
+FunTouch OS brings up a separate panel when you swipe upwards from the bottom of
+ the screen. This bottom shade has a row of icons representing open apps, which you can close with a neat animation by swiping the icons upwards. Below that is a brightness 
+slider. All the quick settings are available in an endless scroll on the
+lowest row. 
+
+Vivo also provides an option for a multitasking window 
+which can open four preset apps like - notes, video, music and inbox. 
+Also available are a ton of optional gestures which allow the user 
+to perform functions from the lock screen itself, such as drawing an 'e'
+ to open the browser or sliding downwards to take a photo. All these 
+gestures work really well. 
+
+By giving its apps names such as i Music, i Theme and i Manager, we 
+think Vivo is trying to escape a lawsuit by not directly using 'i' as a prefix. VivoCloud can be used to save your contacts, text messages and web bookmarks 
+directly to the cloud. Vivo also bundles the messaging clients WhatsApp and WeChat with the phone. Other apps include 
+Facebook and WPS Office. Only the third-party apps can be deleted. 
+
+(Click for full size)CameraVivo's
+ default camera app is similar to Apple's fuss free app. It doesn't have
+ any manual controls and has only a few shooting modes in the form of Face 
+Beauty, HDR, Panorama, Night, Children, PPT, Bokeh, Sports and 
+Watermark. None of the modes, including HDR, give good output and as a 
+result we stuck to regular shooting mode for best results. 
+
+(Click for full size)The 
+primary camera can capture some decent details and naturally 
+warm colours, although in our test shots we noticed that images had a 
+fair bit of distortion around the edges and some chromatic aberration as
+ well. In low light the camera struggled to capture images without 
+noise. The 1080p video we shot was too dark even in 
+bright sunlight, and a lot of details were missing. The 5-megapixel front
+ camera surprised us with really good colour fidelity and details. This camera won't disappoint 
+you unless you want a really wide-angle lens. 
+
+PerformanceThe phone handles  FunTouch OS's umpteen animations with ease.
+ In retrospect, we actually appreciate Vivo for making a skin 
+that is loaded with animations yet light. We played a video in windowed 
+mode, read a couple of pages of text and fired up a game, and not once did we face any slowdown or stutter. You should be 
+able to play even graphically intensive games without any hassle. Most 
+importantly, the heating issues that were persistent with other slim
+ smartphones we reviewed are not present in the Vivo X5Max which is 
+really great. 
+
+The benchmark numbers weren't too bad either and 
+were close to what we achieved with the Oppo R5. In the 3DMark Ice Storm and
+ GFXbench graphics benchmark tests we managed to achieve scores of 9,277
+ and 15fps respectively. AnTuTu and Quadrant returned scores of 19,040 
+and 16,152. 
+
+However, we were really surprised to see that our 
+heavily encoded 40mbps 1080p test video skipped frames during playback. We 
+tried multiple video players form the Play Store and yet the problem 
+persisted. The speakers can put out loud audio but at the highest 
+volume the sound crackles a bit. The bundled earphones are really good 
+and should be more than sufficient. The sound quality in calls is good 
+but we noticed that the phone dropped calls quite a bit in areas where 
+some other smartphones managed to hold on to signal without any problem, but
+ this could have been due to network congestion on that 
+particular day. In our
+ rigorous battery test the phone lasted a good 8 hours, 4 minutes, which
+ is better than the results we got with the Elife S5.1 and the R5. You 
+should easily get at least a day's worth of use from the X5Max before it
+ dies on you. 
+
+VerdictWe are actually quite impressed with 
+the the Vivo X5Max. Despite being slimmer than its counterparts, it 
+actually has better battery life and doesn't heat up either. However, 
+the primary camera is not the best of the lot. Another major downer 
+for the Vivo X5Max is its asking price of Rs. 32,980. This is too high for
+ a phone that competes directly with behemoths like the Motorola Moto X 
+(Gen 2) (Review | Pictures) and the Lenovo Vibe Z2 Pro (Review | Pictures). 
+
+Taking
+ all points into consideration, we can't deny that the Vivo X5Max is  overall the
+best ultra-slim smartphone at the moment. The fact that it is the 
+slimmest of all the options available is an added advantage. 
+

@@ -1,0 +1,243 @@
+Intex Cloud N Review: Smartphone for the Price of a Feature Phone
+
+According to TRAI, a staggering 960 million mobile phone connections 
+exist in India, with the rural market accounting for nearly 50 percent of them. It's 
+expected that rural India will surpass urban India in mobile phone 
+penetration soon, making it the market that every company is gearing its strategies to cater to. And if there's one thing we've all learned, it 
+is that the rural market thrives on low-cost, value-for-money products.A
+ lot of Indian mobile phone manufacturers are trying to get in on the 
+action by launching inexpensive but feature-filled products and making it easy
+ for customers to purchase them. One such brand is Intex, a well-known Indian company. The new Rs. 3,999 Intex
+ Cloud N offers the smartphone experience at a price that you usually 
+pay for feature phones. It's being sold exclusively through Ebay, an e-commerce veteran that now competes with the likes of Amazon, Flipkart
+ and Snapdeal in India. The appeal and unique selling proposition is clear, 
+but is the Cloud N truly capable of delivering a smartphone 
+experience? We find out in our review.Look and FeelOver 
+the past few years, budget Android smartphones have developed a 
+pretty common look and feel that has made it hard to distinguish phones from each other without looking at them carefully. The Intex Cloud N features this exact
+ aesthetic. It's plain, with no branding on the front and fairly thick borders around the screen. There's nothing to complain about here, but there's nothing 
+praiseworthy either. To be fair, we can't really expect 
+gorgeous looks from a Rs. 4,000 smartphone, so we're going to say we're 
+satisfied enough with the front of the device.In a world where 
+5-inch screens are now considered normal, the 4-inch display on the 
+Intex Cloud N makes the phone feel small and delightfully easy to 
+handle.  At 9mm thick and just 101g in weight, it's comfortable to hold,
+ easy to use, and conveniently pocketable. It makes us miss the days
+ when phones were easy to handle.The
+ power and volume buttons are along the right side of the Intex Cloud N,
+ while the USB and headphone ports are on the top. Like the rest of the 
+phone, the removable back panel is plastic, but has a dull matte finish.
+ The camera and mono speaker are on the back, with an Intex logo just below the camera's flash. It's simple and understated, and 
+actually looks sophisticated.Under the removable panel there's 
+the battery, two SIM slots (one for a micro-SIM, the other for a regular mini-SIM) and
+ the microSD card slot. Accessing the SIM and storage slots will need 
+you to remove the battery first. The box includes a USB cable, charger, protective plastic case, 
+and a headset, which is surprisingly good for a bundled pair. The fact 
+that earphones and a protective case are included in the box at this price is an achievement in itself
+ for Intex.Specifications and SoftwareThe Intex Cloud N 
+uses a 1.2GHz quad-core Spreadtrum SC7731 SoC, with 1GB RAM and 8GB of in-built storage. 
+However, only 3.94GB is actually user-accessible, so the 8GB tag is a 
+bit misleading. The microSD slot that supports up to 64GB cards, 
+though. The 4-inch display has a 480x800-pixel resolution, which works out to 
+233 pixels per inch. It's an acceptable quality screen for the price, but 
+don't expect it to be good enough to enjoy videos on very often. The phone also 
+features an 8-megapixel rear camera, 2-megapixel front camera, and 1,400mAh 
+battery. There's Bluetooth and A-GPS connectivity.The Intex Cloud N 
+runs Android 4.4.2 out of the box, with Intex's own user interface 
+layered on top. The UI is not unbearable, but it isn't particularly 
+clean or easy to use either. The settings menu is poorly designed, and a
+ lot of things, such as the lock screen shortcuts and pull-down shortcut
+ menu, cannot be customised. The language is also a bit silly at times, 
+and we definitely think the UI needs a lot of fine-tuning.  
+Luckily, there isn't a lot of bloatware, and even the little bit that is
+ present can be uninstalled. It's clear that this phone is meant for 
+beginner users who won't customise the interface much.CameraThe
+ Intex Cloud N has an 8-megapixel rear camera and 2-megapixel front 
+camera, which is a lot better than what some similarly priced phones offer. 
+There are a decent number of customisable settings and lots of tweaks to
+ set the camera up to your liking. Switching between video, photo and 
+panorama mode is easy and quick as well, as is switching between the 
+front and rear cameras. Focusing is quick and efficient.Unfortunately,
+ that's where the praise ends. Pictures taken by the camera are grainy, 
+dull and lack detail. Colours are inaccurate and sharpness is 
+non-existent. The camera performs poorly in ordinary daylight and
+ even worse when it comes to low-light situations. Dark zones are often
+ too dark, while bright zones are flooded with light that makes it 
+difficult to detect any detail. Video, too, is poor. Although the
+ camera is capable of shooting 1080p video, there is no smoothness or flow to speak of. The 
+autofocus simply cannot keep up with quick movements, and as a result 
+videos are always too bright or too dark, with far too much grain and 
+noise. As expected, the front camera is just as bad, with all the same 
+flaws. Essentially, the software running the camera is good, but the 
+lens and sensor can't quite keep up. (Click to see full size)PerformanceWe weren't
+ really expecting much from the Intex Cloud N in terms of performance, 
+considering that the phone costs just Rs. 3,999. That said, it 
+pleasantly surprised us at times and had us figuratively tearing our 
+hair out at other times. The user interface and camera are comfortably 
+snappy with no real lag or hiccups in performance. The browser is 
+usually quick to load pages, and most of the apps we used ran well. 
+However, the touch responsiveness and accuracy of the screen are poor. 
+It's unbelievably difficult to type on the phone, since the screen will 
+register your taps at random locations. Performance intensive apps 
+and games also have trouble running smoothly.AnTuTu and Quadrant 
+scores for the Intex Cloud N were 17,138 and 3,306 respectively. This is
+ the first time we've benchmarked a device running the Spreadtrum SC7731
+ SoC, and the scores appear just about satisfactory for a product in 
+this price range. However, the device had trouble running even ordinary 
+480p movies properly, and was worse at handling some of our higher-bitrate videos. This device is meant for basic tasks at best, and users 
+are advised to avoid using the Intex Cloud N for anything even slightly 
+performance-intensive.Battery life is also weak. The Intex Cloud N
+ lasted only 5 hours, 32 minutes in our video loop battery test. Even with ordinary 
+use, it could barely last a full day. Voice calls and sound output through 
+the speaker were average, and at times a bit soft. The antenna seems good, 
+and the phone usually held on to cellular network without any trouble.VerdictIt
+ takes a lot to stand out in the increasingly competitive Indian 
+smartphone market, and aggressive pricing is half the battle won before 
+you even consider anything else. The Intex Cloud N is a well-specced device for 
+the price, and seemingly offers some serious bang for the buck. 
+Unfortunately, a lot of this value only looks good on paper, failing to 
+keep up to expectations in practicality.The Intex Cloud N does 
+not really stand out in any department, offering either average or 
+below-average returns. Critical weaknesses such as the camera quality, 
+performance with video, poor touch response, and below-par battery 
+life undo many of the positive impressions we had when glancing over the specifications sheet and price tag. However, it's still a 
+full-fledged Android smartphone, and could be a good option for first-time smartphone buyers who don't need their devices to do much more than 
+the basics. The device is available on Ebay now.
+Intex Cloud N in pictures
+
+
+
+A
+ lot of Indian mobile phone manufacturers are trying to get in on the 
+action by launching inexpensive but feature-filled products and making it easy
+ for customers to purchase them. One such brand is Intex, a well-known Indian company. The new Rs. 3,999 Intex
+ Cloud N offers the smartphone experience at a price that you usually 
+pay for feature phones. It's being sold exclusively through Ebay, an e-commerce veteran that now competes with the likes of Amazon, Flipkart
+ and Snapdeal in India. The appeal and unique selling proposition is clear, 
+but is the Cloud N truly capable of delivering a smartphone 
+experience? We find out in our review.
+
+Look and FeelOver 
+the past few years, budget Android smartphones have developed a 
+pretty common look and feel that has made it hard to distinguish phones from each other without looking at them carefully. The Intex Cloud N features this exact
+ aesthetic. It's plain, with no branding on the front and fairly thick borders around the screen. There's nothing to complain about here, but there's nothing 
+praiseworthy either. To be fair, we can't really expect 
+gorgeous looks from a Rs. 4,000 smartphone, so we're going to say we're 
+satisfied enough with the front of the device.
+
+In a world where 
+5-inch screens are now considered normal, the 4-inch display on the 
+Intex Cloud N makes the phone feel small and delightfully easy to 
+handle.  At 9mm thick and just 101g in weight, it's comfortable to hold,
+ easy to use, and conveniently pocketable. It makes us miss the days
+ when phones were easy to handle.
+
+The
+ power and volume buttons are along the right side of the Intex Cloud N,
+ while the USB and headphone ports are on the top. Like the rest of the 
+phone, the removable back panel is plastic, but has a dull matte finish.
+ The camera and mono speaker are on the back, with an Intex logo just below the camera's flash. It's simple and understated, and 
+actually looks sophisticated.
+
+Under the removable panel there's 
+the battery, two SIM slots (one for a micro-SIM, the other for a regular mini-SIM) and
+ the microSD card slot. Accessing the SIM and storage slots will need 
+you to remove the battery first. The box includes a USB cable, charger, protective plastic case, 
+and a headset, which is surprisingly good for a bundled pair. The fact 
+that earphones and a protective case are included in the box at this price is an achievement in itself
+ for Intex.
+
+Specifications and SoftwareThe Intex Cloud N 
+uses a 1.2GHz quad-core Spreadtrum SC7731 SoC, with 1GB RAM and 8GB of in-built storage. 
+However, only 3.94GB is actually user-accessible, so the 8GB tag is a 
+bit misleading. The microSD slot that supports up to 64GB cards, 
+though. 
+
+The 4-inch display has a 480x800-pixel resolution, which works out to 
+233 pixels per inch. It's an acceptable quality screen for the price, but 
+don't expect it to be good enough to enjoy videos on very often. The phone also 
+features an 8-megapixel rear camera, 2-megapixel front camera, and 1,400mAh 
+battery. There's Bluetooth and A-GPS connectivity.
+
+The Intex Cloud N 
+runs Android 4.4.2 out of the box, with Intex's own user interface 
+layered on top. The UI is not unbearable, but it isn't particularly 
+clean or easy to use either. The settings menu is poorly designed, and a
+ lot of things, such as the lock screen shortcuts and pull-down shortcut
+ menu, cannot be customised. The language is also a bit silly at times, 
+and we definitely think the UI needs a lot of fine-tuning.  
+Luckily, there isn't a lot of bloatware, and even the little bit that is
+ present can be uninstalled. It's clear that this phone is meant for 
+beginner users who won't customise the interface much.
+
+CameraThe
+ Intex Cloud N has an 8-megapixel rear camera and 2-megapixel front 
+camera, which is a lot better than what some similarly priced phones offer. 
+There are a decent number of customisable settings and lots of tweaks to
+ set the camera up to your liking. Switching between video, photo and 
+panorama mode is easy and quick as well, as is switching between the 
+front and rear cameras. Focusing is quick and efficient.
+
+Unfortunately,
+ that's where the praise ends. Pictures taken by the camera are grainy, 
+dull and lack detail. Colours are inaccurate and sharpness is 
+non-existent. The camera performs poorly in ordinary daylight and
+ even worse when it comes to low-light situations. Dark zones are often
+ too dark, while bright zones are flooded with light that makes it 
+difficult to detect any detail. 
+
+Video, too, is poor. Although the
+ camera is capable of shooting 1080p video, there is no smoothness or flow to speak of. The 
+autofocus simply cannot keep up with quick movements, and as a result 
+videos are always too bright or too dark, with far too much grain and 
+noise. As expected, the front camera is just as bad, with all the same 
+flaws. Essentially, the software running the camera is good, but the 
+lens and sensor can't quite keep up.
+
+ 
+
+(Click to see full size)
+
+PerformanceWe weren't
+ really expecting much from the Intex Cloud N in terms of performance, 
+considering that the phone costs just Rs. 3,999. That said, it 
+pleasantly surprised us at times and had us figuratively tearing our 
+hair out at other times. The user interface and camera are comfortably 
+snappy with no real lag or hiccups in performance. The browser is 
+usually quick to load pages, and most of the apps we used ran well. 
+However, the touch responsiveness and accuracy of the screen are poor. 
+It's unbelievably difficult to type on the phone, since the screen will 
+register your taps at random locations. Performance intensive apps 
+and games also have trouble running smoothly.
+
+AnTuTu and Quadrant 
+scores for the Intex Cloud N were 17,138 and 3,306 respectively. This is
+ the first time we've benchmarked a device running the Spreadtrum SC7731
+ SoC, and the scores appear just about satisfactory for a product in 
+this price range. However, the device had trouble running even ordinary 
+480p movies properly, and was worse at handling some of our higher-bitrate videos. This device is meant for basic tasks at best, and users 
+are advised to avoid using the Intex Cloud N for anything even slightly 
+performance-intensive.
+
+Battery life is also weak. The Intex Cloud N
+ lasted only 5 hours, 32 minutes in our video loop battery test. Even with ordinary 
+use, it could barely last a full day. Voice calls and sound output through 
+the speaker were average, and at times a bit soft. The antenna seems good, 
+and the phone usually held on to cellular network without any trouble.
+
+VerdictIt
+ takes a lot to stand out in the increasingly competitive Indian 
+smartphone market, and aggressive pricing is half the battle won before 
+you even consider anything else. The Intex Cloud N is a well-specced device for 
+the price, and seemingly offers some serious bang for the buck. 
+Unfortunately, a lot of this value only looks good on paper, failing to 
+keep up to expectations in practicality.
+
+The Intex Cloud N does 
+not really stand out in any department, offering either average or 
+below-average returns. Critical weaknesses such as the camera quality, 
+performance with video, poor touch response, and below-par battery 
+life undo many of the positive impressions we had when glancing over the specifications sheet and price tag. However, it's still a 
+full-fledged Android smartphone, and could be a good option for first-time smartphone buyers who don't need their devices to do much more than 
+the basics. The device is available on Ebay now.
+

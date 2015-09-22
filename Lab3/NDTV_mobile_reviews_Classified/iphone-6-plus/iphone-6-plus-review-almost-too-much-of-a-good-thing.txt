@@ -1,0 +1,518 @@
+iPhone 6 Plus Review: Almost Too Much of a Good Thing
+
+The iPhone 6 Plus breaks a lot of the rules and defies a lot of the 
+logic that Apple has stuck to for a number of years. It's a copycat 
+device, it chases a market that the company did not create for itself, 
+it introduces fragmentation in a previously restrained product lineup, 
+and it doesn't immediately give you the sense that you need to own one. 
+In short, it's the most un-Apple-like Apple product we've seen in a 
+very, very long time. The famously selective company (many would 
+call it arrogant) repeatedly dismissed and even ridiculed the idea of 
+outsized smartphones for many years; defying industry trends and 
+sticking with a smaller shape that was easy to use in one hand despite 
+an obvious shift in the market. In the past, Apple has been defined by 
+its refusal to participate in such "bubble" markets and has instead 
+created its own - it suffered endless criticism for being the only PC 
+manufacturer to never have offered a netbook, but then proceeded to 
+destroy that entire product category by introducing the iPad and 
+defining the future of touch-first portable devices.Now, that 
+philosophy seems to have been discarded completely. Apple has done a 180
+ and is now chasing a market created by one of its fiercest rivals.
+ The iPhone 6 Plus is many years late to the phablet party - Apple 
+couches this by saying it only makes moves when it knows it's ready with
+ something truly brilliant, but it isn't hard to see this as a very 
+reactionary product. In fact, this is one of the rare Apple products 
+that will be defined by its competitors. Apple seems confident that the 
+iPhone 6 Plus will work against the Samsung Galaxy Note 4, LG G3 (Review | Photos) and 
+others in this size class. Let's see if that holds true, or if Apple 
+will come out of this battle looking like a sore loser.Look and FeelThe
+ iPhone 6 Plus is pretty much identical to the iPhone 6 in terms of 
+styling and proportions, but is of course larger. It's significantly 
+bigger than the iPhone 5s and absolutely towers over the 4S and earlier models - anyone who
+ has used an iPhone before will be a little thrown by its sheer size. 
+It's just awkward; like a teenager who's had a sudden growth spurt. It 
+fits in a trouser pocket but you'll always feel it there when walking 
+around.Competitors in the Android space have moved to on-screen 
+controls and minimal bezels - the idea being that all attention should 
+be focused on the screen. That isn't the case here - there's a lot of 
+space both above and below the screen, necessitated by the physical Home
+ button with its integrated Touch ID sensor.What does work for 
+the iPhone 6 Plus is how it feels. Apple hasn't in any way reduced the 
+amount of attention it pays to physical, material and construction 
+quality. The curved aluminium sides and rounded corners are a departure 
+from the iPhone 5- and 4-series, and feel better in the hand. The glass 
+front extends right to the edges and is also curved to meet the 
+aluminium frame - this makes it one of the most comfortable phones to 
+hold up to your ear, but leaves us slightly worried about potential 
+shattering if the phone is ever dropped.The iPhone 6 Plus is also
+ amazingly thin. It isn't all that light, but the weight is very nicely 
+balanced. The power button has been moved to the right edge, which is 
+another touch pioneered by competitors. Everything else is the same as 
+before - volume and mute controls on the left, SIM card tray on the 
+right, and headset socket, Lightning port and speaker cutout on the 
+bottom.Around the sides and back, you'll see plastic lines 
+framing the top and bottom of the phone, which are necessary to let the 
+various antennas work through the metal body. This is the only part of 
+the device that looks a little ugly - not such a huge crime, but 
+disappointing by Apple standards. Also on the back is the now-famous 
+protruding camera, which isn't as prominent as it is on the 
+regular-sized iPhone 6. We felt it catch on things in our pocket once or
+ twice, but otherwise it was a non-issue.SpecificationsApple
+ doesn't say much about the exact specifications of its new A8 
+processor, other than the fact that it's 64-bit and works alongside a 
+dedicated motion co-processor (the M8) so that sensor input can be 
+processed constantly without wasting power. Benchmark apps report that 
+the CPU has two cores, and speculation online pins the speed at 1.4GHz. 
+Apple prefers talking about power efficiency, and we know that despite 
+the transistor count increasing to two billion, the 20nm manufacturing 
+process brings about significant improvements to battery life. In terms 
+of CPU specifications alone, the A8 pales in comparison to Qualcomm's 
+flagship Snapdragon 800 series. There's 1GB of RAM, which, again, is 
+well below the 3GB standard of modern Android flagships. We'll just have
+ to let the benchmark tests decide how much difference these things 
+make.The iPhone 6 Plus is defined by its screen, though again 
+we're dealing with specs that seem inferior to the competition. The 
+"Retina HD" display has a resolution of 1080x1920 pixels, which was 
+standard for other, smaller flagship phones over a year ago, and has 
+made its way down to quite a few budget models as well now.  We've seen 
+better in terms of sharpness, but we are still impressed with the iPhone
+ 6 Plus in terms of colour accuracy, brightness and vibrancy.Apple
+ continues its stubborn refusal to allow storage expansion. The 16GB 
+model costs Rs. 62,500 which is not a small amount by any standard, but 
+you'll still be constrained in terms of apps, games, music, movies, 
+photos and recorded videos. It's ridiculous to have a huge screen, 
+powerful processor and brilliant camera but not be able to do anything 
+with them. You'll have to shell out at least another Rs. 9,000 for the 
+64GB model which makes at least some amount of sense. Of all the ways in
+ which Apple should have emulated its competition, we can't think of a more tragic missed opportunity.New to the iPhone 6 generation is a 
+barometer which allows the M8 co-processor to detect changes in 
+elevation and better track physical activity. There's also NFC, though 
+it works only with the Apple Pay system has only just launched in the US
+ and is not available anywhere else yet. Wi-Fi has been updated to the 
+faster ac standard and more LTE bands are supported (the variant sold 
+here also works with the Indian 2300MHz band). Software and the big screenOnce
+ again, Samsung's Galaxy Note series jumps to mind as the obvious point 
+of comparison, thanks to features that let you run apps side by side, 
+trigger commands with a stylus, multitask, and do dozens of other handy 
+little things. Samsung could even be accused of going overboard, but the
+ fact is that it recognises how many different things you can do with a 
+big, powerful Android device. LG, Sony, HTC and others aren't far behind
+ either.Apple, on the other hand, has barely made any 
+modifications to iOS to take advantage of the big screen. Certain apps 
+can display an iPad-style sidebar in landscape mode, and the landscape 
+keyboard has a few extra shortcut keys on either side. That's about it -
+ everything else is simply iOS as we already know it, just a whole lot 
+bigger. Apps which haven't been optimised look quite comical, but even 
+the OS seems to be uncomfortable in its new role. There's far too much 
+white space in some places, and things are too big in others. For
+ the sake of consistency across products, Apple has decided not to add 
+functionality or change the layout of things such as the Control Centre 
+and Music app. There isn't even an extra numerical row on the keyboard (though third-party solutions are now available). 
+Within many apps, there is more content where it can be accommodated. 
+You can see multiple columns in the App Store, Safari's Reader View is a
+ lot more useful, and most apps can be used in either portrait or 
+landscape mode even if that isn't possible on regular-sized iPhones.Most of the best software touches are thanks to iOS 8, and are not exclusive to the iPhone 6 Plus. These include app extensions for better multitasking and sharing, Notification Centre widgets for information at a glance, iTunes account family sharing, the Health app for tracking physical activity and nutrition, and plenty of other little tweaks and improvements that all iOS users can enjoy.The one concession is Reachability - a new gesture that cleverly pulls everything on screen about halfway down for a few moments so you can reach buttons or links without stretching your thumbs too much. You have to lightly double-tap the Touch ID sensor to trigger it. It isn't always quicker or more practical than simply reaching out a finger, since you're balancing this phone in two hands all the time anyway.  Third-party
+ apps are a mixed bag - those that have been updated are all right, but 
+older ones just look ridiculous. Most games look great and videos of 
+course benefit the most. Ebooks in flexible formats and even static PDF 
+pages are a lot easier to handle. Pages, Numbers, Keynote, Garage Band 
+and iMovie are all easier, and in some ways more rewarding, to use.It
+ seems as though there's a lot of missed opportunity here, and we 
+wouldn't be surprised to see Apple venture further out of its comfort 
+zone in the future. Much like basic functionality was added to the 
+original iPhone over the course of several years, Apple might be taking a
+ cautious approach and easing in to things in this new product category.Still,
+ that doesn't help anyone who is considering buying an iPhone 6 Plus 
+here and now. iOS is by nature more restricted than Android, and the 
+gulf now feels a lot worse. Put simply, Android options have an edge in 
+terms of functionality, while the big iPhone is pretty much just a big 
+iPhone.CameraiPhones have always had good cameras, and 
+Apple has prided itself on improving quality each year even if the 
+resolution stays static. The emphasis this time is on video - continuous
+ stabilisation and autofocus are new, and slow-mo can now be switched 
+between 120fps and 240fps. Apple also promises quicker autofocus 
+locking, improved colour accuracy and low-light performance. The iPhone 6
+ Plus stands apart from its smaller sibling in that it supports optical 
+image stabilisation - the lens actively moves to compensate for slight 
+vibrations and shaky hands. (Click to see full size)Apple has never given users much 
+control over camera settings, but that has changed a little with the 
+iPhone 6 generation and iOS 8. There are more controls on screen than 
+ever before, and others are less obvious. You can tap and hold to lock 
+the focus, but exposure can still be adjusted independently by tapping a
+ slider that appears. There's very little to say about the app - you 
+might prefer third-party alternatives if you like having lots of 
+controls at your disposal.(Click to see full size)The size and shape of the iPhone 6 Plus
+ make it comfortable to hold while taking photos. The thick screen 
+borders give you enough space to put your thumbs while framing shots. We
+ enjoyed playing with the slow-mo and time lapse modes but, predictably,
+ our results weren't anywhere near as impressive as Apple's demo videos.
+ (Click to see full size)Surprisingly, Apple hasn't bothered supporting 4K video - it 
+probably doesn't believe users should want such functionality and has 
+never allowed users to choose between image and video size options. This
+ puts Apple firmly behind its competitors, and is especially 
+disappointing since Apple has used 4K video to show off the capabilities
+ and screens of its recent Macs. Anyway, it's unlikely that you'd be 
+able to record much 4K video on anything less than the 128GB model.(Click to see full size)Image
+ quality really did impress us. We were very pleased with the iPhone 6 
+Plus's camera in low light as well as daylight. Subjects consistently 
+looked natural and details were excellent, with low noise. Subtle 
+textures and colour gradients came out without suffering too much 
+compression. On some occasions, we did feel that the 8-megapixel 
+resolution prevented us from resizing and cropping images in ways we 
+might have liked. For most people though, photos are only ever going to 
+be seen as-is on a phone, tablet or PC screen.(Click to see full size)PerformanceThe
+ iPhone 6 Plus's specifications might not look competitive on paper, but
+ the real world is a different story altogether. This phone is 
+screamingly fast and it doesn't have any problem keeping up with Android
+ flagships. The UI is fluid, apps load quickly, and performance is 
+pretty much never a problem. We tried a few games such as Asphalt 8 and 
+Infinity Blade II and were very pleased with the results. Graphics look 
+incredible - we tried the Zen Garden demo which takes advantage of 
+Apple's new Metal API for graphics, and were impressed yet again. Benchmark
+ scores were mostly good - 3DMark's Ice Storm and Ice Storm Extreme 
+tests were both maxed out, and we got a score of 18,101 in Ice Storm 
+Unlimited which is just a little higher than what the Sony Xperia Z3 (Review | Photos) 
+managed, but lower than the HTC One (M8)'s score. Another graphics 
+benchmark, GFXbench, returned a very good score of 40.9fps. SunSpider 
+posted an extraordinarily low time of 366.1ms. The iOS version of AnTuTu
+ gave us a shockingly good score - 49,353 - but it shouldn't be compared
+ directly to the results of Android phones, and in fact the app wasn't 
+optimised and detected the screen resolution as 640x1136 which makes us 
+slightly discount this result.Videos play well although sound is a
+ little underwhelming. It's loud and doesn't distort, but is also quite 
+lifeless. We were much happier with sound through a headset than through
+ the single mono speaker on the iPhone's bottom - it's high time Apple 
+did something about this. The screen is phenomenal at any angle. 
+It can get really bright and there's no problem using it outdoors in the
+ middle of the day. All in all, we can't blame Apple for choosing 
+1080x1920 over something higher - the problems with screen scaling are 
+all to do with software, not the screen itself.Battery life was 
+also on the high side. We managed to play our test video in a loop for 
+11 hours, 4 minutes before the phone shut itself down automatically. 
+This means it should be possible to get more than a full day's use out 
+of this phone, including a bit of gaming.  VerdictThere 
+are plenty of people who will love the iPhone 6 Plus because they've 
+always wanted a larger iPhone. There are also those who have never 
+understood big phones and will not find any reason to if they use this 
+one. Apple is in someone else's shadow for the first time, and it shows -
+ the vision just isn't as clear as it should be. There's a lot that 
+needs to be done, especially in terms of software, to make this product 
+more useful. It might take Apple a while to get it right, in which case 
+we might as well wait for next year's inevitable refresh.For most
+ people, it will be hard to decide between the iPhone 6 and the iPhone 6
+ Plus. Price is definitely a factor, but the two are nearly identical in
+ every way other than physical size. You don't lose any bragging rights 
+by choosing the iPhone 6, which is still a lot bigger than its 
+predecessors. You really don't have to jump all the way up to the big 
+model just to get the best one. We strongly suggest trying both at a 
+retail store to see which is more comfortable. If you really want
+ to get good use out of an iPhone 6 Plus, we'd recommend paying 
+more up front for at least the 64GB version. If you have basic needs but
+ like the idea of a big phone that's easier to hold and type on, 16GB 
+will do. In either case, there are plenty of options on the Android side
+ of the fence - Samsung, for example, caters to the former group with 
+its Galaxy Note series and to the latter with its Galaxy Grand series, 
+and both are a lot less expensive.So what is the appeal of 
+Apple's first giant phone after all is considered? It's a great device 
+if you're looking to replace your handheld gaming console, video camera,
+ tablet and smartphone with a single unit, and in that sense, it's a 
+more attractive product than the iPhone 6. However, you don't always 
+want to carry all those things around, and the iPhone 6 Plus will make 
+you feel as though you're doing exactly that. Apple iPhone 6 Plus in pictures
+
+The iPhone 6 Plus breaks a lot of the rules and defies a lot of the 
+logic that Apple has stuck to for a number of years. It's a copycat 
+device, it chases a market that the company did not create for itself, 
+it introduces fragmentation in a previously restrained product lineup, 
+and it doesn't immediately give you the sense that you need to own one. 
+In short, it's the most un-Apple-like Apple product we've seen in a 
+very, very long time. 
+
+The famously selective company (many would 
+call it arrogant) repeatedly dismissed and even ridiculed the idea of 
+outsized smartphones for many years; defying industry trends and 
+sticking with a smaller shape that was easy to use in one hand despite 
+an obvious shift in the market. In the past, Apple has been defined by 
+its refusal to participate in such "bubble" markets and has instead 
+created its own - it suffered endless criticism for being the only PC 
+manufacturer to never have offered a netbook, but then proceeded to 
+destroy that entire product category by introducing the iPad and 
+defining the future of touch-first portable devices.
+
+Now, that 
+philosophy seems to have been discarded completely. Apple has done a 180
+ and is now chasing a market created by one of its fiercest rivals.
+ The iPhone 6 Plus is many years late to the phablet party - Apple 
+couches this by saying it only makes moves when it knows it's ready with
+ something truly brilliant, but it isn't hard to see this as a very 
+reactionary product. In fact, this is one of the rare Apple products 
+that will be defined by its competitors. Apple seems confident that the 
+iPhone 6 Plus will work against the Samsung Galaxy Note 4, LG G3 (Review | Photos) and 
+others in this size class. Let's see if that holds true, or if Apple 
+will come out of this battle looking like a sore loser.
+
+Look and FeelThe
+ iPhone 6 Plus is pretty much identical to the iPhone 6 in terms of 
+styling and proportions, but is of course larger. It's significantly 
+bigger than the iPhone 5s and absolutely towers over the 4S and earlier models - anyone who
+ has used an iPhone before will be a little thrown by its sheer size. 
+It's just awkward; like a teenager who's had a sudden growth spurt. It 
+fits in a trouser pocket but you'll always feel it there when walking 
+around.
+
+Competitors in the Android space have moved to on-screen 
+controls and minimal bezels - the idea being that all attention should 
+be focused on the screen. That isn't the case here - there's a lot of 
+space both above and below the screen, necessitated by the physical Home
+ button with its integrated Touch ID sensor.
+
+What does work for 
+the iPhone 6 Plus is how it feels. Apple hasn't in any way reduced the 
+amount of attention it pays to physical, material and construction 
+quality. The curved aluminium sides and rounded corners are a departure 
+from the iPhone 5- and 4-series, and feel better in the hand. The glass 
+front extends right to the edges and is also curved to meet the 
+aluminium frame - this makes it one of the most comfortable phones to 
+hold up to your ear, but leaves us slightly worried about potential 
+shattering if the phone is ever dropped.
+
+The iPhone 6 Plus is also
+ amazingly thin. It isn't all that light, but the weight is very nicely 
+balanced. The power button has been moved to the right edge, which is 
+another touch pioneered by competitors. Everything else is the same as 
+before - volume and mute controls on the left, SIM card tray on the 
+right, and headset socket, Lightning port and speaker cutout on the 
+bottom.
+
+Around the sides and back, you'll see plastic lines 
+framing the top and bottom of the phone, which are necessary to let the 
+various antennas work through the metal body. This is the only part of 
+the device that looks a little ugly - not such a huge crime, but 
+disappointing by Apple standards. Also on the back is the now-famous 
+protruding camera, which isn't as prominent as it is on the 
+regular-sized iPhone 6. We felt it catch on things in our pocket once or
+ twice, but otherwise it was a non-issue.
+
+SpecificationsApple
+ doesn't say much about the exact specifications of its new A8 
+processor, other than the fact that it's 64-bit and works alongside a 
+dedicated motion co-processor (the M8) so that sensor input can be 
+processed constantly without wasting power. Benchmark apps report that 
+the CPU has two cores, and speculation online pins the speed at 1.4GHz. 
+Apple prefers talking about power efficiency, and we know that despite 
+the transistor count increasing to two billion, the 20nm manufacturing 
+process brings about significant improvements to battery life. In terms 
+of CPU specifications alone, the A8 pales in comparison to Qualcomm's 
+flagship Snapdragon 800 series. There's 1GB of RAM, which, again, is 
+well below the 3GB standard of modern Android flagships. We'll just have
+ to let the benchmark tests decide how much difference these things 
+make.
+
+The iPhone 6 Plus is defined by its screen, though again 
+we're dealing with specs that seem inferior to the competition. The 
+"Retina HD" display has a resolution of 1080x1920 pixels, which was 
+standard for other, smaller flagship phones over a year ago, and has 
+made its way down to quite a few budget models as well now.  We've seen 
+better in terms of sharpness, but we are still impressed with the iPhone
+ 6 Plus in terms of colour accuracy, brightness and vibrancy.
+
+Apple
+ continues its stubborn refusal to allow storage expansion. The 16GB 
+model costs Rs. 62,500 which is not a small amount by any standard, but 
+you'll still be constrained in terms of apps, games, music, movies, 
+photos and recorded videos. It's ridiculous to have a huge screen, 
+powerful processor and brilliant camera but not be able to do anything 
+with them. You'll have to shell out at least another Rs. 9,000 for the 
+64GB model which makes at least some amount of sense. Of all the ways in
+ which Apple should have emulated its competition, we can't think of a more tragic missed opportunity.
+
+New to the iPhone 6 generation is a 
+barometer which allows the M8 co-processor to detect changes in 
+elevation and better track physical activity. There's also NFC, though 
+it works only with the Apple Pay system has only just launched in the US
+ and is not available anywhere else yet. Wi-Fi has been updated to the 
+faster ac standard and more LTE bands are supported (the variant sold 
+here also works with the Indian 2300MHz band). 
+
+Software and the big screenOnce
+ again, Samsung's Galaxy Note series jumps to mind as the obvious point 
+of comparison, thanks to features that let you run apps side by side, 
+trigger commands with a stylus, multitask, and do dozens of other handy 
+little things. Samsung could even be accused of going overboard, but the
+ fact is that it recognises how many different things you can do with a 
+big, powerful Android device. LG, Sony, HTC and others aren't far behind
+ either.
+
+Apple, on the other hand, has barely made any 
+modifications to iOS to take advantage of the big screen. Certain apps 
+can display an iPad-style sidebar in landscape mode, and the landscape 
+keyboard has a few extra shortcut keys on either side. That's about it -
+ everything else is simply iOS as we already know it, just a whole lot 
+bigger. Apps which haven't been optimised look quite comical, but even 
+the OS seems to be uncomfortable in its new role. There's far too much 
+white space in some places, and things are too big in others. 
+
+For
+ the sake of consistency across products, Apple has decided not to add 
+functionality or change the layout of things such as the Control Centre 
+and Music app. There isn't even an extra numerical row on the keyboard (though third-party solutions are now available). 
+Within many apps, there is more content where it can be accommodated. 
+You can see multiple columns in the App Store, Safari's Reader View is a
+ lot more useful, and most apps can be used in either portrait or 
+landscape mode even if that isn't possible on regular-sized iPhones.
+
+Most of the best software touches are thanks to iOS 8, and are not exclusive to the iPhone 6 Plus. These include app extensions for better multitasking and sharing, Notification Centre widgets for information at a glance, iTunes account family sharing, the Health app for tracking physical activity and nutrition, and plenty of other little tweaks and improvements that all iOS users can enjoy.
+
+The one concession is Reachability - a new gesture that cleverly pulls everything on screen about halfway down for a few moments so you can reach buttons or links without stretching your thumbs too much. You have to lightly double-tap the Touch ID sensor to trigger it. It isn't always quicker or more practical than simply reaching out a finger, since you're balancing this phone in two hands all the time anyway.  
+
+Third-party
+ apps are a mixed bag - those that have been updated are all right, but 
+older ones just look ridiculous. Most games look great and videos of 
+course benefit the most. Ebooks in flexible formats and even static PDF 
+pages are a lot easier to handle. Pages, Numbers, Keynote, Garage Band 
+and iMovie are all easier, and in some ways more rewarding, to use.
+
+It
+ seems as though there's a lot of missed opportunity here, and we 
+wouldn't be surprised to see Apple venture further out of its comfort 
+zone in the future. Much like basic functionality was added to the 
+original iPhone over the course of several years, Apple might be taking a
+ cautious approach and easing in to things in this new product category.
+
+Still,
+ that doesn't help anyone who is considering buying an iPhone 6 Plus 
+here and now. iOS is by nature more restricted than Android, and the 
+gulf now feels a lot worse. Put simply, Android options have an edge in 
+terms of functionality, while the big iPhone is pretty much just a big 
+iPhone.
+
+CameraiPhones have always had good cameras, and 
+Apple has prided itself on improving quality each year even if the 
+resolution stays static. The emphasis this time is on video - continuous
+ stabilisation and autofocus are new, and slow-mo can now be switched 
+between 120fps and 240fps. Apple also promises quicker autofocus 
+locking, improved colour accuracy and low-light performance. The iPhone 6
+ Plus stands apart from its smaller sibling in that it supports optical 
+image stabilisation - the lens actively moves to compensate for slight 
+vibrations and shaky hands. 
+
+(Click to see full size)
+
+Apple has never given users much 
+control over camera settings, but that has changed a little with the 
+iPhone 6 generation and iOS 8. There are more controls on screen than 
+ever before, and others are less obvious. You can tap and hold to lock 
+the focus, but exposure can still be adjusted independently by tapping a
+ slider that appears. There's very little to say about the app - you 
+might prefer third-party alternatives if you like having lots of 
+controls at your disposal.
+
+(Click to see full size)
+
+The size and shape of the iPhone 6 Plus
+ make it comfortable to hold while taking photos. The thick screen 
+borders give you enough space to put your thumbs while framing shots. We
+ enjoyed playing with the slow-mo and time lapse modes but, predictably,
+ our results weren't anywhere near as impressive as Apple's demo videos.
+ 
+
+(Click to see full size)
+
+Surprisingly, Apple hasn't bothered supporting 4K video - it 
+probably doesn't believe users should want such functionality and has 
+never allowed users to choose between image and video size options. This
+ puts Apple firmly behind its competitors, and is especially 
+disappointing since Apple has used 4K video to show off the capabilities
+ and screens of its recent Macs. Anyway, it's unlikely that you'd be 
+able to record much 4K video on anything less than the 128GB model.
+
+(Click to see full size)
+
+Image
+ quality really did impress us. We were very pleased with the iPhone 6 
+Plus's camera in low light as well as daylight. Subjects consistently 
+looked natural and details were excellent, with low noise. Subtle 
+textures and colour gradients came out without suffering too much 
+compression. On some occasions, we did feel that the 8-megapixel 
+resolution prevented us from resizing and cropping images in ways we 
+might have liked. For most people though, photos are only ever going to 
+be seen as-is on a phone, tablet or PC screen.
+
+(Click to see full size)
+
+PerformanceThe
+ iPhone 6 Plus's specifications might not look competitive on paper, but
+ the real world is a different story altogether. This phone is 
+screamingly fast and it doesn't have any problem keeping up with Android
+ flagships. The UI is fluid, apps load quickly, and performance is 
+pretty much never a problem. We tried a few games such as Asphalt 8 and 
+Infinity Blade II and were very pleased with the results. Graphics look 
+incredible - we tried the Zen Garden demo which takes advantage of 
+Apple's new Metal API for graphics, and were impressed yet again. 
+
+Benchmark
+ scores were mostly good - 3DMark's Ice Storm and Ice Storm Extreme 
+tests were both maxed out, and we got a score of 18,101 in Ice Storm 
+Unlimited which is just a little higher than what the Sony Xperia Z3 (Review | Photos) 
+managed, but lower than the HTC One (M8)'s score. Another graphics 
+benchmark, GFXbench, returned a very good score of 40.9fps. SunSpider 
+posted an extraordinarily low time of 366.1ms. The iOS version of AnTuTu
+ gave us a shockingly good score - 49,353 - but it shouldn't be compared
+ directly to the results of Android phones, and in fact the app wasn't 
+optimised and detected the screen resolution as 640x1136 which makes us 
+slightly discount this result.
+
+Videos play well although sound is a
+ little underwhelming. It's loud and doesn't distort, but is also quite 
+lifeless. We were much happier with sound through a headset than through
+ the single mono speaker on the iPhone's bottom - it's high time Apple 
+did something about this. 
+
+The screen is phenomenal at any angle. 
+It can get really bright and there's no problem using it outdoors in the
+ middle of the day. All in all, we can't blame Apple for choosing 
+1080x1920 over something higher - the problems with screen scaling are 
+all to do with software, not the screen itself.
+
+Battery life was 
+also on the high side. We managed to play our test video in a loop for 
+11 hours, 4 minutes before the phone shut itself down automatically. 
+This means it should be possible to get more than a full day's use out 
+of this phone, including a bit of gaming.  
+
+VerdictThere 
+are plenty of people who will love the iPhone 6 Plus because they've 
+always wanted a larger iPhone. There are also those who have never 
+understood big phones and will not find any reason to if they use this 
+one. Apple is in someone else's shadow for the first time, and it shows -
+ the vision just isn't as clear as it should be. There's a lot that 
+needs to be done, especially in terms of software, to make this product 
+more useful. It might take Apple a while to get it right, in which case 
+we might as well wait for next year's inevitable refresh.
+
+For most
+ people, it will be hard to decide between the iPhone 6 and the iPhone 6
+ Plus. Price is definitely a factor, but the two are nearly identical in
+ every way other than physical size. You don't lose any bragging rights 
+by choosing the iPhone 6, which is still a lot bigger than its 
+predecessors. You really don't have to jump all the way up to the big 
+model just to get the best one. We strongly suggest trying both at a 
+retail store to see which is more comfortable. 
+
+If you really want
+ to get good use out of an iPhone 6 Plus, we'd recommend paying 
+more up front for at least the 64GB version. If you have basic needs but
+ like the idea of a big phone that's easier to hold and type on, 16GB 
+will do. In either case, there are plenty of options on the Android side
+ of the fence - Samsung, for example, caters to the former group with 
+its Galaxy Note series and to the latter with its Galaxy Grand series, 
+and both are a lot less expensive.
+
+So what is the appeal of 
+Apple's first giant phone after all is considered? It's a great device 
+if you're looking to replace your handheld gaming console, video camera,
+ tablet and smartphone with a single unit, and in that sense, it's a 
+more attractive product than the iPhone 6. However, you don't always 
+want to carry all those things around, and the iPhone 6 Plus will make 
+you feel as though you're doing exactly that.
+

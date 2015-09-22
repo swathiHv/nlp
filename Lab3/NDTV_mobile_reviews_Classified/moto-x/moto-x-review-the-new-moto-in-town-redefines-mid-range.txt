@@ -1,0 +1,609 @@
+Moto X review: The new Moto in town redefines mid-range
+
+Motorola seems to be targeting the price-conscious smartphone market 
+with a vengeance. We already know that the budget Moto G has set cash 
+registers ringing around the world, but Motorola hasn't taken its eyes 
+off the mid-range smartphone market either.Less than two months after
+ the release of the Moto G, comes the company's flagship, the Moto X. 
+The newest member of the Motorola family is squarely aimed at delivering
+ more in terms software, camera, and design without compromising on 
+performance.When Motorola first announced 
+the Moto X in August last year following its acquisition by Google, it 
+seemed as though the company wanted to position this mid-range device as
+ a premium offering, relying more on design than hardware 
+specifications.The Moto X has only now made its way to the Indian
+ market, while people overseas are talking of its successor. Thankfully,
+ Motorola has priced it quite reasonably. If it wants to win back any of the market share 
+it has lost in recent years, this is a good way to begin.Motorola
+ was once known for its ability to churn out solidly built handsets that
+ performed and did not cost the Earth. The Moto X 
+is a blast from that 
+glorious past, with some neat OS features thrown in as well. Will the 
+Moto X be able to revive the mid-range segment? We try to find out.Look and feelThere's
+ clearly a family resemblance between the Moto X and Moto G. The Moto X 
+isn't a successor or variant, however, and was actually the first new 
+device launched by Motorola under its new leadership; months before the 
+Moto G. In our case, the
+ G came first, so we inevitably wind up comparing the X to it.The
+ Moto X certainly has a premium look, when compared to the Moto G which 
+has a thicker profile.The Moto X features a body made out of PET 
+composite, a durable plastic; although feels rugged and is surprisingly 
+lightweight.Our review unit was white, but this handset is also 
+available in Black, Red, Royal Blue, and Turquoise. It's worth 
+mentioning that Flipkart, the exclusive e-commerce partner of Motorola in India, is also 
+selling the Moto X with two wood finishes: Teak and Walnut. The 
+Moto X set a new standard and identity for Motorola's design, which was 
+followed by the Moto G. However, the Moto X is different from its 
+cheaper sibling in a few ways. It's definitely sleeker, measuring 
+129.3x65.3x10.4mm compared to 129.9x65.9x11.6mm for the Moto G. At 130 
+grams, the Moto X is also lighter than the Moto G (143 grams). The
+ front face is almost completely bare of any physical buttons or 
+branding. With the screen off, you can just about see the edges of the 
+screen that dominates the front panel. Above the screen, there's a 
+rather prominent earpiece grille alongside the regular assortment of 
+sensors, and a clearly visible front camera.The Moto X's front 
+panel is dominated by a 4.7-inch screen, which is only marginally bigger
+ than 4.5-inch one on the Moto G. The front panel features a strip of 
+glass around the screen that visually differentiates the plastic front 
+and rear panels.Unfortunately, the back panel on the Moto X is 
+not swappable, as it is on the Moto G. The curved rear panel is made of a
+ polycarbonate material, and is comfortable to hold. Notably, the rear 
+panel has a pattern to it, though it is not actually textured.The
+ rear panel houses the primary camera accompanied by an LED flash and 
+the loudspeaker grille. A Motorola logo is also embossed in the middle.The
+ key advantage here is ergonomics-the Moto X is easy to hold and use 
+with a single hand. The volume and power buttons are all in same 
+configuration as on the Moto G. The former Google-owned company seemed 
+to have focused more on the device's width rather than its height, 
+thanks to which the Moto X is actually easier to hold one-handed and 
+it's also possible to reach most of the screen with just a thumb.  Much
+ like the Moto G, the Moto X has also used a nano-coating that acts as 
+light water repellent. This does not make the Moto X a waterproof 
+device, but it does protect the smartphone from light splashes of 
+liquids, which is an interesting touch for a smartphone in any segment. 
+The sides have the Nano-SIM slot, volume rocker, and power key.The
+ Moto X impressed us with its slim, compact body. You get a feeling of 
+awe when you hold the Moto X in your hands. This phone radiates 
+understated class.Features and softwareThe most 
+interesting thing about the Moto X is that despite using an out-of-date 
+Qualcomm Snapdragon S4 Pro SoC, the device manages to chug along just 
+fine. This 1.7GHz dual-core CPU is coupled with a quad-core Adreno 320 
+GPU, and what Motorola calls a 'natural language processor' and a 
+'contextual computing processor'. Motorola calls this combination the X8
+ Mobile Computing System.The purpose of these dedicated 
+application processors is to allow the Moto X to constantly listen for 
+voice commands and manage notifications without wasting power. The Moto X
+ is thus definitely an example for those who have the wrong perception 
+that more cores are better.It comes with 2GB of RAM onboard, and 
+there is 16GB of inbuilt storage, out of which only 11GB is 
+user-accessible. Sadly, like most Google devices, the Moto X does not 
+support expandable storage. Considering that the Moto X comes at a 
+mid-range price, the limited storage on the device is definitely a major
+ gripe for us. Motorola is offering 50GB of Google Drive space 
+free for two years; however, cloud storage requires a fast Internet 
+connection with a generous download limit, so this doesn't impress us 
+much.The Moto X features a 4.7-inch AMOLED display with 
+resolution of 720x1280 pixels and offers a pixel density of 316ppi. The 
+company has also used Corning Gorilla Glass on the device to give it 
+strength.The AMOLED screen on the Moto X was able to show full 
+colours and deep blacks like many of Samsung's high-end Galaxy 
+smartphones which also have AMOLED screens. Colours on the Moto X are 
+quite vibrant and consistently reproduced well. Thankfully, viewing 
+angles are never a problem. The display is not very reflective and 
+visibility under the sun was acceptable. Text on the Moto X was 
+always crisp and clear against white backgrounds. Typing on the 4.7-inch
+ touchscreen would be comfortable for most people, and there's always 
+Swype for those with extremely large hands. After using the device for 
+some time we feel that although it doesn't comes with a full-HD display,
+ 316ppi is more than enough for a screen of this size.The Moto X 
+is a single-SIM phone with 3G but no LTE support. Connectivity options 
+include Bluetooth 4.0 LE, Wi-Fi 802.11a/g/b/n/ac, GPS/AGPS, EDGE/GPRS 
+and 3G (HSPA+).One of the highlights of the Moto X when it 
+launched abroad was its customisability. Buyers could choose from up to 
+18 rear panels, different colour accents for the ring around the camera 
+lens, accents around the volume and power buttons, and have a personal 
+message etched at the back of the phone. However, this option is not 
+available in India. You'll have to choose from a few basic colour 
+combinations offered by Flipkart.The Moto X comes running Android
+ 4.2.2 Jelly Bean; however the company rolled out an update to Android 
+4.4.2 KitKat in November last year. Much like Google's Nexus devices, 
+the Moto X uses a stock build of the operating system, without any 
+additional UI skinning. Notably, the Moto X features on-screen keys for 
+Back, Home and Recents.Thanks to the Android 4.4 KitKat, the Moto
+ X features a number of visual changes including a new launcher, making 
+the interface even more minimalistic. The first noticeable change in the
+ UI is the transparent status bar and navigation key area at the top and
+ bottom, which is reminiscent of the Nexus 5. The Moto X's lock 
+screen features a small camera button that can launch the camera app 
+directly.Unfortunately the Moto X ships with an older app drawer 
+that shows a second tab for widgets, unlike the new launcher on Nexus 5,
+ which only features app icons.Notifications on the Moto X can be
+ expanded by pulling down with two fingers. There are also quick 
+shortcuts for brightness, Wi-Fi, network, battery status, airplane mode,
+ Bluetooth, and location settings.The Moto X features the 
+revamped Phone app that now automatically prioritises contacts based on 
+how often you talk to them. The Moto X also includes a new Photos app 
+that lets you to see and edit local and Google+ images. The new Photos 
+app features deeper integration with Google+ and can be used to enable 
+tagging in photos. The old Gallery app is still included as well. The 
+Email app on the Moto X is an overhauled version, which now displays the
+ pictures of contacts for emails.The Moto X also features Google 
+Now, which can be launched by swiping up from the home button. For those
+ unaware, Google Now is voice-based information assistant and an 
+extension of Google search. It shows cards, which are essentially small 
+boxes, which show different sets of information like a weather forecast,
+ directions, traffic information, scores, appointments, currency 
+conversions, etc.Some of the Google apps that come preloaded on 
+the Moto X include Google Drive, Keep, Play Games, Play Movies, Play 
+Music, Play Books, Play Newsstand and Quickoffice for creating and 
+editing documents, spreadsheets and presentations. Android 4.4 KitKat 
+has also added the Print option to the Moto X. You can print documents 
+through the Google Cloud Print plug-in, or via apps made by printer 
+manufacturers.In addition, Motorola preloads two other major apps
+ on the Moto X. Motorola Migrate can help move the contents of an old 
+Android phone to your new Moto X. Motorola Assist allow users to silence
+ the device while sleeping or driving. We tried it out, and noted that 
+the app automatically rejected calls and sent a text message to callers 
+at times when we told it we were busy.The Moto X with its Android
+ 4.4.2 KitKat OS is one of the most modern smartphones available in the 
+mid-segment in India, perfectly sandwiched by the higher-priced Nexus 5 
+and cheaper Moto G.Active Display, Quick Capture and Touchless ControlThe
+ real power behind Motorola's first device under Google, the Moto X, is 
+not its hardware but the software that runs on it. The Moto X features 
+Touchless Control, Quick Capture and Active Display, three features 
+which make it unique in its segment. As teased by Motorola, 
+Touchless Control means "Moto X responds to your voice, no touching 
+necessary. And you can ask it just about anything."The feature was first
+ seen in Google Glass and then in voice search on Chrome. It lets users 
+control the phone with simple voice commands prefixed with "Okay, 
+Google." Touchless Control also lets users access Google Now, 
+which is a voice-based assistant. The interesting bit is that you don't 
+need to touch the phone or take it out of your pocket. If enabled, it 
+always actively listens to the user and follows commands.Touchless
+ Control needs to be enabled in the settings. During the short setup 
+process, the phone needs to record samples of your voice for 
+recognition. After this, you can perform various tasks using voice 
+commands, just as long as there's an active Internet connection at all 
+times.Another feature is Active Display, which Motorola touts as a
+ new way to glance at the updates on your smartphone. AMOLED screens can
+ selectively light up small areas without affecting the device's battery
+ life much. This feature was earlier seen in some Nokia phones. You can 
+see notifications for messages, calls and other events, as well as the 
+current time, without having to unlock the phone.Lastly, the Moto
+ X features Quick Capture, which is a shake gesture that directly 
+launches the phone's camera app. You can just shake the phone twice to 
+turn on the camera to capture something spontaneously. CameraMotorola
+ made a big deal at the Moto X's global launch and claimed that its RGBC
+ feature in the primary camera can increase light sensitivity up to 75 
+percent. The 'C' in RGBC stands for Clear Pixel.The Moto X sports
+ a 10-megapixel rear camera which packs 1.34-micron sized pixels, which 
+is considerably large when compared to some 13-megapixel sensors found 
+in similarly priced handsets. The camera app on the Moto X, much 
+like the Moto G, is not stock and adds a bit of flavour to the otherwise
+ vanilla OS. It has a circular control bar that pops out from the left 
+of the screen when tapped. It includes features such as 4X 
+digital zoom, slow motion video, burst mode, auto HDR mode, geo-tagging,
+ panorama, and tap to focus. The Moto X's burst mode allows users to 
+take up to 99 shots at once; users just need to long-press the shutter 
+release key on screen to start shooting. There are no ISO and exposure 
+control settings on the Moto X, a feature that we missed on the Moto G 
+as well.Many compare the Moto X's camera with the one found on 
+the Nexus 5. However, a big difference is OIS (optical image 
+stabilization) - the X doesn't include it. We did limited testing
+ of the Moto X camera in outdoor, dim and indoor conditions and found 
+that images taken outdoors during daylight came out well except that 
+colours were a little over-saturated, and at times had noise at the 
+edges of objects. You can also see missing details if you zoom in to an 
+image, especially on taken in low-light conditions. Other than that, we 
+found the quality of the images captured by the Moto X taken in 
+sufficient light to be satisfactory. The same could not be said 
+for indoor and low-light shots. Quality did drop and pictures looked 
+softer than those taken in well-lit situations. Videos recorded on the 
+Moto X top out at full-HD (1080p) with at 30 frames per second indoors 
+and outdoors. Quality is comparatively better in outdoor conditions. The
+ 2-megapixel front-facing camera shouldn't be relied on for anything 
+other than occasional self-portraits. PerformanceThe Moto X
+ could easily handle games like Temple Run 2 and Subway Surfers which 
+are not that graphically heavy, but things get a bit choppy when playing
+ games like Dead Trigger 2, which has higher graphics and processing 
+requirements.On the sound front, the Moto X impressed us much 
+like the Moto G. You can play music loud enough to fill a small room. 
+However, the sound tends to distort at the highest volume level. 
+Obviously, we don't expect anyone to use their phone as a replacement 
+for a bigger music player.The 4.7-inch HD AMOLED display is good 
+for viewing movies and videos. The device was able to play full-HD 
+videos and supported all popular video file formats. Call quality
+ on the Moto X was impressive and the device was able to latch on to 
+cellular networks even in weak signal areas which came in handy at 
+times.When it comes to performance in our benchmarks, the Moto X 
+was quite impressive, especially the graphics and gaming tests. We 
+achieved scores of 22,360 in AnTuTu, and 8,339overall in Quadrant. 
+3DMark's 720p Ice Storm Extreme scenario returned a score of 7,159 
+points, while GFXBench managed to run at 25.3fps. The benchmark scores 
+definitely indicate a better balance of power between graphics and core 
+processing than we are used to seeing.The Moto X ships with a 
+2,200mAh non-removable battery that the company claims can deliver up to
+ 24 hours of mixed usage; although based on our battery rundown test the
+ Moto X delivered less-than-stellar results. We were able to get 
+about 6-7 hours with heavy usage on the Moto X, which included full 
+screen brightness, 3G turned on all time; clicking some casual shots; 
+Web browsing for about an hour; a few calls lasting for about an hour; 
+and the usual notifications for messages, emails, Facebook, Hike and 
+WhatsApp. With more moderate usage, the Moto X delivered 8-9 hours. This
+ included Wi-Fi switched on all the time, brightness level set on auto, 
+with the same level of usage.VerdictWe had reviewed the 
+Moto G (Review) and can 
+attest to the fact that the Moto X runs much, much faster and smoother. 
+Tasks like games, image editing and even routine switching between apps 
+happen quicker.The camera is not very inspiring, and battery 
+performance could have been better. However, the Moto X with its unique 
+software enhancements still comes out looking like a winner.It 
+might not be a game changer with its specifications, as there are now 
+devices which boast octa-core processors and higher resolution screens, 
+but the Moto X is definitely a contender in the mid-range segment. That 
+said, it comes with a stiff price tag of Rs. 23,999 which puts it against
+ some tough competition. Those looking for alternatives can 
+consider the Gionee Elife E7 Mini which packs a 
+rotating camera, an octa-core processor and is available at a lower 
+price than the Moto X. One can also go for Samsung's refreshed Galaxy 
+Grand 2 (Review). Those looking for a bigger screen can go for Sony's Xperia T2 Ultra (Review)
+ available at the same price as Moto X, or wait for the HTC Desire 816. Moto X in pictures
+
+Less than two months after
+ the release of the Moto G, comes the company's flagship, the Moto X. 
+The newest member of the Motorola family is squarely aimed at delivering
+ more in terms software, camera, and design without compromising on 
+performance.
+
+When Motorola first announced 
+the Moto X in August last year following its acquisition by Google, it 
+seemed as though the company wanted to position this mid-range device as
+ a premium offering, relying more on design than hardware 
+specifications.
+
+The Moto X has only now made its way to the Indian
+ market, while people overseas are talking of its successor. Thankfully,
+ Motorola has priced it quite reasonably. If it wants to win back any of the market share 
+it has lost in recent years, this is a good way to begin.
+
+Motorola
+ was once known for its ability to churn out solidly built handsets that
+ performed and did not cost the Earth. The Moto X 
+is a blast from that 
+glorious past, with some neat OS features thrown in as well. Will the 
+Moto X be able to revive the mid-range segment? We try to find out.
+
+Look and feelThere's
+ clearly a family resemblance between the Moto X and Moto G. The Moto X 
+isn't a successor or variant, however, and was actually the first new 
+device launched by Motorola under its new leadership; months before the 
+Moto G. In our case, the
+ G came first, so we inevitably wind up comparing the X to it.
+
+The
+ Moto X certainly has a premium look, when compared to the Moto G which 
+has a thicker profile.The Moto X features a body made out of PET 
+composite, a durable plastic; although feels rugged and is surprisingly 
+lightweight.
+
+Our review unit was white, but this handset is also 
+available in Black, Red, Royal Blue, and Turquoise. It's worth 
+mentioning that Flipkart, the exclusive e-commerce partner of Motorola in India, is also 
+selling the Moto X with two wood finishes: Teak and Walnut. 
+
+The 
+Moto X set a new standard and identity for Motorola's design, which was 
+followed by the Moto G. However, the Moto X is different from its 
+cheaper sibling in a few ways. It's definitely sleeker, measuring 
+129.3x65.3x10.4mm compared to 129.9x65.9x11.6mm for the Moto G. At 130 
+grams, the Moto X is also lighter than the Moto G (143 grams). 
+
+The
+ front face is almost completely bare of any physical buttons or 
+branding. With the screen off, you can just about see the edges of the 
+screen that dominates the front panel. Above the screen, there's a 
+rather prominent earpiece grille alongside the regular assortment of 
+sensors, and a clearly visible front camera.
+
+The Moto X's front 
+panel is dominated by a 4.7-inch screen, which is only marginally bigger
+ than 4.5-inch one on the Moto G. The front panel features a strip of 
+glass around the screen that visually differentiates the plastic front 
+and rear panels.
+
+Unfortunately, the back panel on the Moto X is 
+not swappable, as it is on the Moto G. The curved rear panel is made of a
+ polycarbonate material, and is comfortable to hold. Notably, the rear 
+panel has a pattern to it, though it is not actually textured.
+
+The
+ rear panel houses the primary camera accompanied by an LED flash and 
+the loudspeaker grille. A Motorola logo is also embossed in the middle.
+
+The
+ key advantage here is ergonomics-the Moto X is easy to hold and use 
+with a single hand. The volume and power buttons are all in same 
+configuration as on the Moto G. The former Google-owned company seemed 
+to have focused more on the device's width rather than its height, 
+thanks to which the Moto X is actually easier to hold one-handed and 
+it's also possible to reach most of the screen with just a thumb.  
+
+Much
+ like the Moto G, the Moto X has also used a nano-coating that acts as 
+light water repellent. This does not make the Moto X a waterproof 
+device, but it does protect the smartphone from light splashes of 
+liquids, which is an interesting touch for a smartphone in any segment. 
+The sides have the Nano-SIM slot, volume rocker, and power key.
+
+The
+ Moto X impressed us with its slim, compact body. You get a feeling of 
+awe when you hold the Moto X in your hands. This phone radiates 
+understated class.
+
+Features and softwareThe most 
+interesting thing about the Moto X is that despite using an out-of-date 
+Qualcomm Snapdragon S4 Pro SoC, the device manages to chug along just 
+fine. This 1.7GHz dual-core CPU is coupled with a quad-core Adreno 320 
+GPU, and what Motorola calls a 'natural language processor' and a 
+'contextual computing processor'. Motorola calls this combination the X8
+ Mobile Computing System.
+
+The purpose of these dedicated 
+application processors is to allow the Moto X to constantly listen for 
+voice commands and manage notifications without wasting power. The Moto X
+ is thus definitely an example for those who have the wrong perception 
+that more cores are better.
+
+It comes with 2GB of RAM onboard, and 
+there is 16GB of inbuilt storage, out of which only 11GB is 
+user-accessible. Sadly, like most Google devices, the Moto X does not 
+support expandable storage. Considering that the Moto X comes at a 
+mid-range price, the limited storage on the device is definitely a major
+ gripe for us. 
+
+Motorola is offering 50GB of Google Drive space 
+free for two years; however, cloud storage requires a fast Internet 
+connection with a generous download limit, so this doesn't impress us 
+much.
+
+The Moto X features a 4.7-inch AMOLED display with 
+resolution of 720x1280 pixels and offers a pixel density of 316ppi. The 
+company has also used Corning Gorilla Glass on the device to give it 
+strength.
+
+The AMOLED screen on the Moto X was able to show full 
+colours and deep blacks like many of Samsung's high-end Galaxy 
+smartphones which also have AMOLED screens. Colours on the Moto X are 
+quite vibrant and consistently reproduced well. Thankfully, viewing 
+angles are never a problem. The display is not very reflective and 
+visibility under the sun was acceptable. 
+
+Text on the Moto X was 
+always crisp and clear against white backgrounds. Typing on the 4.7-inch
+ touchscreen would be comfortable for most people, and there's always 
+Swype for those with extremely large hands. After using the device for 
+some time we feel that although it doesn't comes with a full-HD display,
+ 316ppi is more than enough for a screen of this size.
+
+The Moto X 
+is a single-SIM phone with 3G but no LTE support. Connectivity options 
+include Bluetooth 4.0 LE, Wi-Fi 802.11a/g/b/n/ac, GPS/AGPS, EDGE/GPRS 
+and 3G (HSPA+).
+
+One of the highlights of the Moto X when it 
+launched abroad was its customisability. Buyers could choose from up to 
+18 rear panels, different colour accents for the ring around the camera 
+lens, accents around the volume and power buttons, and have a personal 
+message etched at the back of the phone. However, this option is not 
+available in India. You'll have to choose from a few basic colour 
+combinations offered by Flipkart.
+
+The Moto X comes running Android
+ 4.2.2 Jelly Bean; however the company rolled out an update to Android 
+4.4.2 KitKat in November last year. Much like Google's Nexus devices, 
+the Moto X uses a stock build of the operating system, without any 
+additional UI skinning. Notably, the Moto X features on-screen keys for 
+Back, Home and Recents.
+
+Thanks to the Android 4.4 KitKat, the Moto
+ X features a number of visual changes including a new launcher, making 
+the interface even more minimalistic. The first noticeable change in the
+ UI is the transparent status bar and navigation key area at the top and
+ bottom, which is reminiscent of the Nexus 5. The Moto X's lock 
+screen features a small camera button that can launch the camera app 
+directly.
+
+Unfortunately the Moto X ships with an older app drawer 
+that shows a second tab for widgets, unlike the new launcher on Nexus 5,
+ which only features app icons.
+
+Notifications on the Moto X can be
+ expanded by pulling down with two fingers. There are also quick 
+shortcuts for brightness, Wi-Fi, network, battery status, airplane mode,
+ Bluetooth, and location settings.
+
+The Moto X features the 
+revamped Phone app that now automatically prioritises contacts based on 
+how often you talk to them. The Moto X also includes a new Photos app 
+that lets you to see and edit local and Google+ images. The new Photos 
+app features deeper integration with Google+ and can be used to enable 
+tagging in photos. The old Gallery app is still included as well. The 
+Email app on the Moto X is an overhauled version, which now displays the
+ pictures of contacts for emails.
+
+The Moto X also features Google 
+Now, which can be launched by swiping up from the home button. For those
+ unaware, Google Now is voice-based information assistant and an 
+extension of Google search. It shows cards, which are essentially small 
+boxes, which show different sets of information like a weather forecast,
+ directions, traffic information, scores, appointments, currency 
+conversions, etc.
+
+Some of the Google apps that come preloaded on 
+the Moto X include Google Drive, Keep, Play Games, Play Movies, Play 
+Music, Play Books, Play Newsstand and Quickoffice for creating and 
+editing documents, spreadsheets and presentations. Android 4.4 KitKat 
+has also added the Print option to the Moto X. You can print documents 
+through the Google Cloud Print plug-in, or via apps made by printer 
+manufacturers.
+
+In addition, Motorola preloads two other major apps
+ on the Moto X. Motorola Migrate can help move the contents of an old 
+Android phone to your new Moto X. Motorola Assist allow users to silence
+ the device while sleeping or driving. We tried it out, and noted that 
+the app automatically rejected calls and sent a text message to callers 
+at times when we told it we were busy.
+
+The Moto X with its Android
+ 4.4.2 KitKat OS is one of the most modern smartphones available in the 
+mid-segment in India, perfectly sandwiched by the higher-priced Nexus 5 
+and cheaper Moto G.
+
+Active Display, Quick Capture and Touchless ControlThe
+ real power behind Motorola's first device under Google, the Moto X, is 
+not its hardware but the software that runs on it. The Moto X features 
+Touchless Control, Quick Capture and Active Display, three features 
+which make it unique in its segment. 
+
+As teased by Motorola, 
+Touchless Control means "Moto X responds to your voice, no touching 
+necessary. And you can ask it just about anything."The feature was first
+ seen in Google Glass and then in voice search on Chrome. It lets users 
+control the phone with simple voice commands prefixed with "Okay, 
+Google." 
+
+Touchless Control also lets users access Google Now, 
+which is a voice-based assistant. The interesting bit is that you don't 
+need to touch the phone or take it out of your pocket. If enabled, it 
+always actively listens to the user and follows commands.
+
+Touchless
+ Control needs to be enabled in the settings. During the short setup 
+process, the phone needs to record samples of your voice for 
+recognition. After this, you can perform various tasks using voice 
+commands, just as long as there's an active Internet connection at all 
+times.
+
+Another feature is Active Display, which Motorola touts as a
+ new way to glance at the updates on your smartphone. AMOLED screens can
+ selectively light up small areas without affecting the device's battery
+ life much. This feature was earlier seen in some Nokia phones. You can 
+see notifications for messages, calls and other events, as well as the 
+current time, without having to unlock the phone.
+
+Lastly, the Moto
+ X features Quick Capture, which is a shake gesture that directly 
+launches the phone's camera app. You can just shake the phone twice to 
+turn on the camera to capture something spontaneously. 
+
+CameraMotorola
+ made a big deal at the Moto X's global launch and claimed that its RGBC
+ feature in the primary camera can increase light sensitivity up to 75 
+percent. The 'C' in RGBC stands for Clear Pixel.
+
+The Moto X sports
+ a 10-megapixel rear camera which packs 1.34-micron sized pixels, which 
+is considerably large when compared to some 13-megapixel sensors found 
+in similarly priced handsets. 
+
+The camera app on the Moto X, much 
+like the Moto G, is not stock and adds a bit of flavour to the otherwise
+ vanilla OS. It has a circular control bar that pops out from the left 
+of the screen when tapped. 
+
+It includes features such as 4X 
+digital zoom, slow motion video, burst mode, auto HDR mode, geo-tagging,
+ panorama, and tap to focus. The Moto X's burst mode allows users to 
+take up to 99 shots at once; users just need to long-press the shutter 
+release key on screen to start shooting. There are no ISO and exposure 
+control settings on the Moto X, a feature that we missed on the Moto G 
+as well.
+
+Many compare the Moto X's camera with the one found on 
+the Nexus 5. However, a big difference is OIS (optical image 
+stabilization) - the X doesn't include it. 
+
+We did limited testing
+ of the Moto X camera in outdoor, dim and indoor conditions and found 
+that images taken outdoors during daylight came out well except that 
+colours were a little over-saturated, and at times had noise at the 
+edges of objects. You can also see missing details if you zoom in to an 
+image, especially on taken in low-light conditions. Other than that, we 
+found the quality of the images captured by the Moto X taken in 
+sufficient light to be satisfactory. 
+
+The same could not be said 
+for indoor and low-light shots. Quality did drop and pictures looked 
+softer than those taken in well-lit situations. Videos recorded on the 
+Moto X top out at full-HD (1080p) with at 30 frames per second indoors 
+and outdoors. Quality is comparatively better in outdoor conditions. The
+ 2-megapixel front-facing camera shouldn't be relied on for anything 
+other than occasional self-portraits. 
+
+PerformanceThe Moto X
+ could easily handle games like Temple Run 2 and Subway Surfers which 
+are not that graphically heavy, but things get a bit choppy when playing
+ games like Dead Trigger 2, which has higher graphics and processing 
+requirements.
+
+On the sound front, the Moto X impressed us much 
+like the Moto G. You can play music loud enough to fill a small room. 
+However, the sound tends to distort at the highest volume level. 
+Obviously, we don't expect anyone to use their phone as a replacement 
+for a bigger music player.
+
+The 4.7-inch HD AMOLED display is good 
+for viewing movies and videos. The device was able to play full-HD 
+videos and supported all popular video file formats. 
+
+Call quality
+ on the Moto X was impressive and the device was able to latch on to 
+cellular networks even in weak signal areas which came in handy at 
+times.
+
+When it comes to performance in our benchmarks, the Moto X 
+was quite impressive, especially the graphics and gaming tests. We 
+achieved scores of 22,360 in AnTuTu, and 8,339overall in Quadrant. 
+3DMark's 720p Ice Storm Extreme scenario returned a score of 7,159 
+points, while GFXBench managed to run at 25.3fps. The benchmark scores 
+definitely indicate a better balance of power between graphics and core 
+processing than we are used to seeing.
+
+The Moto X ships with a 
+2,200mAh non-removable battery that the company claims can deliver up to
+ 24 hours of mixed usage; although based on our battery rundown test the
+ Moto X delivered less-than-stellar results. 
+
+We were able to get 
+about 6-7 hours with heavy usage on the Moto X, which included full 
+screen brightness, 3G turned on all time; clicking some casual shots; 
+Web browsing for about an hour; a few calls lasting for about an hour; 
+and the usual notifications for messages, emails, Facebook, Hike and 
+WhatsApp. With more moderate usage, the Moto X delivered 8-9 hours. This
+ included Wi-Fi switched on all the time, brightness level set on auto, 
+with the same level of usage.
+
+VerdictWe had reviewed the 
+Moto G (Review) and can 
+attest to the fact that the Moto X runs much, much faster and smoother. 
+Tasks like games, image editing and even routine switching between apps 
+happen quicker.
+
+The camera is not very inspiring, and battery 
+performance could have been better. However, the Moto X with its unique 
+software enhancements still comes out looking like a winner.
+
+It 
+might not be a game changer with its specifications, as there are now 
+devices which boast octa-core processors and higher resolution screens, 
+but the Moto X is definitely a contender in the mid-range segment. That 
+said, it comes with a stiff price tag of Rs. 23,999 which puts it against
+ some tough competition. 
+
+Those looking for alternatives can 
+consider the Gionee Elife E7 Mini which packs a 
+rotating camera, an octa-core processor and is available at a lower 
+price than the Moto X. One can also go for Samsung's refreshed Galaxy 
+Grand 2 (Review). Those looking for a bigger screen can go for Sony's Xperia T2 Ultra (Review)
+ available at the same price as Moto X, or wait for the HTC Desire 816.
+

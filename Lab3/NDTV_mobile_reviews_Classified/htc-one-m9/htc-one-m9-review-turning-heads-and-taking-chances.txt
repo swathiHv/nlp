@@ -1,0 +1,332 @@
+HTC One M9+ Review: Turning Heads and Taking Chances
+
+HTC was still on 
+top of the Android game when it launched the original One back in 2013. 
+As the first Android flagship with a metal unibody, it was really the 
+only device that looked and felt as good as an iPhone, which of course 
+was the primary competition. Even so, there were missteps - most notably
+ the low-resolution Ultrapixel camera, which kept it from being a huge 
+success. Since then, the company has updated the line and 
+launched new models, but hasn't quite managed to replicate the appeal of
+ the original. Each time, something has held us back from wholeheartedly
+ liking HTC's efforts. Last year's HTC One (M8) (Review | Pictures) was hobbled by the 
+unsatisfactory Duo Camera feature, and other variants have been ugly, 
+plasticky and weak.HTC has now brought the One M9+ to India, 
+ahead of (or possibly instead of) the One M9. It has a larger screen, a 
+different processor, a fingerprint sensor and the Duo Camera feature 
+that was dropped from the M9. In that sense, it isn't necessarily better
+ or worse than the M9. We're curious to see how this phone stacks up.Look and feelWe
+ were expecting to be reminded of the HTC One Max (Review | Pictures), which was an 
+oversized but underwhelming plastic version of the original One, but HTC
+ has clearly learnt from that misstep. The One M9+ is all metal with a 
+premium two-tone finish. It's available in grey, gold, and silver-gold,
+ and we received the unique silver-gold version for review. HTC 
+sadly ditched its predecessors' unibody style, and the M9+ looks like two distinct 
+halves jammed together. There's a ridge where the front meets the rear, 
+which we couldn't stop running our fingers over. The front of our review
+ unit was dull silver all over, but the rear half is brushed silver on 
+the back and gold around the sides. We can't say we really like this 
+look - it stands out, but in a garish way. The two other variants are 
+likely to be much more popular.  Black glass extends right to the
+ sides of the front face, but the screen itself is smaller than this and
+ so appears to have black borders. Above and below it are HTC's 
+trademark BoomSound speaker grilles, though this time the one on the 
+bottom is broken up by the fingerprint sensor, which means the speaker 
+itself can't be as big or as centred. On top, the front-facing camera is
+ especially prominent.The Nano-SIM slot and microSD slot are on 
+the two sides, with the power and volume buttons in a line down the 
+right. For some reason, even though the buttons are all lower than usual, 
+HTC decided to put the power button on the bottom of the stack.
+ It's extremely annoying, falling neither near your thumb's natural 
+resting palce nor anywhere else you might hope to find it. It has a slight 
+texture but even then we found ourselves hitting the volume button by 
+mistake all the time. Luckily you can wake this phone from sleep by 
+using the fingerprint sensor, but even that placement is awkwardly low.The
+ Micro-USB and 3.5mm audio ports are on the bottom. The top is occupied 
+by a dark plastic  strip - the only plastic visible anywhere on this 
+phone - where the Infrared emitter and assorted antennas are housed, 
+helping them communicate through the metal body. The rear is pretty 
+nondescript apart from the twin cameras and dual-LED flash.The
+ HTC One M9+ is a little awkward to hold and its 168g weight feels a 
+little unbalanced. The curved back helps a lot, and at least it isn't 
+slippery like some other phones are. However the edges are just a bit 
+too sharp - stretching our thumbs to reach far parts of the screen was 
+uncomfortable, as was holding the phone to our ears.Specifications and softwareAs
+ opposed to the Qualcomm Snapdragon 810 SoC in the One M9, HTC went with
+ MediaTek for the M9+. The processor in question is the Helio X10, also 
+known as the MT6795T, with eight ARM Cortex-A53 cores based on the 
+64-bit ARMv8 instruction set, and an integrated PowerVR G6200 GPU.The
+ screen measures 5.2 inches diagonally and has an impressive resolution 
+of 1440x2560 pixels, compared to the One M9's 5-inch 1080x1920 offering.There's 3GB of RAM and 32GB of built-in storage which can be 
+expanded by up a whopping 2TB using a microSD card - though cards of 
+that capacity are highly unlikely to become available in all the years 
+you could own and use this phone. USB-OTG is also supported.There's
+ dual-band Wi-Fi b/g/n/ac, Bluetooth 4.1, Infrared, NFC, GPS and even FM
+ radio. 4G LTE is supported on the 2300MHz band used in India. The rear 
+20-megapixel camera is complemented by a secondary sensor for creative 
+3D effects, while the one in front inherits the Ultrapixel sensor 
+displaced from the One M9's predecessors. One thing that isn't 
+particularly impressive is the battery, which has a relatively ordinary 
+capacity of 2840mAh. There's a new version of HTC's Sense UI 
+running on top of Android 5.0.2. It doesn't look very different from 
+last year's version but there are some fresh touches, such as a themes 
+app and deeper customisation options. HTC has also integrated 
+location-specific app suggestions, BlinkFeed news items and alerts about
+ events and deals. There's a note-taking app called Scribble, Polaris 
+Office 5, Peel Smart Remote, Fun Fit, and assorted other HTC apps - 
+nothing too annoying. PerformanceWe spent quite a bit of 
+time using the HTC One M9+ but never quite managed to get used to the 
+fingerprint sensor. It's placed awkwardly and doesn't work too well if 
+your finger is at an angle. We also kept reaching for it instinctively 
+as if it was a Home button, and thankfully HTC realised this would 
+happen and mapped the sensor to replicate Home when the phone is on.You
+ don't need to swipe though, and setup is a breeze. After four failed 
+attempts the phone will fall back to the pin code or pattern that you 
+have to set as a backup. You can touch the sensor to wake the phone from
+ sleep and unlock it in a single motion, though there's a slight delay. 
+In any case it's still worlds ahead of the sensor on the HTC One Max in 
+terms of implementation. The screen is nice and crisp, with good 
+colour reproduction and decent viewing angles, though it is very 
+reflective. We had no trouble playing 1080p video clips, but what we 
+were really looking forward to was the BoomSound experience. Just like 
+its predecessor, the One Max, The One M9+ produced some of the loudest 
+sound we've ever heard coming out of a smartphone. Vocals in video clips
+ were crisp and projected well, while all kinds of music from classical 
+to EDM was handled well too. The sound is a bit tinny and there is 
+noticeable distortion at the peak volume level, but this is way better 
+than most phones can hope to achieve. The One M9+ did quite well 
+in terms of benchmarks. We achieved 51,670 points in AnTuTu and 27,401 
+overall in Quadrant, putting MediaTek's new processor on par with the 
+Qualcomm Snapdragon 805 in the Motorola Google Nexus 6 (Review | Pictures). Graphics scores 
+were weaker though, with only 12,300 in 3DMark Ice Storm Unlimited which
+ is roughly half of what the Nexus 6 got, and 8,549 in the Ice Storm 
+Extreme run which is usually maxed out even by much older phones at this
+ price level. Day-to-day use didn't give us any problems, but we 
+noticed that the phone got quite hot when stressed with benchmarks and 
+HD videos, and even when using the camera for a while. Call quality was 
+good, but battery life was very disappointing at only 5 hours, 33 
+minutes in our video loop test. We'd expect about a day's worth of 
+moderate usage from this phone, not more.CamerasWe were of
+ course curious to see how the Duo camera setup and front Ultrapixel 
+camera would fare, and if HTC had finally gotten its formula right after
+ years of experimentation. The app lets you switch between a Duo mode 
+and a High-res Mode, with the former using the second sensor to capture 
+additional depth information for later use.Frankly, we found no 
+use for the Duo Camera features at all. The One M9+ lets you change the 
+focus point after a shot has been taken by blurring out the foreground 
+or background, and has a few other tricks such as a faux 3D shift 
+effect, double exposure, shape and pattern overlays, and "face fusion" 
+which blends two faces. Pretty much all of them gave us poor results, 
+and several just seemed pointless.(Click to see full size)We weren't all that impressed 
+with the High-res mode either. Even when tapping in to the full 
+20-megapixel resolution, the One M9+ produced mediocre images with far 
+too much compression and a tendency to blow out brightly lit areas. Some
+ of the daylight shots looked great on the phone's screen, but showed 
+their flaws when seen on a large desktop monitor. There were blotchy 
+patches and textures simply did not translate. Low-light shots were 
+predictably worse, with tons of noise and poor subject definition.Video
+ was also disappointing despite being recorded at 1080p by default. We 
+also had to take the front camera for a spin - the default two-second 
+timer is a nice touch that lets you frame shots and look into the lens, 
+but the "beautification" algorithm is so terrible that we had to turn it
+ off. (Click to see full size)VerdictThe HTC One M9+ goes up against tough 
+competition, mostly in the form of Chinese phones that sell for half as 
+much but offer similar capabilities. Its looks will turn heads and it 
+feels really solid and hefty, but unfortunately it isn't outstandingly 
+good at anything. The Samsung Galaxy S6 (Review | Pictures) and iPhone 6 (Review | Pictures), for example, 
+outclass it in pretty much every department and are both selling for 
+quite a bit less. Contemporaries such as the Nexus 6 and Motorola Moto 
+Turbo (Review | Pictures) are also viable alternatives, as is the lower-priced Oneplus One (Review | Pictures)The
+ HTC One M9+ is good at looking good, but that's about where its appeal 
+ends for us. We were hoping for HTC to emerge from its experimental 
+phase with a winner, but that wasn't to be. Unless looks are your top 
+priority, chances are you'd be happier with one of the many available 
+alternatives. 
+
+Since then, the company has updated the line and 
+launched new models, but hasn't quite managed to replicate the appeal of
+ the original. Each time, something has held us back from wholeheartedly
+ liking HTC's efforts. Last year's HTC One (M8) (Review | Pictures) was hobbled by the 
+unsatisfactory Duo Camera feature, and other variants have been ugly, 
+plasticky and weak.
+
+HTC has now brought the One M9+ to India, 
+ahead of (or possibly instead of) the One M9. It has a larger screen, a 
+different processor, a fingerprint sensor and the Duo Camera feature 
+that was dropped from the M9. In that sense, it isn't necessarily better
+ or worse than the M9. We're curious to see how this phone stacks up.
+
+Look and feelWe
+ were expecting to be reminded of the HTC One Max (Review | Pictures), which was an 
+oversized but underwhelming plastic version of the original One, but HTC
+ has clearly learnt from that misstep. The One M9+ is all metal with a 
+premium two-tone finish. It's available in grey, gold, and silver-gold,
+ and we received the unique silver-gold version for review. 
+
+HTC 
+sadly ditched its predecessors' unibody style, and the M9+ looks like two distinct 
+halves jammed together. There's a ridge where the front meets the rear, 
+which we couldn't stop running our fingers over. The front of our review
+ unit was dull silver all over, but the rear half is brushed silver on 
+the back and gold around the sides. We can't say we really like this 
+look - it stands out, but in a garish way. The two other variants are 
+likely to be much more popular.  
+
+Black glass extends right to the
+ sides of the front face, but the screen itself is smaller than this and
+ so appears to have black borders. Above and below it are HTC's 
+trademark BoomSound speaker grilles, though this time the one on the 
+bottom is broken up by the fingerprint sensor, which means the speaker 
+itself can't be as big or as centred. On top, the front-facing camera is
+ especially prominent.
+
+The Nano-SIM slot and microSD slot are on 
+the two sides, with the power and volume buttons in a line down the 
+right. For some reason, even though the buttons are all lower than usual, 
+HTC decided to put the power button on the bottom of the stack.
+ It's extremely annoying, falling neither near your thumb's natural 
+resting palce nor anywhere else you might hope to find it. It has a slight 
+texture but even then we found ourselves hitting the volume button by 
+mistake all the time. Luckily you can wake this phone from sleep by 
+using the fingerprint sensor, but even that placement is awkwardly low.
+
+The
+ Micro-USB and 3.5mm audio ports are on the bottom. The top is occupied 
+by a dark plastic  strip - the only plastic visible anywhere on this 
+phone - where the Infrared emitter and assorted antennas are housed, 
+helping them communicate through the metal body. The rear is pretty 
+nondescript apart from the twin cameras and dual-LED flash.
+
+The
+ HTC One M9+ is a little awkward to hold and its 168g weight feels a 
+little unbalanced. The curved back helps a lot, and at least it isn't 
+slippery like some other phones are. However the edges are just a bit 
+too sharp - stretching our thumbs to reach far parts of the screen was 
+uncomfortable, as was holding the phone to our ears.
+
+Specifications and softwareAs
+ opposed to the Qualcomm Snapdragon 810 SoC in the One M9, HTC went with
+ MediaTek for the M9+. The processor in question is the Helio X10, also 
+known as the MT6795T, with eight ARM Cortex-A53 cores based on the 
+64-bit ARMv8 instruction set, and an integrated PowerVR G6200 GPU.
+
+The
+ screen measures 5.2 inches diagonally and has an impressive resolution 
+of 1440x2560 pixels, compared to the One M9's 5-inch 1080x1920 offering.There's 3GB of RAM and 32GB of built-in storage which can be 
+expanded by up a whopping 2TB using a microSD card - though cards of 
+that capacity are highly unlikely to become available in all the years 
+you could own and use this phone. USB-OTG is also supported.
+
+There's
+ dual-band Wi-Fi b/g/n/ac, Bluetooth 4.1, Infrared, NFC, GPS and even FM
+ radio. 4G LTE is supported on the 2300MHz band used in India. The rear 
+20-megapixel camera is complemented by a secondary sensor for creative 
+3D effects, while the one in front inherits the Ultrapixel sensor 
+displaced from the One M9's predecessors. One thing that isn't 
+particularly impressive is the battery, which has a relatively ordinary 
+capacity of 2840mAh.
+
+ 
+
+There's a new version of HTC's Sense UI 
+running on top of Android 5.0.2. It doesn't look very different from 
+last year's version but there are some fresh touches, such as a themes 
+app and deeper customisation options. HTC has also integrated 
+location-specific app suggestions, BlinkFeed news items and alerts about
+ events and deals. There's a note-taking app called Scribble, Polaris 
+Office 5, Peel Smart Remote, Fun Fit, and assorted other HTC apps - 
+nothing too annoying. 
+
+PerformanceWe spent quite a bit of 
+time using the HTC One M9+ but never quite managed to get used to the 
+fingerprint sensor. It's placed awkwardly and doesn't work too well if 
+your finger is at an angle. We also kept reaching for it instinctively 
+as if it was a Home button, and thankfully HTC realised this would 
+happen and mapped the sensor to replicate Home when the phone is on.
+
+You
+ don't need to swipe though, and setup is a breeze. After four failed 
+attempts the phone will fall back to the pin code or pattern that you 
+have to set as a backup. You can touch the sensor to wake the phone from
+ sleep and unlock it in a single motion, though there's a slight delay. 
+In any case it's still worlds ahead of the sensor on the HTC One Max in 
+terms of implementation. 
+
+The screen is nice and crisp, with good 
+colour reproduction and decent viewing angles, though it is very 
+reflective. We had no trouble playing 1080p video clips, but what we 
+were really looking forward to was the BoomSound experience. Just like 
+its predecessor, the One Max, The One M9+ produced some of the loudest 
+sound we've ever heard coming out of a smartphone. Vocals in video clips
+ were crisp and projected well, while all kinds of music from classical 
+to EDM was handled well too. The sound is a bit tinny and there is 
+noticeable distortion at the peak volume level, but this is way better 
+than most phones can hope to achieve. 
+
+The One M9+ did quite well 
+in terms of benchmarks. We achieved 51,670 points in AnTuTu and 27,401 
+overall in Quadrant, putting MediaTek's new processor on par with the 
+Qualcomm Snapdragon 805 in the Motorola Google Nexus 6 (Review | Pictures). Graphics scores 
+were weaker though, with only 12,300 in 3DMark Ice Storm Unlimited which
+ is roughly half of what the Nexus 6 got, and 8,549 in the Ice Storm 
+Extreme run which is usually maxed out even by much older phones at this
+ price level. 
+
+Day-to-day use didn't give us any problems, but we 
+noticed that the phone got quite hot when stressed with benchmarks and 
+HD videos, and even when using the camera for a while. Call quality was 
+good, but battery life was very disappointing at only 5 hours, 33 
+minutes in our video loop test. We'd expect about a day's worth of 
+moderate usage from this phone, not more.
+
+CamerasWe were of
+ course curious to see how the Duo camera setup and front Ultrapixel 
+camera would fare, and if HTC had finally gotten its formula right after
+ years of experimentation. The app lets you switch between a Duo mode 
+and a High-res Mode, with the former using the second sensor to capture 
+additional depth information for later use.
+
+Frankly, we found no 
+use for the Duo Camera features at all. The One M9+ lets you change the 
+focus point after a shot has been taken by blurring out the foreground 
+or background, and has a few other tricks such as a faux 3D shift 
+effect, double exposure, shape and pattern overlays, and "face fusion" 
+which blends two faces. Pretty much all of them gave us poor results, 
+and several just seemed pointless.
+
+(Click to see full size)
+
+We weren't all that impressed 
+with the High-res mode either. Even when tapping in to the full 
+20-megapixel resolution, the One M9+ produced mediocre images with far 
+too much compression and a tendency to blow out brightly lit areas. Some
+ of the daylight shots looked great on the phone's screen, but showed 
+their flaws when seen on a large desktop monitor. There were blotchy 
+patches and textures simply did not translate. Low-light shots were 
+predictably worse, with tons of noise and poor subject definition.
+
+Video
+ was also disappointing despite being recorded at 1080p by default. We 
+also had to take the front camera for a spin - the default two-second 
+timer is a nice touch that lets you frame shots and look into the lens, 
+but the "beautification" algorithm is so terrible that we had to turn it
+ off. 
+
+(Click to see full size)
+
+VerdictThe HTC One M9+ goes up against tough 
+competition, mostly in the form of Chinese phones that sell for half as 
+much but offer similar capabilities. Its looks will turn heads and it 
+feels really solid and hefty, but unfortunately it isn't outstandingly 
+good at anything. The Samsung Galaxy S6 (Review | Pictures) and iPhone 6 (Review | Pictures), for example, 
+outclass it in pretty much every department and are both selling for 
+quite a bit less. Contemporaries such as the Nexus 6 and Motorola Moto 
+Turbo (Review | Pictures) are also viable alternatives, as is the lower-priced Oneplus One (Review | Pictures)
+
+The
+ HTC One M9+ is good at looking good, but that's about where its appeal 
+ends for us. We were hoping for HTC to emerge from its experimental 
+phase with a winner, but that wasn't to be. Unless looks are your top 
+priority, chances are you'd be happier with one of the many available 
+alternatives.
+

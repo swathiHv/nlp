@@ -1,0 +1,281 @@
+Honor 6 Plus Review: A Photographer's Delight
+
+After
+ wowing quite a few critics with the Honor 6, Huawei's latest flagship, 
+Honor 6 Plus, is making all the noise now. The Honor 6 Plus' most 
+important feature is the trio of 8-megapixel cameras - two on the rear 
+and a front-facing one. In its marketing spiel, Honor, a new sub-brand of Huawei, claims 
+that the two parallel cameras on the rear can take better pictures than a
+ DSLR camera. While we are taking those words with more than 
+just a pinch of salt, we'd be very pleased if the Honor 6 Plus can take 
+better photos than other Android smartphones in the same price range. 
+Let's dive right in. Look and feelIf Huawei's last 
+flagship, Honor 6 (Review | Pictures), looked like the love child of the Apple iPhone 4 and the 
+Lava Iris Pro 30 (Review | Pictures), the Honor 6 Plus looks like a fusion of the iPhone 4 
+and Sony Xperia Z3 (Review | Pictures). Taking cues from the iPhone 4's design, which had a 
+glass back and metal edges, Huawei incorporates a similar design albeit 
+on the much larger body of the Honor 6 Plus. A metal trim runs around the
+ edges of the phone, and a sheet of glass is spread across the rear. In the same vein, the bottom of the phone has gentle curves 
+that remind us of the Sony Xperia Z3. The Honor 6 Plus is fairly
+ slim at 7.5mm but the weight of 165g is above average. However, 
+we like the heft as it is distributed evenly across the body. Thanks to 
+really slim bezels, holding the phone is not too difficult, although one-handed operation might take some effort. Despite being 
+protected by Corning's Gorilla Glass 3 on the rear, the glass back is 
+actually prone to scratches and could crack if the phone isn't handled 
+with care. We'd recommend using a case with this phone. The volume rocker
+ and power button reside on the right edge of the phone. The lack of a dedicated camera button on a phone 
+that claims to take great images feels like a missed opportunity.  Below the power
+ button are two trays, one for the Micro-SIM card and 
+another one that can accept either a Nano-SIM card or a microSD card. We received an early import from China for review, which simply did not recognise any Nano-SIM we inserted. Honor representatives told us that the Honor 6 Plus is marketed in India as a single-SIM device and units sold here will only work with one Micro-SIM. However, the company could not clarify whether the second tray will still have the same hybrid design and whether the markings explicitly describing it as a Nano-SIM tray will be visible as they are on our review sample. If this is not changed on units hitting the market here, customers are likely to be confused and frustrated. All other specifications of our test unit were consistent with what Honor is advertising in India.A
+ Micro-USB port sits on the bottom of the phone along with a microphone 
+for calls. The 3.5mm jack, infrared port and another microphone are 
+on the top. The rear houses the dual cameras, flash and the 
+speaker. The word 'honor' is also imprinted on the rear. The front 
+is dominated by the display and Huawei has placed the earpiece, 
+secondary camera, and notification LED above it. There are three 
+onscreen buttons - Recents, Home, and Back - for navigating through the 
+Android operating system. A nice trick is that Huawei allows users to 
+adjust this navigation bar according their preference. The 
+5.5-inch IPS LCD has a resolution of 1080x1920, which translates to a 
+pixel density of approximately 401ppi. The display is rich in colours 
+and is very vibrant too, but it doesn't get too bright. Thankfully, this doesn't really affect sunlight legibility. The 
+viewing angles are pretty decent too. Specifications and softwareThe
+ Honor 6 Plus uses a homegrown Hisilicon Kirin 925 octa-core SoC. The 
+Kirin 925 uses ARM's big.LITTLE architecture with four Cortex A7 cores clocked at 1.3GHz and another four 1.8GHz Cortex A15 cores. The integrated GPU is a Mali-T628 MP4. There is an ample 3GB of RAM and 32GB of 
+internal storage space on the Honor 6 Plus. The storage space can be 
+expanded up to 128GB using a microSD card. The Honor 6 
+Plus supports Indian LTE networks on the 2300MHz and 1800MHz frequency bands. Other connectivity options 
+include Bluetooth v4.0, Wi-Fi a/b/g/n, Wi-Fi Direct and NFC. The phone 
+has two 8-megapixel cameras on the rear which can be used in tandem to shoot a 
+composite 13-megapixel image. Moreover, using two cameras 
+Honor claims that more light can be captured for a better shot. We'll 
+check this out in the camera section of our review. Completing the trio is a front-facing 8-megapixel camera. There is a 
+3600mAh battery under the hood which provides the juice. The phone
+ runs Android 4.4.4 with the latest Emotion UI (EMUI) skin on 
+top. Honor has cleaned up EMUI to include flat icons and a pastel
+ colour palette, which is pleasing to the eye. The UI is also very 
+nimble now. The magazine-style lockscreen, which we first
+ saw in the Honor 6, is still present. There are a few software tweaks 
+which are pretty useful. We particularly liked the Ultra battery mode, 
+which only enables calls, messages and contacts. There is also an option
+ to use One-hand UI mode that shrinks the keyboard, navigation bar and 
+the phone UI to one corner of the screen. EMUI also includes a Suspend 
+button which sticks to the edges of the screen and replicates the 
+navigation bar on a half-wheel. We are unsure if the Suspend 
+button will really be useful for many people. On the other hand, Huawei 
+bundles useful third-party apps such as Kingsoft Office, Facebook and 
+Twitter. CameraThe parallel camera setup does actually result in good low-light images. We can safely say that 
+the Honor 6 Plus is the best Android phone to get in this price range if
+ you enjoy any sort of low-light photography. In fact, the Super 
+night mode in the camera app opens up the aperture and reduces the 
+shutter speed drastically. It works best if you can find a way to keep 
+the camera stable or on a tripod. However, the only problem with this 
+mode is that elements of the image merge into each other and this 
+creates a watercolour like effect. (Click for full size)In daylight shots, we saw that the camera can reproduce natural colours. We'd go as far as
+ to say it is almost as good as the Microsoft Lumia 830's camera. In comparison 
+with the Lumia 830, details are not as well-defined and there is some barrel distortion. The underlying software processing the 
+images however manages to keep noise at bare minimum levels. You can choose to save larger 13-megapixel images, which are created by the phone using both rear cameras in tandem. The dual cameras can 
+also be used together in the Wide aperture mode, which is something 
+similar to what we've seen in the Lytro range of cameras or HTC One 
+(M8)'s duo camera setup. In this mode, the large f/0.95 aperture of the 
+lens comes into play and this can be adjusted all the way down to 
+f/16. This works best when the subject and
+ the background are well-defined. You can create a nice bokeh effect 
+while taking shots, or recompose them after they have been captured. We
+preferred the latter approach since it gave us more control over the 
+areas we would like to focus on. (Click for full size)We captured a 1080p video but the lack of optical
+ image stabilisation meant that it was quite shaky. Also, our test video had some areas that were clearly 
+underexposed. The 8-megapixel front camera takes some very good selfies 
+but it had a problem with handling whites and tended to overexpose them. 
+That said, our test shots were well detailed and the beauty mode can 
+help fix blemishes. (Click for full size)PerformanceThe Honor 6 Plus was
+ a delight to use during the course of testing period because it worked 
+without any hiccups or stutter. In fact, the Kirin 925 processor is 
+tuned really well to work with EMUI  which explains the smooth frame 
+rate of page turn animations. Games like Asphalt 8 and Dead Trigger 2 
+ran smoothly and we didn't encounter any frame drops.  The phone scored a healthy 44,698 points in AnTuTu but the Quadrant score was below our expectations; the Honor 6 
+Plus managed to log only 11,922 in that test. The phone scored 14,110 points 
+in 3DMark Ice Storm Unlimited and 17fps in GFXbench - both 
+better than average scores. All our test videos, which included a heavily encoded 40Mbps sample, played without skipping frames or 
+artefacting. The loudspeaker is one of the low points of the phone as 
+it doesn't get loud enough and sounds tinny too. Similarly, the sound 
+quality through headphones isn't too good either. There is a DTS mode 
+and it only amplifies the sound, which is still not very loud without any change to the quality. We had a similar problem 
+with the Honor 6 as well. Huawei needs to sort this problem out soon. The
+ audio quality in calls is good but we faced call drops on more than one
+ occasion in areas where there was low signal strength. The phone lasted a good 
+11 hours and 26 minutes in our video loop battery test. This is a pretty good 
+figure and one should be able extract at least a day and a half on 
+moderate use out of the 3600mAh battery. VerdictWe had a 
+lot of fun using the Honor 6 Plus and peg it to be one of the better 
+Android phones we've reviewed in the recent past. The exceptional 
+performance of its dual rear cameras is an added advantage since 
+not many Android phones in the same price range can achieve that. Having
+ said that, the price tag of Rs. 26,499 puts it in an interesting spot 
+because the Samsung Galaxy S5 (Review | Pictures) has gone through multiple price revisions 
+and at around Rs. 27,000 it is a real bargain. Also, the Nokia Lumia 830 (Review | Pictures) in the same price range will tempt camera lovers. We'd recommend the 
+Honor 6 Plus to anyone who wants a phablet that can capture good 
+photographs but if that isn't the number one priority, there are great 
+alternatives such as the OnePlus One (Review | Pictures) and Motorola Moto X (Gen 2) (Review | Pictures). 
+Huawei Honor 6 Plus in pictures
+
+After
+ wowing quite a few critics with the Honor 6, Huawei's latest flagship, 
+Honor 6 Plus, is making all the noise now. The Honor 6 Plus' most 
+important feature is the trio of 8-megapixel cameras - two on the rear 
+and a front-facing one. 
+
+In its marketing spiel, Honor, a new sub-brand of Huawei, claims 
+that the two parallel cameras on the rear can take better pictures than a
+ DSLR camera. While we are taking those words with more than 
+just a pinch of salt, we'd be very pleased if the Honor 6 Plus can take 
+better photos than other Android smartphones in the same price range. 
+Let's dive right in. 
+
+Look and feelIf Huawei's last 
+flagship, Honor 6 (Review | Pictures), looked like the love child of the Apple iPhone 4 and the 
+Lava Iris Pro 30 (Review | Pictures), the Honor 6 Plus looks like a fusion of the iPhone 4 
+and Sony Xperia Z3 (Review | Pictures). Taking cues from the iPhone 4's design, which had a 
+glass back and metal edges, Huawei incorporates a similar design albeit 
+on the much larger body of the Honor 6 Plus. A metal trim runs around the
+ edges of the phone, and a sheet of glass is spread across the rear. In the same vein, the bottom of the phone has gentle curves 
+that remind us of the Sony Xperia Z3. 
+
+The Honor 6 Plus is fairly
+ slim at 7.5mm but the weight of 165g is above average. However, 
+we like the heft as it is distributed evenly across the body. Thanks to 
+really slim bezels, holding the phone is not too difficult, although one-handed operation might take some effort. Despite being 
+protected by Corning's Gorilla Glass 3 on the rear, the glass back is 
+actually prone to scratches and could crack if the phone isn't handled 
+with care. We'd recommend using a case with this phone. 
+
+The volume rocker
+ and power button reside on the right edge of the phone. The lack of a dedicated camera button on a phone 
+that claims to take great images feels like a missed opportunity.  Below the power
+ button are two trays, one for the Micro-SIM card and 
+another one that can accept either a Nano-SIM card or a microSD card. 
+
+We received an early import from China for review, which simply did not recognise any Nano-SIM we inserted. Honor representatives told us that the Honor 6 Plus is marketed in India as a single-SIM device and units sold here will only work with one Micro-SIM. However, the company could not clarify whether the second tray will still have the same hybrid design and whether the markings explicitly describing it as a Nano-SIM tray will be visible as they are on our review sample. If this is not changed on units hitting the market here, customers are likely to be confused and frustrated. All other specifications of our test unit were consistent with what Honor is advertising in India.
+
+A
+ Micro-USB port sits on the bottom of the phone along with a microphone 
+for calls. The 3.5mm jack, infrared port and another microphone are 
+on the top. The rear houses the dual cameras, flash and the 
+speaker. The word 'honor' is also imprinted on the rear. The front 
+is dominated by the display and Huawei has placed the earpiece, 
+secondary camera, and notification LED above it. There are three 
+onscreen buttons - Recents, Home, and Back - for navigating through the 
+Android operating system. A nice trick is that Huawei allows users to 
+adjust this navigation bar according their preference. 
+
+The 
+5.5-inch IPS LCD has a resolution of 1080x1920, which translates to a 
+pixel density of approximately 401ppi. The display is rich in colours 
+and is very vibrant too, but it doesn't get too bright. Thankfully, this doesn't really affect sunlight legibility. The 
+viewing angles are pretty decent too. 
+
+Specifications and softwareThe
+ Honor 6 Plus uses a homegrown Hisilicon Kirin 925 octa-core SoC. The 
+Kirin 925 uses ARM's big.LITTLE architecture with four Cortex A7 cores clocked at 1.3GHz and another four 1.8GHz Cortex A15 cores. The integrated GPU is a Mali-T628 MP4. There is an ample 3GB of RAM and 32GB of 
+internal storage space on the Honor 6 Plus. The storage space can be 
+expanded up to 128GB using a microSD card. 
+
+The Honor 6 
+Plus supports Indian LTE networks on the 2300MHz and 1800MHz frequency bands. Other connectivity options 
+include Bluetooth v4.0, Wi-Fi a/b/g/n, Wi-Fi Direct and NFC. The phone 
+has two 8-megapixel cameras on the rear which can be used in tandem to shoot a 
+composite 13-megapixel image. Moreover, using two cameras 
+Honor claims that more light can be captured for a better shot. We'll 
+check this out in the camera section of our review. Completing the trio is a front-facing 8-megapixel camera. There is a 
+3600mAh battery under the hood which provides the juice. 
+
+The phone
+ runs Android 4.4.4 with the latest Emotion UI (EMUI) skin on 
+top. Honor has cleaned up EMUI to include flat icons and a pastel
+ colour palette, which is pleasing to the eye. The UI is also very 
+nimble now. The magazine-style lockscreen, which we first
+ saw in the Honor 6, is still present. There are a few software tweaks 
+which are pretty useful. We particularly liked the Ultra battery mode, 
+which only enables calls, messages and contacts. There is also an option
+ to use One-hand UI mode that shrinks the keyboard, navigation bar and 
+the phone UI to one corner of the screen. EMUI also includes a Suspend 
+button which sticks to the edges of the screen and replicates the 
+navigation bar on a half-wheel. We are unsure if the Suspend 
+button will really be useful for many people. On the other hand, Huawei 
+bundles useful third-party apps such as Kingsoft Office, Facebook and 
+Twitter. 
+
+CameraThe parallel camera setup does actually result in good low-light images. We can safely say that 
+the Honor 6 Plus is the best Android phone to get in this price range if
+ you enjoy any sort of low-light photography. In fact, the Super 
+night mode in the camera app opens up the aperture and reduces the 
+shutter speed drastically. It works best if you can find a way to keep 
+the camera stable or on a tripod. However, the only problem with this 
+mode is that elements of the image merge into each other and this 
+creates a watercolour like effect. 
+
+(Click for full size)In daylight shots, we saw that the camera can reproduce natural colours. We'd go as far as
+ to say it is almost as good as the Microsoft Lumia 830's camera. In comparison 
+with the Lumia 830, details are not as well-defined and there is some barrel distortion. The underlying software processing the 
+images however manages to keep noise at bare minimum levels. You can choose to save larger 13-megapixel images, which are created by the phone using both rear cameras in tandem. 
+
+The dual cameras can 
+also be used together in the Wide aperture mode, which is something 
+similar to what we've seen in the Lytro range of cameras or HTC One 
+(M8)'s duo camera setup. In this mode, the large f/0.95 aperture of the 
+lens comes into play and this can be adjusted all the way down to 
+f/16. This works best when the subject and
+ the background are well-defined. You can create a nice bokeh effect 
+while taking shots, or recompose them after they have been captured. We
+preferred the latter approach since it gave us more control over the 
+areas we would like to focus on. 
+
+(Click for full size)We captured a 1080p video but the lack of optical
+ image stabilisation meant that it was quite shaky. Also, our test video had some areas that were clearly 
+underexposed. The 8-megapixel front camera takes some very good selfies 
+but it had a problem with handling whites and tended to overexpose them. 
+That said, our test shots were well detailed and the beauty mode can 
+help fix blemishes. 
+
+(Click for full size)PerformanceThe Honor 6 Plus was
+ a delight to use during the course of testing period because it worked 
+without any hiccups or stutter. In fact, the Kirin 925 processor is 
+tuned really well to work with EMUI  which explains the smooth frame 
+rate of page turn animations. Games like Asphalt 8 and Dead Trigger 2 
+ran smoothly and we didn't encounter any frame drops.  
+
+The phone scored a healthy 44,698 points in AnTuTu but the Quadrant score was below our expectations; the Honor 6 
+Plus managed to log only 11,922 in that test. The phone scored 14,110 points 
+in 3DMark Ice Storm Unlimited and 17fps in GFXbench - both 
+better than average scores. 
+
+All our test videos, which included a heavily encoded 40Mbps sample, played without skipping frames or 
+artefacting. The loudspeaker is one of the low points of the phone as 
+it doesn't get loud enough and sounds tinny too. Similarly, the sound 
+quality through headphones isn't too good either. There is a DTS mode 
+and it only amplifies the sound, which is still not very loud without any change to the quality. We had a similar problem 
+with the Honor 6 as well. Huawei needs to sort this problem out soon. 
+
+The
+ audio quality in calls is good but we faced call drops on more than one
+ occasion in areas where there was low signal strength. The phone lasted a good 
+11 hours and 26 minutes in our video loop battery test. This is a pretty good 
+figure and one should be able extract at least a day and a half on 
+moderate use out of the 3600mAh battery. 
+
+VerdictWe had a 
+lot of fun using the Honor 6 Plus and peg it to be one of the better 
+Android phones we've reviewed in the recent past. The exceptional 
+performance of its dual rear cameras is an added advantage since 
+not many Android phones in the same price range can achieve that. 
+
+Having
+ said that, the price tag of Rs. 26,499 puts it in an interesting spot 
+because the Samsung Galaxy S5 (Review | Pictures) has gone through multiple price revisions 
+and at around Rs. 27,000 it is a real bargain. Also, the Nokia Lumia 830 (Review | Pictures) in the same price range will tempt camera lovers. 
+
+We'd recommend the 
+Honor 6 Plus to anyone who wants a phablet that can capture good 
+photographs but if that isn't the number one priority, there are great 
+alternatives such as the OnePlus One (Review | Pictures) and Motorola Moto X (Gen 2) (Review | Pictures). 
+

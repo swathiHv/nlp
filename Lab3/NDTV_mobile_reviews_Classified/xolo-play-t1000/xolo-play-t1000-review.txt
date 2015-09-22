@@ -1,0 +1,354 @@
+Xolo Play T1000 Review
+
+Xolo, which makes budget Android smartphones, announced itself with a 
+bang with first Intel-powered smartphone in the world. After launching a
+ few other Intel-based phones, it launched Mediatek processor based 
+dual-core phones under the A series and quad-core phones under its Q 
+series.With the Xolo Play 
+T1000, Xolo becomes the 
+first Indian OEM to sell a phone featuring Nvidia's Tegra 3 processor and 
+is touting the device as a gaming smartphone.With this, Xolo now offers 
+phones based on different hardware across its various product lines. But 
+does the company do enough to carve a niche for itself in a very 
+competitive smartphone market? We find out in this review.Design/ BuildIf
+ you are among the few who insist on being seen with the snazziest 
+looking device in town, the Xolo Play will disappoint you.The phone 
+measures 70x138.4x10.4mm and weighs about 167 grams.The design of the 
+Xolo Play is simple, with no hardware buttons on the front panel. 
+However, the device has good build quality and doesn't feel plasticky.The
+ front of the phone is dominated by an all-glass panel that extends 
+right to the edges. Circling the front edge is a thin chrome strip that 
+adds to the aesthetics of the smartphone. There are three 
+capacitive buttons for Settings, Home and Back,which are backlit, but a 
+little too dim than usual. The rear panel is rubberised and helps in 
+offering a good grip. The button placement on the Xolo Play is 
+similar to other Android smartphones in the segment. The right edge has 
+the volume rocker and the power/ lock button, though we wished it could 
+feature a dedicated camera button, as well.The top panel has the 
+headphone jack and the Micro-USB slot, while the left is barren with no 
+keys,and the bottom edge features the microphone.We felt that the 
+positioning of the power/ lock button above the volume rocker key was a 
+trifle odd as we often ended up pressing the volume rocker button when we
+ wanted to unlock the device.Just above the display, we have the 
+earpiece grill, with the front-facing camera located to the right.The 
+back of our Black Xolo Play sports the rear-camera lens in the centre, 
+right above the LED flash and both are enclosed in a metallic frame.A 
+Xolo logo sits in the middle, with the bottom part featuring Nvidia Tegra
+ branding embossed along with the speaker grill at the bottom-left 
+corner.The back panel can be opened using a small crevice on the 
+bottom right corner of the phone. Removing the panel reveals the 2000mAh 
+battery covering the slots for the SIM cards, which are of regular size 
+and the microSD card.The battery needs to be removed to access the SIMs 
+and the memory card.The overall design of the Xolo Play is not an eyesore but is definitely not designed to turn heads and looks rather plain. DisplayThe
+ Xolo Play comes with a 4.7-inch HD display of 720x1280 pixels 
+resolution with One Glass Solution (OGS) Technology, translating to a 
+density of 312 pixels per inch. While that doesn't sound impressive when
+ compared to some high-end Android smartphones, the real life experience
+ is decent.Under sun visibility on the Xolo Play is above average
+ at full brightness levels and the screen used in this smartphone is 
+reflective. Colour reproduction and viewing angles on the IPS display 
+are not that bad.  We observed that the display of the smartphone picked
+ up smudges easily and is also a fingerprint magnet, we had a tough time
+ getting rid of them.Overall, while we sure wish the Xolo Play came with a full-HD display, we had no qualms about the quality of this one.CameraThe
+ Xolo Play sports an 8-megapixel rear camera with BSI (Back Side 
+Illumination) Sensor accompanied by an LED flash. The camera app on the 
+device is stock and does not feature many additional options. The images
+ clicked with the phone were not the sharpest and colours at times,seemed
+ just a bit washed out.We found the details in the images and noise well
+ under control,when there's plenty of light. However, the same cannot be 
+said for the low-light shots.The camera is also capable of 
+capturing videos at 720p HD resolution and even full-HD resolution, 
+though the videos turned out to be of average quality. One can also 
+click images while taking videos.The camera software lets you tweak a 
+few settings for still pictures like Scene mode (Auto, Night, Sunset), 
+ISO, White Balance, Face-detection and Focus Assist Light. There's no 
+Panorama mode.There is a 2-megapixel front camera, as well. The 
+front camera is good for video chats and for clicking self-portraits and 
+the quality is nothing to be written home about.Software/ InterfaceThe
+ Xolo Play runs Android 4.1.1 Jelly Bean out of the box. We were a bit 
+surprised to see the Xolo Play running an older version of Android.With 
+the hardware specifications it boasts of, we expected it to come with 
+Android 4.2 Jelly Bean.Xolo's other budget offering, the Xolo Q700 runs 
+Android 4.2 (Jelly Bean) out of the box.That said,the Xolo Play 
+packs in a fair deal in terms of software.The basic Android interface 
+has not been tampered with much, although the absence of hardware keys 
+means that you will have to depend on three soft buttons below the 
+display which light up whenever the display is in use to find your way 
+around, with the Home button also doubling up as an app switcher on long
+ press.The lock screen and the settings menu of the Xolo Play looks 
+pretty much like any other stock Android smartphone.Similar to most other Android devices, there are five customizable home screens on which you can drop widgets and app shortcuts.The
+ notification tray includes toggles for settings such as Wi-Fi, 
+Brightness, Rotation, Bluetooth, GPS, Data, Screen timeouts and profiles
+ (for alerts and other notifications). The notification tray also
+ features a shortcut for settings and a clear all notifications 
+shortcut, along with expandable notifications (expanded with the two 
+finger pull gesture). Android 4.1 Jelly Bean also brings in Google Now, 
+the handy virtual assistant.The Xolo Play comes with the usual 
+Android goodies like Gmail, Google Maps and Google Talkin addition to 
+some bundled apps like a file manager, a video player and a profile 
+manager. The device comes with few other pre-loaded applications such as 
+Facebook, News and Weather.One of the biggest advantages of the Nvidia 
+chipset is the access to Nvidia's Tegra Zone that offers a number of apps 
+and games optimised for the Tegra-powered devices.Of course, you can 
+always head over to the Google Play Store to get more apps.The 
+company has also bundled some of its own apps like Xolo Care, Xolo Power
+ and Xolo Secure on the Xolo Play. These apps were also found on 
+previously launched Xolo smartphones.The Xolo Care app lets you contact 
+customer care.The Xolo Power app can help manage the battery of the 
+smartphone. It shows the estimated battery backup time that the user 
+will get based on the applications that are currently running. It also 
+gives options to kill apps.It also offers a 'Low battery mode' that 
+disables Wi-Fi, cellular data, GPS, Bluetooth and also reduces screen 
+brightness to conserve the battery, when the battery is about to die.Xolo
+ Secure let you track and lock the smartphone in case its lost.Performance/ Battery LifeThe
+ highlight of the Xolo Play T1000 is its 1.5GHz quad-core NvidiaTegra3 
+processor with a 5th low-power core which is accompanied by a 12 Core 
+Nvidia ULP GeForce.The smartphone also packs in 1GB of RAM and 
+4GB of internal storage, out of which only 2.3GB is user accessible. 
+However, one can expand the storage up to 32GB with the help of a microSD
+ card.Without any doubts,the Xolo Play's specifications sound 
+quite acceptable on paper. But unfortunately, the same is not the case 
+in real life performance. We found the smartphone lagging in launching 
+some apps. Admittedly, the lag is not that consistent but considering 
+that an Nvidia quad-core processor backs the smartphone, it is quiet 
+disappointing.The company is promoting the device as a gaming smartphone and we found the Xolo Play performs quite well in that department.Playing
+ our usual list of games, including the optimised games for Tegra 3 
+devices, the smartphone fared well and we got a consistently decent 
+gaming experience. However, the biggest compromise for playing games for
+ longer periods on the smartphone is the battery backup. After a full 
+charge, when we started playing games on the smartphone it merely lasted
+ for 4 hours before we had to reach out for the charger.Call 
+quality on the Xolo Play was also decent.We were able to play full-HD 
+clips, with all formats including MOV and AVI being supported natively.The
+ Xolo Play comes with a 2000mAh battery, and in our usage, it would 
+last a full day. We charged the smartphone in the morning, and with 
+medium to heavy usage, including an hour of phone calls, two email 
+accounts configured, listening to some music, long hours of gaming 
+(Temple Run 2, Skiing Fred, Vector and Shadowgun), taking some casual 
+photographs and chat notifications, the phone lasted for 12-13 hours.It's
+ worth pointing out that we had turned on Wi-Fi and auto-brightness, and
+ the phone was also hooked to a 3G network with normal browsing. 
+Changing these settings may help in increasing the phone's battery life,
+ depending on your usage pattern.VerdictThe Xolo Play is a
+ phone that does the job without really excelling in any particular 
+aspect. It has decent performance, about average battery life and a 
+fairly stock Android experience. However, like most Android smartphones 
+in the price range, the camera is mediocre. But the biggest 
+disappointment is the fact that it Is still running Android 4.1, when 
+Android 4.3 is out and most competitors sport Android 4.2. Worse, there 
+is no upgrade path in sight.If you are looking for alternatives, 
+consider the Zen Ultrafone 701 HD or the Karbonn S5 Titanium. For 
+non-Android options, you can look at the Nokia Lumia 620. All three 
+phones are available at a discount compared to the Xolo Play. If you can
+ stretch your budget a bit, look at the excellent Nokia Lumia 720.Price: Rs. 15,999Xolo Play T1000: In pictures
+
+With the Xolo Play 
+T1000, Xolo becomes the 
+first Indian OEM to sell a phone featuring Nvidia's Tegra 3 processor and 
+is touting the device as a gaming smartphone.With this, Xolo now offers 
+phones based on different hardware across its various product lines. But 
+does the company do enough to carve a niche for itself in a very 
+competitive smartphone market? We find out in this review.
+
+Design/ Build
+
+If
+ you are among the few who insist on being seen with the snazziest 
+looking device in town, the Xolo Play will disappoint you.The phone 
+measures 70x138.4x10.4mm and weighs about 167 grams.The design of the 
+Xolo Play is simple, with no hardware buttons on the front panel. 
+However, the device has good build quality and doesn't feel plasticky.
+
+The
+ front of the phone is dominated by an all-glass panel that extends 
+right to the edges. Circling the front edge is a thin chrome strip that 
+adds to the aesthetics of the smartphone. There are three 
+capacitive buttons for Settings, Home and Back,which are backlit, but a 
+little too dim than usual. The rear panel is rubberised and helps in 
+offering a good grip. 
+
+The button placement on the Xolo Play is 
+similar to other Android smartphones in the segment. The right edge has 
+the volume rocker and the power/ lock button, though we wished it could 
+feature a dedicated camera button, as well.The top panel has the 
+headphone jack and the Micro-USB slot, while the left is barren with no 
+keys,and the bottom edge features the microphone.We felt that the 
+positioning of the power/ lock button above the volume rocker key was a 
+trifle odd as we often ended up pressing the volume rocker button when we
+ wanted to unlock the device.
+
+Just above the display, we have the 
+earpiece grill, with the front-facing camera located to the right.The 
+back of our Black Xolo Play sports the rear-camera lens in the centre, 
+right above the LED flash and both are enclosed in a metallic frame.A 
+Xolo logo sits in the middle, with the bottom part featuring Nvidia Tegra
+ branding embossed along with the speaker grill at the bottom-left 
+corner.
+
+The back panel can be opened using a small crevice on the 
+bottom right corner of the phone. Removing the panel reveals the 2000mAh 
+battery covering the slots for the SIM cards, which are of regular size 
+and the microSD card.The battery needs to be removed to access the SIMs 
+and the memory card.
+
+The overall design of the Xolo Play is not an eyesore but is definitely not designed to turn heads and looks rather plain. 
+
+Display
+
+The
+ Xolo Play comes with a 4.7-inch HD display of 720x1280 pixels 
+resolution with One Glass Solution (OGS) Technology, translating to a 
+density of 312 pixels per inch. While that doesn't sound impressive when
+ compared to some high-end Android smartphones, the real life experience
+ is decent.
+
+Under sun visibility on the Xolo Play is above average
+ at full brightness levels and the screen used in this smartphone is 
+reflective. Colour reproduction and viewing angles on the IPS display 
+are not that bad.  We observed that the display of the smartphone picked
+ up smudges easily and is also a fingerprint magnet, we had a tough time
+ getting rid of them.
+
+Overall, while we sure wish the Xolo Play came with a full-HD display, we had no qualms about the quality of this one.
+
+Camera
+
+The
+ Xolo Play sports an 8-megapixel rear camera with BSI (Back Side 
+Illumination) Sensor accompanied by an LED flash. The camera app on the 
+device is stock and does not feature many additional options. The images
+ clicked with the phone were not the sharpest and colours at times,seemed
+ just a bit washed out.We found the details in the images and noise well
+ under control,when there's plenty of light. However, the same cannot be 
+said for the low-light shots.
+
+The camera is also capable of 
+capturing videos at 720p HD resolution and even full-HD resolution, 
+though the videos turned out to be of average quality. One can also 
+click images while taking videos.The camera software lets you tweak a 
+few settings for still pictures like Scene mode (Auto, Night, Sunset), 
+ISO, White Balance, Face-detection and Focus Assist Light. There's no 
+Panorama mode.
+
+There is a 2-megapixel front camera, as well. The 
+front camera is good for video chats and for clicking self-portraits and 
+the quality is nothing to be written home about.
+
+Software/ Interface
+
+The
+ Xolo Play runs Android 4.1.1 Jelly Bean out of the box. We were a bit 
+surprised to see the Xolo Play running an older version of Android.With 
+the hardware specifications it boasts of, we expected it to come with 
+Android 4.2 Jelly Bean.Xolo's other budget offering, the Xolo Q700 runs 
+Android 4.2 (Jelly Bean) out of the box.
+
+That said,the Xolo Play 
+packs in a fair deal in terms of software.The basic Android interface 
+has not been tampered with much, although the absence of hardware keys 
+means that you will have to depend on three soft buttons below the 
+display which light up whenever the display is in use to find your way 
+around, with the Home button also doubling up as an app switcher on long
+ press.The lock screen and the settings menu of the Xolo Play looks 
+pretty much like any other stock Android smartphone.
+
+Similar to most other Android devices, there are five customizable home screens on which you can drop widgets and app shortcuts.
+
+The
+ notification tray includes toggles for settings such as Wi-Fi, 
+Brightness, Rotation, Bluetooth, GPS, Data, Screen timeouts and profiles
+ (for alerts and other notifications). 
+
+The notification tray also
+ features a shortcut for settings and a clear all notifications 
+shortcut, along with expandable notifications (expanded with the two 
+finger pull gesture). Android 4.1 Jelly Bean also brings in Google Now, 
+the handy virtual assistant.
+
+The Xolo Play comes with the usual 
+Android goodies like Gmail, Google Maps and Google Talkin addition to 
+some bundled apps like a file manager, a video player and a profile 
+manager. The device comes with few other pre-loaded applications such as 
+Facebook, News and Weather.One of the biggest advantages of the Nvidia 
+chipset is the access to Nvidia's Tegra Zone that offers a number of apps 
+and games optimised for the Tegra-powered devices.Of course, you can 
+always head over to the Google Play Store to get more apps.
+
+The 
+company has also bundled some of its own apps like Xolo Care, Xolo Power
+ and Xolo Secure on the Xolo Play. These apps were also found on 
+previously launched Xolo smartphones.The Xolo Care app lets you contact 
+customer care.
+
+The Xolo Power app can help manage the battery of the 
+smartphone. It shows the estimated battery backup time that the user 
+will get based on the applications that are currently running. It also 
+gives options to kill apps.It also offers a 'Low battery mode' that 
+disables Wi-Fi, cellular data, GPS, Bluetooth and also reduces screen 
+brightness to conserve the battery, when the battery is about to die.Xolo
+ Secure let you track and lock the smartphone in case its lost.
+
+Performance/ Battery Life
+
+The
+ highlight of the Xolo Play T1000 is its 1.5GHz quad-core NvidiaTegra3 
+processor with a 5th low-power core which is accompanied by a 12 Core 
+Nvidia ULP GeForce.
+
+The smartphone also packs in 1GB of RAM and 
+4GB of internal storage, out of which only 2.3GB is user accessible. 
+However, one can expand the storage up to 32GB with the help of a microSD
+ card.
+
+Without any doubts,the Xolo Play's specifications sound 
+quite acceptable on paper. But unfortunately, the same is not the case 
+in real life performance. We found the smartphone lagging in launching 
+some apps. Admittedly, the lag is not that consistent but considering 
+that an Nvidia quad-core processor backs the smartphone, it is quiet 
+disappointing.
+
+The company is promoting the device as a gaming smartphone and we found the Xolo Play performs quite well in that department.
+
+Playing
+ our usual list of games, including the optimised games for Tegra 3 
+devices, the smartphone fared well and we got a consistently decent 
+gaming experience. However, the biggest compromise for playing games for
+ longer periods on the smartphone is the battery backup. After a full 
+charge, when we started playing games on the smartphone it merely lasted
+ for 4 hours before we had to reach out for the charger.
+
+Call 
+quality on the Xolo Play was also decent.We were able to play full-HD 
+clips, with all formats including MOV and AVI being supported natively.
+
+The
+ Xolo Play comes with a 2000mAh battery, and in our usage, it would 
+last a full day. We charged the smartphone in the morning, and with 
+medium to heavy usage, including an hour of phone calls, two email 
+accounts configured, listening to some music, long hours of gaming 
+(Temple Run 2, Skiing Fred, Vector and Shadowgun), taking some casual 
+photographs and chat notifications, the phone lasted for 12-13 hours.It's
+ worth pointing out that we had turned on Wi-Fi and auto-brightness, and
+ the phone was also hooked to a 3G network with normal browsing. 
+Changing these settings may help in increasing the phone's battery life,
+ depending on your usage pattern.
+
+Verdict
+
+The Xolo Play is a
+ phone that does the job without really excelling in any particular 
+aspect. It has decent performance, about average battery life and a 
+fairly stock Android experience. However, like most Android smartphones 
+in the price range, the camera is mediocre. But the biggest 
+disappointment is the fact that it Is still running Android 4.1, when 
+Android 4.3 is out and most competitors sport Android 4.2. Worse, there 
+is no upgrade path in sight.
+
+If you are looking for alternatives, 
+consider the Zen Ultrafone 701 HD or the Karbonn S5 Titanium. For 
+non-Android options, you can look at the Nokia Lumia 620. All three 
+phones are available at a discount compared to the Xolo Play. If you can
+ stretch your budget a bit, look at the excellent Nokia Lumia 720.
+
+Price: Rs. 15,999
+

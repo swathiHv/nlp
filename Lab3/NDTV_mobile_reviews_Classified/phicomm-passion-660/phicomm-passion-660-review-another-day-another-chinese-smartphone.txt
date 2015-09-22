@@ -1,0 +1,262 @@
+Phicomm Passion 660 Review: Another Day, Another Chinese Smartphone
+
+From being comprehensively dominated by Nokia just a few years ago, the Indian mobile phone market has come a long 
+way. With the advent of smartphones, the market is now a free-for-all with a growing list 
+of players.With India on track to become the world's second largest 
+smartphone market by 2019,
+ everyone wants to get in on the action. A long list of Chinese companies are already present and well-established in India, including Xiaomi, 
+OnePlus, Lenovo, Huawei, Oppo, Coolpad, Gionee, Meizu, ZTE and Vivo. The
+ latest to join this list is Phicomm, a brand that we admittedly knew 
+very little about before its launch in India. Its first product is the 
+Rs. 10,999 Passion 660, which is being sold exclusively through Amazon 
+India. Does it offer the same 
+value for money that Indian consumers have come to expect from Chinese 
+products? We find out in our review.Look and FeelThe 
+Phicomm Passion 660 is all about sharp edges and straight lines. 
+Although it's relatively slim at just 7mm, it sports a block-like shape.
+ It has a one-piece metal frame, although the metal is exposed only at 
+the sides. The back has a matte finish, which continues along the top 
+and bottom as well. Although contoured edges would have been better to hold, the 
+sharp lines are not too bad, and the phone looks pleasantly different 
+from most other smartphones.The review unit we received was black,
+ but the Phicomm Passion 660 is also available in white as per 
+information provided to us by the company. It isn't exactly black; we'd 
+say it's more of a very dark shade of grey. It looks nice nonetheless, 
+and the silver of the metal along the sides adds a welcome variation 
+to the look. The power button and SIM slots are along the right, while the volume rocker is on the left. The 3.5mm port is on 
+the top, and the microUSB port is on the bottom. On the whole, this is
+ a very well designed smartphone.The Phicomm Passion 660 is 
+extremely light and compact for a device with a 5-inch screen, weighing 
+in at just 110g. The front features Corning Gorilla Glass 3 for protection. The three soft keys are off-screen at the bottom. The single 
+speaker is at the back, and feels weak and underwhelming. All in all 
+though, the Passion 660 is comfortable to use and boasts of impressive 
+ergonomics.Specifications and SoftwareThe Passion 660 uses
+ a 1.5GHz Qualcomm Snapdragon 615 octa-core SoC, with 2GB RAM and 16GB 
+of in-built storage. The device is dual-SIM capable, although the second slot doubles up as the microSD card slot. The phone supports cards of up to 64GB. This means you have to choose between having a
+ second SIM card and additional storage, which we feel is a bit limiting.
+ The main SIM slot supports Micro-SIM cards, with 4G support (including band 40 compatibility for 4G in India), while the second slot 
+supports Nano-SIM cards.The device has a 5-inch full-HD 
+(1920x1080-pixel) screen with average sunlight legibility. The cameras 
+are 13-megapixel at the rear and 5-megapixel in front. The battery 
+has a fairly standard capacity of 2,300mAh. It's interesting to note that the device 
+has a pedometer, compass and barometer, with preinstalled apps for all 
+three. Other hardware-based specifications are ordinary, such as standard 
+Bluetooth, GPS and Wi-Fi connectivity, along with the regular set of 
+sensors.The Phicomm Passion 660 runs Android 4.4.4 with the 
+company's own Expect user interface layered on top. It's clean, well 
+designed and easy to navigate around, for the most part. It also, 
+importantly, uses an app drawer, which keeps the home screens free of 
+clutter and makes using widgets a bit easier. The settings menu has some
+ limitations though, and we felt that the UI isn't as customisable and 
+tweak-friendly as many other UIs we've seen.One of the features we found 
+interesting was Wave Gesture. This allows you to unlock the phone, pull 
+down the notification menu and scroll through pictures by waving in the air, 
+which is recognised using the front camera. In practice, this 
+rarely ever worked well, and you're better off using the touchscreen for
+ all of these functions. As previously stated, there is preinstalled
+ software for the pedometer, compass and barometer, as well as useful 
+apps for wireless disk usage, sound recording and data backups. 
+The phone is refreshingly free of bloatware, which we were rather 
+impressed with.The rest of the software is basic and looks like 
+it's been designed for beginners. Some key features that you'd find in nearly every other UI is missing from Expect, such as detailed battery usage 
+statistics and control over call settings and network-based requests. 
+And as is the case with a lot of small smartphone manufacturers, Android
+ and UI updates aren't quite guaranteed.CameraThe Phicomm 
+Passion 660 employs a Sony-built Exmor IMS 214 sensor in the 
+13-megapixel rear camera, while the front is a 5-megapixel shooter. Both
+ cameras are capable of shooting full-HD video. The camera software offers a
+ decent number of settings and tweaks that should keep most people 
+happy, including face detection, timer, exposure, white balance and 
+anti-banding. There are also a handful of filters, a zero shutter mode 
+and a burst mode. You can even set the volume rocker to act as a shutter 
+key, which is convenient. Unfortunately, it lacks a Panorama mode, while
+ HDR has been oddly named 'Sunset' mode. Pictures taken with the 
+camera are decent enough in terms of detail and colour reproduction. 
+Sharpness and accuracy in the detail are impressive, while colours feel 
+realistic and lifelike. However, brighter shades tend to be 
+oversaturated, even consuming a bit of the detail from darker shades 
+around. Daylight, in particular, looked too bright and could have been 
+better. Low light shots are impressive though, and the phone brightens up the shots just enough to avoid noise and deterioration in the detail.
+ The front camera is standard and performs as expected from a 
+5-megapixel shooter. Videos are pleasant enough, although not fantastic 
+by any means.(Click for full-size image)PerformanceOrdinary performance for 
+day-to-day tasks on the Phicomm Passion 660 was decent enough. Most apps
+ and menus loaded quickly, and the system did not crash even once during
+ our time with the phone. There were occasional moments of lag, but 
+these were few and far between.  The Passion 660 did have some trouble running 
+our test videos, though, with some stuttering on the larger 1080p ones. Our most challenging video, a 1080p 40mbps file, would not even load up on the device. Certain graphics-intensive 
+games and videos showed similar flaws, but it's fair to 
+say that the 660 will handle most of what you throw at it with ease.Benchmark
+ scores were decent as well; the Passion 660 scored 30,216 in AnTuTu and
+ 16,168 in Quadrant, both of which are close to the scores of the Nubia 
+Z9 Mini (Review | 
+Pictures), a device 
+that uses the same Snapdragon 615 SoC but costs a lot more than the 
+Phicomm Passion 660. In GFXBench and 3DMark Ice Storm Extreme, the phone
+ scored 15fps and 5534 respectively.Sound output from the single 
+speaker on the device is weak, and you will definitely need headphones 
+whenever you use this phone for movies and music. The Passion 660 has decent 
+sound in phone calls and holds network decently enough. The battery 
+lasted 8 hours and 36 minutes during our video loop test, which is 
+average. However, the phone tended to drain its battery much quicker in ordinary functions and day-to-day use. The battery would usually be 
+completely drained by early evening for us.VerdictPhicomm might be just another Chinese company in a market so full of options, and it's
+ becoming hard to keep track of them all. The Passion 660 does get a lot right, 
+offering genuine value to potential buyers. It's well designed, has a 
+decent camera, boasts fantastic ergonomics and has an impressive 
+spec-sheet. However, the lack of customisation options, underdeveloped 
+user interface, poor battery life and inconsistent performance are key 
+weaknesses that will bother a lot of users.If you're in the 
+market for a sub-Rs. 15,000 Android smartphone, you might automatically 
+be drawn to brands like Xiaomi, Yu and Micromax because of the amount of
+ buzz they have succeeded in creating. But if you look beyond the hype, 
+you'll find that products like the Phicomm Passion 660 may also have 
+what you're looking for. The Phicomm Passion 660 is available now on Amazon. Phicomm Passion 660 in pictures
+
+
+
+With India on track to become the world's second largest 
+smartphone market by 2019,
+ everyone wants to get in on the action. A long list of Chinese companies are already present and well-established in India, including Xiaomi, 
+OnePlus, Lenovo, Huawei, Oppo, Coolpad, Gionee, Meizu, ZTE and Vivo. The
+ latest to join this list is Phicomm, a brand that we admittedly knew 
+very little about before its launch in India. Its first product is the 
+Rs. 10,999 Passion 660, which is being sold exclusively through Amazon 
+India. Does it offer the same 
+value for money that Indian consumers have come to expect from Chinese 
+products? We find out in our review.
+
+Look and FeelThe 
+Phicomm Passion 660 is all about sharp edges and straight lines. 
+Although it's relatively slim at just 7mm, it sports a block-like shape.
+ It has a one-piece metal frame, although the metal is exposed only at 
+the sides. The back has a matte finish, which continues along the top 
+and bottom as well. Although contoured edges would have been better to hold, the 
+sharp lines are not too bad, and the phone looks pleasantly different 
+from most other smartphones.
+
+The review unit we received was black,
+ but the Phicomm Passion 660 is also available in white as per 
+information provided to us by the company. It isn't exactly black; we'd 
+say it's more of a very dark shade of grey. It looks nice nonetheless, 
+and the silver of the metal along the sides adds a welcome variation 
+to the look.
+
+ 
+
+The power button and SIM slots are along the right, while the volume rocker is on the left. The 3.5mm port is on 
+the top, and the microUSB port is on the bottom. On the whole, this is
+ a very well designed smartphone.
+
+The Phicomm Passion 660 is 
+extremely light and compact for a device with a 5-inch screen, weighing 
+in at just 110g. The front features Corning Gorilla Glass 3 for protection. The three soft keys are off-screen at the bottom. The single 
+speaker is at the back, and feels weak and underwhelming. All in all 
+though, the Passion 660 is comfortable to use and boasts of impressive 
+ergonomics.
+
+Specifications and SoftwareThe Passion 660 uses
+ a 1.5GHz Qualcomm Snapdragon 615 octa-core SoC, with 2GB RAM and 16GB 
+of in-built storage. The device is dual-SIM capable, although the second slot doubles up as the microSD card slot. The phone supports cards of up to 64GB. This means you have to choose between having a
+ second SIM card and additional storage, which we feel is a bit limiting.
+ The main SIM slot supports Micro-SIM cards, with 4G support (including band 40 compatibility for 4G in India), while the second slot 
+supports Nano-SIM cards.
+
+The device has a 5-inch full-HD 
+(1920x1080-pixel) screen with average sunlight legibility. The cameras 
+are 13-megapixel at the rear and 5-megapixel in front. The battery 
+has a fairly standard capacity of 2,300mAh. It's interesting to note that the device 
+has a pedometer, compass and barometer, with preinstalled apps for all 
+three. Other hardware-based specifications are ordinary, such as standard 
+Bluetooth, GPS and Wi-Fi connectivity, along with the regular set of 
+sensors.
+
+The Phicomm Passion 660 runs Android 4.4.4 with the 
+company's own Expect user interface layered on top. It's clean, well 
+designed and easy to navigate around, for the most part. It also, 
+importantly, uses an app drawer, which keeps the home screens free of 
+clutter and makes using widgets a bit easier. The settings menu has some
+ limitations though, and we felt that the UI isn't as customisable and 
+tweak-friendly as many other UIs we've seen.
+
+One of the features we found 
+interesting was Wave Gesture. This allows you to unlock the phone, pull 
+down the notification menu and scroll through pictures by waving in the air, 
+which is recognised using the front camera. In practice, this 
+rarely ever worked well, and you're better off using the touchscreen for
+ all of these functions. As previously stated, there is preinstalled
+ software for the pedometer, compass and barometer, as well as useful 
+apps for wireless disk usage, sound recording and data backups. 
+The phone is refreshingly free of bloatware, which we were rather 
+impressed with.
+
+The rest of the software is basic and looks like 
+it's been designed for beginners. Some key features that you'd find in nearly every other UI is missing from Expect, such as detailed battery usage 
+statistics and control over call settings and network-based requests. 
+And as is the case with a lot of small smartphone manufacturers, Android
+ and UI updates aren't quite guaranteed.
+
+CameraThe Phicomm 
+Passion 660 employs a Sony-built Exmor IMS 214 sensor in the 
+13-megapixel rear camera, while the front is a 5-megapixel shooter. Both
+ cameras are capable of shooting full-HD video. The camera software offers a
+ decent number of settings and tweaks that should keep most people 
+happy, including face detection, timer, exposure, white balance and 
+anti-banding. There are also a handful of filters, a zero shutter mode 
+and a burst mode. You can even set the volume rocker to act as a shutter 
+key, which is convenient. Unfortunately, it lacks a Panorama mode, while
+ HDR has been oddly named 'Sunset' mode. 
+
+Pictures taken with the 
+camera are decent enough in terms of detail and colour reproduction. 
+Sharpness and accuracy in the detail are impressive, while colours feel 
+realistic and lifelike. However, brighter shades tend to be 
+oversaturated, even consuming a bit of the detail from darker shades 
+around. Daylight, in particular, looked too bright and could have been 
+better. Low light shots are impressive though, and the phone brightens up the shots just enough to avoid noise and deterioration in the detail.
+ The front camera is standard and performs as expected from a 
+5-megapixel shooter. Videos are pleasant enough, although not fantastic 
+by any means.
+
+(Click for full-size image)
+
+PerformanceOrdinary performance for 
+day-to-day tasks on the Phicomm Passion 660 was decent enough. Most apps
+ and menus loaded quickly, and the system did not crash even once during
+ our time with the phone. There were occasional moments of lag, but 
+these were few and far between.  The Passion 660 did have some trouble running 
+our test videos, though, with some stuttering on the larger 1080p ones. Our most challenging video, a 1080p 40mbps file, would not even load up on the device. Certain graphics-intensive 
+games and videos showed similar flaws, but it's fair to 
+say that the 660 will handle most of what you throw at it with ease.
+
+Benchmark
+ scores were decent as well; the Passion 660 scored 30,216 in AnTuTu and
+ 16,168 in Quadrant, both of which are close to the scores of the Nubia 
+Z9 Mini (Review | 
+Pictures), a device 
+that uses the same Snapdragon 615 SoC but costs a lot more than the 
+Phicomm Passion 660. In GFXBench and 3DMark Ice Storm Extreme, the phone
+ scored 15fps and 5534 respectively.
+
+Sound output from the single 
+speaker on the device is weak, and you will definitely need headphones 
+whenever you use this phone for movies and music. The Passion 660 has decent 
+sound in phone calls and holds network decently enough. The battery 
+lasted 8 hours and 36 minutes during our video loop test, which is 
+average. However, the phone tended to drain its battery much quicker in ordinary functions and day-to-day use. The battery would usually be 
+completely drained by early evening for us.
+
+VerdictPhicomm might be just another Chinese company in a market so full of options, and it's
+ becoming hard to keep track of them all. The Passion 660 does get a lot right, 
+offering genuine value to potential buyers. It's well designed, has a 
+decent camera, boasts fantastic ergonomics and has an impressive 
+spec-sheet. However, the lack of customisation options, underdeveloped 
+user interface, poor battery life and inconsistent performance are key 
+weaknesses that will bother a lot of users.
+
+If you're in the 
+market for a sub-Rs. 15,000 Android smartphone, you might automatically 
+be drawn to brands like Xiaomi, Yu and Micromax because of the amount of
+ buzz they have succeeded in creating. But if you look beyond the hype, 
+you'll find that products like the Phicomm Passion 660 may also have 
+what you're looking for. The Phicomm Passion 660 is available now on Amazon.
+

@@ -1,0 +1,162 @@
+Microsoft Windows Phone 8.1 review
+
+Microsoft's new Windows system for smartphones addresses many of the shortcomings in previous versions.Before,
+ voice search lacked the natural language interactions of Apple's Siri 
+and Google Now. The updated Windows Phone system has Cortana, which 
+combines Siri's personality with Google Now's knack for anticipating 
+what you need before you even ask.Meanwhile, Windows Phone's lack
+ of a central hub for checking notifications from Facebook and other 
+services has been addressed with a new Action Center.Beyond that,
+ the new Windows Phone 8.1 has tools to simplify connecting to Wi-Fi 
+hotspots, save battery life and block non-emergency calls overnight.The
+ new system still doesn't address one of my major frustrations: There 
+aren't as many apps for Windows smartphones compared with iPhones and 
+Android phones. The Windows store is getting better and has many popular
+ apps such as Facebook and Netflix. But now and then, you'll encounter 
+something that only your iPhone and Android friends have. That includes 
+apps for my bank and JetBlue.If you already have a Windows phone or are thinking of getting one, the new features should please you.I
+ reviewed Cortana separately on Monday and found plenty to like, even 
+though it's still in a "beta" test mode and has kinks to work out. You 
+can read the review here.Beyond that:Action CenterYou
+ get notifications from various apps by pulling the Action Center down 
+from the top of the screen like a window shade. It's similar to what 
+iPhones and Android phones offer.The Action Center also has four 
+buttons at the top for frequently used settings and tools, such as 
+airplane mode, similar to Apple's Control Center. But Windows lets you 
+choose the four options you need most, while the iPhone picks for you. 
+What Windows doesn't offer, though, is quick access to a flashlight app,
+ as the iPhone does.Quiet hoursYou can ask the phone to 
+block calls, texts and notifications during certain hours, or turn the 
+feature on when you're at a movie or concert. Unlike merely shutting 
+down your phone, though, you can set exceptions - such as calls from 
+family members or emergencies, as defined by someone trying again within
+ three minutes. The iPhone has a similar feature. Android doesn't, 
+though Samsung includes one in its phones.Wi-Fi hotspotsWindows
+ Phone surpasses both iOS and Android in letting you automatically 
+connect to known Wi-Fi hotspots. You can have it accept hotspots' terms 
+of service automatically, so you aren't interrupted with prompts while 
+trying to get to the senseless cat video. I haven't gotten this to work 
+yet, though. It'll take time and more users for Microsoft to build a 
+database of known hotspots.This feature, called Wi-Fi Sense, also
+ lets you share your home Wi-Fi connection with friends without having 
+to give them your password. When they visit, their phones will connect 
+to your home router automatically as long as they are on your contact 
+list. Unfortunately, it doesn't work if your friend has an iPhone or 
+Android phone, or even a Windows laptop or tablet.Conserving powerA
+ battery saver tool will monitor which apps use the most power and 
+prevent some of them from running in the background when your charge is 
+low. Sony, Samsung and other phone makers are starting to add such 
+tools, but there's nothing universal for Android or iPhones.Keyboard swipesInstead
+ of tapping on keys one by one to type, you can slide from key to key, 
+without lifting your finger between characters. Many Android phones 
+already have this. I'm still a tapper myself, but some people find 
+sliding to be faster.One WindowsThere are essentially 
+two classes of Windows: Windows Phone for smartphones and the regular 
+Windows for tablets, laptops and desktops.The two are starting to
+ merge, but true unification hasn't arrived yet. For instance, you can 
+customize the phone's People app so it tracks news feeds from your 
+favorite social networks, but when you go to People on a tablet, you 
+need to set that up again, even though Microsoft's OneDrive storage 
+service promises to sync all your devices.In that sense, Windows 
+Phone remains a work in progress. It incorporates plenty of great ideas,
+ which I'm sure will work seamlessly one day. Likewise, as usage grows 
+beyond the 3 percent worldwide market share it had last year, more apps 
+will follow.There's no need to abandon your iPhone or Android phone yet, but Windows Phone is worth watching as it develops. 
+
+Before,
+ voice search lacked the natural language interactions of Apple's Siri 
+and Google Now. The updated Windows Phone system has Cortana, which 
+combines Siri's personality with Google Now's knack for anticipating 
+what you need before you even ask.
+
+Meanwhile, Windows Phone's lack
+ of a central hub for checking notifications from Facebook and other 
+services has been addressed with a new Action Center.
+
+Beyond that,
+ the new Windows Phone 8.1 has tools to simplify connecting to Wi-Fi 
+hotspots, save battery life and block non-emergency calls overnight.
+
+The
+ new system still doesn't address one of my major frustrations: There 
+aren't as many apps for Windows smartphones compared with iPhones and 
+Android phones. The Windows store is getting better and has many popular
+ apps such as Facebook and Netflix. But now and then, you'll encounter 
+something that only your iPhone and Android friends have. That includes 
+apps for my bank and JetBlue.
+
+If you already have a Windows phone or are thinking of getting one, the new features should please you.
+
+I
+ reviewed Cortana separately on Monday and found plenty to like, even 
+though it's still in a "beta" test mode and has kinks to work out. You 
+can read the review here.
+
+Beyond that:
+
+Action CenterYou
+ get notifications from various apps by pulling the Action Center down 
+from the top of the screen like a window shade. It's similar to what 
+iPhones and Android phones offer.
+
+The Action Center also has four 
+buttons at the top for frequently used settings and tools, such as 
+airplane mode, similar to Apple's Control Center. But Windows lets you 
+choose the four options you need most, while the iPhone picks for you. 
+What Windows doesn't offer, though, is quick access to a flashlight app,
+ as the iPhone does.
+
+Quiet hoursYou can ask the phone to 
+block calls, texts and notifications during certain hours, or turn the 
+feature on when you're at a movie or concert. Unlike merely shutting 
+down your phone, though, you can set exceptions - such as calls from 
+family members or emergencies, as defined by someone trying again within
+ three minutes. The iPhone has a similar feature. Android doesn't, 
+though Samsung includes one in its phones.
+
+Wi-Fi hotspotsWindows
+ Phone surpasses both iOS and Android in letting you automatically 
+connect to known Wi-Fi hotspots. You can have it accept hotspots' terms 
+of service automatically, so you aren't interrupted with prompts while 
+trying to get to the senseless cat video. I haven't gotten this to work 
+yet, though. It'll take time and more users for Microsoft to build a 
+database of known hotspots.
+
+This feature, called Wi-Fi Sense, also
+ lets you share your home Wi-Fi connection with friends without having 
+to give them your password. When they visit, their phones will connect 
+to your home router automatically as long as they are on your contact 
+list. Unfortunately, it doesn't work if your friend has an iPhone or 
+Android phone, or even a Windows laptop or tablet.
+
+Conserving powerA
+ battery saver tool will monitor which apps use the most power and 
+prevent some of them from running in the background when your charge is 
+low. Sony, Samsung and other phone makers are starting to add such 
+tools, but there's nothing universal for Android or iPhones.
+
+Keyboard swipesInstead
+ of tapping on keys one by one to type, you can slide from key to key, 
+without lifting your finger between characters. Many Android phones 
+already have this. I'm still a tapper myself, but some people find 
+sliding to be faster.
+
+One WindowsThere are essentially 
+two classes of Windows: Windows Phone for smartphones and the regular 
+Windows for tablets, laptops and desktops.
+
+The two are starting to
+ merge, but true unification hasn't arrived yet. For instance, you can 
+customize the phone's People app so it tracks news feeds from your 
+favorite social networks, but when you go to People on a tablet, you 
+need to set that up again, even though Microsoft's OneDrive storage 
+service promises to sync all your devices.
+
+In that sense, Windows 
+Phone remains a work in progress. It incorporates plenty of great ideas,
+ which I'm sure will work seamlessly one day. Likewise, as usage grows 
+beyond the 3 percent worldwide market share it had last year, more apps 
+will follow.
+
+There's no need to abandon your iPhone or Android phone yet, but Windows Phone is worth watching as it develops.
+

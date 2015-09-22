@@ -1,0 +1,430 @@
+Lava Iris Pro 30 review
+
+Budget Android phones have had a bad reputation for years. They're 
+usually flimsy, slow, ugly, and sold by relatively unknown brands. But 
+could all that be changing now? It seems as though high-end components 
+are popping up in low-priced phones, construction quality has improved 
+by leaps and bounds, and most of these companies have been around for 
+long enough to be considered familiar.Lava is one such company, 
+and its latest product might actually change people's perceptions of 
+what a mid-budget Android phone can be. It isn't bad looking at all, and
+ even though the iPhone-inspired styling is a bit obvious, it has a few 
+unique touches. In terms of specifications, the HD 720p screen is 
+the star of the show. As far as construction goes, you probably wouldn't
+ be able to tell at first glance that this is not a high-priced phone. 
+In short, it's one of a new breed of budget Android devices - ones that 
+are trying very seriously to attract customers who wouldn't ordinarily 
+even think of giving them a second look.Look and feelThere's
+ no denying the fact that the Iris Pro 30 is an iPhone lookalike. 
+Everything from the proportions to the curves to the band around its 
+sides is reminiscent of the design that was the hallmark of Apple's 
+iconic iPhone 4 and 4S, although its physical size is more like the 
+iPhone 5 and 5s. Where the Iris stands apart is in its use of materials 
+and proportions. The rear panel is entirely made of plastic, which looks
+ textured but is smooth to the touch. The Iris is also thinner and 
+lighter, but taller and wider, to accommodate a larger screen.The
+ front face is almost entirely black. You can clearly see the speaker 
+grille and camera on top, but the capacitive buttons below the screen 
+are invisible till you touch the spaces where they should be. The 
+metallic rim around the edge is a gunmetal colour, rather than stainless
+ steel. You'll find the power/lock and volume rocker on the right edge, a
+ 3.5mm headset jack on the top, and a Micro-USB port on the bottom. 
+Other than that, there are no visible buttons, flaps or ports.The
+ rear cover is thankfully free of garish branding. There's a subtle Iris
+ Pro 30 logo right in the middle, and a more prominent Lava logo on the 
+bottom. Even the cutouts for the camera lens, dual-LED flash and speaker
+ grille are tastefully designed. We're also happy to note that the 
+camera lens doesn't protrude from the back.The cover peels off 
+quite easily, but we're not sure how long the 12 tiny clasps around its 
+edges will last. Beneath the cover, you can see the battery in a 
+compartment by itself, but it isn't removable. One of the SIM card slots
+ fits regular sized SIM cards while the other takes Micro-SIMs. The 
+microSD card slot can be found right next to them. The slots aren't well
+ labelled and each of them has a different mechanism - the larger SIM 
+slot is designed such that cards can just be slid into it, whereas the 
+other two have metal flaps that need to be raised. The Micro-SIM has to 
+be slid into its slot's metal flap which then flips back down to lock, 
+but the microSD card needs to be laid flat on the slot's bare metal 
+prongs, after which the flap can be secured on top of it. The whole 
+process is unnecessarily fiddly and time consuming.Lava claims 
+that the Iris Pro 30 is the lightest and slimmest phone in its category.
+ We aren't sure how Lava defines this category, but the phone is 
+definitely easy to hold and comfortable over long hours of use. It's 
+almost a relief to hold a phone of this size again, and especially to 
+type on a keyboard that isn't too wide -- too many phones these days 
+come with screens larger than five inches, which makes them bulky and 
+unwieldy.Features, specifications and softwareAs 
+impressive as the Iris Pro 30 looks on the outside, it's what's inside 
+that counts. The processor is a 1.2GHz quad-core Mediatek MT6589 which 
+is not exactly the newest kid on the block. It's over a year old, and 
+we've encountered it in other budget phones that like to advertise 
+themselves as quad-core. The processor has an integrated PowerVR 
+Series5XT GPU along with logic for Wi-Fi n, Bluetooth 4.0, Miracast, FM 
+radio and GPS.There's 1GB of RAM and a paltry 4GB of storage
+ space, of which 2.43GB is available to the user. This shockingly low 
+figure is less than a quarter of what a phone in this segment should be 
+equipped with. You can add a microSD card of your own, but even that is 
+limited to 32GB. We're extremely disappointed, especially since Lava is 
+trying to portray the Iris Pro 30 as a high-value product.On the 
+other hand, the 4.7-inch screen really is very good. Full-HD might be 
+the current buzzword, but it isn't necessary on a screen of this size. 
+Text is crisp and colours are vibrant at 720p. Lava tells us the screen is 
+sourced from Sharp, and it uses a lamination technique to minimise space
+ between the glass and the actual LCD substrate. Viewing angles are 
+excellent and there's no discolouration at all even when you hold the 
+phone nearly perpendicular to your line of sight. The screen is a huge 
+part of what makes this phone feel like a premium product.In 
+terms of hardware, there isn't much else to talk about. Lava has wisely 
+decided to focus on the Iris Pro 30's looks and a couple of software 
+tricks that it has worked in. The phone runs stock Android 4.2.1 without
+ any customisations save for a Lava Support app that lists the company's
+ service centres sorted by state and city. The four features that
+ Lava is most proud of aren't apps, but settings. The first two relate 
+to call handling: you can flip the phone over to silence it when it 
+rings, and use the proximity sensor to automatically answer calls when 
+you raise the phone to your ear. We wish there had been some kind of 
+guide to finding and enabling these features - even the pocket-sized 
+printed manual had no mention of them. It turns out that the 
+flip-to-mute setting can be found in the General section of the Audio 
+Profiles settings, while the automatic answer (and a similar automatic 
+dial) feature is buried in the dialler app's own settings. We tried 
+both, and results were hit-or-miss. The latter feature was less useful 
+overall, since we found lifting a ringing phone to our ear less 
+comfortable than simply hitting the Answer button. People with injuries 
+or limited mobility might appreciate these features more.The 
+other two settings have to do with unlocking the phone when it wakes 
+from sleep. In addition to the usual passcode and pattern unlock 
+options, the Iris lets you use face and voice pattern recognition. Both 
+options can be found in the Security section. To set up face 
+recognition, you have to hold the phone such that the front camera can 
+get a clear photo of you. The size and positioning are indicated by a 
+circle of dots on screen. It takes about 10 seconds for the Iris to save
+ (and presumably process) the image of your face. When waking the phone 
+from sleep, it takes about two seconds for the camera to recognize your 
+face. We were surprised by the recognition accuracy. As long as 
+your eyes and nose are visible, the software works. It wasn't fooled by 
+glasses, and didn't false trigger at all with other people's faces. Our 
+tests were conducted under good indoor lighting, so we can't be sure how
+ well the feature will work at night. In any case, you can tap once to 
+skip the recognition and use a passcode or pattern instead.Voice 
+pattern recognition was less successful. You need to record a 
+multi-syllable phrase at least three times, but the software was easily 
+fooled by rhymes and similar sounding words. This is more of a gimmick,
+ since there really aren't that many situations in which unlocking a 
+phone with a voice command is easier or quicker than tapping out a PIN.CameraThe
+ Iris Pro 30 has an 8-megapixel camera with a twin-LED flash. Lava tells
+ us the camera is sourced from Samsung and has a backside illuminated 
+(BSI) sensor which means it should be able to capture more detail and 
+work better in low light. We put it to the test and were actually quite 
+pleasantly surprised by the quality of images we were able to take in 
+daylight. The details are a bit murky and there's definitely a lot of 
+compression going on, but we found the images to be more than 
+satisfactory for a phone in this price range.The HDR setting also
+ makes a marked difference. HDR images tend to be a little worse in 
+terms of detail, so this only works well for images that you don't 
+need to see at full size. Sadly, low-light performance was just not good
+ at all. The flash doesn't adapt to the situation at hand, so although 
+it is powerful, subjects in close-up shots might be completely drowned 
+out.Video was good, and were pleased to note that details and 
+moving objects in the distance were well defined. The front camera also 
+took pretty sharp shots, though performance was heavily dependent on 
+ambient lighting.(Click to see full size)Performance and battery lifeThe Iris Pro 
+30's benchmark results were extremely enlightening. This is a phone 
+that's being sold purely on the basis of its looks and cost. Even Lava's
+ own website neatly skims over the parts where hardware specifications 
+come into play. Considering the other corners that have been cut, we 
+were expecting performance to suffer quite a bit, and it did.The 
+Mediatek MT6589 processor is simply not cut out to be a speed demon, and
+ as a result, the Iris Pro 30 returned rather mediocre results in most 
+of our formal tests. The score in AnTuTu was 13,755, which is about half
+ of what a high-end phone should achieve today. The Quadrant test was 
+much the same: only 3,936 points as opposed to at least 5,500 for 
+similarly priced phones. SunSpider took 1445.2 milliseconds to run, 
+which is also about 30 percent slower than we would have liked. 
+Graphics-intensive tests didn't fare too well either. 3DMark's Ice Storm
+ Extreme scenario returned a score of 1554, and our GFXbench simulation 
+ran at only 4.9 frames per second.We also have to note that the 
+phone didn't feel snappy enough when loading apps and multitasking 
+between them. This is the tradeoff we were expecting in a phone with a HD screen that costs less than Rs. 16,000. Don't expect to be playing any 
+high-end Android games on this phone.On the other hand, we were 
+impressed with the Iris Pro 30's battery life. Lava claims another 
+innovation here: a content-adaptive backlight that can automatically dim
+ itself to conserve power when the situation demands it. We were happy 
+to discover that the battery lasted through a full day of medium to 
+heavy usage with a fair amount of power left over at the end. In our 
+formal rundown test, which consists of an endless video loop with the 
+brightness set to 50 percent and features such as Wi-Fi and Bluetooth 
+deactivated, the phone lasted for an impressive span of seven hours and 
+fifty minutes.We also tested the phone's audio and video playback
+ capabilities. Our more lightly encoded 1080p H.264 videos played well 
+apart from a little stuttering at the beginning and when we jumped 
+around the timeline. The phone's speaker was loud, but music sounded 
+tinny with the highs over-emphasised. The bundled headset had a hollow 
+kind of sound which we weren't happy with at all.VerdictWith
+ the Iris Pro 30, the age-old maxim that you get what you pay for really
+ does apply. In this case, the money is allocated to looks and not 
+performance. Lava has chosen a smart set of features to emphasise - 
+people will certainly notice the body, construction quality and battery 
+life, while hardware performance is not as readily quantifiable. These 
+are the things that buyers care about, and these are the things that 
+Lava has delivered in the most attractive package it could come up with.
+ If you're concerned about gaming or HD video, you really shouldn't be 
+looking at phones priced below Rs. 20,000 anyway.As far as 
+alternatives go, the recently launched Moto G is a better rounded 
+product and is actually quite a bit cheaper. You'd have to do without 
+the iPhone-like looks, but you will get the most recent version of 
+Android and four times the internal storage space. You could also 
+consider the Sony Xperia C, Nokia Lumia 625, Lenovo S820 and Micromax 
+Canvas Turbo which are all only slightly more expensive.All 
+things considered, the Iris Pro 30 offers pretty good value for money. 
+If you want a phone that looks good and feels good to use, but can't 
+scrape together the money for a mid-range Samsung or Sony, this is the 
+one to get. It's one of the first phones from an Indian company that 
+doesn't have that distinctive "made in China" feel to it. In fact, this 
+might be the phone that catapults Lava into the big leagues. We can't 
+wait for the company to attempt something similar with genuinely 
+powerful components, when they're confident enough to launch a model 
+that costs a few thousand rupees more.Update, 21 February 2014: An earlier version of this review erroneously stated that the Lava Iris Pro 30 has a full-HD screen. This has been corrected and clarified. The product's scores and the review's conclusion are not affected. Thanks to reader Rohit for pointing it out in the comments.Lava Iris Pro 30 in pictures
+
+Budget Android phones have had a bad reputation for years. They're 
+usually flimsy, slow, ugly, and sold by relatively unknown brands. But 
+could all that be changing now? It seems as though high-end components 
+are popping up in low-priced phones, construction quality has improved 
+by leaps and bounds, and most of these companies have been around for 
+long enough to be considered familiar.
+
+Lava is one such company, 
+and its latest product might actually change people's perceptions of 
+what a mid-budget Android phone can be. It isn't bad looking at all, and
+ even though the iPhone-inspired styling is a bit obvious, it has a few 
+unique touches. In terms of specifications, the HD 720p screen is 
+the star of the show. As far as construction goes, you probably wouldn't
+ be able to tell at first glance that this is not a high-priced phone. 
+In short, it's one of a new breed of budget Android devices - ones that 
+are trying very seriously to attract customers who wouldn't ordinarily 
+even think of giving them a second look.
+
+Look and feelThere's
+ no denying the fact that the Iris Pro 30 is an iPhone lookalike. 
+Everything from the proportions to the curves to the band around its 
+sides is reminiscent of the design that was the hallmark of Apple's 
+iconic iPhone 4 and 4S, although its physical size is more like the 
+iPhone 5 and 5s. Where the Iris stands apart is in its use of materials 
+and proportions. The rear panel is entirely made of plastic, which looks
+ textured but is smooth to the touch. The Iris is also thinner and 
+lighter, but taller and wider, to accommodate a larger screen.
+
+The
+ front face is almost entirely black. You can clearly see the speaker 
+grille and camera on top, but the capacitive buttons below the screen 
+are invisible till you touch the spaces where they should be. The 
+metallic rim around the edge is a gunmetal colour, rather than stainless
+ steel. You'll find the power/lock and volume rocker on the right edge, a
+ 3.5mm headset jack on the top, and a Micro-USB port on the bottom. 
+Other than that, there are no visible buttons, flaps or ports.
+
+The
+ rear cover is thankfully free of garish branding. There's a subtle Iris
+ Pro 30 logo right in the middle, and a more prominent Lava logo on the 
+bottom. Even the cutouts for the camera lens, dual-LED flash and speaker
+ grille are tastefully designed. We're also happy to note that the 
+camera lens doesn't protrude from the back.
+
+The cover peels off 
+quite easily, but we're not sure how long the 12 tiny clasps around its 
+edges will last. Beneath the cover, you can see the battery in a 
+compartment by itself, but it isn't removable. One of the SIM card slots
+ fits regular sized SIM cards while the other takes Micro-SIMs. The 
+microSD card slot can be found right next to them. The slots aren't well
+ labelled and each of them has a different mechanism - the larger SIM 
+slot is designed such that cards can just be slid into it, whereas the 
+other two have metal flaps that need to be raised. The Micro-SIM has to 
+be slid into its slot's metal flap which then flips back down to lock, 
+but the microSD card needs to be laid flat on the slot's bare metal 
+prongs, after which the flap can be secured on top of it. The whole 
+process is unnecessarily fiddly and time consuming.
+
+Lava claims 
+that the Iris Pro 30 is the lightest and slimmest phone in its category.
+ We aren't sure how Lava defines this category, but the phone is 
+definitely easy to hold and comfortable over long hours of use. It's 
+almost a relief to hold a phone of this size again, and especially to 
+type on a keyboard that isn't too wide -- too many phones these days 
+come with screens larger than five inches, which makes them bulky and 
+unwieldy.
+
+Features, specifications and softwareAs 
+impressive as the Iris Pro 30 looks on the outside, it's what's inside 
+that counts. The processor is a 1.2GHz quad-core Mediatek MT6589 which 
+is not exactly the newest kid on the block. It's over a year old, and 
+we've encountered it in other budget phones that like to advertise 
+themselves as quad-core. The processor has an integrated PowerVR 
+Series5XT GPU along with logic for Wi-Fi n, Bluetooth 4.0, Miracast, FM 
+radio and GPS.
+
+There's 1GB of RAM and a paltry 4GB of storage
+ space, of which 2.43GB is available to the user. This shockingly low 
+figure is less than a quarter of what a phone in this segment should be 
+equipped with. You can add a microSD card of your own, but even that is 
+limited to 32GB. We're extremely disappointed, especially since Lava is 
+trying to portray the Iris Pro 30 as a high-value product.
+
+On the 
+other hand, the 4.7-inch screen really is very good. Full-HD might be 
+the current buzzword, but it isn't necessary on a screen of this size. 
+Text is crisp and colours are vibrant at 720p. Lava tells us the screen is 
+sourced from Sharp, and it uses a lamination technique to minimise space
+ between the glass and the actual LCD substrate. Viewing angles are 
+excellent and there's no discolouration at all even when you hold the 
+phone nearly perpendicular to your line of sight. The screen is a huge 
+part of what makes this phone feel like a premium product.
+
+In 
+terms of hardware, there isn't much else to talk about. Lava has wisely 
+decided to focus on the Iris Pro 30's looks and a couple of software 
+tricks that it has worked in. The phone runs stock Android 4.2.1 without
+ any customisations save for a Lava Support app that lists the company's
+ service centres sorted by state and city. 
+
+The four features that
+ Lava is most proud of aren't apps, but settings. The first two relate 
+to call handling: you can flip the phone over to silence it when it 
+rings, and use the proximity sensor to automatically answer calls when 
+you raise the phone to your ear. We wish there had been some kind of 
+guide to finding and enabling these features - even the pocket-sized 
+printed manual had no mention of them. It turns out that the 
+flip-to-mute setting can be found in the General section of the Audio 
+Profiles settings, while the automatic answer (and a similar automatic 
+dial) feature is buried in the dialler app's own settings. We tried 
+both, and results were hit-or-miss. The latter feature was less useful 
+overall, since we found lifting a ringing phone to our ear less 
+comfortable than simply hitting the Answer button. People with injuries 
+or limited mobility might appreciate these features more.
+
+The 
+other two settings have to do with unlocking the phone when it wakes 
+from sleep. In addition to the usual passcode and pattern unlock 
+options, the Iris lets you use face and voice pattern recognition. Both 
+options can be found in the Security section. To set up face 
+recognition, you have to hold the phone such that the front camera can 
+get a clear photo of you. The size and positioning are indicated by a 
+circle of dots on screen. It takes about 10 seconds for the Iris to save
+ (and presumably process) the image of your face. When waking the phone 
+from sleep, it takes about two seconds for the camera to recognize your 
+face. 
+
+We were surprised by the recognition accuracy. As long as 
+your eyes and nose are visible, the software works. It wasn't fooled by 
+glasses, and didn't false trigger at all with other people's faces. Our 
+tests were conducted under good indoor lighting, so we can't be sure how
+ well the feature will work at night. In any case, you can tap once to 
+skip the recognition and use a passcode or pattern instead.
+
+Voice 
+pattern recognition was less successful. You need to record a 
+multi-syllable phrase at least three times, but the software was easily 
+fooled by rhymes and similar sounding words. This is more of a gimmick,
+ since there really aren't that many situations in which unlocking a 
+phone with a voice command is easier or quicker than tapping out a PIN.
+
+CameraThe
+ Iris Pro 30 has an 8-megapixel camera with a twin-LED flash. Lava tells
+ us the camera is sourced from Samsung and has a backside illuminated 
+(BSI) sensor which means it should be able to capture more detail and 
+work better in low light. We put it to the test and were actually quite 
+pleasantly surprised by the quality of images we were able to take in 
+daylight. The details are a bit murky and there's definitely a lot of 
+compression going on, but we found the images to be more than 
+satisfactory for a phone in this price range.
+
+The HDR setting also
+ makes a marked difference. HDR images tend to be a little worse in 
+terms of detail, so this only works well for images that you don't 
+need to see at full size. Sadly, low-light performance was just not good
+ at all. The flash doesn't adapt to the situation at hand, so although 
+it is powerful, subjects in close-up shots might be completely drowned 
+out.
+
+Video was good, and were pleased to note that details and 
+moving objects in the distance were well defined. The front camera also 
+took pretty sharp shots, though performance was heavily dependent on 
+ambient lighting.
+
+(Click to see full size)
+
+Performance and battery lifeThe Iris Pro 
+30's benchmark results were extremely enlightening. This is a phone 
+that's being sold purely on the basis of its looks and cost. Even Lava's
+ own website neatly skims over the parts where hardware specifications 
+come into play. Considering the other corners that have been cut, we 
+were expecting performance to suffer quite a bit, and it did.
+
+The 
+Mediatek MT6589 processor is simply not cut out to be a speed demon, and
+ as a result, the Iris Pro 30 returned rather mediocre results in most 
+of our formal tests. The score in AnTuTu was 13,755, which is about half
+ of what a high-end phone should achieve today. The Quadrant test was 
+much the same: only 3,936 points as opposed to at least 5,500 for 
+similarly priced phones. SunSpider took 1445.2 milliseconds to run, 
+which is also about 30 percent slower than we would have liked. 
+Graphics-intensive tests didn't fare too well either. 3DMark's Ice Storm
+ Extreme scenario returned a score of 1554, and our GFXbench simulation 
+ran at only 4.9 frames per second.
+
+We also have to note that the 
+phone didn't feel snappy enough when loading apps and multitasking 
+between them. This is the tradeoff we were expecting in a phone with a HD screen that costs less than Rs. 16,000. Don't expect to be playing any 
+high-end Android games on this phone.
+
+On the other hand, we were 
+impressed with the Iris Pro 30's battery life. Lava claims another 
+innovation here: a content-adaptive backlight that can automatically dim
+ itself to conserve power when the situation demands it. We were happy 
+to discover that the battery lasted through a full day of medium to 
+heavy usage with a fair amount of power left over at the end. In our 
+formal rundown test, which consists of an endless video loop with the 
+brightness set to 50 percent and features such as Wi-Fi and Bluetooth 
+deactivated, the phone lasted for an impressive span of seven hours and 
+fifty minutes.
+
+We also tested the phone's audio and video playback
+ capabilities. Our more lightly encoded 1080p H.264 videos played well 
+apart from a little stuttering at the beginning and when we jumped 
+around the timeline. The phone's speaker was loud, but music sounded 
+tinny with the highs over-emphasised. The bundled headset had a hollow 
+kind of sound which we weren't happy with at all.
+
+VerdictWith
+ the Iris Pro 30, the age-old maxim that you get what you pay for really
+ does apply. In this case, the money is allocated to looks and not 
+performance. Lava has chosen a smart set of features to emphasise - 
+people will certainly notice the body, construction quality and battery 
+life, while hardware performance is not as readily quantifiable. These 
+are the things that buyers care about, and these are the things that 
+Lava has delivered in the most attractive package it could come up with.
+ If you're concerned about gaming or HD video, you really shouldn't be 
+looking at phones priced below Rs. 20,000 anyway.
+
+As far as 
+alternatives go, the recently launched Moto G is a better rounded 
+product and is actually quite a bit cheaper. You'd have to do without 
+the iPhone-like looks, but you will get the most recent version of 
+Android and four times the internal storage space. You could also 
+consider the Sony Xperia C, Nokia Lumia 625, Lenovo S820 and Micromax 
+Canvas Turbo which are all only slightly more expensive.
+
+All 
+things considered, the Iris Pro 30 offers pretty good value for money. 
+If you want a phone that looks good and feels good to use, but can't 
+scrape together the money for a mid-range Samsung or Sony, this is the 
+one to get. It's one of the first phones from an Indian company that 
+doesn't have that distinctive "made in China" feel to it. In fact, this 
+might be the phone that catapults Lava into the big leagues. We can't 
+wait for the company to attempt something similar with genuinely 
+powerful components, when they're confident enough to launch a model 
+that costs a few thousand rupees more.
+
+Update, 21 February 2014: An earlier version of this review erroneously stated that the Lava Iris Pro 30 has a full-HD screen. This has been corrected and clarified. The product's scores and the review's conclusion are not affected. Thanks to reader Rohit for pointing it out in the comments.
+
+Lava Iris Pro 30 in pictures
+

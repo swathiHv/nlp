@@ -1,0 +1,336 @@
+Asus ZenFone 2 Laser (ZE550KL) Review: Laser Guided Speed Shooting
+
+The ZenFone 2 range by Asus is a bit confusing, 
+because there are so many different variants. Different chipsets, RAM, 
+display resolutions and storage capacities make it a difficult phone to 
+purchase, and you need to study the spec-sheet and price carefully 
+before hitting the 'buy' button. As if this wasn't confusing enough, 
+Asus has decided to launch more ZenFone 2 models, and the one we're 
+reviewing today is the Asus ZenFone 2 Laser (ZE550KL).You can 
+leave it to Asus to be even more confusing than you expected, with 
+multiple models within the ZE550KL sub-model of the ZenFone 2 Laser. The
+ device we have for review has a 5.5-inch 720p screen, with a Qualcomm 
+Snapdragon 410 SoC and 2GB RAM on board, while there is also a 
+Snapdragon 615-powered option with 3GB RAM. What's so special 
+about the Laser, you ask? The Rs. 9,999 smartphone has a laser-powered 
+autofocus system, which fires an invisible laser pattern onto the 
+subject area to map the scene and properly adjust the focus accordingly.
+ This should theoretically lead to quicker focusing and better shots, 
+but is that the practical reality? Read on to find out.Look and feelThe
+ Asus ZenFone 2 Laser (ZE550KL) looks similar to the Asus ZenFone 2 (Review | Pictures). Both handsets 
+are the same size and shape, and Asus retains its distinctive 
+concentric-circles pattern on the chin of the device. It's 
+near-impossible to tell the difference between the two phones at the 
+front.The sides remain free of any buttons or slots, and the 
+bottom has the Micro-USB port. The power button and 3.5mm port are at 
+the top of the device. Touch gestures within the user interface allow you to wake the device with a double tap and launch 
+certain apps, so you won't really need the power key for much 
+apart from powering on and off the device.Like the ZenFone 2, the
+ volume rocker of the ZenFone 2 Laser is at the back of the device, just
+ under the camera. Although it takes some getting used to, we eventually
+ got comfortable with the positioning and it's a convenient place to put
+ the volume controls. We were also satisfied with the display, which at 
+720x1280 pixels is suitably sharp for a budget device. Colours and 
+brightness are adequate as well.The Laser departs from the design
+ of the ZenFone 2 in one small way; the dual-tone flash is to the left 
+of the camera instead of above, and the laser is to the right of the 
+camera. The rest of the rear of the device is exactly the same as the 
+predecessor, with a similar curved rear that is just slightly slimmer at
+ 10.8mm, and a speaker grille at the bottom. The back panel is 
+removable, with the replaceable battery and SIM-slots underneath. The 
+Laser uses a hybrid SIM slot, which means you have to make the annoying 
+choice between micro-SIM dual-SIM connectivity and expandable storage. 
+Since the internal storage is limited to just 16GB, you're likely to be 
+forgoing dual-SIM connectivity.Specifications and softwareAsus
+ has often used Intel mobile chipsets in its smartphones, and all 
+variants of the ZenFone 2 sold in India thus far use Atom SoCs. However,
+ the ZenFone 2 Laser (ZE550KL) departs from tradition to use Qualcomm Snapdragon chipsets. The 
+cheaper variant (that we tested) uses a Snapdragon 410 SoC with 2GB of 
+RAM, while the more expensive variant uses a Snapdragon 615 chipset with
+ 3GB of RAM. The Laser is a bit expensive for a Snapdragon 410-powered 
+device (considering you can get a Snapdragon 615-powered Yureka Plus for less), but this can be
+ justified to some extent by the laser autofocus system that is the 
+signature feature here.The rest of the specifications are 
+identical in both devices: 16GB internal storage, 13-megapixel primary 
+camera, 5-megapixel secondary camera, up to 128GB expandable storage 
+support, and a 3000mAh battery. Refreshingly for a budget device, both 
+SIM slots are 4G capable.The Asus ZenFone 2 Laser runs Android 
+5.0 with Asus' own ZenUI layered on top. We aren't fans of the look of 
+the user interface, but it's zippy, efficient and mostly unobtrusive in 
+its function. It automatically groups certain apps together, which can 
+be either extremely convenient or irritating, depending on how you look 
+at it. There's plenty to like in the user interface, including 
+improved security, customisation in the form of what shows up on the 
+quick settings bar, screenshot file format, and more. You can also set 
+the camera to quick-launch on double tapping the volume key, and set 
+gestures for launching certain apps even when the device is asleep. 
+ZenUI offers an impressive level of customisation and is one of the 
+better custom overlays amongst the budget Android lot. There are some 
+useful apps and tools, but there is also a bit of bloatware which can't 
+be uninstalled.CameraThe Asus ZenFone 2 Laser is named so 
+because of its signature feature; laser-autofocus for the primary 
+camera. The 13-megapixel rear camera is at the top center and is adorned
+ by a dual-tone flash and laser, while the 5-megapixel front camera sits
+ near the top-left corner. On paper, the rear camera really stands out 
+among the rest of the spec-sheet. This is the kind of camera 
+configuration we're used to seeing on high-end devices; the laser 
+autofocus system was recently seen on the LG G4 (Review)
+ and the OnePlus 2 (Review | Photos). The
+ camera itself is decent in both well-lit and darker indoor settings, 
+but tends to produced washed-out images in daylight. This can be fixed 
+to some extent with the use of HDR mode and some careful focusing, but 
+it's still definitely a problem worth noting. However, the rest of the 
+colour range is good, and sharpness and detail and adequate for a 
+sub-Rs. 10,000 device.(Click to see full-size image)Bear in mind, the laser autofocus system is
+ less effective over longer distances and open environments, because the
+ receiving sensor is too small to capture the reflecting laser beam at 
+times.  Furthermore, this leads to a lack of ability to accurately focus
+ on moving objects. The phone's software does revert to the traditional 
+contrast detection methods of focus when required, though. However, the 
+ZenFone 2 Laser is best when shooting over shorter distances.Shooting
+ up close produces excellent results, capturing plenty of information 
+quickly and accurately. The laser-autofocus system works well to quickly
+ and properly focus on objects within a reasonable close shooting 
+sphere. It also quickly adjusts to slight movements. Although the laser 
+system is only slightly (and usually negligibly) faster than a 
+traditional autofocus system, it's definitely more accurate and usually 
+gets the focusing of the subject spot on.The camera app is 
+comfortable enough to use, with plenty of options in terms of modes and 
+tweaks. Most key settings are easy to reach and quick to toggle, and 
+there are some excellent filters and modes, including time lapse, depth 
+of field, and a GIF creator, to name a few. The manual mode has a long 
+list of professional options, along with a level indicator to ensure 
+straight shots. The only significant flaw in the camera app is the lack 
+of video recording ability on the front camera, although this can be 
+fixed using third-party camera software. This can and should be fixed at
+ the earliest with a firmware update.(Click to see full-size image)PerformanceWhile 
+camera performance is generally favourable with the Asus ZenFone 2 
+Laser, it's important to note that the device is an entry-level 
+smartphone with specifications that are good for only basic performance.
+ However, despite that we were impressed with the way the phone handled 
+standard smartphone functionality. Dead Trigger 2 ran smoothly, with 
+minimal heating and battery drain issues. Our test videos also ran 
+smoothly, including the heavily encoded samples. The user interface 
+itself is comfortably snappy, but there is a bit of noticeable delay 
+when starting up apps and unlocking the device. This shouldn't bother 
+budget users too much, though.We ran the Asus ZenFone 2 Laser 
+through our usual suite of benchmark tests, and results were more or 
+less in line with other Snapdragon 410-powered devices. GFXBench and 
+3DMark returned scores of 9.5fps and 5298 respectively, while AnTuTu and
+ Quadrant produced scores of 23545 and 13872 each. While better 
+performance can be attained at the same price, it's important to 
+remember that you're paying a premium for the technology behind the 
+camera and the improvements it brings to the phone's photography 
+abilities.Finally, the phone performed well in our video loop 
+test to determine battery life, going for nearly 14 hours on a full 
+charge. The large 3000mAh battery is certainly a contributor to this, 
+and the rest of it can be put down to specifications that work 
+efficiently with the system. With regular usage, the Laser is expected 
+to go over a day on a full charge.VerdictThe Asus ZenFone 2
+ Laser is a bit of a misfit among other phones in the sub-Rs. 15,000 
+price bracket, because of the use of laser autofocus technology. The 
+phone is essentially a budget device with budget specifications and an 
+entry-level chipset, but the addition of some nifty camera technology 
+that actually works well sets this phone apart. Provided you concentrate
+ most of your photography in closed, short-distance environments, you're
+ unlikely to find a quicker and more capable camera phone at this price.Outdoor
+ shooting, underwhelming performance compared to some of its peers, and a
+ slight delay when opening apps are the only real weaknesses of the Asus
+ ZenFone 2 Laser. However, there is a sense of consistency and 
+reliability in the device, and it won't fail you when you need it to 
+work. Furthermore, it looks decent, is built well and has great battery 
+life. If you're willing to spend a little more, there is even the
+ option of the Snapdragon 615-powered ZenFone 2 Laser, which comes with 
+3GB RAM and is expected to offer better performance on paper, though we 
+haven't had a chance to test it yet. However, at under Rs. 10,000, the 
+Asus ZenFone 2 Laser (ZE550KL) with 2GB RAM is probably the best 
+closed-environment camera performance on a budget smartphone, and it's 
+worth checking out if you're a photography enthusiast.Asus ZenFone 2 Laser in pictures
+
+
+
+You can 
+leave it to Asus to be even more confusing than you expected, with 
+multiple models within the ZE550KL sub-model of the ZenFone 2 Laser. The
+ device we have for review has a 5.5-inch 720p screen, with a Qualcomm 
+Snapdragon 410 SoC and 2GB RAM on board, while there is also a 
+Snapdragon 615-powered option with 3GB RAM. 
+
+What's so special 
+about the Laser, you ask? The Rs. 9,999 smartphone has a laser-powered 
+autofocus system, which fires an invisible laser pattern onto the 
+subject area to map the scene and properly adjust the focus accordingly.
+ This should theoretically lead to quicker focusing and better shots, 
+but is that the practical reality? Read on to find out.
+
+Look and feelThe
+ Asus ZenFone 2 Laser (ZE550KL) looks similar to the Asus ZenFone 2 (Review | Pictures). Both handsets 
+are the same size and shape, and Asus retains its distinctive 
+concentric-circles pattern on the chin of the device. It's 
+near-impossible to tell the difference between the two phones at the 
+front.
+
+The sides remain free of any buttons or slots, and the 
+bottom has the Micro-USB port. The power button and 3.5mm port are at 
+the top of the device. Touch gestures within the user interface allow you to wake the device with a double tap and launch 
+certain apps, so you won't really need the power key for much 
+apart from powering on and off the device.
+
+Like the ZenFone 2, the
+ volume rocker of the ZenFone 2 Laser is at the back of the device, just
+ under the camera. Although it takes some getting used to, we eventually
+ got comfortable with the positioning and it's a convenient place to put
+ the volume controls. We were also satisfied with the display, which at 
+720x1280 pixels is suitably sharp for a budget device. Colours and 
+brightness are adequate as well.
+
+The Laser departs from the design
+ of the ZenFone 2 in one small way; the dual-tone flash is to the left 
+of the camera instead of above, and the laser is to the right of the 
+camera. The rest of the rear of the device is exactly the same as the 
+predecessor, with a similar curved rear that is just slightly slimmer at
+ 10.8mm, and a speaker grille at the bottom. The back panel is 
+removable, with the replaceable battery and SIM-slots underneath. The 
+Laser uses a hybrid SIM slot, which means you have to make the annoying 
+choice between micro-SIM dual-SIM connectivity and expandable storage. 
+Since the internal storage is limited to just 16GB, you're likely to be 
+forgoing dual-SIM connectivity.
+
+Specifications and softwareAsus
+ has often used Intel mobile chipsets in its smartphones, and all 
+variants of the ZenFone 2 sold in India thus far use Atom SoCs. However,
+ the ZenFone 2 Laser (ZE550KL) departs from tradition to use Qualcomm Snapdragon chipsets. The 
+cheaper variant (that we tested) uses a Snapdragon 410 SoC with 2GB of 
+RAM, while the more expensive variant uses a Snapdragon 615 chipset with
+ 3GB of RAM. The Laser is a bit expensive for a Snapdragon 410-powered 
+device (considering you can get a Snapdragon 615-powered Yureka Plus for less), but this can be
+ justified to some extent by the laser autofocus system that is the 
+signature feature here.
+
+The rest of the specifications are 
+identical in both devices: 16GB internal storage, 13-megapixel primary 
+camera, 5-megapixel secondary camera, up to 128GB expandable storage 
+support, and a 3000mAh battery. Refreshingly for a budget device, both 
+SIM slots are 4G capable.
+
+The Asus ZenFone 2 Laser runs Android 
+5.0 with Asus' own ZenUI layered on top. We aren't fans of the look of 
+the user interface, but it's zippy, efficient and mostly unobtrusive in 
+its function. It automatically groups certain apps together, which can 
+be either extremely convenient or irritating, depending on how you look 
+at it. 
+
+There's plenty to like in the user interface, including 
+improved security, customisation in the form of what shows up on the 
+quick settings bar, screenshot file format, and more. You can also set 
+the camera to quick-launch on double tapping the volume key, and set 
+gestures for launching certain apps even when the device is asleep. 
+ZenUI offers an impressive level of customisation and is one of the 
+better custom overlays amongst the budget Android lot. There are some 
+useful apps and tools, but there is also a bit of bloatware which can't 
+be uninstalled.
+
+CameraThe Asus ZenFone 2 Laser is named so 
+because of its signature feature; laser-autofocus for the primary 
+camera. The 13-megapixel rear camera is at the top center and is adorned
+ by a dual-tone flash and laser, while the 5-megapixel front camera sits
+ near the top-left corner. On paper, the rear camera really stands out 
+among the rest of the spec-sheet. This is the kind of camera 
+configuration we're used to seeing on high-end devices; the laser 
+autofocus system was recently seen on the LG G4 (Review)
+ and the OnePlus 2 (Review | Photos). 
+
+The
+ camera itself is decent in both well-lit and darker indoor settings, 
+but tends to produced washed-out images in daylight. This can be fixed 
+to some extent with the use of HDR mode and some careful focusing, but 
+it's still definitely a problem worth noting. However, the rest of the 
+colour range is good, and sharpness and detail and adequate for a 
+sub-Rs. 10,000 device.
+
+(Click to see full-size image)
+
+Bear in mind, the laser autofocus system is
+ less effective over longer distances and open environments, because the
+ receiving sensor is too small to capture the reflecting laser beam at 
+times.  Furthermore, this leads to a lack of ability to accurately focus
+ on moving objects. The phone's software does revert to the traditional 
+contrast detection methods of focus when required, though. However, the 
+ZenFone 2 Laser is best when shooting over shorter distances.
+
+Shooting
+ up close produces excellent results, capturing plenty of information 
+quickly and accurately. The laser-autofocus system works well to quickly
+ and properly focus on objects within a reasonable close shooting 
+sphere. It also quickly adjusts to slight movements. Although the laser 
+system is only slightly (and usually negligibly) faster than a 
+traditional autofocus system, it's definitely more accurate and usually 
+gets the focusing of the subject spot on.
+
+The camera app is 
+comfortable enough to use, with plenty of options in terms of modes and 
+tweaks. Most key settings are easy to reach and quick to toggle, and 
+there are some excellent filters and modes, including time lapse, depth 
+of field, and a GIF creator, to name a few. The manual mode has a long 
+list of professional options, along with a level indicator to ensure 
+straight shots. The only significant flaw in the camera app is the lack 
+of video recording ability on the front camera, although this can be 
+fixed using third-party camera software. This can and should be fixed at
+ the earliest with a firmware update.
+
+(Click to see full-size image)
+
+PerformanceWhile 
+camera performance is generally favourable with the Asus ZenFone 2 
+Laser, it's important to note that the device is an entry-level 
+smartphone with specifications that are good for only basic performance.
+ However, despite that we were impressed with the way the phone handled 
+standard smartphone functionality. Dead Trigger 2 ran smoothly, with 
+minimal heating and battery drain issues. Our test videos also ran 
+smoothly, including the heavily encoded samples. The user interface 
+itself is comfortably snappy, but there is a bit of noticeable delay 
+when starting up apps and unlocking the device. This shouldn't bother 
+budget users too much, though.
+
+We ran the Asus ZenFone 2 Laser 
+through our usual suite of benchmark tests, and results were more or 
+less in line with other Snapdragon 410-powered devices. GFXBench and 
+3DMark returned scores of 9.5fps and 5298 respectively, while AnTuTu and
+ Quadrant produced scores of 23545 and 13872 each. While better 
+performance can be attained at the same price, it's important to 
+remember that you're paying a premium for the technology behind the 
+camera and the improvements it brings to the phone's photography 
+abilities.
+
+Finally, the phone performed well in our video loop 
+test to determine battery life, going for nearly 14 hours on a full 
+charge. The large 3000mAh battery is certainly a contributor to this, 
+and the rest of it can be put down to specifications that work 
+efficiently with the system. With regular usage, the Laser is expected 
+to go over a day on a full charge.
+
+VerdictThe Asus ZenFone 2
+ Laser is a bit of a misfit among other phones in the sub-Rs. 15,000 
+price bracket, because of the use of laser autofocus technology. The 
+phone is essentially a budget device with budget specifications and an 
+entry-level chipset, but the addition of some nifty camera technology 
+that actually works well sets this phone apart. Provided you concentrate
+ most of your photography in closed, short-distance environments, you're
+ unlikely to find a quicker and more capable camera phone at this price.
+
+Outdoor
+ shooting, underwhelming performance compared to some of its peers, and a
+ slight delay when opening apps are the only real weaknesses of the Asus
+ ZenFone 2 Laser. However, there is a sense of consistency and 
+reliability in the device, and it won't fail you when you need it to 
+work. Furthermore, it looks decent, is built well and has great battery 
+life. 
+
+If you're willing to spend a little more, there is even the
+ option of the Snapdragon 615-powered ZenFone 2 Laser, which comes with 
+3GB RAM and is expected to offer better performance on paper, though we 
+haven't had a chance to test it yet. However, at under Rs. 10,000, the 
+Asus ZenFone 2 Laser (ZE550KL) with 2GB RAM is probably the best 
+closed-environment camera performance on a budget smartphone, and it's 
+worth checking out if you're a photography enthusiast.
+

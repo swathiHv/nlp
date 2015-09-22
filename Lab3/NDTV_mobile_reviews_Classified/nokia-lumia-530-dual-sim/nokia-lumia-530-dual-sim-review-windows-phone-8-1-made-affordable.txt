@@ -1,0 +1,195 @@
+Nokia Lumia 530 Dual SIM Review: Windows Phone 8.1 Made Affordable
+
+Long before the widely praised Moto E, the fairly competent Asus Zenfone 4
+ or the new crowd favourite Xiaomi Redmi 1S took the budget smartphone market in India by 
+storm, there was one phone that stood out - the Nokia 
+Lumia 520. This phone was a surprise hit for both Microsoft and Nokia, 
+and it introduced first-time users to a polished smartphone experience 
+without having to dig deep into their pockets. The Nokia Lumia 520 and its successor, the Nokia Lumia 525, have both received the Windows Phone 8.1 update via the Lumia Cyan update, 
+but Microsoft has also announced the Nokia Lumia 530 Dual SIM, which 
+comes with the update preloaded. However, taking a look at
+ the specifications of the Lumia 530 Dual SIM on paper, it doesn't actually 
+look like an upgrade to the Lumia 520. The asking price is much lower this time around, which puts it in a lower market segment. It is no secret that the battle for the title of best low-cost smartphone is 
+very hot at the moment and the Nokia Lumia 530 Dual SIM has a tough fight on
+ its hands to emerge victorious. Look and feelOne thing that Nokia always seemed to get right with almost every single new launch was 
+design. Despite being chunky at 11.7mm, the subtly curved edges of 
+the Lumia 530 Dual SIM make it
+ feel ergonomic. The phone is of course made completely using plastic 
+but it doesn't feel cheap. The matte white variant that we 
+received was extremely slippery and difficult to hold, but it's small enough that using it with one hand is
+ not going to be a problem at all. The 4-inch screen is 
+surrounded by medium-sized borders. Nokia/Microsoft decided 
+to go with on-screen buttons instead of capacitive buttons below the 
+screen. Unfortunately, that takes up precious real estate, which is 
+already lacking. Above the screen is an earpiece. The right edge has a 
+power button and a volume rocker.  A Micro-USB port lies on the bottom 
+while a 3.5mm audio jack sits on top. The rear has the primary camera 
+and a circular speaker grill. It is easy to pry the rear cover off by pulling on a corner. Once opened, you'll see that the fairly stocky battery covers the two SIM
+ card slots and the memory card slot. Specifications and softwareUnder
+ the hood of the Nokia Lumia 530 Dual SIM is the same processor that is 
+inside the Motorola Moto E - a Qualcomm Snapdragon 200. However, it is the quad-core variant of the 
+processor  and is clocked at 1.2GHz. It has an integrated Adreno 302 GPU. Disappointingly, there is only 512MB of 
+RAM. We will see if this affects the performance later in the review. 
+The phone has 4GB of storage space, of which only around a 
+gigabyte is available for users. It is a relief then 
+that the phone also accepts microSD cards of up to 
+64GB.There is a 5-megapixel fixed-focus rear camera but no flash. The two SIM cards can connect to 3G networks. Wi-Fi and Bluetooth 4.0 are the other connectivity standards. A 1430mAh 
+battery provides the juice for the phone to work.The 4-inch LCD panel on the phone is a step down from the IPS LCD panel on the 
+Nokia Lumia 520. It has a resolution of 480x854, and this is 
+probably the lowest quality display we've ever seen on a Nokia smartphone. The 
+viewing angles are awful, with the screen washing out with even the 
+slightest of hand movements. Sunlight legibility is really bad even at the highest brightness setting. There is very evident screen tearing when
+ scrolling through the apps pane. We are supremely disappointed that Microsoft had to cut corners like this. Windows Phone 8.1 
+has a lot of new useful updates and it is catching up to a feature-rich 
+platform like Android. However, in our review of the Lumia 630 we noted 
+that Windows Phone 8.1 still has a lot of catching up to do. Our opinion
+ hasn't changed since. One still has to arrange the Live Tiles carefully for the transparent background option to look good; on-screen buttons are visible when playing videos just like we mentioned 
+earlier; the implementation of the Back button as a multitasking shortcut is
+ still confusing; and the Marketplace is missing many useful apps and 
+fun games. We loved the additional apps such as Battery Saver, Data 
+Sense, Wi-Fi Sense and Storage Sense as they do exactly what their names 
+suggest. While Nokia's signature apps MixRadio and Nokia Camera are present, 
+Here Maps and Here Drive+ are missing. Bookmyshow and Snapdeal are the 
+two third-party apps that are preinstalled on the device.CameraIt's
+ been a long time since we last saw Nokia opting for a fixed-focus 
+camera on any smartphone. The 5-megapixel rear camera captures good 
+details and colours in daylight provided it can manage to lock focus on 
+the subject. On the other hand, you'll have to forget about capturing subjects that are very close to you. Images 
+captured in low light conditions are serviceable. The camera on the 
+Lumia 530 Dual SIM can capture only 480p videos, which is a significant step down from the 720p and 1080p options available on other phones.  
+The quality of captured video is not too great. The camera app has a
+ good number of manual options available for users who wish to tweak 
+settings, but we don't know why anyone would bother doing so with a 
+fixed-focus camera. To be fair to the Lumia 530 
+Dual SIM, even the Moto E has a fixed focus camera, and the former's is much 
+better than the latter's.PerformanceIn daily use, we noticed
+ that the phone stuttered a bit while opening apps but it wasn't too 
+apparent. This could be because of the relatively low 512MB of RAM. 
+Otherwise, most of our experiences during daily usage were good. AnTuTu returned a score of 11,485 and WPbench 
+touched 241.09, which is okay. We played a few HD videos which worked 
+fine, but FHD ones refused to play. The earphones bundled with the device are not of the in-ear kind, but they serve the purpose well. The 
+loudspeaker gets really, really loud. True to Nokia's reputation, 
+call quality is exceptional.  In our battery test the phone managed to 
+last us 7 hours and 22 minutes before it died. This is not bad at all 
+and we noticed that it lasted us a day and half in real-world 
+conditions.VerdictAt the moment the Lumia 530 Dual SIM is available for
+ around Rs. 6,500 at many e-commerce outlets. The price is low 
+for a phone that can provide a decent smartphone experience, but 
+unfortunately the Moto E, the Xiaomi Redmi 1S and
+ the Asus Zenfone 4 all provide better smartphone experiences at the same price. Buy 
+this phone only if you want a really cheap device running Windows Phone 8.1. The Lumia 630 and the Lumia 520 have seen price drops 
+and are also available for less than Rs. 10,000. Those two older devices are better options if 
+you don't mind spending only a little bit more.
+Nokia Lumia 530 Dual SIM in pictures
+
+Long before the widely praised Moto E, the fairly competent Asus Zenfone 4
+ or the new crowd favourite Xiaomi Redmi 1S took the budget smartphone market in India by 
+storm, there was one phone that stood out - the Nokia 
+Lumia 520. This phone was a surprise hit for both Microsoft and Nokia, 
+and it introduced first-time users to a polished smartphone experience 
+without having to dig deep into their pockets. 
+
+The Nokia Lumia 520 and its successor, the Nokia Lumia 525, have both received the Windows Phone 8.1 update via the Lumia Cyan update, 
+but Microsoft has also announced the Nokia Lumia 530 Dual SIM, which 
+comes with the update preloaded. However, taking a look at
+ the specifications of the Lumia 530 Dual SIM on paper, it doesn't actually 
+look like an upgrade to the Lumia 520. The asking price is much lower this time around, which puts it in a lower market segment. 
+
+It is no secret that the battle for the title of best low-cost smartphone is 
+very hot at the moment and the Nokia Lumia 530 Dual SIM has a tough fight on
+ its hands to emerge victorious. 
+
+Look and feelOne thing that Nokia always seemed to get right with almost every single new launch was 
+design. Despite being chunky at 11.7mm, the subtly curved edges of 
+the Lumia 530 Dual SIM make it
+ feel ergonomic. The phone is of course made completely using plastic 
+but it doesn't feel cheap. The matte white variant that we 
+received was extremely slippery and difficult to hold, but it's small enough that using it with one hand is
+ not going to be a problem at all. 
+
+The 4-inch screen is 
+surrounded by medium-sized borders. Nokia/Microsoft decided 
+to go with on-screen buttons instead of capacitive buttons below the 
+screen. Unfortunately, that takes up precious real estate, which is 
+already lacking. Above the screen is an earpiece. The right edge has a 
+power button and a volume rocker.  A Micro-USB port lies on the bottom 
+while a 3.5mm audio jack sits on top. The rear has the primary camera 
+and a circular speaker grill. It is easy to pry the rear cover off by pulling on a corner. Once opened, you'll see that the fairly stocky battery covers the two SIM
+ card slots and the memory card slot. 
+
+Specifications and softwareUnder
+ the hood of the Nokia Lumia 530 Dual SIM is the same processor that is 
+inside the Motorola Moto E - a Qualcomm Snapdragon 200. However, it is the quad-core variant of the 
+processor  and is clocked at 1.2GHz. It has an integrated Adreno 302 GPU. Disappointingly, there is only 512MB of 
+RAM. We will see if this affects the performance later in the review. 
+The phone has 4GB of storage space, of which only around a 
+gigabyte is available for users. It is a relief then 
+that the phone also accepts microSD cards of up to 
+64GB.
+
+There is a 5-megapixel fixed-focus rear camera but no flash. The two SIM cards can connect to 3G networks. Wi-Fi and Bluetooth 4.0 are the other connectivity standards. A 1430mAh 
+battery provides the juice for the phone to work.
+
+The 4-inch LCD panel on the phone is a step down from the IPS LCD panel on the 
+Nokia Lumia 520. It has a resolution of 480x854, and this is 
+probably the lowest quality display we've ever seen on a Nokia smartphone. The 
+viewing angles are awful, with the screen washing out with even the 
+slightest of hand movements. Sunlight legibility is really bad even at the highest brightness setting. There is very evident screen tearing when
+ scrolling through the apps pane. We are supremely disappointed that Microsoft had to cut corners like this. 
+
+Windows Phone 8.1 
+has a lot of new useful updates and it is catching up to a feature-rich 
+platform like Android. However, in our review of the Lumia 630 we noted 
+that Windows Phone 8.1 still has a lot of catching up to do. Our opinion
+ hasn't changed since. One still has to arrange the Live Tiles carefully for the transparent background option to look good; on-screen buttons are visible when playing videos just like we mentioned 
+earlier; the implementation of the Back button as a multitasking shortcut is
+ still confusing; and the Marketplace is missing many useful apps and 
+fun games. 
+
+We loved the additional apps such as Battery Saver, Data 
+Sense, Wi-Fi Sense and Storage Sense as they do exactly what their names 
+suggest. While Nokia's signature apps MixRadio and Nokia Camera are present, 
+Here Maps and Here Drive+ are missing. Bookmyshow and Snapdeal are the 
+two third-party apps that are preinstalled on the device.
+
+CameraIt's
+ been a long time since we last saw Nokia opting for a fixed-focus 
+camera on any smartphone. The 5-megapixel rear camera captures good 
+details and colours in daylight provided it can manage to lock focus on 
+the subject. On the other hand, you'll have to forget about capturing subjects that are very close to you. 
+
+Images 
+captured in low light conditions are serviceable. The camera on the 
+Lumia 530 Dual SIM can capture only 480p videos, which is a significant step down from the 720p and 1080p options available on other phones.  
+The quality of captured video is not too great. The camera app has a
+ good number of manual options available for users who wish to tweak 
+settings, but we don't know why anyone would bother doing so with a 
+fixed-focus camera. To be fair to the Lumia 530 
+Dual SIM, even the Moto E has a fixed focus camera, and the former's is much 
+better than the latter's.
+
+PerformanceIn daily use, we noticed
+ that the phone stuttered a bit while opening apps but it wasn't too 
+apparent. This could be because of the relatively low 512MB of RAM. 
+Otherwise, most of our experiences during daily usage were good. 
+
+AnTuTu returned a score of 11,485 and WPbench 
+touched 241.09, which is okay. We played a few HD videos which worked 
+fine, but FHD ones refused to play. The earphones bundled with the device are not of the in-ear kind, but they serve the purpose well. The 
+loudspeaker gets really, really loud. True to Nokia's reputation, 
+call quality is exceptional.  In our battery test the phone managed to 
+last us 7 hours and 22 minutes before it died. This is not bad at all 
+and we noticed that it lasted us a day and half in real-world 
+conditions.
+
+VerdictAt the moment the Lumia 530 Dual SIM is available for
+ around Rs. 6,500 at many e-commerce outlets. The price is low 
+for a phone that can provide a decent smartphone experience, but 
+unfortunately the Moto E, the Xiaomi Redmi 1S and
+ the Asus Zenfone 4 all provide better smartphone experiences at the same price. 
+
+Buy 
+this phone only if you want a really cheap device running Windows Phone 8.1. The Lumia 630 and the Lumia 520 have seen price drops 
+and are also available for less than Rs. 10,000. Those two older devices are better options if 
+you don't mind spending only a little bit more.
+

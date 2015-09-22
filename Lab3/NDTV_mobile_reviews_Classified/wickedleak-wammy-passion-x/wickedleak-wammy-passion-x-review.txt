@@ -1,0 +1,404 @@
+Wickedleak Wammy Passion X review
+
+Wickedleak is one of India's smaller
+ success stories when it comes to our homegrown Android device industry.
+ Like all others, its devices are imported from China, but Wickedleak 
+seems to be widely known and liked by buyers. The company doesn't use 
+slick marketing or advertising like some of its competition, but has 
+built up a name (and a very quirky one, at that) because its products 
+have consistently been good performers and are priced quite reasonably 
+too. Following the Wammy Passion Z and Z+, the new Wammy Passion X
+ has quite a few tricks up its sleeve. It's based on an octa-core 
+processor and has a full-HD screen, but the headline feature is its 
+water-repellent "super-hydrophobic" coating, which the company claims 
+makes the phone largely impervious to all kinds of liquids.We 
+spent quite a bit of time with two Wammy Passion X units, and managed to
+ get quite a few interesting bits of information out of the company 
+along the way. Read on for the full story.Look and feelThe
+ first phone we received was, frankly, one of the ugliest we've ever 
+seen. It was made of shockingly cheap plastic, with a crude 
+screen-printed Wickedleak logo on the rear. We noticed numerous 
+fabrication issues, such as bumps and fibres in the plastic moulding, 
+clumps and streaks of adhesive all around the screen edge, and a battery
+ that looked like it had been hastily wrapped in discarded paper. The 
+lid was flimsy, and the clasps around the edges were difficult to press 
+shut. Even the buttons felt cheap, and the volume down button made a 
+very loud 'click' sound when pressed.What's more, the entire 
+phone had a sticky feel to it, which we weren't sure was attributable 
+only to the much-hyped hydrophobic coating. The device didn't just feel 
+icky to hold, but also picked up fluff from our pockets and any surface 
+we happened to put it down on.When we expressed dissatisfaction 
+to Wickedleak, we were informed that the device sent to us was a "review
+ unit" that didn't represent the devices actually on sale. After 
+explaining to them that the point of a review is to inform readers of 
+exactly what they can expect of a device, the company offered to send us a 
+retail unit. We were expecting the replacement to be a more 
+polished version of what we had already experienced, but as it turns 
+out, the only difference was that the new device had a thinner 
+"AquaProtect" coating. A company representative explained that review 
+units had been given thicker coatings because they had expected them to 
+be subjected to harsher treatment. For the record, we repeated our 
+performance tests on the second unit in order to provide our readers 
+with an accurate idea of what to expect if they buy this product. 
+Performance was the same across both devices.The second phone had
+ a less sticky feel, but the low quality of the plastic and moulding 
+process was even more apparent on this one. The coating had clearly been
+ applied by hand, since uneven brushstrokes were clearly visible, 
+somewhat like lacquer. The panel was less glossy, but there was no other
+ difference: the edges were still rough, adhesive was still smeared 
+around the screen, and the buttons were still awkward.Specifications and softwareThe
+ Wammy Passion X uses a 1.7GHz octa-core processor, making it only the 
+second such product we've reviewed, after the Intex Aqua Octa. Both 
+devices use the same Mediatek MT6592 CPU, which is capable of running 
+all eight cores simultaneously, rather than an arrangement of four more 
+powerful cores and four less powerful ones that hand off tasks to each 
+other based on workload and battery condition.There's 2GB of RAM 
+and 16GB of onboard storage, which is not bad at all for phones in this 
+price range. Bluetooth 2.1 is supported, not the current common 
+Bluetooth 4.0 standard. Apart from that, the specifications are 
+unsurprising.The 5-inch full-HD screen is not especially bright, 
+but it is nice and crisp. With an octa-core processor and sufficiently 
+large battery under the hood, we aren't concerned that it will suck too 
+much power or slow things down.Incidentally, this is one of the few phones which doesn't come with a headset in 
+the box. You get a charger, USB cable, printed instruction sheet and 
+adhesive screen protector, but that's it.The Wammy Passion X runs
+ Android 4.2.2 with a lightly customised UI. The icons are all 
+different, and the notification and quick settings panels are skinned. 
+Apart from that, Wickedleak includes a large number of Chinese apps that
+ are evidently preloaded by the OEM and then just left there. We 
+encountered a Chinese-language app store, Baidu Maps, and two others 
+that we couldn't decipher the names or purposes of. All 
+Wickedleak devices ship rooted and unlocked. There's another app called 
+Superuser which is in both English and Chinese, which offers options 
+related to phone security and maintenance. Not all sections are 
+dual-language, so we could only makes sense of 'System optimisation', 
+'Clean up systemic application' (sic) and 'Root'.Two little apps 
+called Desktop Wallpapers and Themes respectively do pretty much what 
+their names suggest. One lets you choose from a small collection of 
+wallpaper images, and the other lets you switch between four themes, 
+which include wallpaper, icon sets, fonts and colours. Luckly, one of 
+the themes is 'System', which is basically stock Android.Another 
+quirk is that when plugged into a computer's USB port, the phone offers a
+ number of options in addition to the usual media transfer protocol and 
+camera modes. A USB mass storage mode is thrown in for Windows XP users,
+ and a Charge Only mode disables all data functions. There's also a USB CD-ROM mode, which mounts the phone as
+ a read-only CD-ROM drive on any PC. The phone's menu says the virtual 
+CD will contain "some useful software", but when we tried it all we 
+found was a 36-page PDF technical manual detailing the physical and 
+electrical characteristics of the USB protocol.The hydrophobic coatingSpecifications
+ aside, the most unique feature of the Wammy Passion X is its 
+"super-hydrophobic" AquaProtect coating. We're told by Wickedleak 
+representatives that this is a more effective coating than the ordinary 
+hydrophobic treatment applied to some other phones, and that it covers 
+not only the outside surface but also the insides and the electronic 
+components themselves. The company says each Passion X device can 
+withstand up to 30 minutes of immersion in any liquid including tea, 
+coffee and fizzy drinks.Wickedleak seems so confident about this 
+coating that it doesn't feel it necessary to provide watertight flaps 
+over the USB and headset ports. The plastic rear flap definitely isn't 
+watertight, so hopefully the "molecular-level" bonding of the 
+AquaProtect coating will protect the slots, ports and other exposed 
+components. The warranty in fact covers one liquid damage incident per 
+device, which is defined as exposure to liquids for up to 30 minutes. 
+There's a simple sensor inside, somewhat like a litmus paper, which will
+ let a service technician determine how much time a device was exposed 
+to liquid for.Our Passion X's box had a printed instruction sheet
+ that strongly discourages users from treating their device as totally 
+waterproof because of the AquaProtect coating, and outlines its 
+capabilities and limitations. It clarifies that the coating covers the 
+insides of the headset and USB ports, but doesn't affect electrical 
+contact or audio quality in any way. It makes it clear that the phone 
+should not be taken swimming or intentionally subjected to liquid 
+damage. In case of exposure, users are instructed to power down their 
+phone, take the battery out, wipe all accessible surfaces, and leave it 
+standing upright for 48 hours without using it. Wickedleak 
+representatives told us that for short-term exposure, it was enough to 
+leave the phone turned off overnight with the battery out.Although
+ Wickedleak calls the feature AquaProtect (with a trademark symbol), our
+ research found no company claiming to produce such a thing. Wickedleak 
+says it has bought the technology from an Indian firm with ties to an 
+IIT, and that it has big plans to commercialise it in the very near 
+future. It took the company a while to perfect a formulation that would 
+not adversely affect the phone's screen (though a one-glass LCD panel, 
+in which the touch sensor is bonded to the LCD itself, was required) or 
+camera lens. Variations of the coating can be used on cars, ceramic 
+tiles, and even paint. While most Indian companies import their 
+phones fully built from China, this model has to be assembled locally, 
+since the coating is applied here. Wickedleak is understandably not 
+inclined to let others get their hands on the coating material. Thus, 
+even though Wickedleak phones are not exclusive (which means other 
+brands source identical hardware from Chinese OEMs), no other 
+incarnation of this phone will have the same coating. Despite 
+those claims, we found that the description of its features is almost an
+ exact copy of material published by Liquipel, a California-based 
+company that was in the news last year for demonstrating a 
+super-hydrophobic treatment that could be applied to a number of 
+commercially available phones and other gadgets.We saw a demo of 
+the Passion X with water simply rolling off it, and briefly tried to 
+recreate the scenario. We did notice the hydrophobic effect: water 
+droplets simply remained on the surface, both with and without the rear 
+cover on. It was easy enough to wipe water away with a cloth, even after
+ leaving the phone in a cup of water for a few minutes. However, the 
+phone suddenly turned itself off at this point.We left it to dry 
+overnight as described, only to find that it didn't want to come on at 
+all the next morning. The screen showed an illustration of the battery 
+with 1% remaining, after which it refused to charge. We then left it for
+ another few hours, after which it came on, with the battery showing 44%
+ full. However, the phone's charge level kept jumping around, even when 
+it was just plugged in and doing nothing. It's possible that the battery
+ itself, which isn't coated, could have been affected. We therefore ran 
+our battery test only on the second unit, which had not yet been 
+subjected to water exposure.Performance and CameraDespite 
+our problems with the phone's looks, we have to acknowledge that it did 
+fairly well in our tests. We found the Wammy Passion X's performance to 
+be at par with that of the Intex Aqua Octa. AnTuTu gave us a score of 
+26,290, and Quadrant notched up 134,375 points overall. Even though the 
+eight Mediatek ARM cores can provide a fair bit of processing grunt, the
+ integrated Mali GPU is clearly not a powerhouse. Graphics scores were 
+not very impressive, with only 9.3fps in GFXbench and 4624 points in 
+3DMark's Ice Storm Extreme test run.In ordinary usage, we found 
+the phone to be consistently snappy and responsive. Android feels great,
+ and even loading a large number of tabs in the browser didn't cause a 
+slowdown. Games that aren't too graphically intensive will be quite 
+enjoyable.The Wammy Passion X's screen is sharp when seen head-on, but tends to look discoloured at angles greater than 30 degrees. We also noticed that the unit got pretty warm while we were playing games and watching videos.(Click to see full size)The battery lasted for only 4 hours and 21 minutes in our video loop test, which was a bit too little for our liking. Call quality was decent, although people on the other end of the line reported differences in volume depending on how we held the phone.The rear camera is rated at 13 megapixels. We were happy enough with the photos and videos it took in daylight. Detail was surprisingly well captured, and there was only very light noise. However we weren't that thrilled with the colour reproduction. Photos seemed just a bit dull, and had a warm cast to them. Photos taken in low light were also pretty decent, and although the amount of noise was significantly higher, objects were clearly discernible.VerdictWickedleak's
+ super-hydrophobic coating is definitely a unique feature and the 
+company is correct in that it will set it apart in the market. However, 
+that doesn't mean that this phone is waterproof or that you can feel 
+free to dunk it in water for fun every now and then. It should be okay 
+after getting wet in the rain or having a drink spill on it, but that's 
+the extent of how useful the coating is.The phone is otherwise 
+pretty capable for its price. You'll get a powerful processor and decent
+ specifications, along with a crisp, high-res screen. The Wammy Passion 
+X's biggest problem is that it just doesn't look or feel good enough. If
+ you don't care about the plastic texture and general construction 
+quality (or if you can find a nice-looking case that covers pretty much 
+every surface), this is a decent enough phone to buy. 
+Wickedleak Wammy Passion X in pictures
+
+Following the Wammy Passion Z and Z+, the new Wammy Passion X
+ has quite a few tricks up its sleeve. It's based on an octa-core 
+processor and has a full-HD screen, but the headline feature is its 
+water-repellent "super-hydrophobic" coating, which the company claims 
+makes the phone largely impervious to all kinds of liquids.
+
+We 
+spent quite a bit of time with two Wammy Passion X units, and managed to
+ get quite a few interesting bits of information out of the company 
+along the way. Read on for the full story.
+
+Look and feelThe
+ first phone we received was, frankly, one of the ugliest we've ever 
+seen. It was made of shockingly cheap plastic, with a crude 
+screen-printed Wickedleak logo on the rear. We noticed numerous 
+fabrication issues, such as bumps and fibres in the plastic moulding, 
+clumps and streaks of adhesive all around the screen edge, and a battery
+ that looked like it had been hastily wrapped in discarded paper. The 
+lid was flimsy, and the clasps around the edges were difficult to press 
+shut. Even the buttons felt cheap, and the volume down button made a 
+very loud 'click' sound when pressed.
+
+What's more, the entire 
+phone had a sticky feel to it, which we weren't sure was attributable 
+only to the much-hyped hydrophobic coating. The device didn't just feel 
+icky to hold, but also picked up fluff from our pockets and any surface 
+we happened to put it down on.
+
+When we expressed dissatisfaction 
+to Wickedleak, we were informed that the device sent to us was a "review
+ unit" that didn't represent the devices actually on sale. After 
+explaining to them that the point of a review is to inform readers of 
+exactly what they can expect of a device, the company offered to send us a 
+retail unit. 
+
+We were expecting the replacement to be a more 
+polished version of what we had already experienced, but as it turns 
+out, the only difference was that the new device had a thinner 
+"AquaProtect" coating. A company representative explained that review 
+units had been given thicker coatings because they had expected them to 
+be subjected to harsher treatment. For the record, we repeated our 
+performance tests on the second unit in order to provide our readers 
+with an accurate idea of what to expect if they buy this product. 
+Performance was the same across both devices.
+
+The second phone had
+ a less sticky feel, but the low quality of the plastic and moulding 
+process was even more apparent on this one. The coating had clearly been
+ applied by hand, since uneven brushstrokes were clearly visible, 
+somewhat like lacquer. The panel was less glossy, but there was no other
+ difference: the edges were still rough, adhesive was still smeared 
+around the screen, and the buttons were still awkward.
+
+Specifications and softwareThe
+ Wammy Passion X uses a 1.7GHz octa-core processor, making it only the 
+second such product we've reviewed, after the Intex Aqua Octa. Both 
+devices use the same Mediatek MT6592 CPU, which is capable of running 
+all eight cores simultaneously, rather than an arrangement of four more 
+powerful cores and four less powerful ones that hand off tasks to each 
+other based on workload and battery condition.
+
+There's 2GB of RAM 
+and 16GB of onboard storage, which is not bad at all for phones in this 
+price range. Bluetooth 2.1 is supported, not the current common 
+Bluetooth 4.0 standard. Apart from that, the specifications are 
+unsurprising.
+
+The 5-inch full-HD screen is not especially bright, 
+but it is nice and crisp. With an octa-core processor and sufficiently 
+large battery under the hood, we aren't concerned that it will suck too 
+much power or slow things down.
+
+Incidentally, this is one of the few phones which doesn't come with a headset in 
+the box. You get a charger, USB cable, printed instruction sheet and 
+adhesive screen protector, but that's it.
+
+The Wammy Passion X runs
+ Android 4.2.2 with a lightly customised UI. The icons are all 
+different, and the notification and quick settings panels are skinned. 
+Apart from that, Wickedleak includes a large number of Chinese apps that
+ are evidently preloaded by the OEM and then just left there. We 
+encountered a Chinese-language app store, Baidu Maps, and two others 
+that we couldn't decipher the names or purposes of. 
+
+All 
+Wickedleak devices ship rooted and unlocked. There's another app called 
+Superuser which is in both English and Chinese, which offers options 
+related to phone security and maintenance. Not all sections are 
+dual-language, so we could only makes sense of 'System optimisation', 
+'Clean up systemic application' (sic) and 'Root'.
+
+Two little apps 
+called Desktop Wallpapers and Themes respectively do pretty much what 
+their names suggest. One lets you choose from a small collection of 
+wallpaper images, and the other lets you switch between four themes, 
+which include wallpaper, icon sets, fonts and colours. Luckly, one of 
+the themes is 'System', which is basically stock Android.
+
+Another 
+quirk is that when plugged into a computer's USB port, the phone offers a
+ number of options in addition to the usual media transfer protocol and 
+camera modes. A USB mass storage mode is thrown in for Windows XP users,
+ and a Charge Only mode disables all data functions. There's also a USB CD-ROM mode, which mounts the phone as
+ a read-only CD-ROM drive on any PC. The phone's menu says the virtual 
+CD will contain "some useful software", but when we tried it all we 
+found was a 36-page PDF technical manual detailing the physical and 
+electrical characteristics of the USB protocol.
+
+The hydrophobic coatingSpecifications
+ aside, the most unique feature of the Wammy Passion X is its 
+"super-hydrophobic" AquaProtect coating. We're told by Wickedleak 
+representatives that this is a more effective coating than the ordinary 
+hydrophobic treatment applied to some other phones, and that it covers 
+not only the outside surface but also the insides and the electronic 
+components themselves. The company says each Passion X device can 
+withstand up to 30 minutes of immersion in any liquid including tea, 
+coffee and fizzy drinks.
+
+Wickedleak seems so confident about this 
+coating that it doesn't feel it necessary to provide watertight flaps 
+over the USB and headset ports. The plastic rear flap definitely isn't 
+watertight, so hopefully the "molecular-level" bonding of the 
+AquaProtect coating will protect the slots, ports and other exposed 
+components. The warranty in fact covers one liquid damage incident per 
+device, which is defined as exposure to liquids for up to 30 minutes. 
+There's a simple sensor inside, somewhat like a litmus paper, which will
+ let a service technician determine how much time a device was exposed 
+to liquid for.
+
+Our Passion X's box had a printed instruction sheet
+ that strongly discourages users from treating their device as totally 
+waterproof because of the AquaProtect coating, and outlines its 
+capabilities and limitations. It clarifies that the coating covers the 
+insides of the headset and USB ports, but doesn't affect electrical 
+contact or audio quality in any way. It makes it clear that the phone 
+should not be taken swimming or intentionally subjected to liquid 
+damage. In case of exposure, users are instructed to power down their 
+phone, take the battery out, wipe all accessible surfaces, and leave it 
+standing upright for 48 hours without using it. Wickedleak 
+representatives told us that for short-term exposure, it was enough to 
+leave the phone turned off overnight with the battery out.
+
+Although
+ Wickedleak calls the feature AquaProtect (with a trademark symbol), our
+ research found no company claiming to produce such a thing. Wickedleak 
+says it has bought the technology from an Indian firm with ties to an 
+IIT, and that it has big plans to commercialise it in the very near 
+future. It took the company a while to perfect a formulation that would 
+not adversely affect the phone's screen (though a one-glass LCD panel, 
+in which the touch sensor is bonded to the LCD itself, was required) or 
+camera lens. Variations of the coating can be used on cars, ceramic 
+tiles, and even paint. 
+
+While most Indian companies import their 
+phones fully built from China, this model has to be assembled locally, 
+since the coating is applied here. Wickedleak is understandably not 
+inclined to let others get their hands on the coating material. Thus, 
+even though Wickedleak phones are not exclusive (which means other 
+brands source identical hardware from Chinese OEMs), no other 
+incarnation of this phone will have the same coating. 
+
+Despite 
+those claims, we found that the description of its features is almost an
+ exact copy of material published by Liquipel, a California-based 
+company that was in the news last year for demonstrating a 
+super-hydrophobic treatment that could be applied to a number of 
+commercially available phones and other gadgets.
+
+We saw a demo of 
+the Passion X with water simply rolling off it, and briefly tried to 
+recreate the scenario. We did notice the hydrophobic effect: water 
+droplets simply remained on the surface, both with and without the rear 
+cover on. It was easy enough to wipe water away with a cloth, even after
+ leaving the phone in a cup of water for a few minutes. However, the 
+phone suddenly turned itself off at this point.
+
+We left it to dry 
+overnight as described, only to find that it didn't want to come on at 
+all the next morning. The screen showed an illustration of the battery 
+with 1% remaining, after which it refused to charge. We then left it for
+ another few hours, after which it came on, with the battery showing 44%
+ full. However, the phone's charge level kept jumping around, even when 
+it was just plugged in and doing nothing. It's possible that the battery
+ itself, which isn't coated, could have been affected. We therefore ran 
+our battery test only on the second unit, which had not yet been 
+subjected to water exposure.
+
+Performance and CameraDespite 
+our problems with the phone's looks, we have to acknowledge that it did 
+fairly well in our tests. We found the Wammy Passion X's performance to 
+be at par with that of the Intex Aqua Octa. AnTuTu gave us a score of 
+26,290, and Quadrant notched up 134,375 points overall. Even though the 
+eight Mediatek ARM cores can provide a fair bit of processing grunt, the
+ integrated Mali GPU is clearly not a powerhouse. Graphics scores were 
+not very impressive, with only 9.3fps in GFXbench and 4624 points in 
+3DMark's Ice Storm Extreme test run.
+
+In ordinary usage, we found 
+the phone to be consistently snappy and responsive. Android feels great,
+ and even loading a large number of tabs in the browser didn't cause a 
+slowdown. Games that aren't too graphically intensive will be quite 
+enjoyable.
+
+The Wammy Passion X's screen is sharp when seen head-on, but tends to look discoloured at angles greater than 30 degrees. We also noticed that the unit got pretty warm while we were playing games and watching videos.
+
+(Click to see full size)
+
+The battery lasted for only 4 hours and 21 minutes in our video loop test, which was a bit too little for our liking. Call quality was decent, although people on the other end of the line reported differences in volume depending on how we held the phone.
+
+The rear camera is rated at 13 megapixels. We were happy enough with the photos and videos it took in daylight. Detail was surprisingly well captured, and there was only very light noise. However we weren't that thrilled with the colour reproduction. Photos seemed just a bit dull, and had a warm cast to them. Photos taken in low light were also pretty decent, and although the amount of noise was significantly higher, objects were clearly discernible.
+
+VerdictWickedleak's
+ super-hydrophobic coating is definitely a unique feature and the 
+company is correct in that it will set it apart in the market. However, 
+that doesn't mean that this phone is waterproof or that you can feel 
+free to dunk it in water for fun every now and then. It should be okay 
+after getting wet in the rain or having a drink spill on it, but that's 
+the extent of how useful the coating is.
+
+The phone is otherwise 
+pretty capable for its price. You'll get a powerful processor and decent
+ specifications, along with a crisp, high-res screen. The Wammy Passion 
+X's biggest problem is that it just doesn't look or feel good enough. If
+ you don't care about the plastic texture and general construction 
+quality (or if you can find a nice-looking case that covers pretty much 
+every surface), this is a decent enough phone to buy. 
+

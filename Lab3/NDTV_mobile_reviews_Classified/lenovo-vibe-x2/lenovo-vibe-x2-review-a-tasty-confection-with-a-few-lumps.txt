@@ -1,0 +1,366 @@
+Lenovo Vibe X2 Review: A Tasty Confection with a Few Lumps
+
+Lenovo is getting pretty aggressive, with all its most recent 
+products having distinctive personalities. The Vibe X2 is fun and fresh,
+ but it isn't just about superficial appearances. This device packs some
+ impressive hardware under the hood and has a very attractive price too.
+ We're really interesting in seeing what Lenovo has managed to pull off 
+here.Lenovo might not command the same respect for its phones 
+that it does for desktop and laptop PCs, and is not usually at the top 
+of anyone's mind when it comes to shortlisting an Android device to buy.
+ The company knows this, and has a lot to prove - it badly needs a 
+product that will be a mainstream hit and make people seriously consider
+ buying a Lenovo phone rather than a Samsung or Sony. That's a huge 
+task, and we're curious to see whether the Vibe X2 can be that phone.Look and feelFirst of all, there are the stripes. The Vibe X2 looks like something 
+that came out of a bakery or chocolatier, not a smartphone factory. 
+Lenovo has clearly tried hard to ensure that its latest launch looks 
+nothing like the black rectangles we usually see everywhere. It's a bold
+ move, and quite a lot of people will buy this phone based on its looks 
+alone while others will take one look at it and wonder if the whole 
+world has gone crazy.Lenovo calls it gold, but it's actually only
+ the rear layer that's a pale champagne colour, while the middle layers 
+are peach and fiery orange. The frontmost layer is black and is just a 
+little smaller than the rest, which means the black screen has an orange
+ border when viewed head on, and really stands out. The look is 
+certainly unique, and we like that Lenovo has really gone wild in an 
+effort to make the Vibe X2 feel new and different.  Only the 
+gold model is currently available through Lenovo's exclusive retail 
+partner, Flipkart. Lenovo's website also has a more sober version in 
+black, white and grey, as well as another in black, red and maroon if 
+that's more to your taste. Sources indicate these will be launched in 
+India at a later date.The Vibe X2 is a bit awkward to hold, and 
+its corners and edges dug into our palms a little. It's definitely 
+light, which only somewhat makes up for that. Lenovo includes a 
+protective screen film and a clear plastic case in the box, which itself
+ also has the same colour scheme and a pretty neat design with stacked 
+compartments. A recessed tray on the upper left holds two SIM 
+cards - one Micro and one Nano. The buttons are on the right, and 
+there's no microSD slot. The battery is built in and not accessible. 
+Three dots on the lower rear act as contacts for optional clip-on 
+accessories - an extended battery and a speaker - which aren't available
+ yet.The front face is very plain and free of branding - you'll 
+only see the capacitive buttons when they light up. The Vibe X2 feels 
+smaller than other phones with 5-inch screens - and it is in fact quite 
+narrow, with next to no space at all on the sides of the screen.Specifications and softwareOcta-core
+ phones burst onto the scene at the beginning of this year, all based on
+ MediaTek's MT6592 SoC which has been strong enough at most tasks to 
+give market leader Qualcomm some serious competition. Lenovo's Vibe X2 
+is the first phone to be based on one of that chip's successors, the 
+MT6595M. The MT6592 used eight identical ARM Cortex A7 cores, 
+which allowed MediaTek to boast that its "true octa-core" design was 
+superior to that of companies such as Samsung which were mixing and 
+matching cores of different designs and capabilities. However, the 
+company seems to have switched tracks and is now using four high-speed 
+Cortex A17 cores along with four low-power Cortex A7 cores. The former 
+can run at up to 2GHz while the latter can go up to 1.5GHz. The cores 
+are not paired or clustered - instead, they can be addressed 
+independently so that tasks can be assigned to whichever core or cores 
+are most suitable, depending on performance and power saving priorities.The
+ new MT6595 series is still 32-bit only, which isn't a huge limitation 
+since Android support for 64-bit processors is still at a nascent stage.
+ It also incorporates a PowerVR 6200 GPU from Imagination which is a 
+change from ARM's own Mali series used by MediaTek's previous models. 
+Finally, the MT6595M integrates a variety of cellular radios to support 
+voice, 3G, and LTE data as well as Wi-Fi, Bluetooth and GPS.Lenovo
+ has paired this matched this new SoC with 2GB of RAM. There's no 
+microSD slot, so the fixed 32GB of storage is all the space you'll get. We
+ aren't major fans of Lenovo's custom Android skin. Despite a major 
+update, it's still a bit too clunky. Icons and widgets are all mixed on 
+the homescreens, which never works well once you start filling your 
+phone with apps. The icon style and quite a few other touches are 
+heavily inspired by iOS 7 and most of the themes are garish and there's 
+no option that looks anything at all stock Android. We really liked the 
+fact that the Lenovo Vibe Z2 Pro (Review | Photos) let us switch to stock Android - 
+launcher and all - but that feature seems to be missing here. You
+ can mix and match elements from different themes, so for instance if 
+you like the icon style of one but the lock screen or boot animation of 
+another, you can choose those specific elements and use them. We would 
+have liked to be able to download more themes, especially since several 
+of the theme element categories have only one option.The Vibe UI 
+still has some rough edges, such as the app switcher which is rendered 
+half off screen in landscape mode and lots of poorly translated English 
+text throughout. On the positive side, the Vibe UI's notifications shade
+ is well laid out with lots of shortcuts to often-used fuctions, and you
+ can jump to common apps right from the lockscreen. There are also quite
+ a few handy tricks that can be turned on from within the Settings app, 
+including one that lets you double-tap the blank screen to wake the 
+phone from sleep, one that lets you take photos even with the screen 
+locked, and one that prevents accidental pocket dialling. We tried most 
+of these and have to say that they worked fairly well.Many 
+Android phones now use on-screen buttons, but not this one. Lenovo has 
+not only gone with a capacitive strip below the screen, but has also put
+ an unnecessary Menu button there instead of the now-standard Recents 
+button. A long-press brings up the app switcher. Performance and cameraWe
+ had a generally pleasant time with the Vibe X2, apart from the software
+ quirks we encountered. Performance was snappy and we liked all the 
+little shortcuts Lenovo has thought of. These little things made using 
+the phone a pleasant experience. Heavy HD videos played flawlessly, but 
+sound from the phone's speaker was quite awful. It got pretty loud, but 
+terribly distorted and compressed at high volumes. The bundled headset 
+was a lot better, but still not as good as a decent pair of headphones 
+from any well-known brand. The scores of 47,199 in AnTuTu and 
+24,227 overall in Quadrant are absolutely staggering - the Vibe X2 edges
+ out victories against even the recently launched heavyweights such as 
+the Samsung Galaxy Note 4 and Sony Xperia Z3, both of which cost twice 
+or thrice as much as it does. However, Lenovo's brave new mid-range 
+phone loses out in SunSpider and Browsermark, which are more focused on 
+CPU performance alone. Raw benchmark numbers aren't everything, but 
+these results certainly point to the fact that the MediaTek MT6595 
+series is easily at par with Qualcomm's Snapdragon 800 series in many 
+scenarios.Things aren't quite as exciting on the graphics front, 
+though. The Lenovo Vibe X2 struggled a bit in GFXbench's T-Rex run and 
+3DMark's Ice Storm Extreme run, with relatively weak scores of 17fps and
+ 7,950 points respectively. The Vibe X2 might not handle heavy 3D games 
+with as much grace as it does heavy number-crunching apps, which is a 
+bit of a shame. We also noticed the phone heated up quite a bit when 
+running heavy tests.(Click to see full size)The Vibe X2's battery life was pretty 
+disappointing. It lasted only 5 hours, 38 minutes in our video loop test
+ which doesn't bode well for regular use. You'd be lucky to get a full 
+working day out of it before having to reach for a charger. Call quality
+ is good enough though we noticed that cellular network reception seemed
+ consistently less certain than on other phones placed right next to it.The
+ camera app lacks the Pro mode we saw on the Vibe Z2 Pro, but is 
+otherwise similar. There are a few filters and effects, and most 
+settings are easy to access. We found that it sometimes took a little 
+too long for the camera app to launch, and focusing was also not always 
+quick or accurate enough. Results indoors under artificial lighting were
+ quite poor - images came out blurry and with very little detail unless 
+both the camera and subjects were perfectly still. Things were a lot 
+better in daylight but we were still not very pleased with the amount of
+ compression we saw. Most images taken with the 13-megapixel primary 
+camera looked rather artificial. Only extreme close-ups came out good in
+ any kind of lighting situation.(Click to see full size)Photos taken with the front 
+camera weren't too bad - there's a "beauty mode" that kicks in 
+automatically to smoothen out faces and presumably make shots look 
+better, which is best used in moderation. There are also a few options 
+for triggering the camera from a distance, such as flashing a V sign or 
+just blinking hard.Videos are recorded at 1080p by default. We 
+found that recordings made indoors in low light were pretty much 
+useless, but we weren't really happy with samples taken in daylight 
+either. Colours seemed to be off, exposure adjustment was too slow, and 
+the overall quality was just lacking.VerdictThere will 
+inevitably be a whole flood of devices based on the MT6595 series 
+hitting the market in the near future, but for now the Lenovo Vibe X2 
+offers seriously impressive performance for Rs. 20,000 and there really 
+isn't anything else that can match it in all regards - save for perhaps 
+Xiaomi's missing-in-action Mi 3 (Review | Photos) and Mi 4, or the recently launched 
+Huawei Honor 6.Still, this device is far from perfect. The 
+software is especially clunky (though third-party launchers help to some
+ extent) and the camera is disappointing to say the least. You'll also 
+probably want to look into the optional snap-on battery pack if you 
+spend a lot of your day outdoors. If you really like the 
+colourful layered look, you don't need any other reason to be convinced 
+to buy the Vibe X2. If, on the other hand you wouldn't be caught dead 
+being seen with this phone, you'll have to wait for something else to 
+launch that offers equivalent performance at this price.  Lenovo Vibe X2 in pictures
+
+Lenovo is getting pretty aggressive, with all its most recent 
+products having distinctive personalities. The Vibe X2 is fun and fresh,
+ but it isn't just about superficial appearances. This device packs some
+ impressive hardware under the hood and has a very attractive price too.
+ We're really interesting in seeing what Lenovo has managed to pull off 
+here.
+
+Lenovo might not command the same respect for its phones 
+that it does for desktop and laptop PCs, and is not usually at the top 
+of anyone's mind when it comes to shortlisting an Android device to buy.
+ The company knows this, and has a lot to prove - it badly needs a 
+product that will be a mainstream hit and make people seriously consider
+ buying a Lenovo phone rather than a Samsung or Sony. That's a huge 
+task, and we're curious to see whether the Vibe X2 can be that phone.
+
+Look and feelFirst of all, there are the stripes. The Vibe X2 looks like something 
+that came out of a bakery or chocolatier, not a smartphone factory. 
+Lenovo has clearly tried hard to ensure that its latest launch looks 
+nothing like the black rectangles we usually see everywhere. It's a bold
+ move, and quite a lot of people will buy this phone based on its looks 
+alone while others will take one look at it and wonder if the whole 
+world has gone crazy.
+
+Lenovo calls it gold, but it's actually only
+ the rear layer that's a pale champagne colour, while the middle layers 
+are peach and fiery orange. The frontmost layer is black and is just a 
+little smaller than the rest, which means the black screen has an orange
+ border when viewed head on, and really stands out. The look is 
+certainly unique, and we like that Lenovo has really gone wild in an 
+effort to make the Vibe X2 feel new and different. 
+
+ 
+
+Only the 
+gold model is currently available through Lenovo's exclusive retail 
+partner, Flipkart. Lenovo's website also has a more sober version in 
+black, white and grey, as well as another in black, red and maroon if 
+that's more to your taste. Sources indicate these will be launched in 
+India at a later date.
+
+The Vibe X2 is a bit awkward to hold, and 
+its corners and edges dug into our palms a little. It's definitely 
+light, which only somewhat makes up for that. Lenovo includes a 
+protective screen film and a clear plastic case in the box, which itself
+ also has the same colour scheme and a pretty neat design with stacked 
+compartments. 
+
+A recessed tray on the upper left holds two SIM 
+cards - one Micro and one Nano. The buttons are on the right, and 
+there's no microSD slot. The battery is built in and not accessible. 
+Three dots on the lower rear act as contacts for optional clip-on 
+accessories - an extended battery and a speaker - which aren't available
+ yet.
+
+The front face is very plain and free of branding - you'll 
+only see the capacitive buttons when they light up. The Vibe X2 feels 
+smaller than other phones with 5-inch screens - and it is in fact quite 
+narrow, with next to no space at all on the sides of the screen.
+
+Specifications and softwareOcta-core
+ phones burst onto the scene at the beginning of this year, all based on
+ MediaTek's MT6592 SoC which has been strong enough at most tasks to 
+give market leader Qualcomm some serious competition. Lenovo's Vibe X2 
+is the first phone to be based on one of that chip's successors, the 
+MT6595M. 
+
+The MT6592 used eight identical ARM Cortex A7 cores, 
+which allowed MediaTek to boast that its "true octa-core" design was 
+superior to that of companies such as Samsung which were mixing and 
+matching cores of different designs and capabilities. However, the 
+company seems to have switched tracks and is now using four high-speed 
+Cortex A17 cores along with four low-power Cortex A7 cores. The former 
+can run at up to 2GHz while the latter can go up to 1.5GHz. The cores 
+are not paired or clustered - instead, they can be addressed 
+independently so that tasks can be assigned to whichever core or cores 
+are most suitable, depending on performance and power saving priorities.
+
+The
+ new MT6595 series is still 32-bit only, which isn't a huge limitation 
+since Android support for 64-bit processors is still at a nascent stage.
+ It also incorporates a PowerVR 6200 GPU from Imagination which is a 
+change from ARM's own Mali series used by MediaTek's previous models. 
+Finally, the MT6595M integrates a variety of cellular radios to support 
+voice, 3G, and LTE data as well as Wi-Fi, Bluetooth and GPS.
+
+Lenovo
+ has paired this matched this new SoC with 2GB of RAM. There's no 
+microSD slot, so the fixed 32GB of storage is all the space you'll get. 
+
+We
+ aren't major fans of Lenovo's custom Android skin. Despite a major 
+update, it's still a bit too clunky. Icons and widgets are all mixed on 
+the homescreens, which never works well once you start filling your 
+phone with apps. The icon style and quite a few other touches are 
+heavily inspired by iOS 7 and most of the themes are garish and there's 
+no option that looks anything at all stock Android. We really liked the 
+fact that the Lenovo Vibe Z2 Pro (Review | Photos) let us switch to stock Android - 
+launcher and all - but that feature seems to be missing here. 
+
+You
+ can mix and match elements from different themes, so for instance if 
+you like the icon style of one but the lock screen or boot animation of 
+another, you can choose those specific elements and use them. We would 
+have liked to be able to download more themes, especially since several 
+of the theme element categories have only one option.
+
+The Vibe UI 
+still has some rough edges, such as the app switcher which is rendered 
+half off screen in landscape mode and lots of poorly translated English 
+text throughout. On the positive side, the Vibe UI's notifications shade
+ is well laid out with lots of shortcuts to often-used fuctions, and you
+ can jump to common apps right from the lockscreen. There are also quite
+ a few handy tricks that can be turned on from within the Settings app, 
+including one that lets you double-tap the blank screen to wake the 
+phone from sleep, one that lets you take photos even with the screen 
+locked, and one that prevents accidental pocket dialling. We tried most 
+of these and have to say that they worked fairly well.
+
+Many 
+Android phones now use on-screen buttons, but not this one. Lenovo has 
+not only gone with a capacitive strip below the screen, but has also put
+ an unnecessary Menu button there instead of the now-standard Recents 
+button. A long-press brings up the app switcher. 
+
+Performance and cameraWe
+ had a generally pleasant time with the Vibe X2, apart from the software
+ quirks we encountered. Performance was snappy and we liked all the 
+little shortcuts Lenovo has thought of. These little things made using 
+the phone a pleasant experience. Heavy HD videos played flawlessly, but 
+sound from the phone's speaker was quite awful. It got pretty loud, but 
+terribly distorted and compressed at high volumes. The bundled headset 
+was a lot better, but still not as good as a decent pair of headphones 
+from any well-known brand. 
+
+The scores of 47,199 in AnTuTu and 
+24,227 overall in Quadrant are absolutely staggering - the Vibe X2 edges
+ out victories against even the recently launched heavyweights such as 
+the Samsung Galaxy Note 4 and Sony Xperia Z3, both of which cost twice 
+or thrice as much as it does. However, Lenovo's brave new mid-range 
+phone loses out in SunSpider and Browsermark, which are more focused on 
+CPU performance alone. Raw benchmark numbers aren't everything, but 
+these results certainly point to the fact that the MediaTek MT6595 
+series is easily at par with Qualcomm's Snapdragon 800 series in many 
+scenarios.
+
+Things aren't quite as exciting on the graphics front, 
+though. The Lenovo Vibe X2 struggled a bit in GFXbench's T-Rex run and 
+3DMark's Ice Storm Extreme run, with relatively weak scores of 17fps and
+ 7,950 points respectively. The Vibe X2 might not handle heavy 3D games 
+with as much grace as it does heavy number-crunching apps, which is a 
+bit of a shame. We also noticed the phone heated up quite a bit when 
+running heavy tests.
+
+(Click to see full size)
+
+The Vibe X2's battery life was pretty 
+disappointing. It lasted only 5 hours, 38 minutes in our video loop test
+ which doesn't bode well for regular use. You'd be lucky to get a full 
+working day out of it before having to reach for a charger. Call quality
+ is good enough though we noticed that cellular network reception seemed
+ consistently less certain than on other phones placed right next to it.
+
+The
+ camera app lacks the Pro mode we saw on the Vibe Z2 Pro, but is 
+otherwise similar. There are a few filters and effects, and most 
+settings are easy to access. We found that it sometimes took a little 
+too long for the camera app to launch, and focusing was also not always 
+quick or accurate enough. Results indoors under artificial lighting were
+ quite poor - images came out blurry and with very little detail unless 
+both the camera and subjects were perfectly still. Things were a lot 
+better in daylight but we were still not very pleased with the amount of
+ compression we saw. Most images taken with the 13-megapixel primary 
+camera looked rather artificial. Only extreme close-ups came out good in
+ any kind of lighting situation.
+
+(Click to see full size)
+
+Photos taken with the front 
+camera weren't too bad - there's a "beauty mode" that kicks in 
+automatically to smoothen out faces and presumably make shots look 
+better, which is best used in moderation. There are also a few options 
+for triggering the camera from a distance, such as flashing a V sign or 
+just blinking hard.
+
+Videos are recorded at 1080p by default. We 
+found that recordings made indoors in low light were pretty much 
+useless, but we weren't really happy with samples taken in daylight 
+either. Colours seemed to be off, exposure adjustment was too slow, and 
+the overall quality was just lacking.
+
+VerdictThere will 
+inevitably be a whole flood of devices based on the MT6595 series 
+hitting the market in the near future, but for now the Lenovo Vibe X2 
+offers seriously impressive performance for Rs. 20,000 and there really 
+isn't anything else that can match it in all regards - save for perhaps 
+Xiaomi's missing-in-action Mi 3 (Review | Photos) and Mi 4, or the recently launched 
+Huawei Honor 6.
+
+Still, this device is far from perfect. The 
+software is especially clunky (though third-party launchers help to some
+ extent) and the camera is disappointing to say the least. You'll also 
+probably want to look into the optional snap-on battery pack if you 
+spend a lot of your day outdoors. 
+
+If you really like the 
+colourful layered look, you don't need any other reason to be convinced 
+to buy the Vibe X2. If, on the other hand you wouldn't be caught dead 
+being seen with this phone, you'll have to wait for something else to 
+launch that offers equivalent performance at this price. 
+

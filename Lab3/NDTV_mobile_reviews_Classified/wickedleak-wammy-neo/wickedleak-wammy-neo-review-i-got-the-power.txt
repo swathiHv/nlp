@@ -1,0 +1,199 @@
+Wickedleak Wammy Neo Review: I Got the Power
+
+The
+ budget smartphone race in India is getting hotter by the day. It is 
+increasingly becoming difficult to weed out the best from the rest. The 
+entry of smaller, unknown brands might not seem to be any threat to established companies, but anyone could potentially disrupt the market with an attention-grabbing new product. Isn't this how Micromax rose to fame? Wickedleak (we can't stop thinking this is some subsidiary of the popular online whistle-blower Wikileaks),
+ primarily built by MBA graduates as an e-commerce platform in 2009, decided to import extremely low-priced phones and tablets, and of course sell them on the same platform. The Wickedleak Wammy 
+Neo is the cheapest octa-core smartphone one can buy today. We review the device to find out if it is actually worth its price. Look and FeelMade entirely of plastic, the 
+Wickedleak Wammy Neo does not have the polish of the Moto G (review) or the 
+design aesthetics of the Lava Iris Pro 30 (review). The cheapness in finish is 
+evident from the fraying of the print on the rear cover. The text
+ below the main logo looks like it was stencilled on. Once we 
+opened the rear cover, we noticed that even the build quality was 
+extremely suspect. The area around the SIM card slots creaked when we 
+applied moderate pressure. The entire device is characterized by its 
+poor build quality, which is not a good sign at all. Unlike
+ the Wammy Passion X which comes with a hydrophobic coating
+called AquaProtect for resisting water spills, this feature is optional on the Wammy Neo. We got the AquaProtect 
+variant and fortunately the coating wasn't as sticky as the one on the 
+Wammy Passion X. As we poured water over the device it slid off without 
+any problem.This is a feature a lot of people will appreciate.The
+ phone is pretty slim at 7.6mm and its weight makes the Moto G feel like
+ a heavy rock. But as we mentioned, the phone doesn't feel sturdy. It 
+has a power button on the right edge, and the left edge has two 
+distinct buttons for adjusting the volume. On the top edge is the 
+3.5mm audio jack, and a Micro-USB port and microphone are on the bottom.
+ The rear of the device has the camera and flash along with a rather large Wickedleak logo. Right above the display is the front-facing 
+camera.The 5-inch screen takes up most of the front and features a
+ 720x1280 HD resolution. On first look, the screen looked good enough, but 
+on closer inspection we noticed that it wasn't 
+calibrated properly, and we could notice a yellow gradient over what was supposed to be a plain white background. Although it looks okay from a normal viewing distance, regular users are bound
+ to find the screen inaccurate. The viewing angles are not great but sunlight legibility is decent.  Features, Specifications and SoftwareRunning
+ the show is a Mediatek MTK6592 octa-core processor clocked at 1.7GHz, with 
+an integrated Mali-450 GPU. This configuration is unheard 
+of in any smartphone at this price point, which gives the Wickedleak 
+Wammy Neo a definitive edge over the competition. To make things better,
+ Wickedleak provides 2GB of RAM with the phone. For storage, there is 8GB of space and users can expand this by up to 32GB using a microSD 
+card. The Wammy Neo has a 13-megapixel autofocus rear camera 
+with flash and also a 5-megapixel front-facing camera. The phone accepts
+ two SIM cards - one regular sized and the other micro. With respect to 
+connectivity, we were really disappointed by the ancient Bluetooth 2.1 standard. While the Wammy Neo runs the now-dated Android 4.2.2, Wickedleak has promised an update to KitKat, 
+which our review unit had not received. Moreover, the company strips away
+ all the Google goodness one expects from an Android phone. Only Gmail, 
+Google Talk and Maps are preloaded. The other Google apps can of course be 
+downloaded but we expected them to be installed by default. There are two other apps: NoteBook and Backup and Restore,  which do exactly what their names suggest. Otherwise, the software is 
+nothing we haven't seen before and is pretty easy to use.  CameraThe
+ basic camera app may not provide the flair we would have liked for capturing the 
+important moments of life, but it is functional enough. It is the 
+same camera app from the days of Android Gingerbread. By default, the 
+camera choses the 8-megapixel setting for capturing images, and buried deep 
+inside the settings menu is an option to change the images size to 13 megapixels, the largest supported size.Images captured in broad daylight had a
+ good amount of detail but the colours were completely off. The entire 
+image had a blue tint to it as is evident from the sample shot of leaves 
+below. In low light conditions, despite the same issue with colours, the
+ camera let in a good amount of light and the resulting images looked 
+good when not zoomed in. These images will work well for uploading 
+on social media networks. The captured 1080p video using the rear camera
+ is once again marred by the tinted colour. (click to see full size)The 5-megapixel 
+front-facing camera is a treat not in the Normal mode but with the Face 
+Beauty mode. The software does a decent job of hiding pores and heat 
+boils on faces. Selfie aficionados are bound to go gaga over this 
+feature. PerformanceWe can't stress enough that the specs 
+of the Wickedleak Wammy Neo are off the charts for its price. The 
+benchmarks also illustrate the same. In the AnTuTu and Quadrant 
+benchmarks, the phone returned healthy scores of 25,670 and 14,101 
+respectively. In the GFXbench test for graphics performance the Wammy 
+Neo registered 11.7fps and in the intensive 3DMark Ice Storm test it 
+lodged a score of 5424. These results are testimony to the fact that the
+ Wammy Neo is the fastest phone one can buy for less than Rs. 15,000 rupees. Benchmark results aside, day-to-day 
+performance was mostly lag free. However, in our video 
+playback test the phone wasn't too eager to play our high bitrate 
+1080p video. The video stuttered and skipped frames frequently. In our 
+battery test, the phone lasted us 5 hours and 33 minutes before it 
+died. This is decidedly mediocre and one would probably need to charge the phone before the end of each day. The bundled earphones are pathetic, the 
+speaker volume is too low and it sounds tinny. During phone calls, the 
+phone suffered a bit in terms of network reception, and we couldn't hear the 
+other party clearly. VerdictWickedleak gets the pricing spot 
+on. The Wammy Neo costs Rs. 11,990 and it is a bargain for that price. The closest competing smartphone is the iBerry Auxus Nuclea X, 
+which costs almost a thousand rupees more. If the need is a smartphone with great performance below Rs.15,000, look no further than the Wammy 
+Neo. But do keep in mind that the Moto G has far better better build quality and
+ has Motorola's brand name attached to it. Also, the Wammy Neo cuts 
+quite a few corners with bad speakers, below average battery life and, 
+most importantly, subpar build quality. What is the use of all this power if the phone can't deliver decent real-world usage? 
+Wickedleak Wammy Neo in pictures
+
+The
+ budget smartphone race in India is getting hotter by the day. It is 
+increasingly becoming difficult to weed out the best from the rest. The 
+entry of smaller, unknown brands might not seem to be any threat to established companies, but anyone could potentially disrupt the market with an attention-grabbing new product. Isn't this how Micromax rose to fame? 
+
+Wickedleak (we can't stop thinking this is some subsidiary of the popular online whistle-blower Wikileaks),
+ primarily built by MBA graduates as an e-commerce platform in 2009, decided to import extremely low-priced phones and tablets, and of course sell them on the same platform. The Wickedleak Wammy 
+Neo is the cheapest octa-core smartphone one can buy today. We review the device to find out if it is actually worth its price. 
+
+Look and FeelMade entirely of plastic, the 
+Wickedleak Wammy Neo does not have the polish of the Moto G (review) or the 
+design aesthetics of the Lava Iris Pro 30 (review). The cheapness in finish is 
+evident from the fraying of the print on the rear cover. The text
+ below the main logo looks like it was stencilled on. Once we 
+opened the rear cover, we noticed that even the build quality was 
+extremely suspect. The area around the SIM card slots creaked when we 
+applied moderate pressure. The entire device is characterized by its 
+poor build quality, which is not a good sign at all. 
+
+Unlike
+ the Wammy Passion X which comes with a hydrophobic coating
+called AquaProtect for resisting water spills, this feature is optional on the Wammy Neo. We got the AquaProtect 
+variant and fortunately the coating wasn't as sticky as the one on the 
+Wammy Passion X. As we poured water over the device it slid off without 
+any problem.This is a feature a lot of people will appreciate.
+
+The
+ phone is pretty slim at 7.6mm and its weight makes the Moto G feel like
+ a heavy rock. But as we mentioned, the phone doesn't feel sturdy. It 
+has a power button on the right edge, and the left edge has two 
+distinct buttons for adjusting the volume. On the top edge is the 
+3.5mm audio jack, and a Micro-USB port and microphone are on the bottom.
+ The rear of the device has the camera and flash along with a rather large Wickedleak logo. Right above the display is the front-facing 
+camera.
+
+The 5-inch screen takes up most of the front and features a
+ 720x1280 HD resolution. On first look, the screen looked good enough, but 
+on closer inspection we noticed that it wasn't 
+calibrated properly, and we could notice a yellow gradient over what was supposed to be a plain white background. Although it looks okay from a normal viewing distance, regular users are bound
+ to find the screen inaccurate. The viewing angles are not great but sunlight legibility is decent.  
+
+Features, Specifications and SoftwareRunning
+ the show is a Mediatek MTK6592 octa-core processor clocked at 1.7GHz, with 
+an integrated Mali-450 GPU. This configuration is unheard 
+of in any smartphone at this price point, which gives the Wickedleak 
+Wammy Neo a definitive edge over the competition. To make things better,
+ Wickedleak provides 2GB of RAM with the phone. For storage, there is 8GB of space and users can expand this by up to 32GB using a microSD 
+card. 
+
+The Wammy Neo has a 13-megapixel autofocus rear camera 
+with flash and also a 5-megapixel front-facing camera. The phone accepts
+ two SIM cards - one regular sized and the other micro. With respect to 
+connectivity, we were really disappointed by the ancient Bluetooth 2.1 standard. 
+
+While the Wammy Neo runs the now-dated Android 4.2.2, Wickedleak has promised an update to KitKat, 
+which our review unit had not received. Moreover, the company strips away
+ all the Google goodness one expects from an Android phone. Only Gmail, 
+Google Talk and Maps are preloaded. The other Google apps can of course be 
+downloaded but we expected them to be installed by default. There are two other apps: NoteBook and Backup and Restore,  which do exactly what their names suggest. Otherwise, the software is 
+nothing we haven't seen before and is pretty easy to use.  
+
+CameraThe
+ basic camera app may not provide the flair we would have liked for capturing the 
+important moments of life, but it is functional enough. It is the 
+same camera app from the days of Android Gingerbread. By default, the 
+camera choses the 8-megapixel setting for capturing images, and buried deep 
+inside the settings menu is an option to change the images size to 13 megapixels, the largest supported size.
+
+Images captured in broad daylight had a
+ good amount of detail but the colours were completely off. The entire 
+image had a blue tint to it as is evident from the sample shot of leaves 
+below. In low light conditions, despite the same issue with colours, the
+ camera let in a good amount of light and the resulting images looked 
+good when not zoomed in. These images will work well for uploading 
+on social media networks. The captured 1080p video using the rear camera
+ is once again marred by the tinted colour. 
+
+(click to see full size)
+
+The 5-megapixel 
+front-facing camera is a treat not in the Normal mode but with the Face 
+Beauty mode. The software does a decent job of hiding pores and heat 
+boils on faces. Selfie aficionados are bound to go gaga over this 
+feature. 
+
+PerformanceWe can't stress enough that the specs 
+of the Wickedleak Wammy Neo are off the charts for its price. The 
+benchmarks also illustrate the same. 
+
+In the AnTuTu and Quadrant 
+benchmarks, the phone returned healthy scores of 25,670 and 14,101 
+respectively. In the GFXbench test for graphics performance the Wammy 
+Neo registered 11.7fps and in the intensive 3DMark Ice Storm test it 
+lodged a score of 5424. These results are testimony to the fact that the
+ Wammy Neo is the fastest phone one can buy for less than Rs. 15,000 rupees. 
+
+Benchmark results aside, day-to-day 
+performance was mostly lag free. However, in our video 
+playback test the phone wasn't too eager to play our high bitrate 
+1080p video. The video stuttered and skipped frames frequently. In our 
+battery test, the phone lasted us 5 hours and 33 minutes before it 
+died. This is decidedly mediocre and one would probably need to charge the phone before the end of each day. The bundled earphones are pathetic, the 
+speaker volume is too low and it sounds tinny. During phone calls, the 
+phone suffered a bit in terms of network reception, and we couldn't hear the 
+other party clearly. 
+
+VerdictWickedleak gets the pricing spot 
+on. The Wammy Neo costs Rs. 11,990 and it is a bargain for that price. The closest competing smartphone is the iBerry Auxus Nuclea X, 
+which costs almost a thousand rupees more. If the need is a smartphone with great performance below Rs.15,000, look no further than the Wammy 
+Neo. But do keep in mind that the Moto G has far better better build quality and
+ has Motorola's brand name attached to it. Also, the Wammy Neo cuts 
+quite a few corners with bad speakers, below average battery life and, 
+most importantly, subpar build quality. What is the use of all this power if the phone can't deliver decent real-world usage? 
+

@@ -1,0 +1,198 @@
+InFocus M330 Review: Living in the Shadows of the Competition
+
+InFocus,
+ a pretty big name in projectors, recently launched an ultra-budget 
+Android smartphone, the InFocus M2 (Review | Pictures). The InFocus M2's unique 
+selling proposition was its camera, though we weren't very impressed 
+with the rest of the phone. The company already has another model in the market, which 
+is a little more expensive and falls in the phablet category - the InFocus 
+M330.The InFocus M330 is a 5.5-inch smartphone with an octa-core 
+processor. The specifications and the price of the M330 pit 
+it squarely against well-received phones including Micromax's Yu 
+Yureka (Review | Pictures) and the Xiaomi Redmi Note 4G (Review | Pictures). We were eager to find out how the 
+InFocus M330 stacks up. Look and feelAn otherwise very plain-looking phone, the M330 has a very prominent camera on the rear. Thankfully, it doesn't stick out much and 
+so isn't a hindrance. One could even say that it adds 
+a bit of character to the phone. The M330 has a very large 
+body and weighs almost 170g. We had to use two 
+hands to comfortably operate the M330. While the whole body is made of 
+plastic, a metal trim runs around the edges of the phone. The volume 
+rocker and the power button sit on the left and right sides, respectively. These buttons have decent travel but could have 
+been better.A 
+Micro-USB port and a microphone are present on the bottom of the phone. 
+The top houses the 3.5mm audio port. InFocus makes use of a row of 
+capacitive buttons below the display to navigate through the operating system. These buttons aren't backlit 
+which could be a problem in the dark. The earpiece and the 
+front camera are present above the display, which itself takes up most of the front face. The loudspeaker is on the lower rear.Specifications and softwareThe 
+InFocus M330 uses a 1.7GHz octa-core MediaTek MT6592 SoC with integrated
+ Mali-450 MP4 graphics. It has 2GB of RAM and 16GB of internal storage space.
+ The storage space can be expanded by 64GB using a microSD card. Additionally, the Micro-USB port also works as a host for 
+USB drives. The primary camera on the rear can shoot 13-megapixel still 
+images and 1080p videos thanks to its Sony Exmor CMOS sensor. For 
+selfies, there is an 8-megapixel secondary camera on the front.The 
+InFocus loses out to the competition on the connectivity front 
+because both SIM cards are limited to 3G connectivity. This might be alright for the moment, but is not good for anyone looking for a 
+future-proof device because 4G support is missing. The other connectivity 
+options are Wi-Fi a/b/g/n and Bluetooth v4.0. There is a fairly 
+large 3,100mA battery providing the juice for the phone to function.The
+ 5.5-inch IPS LCD screen has a resolution of 720x1280, which translates 
+to a pixel density of 267ppi. The screen has adequately saturated 
+colours and doesn't look pixellated. However, even at maximum 
+brightness the screen looks dull. This affects the sunlight legibility 
+somewhat. Also, it is reflective to the point that when viewed 
+at an angle, the picture is not clear. InFocus protects the screen
+ using a layer of Corning Gorilla Glass 2.The
+ phone runs Android 4.4.2 KitKat and InFocus has installed its homegrown InLife 
+skin on top of it. Just like skins used by other Chinese manufacturers, 
+InLife doesn't have an app drawer by default and all the apps are installed on the 
+homescreen. Interestingly though, as pointed out by one of our readers, hidden deep inside the customisation options is a layer mode setting and by switching to the 'two layers' setting, an app drawer appears. This is quite useful addition for those who like Android's app drawer. That said, there are a few missteps in design, for example the docked icons are too close to the edge of the 
+screen, and InFocus could have given them some breathing space. A few app icons are
+ visible on the lock screen by default and so you can directly 
+launch them from there. InFocus also adds a few gesture-based commands like we've seen in 
+many other skins as well, and they work fine here. There are a few third-party 
+apps but almost all of them are useful so we aren't docking points for 
+that. Performance and cameraIn real-world usage the phone worked like a well-oiled machine thanks to the fairly dependable 
+MediaTek MT6592 SoC and 2GB of RAM. We didn't face any 
+hiccups or stutters, and even graphically rich games such as Asphalt 8 ran 
+fine. In our graphics tests, GFXbench and 3DMark Ice Storm, the 
+phone scored a comfortable 17fps and 7,597 points respectively. AnTuTu returned a score of 32,606 while Quadrant produced 14,118 points. All these figures are similar to what 
+competing phones in the same price range have managed to achieve.  Our
+ test videos, including the most intensive 1080p video encoded at 
+40Mbps, played without skipping any frames or artefacting. The 
+loudspeaker reproduces audio in mono and at starts crackling at the highest volume level, which is not all that loud to begin with. The bundled 
+headset can deliver output at a really high 
+volume. The sound quality is also pretty good, but the only drawback is 
+that it gets really uncomfortable to wear for more than even half an 
+hour. Call quality is average and there is nothing much to say about it. The phone has good battery life in normal usage; it constantly
+ lasted us a day of use and still had about 15 percent to spare. In our video loop test, the battery lasted 8 hours and 58 minutes before it 
+needed to be charged. (Click for full size)Considering how InFocus managed to do a 
+fairly decent job with the camera of the much cheaper M2, we 
+expected the M330 to at least match its performance, if not better it. 
+Unfortunately, we were sorely disappointed with the shots taken by the 
+13-megapixel primary camera. Our test samples were laden with chromatic 
+aberration around the edges and the details were lacking as well. Colours were muted and the sensor couldn't handle overexposure properly. The camera was also pretty slow to start up and 
+shoot. Low-light shots were plain unusable. The 8-megapixel front camera
+ turned out to be a better performer. The selfies we captured had a decent
+ amount of detail and the colours looked vivid. 1080p video 
+captured using the primary camera was decent at best. VerdictThe InFocus
+ M330 is a great attempt by the fledgling company but the competition is pretty 
+strong in this price band. Despite its steady, 
+dependable performance, the phone is not a complete package because of 
+shortcomings in its camera and software. It struggles to 
+stand with the rest, which are pretty strong. If your budget is strictly under Rs. 10,000 
+we'd suggest picking between Micromax's Yu Yureka and the Xiaomi Redmi Note 
+4G rather than the InFocus M330. 
+
+InFocus,
+ a pretty big name in projectors, recently launched an ultra-budget 
+Android smartphone, the InFocus M2 (Review | Pictures). The InFocus M2's unique 
+selling proposition was its camera, though we weren't very impressed 
+with the rest of the phone. The company already has another model in the market, which 
+is a little more expensive and falls in the phablet category - the InFocus 
+M330.
+
+The InFocus M330 is a 5.5-inch smartphone with an octa-core 
+processor. The specifications and the price of the M330 pit 
+it squarely against well-received phones including Micromax's Yu 
+Yureka (Review | Pictures) and the Xiaomi Redmi Note 4G (Review | Pictures). We were eager to find out how the 
+InFocus M330 stacks up. 
+
+Look and feelAn otherwise very plain-looking phone, the M330 has a very prominent camera on the rear. Thankfully, it doesn't stick out much and 
+so isn't a hindrance. One could even say that it adds 
+a bit of character to the phone. 
+
+The M330 has a very large 
+body and weighs almost 170g. We had to use two 
+hands to comfortably operate the M330. While the whole body is made of 
+plastic, a metal trim runs around the edges of the phone. The volume 
+rocker and the power button sit on the left and right sides, respectively. These buttons have decent travel but could have 
+been better.
+
+A 
+Micro-USB port and a microphone are present on the bottom of the phone. 
+The top houses the 3.5mm audio port. InFocus makes use of a row of 
+capacitive buttons below the display to navigate through the operating system. These buttons aren't backlit 
+which could be a problem in the dark. The earpiece and the 
+front camera are present above the display, which itself takes up most of the front face. The loudspeaker is on the lower rear.
+
+Specifications and softwareThe 
+InFocus M330 uses a 1.7GHz octa-core MediaTek MT6592 SoC with integrated
+ Mali-450 MP4 graphics. It has 2GB of RAM and 16GB of internal storage space.
+ The storage space can be expanded by 64GB using a microSD card. Additionally, the Micro-USB port also works as a host for 
+USB drives. The primary camera on the rear can shoot 13-megapixel still 
+images and 1080p videos thanks to its Sony Exmor CMOS sensor. For 
+selfies, there is an 8-megapixel secondary camera on the front.
+
+The 
+InFocus loses out to the competition on the connectivity front 
+because both SIM cards are limited to 3G connectivity. This might be alright for the moment, but is not good for anyone looking for a 
+future-proof device because 4G support is missing. The other connectivity 
+options are Wi-Fi a/b/g/n and Bluetooth v4.0. There is a fairly 
+large 3,100mA battery providing the juice for the phone to function.
+
+The
+ 5.5-inch IPS LCD screen has a resolution of 720x1280, which translates 
+to a pixel density of 267ppi. The screen has adequately saturated 
+colours and doesn't look pixellated. However, even at maximum 
+brightness the screen looks dull. This affects the sunlight legibility 
+somewhat. Also, it is reflective to the point that when viewed 
+at an angle, the picture is not clear. InFocus protects the screen
+ using a layer of Corning Gorilla Glass 2.
+
+The
+ phone runs Android 4.4.2 KitKat and InFocus has installed its homegrown InLife 
+skin on top of it. Just like skins used by other Chinese manufacturers, 
+InLife doesn't have an app drawer by default and all the apps are installed on the 
+homescreen. Interestingly though, as pointed out by one of our readers, hidden deep inside the customisation options is a layer mode setting and by switching to the 'two layers' setting, an app drawer appears. This is quite useful addition for those who like Android's app drawer. That said, there are a few missteps in design, for example the docked icons are too close to the edge of the 
+screen, and InFocus could have given them some breathing space. 
+
+A few app icons are
+ visible on the lock screen by default and so you can directly 
+launch them from there. InFocus also adds a few gesture-based commands like we've seen in 
+many other skins as well, and they work fine here. There are a few third-party 
+apps but almost all of them are useful so we aren't docking points for 
+that. 
+
+Performance and cameraIn real-world usage the phone worked like a well-oiled machine thanks to the fairly dependable 
+MediaTek MT6592 SoC and 2GB of RAM. We didn't face any 
+hiccups or stutters, and even graphically rich games such as Asphalt 8 ran 
+fine. 
+
+In our graphics tests, GFXbench and 3DMark Ice Storm, the 
+phone scored a comfortable 17fps and 7,597 points respectively. AnTuTu returned a score of 32,606 while Quadrant produced 14,118 points. All these figures are similar to what 
+competing phones in the same price range have managed to achieve.  
+
+Our
+ test videos, including the most intensive 1080p video encoded at 
+40Mbps, played without skipping any frames or artefacting. The 
+loudspeaker reproduces audio in mono and at starts crackling at the highest volume level, which is not all that loud to begin with. The bundled 
+headset can deliver output at a really high 
+volume. The sound quality is also pretty good, but the only drawback is 
+that it gets really uncomfortable to wear for more than even half an 
+hour. 
+
+Call quality is average and there is nothing much to say about it. The phone has good battery life in normal usage; it constantly
+ lasted us a day of use and still had about 15 percent to spare. In our video loop test, the battery lasted 8 hours and 58 minutes before it 
+needed to be charged. 
+
+(Click for full size)Considering how InFocus managed to do a 
+fairly decent job with the camera of the much cheaper M2, we 
+expected the M330 to at least match its performance, if not better it. 
+Unfortunately, we were sorely disappointed with the shots taken by the 
+13-megapixel primary camera. Our test samples were laden with chromatic 
+aberration around the edges and the details were lacking as well. Colours were muted and the sensor couldn't handle overexposure properly. 
+
+The camera was also pretty slow to start up and 
+shoot. Low-light shots were plain unusable. The 8-megapixel front camera
+ turned out to be a better performer. The selfies we captured had a decent
+ amount of detail and the colours looked vivid. 1080p video 
+captured using the primary camera was decent at best. 
+
+VerdictThe InFocus
+ M330 is a great attempt by the fledgling company but the competition is pretty 
+strong in this price band. Despite its steady, 
+dependable performance, the phone is not a complete package because of 
+shortcomings in its camera and software. It struggles to 
+stand with the rest, which are pretty strong. If your budget is strictly under Rs. 10,000 
+we'd suggest picking between Micromax's Yu Yureka and the Xiaomi Redmi Note 
+4G rather than the InFocus M330.
+

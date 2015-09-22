@@ -1,0 +1,310 @@
+Xolo Q1000 Opus review
+
+The Indian smartphone market is now flooded with offerings from Indian 
+manufacturers along with premium brands. Companies such as Xolo, Lava, 
+Micromax, Karbonn and Spice are on a roll with new launches coming each 
+week. These brands seem to be taking over the budget end of the 
+market, and consumers are now used to seeing them everywhere. However, 
+Xolo is trying to establish itself as a premium smart devices brand, 
+distinct from its parent company Lava. This time around, Xolo has 
+sourced its processors from Broadcomm, which allows them to offer a 
+quad-core model at a low price. The Xolo Q1000 Opus just about manages 
+to squeeze in under Rs. 10,000 with an MRP of Rs. 9,999.  The Q1000 Opus looks great on paper and we had a chance to review it. Let's find out how it performs in reality.   Design and buildThe
+ front of the Xolo Q1000 Opus features a 5-inch display, with a sensor 
+array near the earpiece grill alongside a 0.3-megapixel (VGA) 
+front-facing camera. The three backlit capacitive touch buttons, namely 
+the menu, home and back keys, are located below the display.The 
+Q1000 feels as bulky as any other 5-inch smartphone, but its thin bezels
+ make it 4mm less broad than the Galaxy Grand. The body is completely 
+plastic and prone to fingerprints all over because of the glossiness. 
+The overall look is similar to any other candybar smartphone you see 
+nowadays. You also get a bundled flip-case with the device which will 
+help keep it safe from scratches. The case doesn't automatically put the
+ phone to sleep or wake it up, like some other smart cases do.The
+ loudspeaker grill is at the bottom of the glossy back panel, while the 
+5-megapixel camera with BSI sensor is located above it, complete with 
+LED flash. You can see Xolo's branding on the back, but nowhere else on 
+the phone.The volume rocker keys are on the left edge and the 
+power/ lock button is located at the right of the Q1000 Opus. A 3.5mm 
+headset jack is located on the top edge, and a Micro-USB port for 
+computer connectivity and charging is located on the bottom edge. DisplayThe Xolo Q1000 Opus features a 5-inch (FWVGA 480x854 pixels) IPS display. At 196ppi, the display supports 16 million colours.At
+ first you see a bright display with good contrast. It is glossy and very
+ reflective, so it's also prone to fingerprints. The viewing angles on 
+the Q1000 Opus are not great and you will have a bit of trouble with 
+viewing angles outdoors, even with the brightness set to full.Apart
+ from that, the display is decent to look at, with a high contrast and 
+decent brightness. Text is clean and sharp, so there is no problem 
+there. The display reproduces colour well and had good deep black 
+levels. However, when it comes to watching videos, you will see 
+pixellation due to the low resolution. Overall, the Xolo Q1000 
+Opus has an average display, which should have been better considering 
+Xolo wants to be a premium brand. CameraXolo Q1000 Opus 
+sports a 5-megapixel rear camera with LED flash and also includes a 
+0.3-megapixel front-facing camera. There is no dedicated camera key for 
+quick access and you cannot customise the volume keys for shooting 
+pictures or for zooming.The Q1000 Opus comes with the stock 
+Android camera app, with minimal settings to play around with for still 
+as well as video capturing. Features like burst mode, self-timer, focus 
+mode, colour mode and face-detection will come handy while taking 
+pictures. You'll need an additional camera app if you are looking for 
+better effects and filters.The camera on the Q1000 Opus takes 
+below average quality images for a 5-megapixel unit. Pictures taken in 
+daylight initially had a lot of white fringing and were pretty awful. 
+During the course of our testing, the company put out an update 
+specifically related to the camera app. Images taken after the update 
+were still not all that good, but at least the fringing problem was 
+addressed. We hope the company will fix this issue completely with 
+another update. Pictures taken indoors with the Xolo Q1000 Opus camera 
+had similar problems. The camera records 720p HD videos and the quality here too was not up to our standards. Ambient sound was picked up pretty well.The
+ 0.3-megapixel front-facing camera has the same while balancing problem 
+as that of the rear camera. Overall, the cameras on the Q1000 Opus 
+remain sub-standard. Those who are specifically looking for a decent 
+camera in their smartphone should avoid the Q1000 completely.Software and interfaceThe
+ Xolo Q1000 Opus runs on Android 4.2.2 Jelly Bean. The interface on the 
+device is the same as the stock Jelly Bean UI, with almost no changes by
+ the company. The lockscreen on the device is same as that of a 
+stock Jelly Bean phone. You can directly access the camera and add four 
+widget panes.The interface is therefore quite simple, with no 
+gimmicks, and you soon get the hang of it. Xolo hasn't pre-installed 
+many apps on the device, apart from their Xolo Care, Xolo Power and Xolo
+ Secure apps. Xolo Care lets you connect to the company's 
+customer care team via text, call or email. It also lets you check and 
+update the software, which you would otherwise do from the settings. Xolo
+ Power is a basic battery health monitoring app which shows how much 
+time is left for various tasks such as audio playback and 3G browsing 
+etc. Tabs in the app give you quick access to battery saving features 
+such as a night mode, low battery mode and sync frequency. One other tab
+ tells you about the current CPU activity.Xolo Secure is an 
+anti-theft and security app that lets you remotely track your phone, 
+make it sound an alarm, wipe out all personal data, and take photos of 
+anyone who tries to unlock it. If the phone's SIM card is changed, the 
+app will send alerts to up to two preregistered numbers and your email 
+address. The app itself can be locked down with a 6-digit PIN. Finally, 
+while Google automatically backs up contacts, the app promises to also 
+back up your SMS and call history databases. Performance and battery lifeThe
+ Xolo Q1000 Opus is powered by a quad-core 1.2GHz Broadcomm BCM23550 
+chipset, along with 1GB of RAM. This is the first device by Xolo since 
+it partnered with Broadcomm. The term "quad-core" has become a selling 
+point, and we now have multiple such devices under Rs. 10,000 in the 
+market. Some of them were launched at higher prices but are now selling 
+below the Rs. 10,000 mark. Thus, Xolo has a number of competitors to 
+beat. Talking about the smoothness of the device in terms of 
+usage and multitasking, it didn't impress us. It did lag a little, which
+ we were not expecting from the quad-core processor.Surfing the 
+Internet on the Q1000's native web browser was pretty decent, with quick
+ page rendering. We also had no trouble with pinch-zooming and touch 
+selection. Videos loaded fine with little bit of pixellation, which is 
+normal for a budget-priced phone.  Games like Temple Run 2 and Subway Surfer played very well and the device didn't heat up during continuous gameplay.The
+ Q1000 Opus includes 4GB of inbuilt storage, out of which only 1.68GB is
+ available to the user. It supports expandable storage up to 32GB via a 
+micro-SD card. The phone supports dual (GSM+GSM) SIM cards. Call 
+quality and headset speaker volume on the device were decent both 
+indoors and outdoors. The phone packs in a 2000mAh battery that 
+according to the company will provide up to 18 hours of talktime on 2G 
+and upto 11 hours on 3G. It easily lasted a day with average usage with 
+the brightness set to 50 percent, Wi-Fi running in the background, and 
+push notifications from Whatsapp and Facebook enabled. We also put it 
+through a video loop test to determine the exact battery runtime, and it
+ did pretty well, lasting 6 hours and 39 minutes. The quality of audio on the Xolo Q1000 Opus headphones is average and the output via loudspeakers is not that bad either.VerdictThe
+ Xolo Q1000 Opus is a 5-inch budget smartphone with a quad-core 
+processor and 1GB of RAM. It is priced at Rs. 9,999 by the company, but 
+the market price for the device at the time of the review was between 
+Rs. 8,500 and Rs. 9,000. The phone is mostly capable when it comes to 
+multitasking, and is good for the price in terms of look and build 
+quality. The camera is the main drawback of the Q1000 Opus. If 
+you are willing to extend your budget slightly then we would suggest the
+ Lava Iris 504Q. If you are not able to extend the budget at all and are
+ not too picky about the brand, you could look at the Zen Ultrafone 
+701HD, which is now available around Rs. 8,500 and offers better overall 
+performance.If you are looking for a capable smartphone in the 
+same price range and don't mind the Windows Phone 8 platform, the Nokia 
+Lumia 520 is a great option, offering better build quality, overall user
+ experience, and camera quality.  Xolo Q1000 Opus in pictures
+
+These brands seem to be taking over the budget end of the 
+market, and consumers are now used to seeing them everywhere. However, 
+Xolo is trying to establish itself as a premium smart devices brand, 
+distinct from its parent company Lava. This time around, Xolo has 
+sourced its processors from Broadcomm, which allows them to offer a 
+quad-core model at a low price. The Xolo Q1000 Opus just about manages 
+to squeeze in under Rs. 10,000 with an MRP of Rs. 9,999.  
+
+The Q1000 Opus looks great on paper and we had a chance to review it. Let's find out how it performs in reality.   
+
+Design and build
+
+The
+ front of the Xolo Q1000 Opus features a 5-inch display, with a sensor 
+array near the earpiece grill alongside a 0.3-megapixel (VGA) 
+front-facing camera. The three backlit capacitive touch buttons, namely 
+the menu, home and back keys, are located below the display.
+
+The 
+Q1000 feels as bulky as any other 5-inch smartphone, but its thin bezels
+ make it 4mm less broad than the Galaxy Grand. The body is completely 
+plastic and prone to fingerprints all over because of the glossiness. 
+The overall look is similar to any other candybar smartphone you see 
+nowadays. You also get a bundled flip-case with the device which will 
+help keep it safe from scratches. The case doesn't automatically put the
+ phone to sleep or wake it up, like some other smart cases do.
+
+The
+ loudspeaker grill is at the bottom of the glossy back panel, while the 
+5-megapixel camera with BSI sensor is located above it, complete with 
+LED flash. You can see Xolo's branding on the back, but nowhere else on 
+the phone.
+
+The volume rocker keys are on the left edge and the 
+power/ lock button is located at the right of the Q1000 Opus. A 3.5mm 
+headset jack is located on the top edge, and a Micro-USB port for 
+computer connectivity and charging is located on the bottom edge. 
+
+DisplayThe Xolo Q1000 Opus features a 5-inch (FWVGA 480x854 pixels) IPS display. At 196ppi, the display supports 16 million colours.
+
+At
+ first you see a bright display with good contrast. It is glossy and very
+ reflective, so it's also prone to fingerprints. The viewing angles on 
+the Q1000 Opus are not great and you will have a bit of trouble with 
+viewing angles outdoors, even with the brightness set to full.
+
+Apart
+ from that, the display is decent to look at, with a high contrast and 
+decent brightness. Text is clean and sharp, so there is no problem 
+there. The display reproduces colour well and had good deep black 
+levels. However, when it comes to watching videos, you will see 
+pixellation due to the low resolution. 
+
+Overall, the Xolo Q1000 
+Opus has an average display, which should have been better considering 
+Xolo wants to be a premium brand. 
+
+Camera
+
+Xolo Q1000 Opus 
+sports a 5-megapixel rear camera with LED flash and also includes a 
+0.3-megapixel front-facing camera. There is no dedicated camera key for 
+quick access and you cannot customise the volume keys for shooting 
+pictures or for zooming.
+
+The Q1000 Opus comes with the stock 
+Android camera app, with minimal settings to play around with for still 
+as well as video capturing. Features like burst mode, self-timer, focus 
+mode, colour mode and face-detection will come handy while taking 
+pictures. You'll need an additional camera app if you are looking for 
+better effects and filters.
+
+The camera on the Q1000 Opus takes 
+below average quality images for a 5-megapixel unit. Pictures taken in 
+daylight initially had a lot of white fringing and were pretty awful. 
+During the course of our testing, the company put out an update 
+specifically related to the camera app. Images taken after the update 
+were still not all that good, but at least the fringing problem was 
+addressed. We hope the company will fix this issue completely with 
+another update. Pictures taken indoors with the Xolo Q1000 Opus camera 
+had similar problems.
+
+ 
+
+The camera records 720p HD videos and the quality here too was not up to our standards. Ambient sound was picked up pretty well.
+
+The
+ 0.3-megapixel front-facing camera has the same while balancing problem 
+as that of the rear camera. Overall, the cameras on the Q1000 Opus 
+remain sub-standard. Those who are specifically looking for a decent 
+camera in their smartphone should avoid the Q1000 completely.
+
+Software and interface
+
+
+
+The
+ Xolo Q1000 Opus runs on Android 4.2.2 Jelly Bean. The interface on the 
+device is the same as the stock Jelly Bean UI, with almost no changes by
+ the company. 
+
+The lockscreen on the device is same as that of a 
+stock Jelly Bean phone. You can directly access the camera and add four 
+widget panes.
+
+The interface is therefore quite simple, with no 
+gimmicks, and you soon get the hang of it. Xolo hasn't pre-installed 
+many apps on the device, apart from their Xolo Care, Xolo Power and Xolo
+ Secure apps. 
+
+Xolo Care lets you connect to the company's 
+customer care team via text, call or email. It also lets you check and 
+update the software, which you would otherwise do from the settings. 
+
+Xolo
+ Power is a basic battery health monitoring app which shows how much 
+time is left for various tasks such as audio playback and 3G browsing 
+etc. Tabs in the app give you quick access to battery saving features 
+such as a night mode, low battery mode and sync frequency. One other tab
+ tells you about the current CPU activity.
+
+Xolo Secure is an 
+anti-theft and security app that lets you remotely track your phone, 
+make it sound an alarm, wipe out all personal data, and take photos of 
+anyone who tries to unlock it. If the phone's SIM card is changed, the 
+app will send alerts to up to two preregistered numbers and your email 
+address. The app itself can be locked down with a 6-digit PIN. Finally, 
+while Google automatically backs up contacts, the app promises to also 
+back up your SMS and call history databases. 
+
+Performance and battery lifeThe
+ Xolo Q1000 Opus is powered by a quad-core 1.2GHz Broadcomm BCM23550 
+chipset, along with 1GB of RAM. This is the first device by Xolo since 
+it partnered with Broadcomm. The term "quad-core" has become a selling 
+point, and we now have multiple such devices under Rs. 10,000 in the 
+market. Some of them were launched at higher prices but are now selling 
+below the Rs. 10,000 mark. Thus, Xolo has a number of competitors to 
+beat. 
+
+Talking about the smoothness of the device in terms of 
+usage and multitasking, it didn't impress us. It did lag a little, which
+ we were not expecting from the quad-core processor.
+
+Surfing the 
+Internet on the Q1000's native web browser was pretty decent, with quick
+ page rendering. We also had no trouble with pinch-zooming and touch 
+selection. Videos loaded fine with little bit of pixellation, which is 
+normal for a budget-priced phone.  
+
+Games like Temple Run 2 and Subway Surfer played very well and the device didn't heat up during continuous gameplay.
+
+The
+ Q1000 Opus includes 4GB of inbuilt storage, out of which only 1.68GB is
+ available to the user. It supports expandable storage up to 32GB via a 
+micro-SD card. 
+
+The phone supports dual (GSM+GSM) SIM cards. Call 
+quality and headset speaker volume on the device were decent both 
+indoors and outdoors. 
+
+The phone packs in a 2000mAh battery that 
+according to the company will provide up to 18 hours of talktime on 2G 
+and upto 11 hours on 3G. It easily lasted a day with average usage with 
+the brightness set to 50 percent, Wi-Fi running in the background, and 
+push notifications from Whatsapp and Facebook enabled. We also put it 
+through a video loop test to determine the exact battery runtime, and it
+ did pretty well, lasting 6 hours and 39 minutes. 
+
+The quality of audio on the Xolo Q1000 Opus headphones is average and the output via loudspeakers is not that bad either.
+
+VerdictThe
+ Xolo Q1000 Opus is a 5-inch budget smartphone with a quad-core 
+processor and 1GB of RAM. It is priced at Rs. 9,999 by the company, but 
+the market price for the device at the time of the review was between 
+Rs. 8,500 and Rs. 9,000. The phone is mostly capable when it comes to 
+multitasking, and is good for the price in terms of look and build 
+quality. 
+
+The camera is the main drawback of the Q1000 Opus. If 
+you are willing to extend your budget slightly then we would suggest the
+ Lava Iris 504Q. If you are not able to extend the budget at all and are
+ not too picky about the brand, you could look at the Zen Ultrafone 
+701HD, which is now available around Rs. 8,500 and offers better overall 
+performance.
+
+
+

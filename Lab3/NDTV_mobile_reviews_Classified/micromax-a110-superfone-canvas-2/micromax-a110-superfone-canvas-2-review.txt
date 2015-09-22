@@ -1,0 +1,222 @@
+Micromax A110 Superfone Canvas 2 review
+
+With big screen phones, popularly known as phablets, gaining prominence,
+ and the increasing demand for budget alternatives, Micromax decided to 
+upgrade its Canvas line-up, within two months of launching its first 
+5-inch phone, the A100. The successor to the A100, the A110 or Canvas 2 
+features a Dual Core processor, an IPS panel, and an upgraded 
+8-megapixel camera.  Here's our review of the device.HardwareThe
+ front of the phone looks strikingly similar to the Samsung Galaxy S III 
+and the Note II, except for the absence of a physical home button. The 
+chrome speaker grill, front camera and sensors are positioned similar to
+ that of the Note 2. There are markings for three capacitive touch 
+buttons below the display. There's no Micromax branding on the front of 
+the phone.  There's a chrome trim around the phone that was a little too
+ shiny for our liking. On the right side, there's a big power key, while
+ the volume rocker sits on the left hand side. Both these keys also 
+sport a chrome finish, but kind of lack refinement, in our opinion. The 
+Micro-USB port and the 3.5mm audio ports sit on the top of the phone. 
+The back cover is made of plastic and has a matte finish. The material 
+used feels durable, and offers a good grip. The camera lens, however, 
+protrudes out towards the top, and feels awkward. There's a dual LED 
+flash besides the camera. The back also sports Micromax branding and a 
+speaker.In terms of hardware, the device is powered by a 1GHz 
+dual-core processor with 512MB RAM, and has 4GB internal storage 
+expandable up to 32GB with microSD card.The Micromax A110 is a 
+dual-SIM smartphone and supports GSM SIM card in both the slots. The SIM
+ Card slots and a slot for the micro SD card hide behind the back cover 
+just above the battery slot. Unfortunately, the SIM cards and the Micro 
+SD cards are not hot-swappable and you'll have to take the battery out 
+if you want to replace either of them.DisplayThe Micromax 
+A110 comes with a 5-inch 262k colour capacitive touch screen with an IPS
+ panel sporting a resolution of 480x854 pixels. We found the screen 
+resolution to be pretty low for a device of this size, and the graphics 
+and text appeared to be less sharp. The viewing angles looked good, and 
+the under-sun visibility on the phone was decent, though we found the 
+screen to be highly reflective.CameraThe 8-megapixel 
+autofocus shooter takes decent images in daylight, although we feel that
+ colour reproduction could have been better. Also, we observed that 
+pictures taken in low-light conditions and indoors (without the use of 
+the LED flash) were a bit grainy. The dual-led flash fulfills its 
+intended purpose. The quality of videos captured through the back camera
+ was average. Overall, we feel that the phone's good for casual 
+photography.A daylight shot taken with the Micromax A110 Canvas 2There is also a 0.3-megapixel front camera, which 
+takes average pictures, and can be used for video conferencing. We wish 
+the phone had a dedicated camera button to help click a quick picture.Software/ InterfaceThe
+ Micromax Canvas 2 runs Android 4.0.4 (Ice Cream Sandwich). Micromax has
+ skinned some elements of the user interface, such as the app icons and 
+the notification tray. The notification tray includes toggles for 
+settings such as Wi-Fi, Brightness, Rotation, Bluetooth, GPS, Data and 
+profiles (for alerts and other notifications). Similar to other ICS 
+devices, there are five customisable home screens that can be filled 
+with app shortcuts and widgets. Micromax has also included some of its 
+own apps including its own apps and content store, M! Store, and 
+services store, M! Zone, in addition to its messaging app, HookUp, and 
+friends locator app, M! Buddy and a few games (Fruit Devil, Cricket 
+Fever). The handset also offers FM Radio.The handset sports three 
+capacitive buttons - a Menu key, Home button and a Back key. Long 
+pressing the Home key opens the app-switcher for switching between 
+open/previously accessed apps. To be honest, we find the menu button 
+redundant. Perhaps, Micromax could allow users to use the menu button 
+exclusively as the app-switcher, on the lines of newer HTC phones.Also, 
+the phone could do with stock icons, and we're not sure why Micromax 
+decided to skin them. We also noticed that Micromax's app store was 
+offering apps such as Viber and Nimbuzz, which are otherwise free, as 
+paid apps.We checked with Micromax and they informed that their app 
+store offers ad-free versions of the apps.During our use of the 
+phone we noticed some minor lag, especially while playing games, but 
+other than that, we'd rate our overall experience as above average. We 
+expected a bit more from a phone that runs on a dual-core processor. 
+We're not sure if the phone would get updated to Jelly Bean, which 
+offers a smoother user experience compared to ICS.Performance/ Battery LifeThe
+ phone is powered by a 1GHz dual-core processor that is a MediaTek 
+chip, and has 512MB of RAM on board. We did not encounter any crashes 
+while working on the phone and multitasking was comfortable. We did 
+notice some lag while navigating through the menu, and while playing 
+some games. We were not able to play 1020p HD video clips, and 720p 
+clips also stuttered. The phone also doesn't support .avi videos 
+natively, but that can be easily fixed by downloading third-party video 
+players.The phone comes with the native Android browser and 
+renders all webpages well. The phone doesn't come with Adobe Flash. The 
+speaker on the phone delivers good quality sound but volume levels are 
+low. Also, since the speaker is located at the back, the volume levels 
+further decrease when the phone lies on its back.  The phone 
+surprisingly doesn't include an ambient light-sensor, so there's no 
+setting for automatic brightness, and the user would need to manually 
+set brightness levels for the screen.Call quality was good. The phone is a dual-SIM GSM phone with support for one active and the other in active-standby mode.The
+ Micromax Canvas 2 comes with a 2000mAh battery and we were satisfied 
+with the backup that it offered. We were able to get around 7 hours of 
+video playback, even with the display on full brightness levels. With 
+intermediate usage during the day, including playing games, a few calls,
+ and e-mail and Twitter notifications turned on, we were able to get 
+about one-and-a-half days of backup. The phone would easily give 7-9 
+hours of usage on a single charge.VerdictThe Micromax 
+A110- Canvas 2 is a decent upgrade to the A100. A 5-inch screen phone at
+ a price point of Rs 9,990 is indeed a value for money proposition. We 
+wish Micromax could have offered a better screen, and shipped this phone
+ with Android 4.1 Jelly Bean. Micromax has already announced the 
+successor to the Canvas 2, the A116 or Canvas HD, which is expected to 
+be available in February. The Canvas HD features a Quad-core processor 
+(again a MediaTek chip), a 5-inch 720p display and Android 4.1 Jelly 
+Bean. It's expected to be priced below Rs. 15,000. So if you can spend a 
+little more, we'd recommend waiting for the Canvas HD. There's also the 
+Karbonn S1 Titanium, which also has a quad-core processor, and sports a 
+4.5-inch qHD (960x540) multi-touch capacitive touch display and runs 
+Android 4.1 Jelly Bean. The phone's been priced at Rs 10,990 and 
+pre-bookings have already started. But we'd wait until we've had a 
+chance to run that unit through our tests before recommending.Micromax A110 Superfone Canvas 2: First look
+
+In terms of hardware, the device is powered by a 1GHz 
+dual-core processor with 512MB RAM, and has 4GB internal storage 
+expandable up to 32GB with microSD card.
+
+The Micromax A110 is a 
+dual-SIM smartphone and supports GSM SIM card in both the slots. The SIM
+ Card slots and a slot for the micro SD card hide behind the back cover 
+just above the battery slot. Unfortunately, the SIM cards and the Micro 
+SD cards are not hot-swappable and you'll have to take the battery out 
+if you want to replace either of them.
+
+DisplayThe Micromax 
+A110 comes with a 5-inch 262k colour capacitive touch screen with an IPS
+ panel sporting a resolution of 480x854 pixels. We found the screen 
+resolution to be pretty low for a device of this size, and the graphics 
+and text appeared to be less sharp. The viewing angles looked good, and 
+the under-sun visibility on the phone was decent, though we found the 
+screen to be highly reflective.
+
+CameraThe 8-megapixel 
+autofocus shooter takes decent images in daylight, although we feel that
+ colour reproduction could have been better. Also, we observed that 
+pictures taken in low-light conditions and indoors (without the use of 
+the LED flash) were a bit grainy. The dual-led flash fulfills its 
+intended purpose. The quality of videos captured through the back camera
+ was average. Overall, we feel that the phone's good for casual 
+photography.
+
+A daylight shot taken with the Micromax A110 Canvas 2
+
+There is also a 0.3-megapixel front camera, which 
+takes average pictures, and can be used for video conferencing. We wish 
+the phone had a dedicated camera button to help click a quick picture.
+
+Software/ InterfaceThe
+ Micromax Canvas 2 runs Android 4.0.4 (Ice Cream Sandwich). Micromax has
+ skinned some elements of the user interface, such as the app icons and 
+the notification tray. The notification tray includes toggles for 
+settings such as Wi-Fi, Brightness, Rotation, Bluetooth, GPS, Data and 
+profiles (for alerts and other notifications). Similar to other ICS 
+devices, there are five customisable home screens that can be filled 
+with app shortcuts and widgets. 
+
+Micromax has also included some of its 
+own apps including its own apps and content store, M! Store, and 
+services store, M! Zone, in addition to its messaging app, HookUp, and 
+friends locator app, M! Buddy and a few games (Fruit Devil, Cricket 
+Fever). The handset also offers FM Radio.
+
+The handset sports three 
+capacitive buttons - a Menu key, Home button and a Back key. Long 
+pressing the Home key opens the app-switcher for switching between 
+open/previously accessed apps. To be honest, we find the menu button 
+redundant. Perhaps, Micromax could allow users to use the menu button 
+exclusively as the app-switcher, on the lines of newer HTC phones.Also, 
+the phone could do with stock icons, and we're not sure why Micromax 
+decided to skin them. We also noticed that Micromax's app store was 
+offering apps such as Viber and Nimbuzz, which are otherwise free, as 
+paid apps.We checked with Micromax and they informed that their app 
+store offers ad-free versions of the apps.
+
+During our use of the 
+phone we noticed some minor lag, especially while playing games, but 
+other than that, we'd rate our overall experience as above average. We 
+expected a bit more from a phone that runs on a dual-core processor. 
+We're not sure if the phone would get updated to Jelly Bean, which 
+offers a smoother user experience compared to ICS.
+
+Performance/ Battery LifeThe
+ phone is powered by a 1GHz dual-core processor that is a MediaTek 
+chip, and has 512MB of RAM on board. We did not encounter any crashes 
+while working on the phone and multitasking was comfortable. We did 
+notice some lag while navigating through the menu, and while playing 
+some games. We were not able to play 1020p HD video clips, and 720p 
+clips also stuttered. The phone also doesn't support .avi videos 
+natively, but that can be easily fixed by downloading third-party video 
+players.
+
+The phone comes with the native Android browser and 
+renders all webpages well. The phone doesn't come with Adobe Flash. The 
+speaker on the phone delivers good quality sound but volume levels are 
+low. Also, since the speaker is located at the back, the volume levels 
+further decrease when the phone lies on its back.  The phone 
+surprisingly doesn't include an ambient light-sensor, so there's no 
+setting for automatic brightness, and the user would need to manually 
+set brightness levels for the screen.
+
+Call quality was good. The phone is a dual-SIM GSM phone with support for one active and the other in active-standby mode.
+
+The
+ Micromax Canvas 2 comes with a 2000mAh battery and we were satisfied 
+with the backup that it offered. We were able to get around 7 hours of 
+video playback, even with the display on full brightness levels. With 
+intermediate usage during the day, including playing games, a few calls,
+ and e-mail and Twitter notifications turned on, we were able to get 
+about one-and-a-half days of backup. The phone would easily give 7-9 
+hours of usage on a single charge.
+
+VerdictThe Micromax 
+A110- Canvas 2 is a decent upgrade to the A100. A 5-inch screen phone at
+ a price point of Rs 9,990 is indeed a value for money proposition. We 
+wish Micromax could have offered a better screen, and shipped this phone
+ with Android 4.1 Jelly Bean. Micromax has already announced the 
+successor to the Canvas 2, the A116 or Canvas HD, which is expected to 
+be available in February. The Canvas HD features a Quad-core processor 
+(again a MediaTek chip), a 5-inch 720p display and Android 4.1 Jelly 
+Bean. It's expected to be priced below Rs. 15,000. So if you can spend a 
+little more, we'd recommend waiting for the Canvas HD. There's also the 
+Karbonn S1 Titanium, which also has a quad-core processor, and sports a 
+4.5-inch qHD (960x540) multi-touch capacitive touch display and runs 
+Android 4.1 Jelly Bean. The phone's been priced at Rs 10,990 and 
+pre-bookings have already started. But we'd wait until we've had a 
+chance to run that unit through our tests before recommending.
+

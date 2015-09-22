@@ -1,0 +1,341 @@
+LG G3 Stylus Review: The Pen Isn't Mightier Than the Touchscreen
+
+LG is really looking to capitalise on the success of the G3. In 
+addition to the low-priced G3 Beat, which we reviewed a little while 
+ago, the company has also rolled out another model - the G3 Stylus. As 
+its name suggests, the unique touch this time is a stylus. Very few 
+companies still design phones with styli, so LG's latest model already 
+stands out.Before Apple declared that human thumbs were the best 
+way to go about implementing touch interfaces (and the rest of the world
+ followed suit), such phones were a lot more common. Today, Samsung's 
+Galaxy Note models are really the only phones we can think of that still
+ emphasise stylus input, and to be fair, they've done a really good job 
+of it. The Galaxy Note and all its successors to date have been high-end
+ flagship phones, with powerful hardware and a whole ecosystem of apps 
+that take advantage of the whole package. With a name derived from the 
+formidable LG G3 (Review | Photos), we were hoping the G3 Stylus would also be a high-end 
+monster with a stylus to boot.As it turns out, that couldn't have
+ been further from reality. The LG G3 Stylus is decidedly low-end; far 
+more like the cut-down G3 Beat (Review | Photos) than the original G3. It shares the same 
+design language, but very little else. That means the stylus has to be 
+compelling enough for this phone to succeed in a very competitive 
+market.Look and feelWhere the G3 Beat tried to emulate its
+ namesake's metal exterior, the G3 Stylus is clearly all plastic. Our 
+white review unit had a brushed texture on the rear but lacked some of 
+its siblings' more subtle touches such as the patterned chin area 
+beneath the screen. The front face is pretty plain and the power and 
+volume buttons are on the rear - LG is really committing to this design 
+decision. The white and black body actually looks quite nice, but we 
+found that it tended to pick up smudges and had to be cleaned a lot.The
+ phone is quite large but comfortable to hold, thanks to the gently 
+curved rear and soft corners everywhere. The headset socket and 
+Micro-USB port are on the bottom. A small tab on the right edge lets you
+ pry off the rear panel, beneath which you'll find the rather large 
+3,000mAh battery, microSD card slot and both Micro-SIM slots.As 
+we've come to expect, the power and volume buttons are beneath the rear 
+camera lens, and your index finger will naturally find itself resting in
+ the space they form. There's no laser autofocus here, which is 
+disappointing since this is one of the features that has defined the G3 
+series thus far.Not all is lost though - there's still an 
+Infrared LED on the top so you can use your phone as a universal remote 
+control for TVs and other appliances. Then, of course, there's the 
+stylus. It slots into a silo on the top, and you'll need to use a 
+fingernail to extract it. The stylus is thin and cylindrical; not even 
+flattened, which means it's a little difficult to grip and use. Specifications and softwareExternally,
+ the G3 Stylus looks rather good but its insides are another matter 
+altogether. This phone is powered by a fairly pedestrian MediaTek MT6582
+ with four cores running at 1.3GHz and a Mali-400MP2 GPU. There's 1GB of
+ RAM and 8GB of internal storage, which thankfully can be expanded by up
+ to 32GB using a microSD card.The screen is a huge letdown. At 
+5.5 inches, the 540x960-pixel resolution works out to a density of only 
+200ppi, which is just not good enough by today's standards. We could 
+clearly see jagged edges on screen throughout the phone's interface. 
+Maybe we've been a bit spoilt by crazy high resolutions on phones of 
+late, but we think LG could have done a lot better considering the G3 
+Stylus' price.Everything else is pretty much standard. There's 3G
+ data, Wi-Fi b/g/n, Bluetooth 4.0 and the aforementioned Infrared. You 
+also get an accelerometer, proximity sensor and compass but strangely no
+ ambient light sensor to help with backlight adjustment. The G3 
+Stylus runs Android 4.4.2 with LG's custom UI on top. It's much the same
+ as what we saw in our reviews of the LG G3 and G3 Beat, except that its
+ crispness is lost thanks to the low screen resolution. The notification
+ shade is very handy, offering instant access to controls of your 
+choosing, and a row of shortcuts to often-used apps such as the 
+calculator and file manager which launch in their own floating windows. There
+ are also quite a few touches to make it easier to use the big screen. 
+Just like with the G3, you can adjust the keyboard's height, split it 
+into two halves, dock it to either side of the screen, and customise its
+ theme. You can pinch or spread to zoom text within apps, for instance 
+in the SMS compose view. The phone's dial pad and lock screen's PIN 
+input pad can also be moved to one side of the screen. Since the power 
+button is usually out of reach, you can double-tap the screen to wake 
+the phone and also double-tap any blank spot on a homescreen (or the 
+status bar from any screen) to put it back to sleep.The LG G3 
+Stylus uses four on-screen buttons - the usual trio of Back, Home and 
+Recents, as well as a fourth button giving you quick access to the 
+dual-SIM management functions. Interestingly, you can customise the 
+layout of the button row completely, including its background. You can 
+add a fifth slot, which helps maintain symmetry with the Home button in 
+the centre. The two non-core slots can be used for the Dual-SIM button, a
+ trigger for the notification shade (a nice touch that saves a finger 
+stretch), or shortcuts to LG's QuickMemo, Qslide or Dual Window 
+features.PerformanceThe LG G3 Stylus isn't a powerhouse by
+ any stretch, but it gets all the basics done. We were happy enough with
+ its performance in day-to-day situations such as surfing the Web and 
+playing around with non-intensive apps.The screen's low 
+resolution won't be a huge problem for most people, but we were able to 
+discern rough edges everywhere, and gradients just don't blend well. The
+ screen is also unfortunately dim and dull. Even with the brightness 
+slider pushed all the way to the end, we weren't very impressed with the
+ screen. There's no automatic brightness adjustment, though there is a 
+"night mode" that will automatically kick the brightness down to zero 
+between midnight and 6am, which, in our view, is not adequate 
+compensation.We were inititally interested by the stylus, but 
+eventually wound up not using it at all. Unlike Samsung's 
+implementation, the stylus here is completely passive - the phone cannot
+ recognise when the stylus is or isn't in use. There is no software that
+ explicitly takes advantage of it; not even shortcuts can be triggered 
+or a way to input text by recognising scribbles. Some apps are more 
+natural to use with a stylus, such as LG's Quick Memo, but they don't 
+seem to have been developed with that in mind and they don't offer 
+anything over and above the experience you get when using them with a 
+finger. We actually felt slowed down when using it to get around the 
+Android UI. The stylus has a rather blunt tip and there doesn't 
+seem to be any pressure sensitivity. In fact it looks and feels like any
+ stylus accessory available for iPhones and iPads, though strangely, it 
+doesn't work on any other phone. Eventually, we pretty much forgot the 
+stylus was even there.As far as benchmarks go, the LG G3 Stylus 
+definitely isn't setting any records. It posted highly mediocre graphics
+ scores - 9.5fps in GFXbench and 3.237 points in 3DMark's Ice Storm 
+test. The AnTuTu score of 17,973 and Quadrant score of 4,401 really 
+reveal just how weak the G3 Stylus' internals are. For the sake of 
+comparison, the Lenovo Vibe X2 (Review | Photos) which sells for almost exactly the same 
+price, managed 47,199 and 24,227 respectively.Battery life was a 
+pleasant surprise, at 12 hours, 20 minutes in our video loop test, which
+ indicates you can expect up to two days of non-intensive usage per 
+charge. HD videos played with only a tiny bit of stuttering in the 
+beginning, but the phone's speaker was disappointingly tinny and sound 
+came out rather distorted.The 13-megapixel rear camera was decent
+ though not especially impressive. It seemed to have trouble with moving
+ subjects and with frames that were partly in shadow. Colours were 
+mostly accurate, but subtle details or gradients in things like flower 
+petals and leaves were not always reproduced well. Some close-up photos 
+came out looking very artificial. You might not notice these things at 
+all unless you check out the image files at full resolution, which means
+ they're perfectly fine for posting to Facebook and sharing with 
+friends. Low-light performance was quite poor, and we were not 
+happy with the amount of shutter lag. The camera app has a mode that 
+hides all controls which means you have to remember when tapping the 
+screen changes focus and when it actually causes a photo to be taken. 
+For some reason, swiping anywhere on the screen causes the app to switch
+ between the front and rear cameras.VerdictWe still aren't
+ fans of LG's buttons-on-the-rear philosophy but we do have to give the 
+company credit for its software enhancements. Considering the potential 
+for one-handed use, the stylus, the low-resolution screen and the size 
+of this phone, we suspect it might really appeal to people with weak 
+eyesight or mobility impairments, or even those who are just generally 
+tech-phobic. For everyone else, the LG G3 Stylus is a nice enough
+ phone, but it's just way overpriced. The stylus really isn't much of a 
+value addition and is not half as useful as we would have liked. There 
+are far better options that cost around Rs. 20,000 today, such as the 
+aforementioned Lenovo Vibe X2, and the Huawei Honor 6 (Review | Photos). The LG G3 Beat, 
+which is a little less expensive, would seem to offer a better balance 
+of features for most people. It's also worth noting that phones priced 
+much lower, such as the Motorola Moto G (Gen 2) (Review | Photos), offer better features 
+and performance. If priced more reasonably, the stylus could help
+ give this phone an edge over its competition. As it stands now, that 
+one feature just isn't good enough to make up for everything else. LG G3 Stylus in pictures
+
+
+LG is really looking to capitalise on the success of the G3. In 
+addition to the low-priced G3 Beat, which we reviewed a little while 
+ago, the company has also rolled out another model - the G3 Stylus. As 
+its name suggests, the unique touch this time is a stylus. Very few 
+companies still design phones with styli, so LG's latest model already 
+stands out.
+
+Before Apple declared that human thumbs were the best 
+way to go about implementing touch interfaces (and the rest of the world
+ followed suit), such phones were a lot more common. Today, Samsung's 
+Galaxy Note models are really the only phones we can think of that still
+ emphasise stylus input, and to be fair, they've done a really good job 
+of it. The Galaxy Note and all its successors to date have been high-end
+ flagship phones, with powerful hardware and a whole ecosystem of apps 
+that take advantage of the whole package. With a name derived from the 
+formidable LG G3 (Review | Photos), we were hoping the G3 Stylus would also be a high-end 
+monster with a stylus to boot.
+
+As it turns out, that couldn't have
+ been further from reality. The LG G3 Stylus is decidedly low-end; far 
+more like the cut-down G3 Beat (Review | Photos) than the original G3. It shares the same 
+design language, but very little else. That means the stylus has to be 
+compelling enough for this phone to succeed in a very competitive 
+market.
+
+Look and feelWhere the G3 Beat tried to emulate its
+ namesake's metal exterior, the G3 Stylus is clearly all plastic. Our 
+white review unit had a brushed texture on the rear but lacked some of 
+its siblings' more subtle touches such as the patterned chin area 
+beneath the screen. The front face is pretty plain and the power and 
+volume buttons are on the rear - LG is really committing to this design 
+decision. The white and black body actually looks quite nice, but we 
+found that it tended to pick up smudges and had to be cleaned a lot.
+
+The
+ phone is quite large but comfortable to hold, thanks to the gently 
+curved rear and soft corners everywhere. The headset socket and 
+Micro-USB port are on the bottom. A small tab on the right edge lets you
+ pry off the rear panel, beneath which you'll find the rather large 
+3,000mAh battery, microSD card slot and both Micro-SIM slots.
+
+As 
+we've come to expect, the power and volume buttons are beneath the rear 
+camera lens, and your index finger will naturally find itself resting in
+ the space they form. There's no laser autofocus here, which is 
+disappointing since this is one of the features that has defined the G3 
+series thus far.
+
+Not all is lost though - there's still an 
+Infrared LED on the top so you can use your phone as a universal remote 
+control for TVs and other appliances. Then, of course, there's the 
+stylus. It slots into a silo on the top, and you'll need to use a 
+fingernail to extract it. The stylus is thin and cylindrical; not even 
+flattened, which means it's a little difficult to grip and use. 
+
+Specifications and softwareExternally,
+ the G3 Stylus looks rather good but its insides are another matter 
+altogether. This phone is powered by a fairly pedestrian MediaTek MT6582
+ with four cores running at 1.3GHz and a Mali-400MP2 GPU. There's 1GB of
+ RAM and 8GB of internal storage, which thankfully can be expanded by up
+ to 32GB using a microSD card.
+
+The screen is a huge letdown. At 
+5.5 inches, the 540x960-pixel resolution works out to a density of only 
+200ppi, which is just not good enough by today's standards. We could 
+clearly see jagged edges on screen throughout the phone's interface. 
+Maybe we've been a bit spoilt by crazy high resolutions on phones of 
+late, but we think LG could have done a lot better considering the G3 
+Stylus' price.
+
+Everything else is pretty much standard. There's 3G
+ data, Wi-Fi b/g/n, Bluetooth 4.0 and the aforementioned Infrared. You 
+also get an accelerometer, proximity sensor and compass but strangely no
+ ambient light sensor to help with backlight adjustment. 
+
+The G3 
+Stylus runs Android 4.4.2 with LG's custom UI on top. It's much the same
+ as what we saw in our reviews of the LG G3 and G3 Beat, except that its
+ crispness is lost thanks to the low screen resolution. The notification
+ shade is very handy, offering instant access to controls of your 
+choosing, and a row of shortcuts to often-used apps such as the 
+calculator and file manager which launch in their own floating windows. 
+
+There
+ are also quite a few touches to make it easier to use the big screen. 
+Just like with the G3, you can adjust the keyboard's height, split it 
+into two halves, dock it to either side of the screen, and customise its
+ theme. You can pinch or spread to zoom text within apps, for instance 
+in the SMS compose view. The phone's dial pad and lock screen's PIN 
+input pad can also be moved to one side of the screen. Since the power 
+button is usually out of reach, you can double-tap the screen to wake 
+the phone and also double-tap any blank spot on a homescreen (or the 
+status bar from any screen) to put it back to sleep.
+
+The LG G3 
+Stylus uses four on-screen buttons - the usual trio of Back, Home and 
+Recents, as well as a fourth button giving you quick access to the 
+dual-SIM management functions. Interestingly, you can customise the 
+layout of the button row completely, including its background. You can 
+add a fifth slot, which helps maintain symmetry with the Home button in 
+the centre. The two non-core slots can be used for the Dual-SIM button, a
+ trigger for the notification shade (a nice touch that saves a finger 
+stretch), or shortcuts to LG's QuickMemo, Qslide or Dual Window 
+features.
+
+PerformanceThe LG G3 Stylus isn't a powerhouse by
+ any stretch, but it gets all the basics done. We were happy enough with
+ its performance in day-to-day situations such as surfing the Web and 
+playing around with non-intensive apps.
+
+The screen's low 
+resolution won't be a huge problem for most people, but we were able to 
+discern rough edges everywhere, and gradients just don't blend well. The
+ screen is also unfortunately dim and dull. Even with the brightness 
+slider pushed all the way to the end, we weren't very impressed with the
+ screen. There's no automatic brightness adjustment, though there is a 
+"night mode" that will automatically kick the brightness down to zero 
+between midnight and 6am, which, in our view, is not adequate 
+compensation.
+
+We were inititally interested by the stylus, but 
+eventually wound up not using it at all. Unlike Samsung's 
+implementation, the stylus here is completely passive - the phone cannot
+ recognise when the stylus is or isn't in use. There is no software that
+ explicitly takes advantage of it; not even shortcuts can be triggered 
+or a way to input text by recognising scribbles. Some apps are more 
+natural to use with a stylus, such as LG's Quick Memo, but they don't 
+seem to have been developed with that in mind and they don't offer 
+anything over and above the experience you get when using them with a 
+finger. We actually felt slowed down when using it to get around the 
+Android UI. 
+
+The stylus has a rather blunt tip and there doesn't 
+seem to be any pressure sensitivity. In fact it looks and feels like any
+ stylus accessory available for iPhones and iPads, though strangely, it 
+doesn't work on any other phone. Eventually, we pretty much forgot the 
+stylus was even there.
+
+As far as benchmarks go, the LG G3 Stylus 
+definitely isn't setting any records. It posted highly mediocre graphics
+ scores - 9.5fps in GFXbench and 3.237 points in 3DMark's Ice Storm 
+test. The AnTuTu score of 17,973 and Quadrant score of 4,401 really 
+reveal just how weak the G3 Stylus' internals are. For the sake of 
+comparison, the Lenovo Vibe X2 (Review | Photos) which sells for almost exactly the same 
+price, managed 47,199 and 24,227 respectively.
+
+Battery life was a 
+pleasant surprise, at 12 hours, 20 minutes in our video loop test, which
+ indicates you can expect up to two days of non-intensive usage per 
+charge. HD videos played with only a tiny bit of stuttering in the 
+beginning, but the phone's speaker was disappointingly tinny and sound 
+came out rather distorted.
+
+The 13-megapixel rear camera was decent
+ though not especially impressive. It seemed to have trouble with moving
+ subjects and with frames that were partly in shadow. Colours were 
+mostly accurate, but subtle details or gradients in things like flower 
+petals and leaves were not always reproduced well. Some close-up photos 
+came out looking very artificial. You might not notice these things at 
+all unless you check out the image files at full resolution, which means
+ they're perfectly fine for posting to Facebook and sharing with 
+friends. 
+
+Low-light performance was quite poor, and we were not 
+happy with the amount of shutter lag. The camera app has a mode that 
+hides all controls which means you have to remember when tapping the 
+screen changes focus and when it actually causes a photo to be taken. 
+For some reason, swiping anywhere on the screen causes the app to switch
+ between the front and rear cameras.
+
+VerdictWe still aren't
+ fans of LG's buttons-on-the-rear philosophy but we do have to give the 
+company credit for its software enhancements. Considering the potential 
+for one-handed use, the stylus, the low-resolution screen and the size 
+of this phone, we suspect it might really appeal to people with weak 
+eyesight or mobility impairments, or even those who are just generally 
+tech-phobic. 
+
+For everyone else, the LG G3 Stylus is a nice enough
+ phone, but it's just way overpriced. The stylus really isn't much of a 
+value addition and is not half as useful as we would have liked. There 
+are far better options that cost around Rs. 20,000 today, such as the 
+aforementioned Lenovo Vibe X2, and the Huawei Honor 6 (Review | Photos). The LG G3 Beat, 
+which is a little less expensive, would seem to offer a better balance 
+of features for most people. It's also worth noting that phones priced 
+much lower, such as the Motorola Moto G (Gen 2) (Review | Photos), offer better features 
+and performance. 
+
+If priced more reasonably, the stylus could help
+ give this phone an edge over its competition. As it stands now, that 
+one feature just isn't good enough to make up for everything else.
+

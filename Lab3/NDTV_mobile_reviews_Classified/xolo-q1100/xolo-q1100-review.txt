@@ -1,0 +1,366 @@
+Xolo Q1100 review
+
+There's no real doubt that Indian smartphone brands are giving 
+established international companies a run for their money, but the 
+argument that they're only able to do so by selling cheap, poorly 
+manufactured products might not be able to hold water for very much 
+longer. Xolo is one of a small handful of companies that isn't in a race
+ to the bottom, and its products of late have been quite respectable in 
+terms of looks and build quality.Xolo has made a number of 
+intelligent choices with its latest model, the Q1100. Its design, 
+features and specifications are all understated and well thought out. 
+There are no outrageous features, such as a full-HD screen or octa-core 
+processor, which seem to be trendy things to boast about right now. 
+Instead, there's a well-balanced set of specifications - the kind of 
+thing buyers should really care about.We're curious to see how the Xolo Q1100 holds up in our benchmark suite, and whether Xolo's subtle approach will pay off.Look and feelThe
+ Q1100 looks great, with a simple all-black body and unassuming profile.
+ The plastic surrounding the front panel glass extends over the bottom 
+edge like a curved lip, breaking up an otherwise ordinary rectangular 
+shape.The front face is almost completely dark. With the screen 
+off, you can just about make out the outlines of the three capacitive 
+Android buttons below the screen. Above it, there's a rather prominent 
+Xolo logo (which we could have done without), and the clearly visible 
+front camera.The rear shell is made of plastic with a soft-touch 
+coating. We're not sure how long the coating will last, as these tend to
+ either peel off or become oily over time, but it does look good out of 
+the box. It's also very smooth; we would have preferred something a 
+little easier to grip.The shell extends around the top and sides 
+of the Q1100. The power button on the right and volume rocker on the 
+left are actually built into the shell, and come off with it. The rear 
+is also quite bare, apart from a small speaker grille on the bottom, a 
+silver embossed Xolo logo right in the middle, and the camera lens and 
+flash near the top. The camera sticks out about a millimetre beyond the 
+rest of the body, and is surrounded by a bright silver ring. There's
+ small notch on the bottom of the right edge which you can use to pry 
+the shell off, with a fingernail. A series of tiny plastic tabs around 
+the edges hold it in place. This is the only complaint we have about the
+ build quality of the Q1100, because it doesn't always line up 
+perfectly, and the plastic tabs at the top stick out unless you pay 
+close attention when snapping the shell on. The plastic is also a little
+ creaky, and you we could hear it flex when picking up the phone or 
+shifting our grip.Apart from that, we're pretty impressed with 
+the Q1100. It fits nicely in one hand, despite having a 5-inch screen. 
+The proportions and weight also feel just about right. A lot of people 
+who automatically dismiss Indian brands or think they would never be 
+seen dead with a "cheap" phone should give this model a second look.Features and specificationsThe
+ most interesting thing about the Q1100 is that it is based on a 
+Qualcomm Snapdragon 400 system-on-a-chip (SoC), as opposed to the 
+lower-performance chips from MediaTek and other smaller companies that 
+are prevalent not only at this price point, but also at higher prices. 
+Unfortunately, the perception that more cores are better has become 
+quite firmly entrenched in the market, and so with quad-core processors 
+becoming somewhat common, manufacturers are only too happy to produce 
+octa-core models. The simple fact is that not all cores are built
+ the same, and so it doesn't really matter how many of them you have if 
+they aren't doing all that much work. The octa-core models we've 
+reviewed so far have excelled in certain CPU-bound tests, but their 
+real-world performance has not been noticeably better than that of 
+high-end quad-core models.Additionally, many phone makers seem 
+happy to focus only on core count while ignoring other facets of a 
+processor, such as its graphics capabilities. On the whole, MediaTek's 
+chips have not been able to match Qualcomm's in gaming and 
+graphics-heavy tests.Thus, the Qualcomm Snapdragon 400 is a 
+sensible choice, rather than one that will produce breathless headlines.
+ This SoC was designed specifically for mid-budget smartphones, and its 
+four Krait processor cores run at 1.4GHz, along with a 450MHz Adreno 305
+ GPU.The processor is supported by 1GB of RAM, 8GB of built-in 
+storage, and a 2,000mAh lithium-ion battery. The screen resolution is 
+720x1280; not quite full-HD, but decent enough by most standards, 
+especially for a budget phone. You also get AGPS, Wi-Fi b/g/n and 
+Bluetooth 3.0.Interestingly, the Q1100 comes with Android 4.3, 
+rather than 4.2, which seems to be the version most budget manufacturers
+ are stuck on. Xolo doesn't do much customisation in terms of visual 
+appearance, but it does bundle a few apps, including its own Xolo Power 
+and Xolo Secure, which you can read about in detail in our review of the
+ Q3000.There are also two very interesting apps for Indian users.
+ Reverie Phonebook can display your contacts transliterated into Hindi, 
+Gujarati, Punjabi, Tamil, Telegu, Kannada or Malayalam. The interface is
+ a bit unpolished, and spellings aren't perfect, but this is exactly the
+ sort of thing that could really come in handy for users who aren't 
+comfortable with English interfaces.The other app is called 
+TransPic, and its purpose is to translate or transliterate Hindi text 
+into English script. The instructions within the app aren't very clear, 
+and we couldn't detect any difference between online and offline mode. 
+We also found that we needed to get pretty close to text on a page, 
+which meant we couldn't always fit a full line or paragraph into each 
+frame. Recognition accuracy was pretty impressive and there's even a 
+button that will read out recognised text, which is just another example
+ of how this app could prove to be very useful to non-English speakers.CameraWhereas
+ most of the phone interface is pretty polished, the camera app has a 
+very odd series of menus with far too many seemingly random options. 
+There's only a single control button in the camera interface, which 
+brings up a menu with icons for HDR mode, the timer, and swapping 
+between the front and rear camera, as well as three submenus with 
+identical icons. The first of these contains options for photo 
+storage location, scene mode, picture size, zero shutter lag, and even a
+ giant histogram that blocks nearly half the screen. The second offers 
+colour effects, toggles for face detection and touch AF, exposure 
+options, and sliders for saturation, contrast and sharpness. The third 
+lets you choose an ISO value, AE bracketing, red eye reduction, exposure
+ compensation, a filter called "wavelet denoise mode", and finally the 
+flash.It's a bit odd that the flash and scene controls aren't 
+accessible more easily. Between Xolo and Google, this camera app is in 
+serious need of an overhaul.Photos taken with the Q1100 outdoors 
+in broad daylight were surprisingly good, with sharp focus and low 
+noise. There's a bit of a red colour cast, but nothing too serious. 
+Unfortunately, when fully zoomed in, you'll be able to detect excessive 
+compression, which gives people and objects a slightly artificial look.Photos
+ taken indoors were a bit noisier, but detail was still clearly 
+discernible and focusing was accurate. In darker conditions, things were
+ a lot worse. Still, we have to remind ourselves of this phone's cost, 
+and measure our expectations accordingly.(Click to see full size)We found videos shot 
+with this phone came out a bit too dark, and moving objects weren't 
+clear enough for our liking. You shouldn't use this phone for anything 
+more than casual clips now and then.PerformanceWe were 
+happy to see that Xolo's choice of a Qualcomm processor over a MediaTek 
+one has paid off. Performance in our benchmarks was quite impressive, 
+especially the graphics and gaming tests. We achieved scores of 18,953 
+in AnTuTu, and 9,397 overall in Quadrant. 3DMark's 720p Ice Storm 
+scenario returned a score of 5644 points, while GFXBench managed to run 
+at 10.6fps. This indicates a better balance of power between graphics 
+and core processing than we are used to seeing.Temple Run 2 and 
+other casual titles ran without a hitch, so you should be able to run 
+medium-intensity games at decent quality on the Xolo Q1100. When we 
+tried watching 1080p HD videos, we noticed a bit of lag in heavily 
+detailed scenes and when skipping around the timeline in some of our 
+clips, which was a minor letdown. 720p clips played just fine, though. 
+Audio volume was a bit underwhelming, but we had no complaints with 
+regard to the clarity.The Q1100's battery life was perhaps the 
+biggest disappointment we faced. It lasted only 3 hours and 33 minutes 
+in our video playback loop test, which does not bode well for 
+performance in the real world. We wouldn't expect to get a full day of 
+even moderate usage out of this device.VerdictXolo has 
+done a great job of upping the ante in terms of appeal. Even if you 
+staunchly believe that you'll never buy a phone from an Indian brand 
+(regardless of where it is actually manufactured), you'd be tempted to 
+give the Q1100 a second look. In addition, it doesn't skimp where it 
+really matters, which is the processor. Finally, there's the price to 
+consider. If there was no real competition at around the same 
+price point, we'd be happy to recommend the Xolo Q1100, but 
+unfortunately for it, this phone is up against the 16GB Motorola Moto G, which 
+uses the same processor, and the Micromax Canvas Turbo Mini, which has 
+far better battery life. The Moto G has been our favourite ever since we
+ reviewed it, and frankly, the Xolo Q1100 hasn't managed to 
+significantly outshine it at anything. Even the Turbo Mini, which lags 
+in most benchmark scores, offers way better battery life.So even 
+though we like the Q1100, we aren't a hundred percent enthusiastic about
+ recommending it to potential buyers. The build quality issues are 
+minor, and we can live with a little creaking now and then. What truly 
+concerns us is the battery life. It's no good to have a smart-looking 
+phone with a capable processor if there's no juice to run anything on. 
+No one wants to walk around all day with a charger or external battery, 
+and so despite everything else that Xolo has achieved, the poor battery 
+life is this phone's Achilles heel.  Xolo Q1100 in pictures
+
+There's no real doubt that Indian smartphone brands are giving 
+established international companies a run for their money, but the 
+argument that they're only able to do so by selling cheap, poorly 
+manufactured products might not be able to hold water for very much 
+longer. Xolo is one of a small handful of companies that isn't in a race
+ to the bottom, and its products of late have been quite respectable in 
+terms of looks and build quality.
+
+Xolo has made a number of 
+intelligent choices with its latest model, the Q1100. Its design, 
+features and specifications are all understated and well thought out. 
+There are no outrageous features, such as a full-HD screen or octa-core 
+processor, which seem to be trendy things to boast about right now. 
+Instead, there's a well-balanced set of specifications - the kind of 
+thing buyers should really care about.
+
+We're curious to see how the Xolo Q1100 holds up in our benchmark suite, and whether Xolo's subtle approach will pay off.
+
+Look and feelThe
+ Q1100 looks great, with a simple all-black body and unassuming profile.
+ The plastic surrounding the front panel glass extends over the bottom 
+edge like a curved lip, breaking up an otherwise ordinary rectangular 
+shape.
+
+The front face is almost completely dark. With the screen 
+off, you can just about make out the outlines of the three capacitive 
+Android buttons below the screen. Above it, there's a rather prominent 
+Xolo logo (which we could have done without), and the clearly visible 
+front camera.
+
+The rear shell is made of plastic with a soft-touch 
+coating. We're not sure how long the coating will last, as these tend to
+ either peel off or become oily over time, but it does look good out of 
+the box. It's also very smooth; we would have preferred something a 
+little easier to grip.
+
+The shell extends around the top and sides 
+of the Q1100. The power button on the right and volume rocker on the 
+left are actually built into the shell, and come off with it. The rear 
+is also quite bare, apart from a small speaker grille on the bottom, a 
+silver embossed Xolo logo right in the middle, and the camera lens and 
+flash near the top. The camera sticks out about a millimetre beyond the 
+rest of the body, and is surrounded by a bright silver ring. 
+
+There's
+ small notch on the bottom of the right edge which you can use to pry 
+the shell off, with a fingernail. A series of tiny plastic tabs around 
+the edges hold it in place. This is the only complaint we have about the
+ build quality of the Q1100, because it doesn't always line up 
+perfectly, and the plastic tabs at the top stick out unless you pay 
+close attention when snapping the shell on. The plastic is also a little
+ creaky, and you we could hear it flex when picking up the phone or 
+shifting our grip.
+
+Apart from that, we're pretty impressed with 
+the Q1100. It fits nicely in one hand, despite having a 5-inch screen. 
+The proportions and weight also feel just about right. A lot of people 
+who automatically dismiss Indian brands or think they would never be 
+seen dead with a "cheap" phone should give this model a second look.
+
+Features and specificationsThe
+ most interesting thing about the Q1100 is that it is based on a 
+Qualcomm Snapdragon 400 system-on-a-chip (SoC), as opposed to the 
+lower-performance chips from MediaTek and other smaller companies that 
+are prevalent not only at this price point, but also at higher prices. 
+Unfortunately, the perception that more cores are better has become 
+quite firmly entrenched in the market, and so with quad-core processors 
+becoming somewhat common, manufacturers are only too happy to produce 
+octa-core models. 
+
+The simple fact is that not all cores are built
+ the same, and so it doesn't really matter how many of them you have if 
+they aren't doing all that much work. The octa-core models we've 
+reviewed so far have excelled in certain CPU-bound tests, but their 
+real-world performance has not been noticeably better than that of 
+high-end quad-core models.
+
+Additionally, many phone makers seem 
+happy to focus only on core count while ignoring other facets of a 
+processor, such as its graphics capabilities. On the whole, MediaTek's 
+chips have not been able to match Qualcomm's in gaming and 
+graphics-heavy tests.
+
+Thus, the Qualcomm Snapdragon 400 is a 
+sensible choice, rather than one that will produce breathless headlines.
+ This SoC was designed specifically for mid-budget smartphones, and its 
+four Krait processor cores run at 1.4GHz, along with a 450MHz Adreno 305
+ GPU.
+
+The processor is supported by 1GB of RAM, 8GB of built-in 
+storage, and a 2,000mAh lithium-ion battery. The screen resolution is 
+720x1280; not quite full-HD, but decent enough by most standards, 
+especially for a budget phone. You also get AGPS, Wi-Fi b/g/n and 
+Bluetooth 3.0.
+
+Interestingly, the Q1100 comes with Android 4.3, 
+rather than 4.2, which seems to be the version most budget manufacturers
+ are stuck on. Xolo doesn't do much customisation in terms of visual 
+appearance, but it does bundle a few apps, including its own Xolo Power 
+and Xolo Secure, which you can read about in detail in our review of the
+ Q3000.
+
+There are also two very interesting apps for Indian users.
+ Reverie Phonebook can display your contacts transliterated into Hindi, 
+Gujarati, Punjabi, Tamil, Telegu, Kannada or Malayalam. The interface is
+ a bit unpolished, and spellings aren't perfect, but this is exactly the
+ sort of thing that could really come in handy for users who aren't 
+comfortable with English interfaces.
+
+The other app is called 
+TransPic, and its purpose is to translate or transliterate Hindi text 
+into English script. The instructions within the app aren't very clear, 
+and we couldn't detect any difference between online and offline mode. 
+We also found that we needed to get pretty close to text on a page, 
+which meant we couldn't always fit a full line or paragraph into each 
+frame. Recognition accuracy was pretty impressive and there's even a 
+button that will read out recognised text, which is just another example
+ of how this app could prove to be very useful to non-English speakers.
+
+
+
+CameraWhereas
+ most of the phone interface is pretty polished, the camera app has a 
+very odd series of menus with far too many seemingly random options. 
+There's only a single control button in the camera interface, which 
+brings up a menu with icons for HDR mode, the timer, and swapping 
+between the front and rear camera, as well as three submenus with 
+identical icons. 
+
+The first of these contains options for photo 
+storage location, scene mode, picture size, zero shutter lag, and even a
+ giant histogram that blocks nearly half the screen. The second offers 
+colour effects, toggles for face detection and touch AF, exposure 
+options, and sliders for saturation, contrast and sharpness. The third 
+lets you choose an ISO value, AE bracketing, red eye reduction, exposure
+ compensation, a filter called "wavelet denoise mode", and finally the 
+flash.
+
+It's a bit odd that the flash and scene controls aren't 
+accessible more easily. Between Xolo and Google, this camera app is in 
+serious need of an overhaul.
+
+Photos taken with the Q1100 outdoors 
+in broad daylight were surprisingly good, with sharp focus and low 
+noise. There's a bit of a red colour cast, but nothing too serious. 
+Unfortunately, when fully zoomed in, you'll be able to detect excessive 
+compression, which gives people and objects a slightly artificial look.
+
+Photos
+ taken indoors were a bit noisier, but detail was still clearly 
+discernible and focusing was accurate. In darker conditions, things were
+ a lot worse. Still, we have to remind ourselves of this phone's cost, 
+and measure our expectations accordingly.
+
+(Click to see full size)
+
+We found videos shot 
+with this phone came out a bit too dark, and moving objects weren't 
+clear enough for our liking. You shouldn't use this phone for anything 
+more than casual clips now and then.
+
+PerformanceWe were 
+happy to see that Xolo's choice of a Qualcomm processor over a MediaTek 
+one has paid off. Performance in our benchmarks was quite impressive, 
+especially the graphics and gaming tests. We achieved scores of 18,953 
+in AnTuTu, and 9,397 overall in Quadrant. 3DMark's 720p Ice Storm 
+scenario returned a score of 5644 points, while GFXBench managed to run 
+at 10.6fps. This indicates a better balance of power between graphics 
+and core processing than we are used to seeing.
+
+Temple Run 2 and 
+other casual titles ran without a hitch, so you should be able to run 
+medium-intensity games at decent quality on the Xolo Q1100. When we 
+tried watching 1080p HD videos, we noticed a bit of lag in heavily 
+detailed scenes and when skipping around the timeline in some of our 
+clips, which was a minor letdown. 720p clips played just fine, though. 
+Audio volume was a bit underwhelming, but we had no complaints with 
+regard to the clarity.
+
+The Q1100's battery life was perhaps the 
+biggest disappointment we faced. It lasted only 3 hours and 33 minutes 
+in our video playback loop test, which does not bode well for 
+performance in the real world. We wouldn't expect to get a full day of 
+even moderate usage out of this device.
+
+VerdictXolo has 
+done a great job of upping the ante in terms of appeal. Even if you 
+staunchly believe that you'll never buy a phone from an Indian brand 
+(regardless of where it is actually manufactured), you'd be tempted to 
+give the Q1100 a second look. In addition, it doesn't skimp where it 
+really matters, which is the processor. Finally, there's the price to 
+consider. 
+
+If there was no real competition at around the same 
+price point, we'd be happy to recommend the Xolo Q1100, but 
+unfortunately for it, this phone is up against the 16GB Motorola Moto G, which 
+uses the same processor, and the Micromax Canvas Turbo Mini, which has 
+far better battery life. The Moto G has been our favourite ever since we
+ reviewed it, and frankly, the Xolo Q1100 hasn't managed to 
+significantly outshine it at anything. Even the Turbo Mini, which lags 
+in most benchmark scores, offers way better battery life.
+
+So even 
+though we like the Q1100, we aren't a hundred percent enthusiastic about
+ recommending it to potential buyers. The build quality issues are 
+minor, and we can live with a little creaking now and then. What truly 
+concerns us is the battery life. It's no good to have a smart-looking 
+phone with a capable processor if there's no juice to run anything on. 
+No one wants to walk around all day with a charger or external battery, 
+and so despite everything else that Xolo has achieved, the poor battery 
+life is this phone's Achilles heel. 
+

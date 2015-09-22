@@ -1,0 +1,227 @@
+HTC One (M8 Eye) Review: The Better Flagship Contender
+
+The
+ HTC One (M8) (Review | Pictures) is a critically acclaimed device with an iconic design. However, quite a few critics, professional and otherwise, have panned its UltraPixel camera, since competing smartphones take better pictures. HTC's idea was to use a camera sensor with fewer but larger pixels, to capture more light per pixel, but this didn't impress many people. The company then tried to make up for it with another idea, Duo Camera, which used a second lens 
+to capture 3D depth information and enable new photographic tricks. When reviewing the One (M8), we found it to be more gimmicky than actually useful. Thankfully, HTC has been listening to all the feedback. At a recent press meet in Mumbai, a top executive at the Taiwanese 
+company stated that HTC might have oversold the UltraPixel concept. The company has now announced a variant of the One (M8) called the HTC One (M8 
+Eye). The One (M8 Eye) has a standard 13-megapixel camera instead of the 4-UltraPixel one, but it retains
+ the Duo Camera setup. Apart from this change, most of the other 
+features remain the same. We are eager to check if this changes the phone's appeal and if the One (M8 Eye) is the flagship smartphone 
+the company should have released in the first place. Design, specifications and softwareDesign-wise,
+ the One (M8 Eye) is absolutely identical to its predecessor. The phone 
+has a brushed aluminium finish with a gently curved rear, and gets cold or hot depending on the environment. A minor niggle we have 
+with the metal body is that it feels slippery and doesn't 
+offer a good grip. We received the Gunmetal Grey variant of the phone for 
+review, but it is also available in Glacial Silver and Amber Gold; the same as the One (M8).There is a row of on-screen buttons
+ for navigation. Above the 5-inch screen is the front camera. The One 
+(M8 Eye) has BoomSound speakers above and below the screen. The Micro-USB port and the 3.5mm jack are at the bottom whereas
+ the top has a plastic strip that houses the power button. In the 
+original HTC One (M8) the black plastic strip also concealed an infrared
+ blaster, which is missing in this phone. The volume rocker and the 
+microSD card tray are on the right edge. The left of the device houses 
+the tray for the Nano SIM card. The Duo Camera setup is on the 
+rear, with a dual-LED flash. Internally, the 
+grunt work is handled by a Snapdragon 801 SoC clocked at 2.3GHz with 
+an Adreno 330 GPU in tow. The phone has 2GB of RAM and 16GB of internal 
+storage, which can be expanded by 128GB using a microSD card. 
+HTC skips the infrared and NFC connectivity on the One (M8 Eye). Also, 
+the 13-megapixel rear camera can only capture 1080p videos. There is a 
+5-megapixel front-facing camera which can also capture full-HD videos. The 
+5-inch 1080p Super LCD3 screen is protected by Corning's Gorilla Glass 
+3. While it doesn't have a 2K resolution like some other flagship 
+smartphones today, the screen on the One (M8 Eye), just like its elder 
+brother, displays well-saturated colours and crisp, detailed visuals at 
+441ppi. The viewing angles are excellent and sunlight legibility is 
+pretty good too.The One (M8 Eye) runs Android 4.4.4 KitKat with 
+HTC Sense 6.0 UI on top of it. It has BlinkFeed, an endless scroll of 
+news stories, as the homepage. The app drawer scrolls vertically. 
+Head to our reviews of the HTC One (M8) and HTC Desire 816 for more 
+detailed analysis of the software. CameraThe camera app on the One (M8 Eye) is feature-rich and offers a ton of 
+options. The incredible Depth-of-Field (DoF) mode we loved in 
+the HTC Desire 816 (Review | Pictures) is present on this phone as well. Since it has a Duo Camera setup with a secondary lens, the 
+experience of using the DoF mode is even better, and the  the captured photographs have 
+a better background defocus (bokeh) effect when compared to those taken with the Desire 
+816. Also, since the secondary lens is always on, all your photos 
+can be manipulated at any time using the Selective Defocus effect. Remember that Selective Defocus doesn't work with 
+close-up/macro shots. We also thought that the software was too aggressive
+ in post processing. Additionally, the secondary lens captures 
+information that can be used in other editing modes as well. For 
+example, Copy/Paste and Face Fusion are two effects which essentially extrapolate details from two different shots and 
+fuses them. Both the effects are iffy to execute and getting the desired 
+result will need a lot of patience. The Seasons effect does look fancy 
+but it doesn't blend well with photographs. (Click to see full size)In 
+our daylight testing we noticed that the colours in the images were 
+better saturated than those in photos taken with the UltraPixel camera on the One (M8). However, images had a warmer tone overall, and a few shots had a yellowish cast. Unlike its predecessor, there was no barrel 
+distortion. Also, the 13-megapixel camera handles highlights much better
+ (even without HDR on) than the 4-UltraPixel camera. That being said, 
+the compression was lower in the images captured by the One (M8) when 
+compared to the camera on this phone. Thanks to the higher megapixel 
+count, the camera on the One (M8 Eye) captures more details. The noise 
+levels are still pretty low. The low-light performance of the One (M8 
+Eye)'s camera doesn't hold a candle (no pun intended) to the 
+4-UltraPixel shooter on its elder brother. The 5-megapixel front camera 
+can shoot really good selfies and will come in handy when you spot your 
+favourite celebrity. But we noticed that it doesn't go as wide as the camera on the HTC One (M8).The rear camera can 
+capture 1080p videos, which is a step below the 4K videos that 
+flagships these days can churn out. However, the quality of the 1080p 
+video is pretty good and will suffice for almost all practical purposes.
+ We didn't notice any screen tearing and the colours were pretty natural
+ too. (Click for full size)PerformanceWe didn't report the performance figures 
+of the One (M8) because the high-performance mode - which can be 
+accessed from the hidden developer options - was switched on by default.
+ In the One (M8 Eye), HTC doesn't pull any such stunts. In daily use, 
+the phone is extremely zippy and you would be hard-pressed to notice any
+ lags at any point. We didn't expect any less either. High-end games like Dead Trigger 2 and Shadowgun will run just fine. In 
+our graphics benchmarks, GFXBench and 3DMark Ice Storm (Unlimited), the 
+phone managed to score 24.6fps and 18,118 respectively. In AnTuTu and 
+Quadrant, it scored 41,095 and 23,619 respectively. The BoomSound
+ speakers sound as incredible as ever and the audio quality via earphones 
+is pretty good too. Also, the phone played all the videos we tried 
+without any hiccups. The One (M8 Eye) has great sound quality in phone 
+calls and in our testing period we didn't face any call drops. In 
+our rigorous test the 2600mAh battery lasted us 8 hours and 15 minutes, which is more than enough for it to last a little over a day with normal usage. VerdictThe HTC One (M8
+ Eye) is available for a shade under Rs. 35,000, which is a good Rs. 5,000 less than 
+its predecessor. The main differentiating factor is its camera, and after
+ using it extensively we are convinced that it performs equally well, if not 
+better than the UltraPixel camera, at least in normal light conditions. 
+But note that this new model doesn't have infrared, which might or might not be a big 
+deal-breaker for users. If we were given a choice, we'd take the HTC One (M8 Eye) over its predecessor. There are other good 
+alternatives to this phone like the Apple iPhone 5S, Samsung Galaxy S5 (Review | Pictures), 
+Motorola Moto X (Gen 2) (Review | Pictures) and the Oneplus One (Review | Pictures).All things 
+considered, we have a nagging feeling that HTC's next flagship (HTC One 
+M9?) will not feature an UltraPixel camera. Even the early rumour 
+mills seem to affirm our suspicions.
+ 
+HTC One (M8 Eye) in pictures
+
+The
+ HTC One (M8) (Review | Pictures) is a critically acclaimed device with an iconic design. However, quite a few critics, professional and otherwise, have panned its UltraPixel camera, since competing smartphones take better pictures. HTC's idea was to use a camera sensor with fewer but larger pixels, to capture more light per pixel, but this didn't impress many people. The company then tried to make up for it with another idea, Duo Camera, which used a second lens 
+to capture 3D depth information and enable new photographic tricks. When reviewing the One (M8), we found it to be more gimmicky than actually useful. 
+
+Thankfully, HTC has been listening to all the feedback. At a recent press meet in Mumbai, a top executive at the Taiwanese 
+company stated that HTC might have oversold the UltraPixel concept. 
+
+The company has now announced a variant of the One (M8) called the HTC One (M8 
+Eye). The One (M8 Eye) has a standard 13-megapixel camera instead of the 4-UltraPixel one, but it retains
+ the Duo Camera setup. Apart from this change, most of the other 
+features remain the same. We are eager to check if this changes the phone's appeal and if the One (M8 Eye) is the flagship smartphone 
+the company should have released in the first place. 
+
+Design, specifications and softwareDesign-wise,
+ the One (M8 Eye) is absolutely identical to its predecessor. The phone 
+has a brushed aluminium finish with a gently curved rear, and gets cold or hot depending on the environment. A minor niggle we have 
+with the metal body is that it feels slippery and doesn't 
+offer a good grip. We received the Gunmetal Grey variant of the phone for 
+review, but it is also available in Glacial Silver and Amber Gold; the same as the One (M8).
+
+There is a row of on-screen buttons
+ for navigation. Above the 5-inch screen is the front camera. The One 
+(M8 Eye) has BoomSound speakers above and below the screen. The Micro-USB port and the 3.5mm jack are at the bottom whereas
+ the top has a plastic strip that houses the power button. In the 
+original HTC One (M8) the black plastic strip also concealed an infrared
+ blaster, which is missing in this phone. The volume rocker and the 
+microSD card tray are on the right edge. The left of the device houses 
+the tray for the Nano SIM card. The Duo Camera setup is on the 
+rear, with a dual-LED flash. 
+
+Internally, the 
+grunt work is handled by a Snapdragon 801 SoC clocked at 2.3GHz with 
+an Adreno 330 GPU in tow. The phone has 2GB of RAM and 16GB of internal 
+storage, which can be expanded by 128GB using a microSD card. 
+HTC skips the infrared and NFC connectivity on the One (M8 Eye). Also, 
+the 13-megapixel rear camera can only capture 1080p videos. There is a 
+5-megapixel front-facing camera which can also capture full-HD videos. 
+
+The 
+5-inch 1080p Super LCD3 screen is protected by Corning's Gorilla Glass 
+3. While it doesn't have a 2K resolution like some other flagship 
+smartphones today, the screen on the One (M8 Eye), just like its elder 
+brother, displays well-saturated colours and crisp, detailed visuals at 
+441ppi. The viewing angles are excellent and sunlight legibility is 
+pretty good too.
+
+The One (M8 Eye) runs Android 4.4.4 KitKat with 
+HTC Sense 6.0 UI on top of it. It has BlinkFeed, an endless scroll of 
+news stories, as the homepage. The app drawer scrolls vertically. 
+Head to our reviews of the HTC One (M8) and HTC Desire 816 for more 
+detailed analysis of the software. 
+
+CameraThe camera app on the One (M8 Eye) is feature-rich and offers a ton of 
+options. The incredible Depth-of-Field (DoF) mode we loved in 
+the HTC Desire 816 (Review | Pictures) is present on this phone as well. Since it has a Duo Camera setup with a secondary lens, the 
+experience of using the DoF mode is even better, and the  the captured photographs have 
+a better background defocus (bokeh) effect when compared to those taken with the Desire 
+816. Also, since the secondary lens is always on, all your photos 
+can be manipulated at any time using the Selective Defocus effect. Remember that Selective Defocus doesn't work with 
+close-up/macro shots. We also thought that the software was too aggressive
+ in post processing. 
+
+Additionally, the secondary lens captures 
+information that can be used in other editing modes as well. For 
+example, Copy/Paste and Face Fusion are two effects which essentially extrapolate details from two different shots and 
+fuses them. Both the effects are iffy to execute and getting the desired 
+result will need a lot of patience. The Seasons effect does look fancy 
+but it doesn't blend well with photographs. 
+
+(Click to see full size)In 
+our daylight testing we noticed that the colours in the images were 
+better saturated than those in photos taken with the UltraPixel camera on the One (M8). However, images had a warmer tone overall, and a few shots had a yellowish cast. Unlike its predecessor, there was no barrel 
+distortion. Also, the 13-megapixel camera handles highlights much better
+ (even without HDR on) than the 4-UltraPixel camera. 
+
+That being said, 
+the compression was lower in the images captured by the One (M8) when 
+compared to the camera on this phone. Thanks to the higher megapixel 
+count, the camera on the One (M8 Eye) captures more details. The noise 
+levels are still pretty low. The low-light performance of the One (M8 
+Eye)'s camera doesn't hold a candle (no pun intended) to the 
+4-UltraPixel shooter on its elder brother. 
+
+The 5-megapixel front camera 
+can shoot really good selfies and will come in handy when you spot your 
+favourite celebrity. But we noticed that it doesn't go as wide as the camera on the HTC One (M8).
+
+The rear camera can 
+capture 1080p videos, which is a step below the 4K videos that 
+flagships these days can churn out. However, the quality of the 1080p 
+video is pretty good and will suffice for almost all practical purposes.
+ We didn't notice any screen tearing and the colours were pretty natural
+ too. 
+
+(Click for full size)PerformanceWe didn't report the performance figures 
+of the One (M8) because the high-performance mode - which can be 
+accessed from the hidden developer options - was switched on by default.
+ In the One (M8 Eye), HTC doesn't pull any such stunts. In daily use, 
+the phone is extremely zippy and you would be hard-pressed to notice any
+ lags at any point. We didn't expect any less either. 
+
+High-end games like Dead Trigger 2 and Shadowgun will run just fine. In 
+our graphics benchmarks, GFXBench and 3DMark Ice Storm (Unlimited), the 
+phone managed to score 24.6fps and 18,118 respectively. In AnTuTu and 
+Quadrant, it scored 41,095 and 23,619 respectively. 
+
+The BoomSound
+ speakers sound as incredible as ever and the audio quality via earphones 
+is pretty good too. Also, the phone played all the videos we tried 
+without any hiccups. The One (M8 Eye) has great sound quality in phone 
+calls and in our testing period we didn't face any call drops. In 
+our rigorous test the 2600mAh battery lasted us 8 hours and 15 minutes, which is more than enough for it to last a little over a day with normal usage. 
+
+VerdictThe HTC One (M8
+ Eye) is available for a shade under Rs. 35,000, which is a good Rs. 5,000 less than 
+its predecessor. The main differentiating factor is its camera, and after
+ using it extensively we are convinced that it performs equally well, if not 
+better than the UltraPixel camera, at least in normal light conditions. 
+But note that this new model doesn't have infrared, which might or might not be a big 
+deal-breaker for users. 
+
+If we were given a choice, we'd take the HTC One (M8 Eye) over its predecessor. There are other good 
+alternatives to this phone like the Apple iPhone 5S, Samsung Galaxy S5 (Review | Pictures), 
+Motorola Moto X (Gen 2) (Review | Pictures) and the Oneplus One (Review | Pictures).
+
+All things 
+considered, we have a nagging feeling that HTC's next flagship (HTC One 
+M9?) will not feature an UltraPixel camera. Even the early rumour 
+mills seem to affirm our suspicions.
+ 
+

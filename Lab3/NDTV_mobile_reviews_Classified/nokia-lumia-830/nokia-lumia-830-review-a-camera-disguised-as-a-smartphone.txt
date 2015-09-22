@@ -1,0 +1,309 @@
+ Nokia Lumia 830 Review: A Camera Disguised as a Smartphone
+
+Microsoft
+ calls the Lumia 830 an 'affordable flagship'. We presume 
+this means that this phone has all the features a flagship smartphone 
+like the Lumia 1020 (Review | Pictures) should have, but is much less expensive. Two phones that
+ immediately come to mind when we talk about truly affordable flagship 
+smartphones are the Xiaomi Mi 3 (Review | Pictures) and the OnePlus One.It will be a tall order for Microsoft's new phone to be as disruptive as those two have been.Those who 
+like engaging in debates about specifications will argue that the Lumia 830 sports
+ only a Snapdragon 400 SoC and a 720p screen, and thus it should qualify as a mid-range
+ phone at best. Well, let us find out if it can rise above all 
+that and stand out as a true 'affordable flagship. Look and feelNokia's
+ (now Microsoft's) Lumia phones adhere to a design language that can be 
+classified as 'iconic' in the world of smartphones. The Lumia 830 
+carries forward this legacy with a slight twist. The metal body is offset
+ by the presence of a polycarbonate rear shell. These shells are 
+available in four colours - green, orange, black and white - and are 
+interchangeable. The orange variant, which we received for review, takes
+ neon to a whole new level and is a complete departure from the 
+understated silver/black front. Surprisingly, the there is no mention of Microsoft anywhere on the device, although subtle Nokia logos can be seen on the front and back. The phone has dimensions 
+of 139.4 x 70.7 x 8.5mm and weighs 150g. For a phone with a 5-inch 
+screen it has a good grip, and doesn't feel slippery at all thanks
+ to the polycarbonate rear casing. Furthermore, we can vouch for the 
+sturdiness and the exemplary build quality of the device. You definitely
+ get your money's worth in terms of these two factors.All 
+the physical buttons - camera, volume rocker and power - are lined up on
+ the right edge. The top of the phone has the 3.5mm jack and the 
+Micro-USB port. Above the display there is the front-facing camera and earpiece, and below it are three capacitive buttons for 
+navigation, which we are familiar with by now.The primary camera 
+and flash modules are placed inside a circular cut-out on the rear of 
+the phone. This cut-out is slightly raised, though the plastic rim around it is raised even more. Above the camera, there is a small 
+microphone. The loudspeaker grill sits on the bottom of the rear.  On 
+removing the rear cover you can see a Qi wireless 
+charging pad. The phone has slots for a Nano-SIM 
+card and a microSD memory card. The battery is 
+removable.Specifications and softwareMicrosoft's Lumia 
+brand phones have internals that are quite similar to those of popular Android 
+smartphones. The Lumia 830 has a quad-core Snapdragon 400 SoC clocked at
+ 1.2GHz with an integrated Adreno 305 GPU. Additionally, it has 1GB of RAM and 16GB of
+ storage space. Users can increase the storage by up to 128GB using a 
+memory card, which is a great option to have. There is also a 2200mAh 
+battery.The Nokia Lumia 830 has a 
+10-megapixel PureView camera with a 1/3.4-inch Zeiss lens.  The 
+front-facing camera, unlike the Lumia 730's 5-megapixel wide angle one, is a
+ paltry 0.9-megapixel shooter. No stone was left unturned with 
+respect to connectivity options. The phone can establish 3G, Wi-Fi and 
+Bluetooth connections, and it also has support for Near-Field 
+Communications (NFC). It can connect to 4G LTE networks and was 
+touted to be the first Windows-based smartphone to have support for 
+Indian networks but unfortunately those rumours turned out to be inaccurate. The 5-inch IPS LCD screen has a
+ resolution of 720x1280. The screen also benefits from Nokia's ClearBlack 
+technology and has Corning's Gorilla Glass 3 for protection. While the 
+display doesn't have the deep blacks we are accustomed to seeing on 
+AMOLED screens, we think the colours are quite natural, and the warm colour tone is easy on the eye. Sunlight 
+legibility is insanely good and no matter how brightly the sun shone, we could see the screen clearly. Viewing 
+angles on the other hand are not too great as we noticed the screen 
+washing out pretty easily when seen at an angle.This is one of 
+the first phones to come with Nokia's Denim update, exclusive to Lumia 
+smartphones running Windows Phone 8.1 Update 1. The Denim update adds a ton 
+of camera features, which we will explore extensively. Windows 8.1 Update 1. brings Cortana to India in public alpha form and it works fine. Before getting it to work one has to download the English (UK) language pack. It  Users can now also add 'Live 
+Folders' to the start screen.  Additionally, this update also brings 
+speed enhancements to the Internet Explorer browser. Windows Phone is catching up to the competition in terms of features and usability. While not as extensive as the implementations in Android and iOS, the fact that there is an Action Centre is a definite advantage. Features such as Battery Sense and Storage Sense are really good
+ too, letting users understand vital statistics and 
+take decisions accordingly. Bing now lets users 
+perform a full device search instead of just searching the Web. We are also fans 
+of the new Word Flow keyboard which builds upon the already robust 
+performance of the regular keyboard so users can swipe to type.There
+ are tons of preloaded apps on the phone, most of which are useful, such as BoxTV, Facebook, Flipboard, Food and Drink (MSN), Gameloft 
+GameHub, Here Drive+, Here Maps, Lumia Beamer, Nokia MixRadio, PicsArt, 
+Snapdeal, TimesCity and WeChat. Thankfully, apps that users don't want or need can be uninstalled. CameraThe 
+new Lumia Denim update brings a number of new camera features. Whether 
+they are useful or not, they are nice to have. Our favourite app 
+by far is Lumia Refocus, which emulates in software what a Lytro camera 
+can do. It works really well too - essentially, the camera does a focus
+ sweep and captures multiple images at different focus points. Later, the
+ user can change the part or parts of the image that are in focus. We got some dramatic results 
+when subjects in the background and the foreground were clearly 
+defined. Remember that a high depth of field is essential for accurate 
+results. In case you want to share your photos on social networks, Microsoft 
+uploads each file to OneDrive and then creates unique links pointing to refocus.nokia.com.Lumia Cinemagraph at its most basic level is a GIF file creator, and Lumia Storyteller uses Nokia's HERE Maps, points 
+of interests, the time and the date to create mini collections of important moments. Apart from these embellishments, there are two
+ camera apps - the default Windows Phoen app and Nokia Camera (soon to be 
+rechristened Lumia Camera). Nokia Camera is a feature-rich app with a
+ lot of manual options that would make any pro user happy. The only caveat is
+ that new users might find the app slightly difficult to use. (click for full size)Now for to the most important part of this review: the camera. It performs well in all conditions. The PureView technology comes to life as soon as we fire up the 
+10-megapixel shooter. We captured some incredible details with the most 
+natural colour reproduction in daylight. Click on the image above and zoom in to see for yourself how the camera has managed to capture even the 
+microscopic fibres on the edges of leaves. The camera is really fast
+ at focusing most of the time. We are really nitpicking here, but on very rare occasions the 
+camera failed to focus on the desired subject. Most users will not encounter this often enough for it to be a problem.The best 
+part about the camera is its performance in low light. The camera lets in 
+more than enough light and captures details that cameras in other 
+flagship smartphones cannot even hope to. Optical image 
+stabilisation (OIS) plays a huge part in this. The front camera on 
+the other hand is a huge letdown and we cannot understand why Microsoft didn't go with a better spec than the 0.9-megapixel shooter. It 
+captures okay details in daylight and might work for some users. If you 
+are someone who likes to pout for the camera at the drop of the hat then
+ we'd suggest taking a look at the Nokia Lumia 730 Dual SIM instead. (click for full size)By 
+default, the camera captures video at 720p but you can easily bump 
+this up to 1080p. Our test video showed good details and colours, 
+which was not unexpected, but the OIS was not very effective here. PerformanceIt
+ is quite established now that Windows Phone 8.1 performs well even on 
+smartphones with 512MB of RAM. Case in point: the Lumia 630. The 1GB of RAM
+ and Snapdragon 400 SoC in the Lumia 830 are more than enough for the operating 
+system to work smoothly. We didn't face any lags or hold 
+ups. We ran a few benchmarks to measure raw performance. In our AnTuTu benchmark the phone 
+scored 11,975 points whereas in WPbench it scored 227. The GFXbench test
+ returned a low score of only 7.2fps. Gaming might not be a 
+smooth experience on this phone.The Lumia 830 features Dolby 
+Surround Sound. The enhancement option is in switched on by default. 
+Leveraging this feature, the speakers emit really loud sound but at 
+high volume we could clearly hear crackling. The bundled headset 
+is good enough for most purposes but after plugging in our reference 
+earphones, we were treated to some really tight sound.As 
+is with most Nokia phones, the quality of sound in phone calls is really
+ good and there is nothing really to complain about here. Our battery 
+loop test went on for 10 hours and 48 minutes before the phone had to be 
+recharged. This is pretty good and users should easily be able to use this phone for a day without worrying about charging it. There is also a
+ nifty battery saver option that works really well too.VerdictThe
+Lumia 830 is a camera lover's dream smartphone. We would even go as
+ far as to say that it negates the
+ need to invest in a digital camera. Calling this smartphone an 
+'affordable flagship' might actually be okay considering its camera performance and price of 
+Rs. 28,799. For those who argue that the Moto G (Gen 2) [Review | Pictures] has 
+similar specs and is priced much lower than this phone should 
+understand that the Lumia 830's camera performance is miles ahead and its build quality simply cannot be matched by Motorola's 
+budget champion. If you are someone who is platform agnostic then the newly launched Moto X (Gen 2) [Review | Pictures] might be 
+considered an alternative. Yes, the Lumia 830 should probably have been a little less expensive, but even at 
+this price it is a good buy for those who use the camera app 
+more than the phone app and are willing to live with an ecosystem that is still a fair way behind the competition. 
+Nokia Lumia 830 in pictures
+
+Microsoft
+ calls the Lumia 830 an 'affordable flagship'. We presume 
+this means that this phone has all the features a flagship smartphone 
+like the Lumia 1020 (Review | Pictures) should have, but is much less expensive. Two phones that
+ immediately come to mind when we talk about truly affordable flagship 
+smartphones are the Xiaomi Mi 3 (Review | Pictures) and the OnePlus One.It will be a tall order for Microsoft's new phone to be as disruptive as those two have been.
+
+Those who 
+like engaging in debates about specifications will argue that the Lumia 830 sports
+ only a Snapdragon 400 SoC and a 720p screen, and thus it should qualify as a mid-range
+ phone at best. Well, let us find out if it can rise above all 
+that and stand out as a true 'affordable flagship. 
+
+Look and feelNokia's
+ (now Microsoft's) Lumia phones adhere to a design language that can be 
+classified as 'iconic' in the world of smartphones. The Lumia 830 
+carries forward this legacy with a slight twist. The metal body is offset
+ by the presence of a polycarbonate rear shell. These shells are 
+available in four colours - green, orange, black and white - and are 
+interchangeable. The orange variant, which we received for review, takes
+ neon to a whole new level and is a complete departure from the 
+understated silver/black front. 
+
+Surprisingly, the there is no mention of Microsoft anywhere on the device, although subtle Nokia logos can be seen on the front and back. The phone has dimensions 
+of 139.4 x 70.7 x 8.5mm and weighs 150g. For a phone with a 5-inch 
+screen it has a good grip, and doesn't feel slippery at all thanks
+ to the polycarbonate rear casing. Furthermore, we can vouch for the 
+sturdiness and the exemplary build quality of the device. You definitely
+ get your money's worth in terms of these two factors.
+
+All 
+the physical buttons - camera, volume rocker and power - are lined up on
+ the right edge. The top of the phone has the 3.5mm jack and the 
+Micro-USB port. Above the display there is the front-facing camera and earpiece, and below it are three capacitive buttons for 
+navigation, which we are familiar with by now.
+
+The primary camera 
+and flash modules are placed inside a circular cut-out on the rear of 
+the phone. This cut-out is slightly raised, though the plastic rim around it is raised even more. Above the camera, there is a small 
+microphone. The loudspeaker grill sits on the bottom of the rear.  On 
+removing the rear cover you can see a Qi wireless 
+charging pad. The phone has slots for a Nano-SIM 
+card and a microSD memory card. The battery is 
+removable.
+
+Specifications and softwareMicrosoft's Lumia 
+brand phones have internals that are quite similar to those of popular Android 
+smartphones. The Lumia 830 has a quad-core Snapdragon 400 SoC clocked at
+ 1.2GHz with an integrated Adreno 305 GPU. Additionally, it has 1GB of RAM and 16GB of
+ storage space. Users can increase the storage by up to 128GB using a 
+memory card, which is a great option to have. There is also a 2200mAh 
+battery.
+
+The Nokia Lumia 830 has a 
+10-megapixel PureView camera with a 1/3.4-inch Zeiss lens.  The 
+front-facing camera, unlike the Lumia 730's 5-megapixel wide angle one, is a
+ paltry 0.9-megapixel shooter. No stone was left unturned with 
+respect to connectivity options. The phone can establish 3G, Wi-Fi and 
+Bluetooth connections, and it also has support for Near-Field 
+Communications (NFC). It can connect to 4G LTE networks and was 
+touted to be the first Windows-based smartphone to have support for 
+Indian networks but unfortunately those rumours turned out to be inaccurate. The 5-inch IPS LCD screen has a
+ resolution of 720x1280. 
+
+The screen also benefits from Nokia's ClearBlack 
+technology and has Corning's Gorilla Glass 3 for protection. While the 
+display doesn't have the deep blacks we are accustomed to seeing on 
+AMOLED screens, we think the colours are quite natural, and the warm colour tone is easy on the eye. Sunlight 
+legibility is insanely good and no matter how brightly the sun shone, we could see the screen clearly. Viewing 
+angles on the other hand are not too great as we noticed the screen 
+washing out pretty easily when seen at an angle.
+
+This is one of 
+the first phones to come with Nokia's Denim update, exclusive to Lumia 
+smartphones running Windows Phone 8.1 Update 1. The Denim update adds a ton 
+of camera features, which we will explore extensively. Windows 8.1 Update 1. brings Cortana to India in public alpha form and it works fine. Before getting it to work one has to download the English (UK) language pack. It  Users can now also add 'Live 
+Folders' to the start screen.  Additionally, this update also brings 
+speed enhancements to the Internet Explorer browser. 
+
+Windows Phone is catching up to the competition in terms of features and usability. While not as extensive as the implementations in Android and iOS, the fact that there is an Action Centre is a definite advantage. Features such as Battery Sense and Storage Sense are really good
+ too, letting users understand vital statistics and 
+take decisions accordingly. Bing now lets users 
+perform a full device search instead of just searching the Web. We are also fans 
+of the new Word Flow keyboard which builds upon the already robust 
+performance of the regular keyboard so users can swipe to type.
+
+There
+ are tons of preloaded apps on the phone, most of which are useful, such as BoxTV, Facebook, Flipboard, Food and Drink (MSN), Gameloft 
+GameHub, Here Drive+, Here Maps, Lumia Beamer, Nokia MixRadio, PicsArt, 
+Snapdeal, TimesCity and WeChat. Thankfully, apps that users don't want or need can be uninstalled. 
+
+CameraThe 
+new Lumia Denim update brings a number of new camera features. Whether 
+they are useful or not, they are nice to have. Our favourite app 
+by far is Lumia Refocus, which emulates in software what a Lytro camera 
+can do. It works really well too - essentially, the camera does a focus
+ sweep and captures multiple images at different focus points. Later, the
+ user can change the part or parts of the image that are in focus. We got some dramatic results 
+when subjects in the background and the foreground were clearly 
+defined. Remember that a high depth of field is essential for accurate 
+results. In case you want to share your photos on social networks, Microsoft 
+uploads each file to OneDrive and then creates unique links pointing to refocus.nokia.com.
+
+Lumia Cinemagraph at its most basic level is a GIF file creator, and Lumia Storyteller uses Nokia's HERE Maps, points 
+of interests, the time and the date to create mini collections of important moments. 
+
+Apart from these embellishments, there are two
+ camera apps - the default Windows Phoen app and Nokia Camera (soon to be 
+rechristened Lumia Camera). Nokia Camera is a feature-rich app with a
+ lot of manual options that would make any pro user happy. The only caveat is
+ that new users might find the app slightly difficult to use. 
+
+(click for full size)Now for to the most important part of this review: the camera. It performs well in all conditions. The PureView technology comes to life as soon as we fire up the 
+10-megapixel shooter. We captured some incredible details with the most 
+natural colour reproduction in daylight. Click on the image above and zoom in to see for yourself how the camera has managed to capture even the 
+microscopic fibres on the edges of leaves. The camera is really fast
+ at focusing most of the time. We are really nitpicking here, but on very rare occasions the 
+camera failed to focus on the desired subject. Most users will not encounter this often enough for it to be a problem.
+
+The best 
+part about the camera is its performance in low light. The camera lets in 
+more than enough light and captures details that cameras in other 
+flagship smartphones cannot even hope to. Optical image 
+stabilisation (OIS) plays a huge part in this. The front camera on 
+the other hand is a huge letdown and we cannot understand why Microsoft didn't go with a better spec than the 0.9-megapixel shooter. It 
+captures okay details in daylight and might work for some users. If you 
+are someone who likes to pout for the camera at the drop of the hat then
+ we'd suggest taking a look at the Nokia Lumia 730 Dual SIM instead. 
+
+(click for full size)By 
+default, the camera captures video at 720p but you can easily bump 
+this up to 1080p. Our test video showed good details and colours, 
+which was not unexpected, but the OIS was not very effective here. 
+
+PerformanceIt
+ is quite established now that Windows Phone 8.1 performs well even on 
+smartphones with 512MB of RAM. Case in point: the Lumia 630. The 1GB of RAM
+ and Snapdragon 400 SoC in the Lumia 830 are more than enough for the operating 
+system to work smoothly. We didn't face any lags or hold 
+ups. 
+
+We ran a few benchmarks to measure raw performance. In our AnTuTu benchmark the phone 
+scored 11,975 points whereas in WPbench it scored 227. The GFXbench test
+ returned a low score of only 7.2fps. Gaming might not be a 
+smooth experience on this phone.
+
+The Lumia 830 features Dolby 
+Surround Sound. The enhancement option is in switched on by default. 
+Leveraging this feature, the speakers emit really loud sound but at 
+high volume we could clearly hear crackling. The bundled headset 
+is good enough for most purposes but after plugging in our reference 
+earphones, we were treated to some really tight sound.
+
+As 
+is with most Nokia phones, the quality of sound in phone calls is really
+ good and there is nothing really to complain about here. Our battery 
+loop test went on for 10 hours and 48 minutes before the phone had to be 
+recharged. This is pretty good and users should easily be able to use this phone for a day without worrying about charging it. There is also a
+ nifty battery saver option that works really well too.
+
+VerdictThe
+Lumia 830 is a camera lover's dream smartphone. We would even go as
+ far as to say that it negates the
+ need to invest in a digital camera. Calling this smartphone an 
+'affordable flagship' might actually be okay considering its camera performance and price of 
+Rs. 28,799. For those who argue that the Moto G (Gen 2) [Review | Pictures] has 
+similar specs and is priced much lower than this phone should 
+understand that the Lumia 830's camera performance is miles ahead and its build quality simply cannot be matched by Motorola's 
+budget champion. If you are someone who is platform agnostic then the newly launched Moto X (Gen 2) [Review | Pictures] might be 
+considered an alternative. 
+
+Yes, the Lumia 830 should probably have been a little less expensive, but even at 
+this price it is a good buy for those who use the camera app 
+more than the phone app and are willing to live with an ecosystem that is still a fair way behind the competition.
+
+ 
+

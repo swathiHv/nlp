@@ -1,0 +1,260 @@
+Xolo Q2100 Review: Not Just a One-trick Pony
+
+Xolo is one example of an Indian company that has managed to stay ahead of the curve by
+ constantly innovating in the mid-range smartphone segment. We give it credit for its efforts, but there is still a long way 
+to go if it wants to create one smartphone that can redefine the entire market. Xolo's Hive 
+UI and the first phone to use it, the 8X-1000 (Review | Pictures) were good efforts but lacked finesse. The recently 
+launched Xolo Q2100 takes a different approach, with a fingerprint scanner and an IR blaster; 
+features normally found in high-end smartphones. Let's find out if Xolo has gotten it right. Look and feelAs we stated in our first impressions of the device, the Xolo Q2100 
+doesn't look as attractive as other phones from Xolo's stable, but it 
+does feels sturdy. We initially thought the rear cover was not 
+removable, but it is. The phone has a two-tone finish with a black front and white
+ rear. The rear panel is a dirt magnet, though. Two parallel 
+chrome lines run around the edges of the Xolo Q2100. The power button and
+ the volume rocker are on the right edge of the device. They are made of
+ metal and the travel is good. The Micro-USB port and the microphone
+ lie at the bottom, and the 3.5mm jack and IR blaster
+ are on the top of the phone. Xolo has decided to go with capacitive buttons for navigation, which lie below the 
+display.  The rear of the phone has the primary camera with 
+flash, the loudspeaker and most importantly the fingerprint scanner. Specifications and SoftwareThe
+ innards of the Xolo Q2100 include a Mediatek MT6582 quad-core 
+processor clocked at 1.3GHz with an integrated Mali-400MP2 GPU. There is 1GB of RAM 
+for running applications and services. The internal storage 
+space of 8GB can be expanded by 32GB using a microSD card.There
+ are two SIM card slots, and the phone supports the 850/900/1800/1900/2100MHz 
+GSM bands. Rounding up the connectivity options are Wi-Fi and 
+Bluetooth. The primary camera can capture 8-megapixel images and has a 
+Sony Exmor R sensor. There is also a 2-megapixel front camera.The 5.5-inch screen has a resolution of 720x1280, which 
+translates to a pixel density of 267ppi. It has Corning Gorilla Glass 3 
+protection as well. The colours are slightly 
+oversaturated on this display but the sharpness is pretty good. When 
+viewed at an angle, the colours on screen start distorting. However, the
+ sunlight legibility of the phone is pretty decent.Unlike the 
+Xolo 8X-1000 which features Hive UI - the company's first attempt to 
+create a unique skin slapped on top of Android - the Q2100 has 
+stock Android 4.4.2. Apart from a few tweaks, this
+ phone provides a pure Android experience. The very first thing 
+that one notices is the addition of the fingerprint scanner that can be 
+used to unlock the device, as popularised by the iPhone 5s. The implementation
+ is however different than that of the iPhone or the Samsung Galaxy S5 (Review | Pictures),
+ where the scanner is below the screen. On the Xolo Q2100 the 
+scanner is on the rear of the device, similar to what we saw in the HTC 
+One Max (Review), just below the camera. After extended 
+usage, we have confirmed our first impressions of the fingerprint scanner, which you 
+can read here. In short, it works about 80 percent of the time and 
+offers helpful messages like "Finger was offset to the left of the 
+sensor" in case of a failed attempt. We did notice that the 
+sensor did not work if the battery level was below 10 percent. It is also important to swipe with the entire pad of your finger while setting up the sensor, not just the tip. The 
+fingerprint scanner might be the most visible feature of this phone, but Xolo actually hits the home run with this phone's IR emitter, combined with the Peel Smart Remote app. 
+Peel Smart Remote acts as a universal remote control with virtually all TVs and set-top boxes. We tried the remote on Samsung and Videocon TVs, and it worked flawlessly. We tried it with DishTV and 
+regular cable as well, which again worked without any errors. We 
+could also set reminders for particular shows. 
+After making a comeback in flagship smartphones in 2013, the inclusion 
+of IR in mid-budget devices is 
+indeed welcome. To make use of the real estate of the 
+5.5-inch screen, Xolo also makes a few tweaks to the Settings app and 
+adds something called 'Float Multitask Window'. The main categories inside
+ the Settings app are arranged as icons on the left while individual settings are 
+on the right. The 'Float Multitask Window' is a small dot that sticks
+ to the edge of the screen, which when touched, turns into a wheel 
+filled with options. One of these is Game Mode, in which the home button 
+is disabled so that it can't be hit by mistake in the middle of a fast-paced game. Read Mode makes sure the screen never goes off. Float Music and Float Video open the respective apps as floating windows on screen. Additionally, Xolo also bundles 
+LastPass, which is a great option for storing all your passwords in one 
+secure location. One of the cool things about LastPass on
+ this phone is that it allows users to use the fingerprint scanner to enter the password to any website or app. Just remember not to forget the app's master password! 
+There are also Xolo-specific apps such as Xolo Care, Xolo Power and Xolo Secure.
+ Xolo Care allows users to call, SMS or e-mail the company's support staff in case any problems crop
+ up on the device. The Xolo Power app is good for users who 
+are constantly worried about battery life. Xolo Secure
+ is an application that can be used to secure your phone in case of theft.CameraThe camera 
+app on the Xolo Q2100 is a mashup of the stock Gingerbread and KitKat apps. 
+It is unintuitive with a circular menu that just feels awkward to use. 
+Moreover, there aren't many manual options either. This is a simplistic 
+app. (Click to see full size)We were surprised at how fast 
+this camera functioned. It can lock focus on a subject really quickly and 
+take photos in an instant. In daylight, the camera takes some decent 
+images up close with good amount of details and close-to-natural 
+colours. The only problem we noticed was that it blows out highlights
+ in the background. Even the HDR mode couldn't do much to fix this. The 
+same problem cropped up in the 1080p video clips we recorded. We liked the 
+fact that the lens managed to remain steady while shooting video. In 
+low-light conditions, the camera failed to capture good images. 
+Sometimes the image was just a huge blurry mess and sometimes it was 
+just too dark. The front-facing camera takes some decent pictures, 
+though.  PerformanceThe Xolo Q2100 is rather 
+smooth in day-to-day usage. We didn't notice any lags even when we 
+opened multiple apps. High-end games like 
+Asphalt 8 stuttered a bit but not enough to ruin the experience. The 
+graphics were toned down in our testing process. The phone scored 17,504 points in AnTuTu, whereas it 
+got 6,777 overall in Quadrant. For some reason, despite repeated attempts, the GFXbench 
+test failed to work but in the 3DMark Ice Storm test the phone scored 
+3,145, which is pretty low. All our test videos played fine, including 
+our heavily encoded 40mbps 1080p clip. The Xolo 
+Q2100 has DTS surround sound technology built in and the speaker is
+ extremely loud. It is clear enough for watching a movie in a closed room, 
+negating the need to spend on Bluetooth 
+speakers. The bundled earphones are pretty decent too.  We didn't notice any loss in sound quality even during phone calls. In our 
+battery test, the phone managed to last exactly 7 hours and 30 
+minutes before it died. This means that it should last at least a
+ day with moderate usage. VerdictXolo's attempt to bring 
+features normally found in flagship phones to a phone that costs Rs. 
+13,499 is commendable. Both the fingerprint scanner and the IR 
+blaster work really well, for the most part, and aren't just gimmicks. At least during our testing period, we got pretty accustomed 
+to using these features. This is also a good device for someone who wants a phone with a large screen to watch videos on. Our only gripes with the device are the boring design 
+and the subpar camera quality. The Moto G (Gen 2) (Review | Pictures) is a great 
+phone if stock Android is what you seek. Buyers can also take a
+ look at the Micromax Canvas Nitro (Review | Pictures) and Xolo's own Xolo 8X-1000 in 
+the same price range. 
+Xolo Q2100 in pictures
+
+
+Xolo is one example of an Indian company that has managed to stay ahead of the curve by
+ constantly innovating in the mid-range smartphone segment. We give it credit for its efforts, but there is still a long way 
+to go if it wants to create one smartphone that can redefine the entire market. 
+
+Xolo's Hive 
+UI and the first phone to use it, the 8X-1000 (Review | Pictures) were good efforts but lacked finesse. The recently 
+launched Xolo Q2100 takes a different approach, with a fingerprint scanner and an IR blaster; 
+features normally found in high-end smartphones. Let's find out if Xolo has gotten it right. 
+
+Look and feelAs we stated in our first impressions of the device, the Xolo Q2100 
+doesn't look as attractive as other phones from Xolo's stable, but it 
+does feels sturdy. We initially thought the rear cover was not 
+removable, but it is. The phone has a two-tone finish with a black front and white
+ rear. The rear panel is a dirt magnet, though. 
+
+Two parallel 
+chrome lines run around the edges of the Xolo Q2100. The power button and
+ the volume rocker are on the right edge of the device. They are made of
+ metal and the travel is good. The Micro-USB port and the microphone
+ lie at the bottom, and the 3.5mm jack and IR blaster
+ are on the top of the phone. 
+
+Xolo has decided to go with capacitive buttons for navigation, which lie below the 
+display.  The rear of the phone has the primary camera with 
+flash, the loudspeaker and most importantly the fingerprint scanner. 
+
+Specifications and SoftwareThe
+ innards of the Xolo Q2100 include a Mediatek MT6582 quad-core 
+processor clocked at 1.3GHz with an integrated Mali-400MP2 GPU. There is 1GB of RAM 
+for running applications and services. The internal storage 
+space of 8GB can be expanded by 32GB using a microSD card.
+
+There
+ are two SIM card slots, and the phone supports the 850/900/1800/1900/2100MHz 
+GSM bands. Rounding up the connectivity options are Wi-Fi and 
+Bluetooth. The primary camera can capture 8-megapixel images and has a 
+Sony Exmor R sensor. There is also a 2-megapixel front camera.
+
+The 5.5-inch screen has a resolution of 720x1280, which 
+translates to a pixel density of 267ppi. It has Corning Gorilla Glass 3 
+protection as well. The colours are slightly 
+oversaturated on this display but the sharpness is pretty good. When 
+viewed at an angle, the colours on screen start distorting. However, the
+ sunlight legibility of the phone is pretty decent.
+
+Unlike the 
+Xolo 8X-1000 which features Hive UI - the company's first attempt to 
+create a unique skin slapped on top of Android - the Q2100 has 
+stock Android 4.4.2. Apart from a few tweaks, this
+ phone provides a pure Android experience. 
+
+The very first thing 
+that one notices is the addition of the fingerprint scanner that can be 
+used to unlock the device, as popularised by the iPhone 5s. The implementation
+ is however different than that of the iPhone or the Samsung Galaxy S5 (Review | Pictures),
+ where the scanner is below the screen. On the Xolo Q2100 the 
+scanner is on the rear of the device, similar to what we saw in the HTC 
+One Max (Review), just below the camera. 
+
+After extended 
+usage, we have confirmed our first impressions of the fingerprint scanner, which you 
+can read here. In short, it works about 80 percent of the time and 
+offers helpful messages like "Finger was offset to the left of the 
+sensor" in case of a failed attempt. We did notice that the 
+sensor did not work if the battery level was below 10 percent. It is also important to swipe with the entire pad of your finger while setting up the sensor, not just the tip. 
+
+The 
+fingerprint scanner might be the most visible feature of this phone, but Xolo actually hits the home run with this phone's IR emitter, combined with the Peel Smart Remote app. 
+Peel Smart Remote acts as a universal remote control with virtually all TVs and set-top boxes. We tried the remote on Samsung and Videocon TVs, and it worked flawlessly. We tried it with DishTV and 
+regular cable as well, which again worked without any errors. We 
+could also set reminders for particular shows. 
+After making a comeback in flagship smartphones in 2013, the inclusion 
+of IR in mid-budget devices is 
+indeed welcome. 
+
+To make use of the real estate of the 
+5.5-inch screen, Xolo also makes a few tweaks to the Settings app and 
+adds something called 'Float Multitask Window'. The main categories inside
+ the Settings app are arranged as icons on the left while individual settings are 
+on the right. The 'Float Multitask Window' is a small dot that sticks
+ to the edge of the screen, which when touched, turns into a wheel 
+filled with options. One of these is Game Mode, in which the home button 
+is disabled so that it can't be hit by mistake in the middle of a fast-paced game. Read Mode makes sure the screen never goes off. Float Music and Float Video open the respective apps as floating windows on screen. 
+
+Additionally, Xolo also bundles 
+LastPass, which is a great option for storing all your passwords in one 
+secure location. One of the cool things about LastPass on
+ this phone is that it allows users to use the fingerprint scanner to enter the password to any website or app. Just remember not to forget the app's master password! 
+There are also Xolo-specific apps such as Xolo Care, Xolo Power and Xolo Secure.
+ Xolo Care allows users to call, SMS or e-mail the company's support staff in case any problems crop
+ up on the device. The Xolo Power app is good for users who 
+are constantly worried about battery life. Xolo Secure
+ is an application that can be used to secure your phone in case of theft.
+
+CameraThe camera 
+app on the Xolo Q2100 is a mashup of the stock Gingerbread and KitKat apps. 
+It is unintuitive with a circular menu that just feels awkward to use. 
+Moreover, there aren't many manual options either. This is a simplistic 
+app. 
+
+(Click to see full size)We were surprised at how fast 
+this camera functioned. It can lock focus on a subject really quickly and 
+take photos in an instant. In daylight, the camera takes some decent 
+images up close with good amount of details and close-to-natural 
+colours. The only problem we noticed was that it blows out highlights
+ in the background. Even the HDR mode couldn't do much to fix this. 
+
+The 
+same problem cropped up in the 1080p video clips we recorded. We liked the 
+fact that the lens managed to remain steady while shooting video. In 
+low-light conditions, the camera failed to capture good images. 
+Sometimes the image was just a huge blurry mess and sometimes it was 
+just too dark. The front-facing camera takes some decent pictures, 
+though.  
+
+PerformanceThe Xolo Q2100 is rather 
+smooth in day-to-day usage. We didn't notice any lags even when we 
+opened multiple apps. High-end games like 
+Asphalt 8 stuttered a bit but not enough to ruin the experience. The 
+graphics were toned down in our testing process.
+
+ 
+
+The phone scored 17,504 points in AnTuTu, whereas it 
+got 6,777 overall in Quadrant. For some reason, despite repeated attempts, the GFXbench 
+test failed to work but in the 3DMark Ice Storm test the phone scored 
+3,145, which is pretty low. All our test videos played fine, including 
+our heavily encoded 40mbps 1080p clip. 
+
+The Xolo 
+Q2100 has DTS surround sound technology built in and the speaker is
+ extremely loud. It is clear enough for watching a movie in a closed room, 
+negating the need to spend on Bluetooth 
+speakers. The bundled earphones are pretty decent too.  We didn't notice any loss in sound quality even during phone calls. In our 
+battery test, the phone managed to last exactly 7 hours and 30 
+minutes before it died. This means that it should last at least a
+ day with moderate usage. 
+
+VerdictXolo's attempt to bring 
+features normally found in flagship phones to a phone that costs Rs. 
+13,499 is commendable. Both the fingerprint scanner and the IR 
+blaster work really well, for the most part, and aren't just gimmicks. At least during our testing period, we got pretty accustomed 
+to using these features. This is also a good device for someone who wants a phone with a large screen to watch videos on. 
+
+Our only gripes with the device are the boring design 
+and the subpar camera quality. The Moto G (Gen 2) (Review | Pictures) is a great 
+phone if stock Android is what you seek. Buyers can also take a
+ look at the Micromax Canvas Nitro (Review | Pictures) and Xolo's own Xolo 8X-1000 in 
+the same price range. 
+

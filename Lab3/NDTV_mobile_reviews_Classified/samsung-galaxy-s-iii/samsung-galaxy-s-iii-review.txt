@@ -1,0 +1,452 @@
+Samsung Galaxy S III review
+
+Samsung's rise in the mobile phone arena in the last few years has been 
+phenomenal.  The company has truly come a long way and the success of its 
+last two flagship smartphones played a huge role. It is in this backdrop
+ that Samsung's latest flagship phone becomes so important to the 
+company.When JK Shin, President and Head of IT & Mobile 
+Communications Division at Samsung, was standing on the podium on May 3,
+ 2012, stakes were high and everyone was anticipating a smartphone that 
+would leave the competition behind. It was going to be the third 
+iteration of company's much successful Galaxy S smartphone. He did 
+unveil something that was extraordinary and full of exciting features 
+and industry leading specifications, but will this new smartphone be 
+able to leave the competition behind and prove powerful enough to take on 
+Apple's upcoming iPhone and HTC's flagship One X? We will find out in 
+this review.HardwareSmartphone after smartphone, Samsung 
+has showcased that it continues to put more emphasis on the display of 
+the smartphone and same is visible in S III. The 4.8-inch display on the
+ phone is the single main highlight of the phone. It almost takes the 
+whole of the front, leaving little space for the buttons, front camera 
+and sensors. We don't mind that because by limiting the bezel and 
+removing any unwanted space, Samsung has been able to fit the huge 
+display in much smaller device, which is easier to hold and operate. 
+But, you still have to adjust your grip at times and use both hands 
+while operating the phone at many occasions.There is nothing 
+extraordinary about Galaxy S III design apart from the fact that it 
+houses so much in such a thin body. Company has played safe and 
+conservative, while the direct competitor to the phone One X is a result
+ of HTC's attempt to do something different, which actually works quite 
+well.We are not saying that the Galaxy S III design is bad but it
+ is definitely uninspired.  However, it is quite functional and 
+well-built. The no frills design borrows quite a few elements from 
+company's last two Galaxy S models. The home button makes an appearance 
+once again, coupled with same Android button arrangements, and familiar 
+speaker/ ear-piece grill.Similar to other flagships, a single 
+sheet of glass carefully covers the front; the only bumps are home 
+button and ear-piece grill on the top. As we are on the topic of the 
+home button, it is important to point out that home button was actually a
+ little disappointment for us. In the attempt to fit everything in 
+smaller case, Samsung has reduced the size of home button considerably. 
+We would've preferred a capacitive touch button instead of this small 
+physical home button.Back to the build of the smartphone, thanks 
+to the plastic body and the usual paper thin battery cover, company has 
+been able to keep the smartphone weight to just 133 grams, which is just
+ 3 grams more than HTC One X.It is interesting to note here is 
+that Samsung has been able to pack a 2100 mAh user- removable battery in
+ just 8.6mm thick body along with microSD card slot. So, rather than 
+paying more for a bigger internal memory version of the phone, you can 
+actually just pop in a card when required.It also packs a 
+Micro-USB port at the bottom, which is also used for charging, data 
+transfer via PC and to connect to HDMI devices. Overall, with all
+ the glossy finish and rounded corners, the build quality is quite 
+decent. Despite being plastic, the smartphone feels nice in hand and is 
+very well put together. DisplayThe huge 4.8-inch display 
+on Galaxy S III is obviously the first feature that you will notice on 
+the smartphone and it won't let you down.  S III comes with a Super 
+AMOLED HD display, which has the same underlying technology as Galaxy 
+Nexus but has been improved a lot during the time period between both 
+the launches. However, HTC's One X is still able to score over Galaxy S 
+III in the display category; the LCD on One X has great viewing angles, 
+best in the class clarity and colour balance. On the other hand, the 
+bluish tinge is present on Galaxy S III display and the automatic 
+brightness doesn't work as expected.We won't go in Pentile vs 
+non-Pentile debate here, as that doesn't really matter in the real-life 
+usage of the smartphone. Overall, the colours are vivid, text is clean, 
+readable and viewing angles are great. CameraHTC has set a
+ high bar for smartphone cameras with its One X but Samsung has been 
+able to best it with Galaxy S III. The image quality of the smartphone 
+is simply outstanding. The images are sharp and clear, and even the full
+ resolution images are pretty neat.The 8MP camera on-board 
+provides a holistic imaging experience and removes any need to carry 
+multiple devices for basic photo needs. Company has also included
+ burst mode in smartphone camera, which allows consumers to capture 20 
+shots in one go with around 6 shots per second.The camera 
+software is pretty similar to what you might have seen on Galaxy S II; 
+it is simple and easy to use. Most of the settings and controls are 
+present on the left and the video/photo mode toggle along with capture 
+button is on the right. It might not be as intuitive as One X's camera 
+app, but the quality of images taken from camera fills up that gap.Samsung
+ has added HDR mode to Galaxy S III, which takes multi shots at various 
+exposure values and combines them to create a single image. HDR helps 
+you in situations where two parts of your photo frame have very 
+different lighting condition.The 1.9MP front camera on the 
+smartphone is pretty neat and gives decent output. As the smartphone 
+comes with built in video call support over telecom network, you will 
+find using it quite often.Moving on to the video recording, 
+thanks to the ultra-fast processor inside the device, recording video 
+worked as expected, auto-focus is slightly spotty but rest works fine. 
+Galaxy S III also allows tap-to-focus in video recording, thus helping 
+you in capturing even better videos.The only missing part is on 
+the optical side, Galaxy S III only supports a maximum aperture of 
+f/2.6, which is well behind than f/2.0 on HTC One X. It means, Galaxy S 
+III will be slightly worse in low-lighting conditions.Software/ InterfaceSamsung
+ Galaxy S III runs on Android 4.0.4, but if you remember Ice Cream 
+Sandwich from its stock looks, then you won't be able to recognise it on
+ the smartphone. Samsung has gone all out to skin the hell out of ICS on
+ S III.There is hardly any part of the smartphone that looks like
+ ICS on Galaxy Nexus. But, then it is expected from the Korean 
+manufacturer to help it differentiate the device in such a competitive 
+market.Do these customisation work or are they just adding bloat 
+to refreshing Ice Cream Sandwich? Well, up to a large extent, they do 
+work. One of major part of Samsung's Galaxy S III announcement 
+was dedicated to the several software customisations that company has 
+made in this smartphone. Several new features that have been added to it
+ are not present in any other Android smartphone even from Samsung.Samsung
+ has not only added these features but has also decided to stay away 
+from Android buttons introduced in ICS ( Home, Back and Multitasking) 
+and has chosen to use good old Gingerbread style buttons - Home, Back 
+and Menu (no multitasking button here and it can be managed by long 
+pressing the home button).Apart from home screen, the first 
+customisation to be noticed on Galaxy S III is the set of quick toggles 
+present in notification bar. Other such improvements include trash icon 
+shortcut in Gallery app, and quick access of detailed volume control.Many
+ of the old Touchwiz features are still present in S III, like swiping 
+the contact name left or right to message or call.  Lock screen has been
+ customised as well to include app shortcuts, which can further be 
+altered as per your preferences.The additions are not just 
+limited to these little tweaks; company has made some big feature 
+additions as well. One of our favourites from these features is "Pop up 
+Play," the ability to play video anywhere on your screen simultaneously 
+while doing other tasks. S-Beam is another enhancement from the company 
+that has been made over Android beam, which is present by default in 
+ICS. Samsung has actually combined the functionalities of NFC and Wi-Fi 
+Direct in S-Beam, thus allowing you to transfer not only small packets 
+of information but also big amount of data. S-Beam currently works with 
+Galaxy S III only, so the functionality is limited right now.Coming
+ to the Samsung's answer to Apple's voice assistant Siri, S-Voice, we 
+must say that it is just a big gimmick and adds no value whatsoever. 
+Even in terms of gimmick quotient, the functionality of S-Voice is very 
+limited when compared to Siri. S-Voice only responds to typical command,
+ there is no personality to it at all, so if you were planning to ask some 
+random question, stop right there, it won't answer.It works well 
+with commands and we are not sure how much of use would that be to you. 
+After looking at the next version of Siri at WWDC, S-Voice is now 
+looking even more inferior. One positive with S-Voice over Siri is that 
+the former understands the Indian accent better. Other such 
+features include Smart Stay, Direct Call, Social Tag, Buddy Photo Share,
+ and All Share Play/Cast. During our time with Galaxy S III, the Direct 
+Call functionality that allows you to directly call a person whom you 
+are sending a text by simply picking up the phone and putting it next to
+ your ear, worked perfectly. However, we are disappointed by Smart Stay;
+ it did not work as advertised by the company. The results were 
+irregular, only working sometimes. You can read 
+more about them in our detailed article on these features.If you 
+are wondering about the stock ICS features, under the Samsung's nature 
+inspired UI, all of the additions that were made by Google in ICS are 
+also present on the phone including Face Lock, detailed data info, and 
+battery usage charts.Well, not everything is hunky-dory here. 
+Some of the Samsung's tweaks to Android 4.0 actually fall flat and the 
+method of creating folders is one of them. The dragging and dropping an 
+app on another to create folder doesn't actually work in Galaxy S III. 
+To make a folder, you will have to open app drawer select one app and 
+then drag that to create folder icon, which will then be placed on the 
+home-screen. Another such fail is the removal to Play Store shortcut 
+from top right corner of app drawer screen; Samsung has replaced that 
+with a link to downloaded apps.Performance/ Battery LifeNo
+ surprises here. The 1.4GHz Exynos Quad powered Galaxy S III is really a
+ powerhouse and it is clearly visible in every single action on the 
+smartphone. If you liked using Tegra 3 powered tablet or even One X, you
+ will like the S III even more.We won't go into any technical 
+jargon or benchmarks here, although they agree, but in real-world usage,
+the  Galaxy S III performs brilliantly and does everything that you throw at
+ it without showing any strain.Whether you are working on image 
+heavy documents, opening huge webpages or watching 1080p clips, there is
+ no lag at all. The performance is simple unsurpassed. We can't wait for
+ the apps that fully exploit the S III's power. Call quality and network reception are both superior and you will not face any issues.  Performance
+ review cannot be completed without actually talking about the battery 
+life of the smartphone and the Galaxy S III packs in a big 2100 mAh battery,
+ which is also user-replaceable (do need to keep in mind that stock 
+battery also houses NFC chip).Despite the big HD display and 
+quad-core processor on board, Samsung Galaxy S III will not give you a 
+battery low warning in a day's judicious use, but heavy users might not 
+be so lucky. Because of the presence of a big battery, Galaxy S III also
+ takes around three hours to get fully charged. VerdictConsumer
+ expectations were very high after Galaxy S II and Galaxy Nexus, and 
+Samsung has been able to beat them by presenting a technological marvel 
+in the form Galaxy S III. The camera, processor, and the software 
+customisations, all are best in the class right now. It might not have 
+the looks of One X, but it scores in almost everything else. In 
+the end, it all comes down to one thing - the pricing is, somewhat 
+surprisingly, on the upside. Priced at Rs. 43,180, it is way more than 
+HTC One X's Rs. 37,899 maximum retail price. Street price might be a 
+little lower, but looking at the current pricing, HTC One X is the 
+better deal however Galaxy S III is a better phone. So, if price is no 
+barrier to you, go for it. Check out our gallery for more pictures of the Samsung Galaxy S III.ProsGreat performanceExcellent cameraConsS-Voice is of limited utilityPricingRatings (Out of 5)Design: 4Display: 4Camera: 4.5Performance: 5Software: 4.5Battery Life: 4Value for Money: 3.5Overall: 4 
+
+When JK Shin, President and Head of IT & Mobile 
+Communications Division at Samsung, was standing on the podium on May 3,
+ 2012, stakes were high and everyone was anticipating a smartphone that 
+would leave the competition behind. It was going to be the third 
+iteration of company's much successful Galaxy S smartphone. He did 
+unveil something that was extraordinary and full of exciting features 
+and industry leading specifications, but will this new smartphone be 
+able to leave the competition behind and prove powerful enough to take on 
+Apple's upcoming iPhone and HTC's flagship One X? We will find out in 
+this review.
+
+HardwareSmartphone after smartphone, Samsung 
+has showcased that it continues to put more emphasis on the display of 
+the smartphone and same is visible in S III. The 4.8-inch display on the
+ phone is the single main highlight of the phone. It almost takes the 
+whole of the front, leaving little space for the buttons, front camera 
+and sensors. We don't mind that because by limiting the bezel and 
+removing any unwanted space, Samsung has been able to fit the huge 
+display in much smaller device, which is easier to hold and operate. 
+But, you still have to adjust your grip at times and use both hands 
+while operating the phone at many occasions.
+
+There is nothing 
+extraordinary about Galaxy S III design apart from the fact that it 
+houses so much in such a thin body. Company has played safe and 
+conservative, while the direct competitor to the phone One X is a result
+ of HTC's attempt to do something different, which actually works quite 
+well.
+
+We are not saying that the Galaxy S III design is bad but it
+ is definitely uninspired.  However, it is quite functional and 
+well-built. The no frills design borrows quite a few elements from 
+company's last two Galaxy S models. The home button makes an appearance 
+once again, coupled with same Android button arrangements, and familiar 
+speaker/ ear-piece grill.
+
+Similar to other flagships, a single 
+sheet of glass carefully covers the front; the only bumps are home 
+button and ear-piece grill on the top. As we are on the topic of the 
+home button, it is important to point out that home button was actually a
+ little disappointment for us. In the attempt to fit everything in 
+smaller case, Samsung has reduced the size of home button considerably. 
+We would've preferred a capacitive touch button instead of this small 
+physical home button.
+
+Back to the build of the smartphone, thanks 
+to the plastic body and the usual paper thin battery cover, company has 
+been able to keep the smartphone weight to just 133 grams, which is just
+ 3 grams more than HTC One X.
+
+It is interesting to note here is 
+that Samsung has been able to pack a 2100 mAh user- removable battery in
+ just 8.6mm thick body along with microSD card slot. So, rather than 
+paying more for a bigger internal memory version of the phone, you can 
+actually just pop in a card when required.
+
+It also packs a 
+Micro-USB port at the bottom, which is also used for charging, data 
+transfer via PC and to connect to HDMI devices. 
+
+Overall, with all
+ the glossy finish and rounded corners, the build quality is quite 
+decent. Despite being plastic, the smartphone feels nice in hand and is 
+very well put together. 
+
+DisplayThe huge 4.8-inch display 
+on Galaxy S III is obviously the first feature that you will notice on 
+the smartphone and it won't let you down.  S III comes with a Super 
+AMOLED HD display, which has the same underlying technology as Galaxy 
+Nexus but has been improved a lot during the time period between both 
+the launches. However, HTC's One X is still able to score over Galaxy S 
+III in the display category; the LCD on One X has great viewing angles, 
+best in the class clarity and colour balance. On the other hand, the 
+bluish tinge is present on Galaxy S III display and the automatic 
+brightness doesn't work as expected.
+
+We won't go in Pentile vs 
+non-Pentile debate here, as that doesn't really matter in the real-life 
+usage of the smartphone. Overall, the colours are vivid, text is clean, 
+readable and viewing angles are great. 
+
+CameraHTC has set a
+ high bar for smartphone cameras with its One X but Samsung has been 
+able to best it with Galaxy S III. The image quality of the smartphone 
+is simply outstanding. The images are sharp and clear, and even the full
+ resolution images are pretty neat.
+
+The 8MP camera on-board 
+provides a holistic imaging experience and removes any need to carry 
+multiple devices for basic photo needs. 
+
+Company has also included
+ burst mode in smartphone camera, which allows consumers to capture 20 
+shots in one go with around 6 shots per second.
+
+The camera 
+software is pretty similar to what you might have seen on Galaxy S II; 
+it is simple and easy to use. Most of the settings and controls are 
+present on the left and the video/photo mode toggle along with capture 
+button is on the right. It might not be as intuitive as One X's camera 
+app, but the quality of images taken from camera fills up that gap.
+
+Samsung
+ has added HDR mode to Galaxy S III, which takes multi shots at various 
+exposure values and combines them to create a single image. HDR helps 
+you in situations where two parts of your photo frame have very 
+different lighting condition.
+
+The 1.9MP front camera on the 
+smartphone is pretty neat and gives decent output. As the smartphone 
+comes with built in video call support over telecom network, you will 
+find using it quite often.
+
+Moving on to the video recording, 
+thanks to the ultra-fast processor inside the device, recording video 
+worked as expected, auto-focus is slightly spotty but rest works fine. 
+Galaxy S III also allows tap-to-focus in video recording, thus helping 
+you in capturing even better videos.
+
+The only missing part is on 
+the optical side, Galaxy S III only supports a maximum aperture of 
+f/2.6, which is well behind than f/2.0 on HTC One X. It means, Galaxy S 
+III will be slightly worse in low-lighting conditions.
+
+Software/ Interface
+
+Samsung
+ Galaxy S III runs on Android 4.0.4, but if you remember Ice Cream 
+Sandwich from its stock looks, then you won't be able to recognise it on
+ the smartphone. Samsung has gone all out to skin the hell out of ICS on
+ S III.
+
+There is hardly any part of the smartphone that looks like
+ ICS on Galaxy Nexus. But, then it is expected from the Korean 
+manufacturer to help it differentiate the device in such a competitive 
+market.
+
+Do these customisation work or are they just adding bloat 
+to refreshing Ice Cream Sandwich? Well, up to a large extent, they do 
+work. 
+
+One of major part of Samsung's Galaxy S III announcement 
+was dedicated to the several software customisations that company has 
+made in this smartphone. Several new features that have been added to it
+ are not present in any other Android smartphone even from Samsung.
+
+Samsung
+ has not only added these features but has also decided to stay away 
+from Android buttons introduced in ICS ( Home, Back and Multitasking) 
+and has chosen to use good old Gingerbread style buttons - Home, Back 
+and Menu (no multitasking button here and it can be managed by long 
+pressing the home button).
+
+Apart from home screen, the first 
+customisation to be noticed on Galaxy S III is the set of quick toggles 
+present in notification bar. Other such improvements include trash icon 
+shortcut in Gallery app, and quick access of detailed volume control.
+
+Many
+ of the old Touchwiz features are still present in S III, like swiping 
+the contact name left or right to message or call.  Lock screen has been
+ customised as well to include app shortcuts, which can further be 
+altered as per your preferences.
+
+The additions are not just 
+limited to these little tweaks; company has made some big feature 
+additions as well. One of our favourites from these features is "Pop up 
+Play," the ability to play video anywhere on your screen simultaneously 
+while doing other tasks. S-Beam is another enhancement from the company 
+that has been made over Android beam, which is present by default in 
+ICS. Samsung has actually combined the functionalities of NFC and Wi-Fi 
+Direct in S-Beam, thus allowing you to transfer not only small packets 
+of information but also big amount of data. S-Beam currently works with 
+Galaxy S III only, so the functionality is limited right now.
+
+Coming
+ to the Samsung's answer to Apple's voice assistant Siri, S-Voice, we 
+must say that it is just a big gimmick and adds no value whatsoever. 
+Even in terms of gimmick quotient, the functionality of S-Voice is very 
+limited when compared to Siri. S-Voice only responds to typical command,
+ there is no personality to it at all, so if you were planning to ask some 
+random question, stop right there, it won't answer.
+
+It works well 
+with commands and we are not sure how much of use would that be to you. 
+After looking at the next version of Siri at WWDC, S-Voice is now 
+looking even more inferior. One positive with S-Voice over Siri is that 
+the former understands the Indian accent better. 
+
+Other such 
+features include Smart Stay, Direct Call, Social Tag, Buddy Photo Share,
+ and All Share Play/Cast. During our time with Galaxy S III, the Direct 
+Call functionality that allows you to directly call a person whom you 
+are sending a text by simply picking up the phone and putting it next to
+ your ear, worked perfectly. However, we are disappointed by Smart Stay;
+ it did not work as advertised by the company. The results were 
+irregular, only working sometimes. You can read 
+more about them in our detailed article on these features.
+
+If you 
+are wondering about the stock ICS features, under the Samsung's nature 
+inspired UI, all of the additions that were made by Google in ICS are 
+also present on the phone including Face Lock, detailed data info, and 
+battery usage charts.
+
+Well, not everything is hunky-dory here. 
+Some of the Samsung's tweaks to Android 4.0 actually fall flat and the 
+method of creating folders is one of them. The dragging and dropping an 
+app on another to create folder doesn't actually work in Galaxy S III. 
+To make a folder, you will have to open app drawer select one app and 
+then drag that to create folder icon, which will then be placed on the 
+home-screen. Another such fail is the removal to Play Store shortcut 
+from top right corner of app drawer screen; Samsung has replaced that 
+with a link to downloaded apps.
+
+Performance/ Battery LifeNo
+ surprises here. The 1.4GHz Exynos Quad powered Galaxy S III is really a
+ powerhouse and it is clearly visible in every single action on the 
+smartphone. If you liked using Tegra 3 powered tablet or even One X, you
+ will like the S III even more.
+
+We won't go into any technical 
+jargon or benchmarks here, although they agree, but in real-world usage,
+the  Galaxy S III performs brilliantly and does everything that you throw at
+ it without showing any strain.
+
+Whether you are working on image 
+heavy documents, opening huge webpages or watching 1080p clips, there is
+ no lag at all. The performance is simple unsurpassed. We can't wait for
+ the apps that fully exploit the S III's power. 
+
+Call quality and network reception are both superior and you will not face any issues.  
+
+Performance
+ review cannot be completed without actually talking about the battery 
+life of the smartphone and the Galaxy S III packs in a big 2100 mAh battery,
+ which is also user-replaceable (do need to keep in mind that stock 
+battery also houses NFC chip).
+
+Despite the big HD display and 
+quad-core processor on board, Samsung Galaxy S III will not give you a 
+battery low warning in a day's judicious use, but heavy users might not 
+be so lucky. Because of the presence of a big battery, Galaxy S III also
+ takes around three hours to get fully charged.
+
+ VerdictConsumer
+ expectations were very high after Galaxy S II and Galaxy Nexus, and 
+Samsung has been able to beat them by presenting a technological marvel 
+in the form Galaxy S III. The camera, processor, and the software 
+customisations, all are best in the class right now. It might not have 
+the looks of One X, but it scores in almost everything else. 
+
+In 
+the end, it all comes down to one thing - the pricing is, somewhat 
+surprisingly, on the upside. Priced at Rs. 43,180, it is way more than 
+HTC One X's Rs. 37,899 maximum retail price. Street price might be a 
+little lower, but looking at the current pricing, HTC One X is the 
+better deal however Galaxy S III is a better phone. So, if price is no 
+barrier to you, go for it. 
+
+Pros
+
+Cons
+
+Ratings (Out of 5)Design: 4Display: 4Camera: 4.5Performance: 5Software: 4.5Battery Life: 4Value for Money: 3.5Overall: 4
+

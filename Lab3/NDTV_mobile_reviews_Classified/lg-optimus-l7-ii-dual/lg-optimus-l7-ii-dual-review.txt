@@ -1,0 +1,313 @@
+LG Optimus L7 II dual review
+
+LG Mobiles has been trying to woo Indian customers with its affordable L
+ II series of smartphones. These smartphones comprise of LG Optimus L3 
+II dual, L5 II dual and L7 II dual and were first showcased at the 
+Mobile World Congress (MWC) 2013. The company had tasted success with 
+its earlier L series of smartphones and it is aiming to repeat the 
+history with its LII series as well.Priced at Rs. 18,650 LG Optimus 
+L7 II dual is the most expensive smartphone of this series. The company 
+also has a single SIM version of this smartphone, which is dubbed LG 
+Optimus L7 II but in India so far only the dual-SIM version is available
+ in the market. In the recent past, there have been plenty of 
+affordable Android smartphones launched that are under the price bracket
+ of Rs. 20,000 and through this review we try to find out if LG Optimus 
+L7 II dual will be make its mark or not.Hardware/ DesignIn
+ terms of looks LG Optimus L7 II dual has a very run of the mill looks. 
+It has a rectangular build with curved borders. The entire body is made 
+of plastic but at the same time it does not look cheap.The back 
+panel of LG Optimus L7 II dual has a textured finish, which was missing 
+in its predecessor, the LG Optimus L7 dual. The front is taken up by the
+ 4.3-inch IPS (WVGA) touchscreen. Just below the screen are the four 
+capacitive buttons for Back, Home, Menu and SIM-switch button. With the 
+help of SIM-switch button you can easily swap the SIM before making a 
+call or sending an SMS. It comes in very handy in terms of managing SIMs
+ as one does not have to go to settings and change SIM functions in 
+order to make a switch.However, these capacitive buttons on the smartphone are not backlit, which makes them difficult to use in the dark.On
+ the left panel is the volume rocker button. Just above the volume 
+rocker is the "Quick button", which is a physical button that you can 
+customise to set a function or an app that you use the most. This button
+ is quite conveniently placed and comes in quite handy. The right panel 
+is the power/ standby button. DisplayThe LG Optimus L7 II 
+dual comes with 4.3-inch IPS 480x800 pixel (WVGA) display, which has a 
+pixel density of around 216ppi. In the recent past, we have seen some 
+companies launch HD smartphones at the same price point. In any case, 
+most smartphones in the range of Rs. 15,000 price points come with at 
+least a qHD display and so are disappointed with the display resolution 
+of LG Optimus L7 II dual.We were easily able to read the text on 
+this smartphone, however watching videos or pictures is not a pleasant 
+experience. You can even see slight pixelatiom on the display while 
+watching videos and pictures.The viewing angles of this 
+smartphone are average but the colour reproduction is not very good.  
+The under sun light visibility is passable. However, the screen is a 
+finger print magnet and needs to be cleaned frequently.The touch 
+sensitivity of the screen is good, but in our experience it is a tad bit
+ oversensitive and because of this we would end up terminating our calls
+ accidently.Software/ User InterfaceThe LG Optimus L7 II 
+dual runs Android 4.1.2 (Jelly Bean) and the smartphone has been heavily
+ skinned. The Korean smartphone has added its own Optimus UI 3.0 layer 
+on top. One of the major advantages of this skin is that the 
+customisations and UI extras that LG is offering with its flagship 
+phones such as the Optimus G, are also available on this smartphone in 
+the same or a lighter avatar. LG also allows you to customise the
+ Lock screen giving the ability to select four app shortcuts and a clock
+ or calendar. Swiping anywhere else on the lock screen will take you to 
+the last screen that you were on, before the smartphone went on standby.
+  You can choose the animation effect that you would want to use on your
+ smartphone when you swipe from one home screen to another or when you 
+unlock the phone.LG gives you the option of choosing from four 
+different themes - Optimus, Biz, Cozywall and Marshmallow. All these 
+four themes offer a different icon set, home screen wallpaper and app 
+drawer background. These themes are a quite bright and fun. Amongst 
+these themes, the Marshmallow theme seems designed for young girls and 
+looks straight out of fairy tale books. LG Optimus L7 II dual 
+comes with five customisable home screens that you can fill with apps 
+and widgets. The Korean smartphone maker has also skinned the 
+notification tray and has included toggles for various settings 
+including for sound, data, NFC, Bluetooth, Wi-Fi, and Hotspot among 
+others. It also features a shortcut for system settings, and a control 
+for changing screen brightness. LG also added its site of "Q 
+apps" on this smartphones that includes QMemo, QTranslator and QSlide. 
+QMemo app stands for Quick Menu and helps users to scribble notes on a 
+blank page or on top of a screen shot. QTranslator app is a real-time 
+translator. With this app you can scans text, which are in a different 
+language using your camera. Apart from these, LG Optimus L7 II 
+dual also has Backup, Cell Broadcast, File Manager, File Share, LG TV, 
+Memo app, Polaris Viewer (for office documents), Remote Call Service, 
+Safety Care, Smart Care and Task Manager. This smartphone also comes 
+with LG's own app store - SmartWorld, which can be used to download 
+apps. As we already mentioned that the LG has added a swap key to
+ help manage both the SIM effectively. Even on the software side, LG has
+ added a few touches that help the users conveniently manage their two 
+SIMs. For example, there are two different colour schemes throughout the
+ menus indicating which SIM card is in use. The primary SIM card is 
+represented in blue colour and the other SIM is showed in magenta. This 
+helps in clearly demarking which SIM is in use and seems quite 
+thoughtful add on from LG's side. CameraThe LG Optimus L7 
+II dual comes with an 8-megapixel auto-focus camera with a single LED 
+flash. There is no dedicated camera key on the smartphone, but we did 
+not miss it much as this smartphone, just like the Optimus G, can also 
+take pictures with voice commands like 'cheese', 'kimchi', 'LG', 'Smile'
+ and 'Whisky'Pictures clicked through this camera are average in
+ the broad sunlight but the edges appear to be slightly burned out. The 
+colour reproduction of the pictures is satisfactory. This 
+smartphone also comes with a burst shot feature that enables you to take
+ six quick continuous shots. However, moving images clicked are blurry 
+and also there is a slight camera lag while taking pictures in the burst
+ mode.The experience of using video recording through the rear 
+camera is average. You can capture videos of 480p at 30 frames per 
+second.The LG Optimus L7 II dual also comes with 0.3-megapixel 
+front camera for taking self-images and making Skype calls. Images and 
+videos captured through this camera are very grainy. PerformanceLG
+ Optimus L7 II dual packs in 1GHz dual-core processor along with 768MB of
+ RAM. Though the smartphone is able to perform day-to-day task without 
+much hiccups, it is not ideal for multitasking for playing heavy games. The
+ experience of playing popular games such as Fruit Ninja, Temple Run 2 
+and Angry Birds is breezy. LG Optimus L3 II dual did not support the 
+game Subway Surfer but the same is supported by this smartphone. The
+ smartphone comes with 4GB of internal storage, which can be expanded 
+via microSD cards of up to 32GB. Furthermore, only 1.78GB memory is user
+ accessible.The LG Optimus L7 II dual comes with the native 
+Android browser as well as Chrome and we found that it renders webpages 
+well. The phone doesn't come with Adobe Flash pre-installed. The 
+speaker on the phone delivers good quality sound at high volume levels 
+both through the speaker as well as the earphones. The call quality of 
+LG Optimus L5 II dual is good too. The phone is a dual-SIM GSM phone 
+with dual-standby. The LG Optimus L7 II dual comes with a 
+2,460mAh battery and based on our experience, it will easily last a day 
+and a half with medium usage.VerdictLG is trying hard to 
+make its mark in the Indian smartphone market. However, we feel that the
+ company has not really been able to nail the segment with LG Optimus L7
+ II dual, with the display being especially underwhelming.We 
+recommend having a look at the Nokia Lumia 720 (Review| Pictures) if you
+ do not mind a Windows Phone 8 offering. Priced at Rs. 18,999, the Lumia
+ 720 is an attractive proposition. The other option that you might want 
+to look at is the Samsung Galaxy Grand Duos (Review| Pictures). This is 
+slightly expensive than the LG Optimus L7 II dual but has great media 
+capabilities. However, the display of the Samsung Galaxy Grand is not 
+great either. Apart from these one can also look at the Micromax Canvas 
+HD (Review| Pictures), which is a good value for money proposition. Price: Rs. 18,650
+
+Priced at Rs. 18,650 LG Optimus 
+L7 II dual is the most expensive smartphone of this series. The company 
+also has a single SIM version of this smartphone, which is dubbed LG 
+Optimus L7 II but in India so far only the dual-SIM version is available
+ in the market. 
+
+In the recent past, there have been plenty of 
+affordable Android smartphones launched that are under the price bracket
+ of Rs. 20,000 and through this review we try to find out if LG Optimus 
+L7 II dual will be make its mark or not.
+
+Hardware/ DesignIn
+ terms of looks LG Optimus L7 II dual has a very run of the mill looks. 
+It has a rectangular build with curved borders. The entire body is made 
+of plastic but at the same time it does not look cheap.
+
+The back 
+panel of LG Optimus L7 II dual has a textured finish, which was missing 
+in its predecessor, the LG Optimus L7 dual. The front is taken up by the
+ 4.3-inch IPS (WVGA) touchscreen. Just below the screen are the four 
+capacitive buttons for Back, Home, Menu and SIM-switch button. With the 
+help of SIM-switch button you can easily swap the SIM before making a 
+call or sending an SMS. It comes in very handy in terms of managing SIMs
+ as one does not have to go to settings and change SIM functions in 
+order to make a switch.
+
+However, these capacitive buttons on the smartphone are not backlit, which makes them difficult to use in the dark.
+
+On
+ the left panel is the volume rocker button. Just above the volume 
+rocker is the "Quick button", which is a physical button that you can 
+customise to set a function or an app that you use the most. This button
+ is quite conveniently placed and comes in quite handy. The right panel 
+is the power/ standby button. 
+
+DisplayThe LG Optimus L7 II 
+dual comes with 4.3-inch IPS 480x800 pixel (WVGA) display, which has a 
+pixel density of around 216ppi. In the recent past, we have seen some 
+companies launch HD smartphones at the same price point. In any case, 
+most smartphones in the range of Rs. 15,000 price points come with at 
+least a qHD display and so are disappointed with the display resolution 
+of LG Optimus L7 II dual.
+
+We were easily able to read the text on 
+this smartphone, however watching videos or pictures is not a pleasant 
+experience. You can even see slight pixelatiom on the display while 
+watching videos and pictures.
+
+The viewing angles of this 
+smartphone are average but the colour reproduction is not very good.  
+The under sun light visibility is passable. However, the screen is a 
+finger print magnet and needs to be cleaned frequently.
+
+The touch 
+sensitivity of the screen is good, but in our experience it is a tad bit
+ oversensitive and because of this we would end up terminating our calls
+ accidently.
+
+Software/ User InterfaceThe LG Optimus L7 II 
+dual runs Android 4.1.2 (Jelly Bean) and the smartphone has been heavily
+ skinned. The Korean smartphone has added its own Optimus UI 3.0 layer 
+on top. One of the major advantages of this skin is that the 
+customisations and UI extras that LG is offering with its flagship 
+phones such as the Optimus G, are also available on this smartphone in 
+the same or a lighter avatar. 
+
+LG also allows you to customise the
+ Lock screen giving the ability to select four app shortcuts and a clock
+ or calendar. Swiping anywhere else on the lock screen will take you to 
+the last screen that you were on, before the smartphone went on standby.
+  You can choose the animation effect that you would want to use on your
+ smartphone when you swipe from one home screen to another or when you 
+unlock the phone.
+
+LG gives you the option of choosing from four 
+different themes - Optimus, Biz, Cozywall and Marshmallow. All these 
+four themes offer a different icon set, home screen wallpaper and app 
+drawer background. These themes are a quite bright and fun. Amongst 
+these themes, the Marshmallow theme seems designed for young girls and 
+looks straight out of fairy tale books. 
+
+LG Optimus L7 II dual 
+comes with five customisable home screens that you can fill with apps 
+and widgets. The Korean smartphone maker has also skinned the 
+notification tray and has included toggles for various settings 
+including for sound, data, NFC, Bluetooth, Wi-Fi, and Hotspot among 
+others. It also features a shortcut for system settings, and a control 
+for changing screen brightness. 
+
+LG also added its site of "Q 
+apps" on this smartphones that includes QMemo, QTranslator and QSlide. 
+QMemo app stands for Quick Menu and helps users to scribble notes on a 
+blank page or on top of a screen shot. QTranslator app is a real-time 
+translator. With this app you can scans text, which are in a different 
+language using your camera. 
+
+Apart from these, LG Optimus L7 II 
+dual also has Backup, Cell Broadcast, File Manager, File Share, LG TV, 
+Memo app, Polaris Viewer (for office documents), Remote Call Service, 
+Safety Care, Smart Care and Task Manager. This smartphone also comes 
+with LG's own app store - SmartWorld, which can be used to download 
+apps. 
+
+As we already mentioned that the LG has added a swap key to
+ help manage both the SIM effectively. Even on the software side, LG has
+ added a few touches that help the users conveniently manage their two 
+SIMs. For example, there are two different colour schemes throughout the
+ menus indicating which SIM card is in use. The primary SIM card is 
+represented in blue colour and the other SIM is showed in magenta. This 
+helps in clearly demarking which SIM is in use and seems quite 
+thoughtful add on from LG's side. 
+
+CameraThe LG Optimus L7 
+II dual comes with an 8-megapixel auto-focus camera with a single LED 
+flash. There is no dedicated camera key on the smartphone, but we did 
+not miss it much as this smartphone, just like the Optimus G, can also 
+take pictures with voice commands like 'cheese', 'kimchi', 'LG', 'Smile'
+ and 'Whisky'
+
+Pictures clicked through this camera are average in
+ the broad sunlight but the edges appear to be slightly burned out. The 
+colour reproduction of the pictures is satisfactory. 
+
+This 
+smartphone also comes with a burst shot feature that enables you to take
+ six quick continuous shots. However, moving images clicked are blurry 
+and also there is a slight camera lag while taking pictures in the burst
+ mode.
+
+The experience of using video recording through the rear 
+camera is average. You can capture videos of 480p at 30 frames per 
+second.
+
+The LG Optimus L7 II dual also comes with 0.3-megapixel 
+front camera for taking self-images and making Skype calls. Images and 
+videos captured through this camera are very grainy. 
+
+PerformanceLG
+ Optimus L7 II dual packs in 1GHz dual-core processor along with 768MB of
+ RAM. Though the smartphone is able to perform day-to-day task without 
+much hiccups, it is not ideal for multitasking for playing heavy games. 
+
+The
+ experience of playing popular games such as Fruit Ninja, Temple Run 2 
+and Angry Birds is breezy. LG Optimus L3 II dual did not support the 
+game Subway Surfer but the same is supported by this smartphone. 
+
+The
+ smartphone comes with 4GB of internal storage, which can be expanded 
+via microSD cards of up to 32GB. Furthermore, only 1.78GB memory is user
+ accessible.
+
+The LG Optimus L7 II dual comes with the native 
+Android browser as well as Chrome and we found that it renders webpages 
+well. The phone doesn't come with Adobe Flash pre-installed. 
+
+The 
+speaker on the phone delivers good quality sound at high volume levels 
+both through the speaker as well as the earphones. The call quality of 
+LG Optimus L5 II dual is good too. The phone is a dual-SIM GSM phone 
+with dual-standby. 
+
+The LG Optimus L7 II dual comes with a 
+2,460mAh battery and based on our experience, it will easily last a day 
+and a half with medium usage.
+
+VerdictLG is trying hard to 
+make its mark in the Indian smartphone market. However, we feel that the
+ company has not really been able to nail the segment with LG Optimus L7
+ II dual, with the display being especially underwhelming.
+
+We 
+recommend having a look at the Nokia Lumia 720 (Review| Pictures) if you
+ do not mind a Windows Phone 8 offering. Priced at Rs. 18,999, the Lumia
+ 720 is an attractive proposition. The other option that you might want 
+to look at is the Samsung Galaxy Grand Duos (Review| Pictures). This is 
+slightly expensive than the LG Optimus L7 II dual but has great media 
+capabilities. However, the display of the Samsung Galaxy Grand is not 
+great either. Apart from these one can also look at the Micromax Canvas 
+HD (Review| Pictures), which is a good value for money proposition. 
+
+Price: Rs. 18,650
+

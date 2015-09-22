@@ -1,0 +1,308 @@
+Idea Ultra+ Review: The Plain Jane Smartphone
+
+Idea Cellular is primarily a mobile service 
+operator, but it does sell handsets with the intention of promoting 3G 
+data usage In India. There are of course benefits if you're an Idea 
+subscriber, but the phones are not locked to the company's own network 
+and can be bought freely and used by anyone.We have the new Idea 
+Ultra+ with us for review today. It's a budget-friendly device which 
+should help encourage people to get online and do more than they're used
+ to doing with simple feature phones.Look and feelWe know 
+by now that pretty much all the phones sold by Indian companies are 
+actually built in China and imported in bulk. Most of the time we don't 
+even bother thinking about where exactly any of these devices came from,
+ but the Ultra+ really seems to want us to know that it's made by TCL, 
+the company that owns and operates the Alcatel brand. There's no 
+doubt at all that this is a rebadged Alcatel One Touch Pop C7 - Idea 
+isn't even trying to hide it. The OEM's branding can be found on the 
+box, the charger and the battery, and even the protective plastic film 
+over the screen had a huge Alcatel logo printed on it when we first 
+opened the box. The only hint of Idea's involvement is a light grey logo
+ printed on the phone's rear panel. This isn't a bad thing at all
+ - in fact it gives us a little more reassurance than we've had with 
+other "Indian" phones - but we do wonder why Idea bothered to rename the
+ Pop C7 and market it as its own.Regardless of Idea's product 
+procurement strategy, the Ultra+ is one of the most blatant Samsung 
+clones we've ever seen. All the hallmarks of the Korean giant's tired 
+formula can be seen here, from the shape and proportions of the device 
+to its shiny silver accents. The only thing missing is a physical Home 
+button, but otherwise it could easily pass off as a Galaxy S III (Review I Pictures) or S4 (Review | Pictures).The
+ plastic is especially glossy and smooth, although the shape and size of
+ the Ultra+ allow a decent grip. The power and volume buttons are on the
+ right edge, but the power button is just a bit too low to be easily 
+reached with a thumb. The headset socket is on the top, with the 
+Micro-USB port on the bottom. The camera, flash and speaker 
+grille are the only things visible on the rear. The cover peels off with
+ a little difficulty, and beneath it you can see the neatly laid out 
+slots for two Micro-SIM cards and a microSD card. The battery is 
+removable but you don't have to take it out to swap any of the cards. There's
+ really nothing that makes the Idea Ultra+ look interesting at all - 
+it's one of the blandest designs we've seen in a long time, and some 
+people might be fine with that. Construction quality is quite good 
+though, and the phone feels solid enough to withstand a few knocks.Specifications and softwareThe
+ Ultra+ is based on the familiar quad-core MediaTek MTK6582, running at 
+1.3GHz. It has a 5-inch screen with a relatively low resolution of 
+480x854, which makes things look rather grainy. There's 1GB of RAM and 
+4GB of storage space, which you can expand by up to 32GB with a microSD 
+card. Bluetooth 4.0 and Wi-Fi b/g/n are supported.  Unfortunately,
+ the Idea Ultra+ is stuck on Android 4.2, which is fairly old at this 
+point. There is quite a bit of customisation which makes things look 
+fresh, but you won't have all the benefits of modern Android unless the 
+company issues an update at some point.You can jump right into 
+the camera, call and messaging apps from the lockscreen by dragging the 
+unlock icon in different directions, but the icon itself keeps bouncing 
+around within its circle for no reason. The Settings app and the 
+notification shade are lightly skinned, and they actually look quite 
+good. Simple gestures, limited to flipping the phone over to mute it or 
+snooze alarms, are supported. There's a very useful battery saver mode 
+which disables Wi-Fi, Bluetooth, GPS and data syncing except for 
+specific apps that you can whitelistand, as well as an "Ultimate saver" 
+mode, in which only the phone, messaging, calendar, contacts and alarm 
+clock functions work.Plenty of apps are preloaded - there's Adobe
+ Reader, AVG Antivirus Pro, Barcode Scanner, Evernote, Facebook, 
+LinkedIn, MobiSystems Office Suite 7, Twitter and WhatsApp. There are 
+also a few simple tools: a currency converter, a notes app, a to-do 
+list, an LED torch, setup wizard, assistants for Wi-Fi direct and 
+tethering, and system update checker. Alcatel's One Touch Center and One
+ Touch Backup apps for wirelessly syncing with a PC and backing up 
+important data are included, along with a whole raft of apps from Idea. Idea
+ TV is a subscription streaming video service, and one of the benefits 
+of being an Idea subscriber. The app won't even launch if you aren't  
+using an Idea SIM card, so we couldn't test it. IdeaFresh and IdeaMall 
+are just shortcuts to websites for the company's own download sites for 
+wallpapers, games, apps etc. There's even a whole bunch of non-essential
+ Google apps in addition to the usual ones - Chrome, My Tracks, 
+Navigation and Local, to name a few.CameraThe camera is 
+listed everywhere as an 8-megapixel unit, but Idea's spec sheet notes 
+that this is "after extrapolation". We expected images to come out at 
+that size, but they are captured at a resolution of 2560x1440, which 
+works out to a little under four megapixels. The camera app is 
+quite neat, especially the settings dialog which floats over the 
+viewfinder area and offers quick access to settings. You can only choose
+ between "small" and "large" to determine picture size, and we had it 
+set to "large".(Click to see full size)You get an HDR mode and a panorama mode as well as
+ scene settings for the night and for sports. There are sliders for ISO 
+and exposure level, plus a handy self timer with an adjustable 
+countdown.We were quite pleased with the quality of photos we 
+were able to capture in the daytime. There was quite a lot of detail and
+ not much post-processing noise. The photos were actually very usable. 
+Things took a turn for the worse at night, though - subjects in images 
+were barely discernable and the difference was quite literally night and
+ day.PerformanceWe weren't really happy with the screen on
+ the Ultra+. In addition to being terribly low-resolution by today's 
+standards for 5-inch devices, colours are washed out and viewing angles 
+are just awful. Colours appear different when you look at the screen 
+from different angles. Brightness is somewhat limited, and sunlight 
+readability is not good at all.The built-in speaker is 
+surprisingly loud, but very shrill and tinny. Music is not reproduced 
+well but at least you can hear what people say in movies and games. We
+ found the Idea Ultra+ to be fairly snappy in everyday tasks. We didn't 
+have very high expectations and we weren't disappointed. Apps don't open
+ very quickly and there are slight delays when transitioning between 
+screens, such as when unlocking the phone. Some apps took a while to 
+load, and while we didn't have trouble with casual games, we wouldn't 
+hold out much hope that heavy 3D games will run at all.Benchmark 
+scores were unexciting, which is consistent with what we've seen from 
+other devices based on the same processor, such as the Lenovo S860. We 
+got only 8.8fps in GFXbench and 3120 points in 3DMark's Ice Storm 
+runthrough. Quadrant gave us a score of 18,155 overall, while the brand 
+new AnTuTu 5 benchmark delivered 18,670 points.The phone managed 
+to play 720p clips and even our lightest 1080p clip, but your mileage 
+will vary depending on file format and compression quality. The upper 
+half of the rear got uncomfortably warm while playing HD videos.One
+ thing that stood out was the device's battery life. It lasted a 
+respectable 6 hours, 9 minutes in our video loop test, and even with 
+ordinary usage we were pleased to see how slowly the percentage readout 
+dropped. You should be able to get a full day's use out of this phone 
+without any problem.VerdictThe Idea Ultra+ is a very 
+plain, inoffensive phone. There's really nothing wrong with it, but it 
+doesn't stand out for any good reason either. Other options in the 
+market at this price level include the Asus Zenfone 4 (Review | Pictures), Motorola Moto E 
+(Review | Pictures) and Sony Xperia E1 (Review | Pictures) which all have something unique to offer, though they
+ do also have smaller screens. The soon-to-be-launched Xiaomi Redmi 1S 
+(Pictures) will be cheaper but looks to have specifications and features that will 
+outdo the Ultra+ by quite a wide margin.You can pick up the 
+Ultra+ at a reasonable price, if you feel like it suits you. If you're 
+already an Idea subscriber (or are planning to be one soon), you might 
+want to check out the tariff plans and offers available and factor all 
+those things into your purchasing decision. Idea Ultra+ in pictures
+
+Idea Cellular is primarily a mobile service 
+operator, but it does sell handsets with the intention of promoting 3G 
+data usage In India. There are of course benefits if you're an Idea 
+subscriber, but the phones are not locked to the company's own network 
+and can be bought freely and used by anyone.
+
+We have the new Idea 
+Ultra+ with us for review today. It's a budget-friendly device which 
+should help encourage people to get online and do more than they're used
+ to doing with simple feature phones.
+
+Look and feelWe know 
+by now that pretty much all the phones sold by Indian companies are 
+actually built in China and imported in bulk. Most of the time we don't 
+even bother thinking about where exactly any of these devices came from,
+ but the Ultra+ really seems to want us to know that it's made by TCL, 
+the company that owns and operates the Alcatel brand. 
+
+There's no 
+doubt at all that this is a rebadged Alcatel One Touch Pop C7 - Idea 
+isn't even trying to hide it. The OEM's branding can be found on the 
+box, the charger and the battery, and even the protective plastic film 
+over the screen had a huge Alcatel logo printed on it when we first 
+opened the box. The only hint of Idea's involvement is a light grey logo
+ printed on the phone's rear panel. 
+
+This isn't a bad thing at all
+ - in fact it gives us a little more reassurance than we've had with 
+other "Indian" phones - but we do wonder why Idea bothered to rename the
+ Pop C7 and market it as its own.
+
+Regardless of Idea's product 
+procurement strategy, the Ultra+ is one of the most blatant Samsung 
+clones we've ever seen. All the hallmarks of the Korean giant's tired 
+formula can be seen here, from the shape and proportions of the device 
+to its shiny silver accents. The only thing missing is a physical Home 
+button, but otherwise it could easily pass off as a Galaxy S III (Review I Pictures) or S4 (Review | Pictures).
+
+The
+ plastic is especially glossy and smooth, although the shape and size of
+ the Ultra+ allow a decent grip. The power and volume buttons are on the
+ right edge, but the power button is just a bit too low to be easily 
+reached with a thumb. The headset socket is on the top, with the 
+Micro-USB port on the bottom. 
+
+The camera, flash and speaker 
+grille are the only things visible on the rear. The cover peels off with
+ a little difficulty, and beneath it you can see the neatly laid out 
+slots for two Micro-SIM cards and a microSD card. The battery is 
+removable but you don't have to take it out to swap any of the cards. 
+
+There's
+ really nothing that makes the Idea Ultra+ look interesting at all - 
+it's one of the blandest designs we've seen in a long time, and some 
+people might be fine with that. Construction quality is quite good 
+though, and the phone feels solid enough to withstand a few knocks.
+
+Specifications and softwareThe
+ Ultra+ is based on the familiar quad-core MediaTek MTK6582, running at 
+1.3GHz. It has a 5-inch screen with a relatively low resolution of 
+480x854, which makes things look rather grainy. There's 1GB of RAM and 
+4GB of storage space, which you can expand by up to 32GB with a microSD 
+card. Bluetooth 4.0 and Wi-Fi b/g/n are supported.  
+
+Unfortunately,
+ the Idea Ultra+ is stuck on Android 4.2, which is fairly old at this 
+point. There is quite a bit of customisation which makes things look 
+fresh, but you won't have all the benefits of modern Android unless the 
+company issues an update at some point.
+
+You can jump right into 
+the camera, call and messaging apps from the lockscreen by dragging the 
+unlock icon in different directions, but the icon itself keeps bouncing 
+around within its circle for no reason. The Settings app and the 
+notification shade are lightly skinned, and they actually look quite 
+good. Simple gestures, limited to flipping the phone over to mute it or 
+snooze alarms, are supported. There's a very useful battery saver mode 
+which disables Wi-Fi, Bluetooth, GPS and data syncing except for 
+specific apps that you can whitelistand, as well as an "Ultimate saver" 
+mode, in which only the phone, messaging, calendar, contacts and alarm 
+clock functions work.
+
+Plenty of apps are preloaded - there's Adobe
+ Reader, AVG Antivirus Pro, Barcode Scanner, Evernote, Facebook, 
+LinkedIn, MobiSystems Office Suite 7, Twitter and WhatsApp. There are 
+also a few simple tools: a currency converter, a notes app, a to-do 
+list, an LED torch, setup wizard, assistants for Wi-Fi direct and 
+tethering, and system update checker. Alcatel's One Touch Center and One
+ Touch Backup apps for wirelessly syncing with a PC and backing up 
+important data are included, along with a whole raft of apps from Idea. 
+
+Idea
+ TV is a subscription streaming video service, and one of the benefits 
+of being an Idea subscriber. The app won't even launch if you aren't  
+using an Idea SIM card, so we couldn't test it. IdeaFresh and IdeaMall 
+are just shortcuts to websites for the company's own download sites for 
+wallpapers, games, apps etc. There's even a whole bunch of non-essential
+ Google apps in addition to the usual ones - Chrome, My Tracks, 
+Navigation and Local, to name a few.
+
+CameraThe camera is 
+listed everywhere as an 8-megapixel unit, but Idea's spec sheet notes 
+that this is "after extrapolation". We expected images to come out at 
+that size, but they are captured at a resolution of 2560x1440, which 
+works out to a little under four megapixels. 
+
+The camera app is 
+quite neat, especially the settings dialog which floats over the 
+viewfinder area and offers quick access to settings. You can only choose
+ between "small" and "large" to determine picture size, and we had it 
+set to "large".
+
+(Click to see full size)
+
+You get an HDR mode and a panorama mode as well as
+ scene settings for the night and for sports. There are sliders for ISO 
+and exposure level, plus a handy self timer with an adjustable 
+countdown.
+
+We were quite pleased with the quality of photos we 
+were able to capture in the daytime. There was quite a lot of detail and
+ not much post-processing noise. The photos were actually very usable. 
+Things took a turn for the worse at night, though - subjects in images 
+were barely discernable and the difference was quite literally night and
+ day.
+
+PerformanceWe weren't really happy with the screen on
+ the Ultra+. In addition to being terribly low-resolution by today's 
+standards for 5-inch devices, colours are washed out and viewing angles 
+are just awful. Colours appear different when you look at the screen 
+from different angles. Brightness is somewhat limited, and sunlight 
+readability is not good at all.
+
+The built-in speaker is 
+surprisingly loud, but very shrill and tinny. Music is not reproduced 
+well but at least you can hear what people say in movies and games. 
+
+We
+ found the Idea Ultra+ to be fairly snappy in everyday tasks. We didn't 
+have very high expectations and we weren't disappointed. Apps don't open
+ very quickly and there are slight delays when transitioning between 
+screens, such as when unlocking the phone. Some apps took a while to 
+load, and while we didn't have trouble with casual games, we wouldn't 
+hold out much hope that heavy 3D games will run at all.
+
+Benchmark 
+scores were unexciting, which is consistent with what we've seen from 
+other devices based on the same processor, such as the Lenovo S860. We 
+got only 8.8fps in GFXbench and 3120 points in 3DMark's Ice Storm 
+runthrough. Quadrant gave us a score of 18,155 overall, while the brand 
+new AnTuTu 5 benchmark delivered 18,670 points.
+
+The phone managed 
+to play 720p clips and even our lightest 1080p clip, but your mileage 
+will vary depending on file format and compression quality. The upper 
+half of the rear got uncomfortably warm while playing HD videos.
+
+One
+ thing that stood out was the device's battery life. It lasted a 
+respectable 6 hours, 9 minutes in our video loop test, and even with 
+ordinary usage we were pleased to see how slowly the percentage readout 
+dropped. You should be able to get a full day's use out of this phone 
+without any problem.
+
+VerdictThe Idea Ultra+ is a very 
+plain, inoffensive phone. There's really nothing wrong with it, but it 
+doesn't stand out for any good reason either. Other options in the 
+market at this price level include the Asus Zenfone 4 (Review | Pictures), Motorola Moto E 
+(Review | Pictures) and Sony Xperia E1 (Review | Pictures) which all have something unique to offer, though they
+ do also have smaller screens. The soon-to-be-launched Xiaomi Redmi 1S 
+(Pictures) will be cheaper but looks to have specifications and features that will 
+outdo the Ultra+ by quite a wide margin.
+
+You can pick up the 
+Ultra+ at a reasonable price, if you feel like it suits you. If you're 
+already an Idea subscriber (or are planning to be one soon), you might 
+want to check out the tariff plans and offers available and factor all 
+those things into your purchasing decision.
+

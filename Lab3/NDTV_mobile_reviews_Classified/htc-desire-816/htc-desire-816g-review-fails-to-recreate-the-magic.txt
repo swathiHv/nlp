@@ -1,0 +1,199 @@
+HTC Desire 816G Review: Fails to Recreate the Magic
+
+In what could be considered a comeback of sorts, thanks to good sales of the Desire 816 and the One (M8), HTC is following Samsung's footsteps by
+ announcing new phones left, right and centre. Recently, the company 
+announced the HTC Desire 816G, which is supposedly a 3G-only variant of 
+the Desire 816 with watered-down specifications. We loved the Desire 
+816 for its great 13-megapixel camera and its media playback 
+capabilities. Let's hope that the Taiwanese smartphone company can recreate the same magic with the new Desire 816G.Look and feelThe
+ HTC Desire 816G is identical to the Desire 816 (Review | Pictures) except that the former 
+is 7g lighter at 158g and a negligible 0.1mm thicker than its elder 
+brother. The design issues we had with the Desire 816 persists with the 
+Desire 816G, for example, the dual-tone finish (matte and gloss) is still
+ an eyesore. The glossy rear is a fingerprint magnet and it scratches 
+very easily. While these scratches were clearly visible on our navy blue
+ variant, the white variant should be able to mask them better.A large 
+5.5-inch screen takes up most of the front of the device and there are 
+thick bezels around it. The BoomSound speakers are present above and below the screen. On the top is the 
+front-facing camera. HTC uses on-screen buttons 
+for navigating through the operating system. The Micro-USB port is on the bottom while the 3.5mm audio jack can  be found on top. HTC continues to 
+place the volume rocker and power button on the top of the left edge
+ of the Desire 816G. We feel that ergonomically, by virtue of its 
+placement, left-handed users will find it easier to handle. A flap on the right 
+opens up to reveal the two Nano-SIM card slots and a slot for the 
+microSD card. The primary camera sits on the top right corner of the 
+rear and below it is the flash module.Specifications and softwareHTC
+ has decided to go with a MediaTek 6582 quad-core chipset clocked at 
+1.3GHz per core with integrated Mali-400MP graphics. The phone also has 1GB of 
+RAM and 8GB of storage space. Apart from this, microSD 
+cards of up to 32GB can be used. As we mentioned before, the Desire 816G is a 
+3G-only device, but only the primary SIM card can connect to a 3G 
+network. With respect to the other connectivity options, there is 
+Bluetooth v4.0 and Wi-Fi a/b/g/n as well. There is a 13-megapixel 
+primary camera and a 5-megapixel front-facing camera. Both these shooters can 
+capture 1080p videos. Providing the juice for the phone is a 2600mAh 
+battery.The 5.5-inch screen has a resolution of 720x1280 which 
+translates to a pixel density of approximately 267ppi. The panel is of the relatively old S-LCD2 type, and while it does display crisp visuals, viewing 
+angles are not too great. We noticed that the screen desaturated quite a
+ bit even if we tilted the screen a little. Sunlight legibility on 
+the other hand pretty good.The phone runs Android 4.4.2 with HTC's
+ much older Sense UI 5.0 slapped on top of it. We've explored this at length in our review of the HTC One (M7). The 
+implementation is not too different in the HTC Desire 816G except for 
+the use of a different camera app. All said and done, we would have ideally expected HTC to ship one of its new products with the latest skin. CameraWe had 
+loved the camera app on the HTC Desire 816 and the options it presented.
+ Unfortunately, HTC has decided to go with a crude camera app from 
+Gingerbread days, which is super clunky to use. Smartphone manufacturers
+ should absolutely stay away from using this app for their phones,
+ and users will benefit from downloading a third-party alternative. Adding
+ to the woe is that the lens is slow to focus and shoot images, and it 
+gets even worse in low-light situations. We always ended up with 
+blurred images. It would have been fine if the shutter had actually opened 
+long enough to let in more light and capture crisp images, but no; shots 
+we captured in low-light situations were not at all impressive. Thankfully, we'd
+ kept our expectations in check. In fact, the 13-megapixel camera is not
+ a patch on the one in the Desire 816. Daylight shots had some noise
+ and lost out on certain details. Also, while colours looked 
+natural, we found chromatic aberration in some spots. 1080p videos that we captured looked fine. The 5-megapixel front camera 
+doesn't have a wide field of view but can capture some decent 
+self-portraits provided the light is adequate. (Click for full size)PerformanceThe
+ Mediatek SoC used in the HTC Desire 816G can also be found in much cheaper 
+phones such as the Huawei Honor Holly (Review | Pictures). This processor is meant for lower end phones but we were pleasantly surprised to see how HTC 
+has managed to optimise its performance. We didn't notice any lags 
+and the performance of other phones with the same hardware pales in comparison. 
+Taps and swipes registered with gusto, apps opened fairly quickly, and 
+scrolling through web pages was a breeze. Casual games run fine 
+on the phone but don't expect it to play high-end games smoothly. This was corroborated by the GFXbench and 3D Mark Ice Storm scores of 7.3fps 
+and 3,143 respectively. The more CPU-bound AnTuTu and Quadrant returned scores of 
+17,501 and 6,926 respectively, which are not too great. The Desire 
+816G managed to play all the videos we tried; this included a 1080p 
+video encoded at 40mbps. HTC claims that the Desire 816G has BoomSound but it is not as good as the implementation we saw on the HTC One Max (Review) or
+ the HTC One (M8). Stereo separation is good but the overall sound 
+is tinny. Moreover, it doesn't get very loud. Our review unit didn't have 
+the headset HTC usually bundles with its retail packages, but we tested the 
+sound with our reference headphones and it was pretty good. As is 
+with most HTC phones, the sound quality in calls was really good and we 
+cant really find a fault with it. In our intensive battery test, the 
+phone lasted 6 hours, 15 minutes, which is fairly okay. However, 
+we did notice that the Desire 816G's battery doesn't lose too much 
+power when the device is in standby.VerdictHTC had priced the phone at Rs. 18,990 at its launch (which wasn't too long ago), but it is 
+already available at a discounted price of around Rs. 17,000. We think even this asking price is a little on the high side. This device takes the really good formula of the HTC Desire 816 - big screen, decent specifications and a 
+great camera - and reduces it to something we really cannot be as enthusiastic about. Why would anyone want to buy the Desire 816G? We really don't 
+have an answer.The newly launched Lenovo Vibe X2 and the Huawei 
+Honor 6 (Review | Pictures) are much better phones in the same price range, and we'd suggest looking at those 
+instead.
+HTC Desire 816G in pictures
+
+In what could be considered a comeback of sorts, thanks to good sales of the Desire 816 and the One (M8), HTC is following Samsung's footsteps by
+ announcing new phones left, right and centre. Recently, the company 
+announced the HTC Desire 816G, which is supposedly a 3G-only variant of 
+the Desire 816 with watered-down specifications. We loved the Desire 
+816 for its great 13-megapixel camera and its media playback 
+capabilities. Let's hope that the Taiwanese smartphone company can recreate the same magic with the new Desire 816G.
+
+Look and feelThe
+ HTC Desire 816G is identical to the Desire 816 (Review | Pictures) except that the former 
+is 7g lighter at 158g and a negligible 0.1mm thicker than its elder 
+brother. The design issues we had with the Desire 816 persists with the 
+Desire 816G, for example, the dual-tone finish (matte and gloss) is still
+ an eyesore. The glossy rear is a fingerprint magnet and it scratches 
+very easily. While these scratches were clearly visible on our navy blue
+ variant, the white variant should be able to mask them better.
+
+A large 
+5.5-inch screen takes up most of the front of the device and there are 
+thick bezels around it. The BoomSound speakers are present above and below the screen. On the top is the 
+front-facing camera. HTC uses on-screen buttons 
+for navigating through the operating system. The Micro-USB port is on the bottom while the 3.5mm audio jack can  be found on top. HTC continues to 
+place the volume rocker and power button on the top of the left edge
+ of the Desire 816G. We feel that ergonomically, by virtue of its 
+placement, left-handed users will find it easier to handle. A flap on the right 
+opens up to reveal the two Nano-SIM card slots and a slot for the 
+microSD card. The primary camera sits on the top right corner of the 
+rear and below it is the flash module.
+
+Specifications and softwareHTC
+ has decided to go with a MediaTek 6582 quad-core chipset clocked at 
+1.3GHz per core with integrated Mali-400MP graphics. The phone also has 1GB of 
+RAM and 8GB of storage space. Apart from this, microSD 
+cards of up to 32GB can be used. 
+
+As we mentioned before, the Desire 816G is a 
+3G-only device, but only the primary SIM card can connect to a 3G 
+network. With respect to the other connectivity options, there is 
+Bluetooth v4.0 and Wi-Fi a/b/g/n as well. There is a 13-megapixel 
+primary camera and a 5-megapixel front-facing camera. Both these shooters can 
+capture 1080p videos. Providing the juice for the phone is a 2600mAh 
+battery.
+
+The 5.5-inch screen has a resolution of 720x1280 which 
+translates to a pixel density of approximately 267ppi. The panel is of the relatively old S-LCD2 type, and while it does display crisp visuals, viewing 
+angles are not too great. We noticed that the screen desaturated quite a
+ bit even if we tilted the screen a little. Sunlight legibility on 
+the other hand pretty good.
+
+The phone runs Android 4.4.2 with HTC's
+ much older Sense UI 5.0 slapped on top of it. We've explored this at length in our review of the HTC One (M7). The 
+implementation is not too different in the HTC Desire 816G except for 
+the use of a different camera app. All said and done, we would have ideally expected HTC to ship one of its new products with the latest skin. 
+
+CameraWe had 
+loved the camera app on the HTC Desire 816 and the options it presented.
+ Unfortunately, HTC has decided to go with a crude camera app from 
+Gingerbread days, which is super clunky to use. Smartphone manufacturers
+ should absolutely stay away from using this app for their phones,
+ and users will benefit from downloading a third-party alternative. 
+
+Adding
+ to the woe is that the lens is slow to focus and shoot images, and it 
+gets even worse in low-light situations. We always ended up with 
+blurred images. It would have been fine if the shutter had actually opened 
+long enough to let in more light and capture crisp images, but no; shots 
+we captured in low-light situations were not at all impressive. 
+
+Thankfully, we'd
+ kept our expectations in check. In fact, the 13-megapixel camera is not
+ a patch on the one in the Desire 816. Daylight shots had some noise
+ and lost out on certain details. Also, while colours looked 
+natural, we found chromatic aberration in some spots. 1080p videos that we captured looked fine. The 5-megapixel front camera 
+doesn't have a wide field of view but can capture some decent 
+self-portraits provided the light is adequate. 
+
+(Click for full size)
+
+PerformanceThe
+ Mediatek SoC used in the HTC Desire 816G can also be found in much cheaper 
+phones such as the Huawei Honor Holly (Review | Pictures). This processor is meant for lower end phones but we were pleasantly surprised to see how HTC 
+has managed to optimise its performance. We didn't notice any lags 
+and the performance of other phones with the same hardware pales in comparison. 
+Taps and swipes registered with gusto, apps opened fairly quickly, and 
+scrolling through web pages was a breeze. 
+
+Casual games run fine 
+on the phone but don't expect it to play high-end games smoothly. This was corroborated by the GFXbench and 3D Mark Ice Storm scores of 7.3fps 
+and 3,143 respectively. The more CPU-bound AnTuTu and Quadrant returned scores of 
+17,501 and 6,926 respectively, which are not too great. 
+
+The Desire 
+816G managed to play all the videos we tried; this included a 1080p 
+video encoded at 40mbps. HTC claims that the Desire 816G has BoomSound but it is not as good as the implementation we saw on the HTC One Max (Review) or
+ the HTC One (M8). Stereo separation is good but the overall sound 
+is tinny. Moreover, it doesn't get very loud. 
+
+Our review unit didn't have 
+the headset HTC usually bundles with its retail packages, but we tested the 
+sound with our reference headphones and it was pretty good. As is 
+with most HTC phones, the sound quality in calls was really good and we 
+cant really find a fault with it. In our intensive battery test, the 
+phone lasted 6 hours, 15 minutes, which is fairly okay. However, 
+we did notice that the Desire 816G's battery doesn't lose too much 
+power when the device is in standby.
+
+VerdictHTC had priced the phone at Rs. 18,990 at its launch (which wasn't too long ago), but it is 
+already available at a discounted price of around Rs. 17,000. We think even this asking price is a little on the high side. This device takes the really good formula of the HTC Desire 816 - big screen, decent specifications and a 
+great camera - and reduces it to something we really cannot be as enthusiastic about. Why would anyone want to buy the Desire 816G? We really don't 
+have an answer.
+
+The newly launched Lenovo Vibe X2 and the Huawei 
+Honor 6 (Review | Pictures) are much better phones in the same price range, and we'd suggest looking at those 
+instead.
+

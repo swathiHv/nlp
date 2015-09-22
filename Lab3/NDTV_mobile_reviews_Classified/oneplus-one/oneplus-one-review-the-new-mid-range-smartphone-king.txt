@@ -1,0 +1,352 @@
+OnePlus One Review: The New Mid-Range Smartphone King
+
+The OnePlus One has been a global sensation thanks to its unbelievably low price and top-end feature set, earning it the nickname "flagship killer". OnePlus is the latest Chinese manufacturer to adopt a global brand identity and slick packaging in order to hit the big companies where it hurts - the price tag. In India, OnePlus will go up against the likes of Xiaomi and Huawei, which have made big splashes already.The OnePlus One will only be available in very limited quantities and that too, via a single online retailer. Whether this is a marketing ploy or a genuine way to keep costs down, there is bound to be a lot of excitement and a lot of disappointment. There's also a new twist to the story: the device runs CyanogenMod, which is one its headlining features, but Indian users won't be able to receive automatic updates. There's a lot to learn about the OnePlus One and we're eager to get started.Look and feelThe OnePlus One is handsome when seen head-on, 
+with a sheer black front framed within a slightly curved metal bed. The 
+three capacitive navigation buttons below the screen are barely visible 
+when not lit up, and the earpiece on top is similarly subtle. The 
+multi-coloured LED notification is invisible till it lights up. There's 
+no branding, but we did notice that the Gorilla glass protecting the 
+screen picked up a lot of grime.The rear and sides of this phone 
+are a different story - on the Sandstone Black model, which we received 
+for review, all surfaces other than the front are coated in what feels 
+like a very rough felt material. It's really unusual and frankly, not 
+very pleasant. It feels rough in the hand, which is great for grip, but 
+not for comfort. It causes a lot of friction in pockets and on cloth 
+surfaces, and also picks up a lot of lint from pockets and bags. We 
+can't be sure, but it also feels as though it will begin peeling off 
+before too long. You'll really want to try this for yourself before you 
+actually buy this phone. The rear isn't swappable, but you should be 
+able to pick up a plastic or silicone cover if you later find you don't 
+like it.There's quite a bit of printing on the rear - large 
+regulatory icons and a giant Cyanogen logo are stencilled on near the 
+bottom, while a more subtle Oneplus logo is carved in relief against the
+ textured rear surface. The camera and dual-LED flash are centred 
+towards the top of the rear.The Micro-USB port on the bottom is 
+flanked by two speaker grilles, while the headset jack sits all alone on
+ the top. The power button on the right and volume rocker on the left 
+are thin and shallow, which means they aren't very easy to locate by 
+touch alone thanks to the metal rim. Perhaps our favourite design
+ touch on this phone is that the SIM card slot is designed to 
+accommodate either a Micro-SIM or a Nano-SIM. You get two trays, each 
+with a different sized cutout, and can use whichever one you need. We 
+really wish more manufacturers would come up with ideas like this.The
+ OnePlus One's box is also quite interesting. It's flat and bright red, 
+with only enough space inside for the phone itself, a flattened USB 
+cable with a thin connector, and a SIM eject tool in its own rubber 
+sheath. The charger is packed in a separate box which allows for 
+efficient production for multiple global markets.Specifications and softwareMost
+ of the OnePlus One's appeal lies in its hardware, and it isn't hard to 
+see why. You'll have a very hard time finding anything else that 
+delivers the same amount of power at this price level. It all begins 
+with a top-tier Qualcomm Snapdragon 801 SoC, which has four CPU cores 
+running at 2.5GHz and an Adreno 330 GPU. That's matched with 3GB of RAM 
+and 64GB of storage space (a 16GB model is available in other markets but not in India at launch time). The 5.5-inch 1080x1920-pixel 
+display has its touch sensitive layer fused to display panel, which 
+OnePlus claims makes the screen far stronger than the common OGS 
+(one-glass solution) method of production. There's Wi-Fi b/g/n/ac
+ and Bluetooth 4.0 along with NFC and GPS. There are also three 
+microphones for noise reduction. Sadly, there's no microSD slot. The 
+3,100mAh battery is also sealed in.While certainly impressive, 
+hardware is only one part of the OnePlus One's appeal. Another is - or 
+should have been - its software. Since it first debuted, the OnePlus One
+ has proudly used CyanogenMod, one of the world's most popular 
+alternative Android distributions. Based on the Android Open Source 
+Project (AOSP), CyanogenMod promises a whole host of features that go 
+beyond what even stock Android delivers, such as themes and configurable
+ UI elements, improved privacy controls, more flexible access to 
+settings, root access and performance tweaks. Essentially, it gives 
+users much more control over their devices than most custom 
+Android-based interfaces and OS forks. The version on the OnePlus One is
+ CM 11S, which is based on Android 4.4.2.So that's all well and 
+good, but in a surprise move mere days before the official OnePlus One 
+launch, all that changed. The company will apparently not be allowed to sell its 
+phones with CyanogenMod in India, thanks to the software maker's 
+exclusive tie-up with Micromax for the forthcoming Yu line of phones. In
+ a statement on its website, OnePlus stated it was just as surprised by 
+the news as everyone else, and as a result it will have to speed up 
+development on its own Android fork, which is now planned for 2015 and 
+will be built around the Android 5.0 codebase. This new software should 
+be ready for wide release by February, but It isn't entirely clear how 
+this will affect the Ones sold between now and then. The first batch of
+ devices being shipped out to buyers has not been delayed, and it seems as though these will not be re-flashed with a new OS, but will not receive automatic updates until the in-house build is ready. This is
+ a huge disappointment, but nevertheless, intrepid OnePlus One buyers 
+should be able to install CM themselves by following the instructions on
+ the official website.On the other hand, while CyanogenMod opens a lot of 
+doors in terms of customisability and power, not everyone wants to face 
+dozens of potentially confusing options at every turn. Few people 
+actually 
+discover and use all the features their devices offer, and for those who
+aren't really comfortable with smartphones, CM's features might be more 
+confusing than 
+helpful. With that in mind, the custom UI skins that other manufacturers
+ ship might be more appealing.Usage and performanceWe liked what 
+we saw of CyanogenMod 11S running on our review unit. While not the most
+ polished in terms of graphics, it definitely does give users a lot of 
+control over the device's operating environment. We weren't huge fans of
+ the blocky custom icons which weren't easy to tell apart, or some of 
+the other custom visual elements. However those are just minor 
+niggles compared to the amount of joy we felt when we discovered each 
+new thing that could be changed, enhanced and customised. It starts 
+right at the splash screen animation, which you can customise. The list 
+of things you can change is never-ending: the widgets and shortcuts on 
+the lockscreen, the screen colour temperature, the appearance of status 
+bar icons, the shortcuts in the notifications shade and the behaviour of
+ each button, just to name a few.Themes include lots of elements 
+including graphics, sounds and fonts. You can change any or all of these
+ via the Settings app or by long-tapping any homescreen. There's also an
+ app called Themes Showcase which lets you buy additional themes which 
+cost around Rs. 120 each on average. Then there are the gestures 
+and shortcuts you can set up, the advanced privacy and malware 
+containment settings. One interesting feature is the ability to restrict
+ apps from sending too many SMS messages and running up your bill. You 
+can also blacklist callers, and restrict individual apps from accessing 
+your personal information.An app called AudioFX lets you set 
+global equaliser settings and includes a number of presets which you can
+ edit. The app also has controls for bass boost, virtual surround sound 
+and reverb effects.It would be a shame to see the One lose these 
+features, and we hope that whatever solution the company comes up with 
+will not take anything away from users.In terms of its general 
+performance, we enjoyed our time with the OnePlus One. It was snappy and
+ responsive throughout, and gave us no cause for concern. HD videos 
+played flawlessly and games ran well. The screen was crisp and vibrant 
+in all situations except under direct sunlight. Sound coming from the 
+two speakers was pretty loud, but very thin and stretched. Benchmark
+ scores were as impressive as we had expected, considering this phone's 
+high-end specifications. The OnePlus one definitely lives up to its 
+"flagship killer" reputation and can give some of today's most expensive
+ smartphones serious inferiority complexes. We recorded 45,372 in AnTuTu
+ and 23,057 overall in Quadrant, which are right up there with the 
+scores of the Samsung Galaxy Note 4 (Review | Photos), and as good as (if not better than)
+ those of the HTC One (M8) (Review | Photos),  Sony Xperia Z3 (Review | Photos) and Samsung Galaxy S5 (Review | Photos).  
+Interestingly, these scores were also matched by options closer to the OnePlus One's price: the
+ new Lenovo Vibe X2 (Review | Photos) and the Motorola Moto G (2nd gen) (Review | Photos). (Click to see full size)Things are
+ also more or less even in the graphics tests, with the OnePlus One's 
+GFXbench score of 28.8fps equalling all but the Mediatek-powered Vibe 
+X2.3DMark Ice Storm Extreme maxed out, with the more demanding Unlimited
+ test producing a score of 19,410 points.The camera interface 
+isn't much to get excited about. As expected, there are quite a few 
+options but they are not laid out very well. You can record 4K video 
+(either the more common 3840x2160 or the wider 4096x2160) and even 
+choose your preferred audio and video codecs. As long as we took the 
+time to focus, image quality was very good in daylight. Subtle details, 
+metallic surfaces and even dense foliage came out well. Low-light 
+performance was less impressive, with lots of noise even with ambient 
+light such as streetlamps. The main problems with the OnePlus One's 
+camera are that the autofocus takes a long time to lock and there is 
+pretty significant shutter lag, which mean you don't always get the shot
+ you wanted.We managed to squeeze 5 hours, 56 minutes of battery 
+life out of the OnePlus One - this is an area in which other flagship 
+devices perform a lot better. (Click to see full size)VerdictCalling this phone a 
+"flagship killer" is an overstatement, but only a very, very tiny bit. It certainly 
+has the goods in terms of specifications and raw power, and if that's 
+your main concern then you can save a lot of money by forgetting about 
+Samsung, HTC and Sony altogether. At Rs. 21,999 for the 64GB model, the vast majority of buyers will be perfectly happy to overlook all negatives.However, those other brands still have a lot
+ to offer in terms of overall polish, camera quality and perhaps most 
+important of all, availability. If they react by dropping prices, the customer still stands to gain. OnePlusOne in pictures
+
+The OnePlus One has been a global sensation thanks to its unbelievably low price and top-end feature set, earning it the nickname "flagship killer". OnePlus is the latest Chinese manufacturer to adopt a global brand identity and slick packaging in order to hit the big companies where it hurts - the price tag. In India, OnePlus will go up against the likes of Xiaomi and Huawei, which have made big splashes already.
+
+The OnePlus One will only be available in very limited quantities and that too, via a single online retailer. Whether this is a marketing ploy or a genuine way to keep costs down, there is bound to be a lot of excitement and a lot of disappointment. There's also a new twist to the story: the device runs CyanogenMod, which is one its headlining features, but Indian users won't be able to receive automatic updates. 
+
+There's a lot to learn about the OnePlus One and we're eager to get started.
+
+Look and feelThe OnePlus One is handsome when seen head-on, 
+with a sheer black front framed within a slightly curved metal bed. The 
+three capacitive navigation buttons below the screen are barely visible 
+when not lit up, and the earpiece on top is similarly subtle. The 
+multi-coloured LED notification is invisible till it lights up. There's 
+no branding, but we did notice that the Gorilla glass protecting the 
+screen picked up a lot of grime.
+
+The rear and sides of this phone 
+are a different story - on the Sandstone Black model, which we received 
+for review, all surfaces other than the front are coated in what feels 
+like a very rough felt material. It's really unusual and frankly, not 
+very pleasant. It feels rough in the hand, which is great for grip, but 
+not for comfort. It causes a lot of friction in pockets and on cloth 
+surfaces, and also picks up a lot of lint from pockets and bags. We 
+can't be sure, but it also feels as though it will begin peeling off 
+before too long. You'll really want to try this for yourself before you 
+actually buy this phone. The rear isn't swappable, but you should be 
+able to pick up a plastic or silicone cover if you later find you don't 
+like it.
+
+There's quite a bit of printing on the rear - large 
+regulatory icons and a giant Cyanogen logo are stencilled on near the 
+bottom, while a more subtle Oneplus logo is carved in relief against the
+ textured rear surface. The camera and dual-LED flash are centred 
+towards the top of the rear.
+
+The Micro-USB port on the bottom is 
+flanked by two speaker grilles, while the headset jack sits all alone on
+ the top. The power button on the right and volume rocker on the left 
+are thin and shallow, which means they aren't very easy to locate by 
+touch alone thanks to the metal rim. 
+
+Perhaps our favourite design
+ touch on this phone is that the SIM card slot is designed to 
+accommodate either a Micro-SIM or a Nano-SIM. You get two trays, each 
+with a different sized cutout, and can use whichever one you need. We 
+really wish more manufacturers would come up with ideas like this.
+
+The
+ OnePlus One's box is also quite interesting. It's flat and bright red, 
+with only enough space inside for the phone itself, a flattened USB 
+cable with a thin connector, and a SIM eject tool in its own rubber 
+sheath. The charger is packed in a separate box which allows for 
+efficient production for multiple global markets.
+
+Specifications and softwareMost
+ of the OnePlus One's appeal lies in its hardware, and it isn't hard to 
+see why. You'll have a very hard time finding anything else that 
+delivers the same amount of power at this price level. It all begins 
+with a top-tier Qualcomm Snapdragon 801 SoC, which has four CPU cores 
+running at 2.5GHz and an Adreno 330 GPU. That's matched with 3GB of RAM 
+and 64GB of storage space (a 16GB model is available in other markets but not in India at launch time). 
+
+The 5.5-inch 1080x1920-pixel 
+display has its touch sensitive layer fused to display panel, which 
+OnePlus claims makes the screen far stronger than the common OGS 
+(one-glass solution) method of production. 
+
+There's Wi-Fi b/g/n/ac
+ and Bluetooth 4.0 along with NFC and GPS. There are also three 
+microphones for noise reduction. Sadly, there's no microSD slot. The 
+3,100mAh battery is also sealed in.
+
+While certainly impressive, 
+hardware is only one part of the OnePlus One's appeal. Another is - or 
+should have been - its software. Since it first debuted, the OnePlus One
+ has proudly used CyanogenMod, one of the world's most popular 
+alternative Android distributions. Based on the Android Open Source 
+Project (AOSP), CyanogenMod promises a whole host of features that go 
+beyond what even stock Android delivers, such as themes and configurable
+ UI elements, improved privacy controls, more flexible access to 
+settings, root access and performance tweaks. Essentially, it gives 
+users much more control over their devices than most custom 
+Android-based interfaces and OS forks. The version on the OnePlus One is
+ CM 11S, which is based on Android 4.4.2.
+
+So that's all well and 
+good, but in a surprise move mere days before the official OnePlus One 
+launch, all that changed. The company will apparently not be allowed to sell its 
+phones with CyanogenMod in India, thanks to the software maker's 
+exclusive tie-up with Micromax for the forthcoming Yu line of phones. 
+
+In
+ a statement on its website, OnePlus stated it was just as surprised by 
+the news as everyone else, and as a result it will have to speed up 
+development on its own Android fork, which is now planned for 2015 and 
+will be built around the Android 5.0 codebase. This new software should 
+be ready for wide release by February, but It isn't entirely clear how 
+this will affect the Ones sold between now and then. The first batch of
+ devices being shipped out to buyers has not been delayed, and it seems as though these will not be re-flashed with a new OS, but will not receive automatic updates until the in-house build is ready. 
+
+This is
+ a huge disappointment, but nevertheless, intrepid OnePlus One buyers 
+should be able to install CM themselves by following the instructions on
+ the official website.
+
+On the other hand, while CyanogenMod opens a lot of 
+doors in terms of customisability and power, not everyone wants to face 
+dozens of potentially confusing options at every turn. Few people 
+actually 
+discover and use all the features their devices offer, and for those who
+aren't really comfortable with smartphones, CM's features might be more 
+confusing than 
+helpful. With that in mind, the custom UI skins that other manufacturers
+ ship might be more appealing.
+
+Usage and performanceWe liked what 
+we saw of CyanogenMod 11S running on our review unit. While not the most
+ polished in terms of graphics, it definitely does give users a lot of 
+control over the device's operating environment. We weren't huge fans of
+ the blocky custom icons which weren't easy to tell apart, or some of 
+the other custom visual elements. 
+
+However those are just minor 
+niggles compared to the amount of joy we felt when we discovered each 
+new thing that could be changed, enhanced and customised. It starts 
+right at the splash screen animation, which you can customise. The list 
+of things you can change is never-ending: the widgets and shortcuts on 
+the lockscreen, the screen colour temperature, the appearance of status 
+bar icons, the shortcuts in the notifications shade and the behaviour of
+ each button, just to name a few.
+
+Themes include lots of elements 
+including graphics, sounds and fonts. You can change any or all of these
+ via the Settings app or by long-tapping any homescreen. There's also an
+ app called Themes Showcase which lets you buy additional themes which 
+cost around Rs. 120 each on average. 
+
+Then there are the gestures 
+and shortcuts you can set up, the advanced privacy and malware 
+containment settings. One interesting feature is the ability to restrict
+ apps from sending too many SMS messages and running up your bill. You 
+can also blacklist callers, and restrict individual apps from accessing 
+your personal information.
+
+An app called AudioFX lets you set 
+global equaliser settings and includes a number of presets which you can
+ edit. The app also has controls for bass boost, virtual surround sound 
+and reverb effects.
+
+It would be a shame to see the One lose these 
+features, and we hope that whatever solution the company comes up with 
+will not take anything away from users.
+
+In terms of its general 
+performance, we enjoyed our time with the OnePlus One. It was snappy and
+ responsive throughout, and gave us no cause for concern. HD videos 
+played flawlessly and games ran well. The screen was crisp and vibrant 
+in all situations except under direct sunlight. Sound coming from the 
+two speakers was pretty loud, but very thin and stretched. 
+
+Benchmark
+ scores were as impressive as we had expected, considering this phone's 
+high-end specifications. The OnePlus one definitely lives up to its 
+"flagship killer" reputation and can give some of today's most expensive
+ smartphones serious inferiority complexes. We recorded 45,372 in AnTuTu
+ and 23,057 overall in Quadrant, which are right up there with the 
+scores of the Samsung Galaxy Note 4 (Review | Photos), and as good as (if not better than)
+ those of the HTC One (M8) (Review | Photos),  Sony Xperia Z3 (Review | Photos) and Samsung Galaxy S5 (Review | Photos).  
+Interestingly, these scores were also matched by options closer to the OnePlus One's price: the
+ new Lenovo Vibe X2 (Review | Photos) and the Motorola Moto G (2nd gen) (Review | Photos). 
+
+(Click to see full size)
+
+Things are
+ also more or less even in the graphics tests, with the OnePlus One's 
+GFXbench score of 28.8fps equalling all but the Mediatek-powered Vibe 
+X2.3DMark Ice Storm Extreme maxed out, with the more demanding Unlimited
+ test producing a score of 19,410 points.
+
+The camera interface 
+isn't much to get excited about. As expected, there are quite a few 
+options but they are not laid out very well. You can record 4K video 
+(either the more common 3840x2160 or the wider 4096x2160) and even 
+choose your preferred audio and video codecs. As long as we took the 
+time to focus, image quality was very good in daylight. Subtle details, 
+metallic surfaces and even dense foliage came out well. Low-light 
+performance was less impressive, with lots of noise even with ambient 
+light such as streetlamps. The main problems with the OnePlus One's 
+camera are that the autofocus takes a long time to lock and there is 
+pretty significant shutter lag, which mean you don't always get the shot
+ you wanted.
+
+We managed to squeeze 5 hours, 56 minutes of battery 
+life out of the OnePlus One - this is an area in which other flagship 
+devices perform a lot better. 
+
+(Click to see full size)
+
+VerdictCalling this phone a 
+"flagship killer" is an overstatement, but only a very, very tiny bit. It certainly 
+has the goods in terms of specifications and raw power, and if that's 
+your main concern then you can save a lot of money by forgetting about 
+Samsung, HTC and Sony altogether. At Rs. 21,999 for the 64GB model, the vast majority of buyers will be perfectly happy to overlook all negatives.
+
+However, those other brands still have a lot
+ to offer in terms of overall polish, camera quality and perhaps most 
+important of all, availability. If they react by dropping prices, the customer still stands to gain.
+

@@ -1,0 +1,297 @@
+Motorola Moto Turbo Review: Smartphone Powerhouse Redefined
+
+If
+ there is one smartphone company that has made a great comeback after facing
+ near-total defeat, it has to be Motorola. The brand has come a long way
+ since it reinvented itself with the Moto X (Review | Pictures) in the second half of 2013.In India, Motorola now has models that cater to every 
+budget. Are you looking for a budget smartphone? You have 
+the stellar Moto E (Gen 2) [Review | Pictures]. Do you want a phone that costs no more than Rs. 15,000 yet
+offers stellar performance? Look no further than the Moto G (Gen 
+2) [Review | Pictures]. Do you want a premium smartphone that costs less than most flagships in the
+ market today? The Moto X (Gen 2) [Review | Pictures] fits the bill perfectly. With 
+the launch of the Motorola Moto Turbo, the company has gone one step 
+further than the Moto X (Gen 2) and created a smartphone that boasts of a
+ stellar set of specifications. It also uses an interesting new material
+ in its build. We are more than intrigued by what Motorola has on offer.
+ Let's get down to brass tacks. Look and feelIt feels
+ as though companies have given up on trying to improve the candybar design of 
+smartphones, so we really appreciate those that introduce some sort of 
+distinction - like Motorola, and its parent company Lenovo. The company 
+introduced its Moto Maker customisation tool with the Moto X, and later
+ took it to another level when it announced the Moto X (Gen 2). 
+Unfortunately, the tool never made it to India. 
+Even so, the rate at which Motorola has been coming up with innovative materials, designs and textures on its smartphones is worthy of applause. From the distinctive chin on the original Moto X to the
+ bamboo back of the Moto X (Gen 2), Motorola has managed to 
+distinguish itself. With
+ the Moto Turbo, Motorola introduces a new material - ballistic nylon - 
+which is essentially a thicker, tougher variant of synthetic nylon. 
+Quick trivia: ballistic nylon was used in the flak jackets worn by 
+World War II soldiers. The criss-cross black thread runs across 
+the rear of the phone, which looks elegant to say the least. The 
+trademark dimple with the Motorola logo has been replaced by a metal 
+plate on the Moto Turbo. The primary camera is above this 
+metal plate, flanked by two LED flash modules. The
+ front of the device is quite ordinary, at least when compared to the
+ design of the rear. A metal frame runs around the edges of the screen 
+and the phone has a small chin on the lower front. Below 
+the screen, Motorola has used capacitive buttons, which is 
+odd considering most of its other phones use on-screen buttons. 
+Considering this phone runs Android Lollipop, the KitKat-style icons look out-of-place. A single slit of 
+a speaker curves across the plastic above the display, with a 
+front-facing camera in between. The Micro-USB port can be found on 
+the bottom of the phone whereas the 3.5mm audio jack is on the 
+top. Thanks to its large battery, the phone is a fairly 
+thick 11.2mm. Moreover, the weight of 166g is on the 
+heavier side when compared to other flagship smartphones. Thankfully, 
+the sides of the phone are only 8.3mm thick and it slopes gently to its 
+thickest point. This makes handling the phone
+ that much easier, though we still think that the smaller bezels on 
+the Moto X (Gen 2) are more ergonomic. The 
+volume rocker and the power button are both on the right edge of
+ the phone. Interestingly, the Nano-SIM tray is attached to the volume 
+rocker using a mechanism with springs. At first, this seems like an ingenious piece of design but 
+in case a user fidgets too much and damages the tray, the SIM card and volume controls will both be lost.Just like the Moto X (Gen 2), the Moto Turbo sports a 
+5.2-inch Super AMOLED screen with Corning's Gorilla Glass 3 for 
+protection from scratches. The only difference here is the Moto Turbo 
+has a resolution of 1440x2560 pixels (QHD), which translates to a
+ whopping pixel density of 565ppi. This is one of the crispest screens 
+we've seen on a phone, and spotting pixels is impossible. Being an AMOLED screen, the colours do tend to pop but not as 
+much as the screen on the Moto X (Gen 2). Also, there is a weird yellow 
+cast which is visible when viewed from an angle. We 
+noticed that the screen doesn't get as bright as we'd have liked it to get, but thankfully the sunlight legibility is not affected. 
+Motorola also adds a unique water-repellant nano-coating to the Moto 
+Turbo which can protect it from liquid spills.Specifications and softwareQuite
+ expectedly, Motorola has gone with premium components inside the Moto Turbo.
+It rocks a Qualcomm Snapdragon 805 SoC with a quad-core 
+processor clocked at 2.7GHz and an Adreno 420 GPU. There is an ample 3GB
+of RAM, and Motorola has launched the phone with 
+64GB of internal storage, which should be enough for 
+most practical purposes. In any case, there is no microSD card 
+slot to increase storage capacity. The Moto Turbo's camera has a 21-megapixel Sony sensor, which is thought to be the same type used by Sony
+ Xperia Z series of smartphones. This camera can also capture UHD 4K 
+videos. Compared to the competition, the Moto Turbo has a fairly basic 
+2-megapixel front facing camera which can also do 1080p videos. 
+Connectivity-wise, the one Nano-SIM you can use will work with 4G networks 
+but only on the 1800MHz band. Most 4G networks in India at the 
+moment use the 2300MHz band, which the Moto 
+Turbo cannot connect to. Other options for connectivity are Wi-Fi 802.11 a/b/g/n/ac and NFC. The battery has a 
+rated capacity of 3900mAh. The phone runs Android 5.0.2 Lollipop 
+and includes all the cool additional features that we saw in the Moto X 
+(Gen 2). Moto Voice is always listening and
+ waiting for a command, and it works flawlessly most of the time. 
+Moto Assist and Alert continue to be great additions too. Just like the 
+Moto X (Gen 2), users can flick their wrists to open the camera app. The
+ only missing feature is Spotlight Stories, which is no loss. CameraThe default camera app is meant for users who
+ just want a simple and intuitive app that can capture pictures without 
+any fuss. Users who want more manual functions will have to install a 
+third-party alternative from the Play Store. (Click for full size)The 21-megapixel 
+f/2.0 camera on the Moto Turbo is hampered by poor imaging processing 
+software. The images we captured in bright daylight had well saturated 
+colours and a good sense of depth. The camera also managed to 
+minimise barrel distortion. However, we noticed that details in 
+certain shots weren't defined really well. For example, in one of our 
+shots the outlines of leaves merged into each other, despite focussing on
+ that area. The HDR mode is not very effective and the lens couldn't do 
+much to capture the wide range of light we were trying to deal with. We noticed some 
+noise in shots taken in low light, but they weren't too bad overall. The camera can shoot 4K video and
+ we suggest you stick to this resolution because our captured 1080p 
+videos didn't look so good. It can also shoot slow-motion 60fps 720p videos, which looked average at best. The 2-megapixel front camera can 
+take decent shots but don't expect it to be as good as some phones which are optimised for selfies.(Click for full size)PerformanceWe just want to
+ use one word to describe this phone: powerhouse. The Moto Turbo 
+just screamed through anything we threw at it. Games ran exceptionally 
+well and general performance was really good in the course of our testing period. In
+the AnTuTu benchmark test, the Moto Turbo scored 52,686 points which is
+ the highest we've seen on a smartphone so far. In a weird recurrence, 
+similar to our experience with the Motorola Google Nexus 6, we noticed that the 
+Quadrant benchmark scores were much, much lower for such a 
+capable SoC. The QHD resolution of 
+the screen throttled our graphics benchmark numbers, but they were 
+still pretty good. In 3DMark Ice Storm Unlimited and GFXbench, the phone returned very high scores of 23,753 points and 26fps respectively. The 
+phone played all our sample test videos without any hiccups. The 
+loudspeaker doesn't get too loud but it sounds pretty tight even at high
+ volumes. Unfortunately, this is only a mono speaker and that might not 
+go down well with some buyers. The bundled headset looks like Apple's 
+EarPods, the only difference being this one is black. It 
+has a bass-heavy sound signature but isn't too bad. Thanks to 
+the use of noise-cancelling microphones, the sound quality in calls is 
+top notch and we really don't have any reason to complain about it. We
+ ran our regular video loop battery test and the phone lasted 13 hours
+ and 50 minutes before it needed a charge. This is quite a good result 
+but it is nowhere close to the Sony Xperia Z3 (Review | Pictures) or the Xperia Z3 Compact's (Review | Pictures) 
+performance. Motorola provides a fast charger in the box, 
+which is great, but for some reason the phone started heating up 
+while being charged.VerdictThe Motorola Moto Turbo is 
+available for Rs. 41,999 exclusively on Flipkart. It might look like the
+ pricing is on the higher side but the build quality and the overall 
+performance of the phone are both really good. Competing flagship Android phones such as the Nexus 6 (Review | Pictures), Sony Xperia Z3, 
+Samsung Galaxy Note 4 (Review | Pictures), and the HTC One (M8) [Review | Pictures] each have their own pros and cons. We would have wholeheartedly 
+recommended the Moto Turbo if the camera performance was better. Pick this phone only if you don't care too much about taking photographs. All 
+said and done, Motorola needs to find a way to deal with its Achilles heel, and then it will be able to unleash a truly unstoppable force. 
+Motorola Moto Turbo in pictures
+
+If
+ there is one smartphone company that has made a great comeback after facing
+ near-total defeat, it has to be Motorola. The brand has come a long way
+ since it reinvented itself with the Moto X (Review | Pictures) in the second half of 2013.
+
+In India, Motorola now has models that cater to every 
+budget. Are you looking for a budget smartphone? You have 
+the stellar Moto E (Gen 2) [Review | Pictures]. Do you want a phone that costs no more than Rs. 15,000 yet
+offers stellar performance? Look no further than the Moto G (Gen 
+2) [Review | Pictures]. Do you want a premium smartphone that costs less than most flagships in the
+ market today? The Moto X (Gen 2) [Review | Pictures] fits the bill perfectly. 
+
+With 
+the launch of the Motorola Moto Turbo, the company has gone one step 
+further than the Moto X (Gen 2) and created a smartphone that boasts of a
+ stellar set of specifications. It also uses an interesting new material
+ in its build. We are more than intrigued by what Motorola has on offer.
+ Let's get down to brass tacks. 
+
+Look and feelIt feels
+ as though companies have given up on trying to improve the candybar design of 
+smartphones, so we really appreciate those that introduce some sort of 
+distinction - like Motorola, and its parent company Lenovo. The company 
+introduced its Moto Maker customisation tool with the Moto X, and later
+ took it to another level when it announced the Moto X (Gen 2). 
+Unfortunately, the tool never made it to India. 
+Even so, the rate at which Motorola has been coming up with innovative materials, designs and textures on its smartphones is worthy of applause. From the distinctive chin on the original Moto X to the
+ bamboo back of the Moto X (Gen 2), Motorola has managed to 
+distinguish itself. 
+
+With
+ the Moto Turbo, Motorola introduces a new material - ballistic nylon - 
+which is essentially a thicker, tougher variant of synthetic nylon. 
+Quick trivia: ballistic nylon was used in the flak jackets worn by 
+World War II soldiers. The criss-cross black thread runs across 
+the rear of the phone, which looks elegant to say the least. The 
+trademark dimple with the Motorola logo has been replaced by a metal 
+plate on the Moto Turbo. The primary camera is above this 
+metal plate, flanked by two LED flash modules. 
+
+The
+ front of the device is quite ordinary, at least when compared to the
+ design of the rear. A metal frame runs around the edges of the screen 
+and the phone has a small chin on the lower front. Below 
+the screen, Motorola has used capacitive buttons, which is 
+odd considering most of its other phones use on-screen buttons. 
+Considering this phone runs Android Lollipop, the KitKat-style icons look out-of-place. A single slit of 
+a speaker curves across the plastic above the display, with a 
+front-facing camera in between. The Micro-USB port can be found on 
+the bottom of the phone whereas the 3.5mm audio jack is on the 
+top. 
+
+Thanks to its large battery, the phone is a fairly 
+thick 11.2mm. Moreover, the weight of 166g is on the 
+heavier side when compared to other flagship smartphones. Thankfully, 
+the sides of the phone are only 8.3mm thick and it slopes gently to its 
+thickest point. This makes handling the phone
+ that much easier, though we still think that the smaller bezels on 
+the Moto X (Gen 2) are more ergonomic. 
+
+The 
+volume rocker and the power button are both on the right edge of
+ the phone. Interestingly, the Nano-SIM tray is attached to the volume 
+rocker using a mechanism with springs. At first, this seems like an ingenious piece of design but 
+in case a user fidgets too much and damages the tray, the SIM card and volume controls will both be lost.
+
+Just like the Moto X (Gen 2), the Moto Turbo sports a 
+5.2-inch Super AMOLED screen with Corning's Gorilla Glass 3 for 
+protection from scratches. The only difference here is the Moto Turbo 
+has a resolution of 1440x2560 pixels (QHD), which translates to a
+ whopping pixel density of 565ppi. This is one of the crispest screens 
+we've seen on a phone, and spotting pixels is impossible. Being an AMOLED screen, the colours do tend to pop but not as 
+much as the screen on the Moto X (Gen 2). Also, there is a weird yellow 
+cast which is visible when viewed from an angle. We 
+noticed that the screen doesn't get as bright as we'd have liked it to get, but thankfully the sunlight legibility is not affected. 
+Motorola also adds a unique water-repellant nano-coating to the Moto 
+Turbo which can protect it from liquid spills.
+
+Specifications and softwareQuite
+ expectedly, Motorola has gone with premium components inside the Moto Turbo.
+It rocks a Qualcomm Snapdragon 805 SoC with a quad-core 
+processor clocked at 2.7GHz and an Adreno 420 GPU. There is an ample 3GB
+of RAM, and Motorola has launched the phone with 
+64GB of internal storage, which should be enough for 
+most practical purposes. In any case, there is no microSD card 
+slot to increase storage capacity. 
+
+The Moto Turbo's camera has a 21-megapixel Sony sensor, which is thought to be the same type used by Sony
+ Xperia Z series of smartphones. This camera can also capture UHD 4K 
+videos. Compared to the competition, the Moto Turbo has a fairly basic 
+2-megapixel front facing camera which can also do 1080p videos. 
+Connectivity-wise, the one Nano-SIM you can use will work with 4G networks 
+but only on the 1800MHz band. Most 4G networks in India at the 
+moment use the 2300MHz band, which the Moto 
+Turbo cannot connect to. Other options for connectivity are Wi-Fi 802.11 a/b/g/n/ac and NFC. The battery has a 
+rated capacity of 3900mAh. 
+
+The phone runs Android 5.0.2 Lollipop 
+and includes all the cool additional features that we saw in the Moto X 
+(Gen 2). Moto Voice is always listening and
+ waiting for a command, and it works flawlessly most of the time. 
+Moto Assist and Alert continue to be great additions too. Just like the 
+Moto X (Gen 2), users can flick their wrists to open the camera app. The
+ only missing feature is Spotlight Stories, which is no loss. 
+
+CameraThe default camera app is meant for users who
+ just want a simple and intuitive app that can capture pictures without 
+any fuss. Users who want more manual functions will have to install a 
+third-party alternative from the Play Store. 
+
+(Click for full size)The 21-megapixel 
+f/2.0 camera on the Moto Turbo is hampered by poor imaging processing 
+software. The images we captured in bright daylight had well saturated 
+colours and a good sense of depth. The camera also managed to 
+minimise barrel distortion. However, we noticed that details in 
+certain shots weren't defined really well. For example, in one of our 
+shots the outlines of leaves merged into each other, despite focussing on
+ that area. The HDR mode is not very effective and the lens couldn't do 
+much to capture the wide range of light we were trying to deal with. 
+
+We noticed some 
+noise in shots taken in low light, but they weren't too bad overall. The camera can shoot 4K video and
+ we suggest you stick to this resolution because our captured 1080p 
+videos didn't look so good. It can also shoot slow-motion 60fps 720p videos, which looked average at best. The 2-megapixel front camera can 
+take decent shots but don't expect it to be as good as some phones which are optimised for selfies.
+
+(Click for full size)PerformanceWe just want to
+ use one word to describe this phone: powerhouse. The Moto Turbo 
+just screamed through anything we threw at it. Games ran exceptionally 
+well and general performance was really good in the course of our testing period. 
+
+In
+the AnTuTu benchmark test, the Moto Turbo scored 52,686 points which is
+ the highest we've seen on a smartphone so far. In a weird recurrence, 
+similar to our experience with the Motorola Google Nexus 6, we noticed that the 
+Quadrant benchmark scores were much, much lower for such a 
+capable SoC. The QHD resolution of 
+the screen throttled our graphics benchmark numbers, but they were 
+still pretty good. In 3DMark Ice Storm Unlimited and GFXbench, the phone returned very high scores of 23,753 points and 26fps respectively. 
+
+The 
+phone played all our sample test videos without any hiccups. The 
+loudspeaker doesn't get too loud but it sounds pretty tight even at high
+ volumes. Unfortunately, this is only a mono speaker and that might not 
+go down well with some buyers. The bundled headset looks like Apple's 
+EarPods, the only difference being this one is black. It 
+has a bass-heavy sound signature but isn't too bad. Thanks to 
+the use of noise-cancelling microphones, the sound quality in calls is 
+top notch and we really don't have any reason to complain about it. 
+
+We
+ ran our regular video loop battery test and the phone lasted 13 hours
+ and 50 minutes before it needed a charge. This is quite a good result 
+but it is nowhere close to the Sony Xperia Z3 (Review | Pictures) or the Xperia Z3 Compact's (Review | Pictures) 
+performance. Motorola provides a fast charger in the box, 
+which is great, but for some reason the phone started heating up 
+while being charged.
+
+VerdictThe Motorola Moto Turbo is 
+available for Rs. 41,999 exclusively on Flipkart. It might look like the
+ pricing is on the higher side but the build quality and the overall 
+performance of the phone are both really good. Competing flagship Android phones such as the Nexus 6 (Review | Pictures), Sony Xperia Z3, 
+Samsung Galaxy Note 4 (Review | Pictures), and the HTC One (M8) [Review | Pictures] each have their own pros and cons. We would have wholeheartedly 
+recommended the Moto Turbo if the camera performance was better. Pick this phone only if you don't care too much about taking photographs. All 
+said and done, Motorola needs to find a way to deal with its Achilles heel, and then it will be able to unleash a truly unstoppable force. 
+

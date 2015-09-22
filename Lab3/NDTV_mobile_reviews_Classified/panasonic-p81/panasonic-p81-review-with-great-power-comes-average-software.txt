@@ -1,0 +1,202 @@
+Panasonic P81 Review: With Great Power Comes Average Software
+
+Panasonic's
+ brand recall is fairly good in the home entertainment segment, and the company is now banking on this reputation to help it break into the smartphones market. It is hoping for success by aggressively marketing its smartphones to the masses - we 
+say masses because the flagship (read "most expensive") phone in its lineup, the P81, is 
+priced below Rs. 20,000. The phone is up against a lot of 
+contenders with the same octa-core Mediatek MT6592 processor or its variant, the MT6592T, 
+under the hood. Panasonic has tried to be different by playing up the Gesture
+ Play feature on the P81. We have the phone with us and decided to put it through 
+its paces to figure out if it can differentiate itself in a swarm of 
+recent launches touting octa-core processors. Look and Feel The Panasonic
+ P81 doesn't look too different from the sea of black slabs we've become accustomed to since the launch of the Samsung Galaxy S. There 
+is a metal trim running around the edges which looks nice. In an attempt to make the phone look premium, Panasonic has embellished
+ the rear cover with a leather finish. Unfortunately, it ends up looking
+ tacky and far from premium.What Panasonic gets right, however, 
+is the ergonomics. Despite the big 5.5-inch screen, the small bezels 
+and 7.9mm thickness of the device make it relatively comfortable to hold. Of course
+ the phone is still relatively huge, and it can easily be categorised as a phablet.
+  The right edge has the power button and the left edge houses 
+the volume rocker. The rear camera is slightly raised, which could make it 
+susceptible to scratches. The flash sits right next to the camera and 
+the speaker is on the bottom rear. A 3.5mm jack is on the top edge, while
+ a Micro-USB port for charging and data transfer is on the bottom. Features and specificationsThe
+ Panasonic P81 is built around a Mediatek MT6592 octa-core processor clocked at 
+1.7GHz. This is billed as the world's first 'true octa-core' mobile processor. The
+ MT6592 and MT6592T are Systems-on-a-Chip (SoCs) and are built on the 28nm HPM (high-performance
+ mobile) process and include eight CPU cores, each capable of clock speeds up 
+to 2GHz. MediaTek says the MT6592 can run both low-power and more 
+demanding tasks equally well by using any number of cores at a time. In the graphics department is a Mali-450 GPU. Unlike the competition 
+that mostly provides 2GB of RAM, Panasonic fits the P81 with only 1GB. This is a bit of a disappointment. Users get 8GB of
+ internal storage which is expandable up to 32GB using a micro-SD card. Panasonic
+ opts for dual-SIM compatibility for the P81, and both SIM cards 
+can work on the 850/900/1800/1900/2100MHz GSM frequency bands. The 
+13-megapixel rear camera on the P81 can capture 1080p videos. There
+ is also a 2-megapixel front-facing camera. Panasonic's expertise
+ with televisions and displays comes to the fore on the P81, which has a 
+really bright and colourful 720p screen. Yes, the icons look blurred on 
+close inspection but we are nitpicking. Sunlight legibility is 
+decent too. On the other hand, viewing angles are slightly below par.SoftwarePanasonic's
+ skin on top of Android 4.2.2 (Jelly Bean) is mediocre at best.
+ The colourful icons and jazzy animations become an eyesore and are totally opposed to the clean minimalistic look of vanilla Android. 
+For reference, it looks a lot like the popular Go Launcher app. One major decision that annoyed us was that the Play Store app in the
+ top right corner of the app drawer has been replaced by something called Play More, which 
+basically allows users to customise the look of the 
+homescreen and lockscreen. We found this irritating rather than useful. In its TV advertisements, Panasonic has been playing up the 'Gesture Play' 
+feature that lets users to draw a gesture on the lockscreen to perform a
+ function (mostly for opening apps). There is also an app window that gives 
+users access to a certain set of apps directly. It doesn't work most of the time 
+and was an exercise in frustration trying to draw a 'U' to unlock the 
+screen rather than a simple swipe. We changed the setting immediately and chose the tried and 
+tested slide-to-unlock move instead.  Panasonic bundles
+ a lot of bloatware, and most of it is pointless. Fortunately, we 
+could uninstall these apps. Users also get a few freebies with the phone, such as complimentary Evernote Premium for six months worth Rs. 1,800, downloads from Hungama, and 
+subscription plans for India Today and Readwhere. CameraUnlike the messy software, the 
+default camera app is mostly minimalistic. There are 
+manual settings for ISO, exposure and white balance that users can 
+tweak. There are exactly three extra modes: HDR, 
+Panorama and GIF. The last mode works really well and is great for 
+regulars of popular forums such as Reddit and 4Chan. The P81's 
+13-megapixel camera takes good photographs in regular 
+daylight conditions. It captured even fine details like the leaves on a 
+tree without chromatic aberration or colour spill. We just had to make 
+sure that we focused on the right subject. The camera captures natural 
+colours too. Even in captured 1080p video, the finer details are visible. Low-light performance is not as good, though. The 2-megapixel 
+front camera fails to pick up adequate light, making photos taken with it look dim.  Overall, the camera score was surprisingly 
+good. PerformanceWe were eager to get to this part of the 
+testing process, considering the software was a bit of a mess. 
+Fortunately, for us and for Panasonic, the P81 doesn't disappoint. The P81 scored 27,713 and 14,266 
+respectively in
+ our AnTuTu and Quadrant benchmarks. This is lower than the performance of the Micromax Canvas Knight, also based on the Mediatek
+ MT6592T, but is still very good.
+ In daily usage we didn't notice any lag at all. The Panasonic 
+P81 edges out the Canvas Knight in the graphics performance department. 
+It logged scores of 13.7fps and 6661 in the GFXbench and 3DMark Ice 
+Storm Extreme  respectively. Shadowgun: Deadzone managed to play 
+without any lag whatsoever. In our video playback test, the P81 
+just blazed through any video test we threw at it. It played all our highly 
+encoded files without skipping frames or 
+distorting. The P81's 2,500mAh battery managed to last us 8 hours and
+ 17 minutes before we had to recharge it. It should last a day with moderate usage for most people.The call quality is good too.VerdictDespite its decent 
+performance, Panasonic P81's software is its Achilles heel. It is priced
+ at Rs.19,990 and its closest competition is the Micromax Canvas Knight (Review | Pictures), priced very slightly higher. Pick up the Canvas Knight if you need slightly better performance 
+for day-to-day tasks, and a close-to-vanilla Android experience. The main reasons to choose the Panasonic P81 over it would be the bigger screen and better gaming performance.
+Panasonic P81 in pictures
+
+
+Panasonic's
+ brand recall is fairly good in the home entertainment segment, and the company is now banking on this reputation to help it break into the smartphones market. It is hoping for success by aggressively marketing its smartphones to the masses - we 
+say masses because the flagship (read "most expensive") phone in its lineup, the P81, is 
+priced below Rs. 20,000. 
+
+The phone is up against a lot of 
+contenders with the same octa-core Mediatek MT6592 processor or its variant, the MT6592T, 
+under the hood. Panasonic has tried to be different by playing up the Gesture
+ Play feature on the P81. We have the phone with us and decided to put it through 
+its paces to figure out if it can differentiate itself in a swarm of 
+recent launches touting octa-core processors. 
+
+Look and Feel The Panasonic
+ P81 doesn't look too different from the sea of black slabs we've become accustomed to since the launch of the Samsung Galaxy S. There 
+is a metal trim running around the edges which looks nice. In an attempt to make the phone look premium, Panasonic has embellished
+ the rear cover with a leather finish. Unfortunately, it ends up looking
+ tacky and far from premium.
+
+What Panasonic gets right, however, 
+is the ergonomics. Despite the big 5.5-inch screen, the small bezels 
+and 7.9mm thickness of the device make it relatively comfortable to hold. Of course
+ the phone is still relatively huge, and it can easily be categorised as a phablet.
+  
+
+The right edge has the power button and the left edge houses 
+the volume rocker. The rear camera is slightly raised, which could make it 
+susceptible to scratches. The flash sits right next to the camera and 
+the speaker is on the bottom rear. A 3.5mm jack is on the top edge, while
+ a Micro-USB port for charging and data transfer is on the bottom. 
+
+Features and specificationsThe
+ Panasonic P81 is built around a Mediatek MT6592 octa-core processor clocked at 
+1.7GHz. This is billed as the world's first 'true octa-core' mobile processor. The
+ MT6592 and MT6592T are Systems-on-a-Chip (SoCs) and are built on the 28nm HPM (high-performance
+ mobile) process and include eight CPU cores, each capable of clock speeds up 
+to 2GHz. MediaTek says the MT6592 can run both low-power and more 
+demanding tasks equally well by using any number of cores at a time. 
+
+In the graphics department is a Mali-450 GPU. Unlike the competition 
+that mostly provides 2GB of RAM, Panasonic fits the P81 with only 1GB. This is a bit of a disappointment. Users get 8GB of
+ internal storage which is expandable up to 32GB using a micro-SD card. 
+
+Panasonic
+ opts for dual-SIM compatibility for the P81, and both SIM cards 
+can work on the 850/900/1800/1900/2100MHz GSM frequency bands. The 
+13-megapixel rear camera on the P81 can capture 1080p videos. There
+ is also a 2-megapixel front-facing camera. 
+
+Panasonic's expertise
+ with televisions and displays comes to the fore on the P81, which has a 
+really bright and colourful 720p screen. Yes, the icons look blurred on 
+close inspection but we are nitpicking. Sunlight legibility is 
+decent too. On the other hand, viewing angles are slightly below par.
+
+SoftwarePanasonic's
+ skin on top of Android 4.2.2 (Jelly Bean) is mediocre at best.
+ The colourful icons and jazzy animations become an eyesore and are totally opposed to the clean minimalistic look of vanilla Android. 
+For reference, it looks a lot like the popular Go Launcher app. One major decision that annoyed us was that the Play Store app in the
+ top right corner of the app drawer has been replaced by something called Play More, which 
+basically allows users to customise the look of the 
+homescreen and lockscreen. We found this irritating rather than useful. 
+
+In its TV advertisements, Panasonic has been playing up the 'Gesture Play' 
+feature that lets users to draw a gesture on the lockscreen to perform a
+ function (mostly for opening apps). There is also an app window that gives 
+users access to a certain set of apps directly. It doesn't work most of the time 
+and was an exercise in frustration trying to draw a 'U' to unlock the 
+screen rather than a simple swipe. We changed the setting immediately and chose the tried and 
+tested slide-to-unlock move instead.  
+
+Panasonic bundles
+ a lot of bloatware, and most of it is pointless. Fortunately, we 
+could uninstall these apps. Users also get a few freebies with the phone, such as complimentary Evernote Premium for six months worth Rs. 1,800, downloads from Hungama, and 
+subscription plans for India Today and Readwhere. 
+
+CameraUnlike the messy software, the 
+default camera app is mostly minimalistic. There are 
+manual settings for ISO, exposure and white balance that users can 
+tweak. There are exactly three extra modes: HDR, 
+Panorama and GIF. The last mode works really well and is great for 
+regulars of popular forums such as Reddit and 4Chan. 
+
+The P81's 
+13-megapixel camera takes good photographs in regular 
+daylight conditions. It captured even fine details like the leaves on a 
+tree without chromatic aberration or colour spill. We just had to make 
+sure that we focused on the right subject. The camera captures natural 
+colours too. Even in captured 1080p video, the finer details are visible. Low-light performance is not as good, though. The 2-megapixel 
+front camera fails to pick up adequate light, making photos taken with it look dim.  Overall, the camera score was surprisingly 
+good. 
+
+PerformanceWe were eager to get to this part of the 
+testing process, considering the software was a bit of a mess. 
+Fortunately, for us and for Panasonic, the P81 doesn't disappoint. The P81 scored 27,713 and 14,266 
+respectively in
+ our AnTuTu and Quadrant benchmarks. This is lower than the performance of the Micromax Canvas Knight, also based on the Mediatek
+ MT6592T, but is still very good.
+ In daily usage we didn't notice any lag at all. 
+
+The Panasonic 
+P81 edges out the Canvas Knight in the graphics performance department. 
+It logged scores of 13.7fps and 6661 in the GFXbench and 3DMark Ice 
+Storm Extreme  respectively. Shadowgun: Deadzone managed to play 
+without any lag whatsoever. 
+
+In our video playback test, the P81 
+just blazed through any video test we threw at it. It played all our highly 
+encoded files without skipping frames or 
+distorting. The P81's 2,500mAh battery managed to last us 8 hours and
+ 17 minutes before we had to recharge it. It should last a day with moderate usage for most people.The call quality is good too.
+
+VerdictDespite its decent 
+performance, Panasonic P81's software is its Achilles heel. It is priced
+ at Rs.19,990 and its closest competition is the Micromax Canvas Knight (Review | Pictures), priced very slightly higher. Pick up the Canvas Knight if you need slightly better performance 
+for day-to-day tasks, and a close-to-vanilla Android experience. The main reasons to choose the Panasonic P81 over it would be the bigger screen and better gaming performance.
+

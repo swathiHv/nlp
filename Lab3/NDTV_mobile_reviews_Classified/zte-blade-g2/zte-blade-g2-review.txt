@@ -1,0 +1,411 @@
+ZTE Blade G2 review
+
+With the Indian mobile market growing at a scorching pace, handset 
+manufacturers are being attracted as any honeybee to a ripe and luscious
+ flower. A new bee to buzz into Indian shores is ZTE. The Chinese 
+handset maker launched six new smartphones for the Indian market that 
+included the mid-range ZTE Blade G2. ZTE seems to be betting 
+heavily on its new mid-range offering, which comes packed with decent 
+specifications and also promises very good battery life. But is that 
+enough to succeed against some very formidable competition in the Indian market? We
+ find out in our review.Design / BuildOn first look, 
+the ZTE Blade G2 seems has been manufactured by the company with a 'keep
+ it simple' formula and reminds us more of an old school Android phone. 
+Admittedly this does make for a slightly less premium design, 
+giving the Blade G2 a plain look. The front panel of the 
+smartphone is all about the 4.5-inch display (which we consider is 
+decent for this price segment), and features no physical buttons - instead, has three capacitive keys lined up below the screen for back,
+ home and settings. The 4.5-inch display of Blade G2 is surrounded by 
+glossy black plastic which dominates the sides of the front panel. A 
+0.3-megapixel front-facing camera is placed on top sitting alongside the
+ earpiece.However, the ZTE Blade G2's backlit capacitive 
+buttons don't illuminate even when the display is on, and only do so when one touches 
+them, which we found a bit odd. In addition, the company has chosen the 
+buttons in Grey rather than bright White, making them hard to see when 
+the backlighting is off.The Blade G2 comes with dimensions of 
+133x66x9.9mm and weighs around 145 grams, which is slightly heavy for a 
+4.5-inch display device. The phone comes only in a Black model.There
+ is a Micro-USB port at the bottom, while the 3.5mm audio jack is located
+ at the top of the Blade G2. The power button is located on the right 
+side and the volume rocker buttons sit on the left side of the device. 
+However, we felt that it was easy to reach the power button with index 
+finger or thumb when holding the Blade G2 single-handed, when compared 
+to volume rocker buttons (for right handed users). For the volume 
+rocker buttons, the left handed users will no doubt be pleased with the 
+placement of both physical buttons (power and volume rocker), but it's a
+ bit of an awkward position for right handed users. We had hard time 
+adjusting the volume while using the smartphone on the go and especially
+ when we could only use one hand. Additionally, we experienced that the 
+volume rocker buttons are small for users with big palms and are a bit 
+spongy, so you can easily miss it when feeling around the left side of 
+the Blade G2. Further, like most budget Android smartphones, there 
+is no dedicated camera button.The rear panel of the ZTE Blade G2 
+initially appeared to be rubberized, but sadly it is not the case. The 
+Blade G2's rear has a textured matte finish which apes some of the high-end
+ android smartphones, and it makes sure that the device doesn't slip 
+easily from the grip. The rear panel houses a 5-megapixel camera 
+accompanied by an LED flash. We did like the chrome highlight around the
+ rear camera of Blade G2 smartphone.The ZTE Blade G2 comes with a
+ removable back cover, and opening it reveals the battery compartment 
+with two SIM card slots and a microSD card slot. The SIM cards and the 
+microSD card are not hot-swappable because they are placed adjacent to 
+the battery.Overall, we do not expect Blade G2 to stop traffic or
+ turn heads, but it is by no means an eyesore. We quite liked the build 
+of the device; especially the fact that there was no glossy plastic on the back, unlike most budget Android phones, helping in gripping the device for longer periods.DisplayThe
+ ZTE Blade G2 comes with a 4.5-inch FWVGA IPS display that has a 
+resolution of 480x854 pixels. It's no surprise that the Blade G2's 
+visuals are not as sharp as high-end smartphones.A major issue with Blade G2 was its dull display - we used the 
+smartphone with brightness set at full, and were still left unsatisfied. 
+Trying to use the Blade G2 on a sunny day can prove to be annoying, when
+ brightness set on auto or even full - sunlight legibility is not up to the mark. Colour reproduction and viewing 
+angles on the Blade G2's IPS display are quite decent, however. We observed that
+ the display of the smartphone picked up smudges easily and is a 
+fingerprint magnet; we also had a tough time getting rid of them.During
+ our testing period, we noticed slight distortion along the edges of the
+ Blade G2's display while watching videos or even viewing images. Thankfully, we 
+found the touch response of the screen to be good. Overall, while we wished that the ZTE Blade G2 came with a better display, if not a HD one. CameraThe
+ 5-megapixel auto-focus camera of ZTE Blade G2 takes good quality images
+ in good light. However, we noticed that pictures taken in low-light 
+conditions did not come out well. The clicked images are good 
+enough for uploading to social networks like Facebook, but not for much 
+else. Indoor images clicked with Blade G2 with less light showed noise 
+on the edges and were grainy. Moreover, the colour reproduction was also
+ not that great.The LED flash fulfils its intended purpose. The 
+phone can record videos but we found that the quality of videos captured
+ through the rear camera wasn't great. We experienced that even in 
+reasonably well-lit conditions there's quite a lot of noise in pictures clicked by
+ the Blade G2, and colours tend to look washed out. The
+ 0.3-megapixel front-facing camera on the Blade G2 comes in handy for self-portrait 
+shots while the quality is nothing to write home about.The 
+camera of the ZTE Blade G2 is a bit of a disappointment, churning out 
+mediocre results, even though it comes equipped with a number of 
+shooting modes including auto, HDR, Panorama, portrait, smile shot, 
+landscape and face-detection. The camera app of the Blade G2 also allows 
+users to adjust sharpness, saturation, hue, ISO, and brightness 
+settings.Software / InterfaceThe ZTE Blade G2 runs Android 
+4.2.1 Jelly Bean and the company's official site 
+claims that the smartphone supports firmware update. ZTE has skinned 
+some UI elements of the operating system on the Blade G2 and also offers
+ a second theme that gives a different icon set. Even the default
+ theme on Blade G2 offers icons with some minor tweaks, with ZTE choosing
+ a square icon look instead of the plain one that comes with stock 
+Android.Android 4.2 Jelly Bean brings lock-screen widgets 
+that let users launch apps like clock, camera, Gmail, Google Now, messaging and additional third-party apps straight from the lock-screen.
+ However, the major highlight of the UI tweak on Blade G2's interface is the 
+custom lock-screen, where users need to long press a circle that appears 
+when pressing the power button. There are three capacitive keys for back, 
+home and settings below the 4.5-inch display. The home button also 
+doubles up as the app switcher on long press, but we observed that the 
+phone did not register the long press at times.The Blade G2 includes 
+five customizable home screens on which users can park widgets and shortcuts. The smartphone comes with the usual Android goodies like 
+Gmail, Google Maps and Google+, in addition to some bundled apps such as
+ a file manager, video player and profile manager. Users can always 
+access the Google Play store to download their favourite apps.There
+ are shortcuts for dialler, contacts, menu, messages and native browser 
+on the home screen of the Blade G2. Similar to other Android 4.2 Jelly 
+Bean based smartphones, the notifications tray on the Blade G2 features 
+settings shortcut and a clear all button.On expanding the Quick 
+Settings notification tray on the Blade G2, one can find options for 
+quick access to the profile, battery status, settings shortcut, Wi-Fi, 
+Bluetooth, GPS, data connectivity, data usage status, airplane mode, 
+brightness, screen timeout, auto rotate and audio profiles (for alerts 
+and other notifications). The ZTE Blade G2 comes preloaded with a
+ number of apps such as Facebook for connecting to friends without 
+downloading the app from Play Store; Kingsoft Office Suite, for creating 
+and editing MS Office files, and NQ Mobile Security for warding off virus
+ and malware attacks. However, the NQ Mobile Security app is not 
+completely free and users need to pay for using the premium features of 
+the app. Also on board in the Blade G2 are default music and video 
+players which come with stock UI and do not offer new features like 
+Samsung and HTC smartphones.Performance/ Battery LifeZTE 
+Blade G2 is powered by a 1.2GHz quad-core MediaTek MTK6589 processor 
+along with PowerVR SGX544MP GPU. As the Blade G2 comes with a scanty 
+512MB of RAM, the multi-tasking experience suffers and we experienced 
+lags even while browsing through interface.The experience of 
+playing some popular games like Temple Run 2, Fruit Ninja, Subway 
+Surfers and Vector on the Blade G2 was average.The smartphone 
+comes with 4GB of inbuilt storage of which 1.93GB is user accessible. 
+The built-in storage can be expanded up to 32GB via microSD card. The 
+Blade G2 comes with the native Android browser as well as Chrome, and we 
+found that it renders webpages well.With Android 4.2 Jelly Bean,
+ the overall experience of navigation through the interface of Blade G2 
+was decent, thanks to the phone's quad-core processor. However, we 
+did experience some lags while launching heavy apps, and playing rich 
+graphics games like Dead Trigger. Browsing the Internet and 
+switching between apps was smooth.The native music app on the ZTE
+ Blade G2 can play MP3, MIDI, AAC, AMR and WAV audio formats. The music 
+app in itself looks quite basic but it offers equalizer presets. The 
+quality of audio through the loudspeakers is very good. However, the 
+same cannot be said about the supplied earphones with the smartphone.Call
+ quality was good during our testing period on the Blade G2, and we experienced no call drops even in weak signal areas. The 
+speakerphone performed well, providing loud, although not especially 
+clear, audio. While making/ taking some calls, the callers at the other 
+end of the line complained about our voice sounding better over the 
+speakerphone than the standard mouthpiece, which was a bit weird. While we assumed that the network connectivity was 
+responsible for the issue, we realized over a few days that the problem was consistent. This did imply the microphone had a problem.Further, we were not able to play full-HD 
+video clips on the Blade G2, but the phone supported formats like .AVI 
+and .MP4, natively. The ZTE Blade G2 packs a 2000mAh battery, and
+ based on our experience, it lasted more than a day on a single 
+charge. We charged the phone in the morning, and with medium to heavy 
+usage, including an hours of phone calls; two email accounts configured 
+on the smartphone with push notifications; screen set at maximum 
+brightness; playing some music and watching our favourite video clips 
+through YouTube; Twitter and WhatsApp notifications, the Blade G2 lasted
+ more than 14-15 hours with the battery status showing 20 percent. It's 
+also worth pointing out that we were on Wi-Fi throughout the day, and 
+did not use 3G. Changing the settings might help in running the Blade G2
+ for a longer duration, depending on the usage pattern.VerdictOur
+ experience of the ZTE Blade G2 was a mixed one. We liked the build 
+quality of the smartphone, the sound experience through loudspeakers was
+ good and battery life was also impressive with a single charge taking 
+the device beyond a day of usage. However, in terms of performance, it 
+did not really come up to the high-benchmarks set by other budget quad-core processor
+ smartphones - there were occasional lags in the Blade G2.ZTE 
+launched the phone at a MRP of Rs. 11,599; however the phone is now 
+available below Rs. 10,000 at some online retailers. The main catch is 
+that at a price of around Rs. 10,000, the Indian market now has a number 
+of quad-core offering from companies like Karbonn, Xolo, Intex among 
+others, all offering 1GB of RAM and thereby offering better performance.Those looking for alternatives can look for smartphones 
+such as the Zen Ultrafone 701HD (Review) which is now available at price around Rs. 11,000; the Karbonn S1 
+Titanium (Review) which comes with 4.5-inch display and is priced at about Rs. 10,000. These smartphones run on Android 4.1 however, and there are fewer options in this price range with Android 4.2 - the Xolo Q700 (Review) is one such device, currently available at less than Rs. 10,000. All these smartphones also offer better displays than the ZTE Blade G2.If you are looking beyond the Android platform, then Nokia Lumia 520 (Review) 
+is probably the best value for money offering in the sub-Rs. 10,000 range.Price: Rs. 11,599ZTE Blade G2 in pictures
+
+ZTE seems to be betting 
+heavily on its new mid-range offering, which comes packed with decent 
+specifications and also promises very good battery life. But is that 
+enough to succeed against some very formidable competition in the Indian market? We
+ find out in our review.
+
+Design / BuildOn first look, 
+the ZTE Blade G2 seems has been manufactured by the company with a 'keep
+ it simple' formula and reminds us more of an old school Android phone. 
+Admittedly this does make for a slightly less premium design, 
+giving the Blade G2 a plain look. 
+
+The front panel of the 
+smartphone is all about the 4.5-inch display (which we consider is 
+decent for this price segment), and features no physical buttons - instead, has three capacitive keys lined up below the screen for back,
+ home and settings. The 4.5-inch display of Blade G2 is surrounded by 
+glossy black plastic which dominates the sides of the front panel. A 
+0.3-megapixel front-facing camera is placed on top sitting alongside the
+ earpiece.
+
+However, the ZTE Blade G2's backlit capacitive 
+buttons don't illuminate even when the display is on, and only do so when one touches 
+them, which we found a bit odd. In addition, the company has chosen the 
+buttons in Grey rather than bright White, making them hard to see when 
+the backlighting is off.
+
+The Blade G2 comes with dimensions of 
+133x66x9.9mm and weighs around 145 grams, which is slightly heavy for a 
+4.5-inch display device. The phone comes only in a Black model.
+
+There
+ is a Micro-USB port at the bottom, while the 3.5mm audio jack is located
+ at the top of the Blade G2. The power button is located on the right 
+side and the volume rocker buttons sit on the left side of the device. 
+However, we felt that it was easy to reach the power button with index 
+finger or thumb when holding the Blade G2 single-handed, when compared 
+to volume rocker buttons (for right handed users). 
+
+For the volume 
+rocker buttons, the left handed users will no doubt be pleased with the 
+placement of both physical buttons (power and volume rocker), but it's a
+ bit of an awkward position for right handed users. We had hard time 
+adjusting the volume while using the smartphone on the go and especially
+ when we could only use one hand. Additionally, we experienced that the 
+volume rocker buttons are small for users with big palms and are a bit 
+spongy, so you can easily miss it when feeling around the left side of 
+the Blade G2. Further, like most budget Android smartphones, there 
+is no dedicated camera button.
+
+The rear panel of the ZTE Blade G2 
+initially appeared to be rubberized, but sadly it is not the case. The 
+Blade G2's rear has a textured matte finish which apes some of the high-end
+ android smartphones, and it makes sure that the device doesn't slip 
+easily from the grip. The rear panel houses a 5-megapixel camera 
+accompanied by an LED flash. We did like the chrome highlight around the
+ rear camera of Blade G2 smartphone.
+
+The ZTE Blade G2 comes with a
+ removable back cover, and opening it reveals the battery compartment 
+with two SIM card slots and a microSD card slot. The SIM cards and the 
+microSD card are not hot-swappable because they are placed adjacent to 
+the battery.
+
+Overall, we do not expect Blade G2 to stop traffic or
+ turn heads, but it is by no means an eyesore. We quite liked the build 
+of the device; especially the fact that there was no glossy plastic on the back, unlike most budget Android phones, helping in gripping the device for longer periods.
+
+DisplayThe
+ ZTE Blade G2 comes with a 4.5-inch FWVGA IPS display that has a 
+resolution of 480x854 pixels. It's no surprise that the Blade G2's 
+visuals are not as sharp as high-end smartphones.
+
+A major issue with Blade G2 was its dull display - we used the 
+smartphone with brightness set at full, and were still left unsatisfied. 
+Trying to use the Blade G2 on a sunny day can prove to be annoying, when
+ brightness set on auto or even full - sunlight legibility is not up to the mark. Colour reproduction and viewing 
+angles on the Blade G2's IPS display are quite decent, however. We observed that
+ the display of the smartphone picked up smudges easily and is a 
+fingerprint magnet; we also had a tough time getting rid of them.
+
+During
+ our testing period, we noticed slight distortion along the edges of the
+ Blade G2's display while watching videos or even viewing images. Thankfully, we 
+found the touch response of the screen to be good. 
+
+Overall, while we wished that the ZTE Blade G2 came with a better display, if not a HD one. 
+
+The
+ 5-megapixel auto-focus camera of ZTE Blade G2 takes good quality images
+ in good light. However, we noticed that pictures taken in low-light 
+conditions did not come out well. The clicked images are good 
+enough for uploading to social networks like Facebook, but not for much 
+else. Indoor images clicked with Blade G2 with less light showed noise 
+on the edges and were grainy. Moreover, the colour reproduction was also
+ not that great.
+
+The LED flash fulfils its intended purpose. The 
+phone can record videos but we found that the quality of videos captured
+ through the rear camera wasn't great. We experienced that even in 
+reasonably well-lit conditions there's quite a lot of noise in pictures clicked by
+ the Blade G2, and colours tend to look washed out. 
+
+The
+ 0.3-megapixel front-facing camera on the Blade G2 comes in handy for self-portrait 
+shots while the quality is nothing to write home about.
+
+The 
+camera of the ZTE Blade G2 is a bit of a disappointment, churning out 
+mediocre results, even though it comes equipped with a number of 
+shooting modes including auto, HDR, Panorama, portrait, smile shot, 
+landscape and face-detection. The camera app of the Blade G2 also allows 
+users to adjust sharpness, saturation, hue, ISO, and brightness 
+settings.
+
+Software / InterfaceThe ZTE Blade G2 runs Android 
+4.2.1 Jelly Bean and the company's official site 
+claims that the smartphone supports firmware update. ZTE has skinned 
+some UI elements of the operating system on the Blade G2 and also offers
+ a second theme that gives a different icon set. 
+
+Even the default
+ theme on Blade G2 offers icons with some minor tweaks, with ZTE choosing
+ a square icon look instead of the plain one that comes with stock 
+Android.
+
+Android 4.2 Jelly Bean brings lock-screen widgets 
+that let users launch apps like clock, camera, Gmail, Google Now, messaging and additional third-party apps straight from the lock-screen.
+ However, the major highlight of the UI tweak on Blade G2's interface is the 
+custom lock-screen, where users need to long press a circle that appears 
+when pressing the power button. There are three capacitive keys for back, 
+home and settings below the 4.5-inch display. The home button also 
+doubles up as the app switcher on long press, but we observed that the 
+phone did not register the long press at times.
+
+The Blade G2 includes 
+five customizable home screens on which users can park widgets and shortcuts. The smartphone comes with the usual Android goodies like 
+Gmail, Google Maps and Google+, in addition to some bundled apps such as
+ a file manager, video player and profile manager. Users can always 
+access the Google Play store to download their favourite apps.
+
+There
+ are shortcuts for dialler, contacts, menu, messages and native browser 
+on the home screen of the Blade G2. Similar to other Android 4.2 Jelly 
+Bean based smartphones, the notifications tray on the Blade G2 features 
+settings shortcut and a clear all button.
+
+On expanding the Quick 
+Settings notification tray on the Blade G2, one can find options for 
+quick access to the profile, battery status, settings shortcut, Wi-Fi, 
+Bluetooth, GPS, data connectivity, data usage status, airplane mode, 
+brightness, screen timeout, auto rotate and audio profiles (for alerts 
+and other notifications). 
+
+The ZTE Blade G2 comes preloaded with a
+ number of apps such as Facebook for connecting to friends without 
+downloading the app from Play Store; Kingsoft Office Suite, for creating 
+and editing MS Office files, and NQ Mobile Security for warding off virus
+ and malware attacks. 
+
+However, the NQ Mobile Security app is not 
+completely free and users need to pay for using the premium features of 
+the app. Also on board in the Blade G2 are default music and video 
+players which come with stock UI and do not offer new features like 
+Samsung and HTC smartphones.
+
+Performance/ Battery LifeZTE 
+Blade G2 is powered by a 1.2GHz quad-core MediaTek MTK6589 processor 
+along with PowerVR SGX544MP GPU. As the Blade G2 comes with a scanty 
+512MB of RAM, the multi-tasking experience suffers and we experienced 
+lags even while browsing through interface.
+
+The experience of 
+playing some popular games like Temple Run 2, Fruit Ninja, Subway 
+Surfers and Vector on the Blade G2 was average.
+
+The smartphone 
+comes with 4GB of inbuilt storage of which 1.93GB is user accessible. 
+The built-in storage can be expanded up to 32GB via microSD card. The 
+Blade G2 comes with the native Android browser as well as Chrome, and we 
+found that it renders webpages well.
+
+With Android 4.2 Jelly Bean,
+ the overall experience of navigation through the interface of Blade G2 
+was decent, thanks to the phone's quad-core processor. However, we 
+did experience some lags while launching heavy apps, and playing rich 
+graphics games like Dead Trigger. Browsing the Internet and 
+switching between apps was smooth.
+
+The native music app on the ZTE
+ Blade G2 can play MP3, MIDI, AAC, AMR and WAV audio formats. The music 
+app in itself looks quite basic but it offers equalizer presets. The 
+quality of audio through the loudspeakers is very good. However, the 
+same cannot be said about the supplied earphones with the smartphone.
+
+Call
+ quality was good during our testing period on the Blade G2, and we experienced no call drops even in weak signal areas. The 
+speakerphone performed well, providing loud, although not especially 
+clear, audio. While making/ taking some calls, the callers at the other 
+end of the line complained about our voice sounding better over the 
+speakerphone than the standard mouthpiece, which was a bit weird. While we assumed that the network connectivity was 
+responsible for the issue, we realized over a few days that the problem was consistent. This did imply the microphone had a problem.
+
+Further, we were not able to play full-HD 
+video clips on the Blade G2, but the phone supported formats like .AVI 
+and .MP4, natively. 
+
+The ZTE Blade G2 packs a 2000mAh battery, and
+ based on our experience, it lasted more than a day on a single 
+charge. We charged the phone in the morning, and with medium to heavy 
+usage, including an hours of phone calls; two email accounts configured 
+on the smartphone with push notifications; screen set at maximum 
+brightness; playing some music and watching our favourite video clips 
+through YouTube; Twitter and WhatsApp notifications, the Blade G2 lasted
+ more than 14-15 hours with the battery status showing 20 percent. It's 
+also worth pointing out that we were on Wi-Fi throughout the day, and 
+did not use 3G. Changing the settings might help in running the Blade G2
+ for a longer duration, depending on the usage pattern.
+
+VerdictOur
+ experience of the ZTE Blade G2 was a mixed one. We liked the build 
+quality of the smartphone, the sound experience through loudspeakers was
+ good and battery life was also impressive with a single charge taking 
+the device beyond a day of usage. However, in terms of performance, it 
+did not really come up to the high-benchmarks set by other budget quad-core processor
+ smartphones - there were occasional lags in the Blade G2.
+
+ZTE 
+launched the phone at a MRP of Rs. 11,599; however the phone is now 
+available below Rs. 10,000 at some online retailers. The main catch is 
+that at a price of around Rs. 10,000, the Indian market now has a number 
+of quad-core offering from companies like Karbonn, Xolo, Intex among 
+others, all offering 1GB of RAM and thereby offering better performance.
+
+Those looking for alternatives can look for smartphones 
+such as the Zen Ultrafone 701HD (Review) which is now available at price around Rs. 11,000; the Karbonn S1 
+Titanium (Review) which comes with 4.5-inch display and is priced at about Rs. 10,000.
+
+ These smartphones run on Android 4.1 however, and there are fewer options in this price range with Android 4.2 - the Xolo Q700 (Review) is one such device, currently available at less than Rs. 10,000. All these smartphones also offer better displays than the ZTE Blade G2.
+

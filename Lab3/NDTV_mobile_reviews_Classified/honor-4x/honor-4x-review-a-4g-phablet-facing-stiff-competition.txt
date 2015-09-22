@@ -1,0 +1,209 @@
+Honor 4X Review: A 4G Phablet Facing Stiff Competition
+
+Chinese manufacturer Huawei recently spun off its Honor line into a standalone brand targeting young tech-savvy buyers. Not wanting to be left behind after recent launches in the value segment, the
+ company has put out a 4G-enabled smartphone that doesn't pinch the pocket - the Honor 4X. 4G is still at a very nascent stage 
+in our country and we have a long way to go before we start seeing mass 
+adoption, so this feature alone is not enough to sell a smartphone - budget or 
+not. This is why the Honor 4X will have to go 
+beyond that marketing tactic and prove its mettle against tough 
+competition from phones like the Xiaomi Redmi Note 4G (Review | 
+Pictures) and Micromax's Yu Yureka (Review | Pictures). Let's find out if it is worth your time and money.Look and feelHuawei
+hasn't done much different with the design of the Honor 4X except 
+for adding a textured pattern on the rear cover that looks 
+distinct. Otherwise, it is quite a standard candybar-shaped Android smartphone. The Honor 4X is an undoubtedly 
+chunky device at 8.7mm and 165g but it feels more compact than the 
+similarly-sized Yu Yureka thanks to its small screen bezels. That said, the 
+Honor 4X is still a pretty large phone and using it with one hand won't 
+be very easy. Only a white colour variant of the phone is available in India.The power button and the 
+volume rocker are on the right edge of the phone. For some reason the power 
+button is black and the volume rocker is white. This colour distinction 
+doesn't make sense because most people feel for these 
+buttons more often than they look for them. It would have made 
+more sense to use a different texture instead - like we saw in the Moto E (Gen 2) (Review | Pictures).The bottom of the 
+phone has the Micro-USB port, speaker grille, and a microphone. The 
+3.5mm jack and another microphone are on the top. Flip it over and one can 
+find the word 'honor' engraved on the plastic back. Also on the rear is a
+ metal strip which houses the camera and flash. There is a row of 
+buttons below the screen but they aren't backlit, which means locating 
+them in the dark will be tough. Above the display are the earpiece, 
+front camera and ambient light sensor. The Honor 4X has a 
+5.5-inch IPS LCD panel with a resolution of 720x1280 translating to a 
+pixel density of 267ppi. The screen is pretty sharp as a result of which
+ images and text look really crisp. On the other hand, it doesn't get 
+too bright and that affects the sunlight legibility. Even the viewing 
+angles are - surprisingly for an LCD panel - not too good; we found that
+ the screen started losing visibility the moment we looked at it from an angle. 
+Another point of contention is that the Honor 4X's screen doesn't use 
+any sort of toughened glass for protection.   Specifications and softwareUnder
+ the hood, the Honor 4X has a 64-bit SoC by Qualcomm - a 1.2GHz Snapdragon 
+410, with integrated Adreno 306 graphics. There is 2GB of RAM to run applications and 
+services. The internal storage maxes out at 8GB but it can be expanded by up to 32GB using a microSD card.The Honor 4X has a 
+13-megapixel rear shooter made by Sony and a 5-megapixel front facing camera. There is a massive 3,000mAh battery inside to power the 
+phone. The Honor 4X has a Dual-SIM configuration and it works in dual-standby mode. The phone can connect to Indian LTE networks operating in the 1800MHz and 2300MHz bands.Other connectivity options include the standard 
+Wi-Fi a/b/g/n and Bluetooth v4.0 with A2DP.Huawei's new Emotion 
+3.0 skin is wrapped around Android 4.4.4 KitKat. Emotion 3.0, like 
+any other skin by competing Chinese brands, does not have an app 
+drawer. The skin has flat icons and a pastel colour palette which looks 
+quite pleasing. One can also change themes according to their 
+preference. It is feature-rich and offers customisation options, but it borrows a few of them from implementations we've seen 
+on other phones. For example, it has the double-tap-to-wake option which we've seen on many other phones before, and a 
+Suspend button sticks to the edges of the screen, inspired by 
+the Assistive Touch button available in iOS. A neat addition is the Ultra Battery Mode which can be switched on in case 
+battery life is running low. In this mode only important functions such as the Dialer, Messaging and Contacts are available.CameraAt 
+first glance, the camera app looks barren thanks to the unassuming design. However, this app is quite rich with
+ a ton of filters, manual settings 
+for ISO, white balance and other tweaks, and an All-focus mode which 
+allows users to adjust the focus after the image has been snapped. The 
+All-focus mode works as advertised provided the subject
+ and background are clearly defined in the frame. (Click for full size)The 13-megapixel rear 
+camera is slow to focus and has slightly underwhelming performance. In daylight, 
+we noticed that it faced a problem with adjusting the highlights
+ and shadows. In some shots we even noticed a little bit of noise, which
+ doesn't bode well for any camera. At the edges of some of our sample 
+images we noticed a bit of barrel distortion. Also, the colours captured
+ by the camera  were slightly dull. Both the Yu Yureka and the 
+Redmi Note 4G have better performing cameras in our opinion. The
+ quality of the captured 1080p video wasn't up to the mark either. 
+However, the 5-megapixel front camera can capture better details. There is a Beauty level mode 
+which allows users to beautify their face by removing any blemishes, which works really well.(Click for full size)PerformanceIn
+ our time with the device, we noticed that it was quite a good performer thanks the nimble skin on top of Android. Taps and swipes 
+registered without any issues, and even heavy games like Asphalt 8 and 
+Dead Trigger 2 loaded pretty fast. That said, both Asphalt 8 and Dead Trigger 
+2, stuttered a bit in our testing. This was consistent with the fairly 
+average scores we got in our graphics benchmark tests. In GFXbench, the Honor 
+4X scored 9.3fps, and it scored 5,182 points in 3DMark Ice Storm. The scores in the CPU-intensive AnTuTu and Quadrant benchmarks were 
+more encouraging, and we managed to score 21,070 and 11,869 
+points respectively.We tried a selection of test videos and 
+all of them played without any hiccups, which included our heavily encoded 40Mbps one. Huawei doesn't bundle a headset in the box but we 
+did try the audio quality with our own earphones and it sounded 
+good. The loudspeaker doesn't get too loud, is tinny, and also 
+crackles at high volume. We remember facing the same problem with the 
+Huawei Honor 6's loudspeaker. The call quality was good and we didn't 
+find any problem with it. In our battery test the phone lasted 11
+ hours and 16 minutes before it had to be charged. This is possible 
+thanks to the large 3000mAh battery, but do bear in mind that there are 
+other phones in the same price range, some with lower capacity batteries, that exhibit better performance.VerdictAfter
+ spending time with the Honor 4X we think that Huawei's idea of keeping 
+it simple works. It has decent performance coupled with good battery 
+life. Unfortunately, at Rs. 10,499, the Honor 4X is a bit more expensive than Yu Yureka and the Redmi Note 4G, both of which are better choices. The Yu Yureka has better benchmark scores and might be the best option among the three devices, but you will have to battle through weekly flash sales to be able to buy any of the three.
+Honor 4X in pictures
+
+Chinese manufacturer Huawei recently spun off its Honor line into a standalone brand targeting young tech-savvy buyers. Not wanting to be left behind after recent launches in the value segment, the
+ company has put out a 4G-enabled smartphone that doesn't pinch the pocket - the Honor 4X. 4G is still at a very nascent stage 
+in our country and we have a long way to go before we start seeing mass 
+adoption, so this feature alone is not enough to sell a smartphone - budget or 
+not. 
+
+This is why the Honor 4X will have to go 
+beyond that marketing tactic and prove its mettle against tough 
+competition from phones like the Xiaomi Redmi Note 4G (Review | 
+Pictures) and Micromax's Yu Yureka (Review | Pictures). Let's find out if it is worth your time and money.
+
+Look and feelHuawei
+hasn't done much different with the design of the Honor 4X except 
+for adding a textured pattern on the rear cover that looks 
+distinct. Otherwise, it is quite a standard candybar-shaped Android smartphone. The Honor 4X is an undoubtedly 
+chunky device at 8.7mm and 165g but it feels more compact than the 
+similarly-sized Yu Yureka thanks to its small screen bezels. That said, the 
+Honor 4X is still a pretty large phone and using it with one hand won't 
+be very easy. Only a white colour variant of the phone is available in India.
+
+The power button and the 
+volume rocker are on the right edge of the phone. For some reason the power 
+button is black and the volume rocker is white. This colour distinction 
+doesn't make sense because most people feel for these 
+buttons more often than they look for them. It would have made 
+more sense to use a different texture instead - like we saw in the Moto E (Gen 2) (Review | Pictures).
+
+The bottom of the 
+phone has the Micro-USB port, speaker grille, and a microphone. The 
+3.5mm jack and another microphone are on the top. Flip it over and one can 
+find the word 'honor' engraved on the plastic back. Also on the rear is a
+ metal strip which houses the camera and flash. There is a row of 
+buttons below the screen but they aren't backlit, which means locating 
+them in the dark will be tough. Above the display are the earpiece, 
+front camera and ambient light sensor. 
+
+The Honor 4X has a 
+5.5-inch IPS LCD panel with a resolution of 720x1280 translating to a 
+pixel density of 267ppi. The screen is pretty sharp as a result of which
+ images and text look really crisp. On the other hand, it doesn't get 
+too bright and that affects the sunlight legibility. Even the viewing 
+angles are - surprisingly for an LCD panel - not too good; we found that
+ the screen started losing visibility the moment we looked at it from an angle. 
+Another point of contention is that the Honor 4X's screen doesn't use 
+any sort of toughened glass for protection.   
+
+Specifications and softwareUnder
+ the hood, the Honor 4X has a 64-bit SoC by Qualcomm - a 1.2GHz Snapdragon 
+410, with integrated Adreno 306 graphics. There is 2GB of RAM to run applications and 
+services. The internal storage maxes out at 8GB but it can be expanded by up to 32GB using a microSD card.
+
+The Honor 4X has a 
+13-megapixel rear shooter made by Sony and a 5-megapixel front facing camera. There is a massive 3,000mAh battery inside to power the 
+phone. The Honor 4X has a Dual-SIM configuration and it works in dual-standby mode. The phone can connect to Indian LTE networks operating in the 1800MHz and 2300MHz bands.Other connectivity options include the standard 
+Wi-Fi a/b/g/n and Bluetooth v4.0 with A2DP.
+
+Huawei's new Emotion 
+3.0 skin is wrapped around Android 4.4.4 KitKat. Emotion 3.0, like 
+any other skin by competing Chinese brands, does not have an app 
+drawer. The skin has flat icons and a pastel colour palette which looks 
+quite pleasing. One can also change themes according to their 
+preference. It is feature-rich and offers customisation options, but it borrows a few of them from implementations we've seen 
+on other phones. For example, it has the double-tap-to-wake option which we've seen on many other phones before, and a 
+Suspend button sticks to the edges of the screen, inspired by 
+the Assistive Touch button available in iOS. A neat addition is the Ultra Battery Mode which can be switched on in case 
+battery life is running low. In this mode only important functions such as the Dialer, Messaging and Contacts are available.
+
+CameraAt 
+first glance, the camera app looks barren thanks to the unassuming design. However, this app is quite rich with
+ a ton of filters, manual settings 
+for ISO, white balance and other tweaks, and an All-focus mode which 
+allows users to adjust the focus after the image has been snapped. The 
+All-focus mode works as advertised provided the subject
+ and background are clearly defined in the frame. 
+
+(Click for full size)The 13-megapixel rear 
+camera is slow to focus and has slightly underwhelming performance. In daylight, 
+we noticed that it faced a problem with adjusting the highlights
+ and shadows. In some shots we even noticed a little bit of noise, which
+ doesn't bode well for any camera. At the edges of some of our sample 
+images we noticed a bit of barrel distortion. Also, the colours captured
+ by the camera  were slightly dull. Both the Yu Yureka and the 
+Redmi Note 4G have better performing cameras in our opinion. 
+
+The
+ quality of the captured 1080p video wasn't up to the mark either. 
+However, the 5-megapixel front camera can capture better details. There is a Beauty level mode 
+which allows users to beautify their face by removing any blemishes, which works really well.
+
+(Click for full size)PerformanceIn
+ our time with the device, we noticed that it was quite a good performer thanks the nimble skin on top of Android. Taps and swipes 
+registered without any issues, and even heavy games like Asphalt 8 and 
+Dead Trigger 2 loaded pretty fast. 
+
+That said, both Asphalt 8 and Dead Trigger 
+2, stuttered a bit in our testing. This was consistent with the fairly 
+average scores we got in our graphics benchmark tests. In GFXbench, the Honor 
+4X scored 9.3fps, and it scored 5,182 points in 3DMark Ice Storm. The scores in the CPU-intensive AnTuTu and Quadrant benchmarks were 
+more encouraging, and we managed to score 21,070 and 11,869 
+points respectively.
+
+We tried a selection of test videos and 
+all of them played without any hiccups, which included our heavily encoded 40Mbps one. Huawei doesn't bundle a headset in the box but we 
+did try the audio quality with our own earphones and it sounded 
+good. The loudspeaker doesn't get too loud, is tinny, and also 
+crackles at high volume. We remember facing the same problem with the 
+Huawei Honor 6's loudspeaker. 
+
+The call quality was good and we didn't 
+find any problem with it. In our battery test the phone lasted 11
+ hours and 16 minutes before it had to be charged. This is possible 
+thanks to the large 3000mAh battery, but do bear in mind that there are 
+other phones in the same price range, some with lower capacity batteries, that exhibit better performance.
+
+VerdictAfter
+ spending time with the Honor 4X we think that Huawei's idea of keeping 
+it simple works. It has decent performance coupled with good battery 
+life. Unfortunately, at Rs. 10,499, the Honor 4X is a bit more expensive than Yu Yureka and the Redmi Note 4G, both of which are better choices. The Yu Yureka has better benchmark scores and might be the best option among the three devices, but you will have to battle through weekly flash sales to be able to buy any of the three.
+

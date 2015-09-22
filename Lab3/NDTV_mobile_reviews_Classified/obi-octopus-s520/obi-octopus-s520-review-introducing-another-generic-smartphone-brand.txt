@@ -1,0 +1,279 @@
+Obi Octopus S520 Review: Introducing Another Generic Smartphone Brand
+
+Much
+ has been made of the fact that Obi Mobiles is backed by former Apple 
+CEO John Sculley, with some reports going to the extent of suggesting he
+ is on a mission to destroy his former employer. The real story is more 
+like this: Scully is the co-founder of Inflexionpoint, a Singapore-based
+ company that is promoting and investing in Obi Mobiles. The idea is to 
+start out in India and learn everything possible before expanding to 
+other emerging markets. Obi Mobiles will focus only on affordable phones and 
+is in no way trying to beat Apple at its own game - there's more 
+than enough market share to be had outside of Apple's target audience. 
+The company will be targeting first-time smartphone users, especially 
+the middle-class youth, and it says its formula will be to offer quality
+ products at low prices.The Octopus S520 is Obi's first launch. 
+It has a relatively low price tag and an octa-core processor, which 
+should help it grab attention. However, a lot has changed in the three 
+months since we first heard of Obi. We've reviewed the Octopus S520 
+thoroughly, and here are our impressions.Look and feelThe 
+Obi Octopus S520 looks just like any Android phone from local budget 
+brands. In fact, it's hard to tell it apart from the Xolo Q1200 - the 
+two are nearly identical other than a few details on the front panel and
+ the button placement on the sides. They look pretty much exactly the same from
+ the rear, down to the shape and placement of the camera lens.
+This is not a good start for Obi - if it's sourcing from the same 
+Chinese contract manufacturers as everyone else, we're left wondering 
+how it's going to live up to its high-value proposition.While 
+the Q1200 has all buttons on the left and a SIM card tray on the right, 
+the S520 has buttons on either side and a removable rear panel for 
+the battery, SIM cards and microSD card. The buttons are still the same 
+size and shape though. The Q1200 has two LED flashes and stereo speakers while the S520 has 
+one LED and a single speaker. Its front-facing camera is also above the earpiece rather than to 
+one side. The dimensions of both phones are the same, give or take a few 
+millimetres. These two were definitely cut from the same cloth. There
+ are no Obi logos printed anywhere on the phone (which is also quite 
+telling), but there is a rather ugly sticker on the rear. It even has 
+fake rivets, though it's clearly glued on. The one on our test unit was a
+ little crooked and fell off in less than a day, leaving an ugly smear 
+of adhesive.Comparisons aside, the S520 is pretty much a basic 
+rectangular Android candybar with a screen in the middle, three 
+capacitive buttons below it and an earpiece, sensor window and camera 
+above it, and shiny chrome border around the entire front. The 
+rear panel slides off with a little bit of fiddling (it looks like only 
+the plastic lower section comes off, but the aluminium middle panel is 
+attached to it and comes off too). We like the fact that the battery is 
+replaceable. The Octopus S520 can take one regular-sized Mini-SIM and 
+one Micro-SIM in addition to a microSD card for storage expansion. You'll
+ need to pull the battery out in order to swap any of these cards. 
+Interestingly, Obi is one of the few brands that prints radiation SAR 
+information on its handsets - the Octopus S520 is rated at 0.185W/kg@1g 
+(head) and 0.725W/kg@1g (body). The S520 comes with a unique 
+charger with a red LED strip around it, a USB cable, a headset, a screen
+ protector and an adhesive flip cover which are all of decent enough 
+quality.Overall, we aren't very impressed with Obi's debut 
+effort. We hope the company will take design more seriously in the 
+future, especially if it hopes to attract young buyers in a fiercely 
+competitive market.Specifications and softwareThings look 
+better on the inside, though. The aforementioned octa-core processor is 
+the same MediaTek MT6592 that we've seen on every other octa-core 
+handset so far. All cores can run simultaneously at up to 1.7GHz, and 
+are supported by a 700MHz Mali-450 MP4 graphics component. There's 1GB 
+of RAM and 8GB of internal storage space, of which around 5GB is 
+available. The screen is a 5-inch 720x1280-pixel IPS panel which looks 
+crisp and bright. There's GPS, Wi-Fi b/g/n, Bluetooth 4.0, and FM radio.
+ We're also happy to note that the S520 runs Android 4.4.2. The 
+skin is customised, but it isn't a huge departure from stock Android. 
+Icons are familiar, but the homescreens and app drawer use a weird 
+condensed font. Obi also uses the deprecated Menu button, so you can only get to 
+the task switcher by long-pressing the Home button.Obi has 
+preloaded Truecaller, a video editing app called Movie Studio, a file 
+manager, and a software update app. Other than that, there really isn't 
+much - not even the usual glut of Google apps. CameraThe placement of the camera lens right in one corner of the rear panel 
+makes it difficult to hold the phone without getting a finger or two in 
+the way. The app is fairly basic by Android standards.In 
+our experience with the Octopus S520, we found its camera to be quite 
+fussy. It was difficult to get good shots without the perfect lighting. Colours were somewhat inaccurate in our photos of natural vegetation, and exposure was a bit unbalanced. The amount of detail and noise varied significantly between shots depending on light conditions - even slightly cloudy conditions impacted photo quality.(Click to see full size)Indoor shots came out a lot better thanks to more controlled lighting, which came as a surprise. Predictably, close-ups fared much better than landscape shots. We were actually quite impressed with the level of detail it was possible to capture in well-lit close-up shots. Low light shots weren't terrible, but the flash is almost completely useless. The front camera is good enough for video chats, but you wouldn't want to publish full-size photos taken with it. Video is recorded at 720p by default and is smooth enough, but not especially clear.(Click to see full size)PerformanceThe
+ Obi Octopus S520 has quite a bit of power under its hood, and we liked 
+what we saw of its performance in our benchmark test suite. "Octa-core" 
+sounds great, but as with all current-generation MediaTek processors, 
+the number of cores is not indicative of relative performance. The S520 
+is at par with devices based on high-end quad-core Qualcomm processors 
+in terms of just number-crunching power, and lags in terms of graphics 
+capabilities.The AnTuTu score was 25,977 and the Quadrant 
+benchmark score was 16,876 overall. 3DMark's Ice Storm and Ice Storm 
+Extreme tests returned 6767 and 4814 marks respectively, and GFXbench 
+ran at 14.6fps.Gaming was quite snappy - the combination of 
+MT6592 processor and relatively low-resolution screen means the S520's 
+power and load are well balanced. Visuals are decent enough, and frame 
+rates never dropped below comfortable levels.Unsurprisingly, all 
+our HD videos played quite well - there was a bit of visual disturbance 
+in the heaviest 1080p file, but it still played smoothly. The built-in 
+speaker is tinny and pretty much every song and video we played was 
+distorted. The bundled headset also produces thin, lifeless sound, but 
+it's a lot clearer. It uses stiff rubber ear pads and you won't find 
+replacements or other sizes in the box.We noticed an odd flickering when the S520 was left idle with its screen on. We initially guessed this was being caused by the ambient light sensor, but the problem persisted even after switching between auto and manual brightness settings. Call quality is fair but 
+battery life was extremely disappointing. The S520 lasted only 4 hours, 
+56 minutes in our video loop test. Our impressions of the battery with 
+ordinary usage were consistent with this, and we wouldn't expect to get 
+through a full day with any more than light usage. VerdictThe
+ Obi Octopus S520 makes a weak first impression but eventually makes up 
+for that thanks to its good features and performance. The company will 
+have to do a lot better at differentiating itself, especially because it
+ will have to jostle for attention in a market filled with barely-known 
+brands. Despite falling short in terms of looks and build 
+quality, there's no denying that the Octopus S520's performance scores 
+were truly impressive, considering its price. It puts other phones in 
+and around its price level to shame, including the very popular Moto G. However,
+ there's another option: the Xiaomi Mi 3 doesn't cost all that much more
+ and is leagues ahead in every respect.  If you can increase your budget
+ by a little bit (and have the patience to go through Xiaomi's unusual 
+purchase process), it's clearly the better product. Obi Octopus S520 in pictures
+
+
+Much
+ has been made of the fact that Obi Mobiles is backed by former Apple 
+CEO John Sculley, with some reports going to the extent of suggesting he
+ is on a mission to destroy his former employer. The real story is more 
+like this: Scully is the co-founder of Inflexionpoint, a Singapore-based
+ company that is promoting and investing in Obi Mobiles. The idea is to 
+start out in India and learn everything possible before expanding to 
+other emerging markets. 
+
+Obi Mobiles will focus only on affordable phones and 
+is in no way trying to beat Apple at its own game - there's more 
+than enough market share to be had outside of Apple's target audience. 
+The company will be targeting first-time smartphone users, especially 
+the middle-class youth, and it says its formula will be to offer quality
+ products at low prices.
+
+The Octopus S520 is Obi's first launch. 
+It has a relatively low price tag and an octa-core processor, which 
+should help it grab attention. However, a lot has changed in the three 
+months since we first heard of Obi. We've reviewed the Octopus S520 
+thoroughly, and here are our impressions.
+
+Look and feelThe 
+Obi Octopus S520 looks just like any Android phone from local budget 
+brands. In fact, it's hard to tell it apart from the Xolo Q1200 - the 
+two are nearly identical other than a few details on the front panel and
+ the button placement on the sides. They look pretty much exactly the same from
+ the rear, down to the shape and placement of the camera lens.
+This is not a good start for Obi - if it's sourcing from the same 
+Chinese contract manufacturers as everyone else, we're left wondering 
+how it's going to live up to its high-value proposition.
+
+While 
+the Q1200 has all buttons on the left and a SIM card tray on the right, 
+the S520 has buttons on either side and a removable rear panel for 
+the battery, SIM cards and microSD card. The buttons are still the same 
+size and shape though. The Q1200 has two LED flashes and stereo speakers while the S520 has 
+one LED and a single speaker. Its front-facing camera is also above the earpiece rather than to 
+one side. The dimensions of both phones are the same, give or take a few 
+millimetres. These two were definitely cut from the same cloth. 
+
+There
+ are no Obi logos printed anywhere on the phone (which is also quite 
+telling), but there is a rather ugly sticker on the rear. It even has 
+fake rivets, though it's clearly glued on. The one on our test unit was a
+ little crooked and fell off in less than a day, leaving an ugly smear 
+of adhesive.
+
+Comparisons aside, the S520 is pretty much a basic 
+rectangular Android candybar with a screen in the middle, three 
+capacitive buttons below it and an earpiece, sensor window and camera 
+above it, and shiny chrome border around the entire front. 
+
+The 
+rear panel slides off with a little bit of fiddling (it looks like only 
+the plastic lower section comes off, but the aluminium middle panel is 
+attached to it and comes off too). We like the fact that the battery is 
+replaceable. The Octopus S520 can take one regular-sized Mini-SIM and 
+one Micro-SIM in addition to a microSD card for storage expansion. 
+
+You'll
+ need to pull the battery out in order to swap any of these cards. 
+Interestingly, Obi is one of the few brands that prints radiation SAR 
+information on its handsets - the Octopus S520 is rated at 0.185W/kg@1g 
+(head) and 0.725W/kg@1g (body). 
+
+The S520 comes with a unique 
+charger with a red LED strip around it, a USB cable, a headset, a screen
+ protector and an adhesive flip cover which are all of decent enough 
+quality.
+
+Overall, we aren't very impressed with Obi's debut 
+effort. We hope the company will take design more seriously in the 
+future, especially if it hopes to attract young buyers in a fiercely 
+competitive market.
+
+Specifications and softwareThings look 
+better on the inside, though. The aforementioned octa-core processor is 
+the same MediaTek MT6592 that we've seen on every other octa-core 
+handset so far. All cores can run simultaneously at up to 1.7GHz, and 
+are supported by a 700MHz Mali-450 MP4 graphics component. There's 1GB 
+of RAM and 8GB of internal storage space, of which around 5GB is 
+available. The screen is a 5-inch 720x1280-pixel IPS panel which looks 
+crisp and bright. There's GPS, Wi-Fi b/g/n, Bluetooth 4.0, and FM radio.
+ 
+
+We're also happy to note that the S520 runs Android 4.4.2. The 
+skin is customised, but it isn't a huge departure from stock Android. 
+Icons are familiar, but the homescreens and app drawer use a weird 
+condensed font. Obi also uses the deprecated Menu button, so you can only get to 
+the task switcher by long-pressing the Home button.
+
+Obi has 
+preloaded Truecaller, a video editing app called Movie Studio, a file 
+manager, and a software update app. Other than that, there really isn't 
+much - not even the usual glut of Google apps. 
+
+CameraThe placement of the camera lens right in one corner of the rear panel 
+makes it difficult to hold the phone without getting a finger or two in 
+the way. The app is fairly basic by Android standards.
+
+In 
+our experience with the Octopus S520, we found its camera to be quite 
+fussy. It was difficult to get good shots without the perfect lighting. Colours were somewhat inaccurate in our photos of natural vegetation, and exposure was a bit unbalanced. The amount of detail and noise varied significantly between shots depending on light conditions - even slightly cloudy conditions impacted photo quality.
+
+(Click to see full size)
+
+Indoor shots came out a lot better thanks to more controlled lighting, which came as a surprise. Predictably, close-ups fared much better than landscape shots. We were actually quite impressed with the level of detail it was possible to capture in well-lit close-up shots. Low light shots weren't terrible, but the flash is almost completely useless. 
+
+The front camera is good enough for video chats, but you wouldn't want to publish full-size photos taken with it. Video is recorded at 720p by default and is smooth enough, but not especially clear.
+
+(Click to see full size)
+
+PerformanceThe
+ Obi Octopus S520 has quite a bit of power under its hood, and we liked 
+what we saw of its performance in our benchmark test suite. "Octa-core" 
+sounds great, but as with all current-generation MediaTek processors, 
+the number of cores is not indicative of relative performance. The S520 
+is at par with devices based on high-end quad-core Qualcomm processors 
+in terms of just number-crunching power, and lags in terms of graphics 
+capabilities.
+
+The AnTuTu score was 25,977 and the Quadrant 
+benchmark score was 16,876 overall. 3DMark's Ice Storm and Ice Storm 
+Extreme tests returned 6767 and 4814 marks respectively, and GFXbench 
+ran at 14.6fps.
+
+Gaming was quite snappy - the combination of 
+MT6592 processor and relatively low-resolution screen means the S520's 
+power and load are well balanced. Visuals are decent enough, and frame 
+rates never dropped below comfortable levels.
+
+Unsurprisingly, all 
+our HD videos played quite well - there was a bit of visual disturbance 
+in the heaviest 1080p file, but it still played smoothly. The built-in 
+speaker is tinny and pretty much every song and video we played was 
+distorted. The bundled headset also produces thin, lifeless sound, but 
+it's a lot clearer. It uses stiff rubber ear pads and you won't find 
+replacements or other sizes in the box.
+
+We noticed an odd flickering when the S520 was left idle with its screen on. We initially guessed this was being caused by the ambient light sensor, but the problem persisted even after switching between auto and manual brightness settings.
+
+ Call quality is fair but 
+battery life was extremely disappointing. The S520 lasted only 4 hours, 
+56 minutes in our video loop test. Our impressions of the battery with 
+ordinary usage were consistent with this, and we wouldn't expect to get 
+through a full day with any more than light usage. 
+
+VerdictThe
+ Obi Octopus S520 makes a weak first impression but eventually makes up 
+for that thanks to its good features and performance. The company will 
+have to do a lot better at differentiating itself, especially because it
+ will have to jostle for attention in a market filled with barely-known 
+brands. 
+
+Despite falling short in terms of looks and build 
+quality, there's no denying that the Octopus S520's performance scores 
+were truly impressive, considering its price. It puts other phones in 
+and around its price level to shame, including the very popular Moto G. 
+
+However,
+ there's another option: the Xiaomi Mi 3 doesn't cost all that much more
+ and is leagues ahead in every respect.  If you can increase your budget
+ by a little bit (and have the patience to go through Xiaomi's unusual 
+purchase process), it's clearly the better product. 
+

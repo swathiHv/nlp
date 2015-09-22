@@ -1,0 +1,82 @@
+Microsoft Lumia 640 XL Dual SIM Review: Bigger Isn't Always Better
+
+Not too long ago, big-screen phones were called phablets, indicating their in-between status between the phones and tablets. Almost no one uses that term anymore, with large-screen smartphones now being known as, well, phones. Apple was pretty much the last one to acknowledge this trend, but last year's iPhone 6 and iPhone 6 Plus were lapped up in record numbers, indicating an almost insatiable consumer appetite for big-screen phones.
+Earlier, Microsoft Devices - then Nokia - had forayed into the world of large phones with the Lumia 1320 and Lumia 1520. While the 1520 was a flagship-class device, the 1320 was relatively modest in terms of specifications. The Lumia 640 XL Dual SIM - announced at MWC alongside the Lumia 640 Dual SIM and other variants - is in many ways a successor to the 1320, though the company stopped short of officially positioning it as such.
+Does the 640 XL pack in enough features and value to worry its Android brethren? Let's find out.
+Design and displayThe 640 XL Dual SIM is a quintessential Lumia - solidly built using good quality plastic, with a variety of colour options to choose from. It makes no effort to stand out in any way, and strange as that may sound, that's not necessarily a bad thing in our opinion.
+The Lumia 640 XL Dual SIM comes with a 5.7-inch 720p display. While the display has no issues when it comes to colour reproduction or viewing angles, the pixel density leaves a lot to be desired. This isn't noticeable while you are looking at live tiles or viewing pictures, but as soon as you start reading text, pixelation issues come to the fore.
+
+Microsoft's decision to use a 720p screen in a bid to keep the costs down is understandable, but on a 5.7-inch display, is perhaps a step too far. We'd highlighted similar concerns in our Lumia 1320 review, so nothing seems to have changed on that front.
+The pixelation problem wouldn't have been as bad if Microsoft had stuck to a 5-inch display; that would've certainly helped with our other complaint with the device - the top part of the screen is simply too hard to reach comfortably while using the phone with one hand.
+We've all become used to large-screen phones, most companies seem to have settled on 5.5-inch as the upper limit, though there have of course been outliers like the Google Nexus 6. The 5.7-inch display is actually smaller than the one of the Lumia 1520 and the 1320, but the phone still feels too bulky for day-to-day use.
+SoftwareLumia 640 XL runs Windows Phone 8.1 Update 2 out of the box, which includes all the features of the Lumia Denim update with some other enhancements. These new features include improvements to the Settings app, where you can get to any setting quickly by using the in-app search. You can also pin frequently-used individual settings (such as Wi-Fi) to your home screen as a live tile. Simply tap and hold down any setting and you'll see the pin to start option.
+
+Settings now also include app permissions that lets you control which apps have access to your Camera, Microphone, as well as Contacts, Messaging, and Calendar data.
+The Lumia 640 XL comes preloaded with a host of Lumia-branded apps like Lumia Beamer, Lumia Camera, Lumia Cinemagraph, Lumia Creative Studio, Lumia Moments, Lumia Selfie, and Lumia Storyteller. Pre-installed third-party apps include BBM, BookMyShow, Facebook, Fitbit, Foodpanda, MobiKwik, NDTV, Olacabs, and WeChat. Thankfully, you can uninstall these apps should you so desire.
+Unfortunately, there are no software tweaks that make use of the additional real estate - not even a token Reachability-like tweak seen on the newer, bigger iPhone models - and certainly nothing like Android's floating apps that put the increased screen space to great use. Having said that, most Android phones in this price range also suffer from the same faults, so it would be unfair to single Microsoft out on this point. The Lumia 640 XL will be upgradable to Windows 10, and this is one area where Microsoft certainly scores over the Android world.
+All UI elements are simply scaled up to the new size, which means there are other annoyances like increased space between rows of keys on the keyboard, which takes some getting used to.
+CameraOutdoors and in good lighting conditions, the 13-megapixel Lumia 640 XL camera captures decent details, though the images tend to be just a little-bit over-exposed with some amount of noise. Noise is more of an issue in low-light conditions, but overall the camera does a pretty decent job in terms of managing light and maintaining image quality. The flash does a decent job of lighting up the subjects evenly.
+
+The camera captures high-quality full-HD video with good audio clarity. The front camera is perfect for good quality selfies, even in low-light conditions.
+Performance and battery lifeThe Lumia 640 XL comes with a 1.2GHz Snapdragon 400 SoC with 1GB RAM. In synthetic benchmarks, the phone comes nowhere near Android phones that are now available at a similar price, but with Windows Phone's ability to play nice with limited resources, users are unlikely to find the difference as dramatic. We experienced no touchscreen issues like those that marred the Lumia 535 Dual SIM.
+The smartphone comes with 8GB of inbuilt storage, less than half of which is available to the end users, which means you'll need to factor in the purchase of a SD card should you wish to do anything useful with the 640 XL. The phone supports cards of up to 128GB capacity, and Windows Phone lets you install apps directly to the SD card, so this is not a huge downside other than the additional cost.
+
+The Lumia 640 XL comes with on-screen buttons for navigation, instead of physical buttons, which means navigating out of full-screen environments - like when you are viewing a picture or watching a movie - takes an additional swipe to first bring up the navigation buttons. This may not be a big deal for some, but we certainly wish Microsoft had gone with physical buttons instead.
+The phone features a 3000mAh battery that will easily last a day-and-a-half of heavy usage. The call quality is good and the loudspeaker - situated at the back - is pretty decent for calls as well as your dose of entertainment. You can double tap the display to wake up, which means you don't need to reach for the power button every time.
+VerdictDuring pre-launch interactions, Microsoft said it is positioning the Lumia 640 XL against Samsung's Grand series of mid-range, large-screen devices; explicitly dismissing the challenge posed by the likes of Xiaomi, Micromax, and others in the same segment. The company seems to have missed that the Grand series no longer enjoys the mindshare it once did, and by pricing the phone at Rs. 15,799, Microsoft certainly fails to acknowledge the existence of the Xiaomi Redmi Note and Micromax's Yu Yureka, amongst others that offer similar specifications - and an ecosystem with a much bigger collection of apps - at nearly half the price.
+Like nearly all Lumia phones, the Lumia 640 XL stands out for its battery life and camera performance, but overall it's hard to recommend this device to anyone given the options already available in the market.
+Microsoft Lumia 640 XL Dual SIM in pictures
+
+
+Not too long ago, big-screen phones were called phablets, indicating their in-between status between the phones and tablets. Almost no one uses that term anymore, with large-screen smartphones now being known as, well, phones. Apple was pretty much the last one to acknowledge this trend, but last year's iPhone 6 and iPhone 6 Plus were lapped up in record numbers, indicating an almost insatiable consumer appetite for big-screen phones.
+
+Earlier, Microsoft Devices - then Nokia - had forayed into the world of large phones with the Lumia 1320 and Lumia 1520. While the 1520 was a flagship-class device, the 1320 was relatively modest in terms of specifications. The Lumia 640 XL Dual SIM - announced at MWC alongside the Lumia 640 Dual SIM and other variants - is in many ways a successor to the 1320, though the company stopped short of officially positioning it as such.
+
+Does the 640 XL pack in enough features and value to worry its Android brethren? Let's find out.
+
+Design and displayThe 640 XL Dual SIM is a quintessential Lumia - solidly built using good quality plastic, with a variety of colour options to choose from. It makes no effort to stand out in any way, and strange as that may sound, that's not necessarily a bad thing in our opinion.
+
+The Lumia 640 XL Dual SIM comes with a 5.7-inch 720p display. While the display has no issues when it comes to colour reproduction or viewing angles, the pixel density leaves a lot to be desired. This isn't noticeable while you are looking at live tiles or viewing pictures, but as soon as you start reading text, pixelation issues come to the fore.
+
+
+
+Microsoft's decision to use a 720p screen in a bid to keep the costs down is understandable, but on a 5.7-inch display, is perhaps a step too far. We'd highlighted similar concerns in our Lumia 1320 review, so nothing seems to have changed on that front.
+
+The pixelation problem wouldn't have been as bad if Microsoft had stuck to a 5-inch display; that would've certainly helped with our other complaint with the device - the top part of the screen is simply too hard to reach comfortably while using the phone with one hand.
+
+We've all become used to large-screen phones, most companies seem to have settled on 5.5-inch as the upper limit, though there have of course been outliers like the Google Nexus 6. The 5.7-inch display is actually smaller than the one of the Lumia 1520 and the 1320, but the phone still feels too bulky for day-to-day use.
+
+SoftwareLumia 640 XL runs Windows Phone 8.1 Update 2 out of the box, which includes all the features of the Lumia Denim update with some other enhancements. These new features include improvements to the Settings app, where you can get to any setting quickly by using the in-app search. You can also pin frequently-used individual settings (such as Wi-Fi) to your home screen as a live tile. Simply tap and hold down any setting and you'll see the pin to start option.
+
+
+
+Settings now also include app permissions that lets you control which apps have access to your Camera, Microphone, as well as Contacts, Messaging, and Calendar data.
+
+The Lumia 640 XL comes preloaded with a host of Lumia-branded apps like Lumia Beamer, Lumia Camera, Lumia Cinemagraph, Lumia Creative Studio, Lumia Moments, Lumia Selfie, and Lumia Storyteller. Pre-installed third-party apps include BBM, BookMyShow, Facebook, Fitbit, Foodpanda, MobiKwik, NDTV, Olacabs, and WeChat. Thankfully, you can uninstall these apps should you so desire.
+
+Unfortunately, there are no software tweaks that make use of the additional real estate - not even a token Reachability-like tweak seen on the newer, bigger iPhone models - and certainly nothing like Android's floating apps that put the increased screen space to great use. Having said that, most Android phones in this price range also suffer from the same faults, so it would be unfair to single Microsoft out on this point. The Lumia 640 XL will be upgradable to Windows 10, and this is one area where Microsoft certainly scores over the Android world.
+
+All UI elements are simply scaled up to the new size, which means there are other annoyances like increased space between rows of keys on the keyboard, which takes some getting used to.
+
+CameraOutdoors and in good lighting conditions, the 13-megapixel Lumia 640 XL camera captures decent details, though the images tend to be just a little-bit over-exposed with some amount of noise. Noise is more of an issue in low-light conditions, but overall the camera does a pretty decent job in terms of managing light and maintaining image quality. The flash does a decent job of lighting up the subjects evenly.
+
+
+
+The camera captures high-quality full-HD video with good audio clarity. The front camera is perfect for good quality selfies, even in low-light conditions.
+
+Performance and battery lifeThe Lumia 640 XL comes with a 1.2GHz Snapdragon 400 SoC with 1GB RAM. In synthetic benchmarks, the phone comes nowhere near Android phones that are now available at a similar price, but with Windows Phone's ability to play nice with limited resources, users are unlikely to find the difference as dramatic. We experienced no touchscreen issues like those that marred the Lumia 535 Dual SIM.
+
+The smartphone comes with 8GB of inbuilt storage, less than half of which is available to the end users, which means you'll need to factor in the purchase of a SD card should you wish to do anything useful with the 640 XL. The phone supports cards of up to 128GB capacity, and Windows Phone lets you install apps directly to the SD card, so this is not a huge downside other than the additional cost.
+
+
+
+The Lumia 640 XL comes with on-screen buttons for navigation, instead of physical buttons, which means navigating out of full-screen environments - like when you are viewing a picture or watching a movie - takes an additional swipe to first bring up the navigation buttons. This may not be a big deal for some, but we certainly wish Microsoft had gone with physical buttons instead.
+
+The phone features a 3000mAh battery that will easily last a day-and-a-half of heavy usage. The call quality is good and the loudspeaker - situated at the back - is pretty decent for calls as well as your dose of entertainment. You can double tap the display to wake up, which means you don't need to reach for the power button every time.
+
+VerdictDuring pre-launch interactions, Microsoft said it is positioning the Lumia 640 XL against Samsung's Grand series of mid-range, large-screen devices; explicitly dismissing the challenge posed by the likes of Xiaomi, Micromax, and others in the same segment. The company seems to have missed that the Grand series no longer enjoys the mindshare it once did, and by pricing the phone at Rs. 15,799, Microsoft certainly fails to acknowledge the existence of the Xiaomi Redmi Note and Micromax's Yu Yureka, amongst others that offer similar specifications - and an ecosystem with a much bigger collection of apps - at nearly half the price.
+
+Like nearly all Lumia phones, the Lumia 640 XL stands out for its battery life and camera performance, but overall it's hard to recommend this device to anyone given the options already available in the market.
+
+Microsoft Lumia 640 XL Dual SIM in pictures
+

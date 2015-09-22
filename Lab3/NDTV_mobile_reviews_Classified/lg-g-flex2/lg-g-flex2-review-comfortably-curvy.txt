@@ -1,0 +1,261 @@
+LG G Flex2 Review: Comfortably Curvy
+
+Last
+ year, LG flirted with innovation when it announced the G Flex (Review | Pictures), which 
+had a unique 6-inch curved screen. 
+However, this phone was an experiment at best and had more than its fair share of 
+problems. The 720p screen was no match for its competition, the phone was too unwieldy, and it had an exorbitant 
+price tag. After taking a look at the complaints and going back 
+to the drawing board, this year LG introduced an upgraded version, the G 
+Flex2. This new phone has a smaller footprint and a 1080p display, apart
+ from a couple of other improvements. For example, the 
+self-healing coating on the rear is more resilient and apparently the 
+Gorilla Glass screen protection is tougher. Moreover, the G Flex2 is the first phone using Qualcomm's latest and 
+greatest octa-core 64-bit SoC, the Snapdragon 810. Are the curves better on the LG G Flex2? Let's find out. Look and feelLike
+ the original, the G Flex2 has a distinctive design mostly thanks to its curve. In our time reviewing it, we found that It turned heads and piqued people's curiosity. The Flamingo Red colour of our review unit was especially 
+striking, but the phone is also available in a more subtle silver. Compared to
+ the original, the G Flex2 is perceptibly lighter, slimmer, more 
+compact, and easier to use with one hand. However, this doesn't mean that 
+the phone is suited for one-handed operation.LG has covered the 
+rear with a self-healing coating (also present on the G Flex) which
+ can recover from scratches. The slimy texture of this coating caused us to 
+lose our grip on the phone on a number of occasions. LG claims that the self-healing back now takes just 10 seconds to heal after being 
+scratched at room temperature. This is significantly lower 
+than G Flex's rating of three minutes. We scratched the back and it did heal 
+itself pretty fast but the 10 second estimate feels a little far-fetched. The G 
+Flex2 can also bend under pressure applied to its rear, and goes back to its original shape faster than its predecessor did. Just like the LG G2 (Review), G3 (Review | Pictures), and the G 
+Flex, the G Flex2 has its power button wedged in between the volume
+ controls on the rear. The textured pattern on the volume buttons makes 
+it easy to distinguish the from the power button. The tactile feedback
+ is pretty decent too. The primary camera lies above this cluster and is 
+flanked by the dual-LED flash and the laser autofocus window.The front has a 700mm-radius curvature, while the rear is 
+slightly sharper with a 650mm-radius curvature for grip. The
+ front of the G Flex 2 is taken up by the 5.5-inch screen and LG 
+decided to go with on-screen buttons to navigate 
+through the operating system. The earpiece, LED indicator, front camera,
+ and the ambient light sensors are all placed above the display.Specifications and softwareThe phone rocks a very powerful Qualcomm Snapdragon 810 octa-core 
+processor with four ARM Cortex-A53 cores running at 1.5GHz and four Cortex-A57 
+cores running at 2GHz. Completing the SoC is an Adreno 430 GPU. The specific G Flex2 model available in India has 2GB of RAM and 16GB of internal storage 
+space, which can be expanded by up to 2TB, according
+ to LG. Don't get too excited because only 128GB microSD cards are 
+available at the moment. The phone has a plethora of 
+sensors: an accelerometer, a gyroscope, a proximity sensor, and a compass. The lack of support
+ for 4G on the 2300MHz band is a big letdown because this  means 
+that most Indian 4G networks won't be accessible. The
+ connectivity options include Wi-Fi a/b/g/n/ac, Bluetooth v4.1
+ with aptX, and Infrared. LG has gone with a 13-megapixel primary camera
+with optical image stabilisation (OIS) on the rear, ably 
+supported by a laser autofocus system lifted from the LG G3, and a dual-LED 
+flash. Flip the phone over and you will find a 2.1-megapixel camera on 
+the front. The compact body of the phone means that LG had to reduce the
+ capacity and size of the battery - the G Flex 2 has a 3000mAh battery 
+compared to 3500mAh one on its predecessor. The inch 
+curved 5.5-inch P-OLED panel has a resolution of 1080p. It is crisp and 
+adequately vibrant, and definitely much better than the screen on the G 
+Flex. Thanks to the curve of the screen content just looks immersive. 
+Watching videos, reading long articles, and playing games are a treat on
+ this curved screen. This is the only real advantage of having a curved 
+screen. The viewing angles are top-notch and cranking up the 
+brightness keeps reflections under control even under sunlight. The G Flex 2 runs Android
+ 5.0 Lollipop and LG has slapped its custom UI on top of it. The UI is 
+clean and has a flat look, though it's a far cry from the look 
+of vanilla Android Lollipop. LG keeps unwanted bloatware to a bare 
+minimum which is great. A new software feature called Glance allows 
+users to swipe down from the top of the screen when the phone is locked
+ to see the status bar and recent notifications. KnockCode (a customised 
+code to unlock the phone) and KnockOn (two taps to wake the screen), 
+features already introduced by LG in its previous phones, are also present
+ here. CameraLG has surprisingly stripped the default 
+camera app to its bare basics and there are only three modes - Auto, 
+Panorama and Dual. The Dual mode is a new, but not innovative, addition 
+to the app which allows users to use both cameras at once to create a
+ picture-in-picture image.(Click for full size)The 13-megapixel camera captures some 
+good details and natural colours, and can lock focus on a subject really quickly. We think a few people might find the colours a little 
+too muted for their taste. We did notice very evident barrel 
+distortion along the edges, which was a bit jarring. The HDR mode does a
+ great job of protecting images from getting over-exposed due to 
+harsh light. (Click for full size)In
+ low light, the rear camera does a decent job. We got 
+some detailed shots but the camera couldn't do much to reduce noise.
+ The OIS also helps. Moreover, the OIS system is a great asset for 
+shooting shake-free videos. The quality of 4K videos that we recorded 
+was really top-notch but it is a pity that the camera restricts clip length to 5 minutes. The selfies captured by the 2.1-megapixel 
+camera were average at best although you can use the in-built beauty 
+mode to reduce blemishes on the face. (Click for full size)PerformanceWe were 
+eager to test the Snapdragon 810 SoC considering the controversy 
+surrounding it. And yes, it has heating issues. Even slightly strenuous 
+tasks like capturing images caused the upper portion of the rear to 
+heat up. Moreover, processor throttling 
+causes simple tasks like swiping the notifications shade down to stutter
+ at times. Such erratic performance is unpardonable for a flagship 
+device.We have benchmark scores for 
+those interested but don't go on these numbers alone to gauge the capabilities 
+of the G Flex 2. AnTuTu and Quadrant returned scores of 49,882 and 
+29,223 respectively, which are stupendous. As expected 3DMark Ice 
+Storm's Basic and Extreme tests were maxed out and in Unlimited the 
+phone scored a healthy 17,358. The G Flex2 blazed through all 
+our video test files. The sound quality over the loudspeaker was low and
+ tinny. The bundled earphones have a great sound and one 
+wouldn't need to replace them. The sound quality in calls was really 
+good too and the phone does a great job of holding on to the connection 
+in congested as well. In our battery test the phone lasted 8 hours and 6 minutes, 
+which is lower than what the G Flex achieved indicating that the 
+decision to go for a smaller battery was probably wrong. Even in daily 
+usage we noticed that the battery life wasn't too great. VerdictLG's attempts to create a viable curved 
+smartphone for the masses seem to be thwarted by nagging issues - this 
+time it is the performance of the processor. It is not something users 
+can't live without but considering the phone costs north of Rs. 50,000, 
+such minor shortcomings are unforgivable.Interested buyers can 
+pick up the G Flex2 for its novelty factor. Practically, if you have so 
+much to spend we'd suggest you take a look at the iPhone 6 (Review | Pictures) or the 
+Samsung Galaxy S6 (Review | Pictures) instead. In fact, we'd even recommend the Galaxy S6's 
+wackier sibling - the Galaxy S6 Edge (Review | Pictures) - over the LG G Flex2 plainly because it is more stable. 
+LG G Flex2 in pictures
+
+Last
+ year, LG flirted with innovation when it announced the G Flex (Review | Pictures), which 
+had a unique 6-inch curved screen. 
+However, this phone was an experiment at best and had more than its fair share of 
+problems. The 720p screen was no match for its competition, the phone was too unwieldy, and it had an exorbitant 
+price tag. 
+
+After taking a look at the complaints and going back 
+to the drawing board, this year LG introduced an upgraded version, the G 
+Flex2. This new phone has a smaller footprint and a 1080p display, apart
+ from a couple of other improvements. For example, the 
+self-healing coating on the rear is more resilient and apparently the 
+Gorilla Glass screen protection is tougher. Moreover, the G Flex2 is the first phone using Qualcomm's latest and 
+greatest octa-core 64-bit SoC, the Snapdragon 810. 
+
+Are the curves better on the LG G Flex2? Let's find out. 
+
+Look and feelLike
+ the original, the G Flex2 has a distinctive design mostly thanks to its curve. In our time reviewing it, we found that It turned heads and piqued people's curiosity. The Flamingo Red colour of our review unit was especially 
+striking, but the phone is also available in a more subtle silver. Compared to
+ the original, the G Flex2 is perceptibly lighter, slimmer, more 
+compact, and easier to use with one hand. However, this doesn't mean that 
+the phone is suited for one-handed operation.
+
+LG has covered the 
+rear with a self-healing coating (also present on the G Flex) which
+ can recover from scratches. The slimy texture of this coating caused us to 
+lose our grip on the phone on a number of occasions. LG claims that the self-healing back now takes just 10 seconds to heal after being 
+scratched at room temperature. This is significantly lower 
+than G Flex's rating of three minutes. We scratched the back and it did heal 
+itself pretty fast but the 10 second estimate feels a little far-fetched. 
+
+The G 
+Flex2 can also bend under pressure applied to its rear, and goes back to its original shape faster than its predecessor did. Just like the LG G2 (Review), G3 (Review | Pictures), and the G 
+Flex, the G Flex2 has its power button wedged in between the volume
+ controls on the rear. The textured pattern on the volume buttons makes 
+it easy to distinguish the from the power button. The tactile feedback
+ is pretty decent too. The primary camera lies above this cluster and is 
+flanked by the dual-LED flash and the laser autofocus window.
+
+The front has a 700mm-radius curvature, while the rear is 
+slightly sharper with a 650mm-radius curvature for grip. The
+ front of the G Flex 2 is taken up by the 5.5-inch screen and LG 
+decided to go with on-screen buttons to navigate 
+through the operating system. The earpiece, LED indicator, front camera,
+ and the ambient light sensors are all placed above the display.
+
+Specifications and softwareThe phone rocks a very powerful Qualcomm Snapdragon 810 octa-core 
+processor with four ARM Cortex-A53 cores running at 1.5GHz and four Cortex-A57 
+cores running at 2GHz. Completing the SoC is an Adreno 430 GPU. The specific G Flex2 model available in India has 2GB of RAM and 16GB of internal storage 
+space, which can be expanded by up to 2TB, according
+ to LG. Don't get too excited because only 128GB microSD cards are 
+available at the moment. 
+
+The phone has a plethora of 
+sensors: an accelerometer, a gyroscope, a proximity sensor, and a compass. The lack of support
+ for 4G on the 2300MHz band is a big letdown because this  means 
+that most Indian 4G networks won't be accessible. The
+ connectivity options include Wi-Fi a/b/g/n/ac, Bluetooth v4.1
+ with aptX, and Infrared. LG has gone with a 13-megapixel primary camera
+with optical image stabilisation (OIS) on the rear, ably 
+supported by a laser autofocus system lifted from the LG G3, and a dual-LED 
+flash. Flip the phone over and you will find a 2.1-megapixel camera on 
+the front. The compact body of the phone means that LG had to reduce the
+ capacity and size of the battery - the G Flex 2 has a 3000mAh battery 
+compared to 3500mAh one on its predecessor. 
+
+The inch 
+curved 5.5-inch P-OLED panel has a resolution of 1080p. It is crisp and 
+adequately vibrant, and definitely much better than the screen on the G 
+Flex. Thanks to the curve of the screen content just looks immersive. 
+Watching videos, reading long articles, and playing games are a treat on
+ this curved screen. This is the only real advantage of having a curved 
+screen. The viewing angles are top-notch and cranking up the 
+brightness keeps reflections under control even under sunlight. 
+
+The G Flex 2 runs Android
+ 5.0 Lollipop and LG has slapped its custom UI on top of it. The UI is 
+clean and has a flat look, though it's a far cry from the look 
+of vanilla Android Lollipop. LG keeps unwanted bloatware to a bare 
+minimum which is great. A new software feature called Glance allows 
+users to swipe down from the top of the screen when the phone is locked
+ to see the status bar and recent notifications. KnockCode (a customised 
+code to unlock the phone) and KnockOn (two taps to wake the screen), 
+features already introduced by LG in its previous phones, are also present
+ here. 
+
+CameraLG has surprisingly stripped the default 
+camera app to its bare basics and there are only three modes - Auto, 
+Panorama and Dual. The Dual mode is a new, but not innovative, addition 
+to the app which allows users to use both cameras at once to create a
+ picture-in-picture image.
+
+(Click for full size)The 13-megapixel camera captures some 
+good details and natural colours, and can lock focus on a subject really quickly. We think a few people might find the colours a little 
+too muted for their taste. We did notice very evident barrel 
+distortion along the edges, which was a bit jarring. The HDR mode does a
+ great job of protecting images from getting over-exposed due to 
+harsh light. 
+
+(Click for full size)In
+ low light, the rear camera does a decent job. We got 
+some detailed shots but the camera couldn't do much to reduce noise.
+ The OIS also helps. Moreover, the OIS system is a great asset for 
+shooting shake-free videos. The quality of 4K videos that we recorded 
+was really top-notch but it is a pity that the camera restricts clip length to 5 minutes. The selfies captured by the 2.1-megapixel 
+camera were average at best although you can use the in-built beauty 
+mode to reduce blemishes on the face. 
+
+(Click for full size)PerformanceWe were 
+eager to test the Snapdragon 810 SoC considering the controversy 
+surrounding it. And yes, it has heating issues. Even slightly strenuous 
+tasks like capturing images caused the upper portion of the rear to 
+heat up. Moreover, processor throttling 
+causes simple tasks like swiping the notifications shade down to stutter
+ at times. Such erratic performance is unpardonable for a flagship 
+device.
+
+We have benchmark scores for 
+those interested but don't go on these numbers alone to gauge the capabilities 
+of the G Flex 2. AnTuTu and Quadrant returned scores of 49,882 and 
+29,223 respectively, which are stupendous. As expected 3DMark Ice 
+Storm's Basic and Extreme tests were maxed out and in Unlimited the 
+phone scored a healthy 17,358. 
+
+The G Flex2 blazed through all 
+our video test files. The sound quality over the loudspeaker was low and
+ tinny. The bundled earphones have a great sound and one 
+wouldn't need to replace them. The sound quality in calls was really 
+good too and the phone does a great job of holding on to the connection 
+in congested as well. In our battery test the phone lasted 8 hours and 6 minutes, 
+which is lower than what the G Flex achieved indicating that the 
+decision to go for a smaller battery was probably wrong. Even in daily 
+usage we noticed that the battery life wasn't too great. 
+
+VerdictLG's attempts to create a viable curved 
+smartphone for the masses seem to be thwarted by nagging issues - this 
+time it is the performance of the processor. It is not something users 
+can't live without but considering the phone costs north of Rs. 50,000, 
+such minor shortcomings are unforgivable.
+
+Interested buyers can 
+pick up the G Flex2 for its novelty factor. Practically, if you have so 
+much to spend we'd suggest you take a look at the iPhone 6 (Review | Pictures) or the 
+Samsung Galaxy S6 (Review | Pictures) instead. In fact, we'd even recommend the Galaxy S6's 
+wackier sibling - the Galaxy S6 Edge (Review | Pictures) - over the LG G Flex2 plainly because it is more stable. 
+

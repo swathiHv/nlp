@@ -1,0 +1,243 @@
+Huawei Honor 6 Review: The Best Smartphone Under Rs. 20,000?
+
+The year 2014 has seen Chinese smartphone companies trying to 
+overwhelm Indian buyers with choices. Making this an even sweeter deal is 
+the fact that many of the smartphones that have been introduced have top-of-the-line specifications and are not priced exorbitantly. 
+More importantly, the perception that Chinese smartphones are either 
+cheap knock-offs or of poor quality is slowly being erased from the 
+minds of skeptical Indian consumers. Huawei,
+ a brand known in India for its routers and data cards, has announced an exclusive collaboration with Flipkart to sell the Honor 6 at Rs. 19,999. The SoC inside was developed in-house, and so was the 
+Emotion UI skin on top of Android 4.4.2 (KitKat). This makes the Honor 6
+ an out-and-out Chinese smartphone. Let's find out how it stacks up 
+against the likes of the Xiaomi, Gionee, Oppo and Lenovo, and other companies which have phones in the same price range. Look and feelThe
+ Huawei Honor 6 looks like the lovechild of an Apple iPhone 4S and a Lava 
+Iris Pro 30 (Review | Pictures). The phone has a fake glass back, which resembles the actual
+ glass back of the iPhone 4S but in this case is susceptible to scratches. We 
+suggest using a protective cover with the phone. There is also a fake 
+metallic trim running around the edges that is reminiscent of the Lava 
+Iris Pro 30 (and its near-twin, the Iris Pro 20).The phone is made entirely of 
+plastic which helps in keeping the weight to just 130g, making it pretty 
+comfortable to hold. Aiding the ergonomics is the 7.5mm thickness and 
+the thin bezels around the 5-inch screen. The phone is available in 
+black and white colour options. We think the design of the phone is
+ uninspiring and lacks originality. The volume rocker and power button sit on the right edge of the phone and sit almost flush with the edge 
+which affects their tactile feedback. Also present on the
+ right edge is a flap that conceals the slots for a Micro-SIM card and a
+ microSD card. On the bottom, one can find a 
+Micro-USB port and a microphone for calls. The top edge has a 3.5mm 
+jack, another microphone and an IR 
+blaster. For navigation purposes, the Huawei Honor 6 has on-screen 
+buttons. Above the display, there is a notification LED, a cutout for 
+sensors, an earpiece, and a front-facing camera. The rear has the primary
+ camera with dual-LED flash in the top left corner, which once again 
+looks similar to the iPhone's design. There is a small 
+speaker grill in the lower left corner. The battery 
+compartment on this phone is not accessible.Specifications, software and cameraThe
+ SoC inside the Honor 6 includes a Kirin 920 octa-core processor, which uses four 1.7 GHz Cortex-A15 cores and four 1.3 GHz Cortex-A7 cores. This was developed by HiSilicon, a subsidiary 
+of Huawei.  The SoC 
+also has the decidedly mid-range Mali-T628 MP4 GPU. Huawei provides an 
+ample 3GB of RAM, which we believe should be more than sufficient for 
+Android to run smoothly. There is 16GB of internal storage space which
+can be expanded by 64GB using a microSD card. There is a 
+13-megapixel primary camera with dual-LED flash and a 5-megapixel 
+front-facing camera. The phone can connect to LTE networks, including newer Cat 6 LTE ones, though the 2.3GHz band used by Indian service providers is not supported. With respect to the 
+other connectivity options, there is Wi-Fi, Bluetooth and NFC. The
+ 5-inch LCD display has a resolution of 1080x1920 translating to a pixel
+ density of 445ppi. The problem with this screen is that it is not an IPS
+ panel and as a result the viewing angles are not that great. The 
+pixel-dense display has cool colours with a slight blue tint but we like
+ the fact that the screen isn't oversaturated like S-AMOLED panels tend to be. Sunlight legibility also suffers. All said and done, this is one of the better 
+screens you can find on a phone that costs less than Rs. 20,000.Like many other phones
+ being launched lately, the Honor 6 runs Android 4.4.2. Huawei slaps on its 
+proprietary Emotion UI 2.3 which feels rather nifty. Huawei is also 
+working on Emotion UI 3.0, which is expected to launch soon.The lockscreen wallpaper changes 
+every time you wake up the screen.Swiping down from the bottom brings up
+ a few shortcuts to applications and settings that are used often. The unlocking 
+animation is smooth and looks good. There is no app drawer; all the app icons
+ are lined up on the homescreens. We encountered a few design 
+inconsistencies such as text alignment issues but they were not too common.
+ The notification shade is filled with a ton of options and frankly it 
+feels a little overwhelming. To make use of the fairly large 
+screen, Huawei has incorporated a Suspend button that sticks to the edges of the
+ screen and can be moved around. Tapping it opens up a half-wheel with tons of 
+options and mini versions of apps that can be moved around the screen. 
+There are three themes and there doesn't seem to be any option to 
+add more. The music app can shuffle songs according to moods such as serene, happy, sad and energetic. Thankfully, there aren't too 
+many third party apps; only the useful Kingsoft 
+Office suite and a File Manager. While there is an IR blaster, there is no app that can make use of 
+this hardware. We tried a third-party app and it failed to work.
+  The Honor 6 uses a slightly modified version of the 
+Android Gingerbread camera app. It has quite a few shooting modes including Normal, Smart, Beauty, Watermark, Panorama, Best Photo and HDR. There 
+are a few filters as well. Manual settings allow power users to 
+manipulate settings such as the ISO and white balance.(Click for full size)The 13-megapixel 
+rear camera is a bit of a mixed bag. It performs decently in low light 
+with a fair amount of detail, as the lens manages to capture enough quite a bit of ambient light. The accurate colour 
+reproduction in daylight shots is great but unfortunately, in both our daylight and 
+low-light testing, we noticed that noise levels were a bit too high. The 1080p video we recorded had issues with image 
+stabilisation and exposure control. Surprisingly, the 5-megapixel 
+front-facing camera is really good. The selfies we captured had good 
+amounts of detail and the image quality is bound to make habitual selfie-takers happy.  PerformanceAs usual we ran our regular suite of 
+benchmarks. The Kirin 920 processor screams through AnTutTu 5 and we 
+managed to get a score of 40,700. Quadrant Standard, on the 
+other hand, returned a score of only 11,656. The Mali-T628 MP4 GPU is not
+ much of a performer which reflects in the GFXbench score of 17.5fps and
+the 3DMark Ice Storm (>720p) score of 9026. All these scores aside, the 
+phone is extremely fast in daily use and we faced no lags at all. Even 
+some high-end games like Asphalt 8 and Dead Trigger 2 work mostly 
+without lags. The performance of the phone is comparable to that of other 
+flagships.We played a few test videos and surprisingly the 1080p 
+videos refused to work in the default player. Other videos played just 
+fine. The speakers are adequately loud but they crackle at high volume. 
+Despite featuring Dolby DTS technology, the sound 
+quality using headphones is sub-par. Even the earpiece volume is really low in phone calls. The Honor 6 has a 3000mAh battery and in our 
+intensive test it lasted us 7 hours and 18 minutes. Also, there are some
+ really nice power saving features in the software that can extend the 
+battery life. VerdictThere is no doubt that the Huawei 
+Honor 6 is a strong contender in the sub-Rs. 20,000 price range. The phone 
+performs really well, and has a big and crisp screen as well as good battery life. It also has a ton of connectivity features and a fairly decent 
+front-facing camera. If you can look past the uninspiring design and 
+middling rear camera performance, the Huawei Honor 6 is no doubt a good buy. 
+You can also take a look at the Asus ZenFone 6 (Review | Pictures) and the newly launched 
+HTC Desire 816G.  
+Huawei Honor 6 in pictures
+
+The year 2014 has seen Chinese smartphone companies trying to 
+overwhelm Indian buyers with choices. Making this an even sweeter deal is 
+the fact that many of the smartphones that have been introduced have top-of-the-line specifications and are not priced exorbitantly. 
+More importantly, the perception that Chinese smartphones are either 
+cheap knock-offs or of poor quality is slowly being erased from the 
+minds of skeptical Indian consumers. 
+
+Huawei,
+ a brand known in India for its routers and data cards, has announced an exclusive collaboration with Flipkart to sell the Honor 6 at Rs. 19,999. The SoC inside was developed in-house, and so was the 
+Emotion UI skin on top of Android 4.4.2 (KitKat). This makes the Honor 6
+ an out-and-out Chinese smartphone. Let's find out how it stacks up 
+against the likes of the Xiaomi, Gionee, Oppo and Lenovo, and other companies which have phones in the same price range. 
+
+Look and feelThe
+ Huawei Honor 6 looks like the lovechild of an Apple iPhone 4S and a Lava 
+Iris Pro 30 (Review | Pictures). The phone has a fake glass back, which resembles the actual
+ glass back of the iPhone 4S but in this case is susceptible to scratches. We 
+suggest using a protective cover with the phone. There is also a fake 
+metallic trim running around the edges that is reminiscent of the Lava 
+Iris Pro 30 (and its near-twin, the Iris Pro 20).
+
+The phone is made entirely of 
+plastic which helps in keeping the weight to just 130g, making it pretty 
+comfortable to hold. Aiding the ergonomics is the 7.5mm thickness and 
+the thin bezels around the 5-inch screen. The phone is available in 
+black and white colour options. We think the design of the phone is
+ uninspiring and lacks originality. 
+
+The volume rocker and power button sit on the right edge of the phone and sit almost flush with the edge 
+which affects their tactile feedback. Also present on the
+ right edge is a flap that conceals the slots for a Micro-SIM card and a
+ microSD card. On the bottom, one can find a 
+Micro-USB port and a microphone for calls. The top edge has a 3.5mm 
+jack, another microphone and an IR 
+blaster. 
+
+For navigation purposes, the Huawei Honor 6 has on-screen 
+buttons. Above the display, there is a notification LED, a cutout for 
+sensors, an earpiece, and a front-facing camera. The rear has the primary
+ camera with dual-LED flash in the top left corner, which once again 
+looks similar to the iPhone's design. There is a small 
+speaker grill in the lower left corner. The battery 
+compartment on this phone is not accessible.
+
+Specifications, software and cameraThe
+ SoC inside the Honor 6 includes a Kirin 920 octa-core processor, which uses four 1.7 GHz Cortex-A15 cores and four 1.3 GHz Cortex-A7 cores. This was developed by HiSilicon, a subsidiary 
+of Huawei.  The SoC 
+also has the decidedly mid-range Mali-T628 MP4 GPU. Huawei provides an 
+ample 3GB of RAM, which we believe should be more than sufficient for 
+Android to run smoothly. There is 16GB of internal storage space which
+can be expanded by 64GB using a microSD card. 
+
+There is a 
+13-megapixel primary camera with dual-LED flash and a 5-megapixel 
+front-facing camera. The phone can connect to LTE networks, including newer Cat 6 LTE ones, though the 2.3GHz band used by Indian service providers is not supported. With respect to the 
+other connectivity options, there is Wi-Fi, Bluetooth and NFC. 
+
+The
+ 5-inch LCD display has a resolution of 1080x1920 translating to a pixel
+ density of 445ppi. The problem with this screen is that it is not an IPS
+ panel and as a result the viewing angles are not that great. The 
+pixel-dense display has cool colours with a slight blue tint but we like
+ the fact that the screen isn't oversaturated like S-AMOLED panels tend to be. Sunlight legibility also suffers. All said and done, this is one of the better 
+screens you can find on a phone that costs less than Rs. 20,000.
+
+Like many other phones
+ being launched lately, the Honor 6 runs Android 4.4.2. Huawei slaps on its 
+proprietary Emotion UI 2.3 which feels rather nifty. Huawei is also 
+working on Emotion UI 3.0, which is expected to launch soon.
+
+The lockscreen wallpaper changes 
+every time you wake up the screen.Swiping down from the bottom brings up
+ a few shortcuts to applications and settings that are used often. The unlocking 
+animation is smooth and looks good. There is no app drawer; all the app icons
+ are lined up on the homescreens. We encountered a few design 
+inconsistencies such as text alignment issues but they were not too common.
+ The notification shade is filled with a ton of options and frankly it 
+feels a little overwhelming. 
+
+To make use of the fairly large 
+screen, Huawei has incorporated a Suspend button that sticks to the edges of the
+ screen and can be moved around. Tapping it opens up a half-wheel with tons of 
+options and mini versions of apps that can be moved around the screen. 
+
+
+There are three themes and there doesn't seem to be any option to 
+add more. The music app can shuffle songs according to moods such as serene, happy, sad and energetic. Thankfully, there aren't too 
+many third party apps; only the useful Kingsoft 
+Office suite and a File Manager. While there is an IR blaster, there is no app that can make use of 
+this hardware. We tried a third-party app and it failed to work.
+ 
+
+ 
+
+The Honor 6 uses a slightly modified version of the 
+Android Gingerbread camera app. It has quite a few shooting modes including Normal, Smart, Beauty, Watermark, Panorama, Best Photo and HDR. There 
+are a few filters as well. Manual settings allow power users to 
+manipulate settings such as the ISO and white balance.
+
+(Click for full size)The 13-megapixel 
+rear camera is a bit of a mixed bag. It performs decently in low light 
+with a fair amount of detail, as the lens manages to capture enough quite a bit of ambient light. The accurate colour 
+reproduction in daylight shots is great but unfortunately, in both our daylight and 
+low-light testing, we noticed that noise levels were a bit too high. The 1080p video we recorded had issues with image 
+stabilisation and exposure control. Surprisingly, the 5-megapixel 
+front-facing camera is really good. The selfies we captured had good 
+amounts of detail and the image quality is bound to make habitual selfie-takers happy.  
+
+PerformanceAs usual we ran our regular suite of 
+benchmarks. The Kirin 920 processor screams through AnTutTu 5 and we 
+managed to get a score of 40,700. Quadrant Standard, on the 
+other hand, returned a score of only 11,656. The Mali-T628 MP4 GPU is not
+ much of a performer which reflects in the GFXbench score of 17.5fps and
+the 3DMark Ice Storm (>720p) score of 9026. All these scores aside, the 
+phone is extremely fast in daily use and we faced no lags at all. Even 
+some high-end games like Asphalt 8 and Dead Trigger 2 work mostly 
+without lags. The performance of the phone is comparable to that of other 
+flagships.
+
+We played a few test videos and surprisingly the 1080p 
+videos refused to work in the default player. Other videos played just 
+fine. The speakers are adequately loud but they crackle at high volume. 
+Despite featuring Dolby DTS technology, the sound 
+quality using headphones is sub-par. Even the earpiece volume is really low in phone calls. 
+
+The Honor 6 has a 3000mAh battery and in our 
+intensive test it lasted us 7 hours and 18 minutes. Also, there are some
+ really nice power saving features in the software that can extend the 
+battery life. 
+
+VerdictThere is no doubt that the Huawei 
+Honor 6 is a strong contender in the sub-Rs. 20,000 price range. The phone 
+performs really well, and has a big and crisp screen as well as good battery life. It also has a ton of connectivity features and a fairly decent 
+front-facing camera. If you can look past the uninspiring design and 
+middling rear camera performance, the Huawei Honor 6 is no doubt a good buy. 
+You can also take a look at the Asus ZenFone 6 (Review | Pictures) and the newly launched 
+HTC Desire 816G. 
+
+ 
+

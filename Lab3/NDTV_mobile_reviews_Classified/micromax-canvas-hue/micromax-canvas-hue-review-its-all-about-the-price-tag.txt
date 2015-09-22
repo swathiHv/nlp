@@ -1,0 +1,316 @@
+Micromax Canvas Hue Review: It's All About the Price Tag
+
+Micromax really wants to be taken seriously. As a fledgling company, 
+its products were considered low-quality, low-value knock-offs. 
+"Chinese" wasn't just a description, it was a condescending insult, but 
+somewhere along the way Micromax found its balance and momentum. It 
+didn't matter that its phones weren't built to last; they were priced to
+ move and that's exactly what they did. Customers have clearly been 
+happy enough.Now, with a flood of companies such as Xiaomi 
+changing the perception of what "cheap" and "Chinese" mean, Micromax has
+ to find new ways to stay relevant. Everyone knows that they can get a 
+lot more for Rs. 10,000 today than they could for Rs. 20,000 not too 
+long ago.Enter the Micromax Canvas Hue. The company is boasting 
+about features that typically tempt users to step up from the 
+entry-level - the kind of appeal that Samsung, Sony and LG have always 
+traded on. The Canvas Hue boasts of a great screen, good cameras and the
+ latest version of Android. More than that, Micromax is trying to sell 
+an experience. We find out if this is the beginning of a new chapter for
+ the Indian powerhouse brand.Look and feelWith one look at
+ the Micromax Canvas Hue, we feel disappointed. After all the promise 
+built up, we are faced with yet another iPhone clone. The Canvas Hue has
+ a flat front, a flat rear, curved corners, and a metallic band running 
+around it. The proportions are reminiscent of the iPhone 5, though the 
+styling is much more in line with the iPhone 4 generation. We've seen 
+this exact look so many times before - most recently on the Lava Iris 
+X8 (Review).That said, the Canvas Hue is fairly attractive and feels well 
+built. It's all white except for the gold band around its periphery - 
+and yes, there's no doubt that this particular shade was lifted from the
+ iPhone 5s. The front face is pretty blank, and you'll only see the 
+three capacitive Android navigation buttons below the screen when they 
+light up. The earpiece on top is flanked by rather prominent black dots 
+for the front camera and sensors.The power and volume buttons are
+ on the right, and are conveniently placed where your fingers naturally 
+rest. The left is blank, and there's nothing unusual about the headset 
+socket on top and Micro-USB port on the bottom. There's a shiny silver 
+Micromax logo in a prominent spot on the rear. The camera and flash are 
+in the upper left corner, and a small speaker grille is lower down.The
+ rear panel should peel off easily, but unlike other phones designed the
+ same way it's a real struggle to get it off. We felt at several points 
+that we were about to snap the clasps holding it in place. Once off, the
+ only things you'll see are the two Micro-SIM card slots and the SD 
+slot. The battery is concealed by a sticker and is not user-accessible.Specifications and softwareThe
+ screen that Micromax is so proud of is a 5-inch Amoled panel with a 
+resolution of 720x1280. Screens of this type are known to produce 
+bright, saturated colours which really pop. While this makes text, 
+icons, apps and games look great, it tends to also make photos of 
+natural things such as people and plants look unnatural. Some people 
+really like this effect, and it's a matter of personal preference. We 
+personally find that prolonged use strains the eyes a little. Corning 
+Gorilla Glass 3 is a nice feature addition and should help prevent 
+scratches and damage from falls.The Canvas Hue is powered by the 
+fairly old MediaTek MT6582 SoC, which has four CPU cores running at 
+1.3GHz and an integrated Mali-400 MP2 GPU. This is by no means a speed 
+demon, which is a surprise considering Micromax's emphasis on a premium 
+experience. There's only 1GB of RAM and 8GB of internal storage. 32GB is
+ the highest microSD card capacity supported.The Canvas Hue is a 
+dual-SIM, dual-standby phone but is not capable of using 4G networks. 
+You get Wi-Fi b/g/n, Bluetooth 4.0, A-GPS and FM radio. Another of 
+Micromax's talking points is the 3,000mAh battery, which is nice to 
+have, but not extraordinary by today's standards.Micromax has 
+also gone quite far with the software this time. The Canvas Hue runs 
+Android 4.4.2 with a fairly extensive (though unnamed) custom skin. An 
+update to Android 5.0 is promised, though no actual release date has 
+been provided. The company has smartly gone with wallpaper, icons and 
+other graphics that really pop on the AMOLED screen. Everywhere you 
+look, there are bright primary colours and neon highlights. While the 
+Canvas Hue truly lives up to its name in this regard, those who prefer 
+something more understated will be happy to know that there is a fairly 
+large selection of downloadable themes.There is no app drawer, 
+and so all icons and widgets will end up mixed around on your 
+homescreens. Some will find this simpler to understand while others will
+ not be happy with the clutter. Sensing this, Micromax has sorted most 
+of the default icons into folders - and there are a lot of them. There's
+ quite a bit of spam on this phone - a large Trending Apps widget that 
+also displays a banner ad, a default browser homepage full of rubbish 
+affiliate download links, games that you need to pay to unlock, and 
+other such bloat. There's MAd TV, an app that rewards you in points for 
+deliberately watching ads. Clean Master and Trend Micro Dr Safety both 
+claim to help improve performance. Swiftkey is preinstalled and is the 
+default system-wide keyboard. There are loads more apps, and for 
+most people the only useful ones are Opera Mini, Amazon, Hike, and 
+Truecaller. On the other hand, M! Insurance, M! Security, M! Live and M!
+ Games and Trending Apps are of course just advertisements. Quite a few 
+of these cannot be uninstalled, which is infuriating.Super Power 
+is an app, also available in the Settings menu for some reason, which 
+mimics Samsung's and other manufacturers' ultra-battery-saving modes. It
+ changes the screen to monochrome, turns off background data and apps, 
+limits wireless communication, and only lets you use basic apps. When 
+turning it on, you'll see a handy graphic informing you of how much time
+ you can expect the battery to last given its current charge level.PerformanceWhile
+ the Canvas Hue feels reasonably fast when just flipping through its 
+interface, the overall performance was quite disappointing. Apps and 
+games took a little while to load, and there was slight lag when exiting
+ some apps and going back to the homescreen. Casual games ran well, but 
+we noticed that the rear and top got quite warm when we did anything 
+heavy.Benchmark results were disappointing. The Canvas Hue scored
+ 18,341 in AnTuTu and 7,149 overall in Quadrant. Graphics scores were 
+especially poor, coming in at 7fps in GFXbench and 3,148 points in 
+3DMark Ice Storm. With few exceptions, this phone is handily 
+outperformed by models such as the Asus ZenFone C (Review | Photos) and Lenovo A6000 (Review | Photos), both
+ of which cost quite a lot less. It almost goes without saying that 
+Xiaomi's Redmi Note 4G (Review | Photos) and Micromax's Yu Yureka (Review | Photos) offer significantly 
+better performance at lower prices too.(Click to see full size)But benchmarks alone are 
+not an indicator of worthiness. We tried several real-world tests as 
+well. This phone did not falter when playing heavily encoded 1080p video
+ clips. The integrated speaker is absolutely awful for music - we almost
+ couldn't bear to hear our test tracks ruined so thoroughly. However, 
+the bundled headset is surprisingly good and music sounded quite warm 
+without distorting even at high volume levels.We were also a 
+little disappointed with the quality of images captured with the Canvas 
+Hue's rear 8-megapixel camera. More than anything else, there seemed to 
+be way too much compression, which killed textures and gave organic 
+subjects such as plants and food an artificial sort of look. Close-up 
+shots taken in daylight were pretty good, though anything at a distance 
+tended to be reproduced rather poorly. The camera also seemed to have 
+trouble measuring exposure in some situations, and contrasts of light 
+and dark were not handled well. Shots taken at night required at least 
+some direct light in order for anything to be visible. Street scenes 
+worked, but areas with only ambient lighting were complete losses. (Click to see full size)We
+ were happy that the battery lasted 9 hours, 21 minutes in our video 
+loop test. This is pretty good, and lives up to the company's claims. 
+The bundled charger and cable are of decent quality. We liked the fact 
+that there was an adhesive screen protector and a small microfiber cloth
+ in the box as well. Most interestingly, Micromax includes a printed 
+flyer with SAR information which states that this phone's Head SAR is 
+0.76W/kg, and also includes FCC and WHO advice.VerdictWhile
+ the Micromax Canvas Hue is a decent phone, it does not seem to live up 
+to the price it commands. This phone would have seemed like a steal one 
+year ago, but there are loads of models in the market today that perform
+ better on many fronts, including Micromax's own Yu Yureka. Sure, 
+availability of many of those models is restricted, but that doesn't 
+mean this phone is worth a few thousand rupees more than they are. We 
+think a price adjustment would make this a much easier phone to 
+recommend. Micromax Canvas Hue in pictures
+
+Micromax really wants to be taken seriously. As a fledgling company, 
+its products were considered low-quality, low-value knock-offs. 
+"Chinese" wasn't just a description, it was a condescending insult, but 
+somewhere along the way Micromax found its balance and momentum. It 
+didn't matter that its phones weren't built to last; they were priced to
+ move and that's exactly what they did. Customers have clearly been 
+happy enough.
+
+Now, with a flood of companies such as Xiaomi 
+changing the perception of what "cheap" and "Chinese" mean, Micromax has
+ to find new ways to stay relevant. Everyone knows that they can get a 
+lot more for Rs. 10,000 today than they could for Rs. 20,000 not too 
+long ago.
+
+Enter the Micromax Canvas Hue. The company is boasting 
+about features that typically tempt users to step up from the 
+entry-level - the kind of appeal that Samsung, Sony and LG have always 
+traded on. The Canvas Hue boasts of a great screen, good cameras and the
+ latest version of Android. More than that, Micromax is trying to sell 
+an experience. We find out if this is the beginning of a new chapter for
+ the Indian powerhouse brand.
+
+Look and feelWith one look at
+ the Micromax Canvas Hue, we feel disappointed. After all the promise 
+built up, we are faced with yet another iPhone clone. The Canvas Hue has
+ a flat front, a flat rear, curved corners, and a metallic band running 
+around it. The proportions are reminiscent of the iPhone 5, though the 
+styling is much more in line with the iPhone 4 generation. We've seen 
+this exact look so many times before - most recently on the Lava Iris 
+X8 (Review).
+
+That said, the Canvas Hue is fairly attractive and feels well 
+built. It's all white except for the gold band around its periphery - 
+and yes, there's no doubt that this particular shade was lifted from the
+ iPhone 5s. The front face is pretty blank, and you'll only see the 
+three capacitive Android navigation buttons below the screen when they 
+light up. The earpiece on top is flanked by rather prominent black dots 
+for the front camera and sensors.
+
+The power and volume buttons are
+ on the right, and are conveniently placed where your fingers naturally 
+rest. The left is blank, and there's nothing unusual about the headset 
+socket on top and Micro-USB port on the bottom. There's a shiny silver 
+Micromax logo in a prominent spot on the rear. The camera and flash are 
+in the upper left corner, and a small speaker grille is lower down.
+
+The
+ rear panel should peel off easily, but unlike other phones designed the
+ same way it's a real struggle to get it off. We felt at several points 
+that we were about to snap the clasps holding it in place. Once off, the
+ only things you'll see are the two Micro-SIM card slots and the SD 
+slot. The battery is concealed by a sticker and is not user-accessible.
+
+Specifications and softwareThe
+ screen that Micromax is so proud of is a 5-inch Amoled panel with a 
+resolution of 720x1280. Screens of this type are known to produce 
+bright, saturated colours which really pop. While this makes text, 
+icons, apps and games look great, it tends to also make photos of 
+natural things such as people and plants look unnatural. Some people 
+really like this effect, and it's a matter of personal preference. We 
+personally find that prolonged use strains the eyes a little. Corning 
+Gorilla Glass 3 is a nice feature addition and should help prevent 
+scratches and damage from falls.
+
+The Canvas Hue is powered by the 
+fairly old MediaTek MT6582 SoC, which has four CPU cores running at 
+1.3GHz and an integrated Mali-400 MP2 GPU. This is by no means a speed 
+demon, which is a surprise considering Micromax's emphasis on a premium 
+experience. There's only 1GB of RAM and 8GB of internal storage. 32GB is
+ the highest microSD card capacity supported.
+
+The Canvas Hue is a 
+dual-SIM, dual-standby phone but is not capable of using 4G networks. 
+You get Wi-Fi b/g/n, Bluetooth 4.0, A-GPS and FM radio. Another of 
+Micromax's talking points is the 3,000mAh battery, which is nice to 
+have, but not extraordinary by today's standards.
+
+Micromax has 
+also gone quite far with the software this time. The Canvas Hue runs 
+Android 4.4.2 with a fairly extensive (though unnamed) custom skin. An 
+update to Android 5.0 is promised, though no actual release date has 
+been provided. The company has smartly gone with wallpaper, icons and 
+other graphics that really pop on the AMOLED screen. Everywhere you 
+look, there are bright primary colours and neon highlights. While the 
+Canvas Hue truly lives up to its name in this regard, those who prefer 
+something more understated will be happy to know that there is a fairly 
+large selection of downloadable themes.
+
+There is no app drawer, 
+and so all icons and widgets will end up mixed around on your 
+homescreens. Some will find this simpler to understand while others will
+ not be happy with the clutter. Sensing this, Micromax has sorted most 
+of the default icons into folders - and there are a lot of them. 
+
+There's
+ quite a bit of spam on this phone - a large Trending Apps widget that 
+also displays a banner ad, a default browser homepage full of rubbish 
+affiliate download links, games that you need to pay to unlock, and 
+other such bloat. There's MAd TV, an app that rewards you in points for 
+deliberately watching ads. Clean Master and Trend Micro Dr Safety both 
+claim to help improve performance. Swiftkey is preinstalled and is the 
+default system-wide keyboard.
+
+ 
+
+There are loads more apps, and for 
+most people the only useful ones are Opera Mini, Amazon, Hike, and 
+Truecaller. On the other hand, M! Insurance, M! Security, M! Live and M!
+ Games and Trending Apps are of course just advertisements. Quite a few 
+of these cannot be uninstalled, which is infuriating.
+
+Super Power 
+is an app, also available in the Settings menu for some reason, which 
+mimics Samsung's and other manufacturers' ultra-battery-saving modes. It
+ changes the screen to monochrome, turns off background data and apps, 
+limits wireless communication, and only lets you use basic apps. When 
+turning it on, you'll see a handy graphic informing you of how much time
+ you can expect the battery to last given its current charge level.
+
+PerformanceWhile
+ the Canvas Hue feels reasonably fast when just flipping through its 
+interface, the overall performance was quite disappointing. Apps and 
+games took a little while to load, and there was slight lag when exiting
+ some apps and going back to the homescreen. Casual games ran well, but 
+we noticed that the rear and top got quite warm when we did anything 
+heavy.
+
+Benchmark results were disappointing. The Canvas Hue scored
+ 18,341 in AnTuTu and 7,149 overall in Quadrant. Graphics scores were 
+especially poor, coming in at 7fps in GFXbench and 3,148 points in 
+3DMark Ice Storm. With few exceptions, this phone is handily 
+outperformed by models such as the Asus ZenFone C (Review | Photos) and Lenovo A6000 (Review | Photos), both
+ of which cost quite a lot less. It almost goes without saying that 
+Xiaomi's Redmi Note 4G (Review | Photos) and Micromax's Yu Yureka (Review | Photos) offer significantly 
+better performance at lower prices too.
+
+(Click to see full size)
+
+But benchmarks alone are 
+not an indicator of worthiness. We tried several real-world tests as 
+well. This phone did not falter when playing heavily encoded 1080p video
+ clips. The integrated speaker is absolutely awful for music - we almost
+ couldn't bear to hear our test tracks ruined so thoroughly. However, 
+the bundled headset is surprisingly good and music sounded quite warm 
+without distorting even at high volume levels.
+
+We were also a 
+little disappointed with the quality of images captured with the Canvas 
+Hue's rear 8-megapixel camera. More than anything else, there seemed to 
+be way too much compression, which killed textures and gave organic 
+subjects such as plants and food an artificial sort of look. Close-up 
+shots taken in daylight were pretty good, though anything at a distance 
+tended to be reproduced rather poorly. The camera also seemed to have 
+trouble measuring exposure in some situations, and contrasts of light 
+and dark were not handled well. Shots taken at night required at least 
+some direct light in order for anything to be visible. Street scenes 
+worked, but areas with only ambient lighting were complete losses.
+
+ 
+
+(Click to see full size)
+
+We
+ were happy that the battery lasted 9 hours, 21 minutes in our video 
+loop test. This is pretty good, and lives up to the company's claims. 
+The bundled charger and cable are of decent quality. We liked the fact 
+that there was an adhesive screen protector and a small microfiber cloth
+ in the box as well. Most interestingly, Micromax includes a printed 
+flyer with SAR information which states that this phone's Head SAR is 
+0.76W/kg, and also includes FCC and WHO advice.
+
+VerdictWhile
+ the Micromax Canvas Hue is a decent phone, it does not seem to live up 
+to the price it commands. This phone would have seemed like a steal one 
+year ago, but there are loads of models in the market today that perform
+ better on many fronts, including Micromax's own Yu Yureka. Sure, 
+availability of many of those models is restricted, but that doesn't 
+mean this phone is worth a few thousand rupees more than they are. We 
+think a price adjustment would make this a much easier phone to 
+recommend.
+

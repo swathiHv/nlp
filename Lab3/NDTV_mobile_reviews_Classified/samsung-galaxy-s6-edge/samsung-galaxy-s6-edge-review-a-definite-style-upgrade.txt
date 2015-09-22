@@ -1,0 +1,315 @@
+Samsung Galaxy S6 Edge Review: A Definite Style Upgrade
+
+In our review 
+of the Samsung Galaxy S6, we described how the Korean giant, once the 
+undisputable king of the Android domain, had finally recognised that 
+top-tier smartphones need to be more than just pieces of plastic with 
+the latest tech stuffed inside. There isn't much to be gained from only 
+bumping up processor speeds and screen resolutions year-on-year; the 
+overall experience of using a device has to be new and exciting enough 
+to convince people to upgrade. The Galaxy S5 fell short not only because
+ of its unappealing style, but also because of features such as a heart 
+rate sensor that barely worked, a fingerprint reader that was too 
+awkward to use, and software features that no one ever bothered to try 
+discovering.We also said that while there was a lot to like about
+ the Galaxy S6 (Review | Pictures) in terms of design, restraint and overall identity, 
+Samsung had held back in terms of really exploring new ideas of what a 
+smartphone can and should be. That's where the Galaxy S6 Edge comes in. Not
+ every company can pull off a fundamental change in the shape of a 
+smartphone, since the entire thing is based around a screen. However, 
+Samsung's strengths as a multinational electronics superpower include 
+in-house engineering and manufacturing capabilities. Having recently 
+pioneered the mass production of curved AMOLED screens, the company is 
+doing everything it can to stand out in a crowded, homogenous market.The
+ Galaxy Note Edge (Review | Pictures), launched last year, was the first commercially 
+available smartphone with a wraparound screen, but Samsung might not really 
+have known what to do with it. The area that curved over the phone's 
+right edge was physically part of the same panel, but behaved like a 
+separate unit altogether. Ultimately, we found the asymmetry too 
+distracting, and the overall idea lacking purpose.Round two comes
+ in the form of the Samsung Galaxy S6 Edge. The screen is still curved, 
+but the approach is different, and so is the target audience. Read on to
+ see how this phone holds up, and how it compares to its more 
+traditional sibling, the Galaxy S6.Look and feelIn an 
+ocean of smartphones with nearly identical shapes and proportions, the 
+Galaxy S6 Edge stands out like a shining beacon. This is a phone that 
+will grab your attention - Samsung clearly designed it as a showpiece. 
+The audacious curved screen is complemented by unreservedly brash shiny 
+metallic colours. The way it catches and reflects light makes you turn 
+it over in your hands just to admire it. The Galaxy S6 Edge 
+manages to break new ground while still undeniably being a Samsung 
+phone. Our review unit was a shimmery gold, which made it seem more 
+glamorous than our plain white Galaxy S6 sample. The front is all glass,
+ and the metal sides frame it in sweeping curves. The rear is also 
+glass, but with the body colour clearly visible through it. It's so 
+shiny and reflective that it was actually difficult to photograph. If 
+gold isn't your thing, the Galaxy S6 Edge is also available in deep 
+jewel-toned blue and green, or plain white.When seen head-on, the
+ Galaxy S6 Edge doesn't appear to have any screen borders on the left or
+ right, which gives the whole unit an elongated look even though its 
+proportions are pretty much identical to the Galaxy S6's. The physical 
+home button below the screen has an integrated fingerprint sensor which 
+works with only a tap, so you don't need to swipe across it. To its 
+sides, capacitive Recents and Back buttons light up when touched.The
+ rear is just as slippery as that of the Galaxy S6, but this phone is 
+even more difficult to grip thanks to its narrow, somewhat sharp sides. 
+In our time with the Galaxy S6 edge, we were constantly aware of how 
+easy it would be to drop it and how disastrous it would be for this 
+phone to land face-down on any hard surface. The power and volume
+ buttons are in the same places on both phones' sides, but the Galaxy S6
+ Edge's Nano-SIM card tray has moved to the top, to one side of the 
+infrared emitter. The ugly camera bulge is just as pronounced on both 
+phones, but looks even more at odds with the slick design here. The 
+battery is sealed in and there's no microSD card slot for storage 
+expansion - considering the buyers Samsung has in mind, these drawbacks 
+are easier to swallow than they were on the more mainstream Galaxy S6.Specifications and softwareSamsung's
+ new twins have identical specifications except for the battery 
+capacity, which is a tiny bit higher in the Galaxy S6 Edge at 2,600mAh 
+compared to 2,550mAh in the Galaxy S6. Both devices are available with 
+32GB, 64GB or 128GB of storage, with no scope for expansion. Samsung's 
+in-house Exynos 7420 SoC has four 1.5GHz ARM Cortex-A53 processor cores 
+and four 2.1GHz ARM Cortex A-57 cores along with integrated Mali-T760MP8
+ graphics. There's 3GB of RAM, Wi-Fi b/g/n/ac, Bluetooth 4.1 and NFC. 
+You can read about the hardware and software in more detail in our 
+review of the Galaxy S6.While the screen is curved on two sides, 
+it has the same dimensions and resolution as the flat one on its twin: 
+5.1 inches and 1440x2560 pixels. Samsung used a wider screen on the 
+Galaxy Note Edge compared to the one on the Galaxy Note 4 in order to 
+accommodate extra features and create new usage situations, but there is
+ no such intention here. Whereas the curve on the Galaxy Note Edge 
+extended down the side of the phone letting you see quite a lot of 
+information at a glance, the Galaxy S6 Edge's curves extend only 
+slightly down each side, with not enough room for lines of text to be 
+visible.There are only a few tweaks that make use of the curved 
+screen edges, as opposed to the plethora of "edge screen" panels and 
+settings on the Galaxy Note Edge. That's not a problem, because we 
+found the always-on background distracting and the vanity text useless. 
+On this phone, the main application of the visible curves is that they 
+can flash in specific colours when certain contacts call you (up to 
+five), so you know who's calling when the phone is upside down. Aside 
+from that, you can have your notifications and information such as the 
+clock and weather show up on either edge for easier access.PerformanceWith
+ identical components and capabilities, it should come as no surprise 
+that the Samsung Galaxy S6 Edge performs just as well as the Galaxy S6. 
+We noticed subtle variations in the benchmark test scores, which are 
+within the range of normal variations from run to run. SunSpider, for 
+instance, gave us scores of 352.3ms and 353.7ms for the curved and flat 
+phones, respectively, while the BrowserMark results were 2546 points and
+ 2663 points respectively.(Click to see full size)The Galaxy S6's AnTutu record of 67975 
+points has proven to be short lived, with the Galaxy S6 Edge beating it 
+by a slight margin with a score of 68433. Both got the exact same score 
+of 39fps in GFXbench, but the Galaxy S6 had a slight advantage in 3DMark
+ Ice Storm Unlimited, with 21878 points as against 20306 points for the 
+Galaxy S6 Edge.As similar as the two phones' scores were, 
+real-world usage felt very different. Just like with the Galaxy Note 
+Edge, it's hard to stay focused on the Galaxy S6 Edge's screen because 
+no matter which way you hold it, there is always some reflection. UI 
+elements, full-screen games and videos bleed off the edges, which is 
+occasionally annoying. You're also instinctively much more cautious when
+ handling the Galaxy S6 Edge - it isn't easy to hold when, for example, 
+recording videos. (Click to see full size)The built-in speaker is clear and distinct, but
+ the sound it produces isn't very rich. Camera quality is excellent - 
+indistinguishable from that of the Galaxy S6. You can read all about it 
+in the camera section of our review of this phone's twin, but it should suffice to say in 
+short that image quality in most situations is on par with that of the 
+iPhone 6 and iPhone 6 Plus. Close-ups are richly detailed with almost no
+ perceptible noise, and even photos taken in low light are incredibly 
+good.We managed to get 12 hours and 20 minutes of video playback 
+time in our loop test, which was a little surprising considering that 
+the Galaxy S6, with a marginally smaller battery, ran for almost an hour
+ longer. Both phones were tested under identical conditions.(Click to see full size)VerdictUltimately,
+ Samsung decided to play it safe and offer two different versions of its
+ Galaxy S6 flagship; one with the new curved screen and one without. 
+This is one time when we're actually happy that the company has launched
+ multiple similar models - this way, all users aren't forced into using 
+(and paying for) what Samsung thinks is the next big thing. One 
+of our main criticisms of the Galaxy Note Edge was that the extra 
+screen space felt like a separate display that we couldn't get rid of 
+when it wasn't needed - like a smartwatch physically attached to the 
+phone itself, somewhat defeating its own purpose. Similarly, to be 
+honest, we don't think there's much in terms of functionality that will 
+help the Galaxy S6 Edge sell, especially since the Galaxy S6 is 
+significantly less expensive. It can perform a few neat tricks but 
+doesn't work its way into new areas of our lives. That said, the 
+vast majority of those who buy this phone won't care about such things. 
+They'll buy it either because owning something so new and different 
+gives them a thrill, or because it has a unique way of making people do a
+ double-take - the "wow factor", as it's called. No other phone, except 
+perhaps the Galaxy Note Edge and the upcoming LG G Flex2 can offer 
+that. This phone is gorgeous, powerful and has no major flaws. There's 
+nothing wrong with splurging on it if you feel like, because there are 
+no compromises or trade-offs compared to the excellent Galaxy S6. Samsung Galaxy S6 Edge in pictures
+
+We also said that while there was a lot to like about
+ the Galaxy S6 (Review | Pictures) in terms of design, restraint and overall identity, 
+Samsung had held back in terms of really exploring new ideas of what a 
+smartphone can and should be. That's where the Galaxy S6 Edge comes in. 
+
+Not
+ every company can pull off a fundamental change in the shape of a 
+smartphone, since the entire thing is based around a screen. However, 
+Samsung's strengths as a multinational electronics superpower include 
+in-house engineering and manufacturing capabilities. Having recently 
+pioneered the mass production of curved AMOLED screens, the company is 
+doing everything it can to stand out in a crowded, homogenous market.
+
+The
+ Galaxy Note Edge (Review | Pictures), launched last year, was the first commercially 
+available smartphone with a wraparound screen, but Samsung might not really 
+have known what to do with it. The area that curved over the phone's 
+right edge was physically part of the same panel, but behaved like a 
+separate unit altogether. Ultimately, we found the asymmetry too 
+distracting, and the overall idea lacking purpose.
+
+Round two comes
+ in the form of the Samsung Galaxy S6 Edge. The screen is still curved, 
+but the approach is different, and so is the target audience. Read on to
+ see how this phone holds up, and how it compares to its more 
+traditional sibling, the Galaxy S6.
+
+Look and feelIn an 
+ocean of smartphones with nearly identical shapes and proportions, the 
+Galaxy S6 Edge stands out like a shining beacon. This is a phone that 
+will grab your attention - Samsung clearly designed it as a showpiece. 
+The audacious curved screen is complemented by unreservedly brash shiny 
+metallic colours. The way it catches and reflects light makes you turn 
+it over in your hands just to admire it. 
+
+The Galaxy S6 Edge 
+manages to break new ground while still undeniably being a Samsung 
+phone. Our review unit was a shimmery gold, which made it seem more 
+glamorous than our plain white Galaxy S6 sample. The front is all glass,
+ and the metal sides frame it in sweeping curves. The rear is also 
+glass, but with the body colour clearly visible through it. It's so 
+shiny and reflective that it was actually difficult to photograph. If 
+gold isn't your thing, the Galaxy S6 Edge is also available in deep 
+jewel-toned blue and green, or plain white.
+
+When seen head-on, the
+ Galaxy S6 Edge doesn't appear to have any screen borders on the left or
+ right, which gives the whole unit an elongated look even though its 
+proportions are pretty much identical to the Galaxy S6's. The physical 
+home button below the screen has an integrated fingerprint sensor which 
+works with only a tap, so you don't need to swipe across it. To its 
+sides, capacitive Recents and Back buttons light up when touched.
+
+The
+ rear is just as slippery as that of the Galaxy S6, but this phone is 
+even more difficult to grip thanks to its narrow, somewhat sharp sides. 
+In our time with the Galaxy S6 edge, we were constantly aware of how 
+easy it would be to drop it and how disastrous it would be for this 
+phone to land face-down on any hard surface. 
+
+The power and volume
+ buttons are in the same places on both phones' sides, but the Galaxy S6
+ Edge's Nano-SIM card tray has moved to the top, to one side of the 
+infrared emitter. The ugly camera bulge is just as pronounced on both 
+phones, but looks even more at odds with the slick design here. The 
+battery is sealed in and there's no microSD card slot for storage 
+expansion - considering the buyers Samsung has in mind, these drawbacks 
+are easier to swallow than they were on the more mainstream Galaxy S6.
+
+Specifications and softwareSamsung's
+ new twins have identical specifications except for the battery 
+capacity, which is a tiny bit higher in the Galaxy S6 Edge at 2,600mAh 
+compared to 2,550mAh in the Galaxy S6. Both devices are available with 
+32GB, 64GB or 128GB of storage, with no scope for expansion. Samsung's 
+in-house Exynos 7420 SoC has four 1.5GHz ARM Cortex-A53 processor cores 
+and four 2.1GHz ARM Cortex A-57 cores along with integrated Mali-T760MP8
+ graphics. There's 3GB of RAM, Wi-Fi b/g/n/ac, Bluetooth 4.1 and NFC. 
+You can read about the hardware and software in more detail in our 
+review of the Galaxy S6.
+
+While the screen is curved on two sides, 
+it has the same dimensions and resolution as the flat one on its twin: 
+5.1 inches and 1440x2560 pixels. Samsung used a wider screen on the 
+Galaxy Note Edge compared to the one on the Galaxy Note 4 in order to 
+accommodate extra features and create new usage situations, but there is
+ no such intention here. Whereas the curve on the Galaxy Note Edge 
+extended down the side of the phone letting you see quite a lot of 
+information at a glance, the Galaxy S6 Edge's curves extend only 
+slightly down each side, with not enough room for lines of text to be 
+visible.
+
+There are only a few tweaks that make use of the curved 
+screen edges, as opposed to the plethora of "edge screen" panels and 
+settings on the Galaxy Note Edge. That's not a problem, because we 
+found the always-on background distracting and the vanity text useless. 
+On this phone, the main application of the visible curves is that they 
+can flash in specific colours when certain contacts call you (up to 
+five), so you know who's calling when the phone is upside down. Aside 
+from that, you can have your notifications and information such as the 
+clock and weather show up on either edge for easier access.
+
+PerformanceWith
+ identical components and capabilities, it should come as no surprise 
+that the Samsung Galaxy S6 Edge performs just as well as the Galaxy S6. 
+We noticed subtle variations in the benchmark test scores, which are 
+within the range of normal variations from run to run. SunSpider, for 
+instance, gave us scores of 352.3ms and 353.7ms for the curved and flat 
+phones, respectively, while the BrowserMark results were 2546 points and
+ 2663 points respectively.
+
+(Click to see full size)
+
+The Galaxy S6's AnTutu record of 67975 
+points has proven to be short lived, with the Galaxy S6 Edge beating it 
+by a slight margin with a score of 68433. Both got the exact same score 
+of 39fps in GFXbench, but the Galaxy S6 had a slight advantage in 3DMark
+ Ice Storm Unlimited, with 21878 points as against 20306 points for the 
+Galaxy S6 Edge.
+
+As similar as the two phones' scores were, 
+real-world usage felt very different. Just like with the Galaxy Note 
+Edge, it's hard to stay focused on the Galaxy S6 Edge's screen because 
+no matter which way you hold it, there is always some reflection. UI 
+elements, full-screen games and videos bleed off the edges, which is 
+occasionally annoying. You're also instinctively much more cautious when
+ handling the Galaxy S6 Edge - it isn't easy to hold when, for example, 
+recording videos. 
+
+(Click to see full size)
+
+The built-in speaker is clear and distinct, but
+ the sound it produces isn't very rich. Camera quality is excellent - 
+indistinguishable from that of the Galaxy S6. You can read all about it 
+in the camera section of our review of this phone's twin, but it should suffice to say in 
+short that image quality in most situations is on par with that of the 
+iPhone 6 and iPhone 6 Plus. Close-ups are richly detailed with almost no
+ perceptible noise, and even photos taken in low light are incredibly 
+good.
+
+We managed to get 12 hours and 20 minutes of video playback 
+time in our loop test, which was a little surprising considering that 
+the Galaxy S6, with a marginally smaller battery, ran for almost an hour
+ longer. Both phones were tested under identical conditions.
+
+(Click to see full size)
+
+VerdictUltimately,
+ Samsung decided to play it safe and offer two different versions of its
+ Galaxy S6 flagship; one with the new curved screen and one without. 
+This is one time when we're actually happy that the company has launched
+ multiple similar models - this way, all users aren't forced into using 
+(and paying for) what Samsung thinks is the next big thing. 
+
+One 
+of our main criticisms of the Galaxy Note Edge was that the extra 
+screen space felt like a separate display that we couldn't get rid of 
+when it wasn't needed - like a smartwatch physically attached to the 
+phone itself, somewhat defeating its own purpose. Similarly, to be 
+honest, we don't think there's much in terms of functionality that will 
+help the Galaxy S6 Edge sell, especially since the Galaxy S6 is 
+significantly less expensive. It can perform a few neat tricks but 
+doesn't work its way into new areas of our lives. 
+
+That said, the 
+vast majority of those who buy this phone won't care about such things. 
+They'll buy it either because owning something so new and different 
+gives them a thrill, or because it has a unique way of making people do a
+ double-take - the "wow factor", as it's called. No other phone, except 
+perhaps the Galaxy Note Edge and the upcoming LG G Flex2 can offer 
+that. This phone is gorgeous, powerful and has no major flaws. There's 
+nothing wrong with splurging on it if you feel like, because there are 
+no compromises or trade-offs compared to the excellent Galaxy S6.
+

@@ -1,0 +1,436 @@
+Sony Xperia Z1 Compact review
+
+Smartphones have gotten ridiculously big, and unfortunately, most 
+Android manufacturers today have decided that their top-end phones 
+should have five-inch screens at the minimum. It isn't because they can sneak in 
+more space for a larger battery and better heat dissipation; it's just a
+ sort of herd mentality and the desire to outdo each other that keeps 
+things going along a certain trajectory.At least Sony seems to 
+think we've reached a point of diminishing returns, and has done what it
+ can to balance things out with a more reasonably sized phone that 
+doesn't compromise on its internals. The Z1 Compact isn't a flagship on 
+its own, but it's far more equal to the device it's been spun off from 
+than many of the underpowered "mini" phones that have tried to trade on 
+their names.In fact it's almost ridiculous that we automatically 
+think of this as a "miniature" phone, or one that's somehow reduced in 
+importance by having a small screen. This is what has been, and for many
+ should still be, perfectly normal. We're happy to see physical size 
+decoupled from power, such that buyers who aspire to class-leading 
+smartphones can now actually get one that can be used comfortably with 
+one hand and held up to an ear without risking a wrist injury.Look and feelThe
+ Z1 Compact is somewhat similar to the iPhone 5 in terms of size and 
+proportion, though that's where the similarity ends. The Z1 Compact 
+feels chunky in the hand, rather than elegant. The combination of 
+bevelled metallic sides and waterproof flaps made even our bright pink 
+review unit feel outdoorsy and rugged. Sony hasn't followed the 
+crowd by crippling its second-best phone's specifications, but it has 
+evidently felt the need to offer it in bright colours, possibly to 
+pander to women (who, research apparently suggests, prefer smaller 
+phones anyway). In addition to the usual blank and white, the Compact is
+ available in pink and yellow.Photos might not show this very 
+well, but the plastic and metal parts of the pink variant are actually 
+two quite different shades. While the metal band around the edges is a 
+pale, muted rose tint, the plastic front and rear are bright, almost 
+fluorescent, bubblegum pink. The effect is striking, and very memorable.
+ Needless to say, if you aren't very certain you can live with this 
+colour, you should stick to the safer white or black.The Z1 
+Compact's front panel is all black glass, with only a silver Sony logo 
+and a barely visible front camera right on top to break it up. The 
+speaker grille is a tiny notch right at the top (into which the charging
+ and status LED is cleverly integrated), and the navigation buttons are 
+all on-screen rather than capacitive, so there's nothing at all to see 
+when the device is in standby.The metallic band around the edges 
+houses all the Z1 Compact's buttons and slots. On the right, you'll see 
+Sony's new brand identifier, a round silver standby button. Below it are
+ a slim volume rocker and a tiny camera shortcut and shutter release 
+button. Since this isn't an oversized phone, we would have liked to have
+ the standby button in its traditional place on the top panel, but that 
+wasn't to be.The left edge is quite packed, with three 
+rubber-rimmed flaps for the Micro-USB charging/data port, microSD card 
+slot, and SIM card slot. Sony's magnetic Z-series accessory connector is
+ right in the middle, but it looks oddly gouged out, especially since 
+the flaps on either side of it are perfectly flush with the rim. If it 
+weren't for the phone's overall chunky design, the dock connector would 
+look awful.The USB port and microSD card slot are perfectly 
+ordinary beneath their flaps, but the Micro-SIM slot is a bit fidgety. 
+You have to fit your SIM card into a removable tray which can only be 
+extracted from the slot with a fingernail. Under the same flap, 
+there's also a pull-out tab with regulatory information printed on it, 
+which keeps the rear panel free of extra text and logos.You'll 
+find an unprotected 3.5mm headset jack on the top edge, and a large 
+speaker grille across the entire bottom. In another nod to potential 
+female buyers, there's a hole in the bottom right corner for a lanyard 
+or phone charm. The rear panel is quite flat, with only the 
+camera lens and flash breaking up the vast expanse of (in our case pink)
+ plastic. Apart from a Sony logo in the middle and a smaller Xperia logo
+ on the bottom, there's a tiny printed icon to let you know that this 
+phone features the NFC wireless standard. The only complaint we 
+have about the Z1 Compact's build quality is that the front and back are
+ a little too flexible, and we could feel the plastic bend with very 
+little pressure applied. For an otherwise rugged phone, this made us 
+feel just a little uneasy.Features and specificationsAs 
+already stated, the Z1 Compact is not a stripped-down phone. It's got 
+the kind of components we expect to see in a top-end device, including a 
+quad-core Qualcomm Snapdragon 800 SoC running at 2.2GHz with integrated 
+Adreno 330 graphics, 2GB of RAM, Android 4.3, a 2300mAh battery, and a 
+20.7-megapixel rear camera. The screen isn't full-HD 1080p, though at 
+4.3 inches diagonally, 720p is acceptable. There's 16GB of built-in 
+storage, and a microSD card slot for up to 64GB more.The complete
+ list of specifications manages to cover all bases, including high-speed
+ Wi-Fi ac, Bluetooth 4.0, NFC, GPS with GLONASS, LTE, FM radio, active 
+noise cancellation, and a USB port supporting HDMI video out via an MHL 
+adapter. The icing on the cake is an IP58 rating for waterproofing; in 
+this case the phone is rated for 30 minutes of exposure up to 1.5m deep.NFC
+ enables the Z1 Compact to pair with a range of accessories, including 
+Sony's Smart Watch 2, QX100 external camera, and various headsets or 
+speakers. You can also establish connections to other NFC-enabled 
+Android phones. Sony has equipped some of its TVs and laptops with NFC 
+too, so you can back up photos or show them off on a bigger screen.The front panel 
+is made with tempered glass, but this isn't the Gorilla Glass we're 
+familiar with. Sony
+ has also been sharing some of its technology (and trademarked 
+buzzwords) between departments of late, so the screen is a "Triluminous 
+display" with "X-Reality", which claims to reproduce a much wider colour
+ range than ordinary displays can, and improve image clarity.  The camera inherits Sony's "Exmor RS sensor", "G Lens", 
+and "Bionz" image processing tech.SoftwareThe Android skin
+ on Sony's current Xperia devices is rather extensive, and nearly 
+everything from the lock screen to the apps, has been customised. You 
+can create up to seven home screens and populate them with a variety of 
+widgets. Sony has created quite a few of its own, including one 
+that seems to advertise music from Sony's label (and warns users that it
+ downloads "large amounts of data" the first time it's tapped). One lets
+ you launch the TrackID app and begin listening for music. Another 
+widget lets you launch the camera or one of the build in "camera apps" 
+(which we'll describe below). Beyond that, there are the usual weather, 
+music control, social, contacts and control widgets.The company 
+has also not shied away from docking its own Sony Liv and Sony Music 
+apps to the home screen. Other apps in the menu include Bigflix, Line, 
+LinkedIn, Box, Pixlr Express, X4 video player, and McAfee Security. Sony
+ also bundles Mobisystems Office Suite, but this is a trial that doesn't
+ let you create new documents.Smart Connect is an interesting app
+ that lets you send content to compatible Sony devices such as TVs and 
+speakers, and also trigger events that can happen on schedule or when 
+accessories are connected. For example, you can create a routine that 
+sets an alarm and turns all other sounds off if you plug in a charger 
+between 10pm and 7am. The conditions are pretty granular, and Sony has 
+made it easy to set up triggers and effects.In addition to the 
+usual slew of Google apps, there's a simple unit converter app, a 
+sketching app, a drag-and-share app for Bluetooth file transfers, a file
+ manager, and the aforementioned TrackID app. Interestingly, the default
+ Web browser is Chrome, and the stock Android browser is nowhere to be 
+seen.Sony's skin is a bit dense, and might intimidate new users. 
+We like the sidebar in the main menu that lets users rearrange apps, 
+although the search bar could have been a little more obvious to find. 
+The notifications panel has a convenient (and customisable) panel of 
+shortcut toggles for important settings, but even this looks a little 
+crowded.CameraSony makes a lot of claims about the 
+performance of the Z1 Compact's camera, including excellent low-light 
+performance, high sensitivity, low noise, vibrant realism, and pretty 
+much every marketing superlative you can come up with. We found many of 
+these claims to be accurate, but even so, there are limits to what a 
+smartphone camera can achieve.First of all, Sony has worked on a 
+pretty clever camera app. The interface isn't cluttered, and all the 
+important functions are a single tap away. The app can detect when 
+you're moving and when light is too low, and adjust itself accordingly. 
+There are also modes for macro shots and documents, which are pretty 
+handy. There's a large icon, like a camera's mode dial, which lets you 
+jump into any of the camera apps. These include a manual mode, timeshift
+ burst, sweep panorama, effect filters, and AR effect. By default, 
+you're in Superior Auto mode, which is simple and direct. Manual mode 
+gives you control over settings such as white balance, and access to 
+scenes including landscape, night, HDR, sports, snow and party.Timeshift
+ effect saves a burst of photos including a few buffered before you 
+actually hit the shutter. Picture effect offers nine options including 
+fisheye, sepia, kaleidoscope, selective colour, and Harris shutter. AR 
+effect tries to add things like dinosaurs or party hats to images, all 
+of which look rather silly but can be fun.There are also two 
+other camera apps: Info-eye and Social Live. The former lets you take 
+photos of objects and receive information based on an image recognition 
+search. This could include tourist monuments, products, or just 
+interesting sights. Social Live lets you broadcast live video on 
+Facebook, turning your phone into something like a remote webcam.(Click to see full size)While
+ these are all interesting, we got right down to testing image quality 
+without all the special effects. We found that the 20.7-megapixel photos
+ were rather good, with rich colours and effective contrast. The camera 
+was also exceptionally good at capturing images while in motion. Things 
+went a little downhill when we zoomed in all the way. Finer details in 
+shady areas of an image were noticeably unclear, and a bit of noise 
+crept in. Performance in various lighting conditions was consistent, 
+though we found the flash to be a little too aggressive sometimes; 
+drowning out nearby subjects.This is still a lot better than many
+ smartphone cameras can manage, but should illustrate that no matter how
+ many buzzwords a company throws out, expectations need to be realistic.PerformanceHere's
+ where the Z1 Compact gets to really show us what it's made of. We were 
+very pleased with the benchmark results, which are right up there with 
+the major flagships from most companies. SunSpider took only 916.6ms to 
+complete, and Mozilla Kraken took 7580.2ms, which is significantly 
+quicker than other mid-range "mini" phones. Quadrant returned a score of
+ 21,100 points, and AnTuTu raced ahead with 35,649 points.We were
+ also happy and relieved to see graphics performance right up there with
+ the best scores we have on record. GFXBench managed an impressive 34.9fps, and 
+3DMark maxed out, even in the more intensive Ice Storm Extreme scenario 
+designed for 1080p phones. We ran the Ice Storm Unlimited test instead, 
+which is usually reserved for more demanding tablets, and scored 17,976 
+points.Audio and video played back flawlessly, including our 
+heaviest 40mbps H.264 clip. Sound was loud across various games, movies and music files, but not very clear at high volume. Call quality was perfectly
+ ordinary, with nothing special to mention. The battery lasted for an impressive 11 hours, 52 minutes in our video loop test. All of this makes for a very strong showing, and we're mighty impressed. The Xperia Z1 Compact is no lightweight. If there was any doubt left in your mind about this phone's capabilities, we hope they're well and truly laid to rest now.VerdictIt's 
+very easy to recommend the Z1 Compact. You might not like the styling or
+ the overabundance of ports and flaps, but that's the tradeoff for waterproofing, which is definitely a 
+neat feature. As for alternatives in this price range, you could buy an LG G2, which is 
+larger, or an iPhone 5c which is roughly the same size but not as powerful. The Sony 
+Xperia Z1 Compact is exactly the kind of product we've wanted to see for
+ a long time. The smartphone industry is too eager to follow trends, and
+ a recent features arms race has led to a staggering tilt in favour of 
+phones with 5-inch-plus screens. We're not happy recommending less 
+powerful phones to those who don't want to deal with bulky, heavy 
+devices, and now we finally have a worthy product in that space. Sony is
+ really on to something here, and we hope the rest of the industry takes
+ note and follows suit. Sony Xperia Z1 Compact in pictures
+
+Smartphones have gotten ridiculously big, and unfortunately, most 
+Android manufacturers today have decided that their top-end phones 
+should have five-inch screens at the minimum. It isn't because they can sneak in 
+more space for a larger battery and better heat dissipation; it's just a
+ sort of herd mentality and the desire to outdo each other that keeps 
+things going along a certain trajectory.
+
+At least Sony seems to 
+think we've reached a point of diminishing returns, and has done what it
+ can to balance things out with a more reasonably sized phone that 
+doesn't compromise on its internals. The Z1 Compact isn't a flagship on 
+its own, but it's far more equal to the device it's been spun off from 
+than many of the underpowered "mini" phones that have tried to trade on 
+their names.
+
+In fact it's almost ridiculous that we automatically 
+think of this as a "miniature" phone, or one that's somehow reduced in 
+importance by having a small screen. This is what has been, and for many
+ should still be, perfectly normal. We're happy to see physical size 
+decoupled from power, such that buyers who aspire to class-leading 
+smartphones can now actually get one that can be used comfortably with 
+one hand and held up to an ear without risking a wrist injury.
+
+Look and feelThe
+ Z1 Compact is somewhat similar to the iPhone 5 in terms of size and 
+proportion, though that's where the similarity ends. The Z1 Compact 
+feels chunky in the hand, rather than elegant. The combination of 
+bevelled metallic sides and waterproof flaps made even our bright pink 
+review unit feel outdoorsy and rugged. 
+
+Sony hasn't followed the 
+crowd by crippling its second-best phone's specifications, but it has 
+evidently felt the need to offer it in bright colours, possibly to 
+pander to women (who, research apparently suggests, prefer smaller 
+phones anyway). In addition to the usual blank and white, the Compact is
+ available in pink and yellow.
+
+Photos might not show this very 
+well, but the plastic and metal parts of the pink variant are actually 
+two quite different shades. While the metal band around the edges is a 
+pale, muted rose tint, the plastic front and rear are bright, almost 
+fluorescent, bubblegum pink. The effect is striking, and very memorable.
+ Needless to say, if you aren't very certain you can live with this 
+colour, you should stick to the safer white or black.
+
+The Z1 
+Compact's front panel is all black glass, with only a silver Sony logo 
+and a barely visible front camera right on top to break it up. The 
+speaker grille is a tiny notch right at the top (into which the charging
+ and status LED is cleverly integrated), and the navigation buttons are 
+all on-screen rather than capacitive, so there's nothing at all to see 
+when the device is in standby.
+
+The metallic band around the edges 
+houses all the Z1 Compact's buttons and slots. On the right, you'll see 
+Sony's new brand identifier, a round silver standby button. Below it are
+ a slim volume rocker and a tiny camera shortcut and shutter release 
+button. Since this isn't an oversized phone, we would have liked to have
+ the standby button in its traditional place on the top panel, but that 
+wasn't to be.
+
+The left edge is quite packed, with three 
+rubber-rimmed flaps for the Micro-USB charging/data port, microSD card 
+slot, and SIM card slot. Sony's magnetic Z-series accessory connector is
+ right in the middle, but it looks oddly gouged out, especially since 
+the flaps on either side of it are perfectly flush with the rim. If it 
+weren't for the phone's overall chunky design, the dock connector would 
+look awful.
+
+The USB port and microSD card slot are perfectly 
+ordinary beneath their flaps, but the Micro-SIM slot is a bit fidgety. 
+You have to fit your SIM card into a removable tray which can only be 
+extracted from the slot with a fingernail. Under the same flap, 
+there's also a pull-out tab with regulatory information printed on it, 
+which keeps the rear panel free of extra text and logos.
+
+You'll 
+find an unprotected 3.5mm headset jack on the top edge, and a large 
+speaker grille across the entire bottom. In another nod to potential 
+female buyers, there's a hole in the bottom right corner for a lanyard 
+or phone charm. 
+
+The rear panel is quite flat, with only the 
+camera lens and flash breaking up the vast expanse of (in our case pink)
+ plastic. Apart from a Sony logo in the middle and a smaller Xperia logo
+ on the bottom, there's a tiny printed icon to let you know that this 
+phone features the NFC wireless standard. 
+
+The only complaint we 
+have about the Z1 Compact's build quality is that the front and back are
+ a little too flexible, and we could feel the plastic bend with very 
+little pressure applied. For an otherwise rugged phone, this made us 
+feel just a little uneasy.
+
+Features and specificationsAs 
+already stated, the Z1 Compact is not a stripped-down phone. It's got 
+the kind of components we expect to see in a top-end device, including a 
+quad-core Qualcomm Snapdragon 800 SoC running at 2.2GHz with integrated 
+Adreno 330 graphics, 2GB of RAM, Android 4.3, a 2300mAh battery, and a 
+20.7-megapixel rear camera. The screen isn't full-HD 1080p, though at 
+4.3 inches diagonally, 720p is acceptable. There's 16GB of built-in 
+storage, and a microSD card slot for up to 64GB more.
+
+The complete
+ list of specifications manages to cover all bases, including high-speed
+ Wi-Fi ac, Bluetooth 4.0, NFC, GPS with GLONASS, LTE, FM radio, active 
+noise cancellation, and a USB port supporting HDMI video out via an MHL 
+adapter. The icing on the cake is an IP58 rating for waterproofing; in 
+this case the phone is rated for 30 minutes of exposure up to 1.5m deep.
+
+NFC
+ enables the Z1 Compact to pair with a range of accessories, including 
+Sony's Smart Watch 2, QX100 external camera, and various headsets or 
+speakers. You can also establish connections to other NFC-enabled 
+Android phones. Sony has equipped some of its TVs and laptops with NFC 
+too, so you can back up photos or show them off on a bigger screen.
+
+The front panel 
+is made with tempered glass, but this isn't the Gorilla Glass we're 
+familiar with. Sony
+ has also been sharing some of its technology (and trademarked 
+buzzwords) between departments of late, so the screen is a "Triluminous 
+display" with "X-Reality", which claims to reproduce a much wider colour
+ range than ordinary displays can, and improve image clarity.  The camera inherits Sony's "Exmor RS sensor", "G Lens", 
+and "Bionz" image processing tech.
+
+SoftwareThe Android skin
+ on Sony's current Xperia devices is rather extensive, and nearly 
+everything from the lock screen to the apps, has been customised. You 
+can create up to seven home screens and populate them with a variety of 
+widgets. 
+
+Sony has created quite a few of its own, including one 
+that seems to advertise music from Sony's label (and warns users that it
+ downloads "large amounts of data" the first time it's tapped). One lets
+ you launch the TrackID app and begin listening for music. Another 
+widget lets you launch the camera or one of the build in "camera apps" 
+(which we'll describe below). Beyond that, there are the usual weather, 
+music control, social, contacts and control widgets.
+
+The company 
+has also not shied away from docking its own Sony Liv and Sony Music 
+apps to the home screen. Other apps in the menu include Bigflix, Line, 
+LinkedIn, Box, Pixlr Express, X4 video player, and McAfee Security. Sony
+ also bundles Mobisystems Office Suite, but this is a trial that doesn't
+ let you create new documents.
+
+Smart Connect is an interesting app
+ that lets you send content to compatible Sony devices such as TVs and 
+speakers, and also trigger events that can happen on schedule or when 
+accessories are connected. For example, you can create a routine that 
+sets an alarm and turns all other sounds off if you plug in a charger 
+between 10pm and 7am. The conditions are pretty granular, and Sony has 
+made it easy to set up triggers and effects.
+
+In addition to the 
+usual slew of Google apps, there's a simple unit converter app, a 
+sketching app, a drag-and-share app for Bluetooth file transfers, a file
+ manager, and the aforementioned TrackID app. Interestingly, the default
+ Web browser is Chrome, and the stock Android browser is nowhere to be 
+seen.
+
+Sony's skin is a bit dense, and might intimidate new users. 
+We like the sidebar in the main menu that lets users rearrange apps, 
+although the search bar could have been a little more obvious to find. 
+The notifications panel has a convenient (and customisable) panel of 
+shortcut toggles for important settings, but even this looks a little 
+crowded.
+
+CameraSony makes a lot of claims about the 
+performance of the Z1 Compact's camera, including excellent low-light 
+performance, high sensitivity, low noise, vibrant realism, and pretty 
+much every marketing superlative you can come up with. We found many of 
+these claims to be accurate, but even so, there are limits to what a 
+smartphone camera can achieve.
+
+First of all, Sony has worked on a 
+pretty clever camera app. The interface isn't cluttered, and all the 
+important functions are a single tap away. The app can detect when 
+you're moving and when light is too low, and adjust itself accordingly. 
+There are also modes for macro shots and documents, which are pretty 
+handy. There's a large icon, like a camera's mode dial, which lets you 
+jump into any of the camera apps. These include a manual mode, timeshift
+ burst, sweep panorama, effect filters, and AR effect. By default, 
+you're in Superior Auto mode, which is simple and direct. Manual mode 
+gives you control over settings such as white balance, and access to 
+scenes including landscape, night, HDR, sports, snow and party.
+
+Timeshift
+ effect saves a burst of photos including a few buffered before you 
+actually hit the shutter. Picture effect offers nine options including 
+fisheye, sepia, kaleidoscope, selective colour, and Harris shutter. AR 
+effect tries to add things like dinosaurs or party hats to images, all 
+of which look rather silly but can be fun.
+
+There are also two 
+other camera apps: Info-eye and Social Live. The former lets you take 
+photos of objects and receive information based on an image recognition 
+search. This could include tourist monuments, products, or just 
+interesting sights. Social Live lets you broadcast live video on 
+Facebook, turning your phone into something like a remote webcam.
+
+(Click to see full size)
+
+While
+ these are all interesting, we got right down to testing image quality 
+without all the special effects. We found that the 20.7-megapixel photos
+ were rather good, with rich colours and effective contrast. The camera 
+was also exceptionally good at capturing images while in motion. Things 
+went a little downhill when we zoomed in all the way. Finer details in 
+shady areas of an image were noticeably unclear, and a bit of noise 
+crept in. Performance in various lighting conditions was consistent, 
+though we found the flash to be a little too aggressive sometimes; 
+drowning out nearby subjects.
+
+This is still a lot better than many
+ smartphone cameras can manage, but should illustrate that no matter how
+ many buzzwords a company throws out, expectations need to be realistic.
+
+PerformanceHere's
+ where the Z1 Compact gets to really show us what it's made of. We were 
+very pleased with the benchmark results, which are right up there with 
+the major flagships from most companies. SunSpider took only 916.6ms to 
+complete, and Mozilla Kraken took 7580.2ms, which is significantly 
+quicker than other mid-range "mini" phones. Quadrant returned a score of
+ 21,100 points, and AnTuTu raced ahead with 35,649 points.
+
+We were
+ also happy and relieved to see graphics performance right up there with
+ the best scores we have on record. GFXBench managed an impressive 34.9fps, and 
+3DMark maxed out, even in the more intensive Ice Storm Extreme scenario 
+designed for 1080p phones. We ran the Ice Storm Unlimited test instead, 
+which is usually reserved for more demanding tablets, and scored 17,976 
+points.
+
+Audio and video played back flawlessly, including our 
+heaviest 40mbps H.264 clip. Sound was loud across various games, movies and music files, but not very clear at high volume. Call quality was perfectly
+ ordinary, with nothing special to mention. The battery lasted for an impressive 11 hours, 52 minutes in our video loop test. 
+
+All of this makes for a very strong showing, and we're mighty impressed. The Xperia Z1 Compact is no lightweight. If there was any doubt left in your mind about this phone's capabilities, we hope they're well and truly laid to rest now.
+
+VerdictIt's 
+very easy to recommend the Z1 Compact. You might not like the styling or
+ the overabundance of ports and flaps, but that's the tradeoff for waterproofing, which is definitely a 
+neat feature. As for alternatives in this price range, you could buy an LG G2, which is 
+larger, or an iPhone 5c which is roughly the same size but not as powerful. 
+

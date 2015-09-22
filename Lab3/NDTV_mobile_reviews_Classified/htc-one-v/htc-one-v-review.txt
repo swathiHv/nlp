@@ -1,0 +1,360 @@
+HTC One V review
+
+HTC made a big splash at the Mobile World Congress this year when it 
+showcased three new devices under its HTC One umbrella, namely the One 
+X, One S and One V. The One V is the second device in the series to be 
+launched in the country. Priced at Rs. 19,399, the smartphone draws 
+attention thanks to its protruding chin design, which is reminiscent of 
+the HTC Legend. Unlike its elder siblings the One S and the One X, the 
+device sports a comparably smaller 3.7-inch display, which isn't 
+necessarily a bad thing. But is the device worthy of all the attention? 
+We take a look. Hardware/ DesignThe HTC One V has a
+ unibody aluminium chassis that gives it a premium look. The curved back
+ edges make the device quite conformable to hold. Drawing on 
+inspirations from the HTC Legend, a prominent design feature is its 
+kinked chin bottom that certainly differentiates it from the rest in its
+ category. With a 3.7-inch Gorilla Glass display, the One V
+ is about the same size as the iPhone 4. It sports a slender design at 
+9.2mm thick and is reasonably light at 115g. Following 
+suit of its One branded siblings, the One V limits physical buttons to a
+ power/wake button on top and a volume rocker on the right. The 3.5mm 
+headphone jack rests on the top with a notification LED that flashes 
+every time you get missed calls, messages and indicates the phone's 
+charging state. Just above the silver HTC logo on the 
+front, one can find a row of tiny holes for the earpiece. Since the top 
+of the glass is cut at this section, the sharp edges can get 
+uncomfortable when held up to the ear. The bottom has three capacitive 
+buttons for back, multi-tasking and home. The left panel houses the 
+Micro-USB port for charging and data transfers. The back 
+features a 5MP camera with LED flash at the top while the bottom has a 
+plastic cover that conceals the mic and speakers. When removed, one can 
+find slots for a full-sized SIM and a microSD card. The battery however 
+is non-user replaceable. DisplayThe HTC One V comes
+ with a 3.7-inch capacitive touch display covered with Corning's Gorilla
+ Glass. It supports a resolution of 800x480, giving it a pixel density 
+of about 252ppi. For a mid-range Android handset, the display is bright,
+ sharp and vibrant with no pixilation visible to the naked eye. It won't
+ be wrong to say that the LCD offering stacks up well against other 
+AMOLED and S-LCD smartphones available in this budget. The phone has 
+great viewing angles and text appears sharp even under the sun. CameraThe
+ One V comes with a 5MP rear camera on board, compared to the 
+8-megapixel shooter found in the One X as well as the One S. But what it
+ does inherit from the One family is ImageSense, which claims to provide
+ continuous shooting, ability to capture stills while shooting videos 
+and no shutter lag. The burst shot mode is the best 
+feature drawing its power from the ImageChip processor allowing you to 
+capture several images per second. You can press the on-screen shutter 
+button for as long as you need and then select the best from the stills 
+captured. Images look decent even under low light but it 
+is advisable to shoot with the Flash turned off. It tends to burn out 
+images and leave them unsaturated as well. The camera's autofocus 
+performs decent enough and seems reliable. You can also 
+add multiple effects to your pictures both before and after shooting. 
+Despite being HD capable, video recording quality might come as a 
+disappointment. The device is unable to switch between different 
+lighting conditions while recording. The built-in digital zoom only adds
+ to the poor performance of the smartphone's recording capabilities. Software/ InterfaceThe
+ device comes with Android 4.0 straight out of the box but is layered 
+with HTC's latest Sense 4.0 UI. The interface felt pretty smooth with no
+ lags absolutely whatsoever. The unlock ring gives you access to a range
+ of shortcuts to applications on your home screen. You can also use 
+exclusive Android 4.0 Google Apps such as Chrome Beta and a highly 
+improved version of Gmail. Sense 4.0 makes the phone extremely 
+user-friendly with multiple features allowing for smooth navigation 
+through various lists and menu options. And considering its Ice Cream 
+Sandwich, closing applications is just a swipe away. HTC 
+has put quite an effort when it comes to pre-installed apps on the 
+device. Third-party apps that ship with the smartphone include Facebook,
+ Twitter, Dropbox, Polaris Office, 7Digital (a music downloading 
+service, and TuneIn Radio (on-line streaming player). What also comes 
+along is HTC Hub, the company's own app store and Task Manager. Speaking
+ of Dropbox, the Taiwanese company is providing 25GB of free cloud 
+storage for two years with every purchase. PerformanceCourtesy 
+the single-core 1GHz Qualcomm Snapdragon processor, the One V produces 
+fairly decent results. Games like Temple Run and Fruit Ninja worked fine
+ with no lags at all. There are occasional hiccups when 
+running multiple applications or just loading them up. YouTube videos play out well with no pixilation and look crisp on the 3.7-inch display.  One area 
+where the device didn't disappoint is battery life.The 
+1500mAh battery did more than what was expected lasting an entire day on
+ a single charge before completely draining out. Daily users will be 
+satisfied with the battery life of the device. This was while 
+making/receiving calls, texting, playing a few levels of Angry Birds in 
+between and so on. Call quality was great too with virtually zero call 
+drops. Typing on the device feels a bit cramped in portrait mode and you
+ can't help but switch to landscape orientation for a more comfortable 
+typing experience. The One V boasts impressive 
+connectivity on both Wi-Fi and 3G networks. The browsing experience was a
+ breeze with pages loading rather fast and giving no trouble at all. 
+Speaking of browsing, there are a couple of new ICS features that the 
+One V can show off when compared to its Android 2.3 companions.  One
+ may notice In-page searching in the form of the 'Find on page' option. 
+Further additions include tabbed browsing along with the convenience of 
+foregoing mobile sites and heading over to the desktop version. Another 
+welcome feature is a dedicated Forward button for easy navigation. All 
+these features are easily accessible through the Menu option on the 
+right hand corner of the screen. Audio quality on the 
+device isn't perfect either. The Beats Audio integration only enhances 
+the sound which works alright when listening to certain type of music 
+but might get frustrating with others, especially with the earphones. If
+ you choose to listen to music on the audio speakers in a smaller, less 
+noisy environment, you may be satisfied. But take the phone into a crowd
+ and it's no good.  The smartphone comes with 512MB RAM and 4GB of internal storage which is expandable up to 32GB via microSD. VerdictDoes
+ the HTC One V live up to the One family tradition? It's bit of a mixed 
+bag. The device boasts impressive specs for a mid-range smartphone, not 
+to mention its unique design. Although it's not perfect enough, the 1GHz
+ single core processor does keep up the pace with minor lag issues when 
+switching between apps and menus. It has a strong form 
+factor that is sturdy and aesthetically pleasing, which separates it 
+from other candybar plastic-backed offerings currently available. ICS 
+on-board combined with the latest Sense UI is a worthwhile experience on
+ the device. Overall, the One V is premium in looks, as well as feel. Talking
+ of dislikes, the audio is a bit disappointing. Probably a bundled pair 
+of Beat headphones would work well with the Beats Audio integration. 
+Video recording is a letdown too with the built-in digital zoom only 
+making things worse. If you're looking for a device with 
+better processing capabilities then the Xperia sola (Rs. 20,449) might 
+be an option worth considering. The device is powered by a dual-core 
+processor and comes with a host of connectivity options including NFC 
+and DLNA support. The downside is that it runs on Android 2.3 but an ICS
+ update is on the cards. Nonetheless, if you're looking 
+for simplicity blended with excellence when it comes to getting more 
+than just the basics right, then the HTC One V could be the Ice Cream 
+Sandwich phone you desire. Check out our picture gallery for more images of the HTC One V.ProsDifferentiable and sturdy designDisplayICS out of the boxConsSloppy video recording capabilities Price: Rs. 19,399 Ratings (Out of 5)Design: 3.5Display: 3.5Performance: 3.5Software: 3.5Battery Life: 3.5Value for Money: 3Camera: 3Overall: 3.5
+
+HTC made a big splash at the Mobile World Congress this year when it 
+showcased three new devices under its HTC One umbrella, namely the One 
+X, One S and One V. The One V is the second device in the series to be 
+launched in the country. Priced at Rs. 19,399, the smartphone draws 
+attention thanks to its protruding chin design, which is reminiscent of 
+the HTC Legend. Unlike its elder siblings the One S and the One X, the 
+device sports a comparably smaller 3.7-inch display, which isn't 
+necessarily a bad thing. But is the device worthy of all the attention? 
+We take a look.
+
+ 
+
+Hardware/ DesignThe HTC One V has a
+ unibody aluminium chassis that gives it a premium look. The curved back
+ edges make the device quite conformable to hold. Drawing on 
+inspirations from the HTC Legend, a prominent design feature is its 
+kinked chin bottom that certainly differentiates it from the rest in its
+ category.
+
+ 
+
+With a 3.7-inch Gorilla Glass display, the One V
+ is about the same size as the iPhone 4. It sports a slender design at 
+9.2mm thick and is reasonably light at 115g.
+
+ 
+
+Following 
+suit of its One branded siblings, the One V limits physical buttons to a
+ power/wake button on top and a volume rocker on the right. The 3.5mm 
+headphone jack rests on the top with a notification LED that flashes 
+every time you get missed calls, messages and indicates the phone's 
+charging state.
+
+ 
+
+Just above the silver HTC logo on the 
+front, one can find a row of tiny holes for the earpiece. Since the top 
+of the glass is cut at this section, the sharp edges can get 
+uncomfortable when held up to the ear. The bottom has three capacitive 
+buttons for back, multi-tasking and home. The left panel houses the 
+Micro-USB port for charging and data transfers.
+
+ 
+
+The back 
+features a 5MP camera with LED flash at the top while the bottom has a 
+plastic cover that conceals the mic and speakers. When removed, one can 
+find slots for a full-sized SIM and a microSD card. The battery however 
+is non-user replaceable.
+
+ 
+
+DisplayThe HTC One V comes
+ with a 3.7-inch capacitive touch display covered with Corning's Gorilla
+ Glass. It supports a resolution of 800x480, giving it a pixel density 
+of about 252ppi. For a mid-range Android handset, the display is bright,
+ sharp and vibrant with no pixilation visible to the naked eye. It won't
+ be wrong to say that the LCD offering stacks up well against other 
+AMOLED and S-LCD smartphones available in this budget. The phone has 
+great viewing angles and text appears sharp even under the sun.
+
+ 
+
+CameraThe
+ One V comes with a 5MP rear camera on board, compared to the 
+8-megapixel shooter found in the One X as well as the One S. But what it
+ does inherit from the One family is ImageSense, which claims to provide
+ continuous shooting, ability to capture stills while shooting videos 
+and no shutter lag.
+
+ 
+
+The burst shot mode is the best 
+feature drawing its power from the ImageChip processor allowing you to 
+capture several images per second. You can press the on-screen shutter 
+button for as long as you need and then select the best from the stills 
+captured.
+
+ 
+
+Images look decent even under low light but it 
+is advisable to shoot with the Flash turned off. It tends to burn out 
+images and leave them unsaturated as well. The camera's autofocus 
+performs decent enough and seems reliable.
+
+ 
+
+You can also 
+add multiple effects to your pictures both before and after shooting. 
+Despite being HD capable, video recording quality might come as a 
+disappointment. The device is unable to switch between different 
+lighting conditions while recording. The built-in digital zoom only adds
+ to the poor performance of the smartphone's recording capabilities.
+
+ 
+
+Software/ InterfaceThe
+ device comes with Android 4.0 straight out of the box but is layered 
+with HTC's latest Sense 4.0 UI. The interface felt pretty smooth with no
+ lags absolutely whatsoever. The unlock ring gives you access to a range
+ of shortcuts to applications on your home screen. You can also use 
+exclusive Android 4.0 Google Apps such as Chrome Beta and a highly 
+improved version of Gmail. 
+
+Sense 4.0 makes the phone extremely 
+user-friendly with multiple features allowing for smooth navigation 
+through various lists and menu options. And considering its Ice Cream 
+Sandwich, closing applications is just a swipe away.
+
+ 
+
+HTC 
+has put quite an effort when it comes to pre-installed apps on the 
+device. Third-party apps that ship with the smartphone include Facebook,
+ Twitter, Dropbox, Polaris Office, 7Digital (a music downloading 
+service, and TuneIn Radio (on-line streaming player). 
+
+What also comes 
+along is HTC Hub, the company's own app store and Task Manager. Speaking
+ of Dropbox, the Taiwanese company is providing 25GB of free cloud 
+storage for two years with every purchase.
+
+ 
+
+PerformanceCourtesy 
+the single-core 1GHz Qualcomm Snapdragon processor, the One V produces 
+fairly decent results. Games like Temple Run and Fruit Ninja worked fine
+ with no lags at all. There are occasional hiccups when 
+running multiple applications or just loading them up. YouTube videos play out well with no pixilation and look crisp on the 3.7-inch display.
+
+ 
+
+ 
+
+One area 
+where the device didn't disappoint is battery life.The 
+1500mAh battery did more than what was expected lasting an entire day on
+ a single charge before completely draining out. Daily users will be 
+satisfied with the battery life of the device. This was while 
+making/receiving calls, texting, playing a few levels of Angry Birds in 
+between and so on. 
+
+Call quality was great too with virtually zero call 
+drops. Typing on the device feels a bit cramped in portrait mode and you
+ can't help but switch to landscape orientation for a more comfortable 
+typing experience.
+
+ 
+
+The One V boasts impressive 
+connectivity on both Wi-Fi and 3G networks. The browsing experience was a
+ breeze with pages loading rather fast and giving no trouble at all. 
+Speaking of browsing, there are a couple of new ICS features that the 
+One V can show off when compared to its Android 2.3 companions. 
+
+ 
+
+One
+ may notice In-page searching in the form of the 'Find on page' option. 
+Further additions include tabbed browsing along with the convenience of 
+foregoing mobile sites and heading over to the desktop version. Another 
+welcome feature is a dedicated Forward button for easy navigation. All 
+these features are easily accessible through the Menu option on the 
+right hand corner of the screen.
+
+ 
+
+Audio quality on the 
+device isn't perfect either. The Beats Audio integration only enhances 
+the sound which works alright when listening to certain type of music 
+but might get frustrating with others, especially with the earphones. If
+ you choose to listen to music on the audio speakers in a smaller, less 
+noisy environment, you may be satisfied. But take the phone into a crowd
+ and it's no good.
+
+ 
+
+ 
+
+The smartphone comes with 512MB RAM and 4GB of internal storage which is expandable up to 32GB via microSD.
+
+ 
+
+VerdictDoes
+ the HTC One V live up to the One family tradition? It's bit of a mixed 
+bag. The device boasts impressive specs for a mid-range smartphone, not 
+to mention its unique design. Although it's not perfect enough, the 1GHz
+ single core processor does keep up the pace with minor lag issues when 
+switching between apps and menus.
+
+ 
+
+It has a strong form 
+factor that is sturdy and aesthetically pleasing, which separates it 
+from other candybar plastic-backed offerings currently available. ICS 
+on-board combined with the latest Sense UI is a worthwhile experience on
+ the device. Overall, the One V is premium in looks, as well as feel.
+
+ 
+
+Talking
+ of dislikes, the audio is a bit disappointing. Probably a bundled pair 
+of Beat headphones would work well with the Beats Audio integration. 
+Video recording is a letdown too with the built-in digital zoom only 
+making things worse.
+
+ 
+
+If you're looking for a device with 
+better processing capabilities then the Xperia sola (Rs. 20,449) might 
+be an option worth considering. The device is powered by a dual-core 
+processor and comes with a host of connectivity options including NFC 
+and DLNA support. The downside is that it runs on Android 2.3 but an ICS
+ update is on the cards.
+
+ 
+
+Nonetheless, if you're looking 
+for simplicity blended with excellence when it comes to getting more 
+than just the basics right, then the HTC One V could be the Ice Cream 
+Sandwich phone you desire.
+
+ 
+
+ProsDifferentiable and sturdy designDisplayICS out of the box
+
+ConsSloppy video recording capabilities
+
+ 
+
+Price: Rs. 19,399
+
+ 
+
+Ratings (Out of 5)Design: 3.5Display: 3.5Performance: 3.5Software: 3.5Battery Life: 3.5Value for Money: 3Camera: 3Overall: 3.5
+

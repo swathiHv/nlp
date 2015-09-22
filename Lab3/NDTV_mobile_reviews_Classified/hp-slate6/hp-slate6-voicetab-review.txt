@@ -1,0 +1,314 @@
+HP Slate6 VoiceTab review
+
+In
+ a television commercial, Bollywood actress Deepika Padukone talks about
+ how she manages to pursue two passions - acting and badminton - at the 
+same time despite naysayers who believe it is impossible. Later, she 
+introduces the HP Slate6 VoiceTab and says it does something similar by 
+performing the functions of both a smartphone and a tablet. One might 
+find the commercial cheesy but we find the communication effective. HP's
+ marketing spiel wants us to believe that they are pioneering a new device category, but of course HP isn't the first OEM to 
+introduce a six-inch phablet. Nearly every manufacturer today has 
+aspirations of tapping into a market craving for big-screened 
+smartphones.Revolutionary or not, this oddly-sized device faces 
+tough competition in its price range. A full review might help quash 
+doubts about how the VoiceTab fares against heavyweights in this 
+category.Look and FeelThe ergonomic tradeoff of a six-inch
+ device is always a point of contention for prospective buyers. The 
+Slate6 has a thin bezel, which works to its advantage. The Slate6 is 
+also strikingly thin at 8.98mm.  But the device isn't exactly what you'd
+ call pocket friendly, and you'll need to use both hands for most basic 
+tasks. The rear cover is made of plastic and has a mosaic design.
+ The HP logo sits right below the 5MP camera and flash on the rear. The 
+name of the device - Slate6 - is so subtle against the mosaic print that
+ it feels as though HP doesn't want us to read it. The device doesn't 
+provide a firm grip and is somewhat slippery. The mechanism that is used
+ to open the rear cover is similar to Samsung's smartphones. Once open, 
+we can see a huge 3000mAh battery, a slot for the memory card, and two 
+SIM card slots; one mini and one micro. The rather grey and 
+somber front of the Slate6 has the six-inch screen with onscreen buttons
+ made popular by the Galaxy Nexus and Android 4.0 ICS. Right above the 
+screen is a front-facing camera and the proximity sensor. Also flanking 
+the top and bottom of the LCD are front-facing speakers. The bottom 
+seems bare, until you notice a miniscule hole for the microphone. The 
+top has space for a 3.5mm jack and a Micro-USB port for charging and 
+data transfer. A rather unusual dull gold trim runs around the edge of 
+the device. The left and right edges house the volume rocker and power 
+button respectively. HP's Slate6 is definitely a looker and 
+managed to grab attention with its flashy rear cover, but its size might
+ put a few people off. Moreover, the device flexes at the slightest 
+pressure, which doesn't bode well for its construction quality. Features and SpecificationsIt
+ is always advisable to keep expectations in check with a mid-range 
+device. Unfortunately for OEMs today, the price-to-performance ratio of 
+devices like the Moto G leads users to expect the moon from any device 
+priced above Rs. 15,000. The Slate6 features a Marvell PXA1088 
+quad-core processor clocked at 1.2 GHz and a Vivante GC1000 GPU (also 
+found in the Samsung Galaxy Tab 3).  For storage, the Slate6 offers 16GB
+ of internal storage and support for microSD cards up to 32GB in 
+capacity. Additionally, HP bundles 25GB of online storage from Box.com, 
+which is valid for life. HP has fitted the Slate6 with a 5MP rear camera
+ with flash, and the front-facing one is a 2MP unit. Both cameras are 
+capable of recording video at 720p resolution. Both SIM cards on 
+the Slate6 can connect to 2G networks on the 850/900/1800/1900 bands.  
+There is no LTE connectivity but HP provides 3G for high-speed internet 
+connectivity. We were slightly disappointed by the older Bluetooth 3.0 
+specification.  There are a few sensors, including an accelerometer, 
+gyro, proximity sensor, and compass.The HP Slate6's screen is a 
+720p panel. This means the pixel density is around 245ppi. Even at 
+maximum brightness, the screen is dull. There is a perceptible yellow 
+tinge to the whites, which is especially obvious when browsing web 
+pages. The viewing angles are below par as the screen dims the moment 
+you hold it at an angle of more than 45 degrees. SoftwareWe
+ are fans of vanilla Android, and any device without unnecessary 
+customisation will provide a smooth experience. Most OEMs that fork 
+Android to add their own customisation layer tend to make it either ugly
+ or bloated. We have to give HP brownie points for not fiddling with 
+Android, but the fact that it's the older version 4.2 Jellybean on the 
+Slate6 is also disappointing. When HP launched this phone in the 
+market initially, there were a few performance issues which have since 
+been rectified with a software update. We downloaded it and it worked. 
+For the most part, the operating system is smooth except when opening 
+apps. For people interested in this device, there are a few perks 
+that HP bundles in the form of exclusive offers, such as a free 
+three-month India Today subscription, travel vouchers worth Rs. 5,100 on
+ MakeMyTrip, and a 15 percent discount on in-app purchases made using 
+the Bag It Today app. HP also bundles the Kingsoft Office suite with the
+ Slate6, which is definitely a useful addition. The Slate6 also 
+features a few additional HP apps, such as HP Connected Music, HP 
+e-Print, HP Connected Photo and HP File Manager. We tried HP File 
+Manager a couple of times but it was sluggish almost to the point of 
+being unusable, thanks to an unnecessarily flashy interface. CameraThere
+ is no special camera app bundled with the Slate6. The default Android 
+app is barebones with respect to features, but it works. The 
+performance of the 5MP camera indoors was a pleasant surprise. We were 
+happy to see photographs came out with neutral colours that weren't 
+overblown. The situation takes an odd turn when we tried it out in 
+daylight. The green leaves in our daylight shots merged into each other,
+ leading to a loss of detail in some photographs. Low-light performance 
+was below par and unusable. Also, the camera seems to have an issue 
+focusing on the right area. Videos are saved in 3gp format. 
+Despite being recorded at 720p, videos are almost unusable. There is a 
+very evident colour spill in moving objects, and the level of detail 
+captured isn't great either. The 2MP front camera only works decently 
+under good light. Overall, the cameras are a mixed bag.(Click to see full size)PerformanceMost
+ Android devices these days boast of at least a quad-core processor. 
+However, that's no guarantee of performance. In day-to-day usage, the 
+Marvell processor inside the Slate6 felt sluggish while opening apps. 
+Our benchmark results corroborated this impression. AnTuTu 
+returned a score of 11,207 while the Slate6 scored a low 3,534 overall 
+in our Quadrant benchmark. Devices priced much lower perform better. 
+HP's choice of processor is the culprit. Moreover, the Vivante GC1000 is
+ a non-performer. Don't expect the Slate6 to run any graphically 
+intensive games. The GFXbench score was an abysmal 5.1fps. In fact, we 
+ran it thrice just to confirm the results.  Adding to our woes was the 
+below average 3DMark score of 3,054. Browser tests didn't fare any 
+better - the SunSpider score was 1,686ms and Browsermark 2.0 returned a 
+score of 1,927. Surprisingly, HP pulls a rabbit out of the hat 
+with the Slate6's video performance. To our complete surprise, the 
+default video player played all the files we threw at it without any 
+artefacting or skipping frames. This includes our heaviest 1080p video 
+encoded at 40mbps. It doesn't play .avi files out of the box. The chinks
+ in the armor are the dual front-facing speakers, which are soft and not
+ very clear. HP doesn't bundle earphones with the Slate6. We used our 
+own reference headset and were generally impressed with the quality of 
+audio.  The 3,000mAh battery under the hood lasted for 6 hours, 33
+ minutes in our continuous video loop test. This is a mediocre result, 
+and users will need to charge the device at least once a day. VerdictProponents
+ of big-screen devices - a large majority today - always argue that 
+watching videos is a great experience and typing on a larger keyboard is
+ easier. We find it difficult to recommend this device even to them. 
+Yes, it plays most video formats out of the box, but so will the Sony 
+Xperia T2 Ultra and the Gionee Elife E7. The latter has a 5.5-inch 
+screen and is a powerhouse device packing a top end Snapdragon 800 under
+ its hood. Considering the competition, quite frankly, you can easily 
+give the HP Slate6 VoiceTab a miss. And no amount of insistence by Ms. 
+Padukone can change that fact.  
+HP Slate6 VoiceTab in pictures
+
+
+In
+ a television commercial, Bollywood actress Deepika Padukone talks about
+ how she manages to pursue two passions - acting and badminton - at the 
+same time despite naysayers who believe it is impossible. Later, she 
+introduces the HP Slate6 VoiceTab and says it does something similar by 
+performing the functions of both a smartphone and a tablet. One might 
+find the commercial cheesy but we find the communication effective. 
+
+HP's
+ marketing spiel wants us to believe that they are pioneering a new device category, but of course HP isn't the first OEM to 
+introduce a six-inch phablet. Nearly every manufacturer today has 
+aspirations of tapping into a market craving for big-screened 
+smartphones.
+
+Revolutionary or not, this oddly-sized device faces 
+tough competition in its price range. A full review might help quash 
+doubts about how the VoiceTab fares against heavyweights in this 
+category.
+
+Look and Feel
+
+The ergonomic tradeoff of a six-inch
+ device is always a point of contention for prospective buyers. The 
+Slate6 has a thin bezel, which works to its advantage. The Slate6 is 
+also strikingly thin at 8.98mm.  But the device isn't exactly what you'd
+ call pocket friendly, and you'll need to use both hands for most basic 
+tasks. 
+
+The rear cover is made of plastic and has a mosaic design.
+ The HP logo sits right below the 5MP camera and flash on the rear. The 
+name of the device - Slate6 - is so subtle against the mosaic print that
+ it feels as though HP doesn't want us to read it. The device doesn't 
+provide a firm grip and is somewhat slippery. The mechanism that is used
+ to open the rear cover is similar to Samsung's smartphones. Once open, 
+we can see a huge 3000mAh battery, a slot for the memory card, and two 
+SIM card slots; one mini and one micro. 
+
+The rather grey and 
+somber front of the Slate6 has the six-inch screen with onscreen buttons
+ made popular by the Galaxy Nexus and Android 4.0 ICS. Right above the 
+screen is a front-facing camera and the proximity sensor. Also flanking 
+the top and bottom of the LCD are front-facing speakers. The bottom 
+seems bare, until you notice a miniscule hole for the microphone. The 
+top has space for a 3.5mm jack and a Micro-USB port for charging and 
+data transfer. A rather unusual dull gold trim runs around the edge of 
+the device. The left and right edges house the volume rocker and power 
+button respectively. 
+
+HP's Slate6 is definitely a looker and 
+managed to grab attention with its flashy rear cover, but its size might
+ put a few people off. Moreover, the device flexes at the slightest 
+pressure, which doesn't bode well for its construction quality. 
+
+Features and Specifications
+
+It
+ is always advisable to keep expectations in check with a mid-range 
+device. Unfortunately for OEMs today, the price-to-performance ratio of 
+devices like the Moto G leads users to expect the moon from any device 
+priced above Rs. 15,000. 
+
+The Slate6 features a Marvell PXA1088 
+quad-core processor clocked at 1.2 GHz and a Vivante GC1000 GPU (also 
+found in the Samsung Galaxy Tab 3).  For storage, the Slate6 offers 16GB
+ of internal storage and support for microSD cards up to 32GB in 
+capacity. Additionally, HP bundles 25GB of online storage from Box.com, 
+which is valid for life. HP has fitted the Slate6 with a 5MP rear camera
+ with flash, and the front-facing one is a 2MP unit. Both cameras are 
+capable of recording video at 720p resolution. 
+
+Both SIM cards on 
+the Slate6 can connect to 2G networks on the 850/900/1800/1900 bands.  
+There is no LTE connectivity but HP provides 3G for high-speed internet 
+connectivity. We were slightly disappointed by the older Bluetooth 3.0 
+specification.  There are a few sensors, including an accelerometer, 
+gyro, proximity sensor, and compass.
+
+The HP Slate6's screen is a 
+720p panel. This means the pixel density is around 245ppi. Even at 
+maximum brightness, the screen is dull. There is a perceptible yellow 
+tinge to the whites, which is especially obvious when browsing web 
+pages. The viewing angles are below par as the screen dims the moment 
+you hold it at an angle of more than 45 degrees. 
+
+Software
+
+We
+ are fans of vanilla Android, and any device without unnecessary 
+customisation will provide a smooth experience. Most OEMs that fork 
+Android to add their own customisation layer tend to make it either ugly
+ or bloated. We have to give HP brownie points for not fiddling with 
+Android, but the fact that it's the older version 4.2 Jellybean on the 
+Slate6 is also disappointing. 
+
+When HP launched this phone in the 
+market initially, there were a few performance issues which have since 
+been rectified with a software update. We downloaded it and it worked. 
+For the most part, the operating system is smooth except when opening 
+apps. 
+
+For people interested in this device, there are a few perks 
+that HP bundles in the form of exclusive offers, such as a free 
+three-month India Today subscription, travel vouchers worth Rs. 5,100 on
+ MakeMyTrip, and a 15 percent discount on in-app purchases made using 
+the Bag It Today app. HP also bundles the Kingsoft Office suite with the
+ Slate6, which is definitely a useful addition. 
+
+The Slate6 also 
+features a few additional HP apps, such as HP Connected Music, HP 
+e-Print, HP Connected Photo and HP File Manager. We tried HP File 
+Manager a couple of times but it was sluggish almost to the point of 
+being unusable, thanks to an unnecessarily flashy interface. 
+
+Camera
+
+There
+ is no special camera app bundled with the Slate6. The default Android 
+app is barebones with respect to features, but it works. 
+
+The 
+performance of the 5MP camera indoors was a pleasant surprise. We were 
+happy to see photographs came out with neutral colours that weren't 
+overblown. The situation takes an odd turn when we tried it out in 
+daylight. The green leaves in our daylight shots merged into each other,
+ leading to a loss of detail in some photographs. Low-light performance 
+was below par and unusable. Also, the camera seems to have an issue 
+focusing on the right area.
+
+ 
+
+Videos are saved in 3gp format. 
+Despite being recorded at 720p, videos are almost unusable. There is a 
+very evident colour spill in moving objects, and the level of detail 
+captured isn't great either. The 2MP front camera only works decently 
+under good light. Overall, the cameras are a mixed bag.
+
+(Click to see full size)
+
+Performance
+
+Most
+ Android devices these days boast of at least a quad-core processor. 
+However, that's no guarantee of performance. In day-to-day usage, the 
+Marvell processor inside the Slate6 felt sluggish while opening apps. 
+Our benchmark results corroborated this impression. 
+
+AnTuTu 
+returned a score of 11,207 while the Slate6 scored a low 3,534 overall 
+in our Quadrant benchmark. Devices priced much lower perform better. 
+HP's choice of processor is the culprit. Moreover, the Vivante GC1000 is
+ a non-performer. Don't expect the Slate6 to run any graphically 
+intensive games. The GFXbench score was an abysmal 5.1fps. In fact, we 
+ran it thrice just to confirm the results.  Adding to our woes was the 
+below average 3DMark score of 3,054. Browser tests didn't fare any 
+better - the SunSpider score was 1,686ms and Browsermark 2.0 returned a 
+score of 1,927. 
+
+Surprisingly, HP pulls a rabbit out of the hat 
+with the Slate6's video performance. To our complete surprise, the 
+default video player played all the files we threw at it without any 
+artefacting or skipping frames. This includes our heaviest 1080p video 
+encoded at 40mbps. It doesn't play .avi files out of the box. The chinks
+ in the armor are the dual front-facing speakers, which are soft and not
+ very clear. HP doesn't bundle earphones with the Slate6. We used our 
+own reference headset and were generally impressed with the quality of 
+audio. 
+
+ 
+
+The 3,000mAh battery under the hood lasted for 6 hours, 33
+ minutes in our continuous video loop test. This is a mediocre result, 
+and users will need to charge the device at least once a day. 
+
+Verdict
+
+Proponents
+ of big-screen devices - a large majority today - always argue that 
+watching videos is a great experience and typing on a larger keyboard is
+ easier. We find it difficult to recommend this device even to them. 
+Yes, it plays most video formats out of the box, but so will the Sony 
+Xperia T2 Ultra and the Gionee Elife E7. The latter has a 5.5-inch 
+screen and is a powerhouse device packing a top end Snapdragon 800 under
+ its hood. Considering the competition, quite frankly, you can easily 
+give the HP Slate6 VoiceTab a miss. And no amount of insistence by Ms. 
+Padukone can change that fact.  
+

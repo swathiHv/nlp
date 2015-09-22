@@ -1,0 +1,191 @@
+Micromax Canvas Spark Review: Pocket-Friendly Smartphone
+
+Ever
+ since Motorola launched the ultra-budget Moto E (Review | Pictures) last year and enticed first-time smartphone buyers, other big brands such as Asus, Lenovo, and 
+Xiaomi have followed suit. While Micromax has had options in
+ that price range for years now, the price-to-performance ratio of those
+ smartphones was skewed. The only exception was the Micromax Canvas A1 -
+ one of the three Android One smartphones made to Google's own standards. Recently, Micromax launched the Canvas Spark, a 
+phone that costs a little under Rs. 5,000 and runs Android Lollipop 
+out-of-the-box. The Micromax Canvas Spark also has a quad-core processor.
+ Should this be the smartphone any first-time buyer should 
+consider? Let's find out.Look and feelMicromax has pulled out 
+all the stops to create a premium-looking budget device; the 
+Canvas Spark. We received a white/gold unit for review but it is 
+also available in a grey/silver option. The matte rear curves gently, and
+ coupled with the phone's 8.5mm thickness, makes this phone feel really good to hold. 
+Moreover, the weight of 134g is distributed evenly across the entire 
+body. The gold trim running around the edges is actually plastic but Micromax has given it a metallic coating to 
+add some sheen. We saw a similar colour scheme in the Micromax 
+Canvas Gold A300.A 4.7-inch screen is front and centre. Above it, one can find the earpiece, front camera, and 
+ambient light sensor. Micromax has gone with a row of touch-sensitive 
+capacitive buttons for navigation, placed right below the screen. 
+These Lollipop-style buttons have thin outlines and are not backlit, which makes it very 
+difficult to see them properly.The 
+volume rocker and power button are on the right edge. The tactile feedback of these buttons is average at best. Machine-drilled holes for the speaker grille are on the 
+bottom of the rear. The camera module on the rear juts slightly out of the 
+main body, thereby potentially exposing it to scratches and also causing 
+the phone to wobble slightly when placed on a flat surface. A thick metallic Micromax logo is placed below the camera. The rear cover is 
+removable but it only reveals the SIM card slots and the microSD card 
+slot; the battery is not accessible. Specifications and softwareMicromax
+has used the tried-and-tested MediaTek MT6582 SoC on the Canvas Spark. This
+ SoC uses four 1.3GHz processor cores and integrated Mali 400 
+graphics. The phone also has 1GB of RAM and 8GB of internal storage
+ space. Storage can be expanded by up to 32GB using
+ a microSD card. The primary camera on the Canvas Spark can 
+capture 8-megapixel still images and shoot 720p video, and there is a 2-megapixel camera on the front. The phone accepts two Micro-SIM 
+cards, of which at least one can connect to a 3G network. Rounding off 
+the other connectivity options are Wi-Fi a/b/g/n and Bluetooth v4.0. A 2000mAh battery powers the device, giving it a 
+rated talk time of 7 hours and rated standby time of 335 hours. The 
+4.7-inch IPS screen has a resolution of 540x960, which is similar to 
+that of the Motorola Moto E (Gen 2). However, the screen of the Moto E (Gen
+ 2) is slightly smaller at 4.5 inches and therefore looks a little sharper. The Canvas Spark's screen is average at best with decent viewing
+ angles but below-average sunlight legibility. Thankfully, the display isn't over saturated and the warm colours look pleasant. The screen is protected by Corning's Gorilla Glass 3, which is good. Micromax hasn't played around much with the stock version of Android Lollipop except 
+for changing the background of the app drawer from white to a slightly 
+transparent dark grey, and the default icons to pastel-coloured
+ flat set. This is actually a great move because the stock Android Lollipop experience is very polished. Micromax has also thrown in a whole ton of third-party apps, 
+most of which won't be useful for most people and cannot be uninstalled.Performance and cameraWe
+ won't mince any words - we faced a lot of performance issues with the 
+Canvas Spark. There were times when an app wouldn't open for a good 15 
+seconds after we had touched its icon. Also, sometimes the screen 
+wouldn't be responsive after waking the device from standby. Thankfully, these issues
+ didn't completely break the experience but the phone definitely did not feel smooth enough. High-end games struggled with constant stutters, but casual games worked fine. We must 
+highlight the fact that all the Android One phones use the same SoC, but 
+provide a better experience.In the AnTuTu and Quadrant 
+benchmark tests the phone scored 19,499 and 5,494 points respectively, which are in line with
+ what we achieved with other phones with similar hardware. The Canvas Spark also 
+scored 9.3fps and 3,231 in the GFXbench and 3DMark Ice Storm graphics tests. We
+ ran our regular set of sample videos and the Canvas Spark only barely managed
+ to play the 1080p files; we faced 
+constant frame drops. The speaker is adequately loud but sound 
+breaks at high volumes. The bundled headset offers decent sound quality but
+things improved drastically when we used a pair of reference earphones. The
+ sound in phone calls was good and we didn't face any call drops. The 2000mAh battery inside the Canvas Spark lasted 7 hours and 16 
+minutes in our video loop test, which is almost on par with other
+ phones in the same price range. We must add that in daily use
+ we saw the battery life drop drastically whenever we performed any 
+processor-intensive task. The 8-megapixel camera is clearly no patch on the Infocus M2's (Review | Pictures), which sells for almost the same price
+ as the Canvas Spark. Our sample images did not have properly defined shadows. A lot of areas, especially those which weren't in 
+focus, were clearly underexposed and colours were slightly 
+oversaturated. The camera app stuttered badly when capturing 720p 
+video (the highest resolution possible on this phone) but the 
+captured footage was fine, apart from some camera 
+shake and the same underexposure issues. Low-light shots were 
+mostly grainy. The front camera also struggled with letting in adequate light. VerdictWe really like what Micromax has tried to achieve with the Canvas Spark, but 
+unfortunately all that effort didn't really amount to tangible 
+performance. The design and the price are the main saving graces for
+ this phone. At Rs. 4,999 the Canvas Spark undercuts a lot of the 
+competition by at least a thousand rupees, which makes it relatively decent value for money
+ for those shopping with a strict budget cap. However, we'd still
+ suggest spending a little more and buying the Motorola Moto E (Gen 2) [Review | Pictures] or theXiaomi Redmi 2 (Review | Pictures) instead because for a little bit extra, you can get a much, much better smartphone experience.
+Micromax Canvas Spark in pictures
+
+Ever
+ since Motorola launched the ultra-budget Moto E (Review | Pictures) last year and enticed first-time smartphone buyers, other big brands such as Asus, Lenovo, and 
+Xiaomi have followed suit. While Micromax has had options in
+ that price range for years now, the price-to-performance ratio of those
+ smartphones was skewed. The only exception was the Micromax Canvas A1 -
+ one of the three Android One smartphones made to Google's own standards. 
+
+Recently, Micromax launched the Canvas Spark, a 
+phone that costs a little under Rs. 5,000 and runs Android Lollipop 
+out-of-the-box. The Micromax Canvas Spark also has a quad-core processor.
+ Should this be the smartphone any first-time buyer should 
+consider? Let's find out.
+
+Look and feelMicromax has pulled out 
+all the stops to create a premium-looking budget device; the 
+Canvas Spark. We received a white/gold unit for review but it is 
+also available in a grey/silver option. The matte rear curves gently, and
+ coupled with the phone's 8.5mm thickness, makes this phone feel really good to hold. 
+Moreover, the weight of 134g is distributed evenly across the entire 
+body. The gold trim running around the edges is actually plastic but Micromax has given it a metallic coating to 
+add some sheen. We saw a similar colour scheme in the Micromax 
+Canvas Gold A300.
+
+A 4.7-inch screen is front and centre. Above it, one can find the earpiece, front camera, and 
+ambient light sensor. Micromax has gone with a row of touch-sensitive 
+capacitive buttons for navigation, placed right below the screen. 
+These Lollipop-style buttons have thin outlines and are not backlit, which makes it very 
+difficult to see them properly.
+
+The 
+volume rocker and power button are on the right edge. The tactile feedback of these buttons is average at best. Machine-drilled holes for the speaker grille are on the 
+bottom of the rear. The camera module on the rear juts slightly out of the 
+main body, thereby potentially exposing it to scratches and also causing 
+the phone to wobble slightly when placed on a flat surface. A thick metallic Micromax logo is placed below the camera. The rear cover is 
+removable but it only reveals the SIM card slots and the microSD card 
+slot; the battery is not accessible. 
+
+Specifications and softwareMicromax
+has used the tried-and-tested MediaTek MT6582 SoC on the Canvas Spark. This
+ SoC uses four 1.3GHz processor cores and integrated Mali 400 
+graphics. The phone also has 1GB of RAM and 8GB of internal storage
+ space. Storage can be expanded by up to 32GB using
+ a microSD card. 
+
+The primary camera on the Canvas Spark can 
+capture 8-megapixel still images and shoot 720p video, and there is a 2-megapixel camera on the front. The phone accepts two Micro-SIM 
+cards, of which at least one can connect to a 3G network. Rounding off 
+the other connectivity options are Wi-Fi a/b/g/n and Bluetooth v4.0. A 2000mAh battery powers the device, giving it a 
+rated talk time of 7 hours and rated standby time of 335 hours. 
+
+The 
+4.7-inch IPS screen has a resolution of 540x960, which is similar to 
+that of the Motorola Moto E (Gen 2). However, the screen of the Moto E (Gen
+ 2) is slightly smaller at 4.5 inches and therefore looks a little sharper. The Canvas Spark's screen is average at best with decent viewing
+ angles but below-average sunlight legibility. Thankfully, the display isn't over saturated and the warm colours look pleasant. The screen is protected by Corning's Gorilla Glass 3, which is good. 
+
+Micromax hasn't played around much with the stock version of Android Lollipop except 
+for changing the background of the app drawer from white to a slightly 
+transparent dark grey, and the default icons to pastel-coloured
+ flat set. This is actually a great move because the stock Android Lollipop experience is very polished. Micromax has also thrown in a whole ton of third-party apps, 
+most of which won't be useful for most people and cannot be uninstalled.
+
+Performance and cameraWe
+ won't mince any words - we faced a lot of performance issues with the 
+Canvas Spark. There were times when an app wouldn't open for a good 15 
+seconds after we had touched its icon. Also, sometimes the screen 
+wouldn't be responsive after waking the device from standby. Thankfully, these issues
+ didn't completely break the experience but the phone definitely did not feel smooth enough. High-end games struggled with constant stutters, but casual games worked fine. We must 
+highlight the fact that all the Android One phones use the same SoC, but 
+provide a better experience.
+
+In the AnTuTu and Quadrant 
+benchmark tests the phone scored 19,499 and 5,494 points respectively, which are in line with
+ what we achieved with other phones with similar hardware. The Canvas Spark also 
+scored 9.3fps and 3,231 in the GFXbench and 3DMark Ice Storm graphics tests. 
+
+We
+ ran our regular set of sample videos and the Canvas Spark only barely managed
+ to play the 1080p files; we faced 
+constant frame drops. The speaker is adequately loud but sound 
+breaks at high volumes. The bundled headset offers decent sound quality but
+things improved drastically when we used a pair of reference earphones. The
+ sound in phone calls was good and we didn't face any call drops. 
+
+The 2000mAh battery inside the Canvas Spark lasted 7 hours and 16 
+minutes in our video loop test, which is almost on par with other
+ phones in the same price range. We must add that in daily use
+ we saw the battery life drop drastically whenever we performed any 
+processor-intensive task. 
+
+The 8-megapixel camera is clearly no patch on the Infocus M2's (Review | Pictures), which sells for almost the same price
+ as the Canvas Spark. Our sample images did not have properly defined shadows. A lot of areas, especially those which weren't in 
+focus, were clearly underexposed and colours were slightly 
+oversaturated. The camera app stuttered badly when capturing 720p 
+video (the highest resolution possible on this phone) but the 
+captured footage was fine, apart from some camera 
+shake and the same underexposure issues. Low-light shots were 
+mostly grainy. The front camera also struggled with letting in adequate light.
+
+ 
+
+VerdictWe really like what Micromax has tried to achieve with the Canvas Spark, but 
+unfortunately all that effort didn't really amount to tangible 
+performance. The design and the price are the main saving graces for
+ this phone. At Rs. 4,999 the Canvas Spark undercuts a lot of the 
+competition by at least a thousand rupees, which makes it relatively decent value for money
+ for those shopping with a strict budget cap. However, we'd still
+ suggest spending a little more and buying the Motorola Moto E (Gen 2) [Review | Pictures] or theXiaomi Redmi 2 (Review | Pictures) instead because for a little bit extra, you can get a much, much better smartphone experience.
+

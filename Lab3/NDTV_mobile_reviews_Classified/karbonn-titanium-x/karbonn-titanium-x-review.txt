@@ -1,0 +1,407 @@
+Karbonn Titanium X review
+
+One of the most remarkable trends in the Indian mobile industry over the
+ past few months has been the rise of smartphones sporting full-HD 
+screens. Although such devices used to cost a lot of money in the past, a
+ number of companies are now releasing more wallet-friendly models. The 
+trend in the country might have been set by global brands, but Indian 
+domestic handset makers are not far behind. Micromax was the first 
+Indian brand to join the full-HD bandwagon with its Canvas Turbo 
+launched last year. Now, after a period of relative quiet, Karbonn has 
+marked its return to the Indian market with its first smartphone with 
+full-HD display, the Karbonn Titanium X. Karbonn is clearly in the mood 
+to win significant market share, and it's back with a vengeance in terms
+ of both specifications and price. But does company's first full-HD 
+smartphone, the Titanium X, pack enough punch to overcome more 
+established players such as Samsung, Micromax, HTC, LG and Xolo? We take
+ a closer look.Look and feelThe Titanium X is a departure 
+from the company's usual Android smartphone design, and it looks like a 
+lot of time was spent on the design stage. The Karbonn Titanium X is 
+definitely light at 143 grams, and sports rounded edges. It is sturdy, 
+but it might be a little too wide for single-handed operation, and those
+ blessed with smaller palms will find it tiring to carry the device 
+around.The 5.0-inch full-HD display takes up most of the space in
+ the front with a silver lining around the edges. Like most other 
+smartphones, the ambient light and proximity sensors are lined up on top
+ alongside the earpiece and front-facing camera. We were amazed to see 
+the 5-megapixel front-facing camera accompanied by an LED flash at the 
+top. We assume that it's meant to be helpful for taking selfies. Beneath
+ the display one can find the Home, Back and Menu capacitive buttons 
+marked by dotes, rather than the standard Jelly Bean icons. Notably, the
+ front has no logo branding, much like Nexus smartphones. The 
+Titanium X's back is made of shiny plastic and tends to slip out of the 
+hand during prolonged usage. The plasticky rear panel houses a 
+13-megapixel camera with dual LED flash, and there's a loudspeaker at 
+the bottom left. There is a Karbonn logo just beneath the rear camera. 
+The power button is on the right panel and we had no problem hitting it 
+anytime, while the volume rocker buttons are placed on the left side. We
+ wish the volume controls had been placed a bit lower on the left panel,
+ because at times we had to use both are hands to adjust the volume. The
+ top panel houses a 3.5mm audio jack accompanied by the SIM tray, and 
+the Micro-USB port is on the bottom. Getting to the SIM card tray on the
+ Titanium X can be a problem as you have to open a flap next to the 
+headset jack and then insert a pin to pop the tray out. The process 
+takes some effort, and isn't intuitive at all. At a glance you 
+might think the Karbonn Titanium X uses a unibody design, but it has a 
+removable back panel even though the battery is non-removable. 
+Unfortunately, this phone is only available in white. DisplayThe
+ screen of a smartphone is a critical aspect to consider when making a 
+purchase decision, and of late, smartphones such as the Spice Pinnacle 
+FHD, Wicked Leak Wammy
+ Passion Z Plus and 
+Micromax Canvas Turbo have hit the market, all with full-HD displays and
+ all priced under Rs. 20,000. The Karbonn Titanium X now joins the same 
+club. An HD screen might not make a difference to many people, but when 
+you hold one of these phones up next to a device with a low-resolution 
+screen, you can see the difference.The Titanium X features a 
+5.0-inch IPS full-HD (1080x1920 pixels) screen with pixel density of 
+441ppi. The panel attracts a lot of smudges, but nothing that cannot be 
+wiped away quickly. The screen has decent viewing angles and though 
+colour reproduction is not the best, it gets the job done.Since 
+the Titanium X is equipped with an IPS display, we found that it was 
+good to read text on. Browsing the Web and prolonged reading on the 
+device were also relatively comfortable, thanks to the large screen. The
+ touch response of the Titanium X works smoothly.At full 
+brightness under indoor lighting, the screen performs decently. Under 
+direct sunlight, we found it hard to read even at full brightness, and 
+we had to use our palms to shade the screen to be able to see what's on 
+it.CameraIn terms of photographic ability, Karbonn has 
+equipped the mid-range Titanium X with a 13-megapixel autofocus rear 
+camera accompanied by a dual-LED flash. The rear camera offers 4x 
+digital zoom, HD (1080p) video recording, touch to focus and a panorama 
+mode. The Titanium X also includes HDR mode for video recording, which 
+has been seen on some high-end Android smartphones. Other features seen 
+in the camera app include portrait retouch, self-timer, self-portrait 
+voice guide, smile shutter, focus mode, and ISO and exposure value 
+adjustment. The rear camera can click images at a maximum resolution of 
+4128x3096 pixels. We were disappointed with the camera, which, in
+ spite of a number of shooting options, did not really match up to our 
+expectations. We tested the Titanium X's rear camera in outdoor, dim and
+ indoor environments, and found that picture quality was average, with 
+washed out colours and grainy edges. The photos taken under well-lit 
+conditions were somewhat better than those taken in low light, which had
+ a lot of noise. Notably, the camera shutter is comparatively 
+slower than the other Android smartphones, which means this phone is 
+only good for taking pictures in a pinch.The front facing 
+5-megapixel camera on the Titanium X is pretty decent compared to other 
+mid-range Android devices and can be used for video calls over Skype 
+and, of course, taking selfies. We found videos and images captured both
+ indoors and outdoors through this camera to be a bit grainy. The 
+company has added a front-facing LED flash, which comes in handy when 
+clicking in low-light.Software/ InterfaceAt a time when 
+the world is waiting for Android 4.4.2 KitKat to arrive on its handsets,
+ Karbonn has used Android 4.2 Jelly Bean for the Titanium X, which is 
+disappointing. The Karbonn Titanium X ships with Android 4.2.2 
+out of the box. It might not be the most up-to-date, but it's the most 
+popular version of Android on mid-range smartphones in India at the 
+moment. We are yet to hear any details about Karbonn's plans to update 
+the Titanium X. Karbonn is using some skinned elements such as 
+app icons. Although the changes are not as radical as HTC's Sense UI or 
+Samsung's TouchWiz UI, a few neat touches have been added to the OS 
+without becoming intrusive. Similar to other Android 4.2 devices,
+ the notifications tray on the Titanium X features a settings shortcut 
+and a 'clear all' button. On expanding the settings button one can find 
+options for quick access to the user profile, airplane mode, battery 
+status, Wi-Fi, Bluetooth, GPS, data connectivity, data usage status, 
+audio profiles (for alerts and other notifications), brightness, display
+ timeout and auto rotation.The Karbonn Titanium X comes with 
+standard Android features such as the lock-screen widgets. One can 
+choose from Calendar, Digital Clock, Gmail, Google Now, Google+ posts 
+and Messaging along with any third-party widgets. These show information
+ and help in performing actions quickly, even without unlocking the 
+device. Users can also launch the camera directly from the lock screen 
+by pressing the power button and then swiping to the right of the 
+screen. The native Music and Video apps on the Titanium X offer 
+very basic functions. The music player does not offer many options while
+ listening to music, and the default video player was unable to support 
+some popular video formats like .AVI and .MKV. This isn't a problem 
+thanks to the easy availability of third-party video players. The
+ Karbonn Titanium X comes with some preloaded apps including Flipboard, 
+Hugama, Maxthon Browser, mydala, Truecaller, UC Browser, and WhatsApp. 
+The Titanium X also comes preloaded with a host of Google apps such as 
+Gmail, Google Search, Google+, Hangouts, Google Maps, Play Books, Play 
+Movies and TV, Play Store and YouTube. Performance/ Battery LifeThe
+ Karbonn Titanium X is powered by a quad-core MediaTek chipset (MT6589T)
+ clocked at 1.5GHz along with 1GB of RAM and PowerVR SGX544 GPU. 
+MediaTek's updated MT6589T processor was launched last year, so it 
+should perform quite decently. Unfortunately, this didn't translate to 
+real-world performance. We found that the Titanium X lagged when 
+launching some apps. Admittedly, the lag is not consistent but 
+considering that this is a quad-core processor, it is quite 
+disappointing. It came as no surprise that the benchmark scores 
+were not impressive at all. As expected, the Karbonn Titanium X barely 
+made it through our synthetic benchmarks. The CPU performance scores 
+were not impressive: the phone scored 14,930 in AnTuTu and 5,701 in 
+Quadrant. On the graphics front, it only managed to push 3.4 frames per 
+second in the GFXbench test, while it scored 1735 in the 3DMark Ice 
+Storm Extreme runthrough.There is 16GB of storage on the Titanium
+ X, which is further expandable up to 32GB with the help of a USB device
+ plugged in using OTG (USB on-the-go). The company supplies an OTG 
+adapter in the box.  Call quality on the Karbonn Titanium X was 
+impressive and we did not encounter any problems with the clarity and 
+volume through the earpiece grill.The Titanium X lasted for 
+around 7 hours of continuous video playback, which is not all that 
+great. We played some music on the Titanium X through its speakers, and 
+the sound was distorted at high volume. However, the experience on the 
+supplied earphones was better.The Titanium X ships with a 2300mAh
+ battery that can deliver up to 240 hours of standby and up to 6 hours 
+of talktime, according to the company. Based on our observations, the 
+Titanium X is a decent performer when it comes to battery performance. 
+We were able to get about 12-14 hours with normal usage on the Titanium 
+X, during which Wi-Fi was switched on all the time and the screen 
+brightness was set to auto. We browsed the Web for more than an hour and
+ made a few calls totalling about two hours, and had the usual 
+notifications for messages, emails, Facebook, Twitter and WhatsApp 
+coming in.With heavy usage of the Titanium X, during which the 
+screen brightness was set to full, and 3G was active throughout, we made
+ calls for about an hour, took a few casual photos and tweaked them a 
+bit with third party camera apps. We then watched a few YouTube videos 
+for around two hours and then spent two to three hours gaming. The 
+device lasted for about 8-9 hours, so using more reasonable settings 
+obviously helps in making the battery last longer.VerdictThe
+ Karbonn Titanium X is a mix of good and not-so-good. The 5.0-inch 
+full-HD display is no doubt the USP of the device and is great for 
+watching videos on, but colour reproduction can be a bit of a damper. 
+Notably, the Titanium X has a tendency to slow down when multiple apps 
+run in the background. Further, the images clicked by Titanium X are 
+also not good enough, and the screen is barely visible in sunlight. 
+Battery life is acceptable without being exceptional.   The 
+Karbonn Titanium X is not a perfect phone by any means, but when you 
+consider its price tag, it is not a bad performer at all. Those 
+looking for alternatives can consider the Micromax Canvas Turbo, (Review) which again sports a full-HD display. For those who would like to 
+consider a Windows Phone can consider the Nokia Lumia 625 which offers a 
+4.7-inch screen.  Karbonn Titanium X in pictures
+
+Micromax was the first 
+Indian brand to join the full-HD bandwagon with its Canvas Turbo 
+launched last year. Now, after a period of relative quiet, Karbonn has 
+marked its return to the Indian market with its first smartphone with 
+full-HD display, the Karbonn Titanium X. 
+
+Karbonn is clearly in the mood 
+to win significant market share, and it's back with a vengeance in terms
+ of both specifications and price. But does company's first full-HD 
+smartphone, the Titanium X, pack enough punch to overcome more 
+established players such as Samsung, Micromax, HTC, LG and Xolo? We take
+ a closer look.
+
+Look and feelThe Titanium X is a departure 
+from the company's usual Android smartphone design, and it looks like a 
+lot of time was spent on the design stage. The Karbonn Titanium X is 
+definitely light at 143 grams, and sports rounded edges. It is sturdy, 
+but it might be a little too wide for single-handed operation, and those
+ blessed with smaller palms will find it tiring to carry the device 
+around.
+
+The 5.0-inch full-HD display takes up most of the space in
+ the front with a silver lining around the edges. Like most other 
+smartphones, the ambient light and proximity sensors are lined up on top
+ alongside the earpiece and front-facing camera. We were amazed to see 
+the 5-megapixel front-facing camera accompanied by an LED flash at the 
+top. We assume that it's meant to be helpful for taking selfies. Beneath
+ the display one can find the Home, Back and Menu capacitive buttons 
+marked by dotes, rather than the standard Jelly Bean icons. Notably, the
+ front has no logo branding, much like Nexus smartphones. 
+
+The 
+Titanium X's back is made of shiny plastic and tends to slip out of the 
+hand during prolonged usage. The plasticky rear panel houses a 
+13-megapixel camera with dual LED flash, and there's a loudspeaker at 
+the bottom left. There is a Karbonn logo just beneath the rear camera. 
+The power button is on the right panel and we had no problem hitting it 
+anytime, while the volume rocker buttons are placed on the left side. We
+ wish the volume controls had been placed a bit lower on the left panel,
+ because at times we had to use both are hands to adjust the volume. The
+ top panel houses a 3.5mm audio jack accompanied by the SIM tray, and 
+the Micro-USB port is on the bottom. Getting to the SIM card tray on the
+ Titanium X can be a problem as you have to open a flap next to the 
+headset jack and then insert a pin to pop the tray out. The process 
+takes some effort, and isn't intuitive at all. 
+
+At a glance you 
+might think the Karbonn Titanium X uses a unibody design, but it has a 
+removable back panel even though the battery is non-removable. 
+Unfortunately, this phone is only available in white. 
+
+DisplayThe
+ screen of a smartphone is a critical aspect to consider when making a 
+purchase decision, and of late, smartphones such as the Spice Pinnacle 
+FHD, Wicked Leak Wammy
+ Passion Z Plus and 
+Micromax Canvas Turbo have hit the market, all with full-HD displays and
+ all priced under Rs. 20,000. The Karbonn Titanium X now joins the same 
+club. An HD screen might not make a difference to many people, but when 
+you hold one of these phones up next to a device with a low-resolution 
+screen, you can see the difference.
+
+The Titanium X features a 
+5.0-inch IPS full-HD (1080x1920 pixels) screen with pixel density of 
+441ppi. The panel attracts a lot of smudges, but nothing that cannot be 
+wiped away quickly. The screen has decent viewing angles and though 
+colour reproduction is not the best, it gets the job done.
+
+Since 
+the Titanium X is equipped with an IPS display, we found that it was 
+good to read text on. Browsing the Web and prolonged reading on the 
+device were also relatively comfortable, thanks to the large screen. The
+ touch response of the Titanium X works smoothly.
+
+At full 
+brightness under indoor lighting, the screen performs decently. Under 
+direct sunlight, we found it hard to read even at full brightness, and 
+we had to use our palms to shade the screen to be able to see what's on 
+it.
+
+Camera
+
+In terms of photographic ability, Karbonn has 
+equipped the mid-range Titanium X with a 13-megapixel autofocus rear 
+camera accompanied by a dual-LED flash. The rear camera offers 4x 
+digital zoom, HD (1080p) video recording, touch to focus and a panorama 
+mode. The Titanium X also includes HDR mode for video recording, which 
+has been seen on some high-end Android smartphones. Other features seen 
+in the camera app include portrait retouch, self-timer, self-portrait 
+voice guide, smile shutter, focus mode, and ISO and exposure value 
+adjustment. The rear camera can click images at a maximum resolution of 
+4128x3096 pixels. 
+
+We were disappointed with the camera, which, in
+ spite of a number of shooting options, did not really match up to our 
+expectations. We tested the Titanium X's rear camera in outdoor, dim and
+ indoor environments, and found that picture quality was average, with 
+washed out colours and grainy edges. The photos taken under well-lit 
+conditions were somewhat better than those taken in low light, which had
+ a lot of noise.
+
+ 
+
+Notably, the camera shutter is comparatively 
+slower than the other Android smartphones, which means this phone is 
+only good for taking pictures in a pinch.
+
+The front facing 
+5-megapixel camera on the Titanium X is pretty decent compared to other 
+mid-range Android devices and can be used for video calls over Skype 
+and, of course, taking selfies. We found videos and images captured both
+ indoors and outdoors through this camera to be a bit grainy. The 
+company has added a front-facing LED flash, which comes in handy when 
+clicking in low-light.
+
+Software/ InterfaceAt a time when 
+the world is waiting for Android 4.4.2 KitKat to arrive on its handsets,
+ Karbonn has used Android 4.2 Jelly Bean for the Titanium X, which is 
+disappointing. 
+
+The Karbonn Titanium X ships with Android 4.2.2 
+out of the box. It might not be the most up-to-date, but it's the most 
+popular version of Android on mid-range smartphones in India at the 
+moment. We are yet to hear any details about Karbonn's plans to update 
+the Titanium X. 
+
+Karbonn is using some skinned elements such as 
+app icons. Although the changes are not as radical as HTC's Sense UI or 
+Samsung's TouchWiz UI, a few neat touches have been added to the OS 
+without becoming intrusive. 
+
+Similar to other Android 4.2 devices,
+ the notifications tray on the Titanium X features a settings shortcut 
+and a 'clear all' button. On expanding the settings button one can find 
+options for quick access to the user profile, airplane mode, battery 
+status, Wi-Fi, Bluetooth, GPS, data connectivity, data usage status, 
+audio profiles (for alerts and other notifications), brightness, display
+ timeout and auto rotation.
+
+The Karbonn Titanium X comes with 
+standard Android features such as the lock-screen widgets. One can 
+choose from Calendar, Digital Clock, Gmail, Google Now, Google+ posts 
+and Messaging along with any third-party widgets. These show information
+ and help in performing actions quickly, even without unlocking the 
+device. Users can also launch the camera directly from the lock screen 
+by pressing the power button and then swiping to the right of the 
+screen. 
+
+The native Music and Video apps on the Titanium X offer 
+very basic functions. The music player does not offer many options while
+ listening to music, and the default video player was unable to support 
+some popular video formats like .AVI and .MKV. This isn't a problem 
+thanks to the easy availability of third-party video players. 
+
+The
+ Karbonn Titanium X comes with some preloaded apps including Flipboard, 
+Hugama, Maxthon Browser, mydala, Truecaller, UC Browser, and WhatsApp. 
+The Titanium X also comes preloaded with a host of Google apps such as 
+Gmail, Google Search, Google+, Hangouts, Google Maps, Play Books, Play 
+Movies and TV, Play Store and YouTube. 
+
+Performance/ Battery LifeThe
+ Karbonn Titanium X is powered by a quad-core MediaTek chipset (MT6589T)
+ clocked at 1.5GHz along with 1GB of RAM and PowerVR SGX544 GPU. 
+MediaTek's updated MT6589T processor was launched last year, so it 
+should perform quite decently. Unfortunately, this didn't translate to 
+real-world performance. We found that the Titanium X lagged when 
+launching some apps. Admittedly, the lag is not consistent but 
+considering that this is a quad-core processor, it is quite 
+disappointing. 
+
+It came as no surprise that the benchmark scores 
+were not impressive at all. As expected, the Karbonn Titanium X barely 
+made it through our synthetic benchmarks. The CPU performance scores 
+were not impressive: the phone scored 14,930 in AnTuTu and 5,701 in 
+Quadrant. On the graphics front, it only managed to push 3.4 frames per 
+second in the GFXbench test, while it scored 1735 in the 3DMark Ice 
+Storm Extreme runthrough.
+
+There is 16GB of storage on the Titanium
+ X, which is further expandable up to 32GB with the help of a USB device
+ plugged in using OTG (USB on-the-go). The company supplies an OTG 
+adapter in the box.  
+
+Call quality on the Karbonn Titanium X was 
+impressive and we did not encounter any problems with the clarity and 
+volume through the earpiece grill.
+
+The Titanium X lasted for 
+around 7 hours of continuous video playback, which is not all that 
+great. We played some music on the Titanium X through its speakers, and 
+the sound was distorted at high volume. However, the experience on the 
+supplied earphones was better.
+
+The Titanium X ships with a 2300mAh
+ battery that can deliver up to 240 hours of standby and up to 6 hours 
+of talktime, according to the company. Based on our observations, the 
+Titanium X is a decent performer when it comes to battery performance. 
+We were able to get about 12-14 hours with normal usage on the Titanium 
+X, during which Wi-Fi was switched on all the time and the screen 
+brightness was set to auto. We browsed the Web for more than an hour and
+ made a few calls totalling about two hours, and had the usual 
+notifications for messages, emails, Facebook, Twitter and WhatsApp 
+coming in.
+
+With heavy usage of the Titanium X, during which the 
+screen brightness was set to full, and 3G was active throughout, we made
+ calls for about an hour, took a few casual photos and tweaked them a 
+bit with third party camera apps. We then watched a few YouTube videos 
+for around two hours and then spent two to three hours gaming. The 
+device lasted for about 8-9 hours, so using more reasonable settings 
+obviously helps in making the battery last longer.
+
+Verdict
+
+The
+ Karbonn Titanium X is a mix of good and not-so-good. The 5.0-inch 
+full-HD display is no doubt the USP of the device and is great for 
+watching videos on, but colour reproduction can be a bit of a damper. 
+Notably, the Titanium X has a tendency to slow down when multiple apps 
+run in the background. Further, the images clicked by Titanium X are 
+also not good enough, and the screen is barely visible in sunlight. 
+Battery life is acceptable without being exceptional.   
+
+The 
+Karbonn Titanium X is not a perfect phone by any means, but when you 
+consider its price tag, it is not a bad performer at all. 
+
+Those 
+looking for alternatives can consider the Micromax Canvas Turbo, (Review) which again sports a full-HD display. For those who would like to 
+consider a Windows Phone can consider the Nokia Lumia 625 which offers a 
+4.7-inch screen.
+

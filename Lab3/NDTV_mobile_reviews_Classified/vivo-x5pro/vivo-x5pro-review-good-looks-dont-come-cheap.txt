@@ -1,0 +1,233 @@
+Vivo X5Pro Review: Good Looks Don't Come Cheap
+
+Chinese manufacturer Vivo has been a player in the
+ global smartphone market for the last couple of years. The Vivo XPlay 
+3S was the world's first smartphone with a quad-HD (2560x1440 pixels) 
+display when
+ it was revealed back in 2013. Earlier this year, the Vivo X5Max (Review | Pictures) staked claim to the 
+title of slimmest smartphone in the world, with a thickness of just 
+4.75mm. With technical achievements such as these to its name, Vivo hopes to be considered 
+among the elite of the smartphone world.The company's latest product 
+in India is the Rs. 27,980 Vivo X5Pro. The Chinese version of this 
+phone features eye-scanner technology for unlocking the device and 
+securing certain data, but the version launched in India does not have 
+this feature. Without it, there's very little setting the X5Pro apart from phones such as the Yu Yureka Plus (Review)
+ and Xolo Black (Review | 
+Pictures), both of which offer
+ similar specifications for less than half the money. Is the Vivo X5Pro 
+worth the asking price? We find out in our review.Look and feelThe
+ Vivo X5Pro is fairly similar to the X5Max in terms of looks, but 
+there are a few differences that set it apart. At 6.4mm, the Pro is a 
+fair bit thicker than the Max. Additionally, the X5Pro has rounded 
+edges, a completely different back, and a smaller 5.2-inch
+ screen (though it retains the 1080x1920 pixel resolution). The Super AMOLED 
+display is fantastic; it's sharp, detailed, and has truly vibrant colours
+ that look real and exciting. It's among the better 
+full-HD displays we've seen on a smartphone.There's no denying 
+that the Vivo X5Pro borrows design inspiration from the Apple iPhone 6 (Review | Pictures). From
+ the curved edges to the speaker grille along the bottom, there 
+seems to be a deliberate effort to make the X5Pro look as similar to the
+ iPhone 6 as possible. This might have something to do with the immense 
+popularity of the iPhone 6 in Vivo's home market,
+ and the X5Pro does succeed in mimicking it to an extent.On 
+the whole, the Vivo X5Pro is a well-built, well-designed device that 
+matches up to the standards set by premium device manufacturers such as
+Samsung, HTC, Sony and Motorola. There's a lot to like in the way the X5Pro feels in the hand, as well as its slim metal-and-glass profile, and we're impressed with the aesthetic appeal of this phone.Specifications and softwareThe most 
+important component in a smartphone is the SoC, and the Vivo X5Pro uses a Qualcomm Snapdragon 615. This is strictly a budget-midrange processor that has found popularity in the sub-Rs. 15,000 segment. 
+For a Rs. 27,980 smartphone such as the X5Pro to be built around this SoC is 
+ridiculous in our opinion, since Vivo doesn't have the reputation or 
+brand value in India to justify the premium pricing. Furthermore, when compared to 
+the Snapdragon 810-powered OnePlus 2 which costs just Rs. 24,999, the chosen SoC makes even less sense.Other specifications of the Vivo X5Pro are similar to those of many popular budget devices as well. It features 
+dual-SIM connectivity with the second SIM slot doubling up as the 
+microSD slot; a 13-megapixel primary camera capable of shooting full-HD 
+video; and an 8-megapixel front camera. There's 16GB of internal
+ storage (expandable with a microSD card of up to 128GB), 2GB of RAM, and a 
+2,450mAh battery. Nearly all of these specifications are bettered by the less expensive OnePlus 2.The Vivo X5Pro runs on Android 5.0 with the company's own 
+FunTouch OS skin on top. Like many 
+Chinese manufacturer UIs aiming to mimic iOS, FunTouch does not have an 
+app drawer, instead piling all apps and widgets onto multiple home 
+screens. The fonts, icon styling and menus all have an undeniable 
+resemblance to iOS. There's a decent amount of customisability and 
+control over the device, and the pull-up shortcut menu is particularly 
+useful in controlling basic aspects of the phone. It's significantly 
+different from typical Android user interfaces in many ways, and this could take some getting used to for longtime Android users. Fortunately,
+ there's very little bloatware to be found on the Vivo X5Pro. Most of 
+the preinstalled apps are useful and you'd likely want them anyway: 
+Facebook, WeChat, WhatsApp, Skype and WPS Office are on the list. Most of the standard apps work well and are 
+easy to use.CameraThe Vivo X5Pro retains 
+Vivo's usual camera app, which is unsurprisingly designed to look like the iOS one. You don't have access to too many manual settings, but there are
+modes such as HDR, Panorama, Night and Bokeh instead. A menu along the bottom lets you choose the picture or video 
+size, activate the timer, use touch-to-capture, and change a few other similar options. There are
+ quick switches for toggle between the front and rear cameras, activate the flash, go to the gallery, and record video, apart from the standard shutter button. It's simple and gets 
+the job done.The camera itself is just about okay for a 
+13-megapixel shooter. Photos have a tendency to come out a bit dull, but if 
+you make the effort to focus and allow the camera to adjust to light and
+ other factors, you can get some decent shots. Colours were 
+usually accurate, although we felt that sharpness was lacking in some of
+ the test shots we took. It's an acceptable camera nonetheless, but when
+the price is considered, you can get similar or better performance from a 
+smartphone that costs much less.(Click for full-size image)PerformanceThe Vivo X5Pro 
+is usually a pleasure to work with, thanks to the smoothness and fluidity of FunTouch OS. Apps load and run well, and we had no 
+day-to-day performance issues during our time with the device. All of 
+our test videos, including the heavily encoded ones, ran comfortably 
+without any lag or hitches. The new Angry Birds 2
+ ran smoothly as well, although it did cause the rear of the phone to 
+heat up considerably.Benchmark test numbers were in line with 
+what we've been seeing from other Snapdragon 615-based devices. Antutu 
+and Quadrant scores were 33,824 and 11,614 respectively, while GFX Bench
+ and 3D Mark Ice Storm Extreme returned figures of 14fps and 5,391. 
+All of these scores were lower than those of the Yu Yureka Plus and 
+Lenovo K3 Note, which as we've mentioned before, cost a fraction of the 
+price of the Vivo X5Pro.Battery life is just about average as well. The Vivo
+ X5Pro ran for 8 hours, 35 minutes in our video loop test. Call quality
+ was decent enough, as was network reception. Wi-Fi reception was poor, 
+however, and the phone simply would not pick up a Wi-Fi signal if there were too
+ many obstructions. We tested this alongside the Yu Yureka Plus, which 
+would at least pick up faint Wi-Fi reception. Audio performance through the 
+speakers and earphones is decent enough. On the whole, the Vivo's 
+performance is underwhelming, considering its price.VerdictThe
+ Vivo X5Pro is a good-looking smartphone that does an impressive job of looking like iOS on the Android platform. If you're a fan of Apple and 
+iOS but are averse to paying big bucks or switching away from Android, 
+the Vivo X5Pro provides a close approximation of that experience. It's a 
+thoughtful device that makes ease of use a priority, and even looks out 
+for your aesthetic sensibilities.However, we have a problem with 
+the price of the X5Pro. Vivo might like to believe that it's a premium 
+brand, and it might even get away with that attitude in its home market, but
+ in India it's just another Chinese smartphone maker. It does not have 
+the reputation and standing to be able to charge thrice as much as 
+similarly specced products, and we believe that 
+there is no good reason to shell out this kind of money for this kind of
+ a smartphone. If cost is not a factor, we have no qualms in calling the 
+Vivo X5Pro a good device. But at its current price, we simply cannot 
+recommend it over many of the large number of devices that currently sit in 
+the sub-Rs. 15,000 segment. Vivo X5Pro in pictures
+
+
+
+The company's latest product 
+in India is the Rs. 27,980 Vivo X5Pro. The Chinese version of this 
+phone features eye-scanner technology for unlocking the device and 
+securing certain data, but the version launched in India does not have 
+this feature. Without it, there's very little setting the X5Pro apart from phones such as the Yu Yureka Plus (Review)
+ and Xolo Black (Review | 
+Pictures), both of which offer
+ similar specifications for less than half the money. Is the Vivo X5Pro 
+worth the asking price? We find out in our review.
+
+Look and feelThe
+ Vivo X5Pro is fairly similar to the X5Max in terms of looks, but 
+there are a few differences that set it apart. At 6.4mm, the Pro is a 
+fair bit thicker than the Max. Additionally, the X5Pro has rounded 
+edges, a completely different back, and a smaller 5.2-inch
+ screen (though it retains the 1080x1920 pixel resolution). The Super AMOLED 
+display is fantastic; it's sharp, detailed, and has truly vibrant colours
+ that look real and exciting. It's among the better 
+full-HD displays we've seen on a smartphone.
+
+There's no denying 
+that the Vivo X5Pro borrows design inspiration from the Apple iPhone 6 (Review | Pictures). From
+ the curved edges to the speaker grille along the bottom, there 
+seems to be a deliberate effort to make the X5Pro look as similar to the
+ iPhone 6 as possible. This might have something to do with the immense 
+popularity of the iPhone 6 in Vivo's home market,
+ and the X5Pro does succeed in mimicking it to an extent.
+
+On 
+the whole, the Vivo X5Pro is a well-built, well-designed device that 
+matches up to the standards set by premium device manufacturers such as
+Samsung, HTC, Sony and Motorola. There's a lot to like in the way the X5Pro feels in the hand, as well as its slim metal-and-glass profile, and we're impressed with the aesthetic appeal of this phone.
+
+Specifications and softwareThe most 
+important component in a smartphone is the SoC, and the Vivo X5Pro uses a Qualcomm Snapdragon 615. This is strictly a budget-midrange processor that has found popularity in the sub-Rs. 15,000 segment. 
+For a Rs. 27,980 smartphone such as the X5Pro to be built around this SoC is 
+ridiculous in our opinion, since Vivo doesn't have the reputation or 
+brand value in India to justify the premium pricing. Furthermore, when compared to 
+the Snapdragon 810-powered OnePlus 2 which costs just Rs. 24,999, the chosen SoC makes even less sense.
+
+Other specifications of the Vivo X5Pro are similar to those of many popular budget devices as well. It features 
+dual-SIM connectivity with the second SIM slot doubling up as the 
+microSD slot; a 13-megapixel primary camera capable of shooting full-HD 
+video; and an 8-megapixel front camera. There's 16GB of internal
+ storage (expandable with a microSD card of up to 128GB), 2GB of RAM, and a 
+2,450mAh battery. Nearly all of these specifications are bettered by the less expensive OnePlus 2.
+
+The Vivo X5Pro runs on Android 5.0 with the company's own 
+FunTouch OS skin on top. Like many 
+Chinese manufacturer UIs aiming to mimic iOS, FunTouch does not have an 
+app drawer, instead piling all apps and widgets onto multiple home 
+screens. The fonts, icon styling and menus all have an undeniable 
+resemblance to iOS. 
+
+There's a decent amount of customisability and 
+control over the device, and the pull-up shortcut menu is particularly 
+useful in controlling basic aspects of the phone. It's significantly 
+different from typical Android user interfaces in many ways, and this could take some getting used to for longtime Android users. 
+
+Fortunately,
+ there's very little bloatware to be found on the Vivo X5Pro. Most of 
+the preinstalled apps are useful and you'd likely want them anyway: 
+Facebook, WeChat, WhatsApp, Skype and WPS Office are on the list. Most of the standard apps work well and are 
+easy to use.
+
+CameraThe Vivo X5Pro retains 
+Vivo's usual camera app, which is unsurprisingly designed to look like the iOS one. You don't have access to too many manual settings, but there are
+modes such as HDR, Panorama, Night and Bokeh instead. A menu along the bottom lets you choose the picture or video 
+size, activate the timer, use touch-to-capture, and change a few other similar options. There are
+ quick switches for toggle between the front and rear cameras, activate the flash, go to the gallery, and record video, apart from the standard shutter button. It's simple and gets 
+the job done.
+
+The camera itself is just about okay for a 
+13-megapixel shooter. Photos have a tendency to come out a bit dull, but if 
+you make the effort to focus and allow the camera to adjust to light and
+ other factors, you can get some decent shots. Colours were 
+usually accurate, although we felt that sharpness was lacking in some of
+ the test shots we took. It's an acceptable camera nonetheless, but when
+the price is considered, you can get similar or better performance from a 
+smartphone that costs much less.
+
+(Click for full-size image)
+
+PerformanceThe Vivo X5Pro 
+is usually a pleasure to work with, thanks to the smoothness and fluidity of FunTouch OS. Apps load and run well, and we had no 
+day-to-day performance issues during our time with the device. All of 
+our test videos, including the heavily encoded ones, ran comfortably 
+without any lag or hitches. The new Angry Birds 2
+ ran smoothly as well, although it did cause the rear of the phone to 
+heat up considerably.
+
+Benchmark test numbers were in line with 
+what we've been seeing from other Snapdragon 615-based devices. Antutu 
+and Quadrant scores were 33,824 and 11,614 respectively, while GFX Bench
+ and 3D Mark Ice Storm Extreme returned figures of 14fps and 5,391. 
+All of these scores were lower than those of the Yu Yureka Plus and 
+Lenovo K3 Note, which as we've mentioned before, cost a fraction of the 
+price of the Vivo X5Pro.
+
+Battery life is just about average as well. The Vivo
+ X5Pro ran for 8 hours, 35 minutes in our video loop test. Call quality
+ was decent enough, as was network reception. Wi-Fi reception was poor, 
+however, and the phone simply would not pick up a Wi-Fi signal if there were too
+ many obstructions. We tested this alongside the Yu Yureka Plus, which 
+would at least pick up faint Wi-Fi reception. Audio performance through the 
+speakers and earphones is decent enough. On the whole, the Vivo's 
+performance is underwhelming, considering its price.
+
+VerdictThe
+ Vivo X5Pro is a good-looking smartphone that does an impressive job of looking like iOS on the Android platform. If you're a fan of Apple and 
+iOS but are averse to paying big bucks or switching away from Android, 
+the Vivo X5Pro provides a close approximation of that experience. It's a 
+thoughtful device that makes ease of use a priority, and even looks out 
+for your aesthetic sensibilities.
+
+However, we have a problem with 
+the price of the X5Pro. Vivo might like to believe that it's a premium 
+brand, and it might even get away with that attitude in its home market, but
+ in India it's just another Chinese smartphone maker. It does not have 
+the reputation and standing to be able to charge thrice as much as 
+similarly specced products, and we believe that 
+there is no good reason to shell out this kind of money for this kind of
+ a smartphone. If cost is not a factor, we have no qualms in calling the 
+Vivo X5Pro a good device. But at its current price, we simply cannot 
+recommend it over many of the large number of devices that currently sit in 
+the sub-Rs. 15,000 segment.
+

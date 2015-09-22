@@ -1,0 +1,288 @@
+Panasonic Eluga U Review: The Subdued Flagship
+
+Panasonic
+ introduced the Eluga series of smartphones in 2012 by launching the 
+Eluga DL1 and the Eluga Power for European markets. Considering that 
+India is now the global headquarters for Panasonic's global smartphone 
+business, it is no surprise that the company is trying to revive the 
+Eluga brand here with its latest flagship - the Eluga U.Moreover,
+ India is a great market for multiple smartphone companies to thrive in.
+ The downside is that competition is fierce and companies have to 
+innovate constantly. We try to find out if the Panasonic Eluga U can 
+distinguish itself from the rest of the smartphones that have flooded 
+the market in the last month alone. DesignWe had noticed 
+in our first impressions of the Panasonic Eluga U that it vaguely 
+resembles the Google Nexus 4 with its curved edges and textured back 
+panel, and that's definitely true. It looks like it's made of glass but 
+is actually plastic. When compared to the Nexus 4, the Eluga U is
+ taller and wider thanks to its larger 5-inch screen, but it's also 
+slimmer. It's 7.95mm thick, 141.5mm tall and 71.3mm wide. The bezel 
+around the screen is narrow and mostly unobtrusive, which is good. The 
+phone is quite light at 141g and is easy to grip. One-handed usage is 
+not a problem for those with medium-sized hands. The 3.5mm audio 
+jack is on top, and the bottom has the Micro-USB port and microphone. 
+The power button is towards the top of the right edge which feels like 
+an odd placement and is difficult to reach. Below the power button are 
+separate angled volume buttons. The buttons are made of plastic and have
+ terrible tactile feedback. On the left is the flap that covers the 
+Micro-SD card slot and houses the tray for two SIM cards.The 
+notification LED, front-facing camera, earpiece and ambient light sensor
+ are above the 5-inch display. Panasonic opted for a capacitive 
+three-button setup for the Eluga U. The loudspeaker is on the bottom 
+right corner of the rear panel. The rear cover is not removable, in case
+ you were wondering.Features and SpecificationsOn paper, the Panasonic Eluga U has a pretty mediocre specifications list for a flagship smartphone. Powering
+ the Eluga U is a Snapdragon 400 quad-core processor clocked at 1.2GHz 
+with Adreno 305 graphics. There is 2GB of RAM for running apps smoothly.
+ The rear camera can shoot pictures at a resolution of 13 megapixels and
+ has a flash module for low-light situations. There is also a 
+2-megapixel front-facing camera. The phone has an internal storage of 
+16GB which can be further expanded up to 32 GB using an external microSD
+ card.With respect to connectivity, Panasonic has most bases 
+covered. There is no support for 4G LTE but the two SIM cards can 
+connect to 3G networks and operate on the 850/900/1800/1900/2100MHz GSM 
+bands. The Eluga U is compliant with the latest Bluetooth 4.0 standard 
+and can also connect to Wi-Fi 802.11 b/g/n networks. The 5-inch 
+screen on the Eluga U has a resolution of 720x1280 pixels and is 
+protected by Corning Gorilla Glass 3. Its colour saturation is decent 
+and the warm tone makes it easy to read text. However, the screen is 
+really reflective, which affects both the sunlight legibility and the 
+viewing angles.SoftwareThe Panasonic Eluga U runs almost 
+the latest version of Android - Android 4.4.2 (Kitkat), which is very 
+good. Panasonic's very own Fit Home UI runs on top of the operating 
+system, and its design is starkly different from that of stock Android. We
+ think that the design is a decent attempt by Panasonic but there are 
+some functional constraints that crop up. For example, the app drawer is
+ a circular panel that only uses half the screen, while the other half 
+is just the homescreen, blurred in the background. Annoyingly, hitting 
+it doesn't take you back to the homescreen. The rotary page turn 
+animation in the app drawer is jazzy, and it's a matter of personal 
+preference whether you like it or not. Thankfully, if the skin 
+doesn't suit your tastes Panasonic provides the option of switching to 
+the stock Kitkat UI. We used it for most of our testing period.Apart
+ from the regular suite of Google apps, the Eluga U has only three extra
+ apps that come pre-installed with the device: Hot N Trendy Space, 
+Panasonic TV Remote, and Kingsoft Office. Hot N Trendy is an app made 
+exclusively for Panasonic smartphones and the company claims that it is 
+an intelligent recommendation engine for apps within the Play Store. We 
+found it useless and couldn't uninstall it. As the name suggests, 
+Panasonic TV Remote can be used to control high-end Panasonic Viera 
+televisions over Wi-Fi. Kingsoft Office can be used to view, edit and 
+create Microsoft Office files and it is pretty useful. CameraThe
+ default KitKat camera app has been slightly modified by Panasonic to 
+make some features available upfront. Unfortunately, the oft-used HDR 
+control is buried inside the settings instead. The app also offers a 
+fair amount of manual control. We put the 13-megapixel rear 
+camera through a battery of tests. The camera takes a long time to 
+focus. In good light, it captures good details and the colours are 
+natural too. On the downside, the background in close up images tends to
+ be overexposed. At 100 percent crop, the graininess of photographs 
+becomes apparent, but they're still absolutely serviceable for social 
+networking websites. In HDR mode, the camera goes overboard with 
+enhancing the exposure of dark regions. Untrained eyes might find it 
+impressive but we think it looks artificial. In low light, the pictures 
+suffer from a lot of noise. (Click for full size)The 1080p video captured by the rear 
+camera is fairly okay but it skips frames occasionally. Selfies captured
+ by the 2-megapixel front camera in good light are also just about 
+serviceable.PerformanceBefore we get into benchmarks 
+results, we want to highlight two glaring issues with the performance of
+ the Panasonic Eluga U. Firstly, the top half of the rear heated up when
+ we played intensive games or watched movies even for a few minutes. 
+Secondly, the phone randomly rebooted on occasion. This is definitely 
+not good and could be a deal-breaker for interested buyers. One saving 
+grace is that there is absolutely no lag while browsing through the apps
+ and scrolling through webpages. In any case, the numbers aren't 
+great either. The Eluga U scored 8,533 and 17,495 respectively in the 
+Quadrant and AnTuTu benchmarks. There are tons of lower-priced 
+smartphones that perform better. In the graphics benchmark test GFXbench
+ the phone logged a score of 10.6fps and in the highly intensive 3DMark 
+Ice Storm test it scored 5,629. Again, these numbers are nothing 
+special.The Eluga U played all our test video files, including 
+the most heavily encoded 1080p one without skipping frames. The speaker 
+is adequately loud but sound is distorted at high volumes. Also, the 
+bundled earphones are really bad and we'd advise replacing them as soon 
+as possible. The clarity of sound during phone calls is really good and 
+the phone doesn't lose reception even in areas with congested networks. The
+ Eluga U performed admirably in our battery test. It lasted 9 hours and 
+35 minutes before we had to plug it in to recharge. In our daily usage, 
+we found that the phone's 2500mAh battery can easily last a day and a 
+half.VerdictPanasonic's latest flagship has many niggles 
+that prevent it from provide a cohesive smartphone experience despite a 
+few redeeming features. The Eluga U's price tag of Rs. 18,990 makes it 
+even more difficult for us to recommend. In almost all aspects, the 
+Xiaomi Mi 3 (review | pictures) looks like a better bet. Moreover, the Redmi 1s is expected 
+to be available soon at almost one-third the price of the Eluga U and 
+featuring similar specifications. The only problem is buying one through
+ Flipkart. The Moto G (review | pictures), Zenfone 5 (review | pictures), Zenphone 6 (review | pictures) and even the HTC Desire 616 Dual SIM
+(review | pictures) are cheaper than the Eluga U and offer similar, and in some cases 
+better, features and performance.We think Panasonic needs to go 
+back to the drawing board to create a better flagship. There's enough 
+room in the burgeoning Indian smartphone market for lots of players to 
+coexist peacefully, but they won't do well without good products.
+Panasonic Eluga U in pictures
+
+
+Panasonic
+ introduced the Eluga series of smartphones in 2012 by launching the 
+Eluga DL1 and the Eluga Power for European markets. Considering that 
+India is now the global headquarters for Panasonic's global smartphone 
+business, it is no surprise that the company is trying to revive the 
+Eluga brand here with its latest flagship - the Eluga U.
+
+Moreover,
+ India is a great market for multiple smartphone companies to thrive in.
+ The downside is that competition is fierce and companies have to 
+innovate constantly. We try to find out if the Panasonic Eluga U can 
+distinguish itself from the rest of the smartphones that have flooded 
+the market in the last month alone. 
+
+DesignWe had noticed 
+in our first impressions of the Panasonic Eluga U that it vaguely 
+resembles the Google Nexus 4 with its curved edges and textured back 
+panel, and that's definitely true. It looks like it's made of glass but 
+is actually plastic. 
+
+When compared to the Nexus 4, the Eluga U is
+ taller and wider thanks to its larger 5-inch screen, but it's also 
+slimmer. It's 7.95mm thick, 141.5mm tall and 71.3mm wide. The bezel 
+around the screen is narrow and mostly unobtrusive, which is good. The 
+phone is quite light at 141g and is easy to grip. One-handed usage is 
+not a problem for those with medium-sized hands. 
+
+The 3.5mm audio 
+jack is on top, and the bottom has the Micro-USB port and microphone. 
+The power button is towards the top of the right edge which feels like 
+an odd placement and is difficult to reach. Below the power button are 
+separate angled volume buttons. The buttons are made of plastic and have
+ terrible tactile feedback. On the left is the flap that covers the 
+Micro-SD card slot and houses the tray for two SIM cards.
+
+The 
+notification LED, front-facing camera, earpiece and ambient light sensor
+ are above the 5-inch display. Panasonic opted for a capacitive 
+three-button setup for the Eluga U. The loudspeaker is on the bottom 
+right corner of the rear panel. The rear cover is not removable, in case
+ you were wondering.
+
+Features and SpecificationsOn paper, the Panasonic Eluga U has a pretty mediocre specifications list for a flagship smartphone. 
+
+Powering
+ the Eluga U is a Snapdragon 400 quad-core processor clocked at 1.2GHz 
+with Adreno 305 graphics. There is 2GB of RAM for running apps smoothly.
+ The rear camera can shoot pictures at a resolution of 13 megapixels and
+ has a flash module for low-light situations. There is also a 
+2-megapixel front-facing camera. The phone has an internal storage of 
+16GB which can be further expanded up to 32 GB using an external microSD
+ card.
+
+With respect to connectivity, Panasonic has most bases 
+covered. There is no support for 4G LTE but the two SIM cards can 
+connect to 3G networks and operate on the 850/900/1800/1900/2100MHz GSM 
+bands. The Eluga U is compliant with the latest Bluetooth 4.0 standard 
+and can also connect to Wi-Fi 802.11 b/g/n networks. 
+
+The 5-inch 
+screen on the Eluga U has a resolution of 720x1280 pixels and is 
+protected by Corning Gorilla Glass 3. Its colour saturation is decent 
+and the warm tone makes it easy to read text. However, the screen is 
+really reflective, which affects both the sunlight legibility and the 
+viewing angles.
+
+SoftwareThe Panasonic Eluga U runs almost 
+the latest version of Android - Android 4.4.2 (Kitkat), which is very 
+good. Panasonic's very own Fit Home UI runs on top of the operating 
+system, and its design is starkly different from that of stock Android. 
+
+We
+ think that the design is a decent attempt by Panasonic but there are 
+some functional constraints that crop up. For example, the app drawer is
+ a circular panel that only uses half the screen, while the other half 
+is just the homescreen, blurred in the background. Annoyingly, hitting 
+it doesn't take you back to the homescreen. The rotary page turn 
+animation in the app drawer is jazzy, and it's a matter of personal 
+preference whether you like it or not. 
+
+Thankfully, if the skin 
+doesn't suit your tastes Panasonic provides the option of switching to 
+the stock Kitkat UI. We used it for most of our testing period.
+
+Apart
+ from the regular suite of Google apps, the Eluga U has only three extra
+ apps that come pre-installed with the device: Hot N Trendy Space, 
+Panasonic TV Remote, and Kingsoft Office. Hot N Trendy is an app made 
+exclusively for Panasonic smartphones and the company claims that it is 
+an intelligent recommendation engine for apps within the Play Store. We 
+found it useless and couldn't uninstall it. As the name suggests, 
+Panasonic TV Remote can be used to control high-end Panasonic Viera 
+televisions over Wi-Fi. Kingsoft Office can be used to view, edit and 
+create Microsoft Office files and it is pretty useful. 
+
+CameraThe
+ default KitKat camera app has been slightly modified by Panasonic to 
+make some features available upfront. Unfortunately, the oft-used HDR 
+control is buried inside the settings instead. The app also offers a 
+fair amount of manual control. 
+
+We put the 13-megapixel rear 
+camera through a battery of tests. The camera takes a long time to 
+focus. In good light, it captures good details and the colours are 
+natural too. On the downside, the background in close up images tends to
+ be overexposed. At 100 percent crop, the graininess of photographs 
+becomes apparent, but they're still absolutely serviceable for social 
+networking websites. 
+
+In HDR mode, the camera goes overboard with 
+enhancing the exposure of dark regions. Untrained eyes might find it 
+impressive but we think it looks artificial. In low light, the pictures 
+suffer from a lot of noise. 
+
+(Click for full size)The 1080p video captured by the rear 
+camera is fairly okay but it skips frames occasionally. Selfies captured
+ by the 2-megapixel front camera in good light are also just about 
+serviceable.
+
+PerformanceBefore we get into benchmarks 
+results, we want to highlight two glaring issues with the performance of
+ the Panasonic Eluga U. Firstly, the top half of the rear heated up when
+ we played intensive games or watched movies even for a few minutes. 
+Secondly, the phone randomly rebooted on occasion. This is definitely 
+not good and could be a deal-breaker for interested buyers. One saving 
+grace is that there is absolutely no lag while browsing through the apps
+ and scrolling through webpages. 
+
+In any case, the numbers aren't 
+great either. The Eluga U scored 8,533 and 17,495 respectively in the 
+Quadrant and AnTuTu benchmarks. There are tons of lower-priced 
+smartphones that perform better. In the graphics benchmark test GFXbench
+ the phone logged a score of 10.6fps and in the highly intensive 3DMark 
+Ice Storm test it scored 5,629. Again, these numbers are nothing 
+special.
+
+The Eluga U played all our test video files, including 
+the most heavily encoded 1080p one without skipping frames. The speaker 
+is adequately loud but sound is distorted at high volumes. Also, the 
+bundled earphones are really bad and we'd advise replacing them as soon 
+as possible. The clarity of sound during phone calls is really good and 
+the phone doesn't lose reception even in areas with congested networks. 
+
+The
+ Eluga U performed admirably in our battery test. It lasted 9 hours and 
+35 minutes before we had to plug it in to recharge. In our daily usage, 
+we found that the phone's 2500mAh battery can easily last a day and a 
+half.
+
+VerdictPanasonic's latest flagship has many niggles 
+that prevent it from provide a cohesive smartphone experience despite a 
+few redeeming features. The Eluga U's price tag of Rs. 18,990 makes it 
+even more difficult for us to recommend. In almost all aspects, the 
+Xiaomi Mi 3 (review | pictures) looks like a better bet. Moreover, the Redmi 1s is expected 
+to be available soon at almost one-third the price of the Eluga U and 
+featuring similar specifications. The only problem is buying one through
+ Flipkart. The Moto G (review | pictures), Zenfone 5 (review | pictures), Zenphone 6 (review | pictures) and even the HTC Desire 616 Dual SIM
+(review | pictures) are cheaper than the Eluga U and offer similar, and in some cases 
+better, features and performance.
+
+We think Panasonic needs to go 
+back to the drawing board to create a better flagship. There's enough 
+room in the burgeoning Indian smartphone market for lots of players to 
+coexist peacefully, but they won't do well without good products.
+

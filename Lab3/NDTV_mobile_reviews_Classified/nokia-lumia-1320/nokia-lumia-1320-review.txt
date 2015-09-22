@@ -1,0 +1,411 @@
+Nokia Lumia 1320 review
+
+Nokia
+ has been late to the big-screen party, not because it was too slow to 
+react to a changing market, but because the Windows Phone platform it 
+has committed to wasn't able to support such devices until very 
+recently. Clearly, the company has been well aware of demand for such 
+phones for long enough to develop a strategy that allows them to target 
+premium and value-conscious buyers.Thus, the Lumia 1520, with its
+ full-HD screen and 20-megapixel PureView camera, is complemented by a 
+humbler sibling, the new Lumia 1320. Both products will appeal to those 
+who have been considering any of many oversized Android devices that 
+have recently flooded the market. Just like Samsung realized that large 
+phones don't necessarily have to be premium flagships, Nokia knows it 
+must cater to as many types of buyers as it can.In our review of 
+the 1520, we noted that it was quite expensive and that the Windows 
+Phone ecosystem still has some pretty major shortcomings in terms of 
+overall polish and the availability of apps. That concern about cost 
+won't apply quite so much to the 1320, but on the other hand, we won't 
+have such headlining features as a PureView camera and top-of-the-line 
+processor to distract us from the OS's gaping holes.The Lumia 
+1320 is more for people who just want to own a large phone than for 
+those who might actually benefit from a high-res screen or powerful 
+internals. That said, it isn't a weak performer and is still better 
+configured than similar-sized devices from budget brands, such as the 
+Xolo Q3000 and Micromax Canvas Turbo. In terms of both price and 
+specifications, it's on par with Samsung's Galaxy Grand 2. Let's see if 
+there's a noticeable performance difference between the two.Look and feelIt's
+ hard not to compare the Nokia Lumia 1320 to its older sibling. Where 
+the 1520 was somewhat squared off at the corners and flat at the back, 
+the 1320 is curvy all around. It's heavier, but feels more comfortable 
+in the hand. Another difference is that there's no need for a bump to 
+accommodate the camera, since there isn't anything special about it.The
+ Lumia 1320 is larger in every dimension and also quite a bit heavier 
+than most other phones of its size on the market today, including the 
+Lumia 1520 and the Galaxy Grand 2. It won't fit comfortably in the 
+pocket of your skinny jeans, and you'll feel its weight and bulk as you 
+walk. Don't expect to be able to use it with one hand either: no matter 
+which way you hold it, your thumb simply won't be able to reach all 
+corners of the screen without some extremely uncomfortable wrist 
+acrobatics.This time, Nokia has gone with a matte finish. Unlike 
+most covers which pop off from the back, this one creeps around the four
+ sides and must be peeled off from the lower left front corner. Taking 
+the cover off is a bit of a chore and we were constantly afraid we'd 
+bend it too far, but it held up just fine.While we're reminded of
+ the craze for coloured shells and panels for Nokia's older phones, it 
+doesn't look like the company is selling them as accessories for this 
+model, at least not yet. That's disappointing, because there really 
+seems to be no other reason why the shell is removable. There really 
+isn't anything to see beneath it; only the Micro-SIM and microSD card 
+slots, which are sandwiched together on one side. The battery is not 
+removable and also not visible. The only physical buttons are the
+ volume rocker, power/standby, and camera shortcut key, which are all on
+ the phone's right edge and are actually part of the shell, by 
+necessity. The power button is in the middle, which is a bit too low for
+ your thumb or forefinger to reach, no matter which hand you hold the 
+phone with. The left edge is completely blank, and only things 
+you'll see on the top and bottom are the headset jack and Micro-USB port
+ respectively. The back is a blank canvas with only the camera lens, 
+flash, and speaker cutout arranged in a neat line down the middle. The 
+front camera is off-centre, while the standard three capacitive 
+navigation buttons can be found below the screen.Features and specificationsThe
+ Lumia 1320 is not a high-end phone, and every line in its spec sheet 
+reminds us of that fact. It makes do with a mid-range Qualcomm 
+Snapdragon 400, which has two cores and runs at 1.7GHz. The integrated 
+Adreno 305 GPU takes care of graphics, and there's 1GB of RAM to help 
+with multitasking and heavy applications.The screen is pretty 
+decent, and uses Nokia's ClearBlack IPS LCD process to improve contrast 
+levels. 720x1280 is not a low resolution by any means, but it does begin
+ to look a bit stretched out on such a large screen. You'll notice a bit
+ of jaggedness around the Windows Phone 8 interface thanks to the 
+liberal use of extremely thin typography. It's not a deal breaker, but 
+the Lumia 1320 just doesn't look that great in comparison to the many 
+phones with full-HD panels that are becoming more common today.Unsurprisingly,
+ there's only 8GB of built-in storage, but you can add up to 64GB more 
+using a microSD card. Wi-Fi b/g/n and Bluetooth 4.0 LE are standard. All
+ the necessary GSM and 3G bands are supported, although you won't be 
+able to use LTE in India thanks to a mismatch of standards.None 
+of these specifications are particularly thrilling, but that doesn't 
+mean the phone is underpowered. In fact, it's actually pretty well 
+balanced, and specs like these were impossible at this price point not 
+all that long ago.  It's more than enough grunt for the kind of usage 
+you should expect out of a phone at this price point. You won't be 
+playing full-HD videos or games, and multitasking between several 
+intense apps.The main camera is a simple 5-megapixel affair 
+capable of 1080p video recording, but a few of the neat tricks that the 
+1520's PureView module offers are carried over. We'll get to those in 
+more detail later. The front-facing camera is a completely pedestrian 
+640x480-pixel VGA unit which we're disappointed with. The battery
+ is rated at 3400mAh, which is the same as the one in the Lumia 1520. 
+That phone gave us over 10 hours of battery life, so this one should do a
+ lot better thanks to the lower power draw of the screen and processor.The
+ Lumia 1320 runs Windows Phone 8, but benefits from a few touches 
+designed by Nokia, known as the "Lumia Black" update. As described at 
+length in our Lumia 1520 review, these features include the extremely 
+useful Glance Screen and a handful of apps.SoftwareNokia's
+ famous Here Maps and Here Drive apps can be found on the home screen, 
+along with Nokia Beamer, Microsoft Office, Xbox Games, Evernote, 
+Flipkart Ebooks and Adidas Micoach. The advanced camera app from 
+higher-end Lumias is missing, which isn't a surprise (although you can 
+download it from the Store). However, many of its functions are made up 
+for in the Nokia Creative Studio app.This app lets you open and 
+manipulate photos you've already taken with the vanilla camera app. 
+You'll first see a list of colour filters including variations of the 
+usual sepia, monochrome and vintage effects. After that, you can play 
+with tilt-shift and radial blur effects, create collages, or select a 
+single colour to "pop" while the rest of the photo turns 
+black-and-white. There are also options for tweaking the colour balance 
+and vibrance, plus the usual crop, rotate and red eye removal tools. 
+It's a fun app, although we don't know why you have to first select a 
+filter (or specifically select "original") before you can see the 
+various editing tools.There's also Camera360, a separate app that
+ allows you to take photos and give them effects. MoliPlayer lets you 
+play more audio and video formats than the default music+videos app, but
+ it still has its limitations. Of course, you also have the Windows 
+Phone Store, with its slowly but steadily growing selection of apps and 
+games.While using the Lumia 1320, we faced exactly the same 
+scaling problems with the interface as we did when testing the Lumia 
+1520: Windows Phone 8 was simply not designed with such large screens in
+ mind, and as a result we were reaching around to opposite ends of the 
+screen, using both thumbs, far more often than we would have liked. The 
+keyboard occupies more than half the screen at times, and keys are far 
+too widely spaced out. Those who type on touchscreens by pointing and 
+stabbing with an index finger might actually like huge letters that are 
+easy to target, but for everyone else, this makes life more difficult.CameraAs stated earlier. The Lumia 1320 has none of its more illustrious 
+sibling's camera pedigree. You won't find any of the PureView tricks 
+here, such as a massive sensor, insane megapixel count or optical image 
+stabilisation. For some reason even the default camera app is totally 
+bare-bones. With that said, the 1320's camera is still fantastic.(Click to see full size)Shots
+ taken in daylight are surprisingly clear, with details that don't tear 
+even when viewed at native size on a desktop monitor. Colours are rich 
+and well reproduced. The camera app lets you adjust ISO, exposure 
+compensation and white balance, but we downloaded Nokia Camera from the 
+Store and played around with manual focus, shutter speed and brightness 
+controls too (even though the effects weren't as dramatic as they can be
+ on phones with better camera hardware).Video is shot at 720p by 
+default but can be manually set to 1080p. We found the quality of 
+captured video to be perfectly acceptable. We had no problem with 
+closeups or distant objects, and the 1320 adjusted itself to light and 
+dark areas nicely.(Click to see full size)At night, while results weren't as good, they 
+were still better than we would have expected. However we noticed that 
+even with the flash explicitly disabled, the Lumia 1320 would use its 
+flash to illuminate a scene in order to autofocus, before taking the 
+actual shot without it. Our photos turned out somewhat noisy, but 
+surprisingly rich in detail.Performance and battery lifeWe
+ were quite pleased with the Lumia 1320's performance in our benchmark 
+tests. Its AnTuTu score was 15,067 as opposed to the Lumia 1520's 
+22,793. WPbench gave the two siblings 299.38 and 477.88 respectively. 
+SunSpider took 705.2ms to complete, compared to 535.5ms for the beefier 
+Lumia. These results aren't too far apart, but there was a much wider 
+gulf when it came to graphics performance. The 1320 managed only 7.1 
+frames per second in our GFXbench gaming simulation test, but the 1520 
+more than tripled that result, with a score of 25fps.During the 
+course of our time with this phone, we noticed only very slight lags in 
+Windows Phone's animated transitions, and when loading apps and skipping
+ up and down the timeline in our sample HD video clips. Everything else 
+was smooth and responsive. The screen itself has rather poor viewing angles and colours will start to distort when you hold this phone even a little tilted. We expected great things from the 
+battery but even then we were blown away: the Lumia 1320 lasted for well
+ over 12 hours in our video loop rundown test. This is a 
+phenomenal result, and it means that this phone will last through well 
+over a day of regular to heavy usage.VerdictIf you're a 
+fan of Windows Phone and want a large screen, you have a choice between 
+the Lumia 1320 and the more compelling 1520 which costs twice as much. 
+If you're primarily a fan of Windows Phone, the 1320 is the best bet in 
+its price range, but you could also consider the more pocketable Lumia 
+925, which has a far better camera and costs roughly Rs. 6,000 more. However,
+ this phone doesn't compare too favourably to its Android-based 
+competition, most notably the Samsung Galaxy Grand 2, which costs almost
+ exactly the same amount. The Grand 2 benefits from the strength of the 
+Google Play app store, and Nokia can't balance that out with its camera 
+expertise at this price level, like it did with the Lumia 1520.Overall,
+ the Nokia 1320 Lumia is a fairly good option at its price point. Its 
+only crime is that there isn't anything outstanding about it.
+Nokia Lumia 1320 in pictures
+
+Nokia
+ has been late to the big-screen party, not because it was too slow to 
+react to a changing market, but because the Windows Phone platform it 
+has committed to wasn't able to support such devices until very 
+recently. Clearly, the company has been well aware of demand for such 
+phones for long enough to develop a strategy that allows them to target 
+premium and value-conscious buyers.
+
+Thus, the Lumia 1520, with its
+ full-HD screen and 20-megapixel PureView camera, is complemented by a 
+humbler sibling, the new Lumia 1320. Both products will appeal to those 
+who have been considering any of many oversized Android devices that 
+have recently flooded the market. Just like Samsung realized that large 
+phones don't necessarily have to be premium flagships, Nokia knows it 
+must cater to as many types of buyers as it can.
+
+In our review of 
+the 1520, we noted that it was quite expensive and that the Windows 
+Phone ecosystem still has some pretty major shortcomings in terms of 
+overall polish and the availability of apps. That concern about cost 
+won't apply quite so much to the 1320, but on the other hand, we won't 
+have such headlining features as a PureView camera and top-of-the-line 
+processor to distract us from the OS's gaping holes.
+
+The Lumia 
+1320 is more for people who just want to own a large phone than for 
+those who might actually benefit from a high-res screen or powerful 
+internals. That said, it isn't a weak performer and is still better 
+configured than similar-sized devices from budget brands, such as the 
+Xolo Q3000 and Micromax Canvas Turbo. In terms of both price and 
+specifications, it's on par with Samsung's Galaxy Grand 2. Let's see if 
+there's a noticeable performance difference between the two.
+
+Look and feelIt's
+ hard not to compare the Nokia Lumia 1320 to its older sibling. Where 
+the 1520 was somewhat squared off at the corners and flat at the back, 
+the 1320 is curvy all around. It's heavier, but feels more comfortable 
+in the hand. Another difference is that there's no need for a bump to 
+accommodate the camera, since there isn't anything special about it.
+
+The
+ Lumia 1320 is larger in every dimension and also quite a bit heavier 
+than most other phones of its size on the market today, including the 
+Lumia 1520 and the Galaxy Grand 2. It won't fit comfortably in the 
+pocket of your skinny jeans, and you'll feel its weight and bulk as you 
+walk. Don't expect to be able to use it with one hand either: no matter 
+which way you hold it, your thumb simply won't be able to reach all 
+corners of the screen without some extremely uncomfortable wrist 
+acrobatics.
+
+This time, Nokia has gone with a matte finish. Unlike 
+most covers which pop off from the back, this one creeps around the four
+ sides and must be peeled off from the lower left front corner. Taking 
+the cover off is a bit of a chore and we were constantly afraid we'd 
+bend it too far, but it held up just fine.
+
+While we're reminded of
+ the craze for coloured shells and panels for Nokia's older phones, it 
+doesn't look like the company is selling them as accessories for this 
+model, at least not yet. That's disappointing, because there really 
+seems to be no other reason why the shell is removable. There really 
+isn't anything to see beneath it; only the Micro-SIM and microSD card 
+slots, which are sandwiched together on one side. The battery is not 
+removable and also not visible. 
+
+The only physical buttons are the
+ volume rocker, power/standby, and camera shortcut key, which are all on
+ the phone's right edge and are actually part of the shell, by 
+necessity. The power button is in the middle, which is a bit too low for
+ your thumb or forefinger to reach, no matter which hand you hold the 
+phone with. 
+
+The left edge is completely blank, and only things 
+you'll see on the top and bottom are the headset jack and Micro-USB port
+ respectively. The back is a blank canvas with only the camera lens, 
+flash, and speaker cutout arranged in a neat line down the middle. The 
+front camera is off-centre, while the standard three capacitive 
+navigation buttons can be found below the screen.
+
+Features and specificationsThe
+ Lumia 1320 is not a high-end phone, and every line in its spec sheet 
+reminds us of that fact. It makes do with a mid-range Qualcomm 
+Snapdragon 400, which has two cores and runs at 1.7GHz. The integrated 
+Adreno 305 GPU takes care of graphics, and there's 1GB of RAM to help 
+with multitasking and heavy applications.
+
+The screen is pretty 
+decent, and uses Nokia's ClearBlack IPS LCD process to improve contrast 
+levels. 720x1280 is not a low resolution by any means, but it does begin
+ to look a bit stretched out on such a large screen. You'll notice a bit
+ of jaggedness around the Windows Phone 8 interface thanks to the 
+liberal use of extremely thin typography. It's not a deal breaker, but 
+the Lumia 1320 just doesn't look that great in comparison to the many 
+phones with full-HD panels that are becoming more common today.
+
+Unsurprisingly,
+ there's only 8GB of built-in storage, but you can add up to 64GB more 
+using a microSD card. Wi-Fi b/g/n and Bluetooth 4.0 LE are standard. All
+ the necessary GSM and 3G bands are supported, although you won't be 
+able to use LTE in India thanks to a mismatch of standards.
+
+None 
+of these specifications are particularly thrilling, but that doesn't 
+mean the phone is underpowered. In fact, it's actually pretty well 
+balanced, and specs like these were impossible at this price point not 
+all that long ago.  It's more than enough grunt for the kind of usage 
+you should expect out of a phone at this price point. You won't be 
+playing full-HD videos or games, and multitasking between several 
+intense apps.
+
+The main camera is a simple 5-megapixel affair 
+capable of 1080p video recording, but a few of the neat tricks that the 
+1520's PureView module offers are carried over. We'll get to those in 
+more detail later. The front-facing camera is a completely pedestrian 
+640x480-pixel VGA unit which we're disappointed with. 
+
+The battery
+ is rated at 3400mAh, which is the same as the one in the Lumia 1520. 
+That phone gave us over 10 hours of battery life, so this one should do a
+ lot better thanks to the lower power draw of the screen and processor.
+
+The
+ Lumia 1320 runs Windows Phone 8, but benefits from a few touches 
+designed by Nokia, known as the "Lumia Black" update. As described at 
+length in our Lumia 1520 review, these features include the extremely 
+useful Glance Screen and a handful of apps.
+
+SoftwareNokia's
+ famous Here Maps and Here Drive apps can be found on the home screen, 
+along with Nokia Beamer, Microsoft Office, Xbox Games, Evernote, 
+Flipkart Ebooks and Adidas Micoach. The advanced camera app from 
+higher-end Lumias is missing, which isn't a surprise (although you can 
+download it from the Store). However, many of its functions are made up 
+for in the Nokia Creative Studio app.
+
+This app lets you open and 
+manipulate photos you've already taken with the vanilla camera app. 
+You'll first see a list of colour filters including variations of the 
+usual sepia, monochrome and vintage effects. After that, you can play 
+with tilt-shift and radial blur effects, create collages, or select a 
+single colour to "pop" while the rest of the photo turns 
+black-and-white. There are also options for tweaking the colour balance 
+and vibrance, plus the usual crop, rotate and red eye removal tools. 
+It's a fun app, although we don't know why you have to first select a 
+filter (or specifically select "original") before you can see the 
+various editing tools.
+
+There's also Camera360, a separate app that
+ allows you to take photos and give them effects. MoliPlayer lets you 
+play more audio and video formats than the default music+videos app, but
+ it still has its limitations. Of course, you also have the Windows 
+Phone Store, with its slowly but steadily growing selection of apps and 
+games.
+
+While using the Lumia 1320, we faced exactly the same 
+scaling problems with the interface as we did when testing the Lumia 
+1520: Windows Phone 8 was simply not designed with such large screens in
+ mind, and as a result we were reaching around to opposite ends of the 
+screen, using both thumbs, far more often than we would have liked. The 
+keyboard occupies more than half the screen at times, and keys are far 
+too widely spaced out. Those who type on touchscreens by pointing and 
+stabbing with an index finger might actually like huge letters that are 
+easy to target, but for everyone else, this makes life more difficult.
+
+CameraAs stated earlier. The Lumia 1320 has none of its more illustrious 
+sibling's camera pedigree. You won't find any of the PureView tricks 
+here, such as a massive sensor, insane megapixel count or optical image 
+stabilisation. For some reason even the default camera app is totally 
+bare-bones. With that said, the 1320's camera is still fantastic.
+
+(Click to see full size)
+
+Shots
+ taken in daylight are surprisingly clear, with details that don't tear 
+even when viewed at native size on a desktop monitor. Colours are rich 
+and well reproduced. The camera app lets you adjust ISO, exposure 
+compensation and white balance, but we downloaded Nokia Camera from the 
+Store and played around with manual focus, shutter speed and brightness 
+controls too (even though the effects weren't as dramatic as they can be
+ on phones with better camera hardware).
+
+Video is shot at 720p by 
+default but can be manually set to 1080p. We found the quality of 
+captured video to be perfectly acceptable. We had no problem with 
+closeups or distant objects, and the 1320 adjusted itself to light and 
+dark areas nicely.
+
+(Click to see full size)
+
+At night, while results weren't as good, they 
+were still better than we would have expected. However we noticed that 
+even with the flash explicitly disabled, the Lumia 1320 would use its 
+flash to illuminate a scene in order to autofocus, before taking the 
+actual shot without it. Our photos turned out somewhat noisy, but 
+surprisingly rich in detail.
+
+Performance and battery lifeWe
+ were quite pleased with the Lumia 1320's performance in our benchmark 
+tests. Its AnTuTu score was 15,067 as opposed to the Lumia 1520's 
+22,793. WPbench gave the two siblings 299.38 and 477.88 respectively. 
+SunSpider took 705.2ms to complete, compared to 535.5ms for the beefier 
+Lumia. These results aren't too far apart, but there was a much wider 
+gulf when it came to graphics performance. The 1320 managed only 7.1 
+frames per second in our GFXbench gaming simulation test, but the 1520 
+more than tripled that result, with a score of 25fps.
+
+During the 
+course of our time with this phone, we noticed only very slight lags in 
+Windows Phone's animated transitions, and when loading apps and skipping
+ up and down the timeline in our sample HD video clips. Everything else 
+was smooth and responsive. The screen itself has rather poor viewing angles and colours will start to distort when you hold this phone even a little tilted. 
+
+We expected great things from the 
+battery but even then we were blown away: the Lumia 1320 lasted for well
+ over 12 hours in our video loop rundown test. This is a 
+phenomenal result, and it means that this phone will last through well 
+over a day of regular to heavy usage.
+
+VerdictIf you're a 
+fan of Windows Phone and want a large screen, you have a choice between 
+the Lumia 1320 and the more compelling 1520 which costs twice as much. 
+If you're primarily a fan of Windows Phone, the 1320 is the best bet in 
+its price range, but you could also consider the more pocketable Lumia 
+925, which has a far better camera and costs roughly Rs. 6,000 more. 
+
+However,
+ this phone doesn't compare too favourably to its Android-based 
+competition, most notably the Samsung Galaxy Grand 2, which costs almost
+ exactly the same amount. The Grand 2 benefits from the strength of the 
+Google Play app store, and Nokia can't balance that out with its camera 
+expertise at this price level, like it did with the Lumia 1520.
+
+Overall,
+ the Nokia 1320 Lumia is a fairly good option at its price point. Its 
+only crime is that there isn't anything outstanding about it.
+

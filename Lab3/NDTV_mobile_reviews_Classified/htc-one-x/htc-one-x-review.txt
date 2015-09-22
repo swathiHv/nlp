@@ -1,0 +1,323 @@
+HTC One X review
+
+When HTC CEO Peter Chou stood at the podium at the Mobile World 
+Congress, his company's investors were expecting something that would 
+stop the downward spiral this Taiwanese manufacturer has seen in the 
+last few quarters. Chou gave them HTC One series smartphones, the 
+company's attempt to reclaim the Android smartphone throne from Samsung.
+ HTC One series, and specifically One X, brings several firsts to 
+HTC's portfolio like Ice Cream Sandwich and a quad core processor. 
+Launched in India at Rs. 37,899, one surely wonders whether it is really
+ worth this hefty price-tag. We will find out in this review.HardwareHTC
+ One X is the company's flagship smartphone for this year and that is 
+clearly visible in the design and looks. It sports a beautiful unibody 
+design with a polycarbonate shell. Being made out of a single block of 
+matte plastic, it surely feels sturdy and durable. The company has 
+certainly stepped up its game with One X; it is better looking than any 
+of the company launches in 2011.Coming to the specifics - while 
+the One X may remind you of the curved look of Galaxy Nexus, it isn't 
+really curved. It sports a 4.7 inch display, which is carefully covered 
+with one sheet of glass that also drapes the capacitive Android buttons.
+ In other physical characteristics, One X has smoothly rounded, glossy 
+sides, which are really clean apart from the presence of volume rocker 
+on the right, micro-USB port on the left side, microphone on the bottom 
+with another secondary microphone on the top, along with power bottom 
+and 3.5 mm headphone jack. The only omission is a dedicated camera 
+button. Considering HTC has been going gaga about the One X camera to 
+anyone who would care to listen (more on this later), we believe it 
+would have been a welcome addition. As the battery is 
+non-user-replaceable, the micro-SIM slot is conveniently located at the 
+top. The rear camera is surrounded by an attractive matte silver ring, 
+which also saves it from scratches.The only issue with our White 
+One X unit was its tendency to retain dirt marks very easily; although 
+some of them could be removed with a damp cloth, we still were left with
+ a few marks.Overall, HTC One X is a gorgeous smartphone with 
+surprisingly thin and lightweight body, and make no mistake, it is not a
+ flimsy looking smartphone. Thanks to the curved sides, it fits well in 
+the hand compared to the Sony Xperia S, which comes with a rectangular body 
+and sharp edges.DisplayThis is one part we really loved 
+about HTC One X. Its 4.7 inch 1280 x 720 SLCD is one of the best 
+displays that you can get in the market right now. We won't call it 
+perfect, but it's certainly a great step in that direction - be the 
+near-perfect 180 degree viewing angles or the great colour reproduction.
+ It is bright and you won't have any issues under the sun. It offers sharp 
+and clear text and individual pixels are invisible.CameraHalf
+ of the HTC's press conference at the Mobile World Congress was centred 
+around the all new camera technology used in the One series smartphones. 
+With that in mind, we were extra excited to check out its camera and see
+ if it was all that HTC claims it to be.Yes, it performs and 
+performs well! From the low light indoor shots to capturing Delhi after a
+ rainy evening, HTC One X came out trumps. Its 8MP rear camera provides a
+ holistic imaging experience. It may not be out to replace a point and 
+shoot, but for your day-to-day photography needs, you would not need to 
+carry two devices.It comes with a wide f2.0 aperture, which helps
+ in capturing nice images even in low-light conditions, while the 
+dedicated Imagechip processor for the phone's camera needs, help it being the
+ quickest cameraphone available in the market. HTC has also included all
+ the new burst mode in One series of smartphones, which allows you to take 4
+ shots per second, reducing the chances of you missing 'The Decisive
+ Moment'. Coming to the software part of the camera on One X, it 
+features Instagram like real-time filters, HDR, panorama and slow-motion
+ video, ability to take photos while recording a video and more. The 
+camera interface is a big improvement from earlier HTC phones and it 
+gives you a clean UI with direct on-screen buttons to capture an image 
+or record or video anytime you want, so no need to go and change the 
+mode etc. There is almost no shutter-lag while taking stills, but for 
+video recording One X still takes two-three seconds to start recording.To
+ further sweeten the deal, it also comes with several manual settings 
+like ISO, white balance, exposure level that you can play with. Software/ InterfaceThanks
+ to Samsung's delays in launching Galaxy Nexus in the country, HTC One X
+ is actually the first smartphone with Ice Cream Sandwich on-board to 
+release in India. It comes with Android 4.0.3 along with company' 
+revamped Sense 4.0. Both of which are clearly a refreshing upgrade from 
+their previous versions, be it Gingerbread or bloated Sense 3.0/3.5.Talking
+ about ICS first, as HTC has put its own skin on top, you won't really 
+get the Android 4.0 look, but all features are present - from Android 
+Beam to the Task Switcher, Resizable Widgets to Face Unlock. You can 
+read more about ICS features in our Galaxy Nexus review.One of 
+the major concerns with last year's HTC Android smartphones was the 
+presence of bloated Sense interface. While HTC hasn't removed it, 
+noticeable effort has been made to try and tone it down in the One 
+series of smartphones. So, instead of throwing Google's design 
+completely out of the window, as it had done in the past, the company 
+has created a pleasant mix of ICS and Sense in One X and it no longer 
+puts a burden on smartphone hardware in terms of performance.Host
+ of Sense bloatware has been removed from the One X, but you can still 
+find the reminiscences in Friend Stream and Task Manager. There are 
+still instances where you feel the Sensification of Android was totally 
+unnecessary - like the Gallery and HTC Task Switcher; both are way 
+better in the Stock version of Android 4.0. HTC has partnered 
+with Dropbox to provide 25GB of cloud storage to One X users for the 
+duration of 2 years, which is certainly a nice addition and would 
+certainly help a lot of consumers. Although company calls it deeply 
+integrated in Sense, in our experience, the integration was more or less
+ like any other Android device.In terms of pre-loaded apps, you 
+will find 7digital music store, Bollywood Hungama, eBuddy XMS, HTC's own
+ Locations, Movie Editor, Notes, Polaris Office, SoundHound, Stocks, 
+Teeter, TuneIN Radio and Voice Recorder. That's still a few too many for
+ our liking - we hope the company removes some of these in the next 
+version of Sense. Overall, Sense 4.0 is a huge improvement over 
+the previous version and HTC has been able to make it lighter, while 
+retaining its unique identity.Performance/ Battery LifeThanks
+ to the 1.5GHz NVIDIA Tegra 3 quad core processor and 1GB RAM inside HTC
+ One X, it performs exceptionally well in day-to-day tasks. There is no 
+lag whatsoever while browsing through apps, home-screens or playing 
+games. The stock browser also performs up to the mark and we 
+didn't notice any issues while going through image heavy webpages, 
+high-speed scrolling or even viewing the flash content. Any less would 
+certainly be unacceptable with One X.Coming to the battery, you 
+pay for the awesome display and quad core processor with your phone's 
+battery life. Heavy users would just be able to pass a day with the 1800
+ mAh battery. As you can't replace it, any hopes for a bigger battery 
+are a no-go.VerdictHTC was under a lot of pressure to 
+bring something unique to the Mobile World Congress this year and One X 
+has turned out to be that product. It combines the raw quad core power 
+with Android 4.0 goodness and the refreshing Sense UI. In one line, it 
+is one of best Android smartphones available right now in the market. It
+ might not have the simplicity of ICS stock interface, but Sense 4.0 
+helps it stand out. Thanks to the some top notch work by folks at HTC, 
+it looks stunning and is backed by some great real life performance. 
+The only part where we are left a little overwhelmed is the Rs 37,899 
+pricing, but we've never said quality comes cheap. For more pictures of the HTC One X, please visit our picture gallery. ProsStunning LooksGorgeous DisplayTegra 3 PerformanceConsPriceNon user-replaceable batteryPrice: Rs 37,899RatingsDesign: 4Display: 4.5Camera: 4.5Performance: 4.5Software: 4Battery Life: 3.5Value for Money: 4 Overall: 4
+
+HTC One series, and specifically One X, brings several firsts to 
+HTC's portfolio like Ice Cream Sandwich and a quad core processor. 
+Launched in India at Rs. 37,899, one surely wonders whether it is really
+ worth this hefty price-tag. We will find out in this review.
+
+Hardware
+
+HTC
+ One X is the company's flagship smartphone for this year and that is 
+clearly visible in the design and looks. It sports a beautiful unibody 
+design with a polycarbonate shell. Being made out of a single block of 
+matte plastic, it surely feels sturdy and durable. The company has 
+certainly stepped up its game with One X; it is better looking than any 
+of the company launches in 2011.
+
+Coming to the specifics - while 
+the One X may remind you of the curved look of Galaxy Nexus, it isn't 
+really curved. It sports a 4.7 inch display, which is carefully covered 
+with one sheet of glass that also drapes the capacitive Android buttons.
+ In other physical characteristics, One X has smoothly rounded, glossy 
+sides, which are really clean apart from the presence of volume rocker 
+on the right, micro-USB port on the left side, microphone on the bottom 
+with another secondary microphone on the top, along with power bottom 
+and 3.5 mm headphone jack. The only omission is a dedicated camera 
+button. Considering HTC has been going gaga about the One X camera to 
+anyone who would care to listen (more on this later), we believe it 
+would have been a welcome addition. 
+
+As the battery is 
+non-user-replaceable, the micro-SIM slot is conveniently located at the 
+top. The rear camera is surrounded by an attractive matte silver ring, 
+which also saves it from scratches.
+
+The only issue with our White 
+One X unit was its tendency to retain dirt marks very easily; although 
+some of them could be removed with a damp cloth, we still were left with
+ a few marks.
+
+Overall, HTC One X is a gorgeous smartphone with 
+surprisingly thin and lightweight body, and make no mistake, it is not a
+ flimsy looking smartphone. Thanks to the curved sides, it fits well in 
+the hand compared to the Sony Xperia S, which comes with a rectangular body 
+and sharp edges.
+
+Display
+
+This is one part we really loved 
+about HTC One X. Its 4.7 inch 1280 x 720 SLCD is one of the best 
+displays that you can get in the market right now. We won't call it 
+perfect, but it's certainly a great step in that direction - be the 
+near-perfect 180 degree viewing angles or the great colour reproduction.
+ It is bright and you won't have any issues under the sun. It offers sharp 
+and clear text and individual pixels are invisible.
+
+Camera
+
+Half
+ of the HTC's press conference at the Mobile World Congress was centred 
+around the all new camera technology used in the One series smartphones. 
+With that in mind, we were extra excited to check out its camera and see
+ if it was all that HTC claims it to be.
+
+Yes, it performs and 
+performs well! From the low light indoor shots to capturing Delhi after a
+ rainy evening, HTC One X came out trumps. Its 8MP rear camera provides a
+ holistic imaging experience. It may not be out to replace a point and 
+shoot, but for your day-to-day photography needs, you would not need to 
+carry two devices.
+
+It comes with a wide f2.0 aperture, which helps
+ in capturing nice images even in low-light conditions, while the 
+dedicated Imagechip processor for the phone's camera needs, help it being the
+ quickest cameraphone available in the market. HTC has also included all
+ the new burst mode in One series of smartphones, which allows you to take 4
+ shots per second, reducing the chances of you missing 'The Decisive
+ Moment'. 
+
+Coming to the software part of the camera on One X, it 
+features Instagram like real-time filters, HDR, panorama and slow-motion
+ video, ability to take photos while recording a video and more. The 
+camera interface is a big improvement from earlier HTC phones and it 
+gives you a clean UI with direct on-screen buttons to capture an image 
+or record or video anytime you want, so no need to go and change the 
+mode etc. There is almost no shutter-lag while taking stills, but for 
+video recording One X still takes two-three seconds to start recording.
+
+To
+ further sweeten the deal, it also comes with several manual settings 
+like ISO, white balance, exposure level that you can play with. 
+
+Software/ Interface
+
+Thanks
+ to Samsung's delays in launching Galaxy Nexus in the country, HTC One X
+ is actually the first smartphone with Ice Cream Sandwich on-board to 
+release in India. It comes with Android 4.0.3 along with company' 
+revamped Sense 4.0. Both of which are clearly a refreshing upgrade from 
+their previous versions, be it Gingerbread or bloated Sense 3.0/3.5.
+
+Talking
+ about ICS first, as HTC has put its own skin on top, you won't really 
+get the Android 4.0 look, but all features are present - from Android 
+Beam to the Task Switcher, Resizable Widgets to Face Unlock. You can 
+read more about ICS features in our Galaxy Nexus review.
+
+One of 
+the major concerns with last year's HTC Android smartphones was the 
+presence of bloated Sense interface. While HTC hasn't removed it, 
+noticeable effort has been made to try and tone it down in the One 
+series of smartphones. So, instead of throwing Google's design 
+completely out of the window, as it had done in the past, the company 
+has created a pleasant mix of ICS and Sense in One X and it no longer 
+puts a burden on smartphone hardware in terms of performance.
+
+Host
+ of Sense bloatware has been removed from the One X, but you can still 
+find the reminiscences in Friend Stream and Task Manager. There are 
+still instances where you feel the Sensification of Android was totally 
+unnecessary - like the Gallery and HTC Task Switcher; both are way 
+better in the Stock version of Android 4.0. 
+
+HTC has partnered 
+with Dropbox to provide 25GB of cloud storage to One X users for the 
+duration of 2 years, which is certainly a nice addition and would 
+certainly help a lot of consumers. Although company calls it deeply 
+integrated in Sense, in our experience, the integration was more or less
+ like any other Android device.
+
+In terms of pre-loaded apps, you 
+will find 7digital music store, Bollywood Hungama, eBuddy XMS, HTC's own
+ Locations, Movie Editor, Notes, Polaris Office, SoundHound, Stocks, 
+Teeter, TuneIN Radio and Voice Recorder. That's still a few too many for
+ our liking - we hope the company removes some of these in the next 
+version of Sense. 
+
+Overall, Sense 4.0 is a huge improvement over 
+the previous version and HTC has been able to make it lighter, while 
+retaining its unique identity.
+
+Performance/ Battery Life
+
+Thanks
+ to the 1.5GHz NVIDIA Tegra 3 quad core processor and 1GB RAM inside HTC
+ One X, it performs exceptionally well in day-to-day tasks. There is no 
+lag whatsoever while browsing through apps, home-screens or playing 
+games. 
+
+The stock browser also performs up to the mark and we 
+didn't notice any issues while going through image heavy webpages, 
+high-speed scrolling or even viewing the flash content. Any less would 
+certainly be unacceptable with One X.
+
+Coming to the battery, you 
+pay for the awesome display and quad core processor with your phone's 
+battery life. Heavy users would just be able to pass a day with the 1800
+ mAh battery. As you can't replace it, any hopes for a bigger battery 
+are a no-go.
+
+Verdict
+
+HTC was under a lot of pressure to 
+bring something unique to the Mobile World Congress this year and One X 
+has turned out to be that product. It combines the raw quad core power 
+with Android 4.0 goodness and the refreshing Sense UI. In one line, it 
+is one of best Android smartphones available right now in the market. It
+ might not have the simplicity of ICS stock interface, but Sense 4.0 
+helps it stand out. Thanks to the some top notch work by folks at HTC, 
+it looks stunning and is backed by some great real life performance. 
+The only part where we are left a little overwhelmed is the Rs 37,899 
+pricing, but we've never said quality comes cheap. 
+
+For more pictures of the HTC One X, please visit our picture gallery. 
+
+Pros
+
+Cons
+
+
+
+Price: Rs 37,899
+
+
+
+Ratings
+
+Design: 4
+
+Display: 4.5
+
+Camera: 4.5
+
+Performance: 4.5
+
+Software: 4
+
+Battery Life: 3.5
+
+Value for Money: 4
+
+ Overall: 4
+

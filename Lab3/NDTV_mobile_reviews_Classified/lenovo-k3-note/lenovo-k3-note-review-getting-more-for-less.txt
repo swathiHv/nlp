@@ -1,0 +1,318 @@
+Lenovo K3 Note Review: Getting More for Less
+
+When manufacturers get into price wars with each
+ other, it's customers who win the most. Lenovo has fired the latest 
+salvo, bringing full-HD 1080p screens to the sub-Rs. 10,000 market. The 
+Lenovo K3 Note is a 5.5-inch smartphone with specifications that would 
+have been pretty much top tier not more than two years ago.The 
+company is breaking new ground in terms of value for money, but not so 
+much in terms of strategy. The K3 note is available only in limited 
+numbers and only through flash sales through an exclusive tie-up with a 
+major online retailer. It will be in demand because of the 
+specifications it promises; according to Lenovo nearly 50,000 of them 
+were grabbed in just over five seconds in the first flash sale.With
+ online-only availability, buyers don't get the chance to try out 
+products unless they know someone who has already taken the chance. They
+ often go by blind faith and brand reputation alone. Luckily, we've been
+ able to spend quite a lot of time with a review unit, and can bring you
+ our detailed observations and test results. Look and feelPhones
+ in and around this price range seem to have settled on a uniform look: 
+flat back fronts with white shells covering the rear and sides. Shapes 
+and sizes vary, but we've seen this formula applied dozens of times now 
+and it doesn't help Lenovo stand out. The only difference is that the 
+rear shell has a slightly satiny texture. If you want something more 
+distinct, go with the black or yellow options rather than white.The
+ front is plain other than a slightly raised lip around the edges. There
+ isn't much space above or below the screen which is a good thing 
+because this is a still a large, wide phone thanks to its screen. 
+However, it's difficult to use the three capacitive Android navigation 
+buttons below the screen - not only are they awkward to reach, but their
+ icons are printed on in very faint grey with no backlighting.The
+ power and volume buttons are on the right, and both the 3.5mm audio 
+socket and Micro-USB port are on the top. This leaves the left and 
+bottom entirely blank, other than a tiny mic hole. You'll find the 
+camera lens and twin-LED flash in one corner of the rear, along with 
+another mic hole, speaker grille and a large Lenovo logo. The battery is
+ removable and you'll have to take it out when swapping SIM cards. 
+There's also a microSD card slot for storage expansion. The phone
+ is easy to hold, though we would have liked a bit more curvature to the
+ plastic. You won't always be able to reach all four corners with a 
+thumb, so expect some amount of shuffling around in your palm, or just 
+use it with both hands. 150g isn't too heavy but you'll definitely feel 
+this phone's weight and bulk in any pocket you put it in.SpecificationsWe're
+ looking at a Rs. 10,000 powerhouse here. Lenovo really wasn't kidding 
+when it set out to one-up Xiaomi, Yu, Coolpad and others. At its core, 
+this phone has a MediaTek 6752 SoC, with eight ARM Cortex-A53 cores all 
+running at 1.7GHz, and integrated Mali-T760 MP2 graphics. There's also 
+2GB of RAM and 16GB of built-in storage, with support for 32GB microSD 
+cards.The screen measures 5.5 inches diagonally and has a 
+resolution of 1080x1920, or full-HD. This is a step up from most 
+competitors, and in line with Micromax's Yu Yureka Plus (Review) (which has just 
+received a significant price cut). Lenovo is clearly gunning for victory
+ in the ongoing value segment arms race, so it will be 
+interesting to see what compromises this has resulted in, if any.  Lenovo
+ has gone with a 13-megapixel rear camera capable of 30fps 1080p video 
+recording. The twin-LED flash looks like something you'd find on 
+high-end phones, but both are the same - you don't get the adaptive 
+dual-tone type of flash that makes shots look more natural. The camera 
+in front can take shots at up to 5-megapixels.The Lenovo K3 Note 
+supports LTE on the Indian 2300MHz band on both SIMs which is not always
+ the case. There's also Wi-Fi b/g/n, Bluetooth 4.1 and A-GPS. In 
+addition to the usual accelerometer and ambient light sensor, there's a 
+digital compass as well. USB-OTG storage is supported, and there's also 
+Dolby Atmos audio enhancement.SoftwareOn the software 
+side, the Lenovo K3 Note comes with Android 5.0 but is also 
+saddled with Lenovo's VibeUI skin. Thankfully, a lot of the underlying 
+Android style and functionality has been left untouched and the 
+enhancements add features and functionality. The main change, which a 
+lot of people will not like, is that all icons for installed apps live 
+on the home pages; there is no dedicated app drawer. This has been a 
+popular approach from Chinese vendors for a long time, but some are 
+beginning to realise that we want the option to turn it back on.Lenovo
+ ships a few apps, including its own SYNCit, CLONEit and SHAREit. 
+There's also Guvera Music, Truecaller, UC Browser, Evernote, and Route 
+66 Navigate. Flipkart, Facebook, WeChat, Twitter and Skype are 
+preloaded, as are a bunch of Ubisoft games that surprisingly didn't have
+ the usual message telling us we'd have to pay after five turns. Even 
+better, nearly all the preloaded apps are removable.Lenovo has 
+also implemented a "secure zone" feature that lets you hide certain 
+apps, files and notifications with a unique lock code. Ultimate Power 
+Saver disables every function other than calling and messaging, with the
+ claim that standby time will increase to "several days". This could 
+come in handy in emergencies. Smart Scene lets you define times 
+during which the phone automatically switches to silent, enters airplane
+ mode, changes brightness, chooses a different data connection, or 
+launches an app. You can set predefined times or trigger Scene changes 
+manually. There's no geofencing, which would have been cool, but you can
+ set a Scene to be triggered when within range of a particular Wi-Fi 
+access point so the phone could somewhat accurately know when you're at 
+home and when you're at work.There are a few interesting little 
+settings as well, for example, Wide Touch makes an iOS-like floating 
+shortcut button visible at all times. You can double-tap the screen to 
+wake it, and there are gestures that let you launch apps directly from 
+sleep. If for some reason you hate having a proper Task Switcher 
+shortcut and prefer having a redundant Android menu button below the 
+screen, you can flip back to this old-fashioned behaviour.PerformanceWe
+ found the Lenovo K3 Note generally very easy and pleasant to use. Apart
+ from its physical size making single-thumb use difficult, we had no 
+trouble getting used to it. Performance was generally snappy throughout,
+ with zero lag even when multitasking. Heavily encoded HD video files 
+played without a hitch. Benchmark tests proved that the K3 Note 
+has loads of power on tap. AnTuTu produced a phenomenal score of 45,616 
+points and Quadrant gave us 20,680 points overall. Graphics could have 
+taken a hit thanks to the high-density screen, but we were happy to see 
+15fps in GFXBench and 6,667 overall in 3DMark Ice Storm Extreme. 
+SunSpider ran in 923.1ms and Mozilla Kraken in 11088.9ms. BrowserMark 2.1 ran well and resulted in a score of 861 points.The phone's 
+screen is really good, and we liked what we saw of its viewing angles, 
+colour reproduction and sharpness. It even did relatively well outdoors.
+ Sound from the rear speaker was pretty full and loud, but muddled and 
+sometimes indistinct. The Dolby Atmos equalisation certainly made a 
+difference, though it was far more effective with earphones. The 
+Surround Virtualiser works even with the equalisation disabled, and it 
+really helped make movie action sequences sound richer and more urgent. (Click to see full size)The
+ camera was a bit of a mixed bag for us. Due to the placement of the 
+camera lens right in one corner of the rear, we often found our fingers 
+getting in the way, and had to hold the phone only by its edges. 
+Lighting played a huge part in the outcome of our tests - photos taken 
+on cloudy monsoon days definitely didn't come out as well as those taken
+ when the sun was shining brightly. Detailing wasn't very well defined 
+when we reviewed our photo samples at full size, but things looked 
+fantastic on the phone's own screen. Colours were generally good and 
+close-ups fared a lot better than shots of faraway objects. At night, we
+ only got usable results if there was a direct source of light shining 
+on our subject. Voice calls were a bit dull but otherwise fine, 
+and 4G data speed is a joy to experience. Battery life was good, but not
+ exactly groundbreaking, at 8 hours, 7 minutes in our video loop test. VerdictLenovo
+ really has managed to surprise us with the power and polish of its 
+latest launch. The K3 Note is a phenomenal device at this price - the 
+golden age of budget smartphones seems to be far from over. We think a 
+lot of customers will flock to this phone, given the popularity of 
+larger screen sizes, but we hope that doesn't stop Lenovo from launching
+ a regular-sized version of it in the near future.The K3 Note 
+makes the Xiaomi Redmi Note 4G (Review | Pictures) feel a bit dated, and is a better performer 
+than the Yu Yureka Plus on at least a few counts. In fact, it's really 
+hard to choose between the Yureka Plus and K3 Note now - while the 
+former offers CyanogenOS and now costs Rs. 1,000 less, we still like the
+ overall package that Lenovo offers just as much. Both are only going to
+ be available only in limited numbers and only through online flash 
+sales for the foreseeable future, so you could take whichever you get 
+and not lose out either way. 
+
+The 
+company is breaking new ground in terms of value for money, but not so 
+much in terms of strategy. The K3 note is available only in limited 
+numbers and only through flash sales through an exclusive tie-up with a 
+major online retailer. It will be in demand because of the 
+specifications it promises; according to Lenovo nearly 50,000 of them 
+were grabbed in just over five seconds in the first flash sale.
+
+With
+ online-only availability, buyers don't get the chance to try out 
+products unless they know someone who has already taken the chance. They
+ often go by blind faith and brand reputation alone. Luckily, we've been
+ able to spend quite a lot of time with a review unit, and can bring you
+ our detailed observations and test results. 
+
+Look and feelPhones
+ in and around this price range seem to have settled on a uniform look: 
+flat back fronts with white shells covering the rear and sides. Shapes 
+and sizes vary, but we've seen this formula applied dozens of times now 
+and it doesn't help Lenovo stand out. The only difference is that the 
+rear shell has a slightly satiny texture. If you want something more 
+distinct, go with the black or yellow options rather than white.
+
+The
+ front is plain other than a slightly raised lip around the edges. There
+ isn't much space above or below the screen which is a good thing 
+because this is a still a large, wide phone thanks to its screen. 
+However, it's difficult to use the three capacitive Android navigation 
+buttons below the screen - not only are they awkward to reach, but their
+ icons are printed on in very faint grey with no backlighting.
+
+The
+ power and volume buttons are on the right, and both the 3.5mm audio 
+socket and Micro-USB port are on the top. This leaves the left and 
+bottom entirely blank, other than a tiny mic hole. You'll find the 
+camera lens and twin-LED flash in one corner of the rear, along with 
+another mic hole, speaker grille and a large Lenovo logo. The battery is
+ removable and you'll have to take it out when swapping SIM cards. 
+There's also a microSD card slot for storage expansion. 
+
+The phone
+ is easy to hold, though we would have liked a bit more curvature to the
+ plastic. You won't always be able to reach all four corners with a 
+thumb, so expect some amount of shuffling around in your palm, or just 
+use it with both hands. 150g isn't too heavy but you'll definitely feel 
+this phone's weight and bulk in any pocket you put it in.
+
+SpecificationsWe're
+ looking at a Rs. 10,000 powerhouse here. Lenovo really wasn't kidding 
+when it set out to one-up Xiaomi, Yu, Coolpad and others. At its core, 
+this phone has a MediaTek 6752 SoC, with eight ARM Cortex-A53 cores all 
+running at 1.7GHz, and integrated Mali-T760 MP2 graphics. There's also 
+2GB of RAM and 16GB of built-in storage, with support for 32GB microSD 
+cards.
+
+The screen measures 5.5 inches diagonally and has a 
+resolution of 1080x1920, or full-HD. This is a step up from most 
+competitors, and in line with Micromax's Yu Yureka Plus (Review) (which has just 
+received a significant price cut). Lenovo is clearly gunning for victory
+ in the ongoing value segment arms race, so it will be 
+interesting to see what compromises this has resulted in, if any.  
+
+Lenovo
+ has gone with a 13-megapixel rear camera capable of 30fps 1080p video 
+recording. The twin-LED flash looks like something you'd find on 
+high-end phones, but both are the same - you don't get the adaptive 
+dual-tone type of flash that makes shots look more natural. The camera 
+in front can take shots at up to 5-megapixels.
+
+The Lenovo K3 Note 
+supports LTE on the Indian 2300MHz band on both SIMs which is not always
+ the case. There's also Wi-Fi b/g/n, Bluetooth 4.1 and A-GPS. In 
+addition to the usual accelerometer and ambient light sensor, there's a 
+digital compass as well. USB-OTG storage is supported, and there's also 
+Dolby Atmos audio enhancement.
+
+SoftwareOn the software 
+side, the Lenovo K3 Note comes with Android 5.0 but is also 
+saddled with Lenovo's VibeUI skin. Thankfully, a lot of the underlying 
+Android style and functionality has been left untouched and the 
+enhancements add features and functionality. The main change, which a 
+lot of people will not like, is that all icons for installed apps live 
+on the home pages; there is no dedicated app drawer. This has been a 
+popular approach from Chinese vendors for a long time, but some are 
+beginning to realise that we want the option to turn it back on.
+
+Lenovo
+ ships a few apps, including its own SYNCit, CLONEit and SHAREit. 
+There's also Guvera Music, Truecaller, UC Browser, Evernote, and Route 
+66 Navigate. Flipkart, Facebook, WeChat, Twitter and Skype are 
+preloaded, as are a bunch of Ubisoft games that surprisingly didn't have
+ the usual message telling us we'd have to pay after five turns. Even 
+better, nearly all the preloaded apps are removable.
+
+Lenovo has 
+also implemented a "secure zone" feature that lets you hide certain 
+apps, files and notifications with a unique lock code. Ultimate Power 
+Saver disables every function other than calling and messaging, with the
+ claim that standby time will increase to "several days". This could 
+come in handy in emergencies. 
+
+Smart Scene lets you define times 
+during which the phone automatically switches to silent, enters airplane
+ mode, changes brightness, chooses a different data connection, or 
+launches an app. You can set predefined times or trigger Scene changes 
+manually. There's no geofencing, which would have been cool, but you can
+ set a Scene to be triggered when within range of a particular Wi-Fi 
+access point so the phone could somewhat accurately know when you're at 
+home and when you're at work.
+
+There are a few interesting little 
+settings as well, for example, Wide Touch makes an iOS-like floating 
+shortcut button visible at all times. You can double-tap the screen to 
+wake it, and there are gestures that let you launch apps directly from 
+sleep. If for some reason you hate having a proper Task Switcher 
+shortcut and prefer having a redundant Android menu button below the 
+screen, you can flip back to this old-fashioned behaviour.
+
+PerformanceWe
+ found the Lenovo K3 Note generally very easy and pleasant to use. Apart
+ from its physical size making single-thumb use difficult, we had no 
+trouble getting used to it. Performance was generally snappy throughout,
+ with zero lag even when multitasking. Heavily encoded HD video files 
+played without a hitch. 
+
+Benchmark tests proved that the K3 Note 
+has loads of power on tap. AnTuTu produced a phenomenal score of 45,616 
+points and Quadrant gave us 20,680 points overall. Graphics could have 
+taken a hit thanks to the high-density screen, but we were happy to see 
+15fps in GFXBench and 6,667 overall in 3DMark Ice Storm Extreme. 
+SunSpider ran in 923.1ms and Mozilla Kraken in 11088.9ms. BrowserMark 2.1 ran well and resulted in a score of 861 points.
+
+The phone's 
+screen is really good, and we liked what we saw of its viewing angles, 
+colour reproduction and sharpness. It even did relatively well outdoors.
+ Sound from the rear speaker was pretty full and loud, but muddled and 
+sometimes indistinct. The Dolby Atmos equalisation certainly made a 
+difference, though it was far more effective with earphones. The 
+Surround Virtualiser works even with the equalisation disabled, and it 
+really helped make movie action sequences sound richer and more urgent. 
+
+(Click to see full size)
+
+The
+ camera was a bit of a mixed bag for us. Due to the placement of the 
+camera lens right in one corner of the rear, we often found our fingers 
+getting in the way, and had to hold the phone only by its edges. 
+Lighting played a huge part in the outcome of our tests - photos taken 
+on cloudy monsoon days definitely didn't come out as well as those taken
+ when the sun was shining brightly. Detailing wasn't very well defined 
+when we reviewed our photo samples at full size, but things looked 
+fantastic on the phone's own screen. Colours were generally good and 
+close-ups fared a lot better than shots of faraway objects. At night, we
+ only got usable results if there was a direct source of light shining 
+on our subject. 
+
+Voice calls were a bit dull but otherwise fine, 
+and 4G data speed is a joy to experience. Battery life was good, but not
+ exactly groundbreaking, at 8 hours, 7 minutes in our video loop test. 
+
+VerdictLenovo
+ really has managed to surprise us with the power and polish of its 
+latest launch. The K3 Note is a phenomenal device at this price - the 
+golden age of budget smartphones seems to be far from over. We think a 
+lot of customers will flock to this phone, given the popularity of 
+larger screen sizes, but we hope that doesn't stop Lenovo from launching
+ a regular-sized version of it in the near future.
+
+The K3 Note 
+makes the Xiaomi Redmi Note 4G (Review | Pictures) feel a bit dated, and is a better performer 
+than the Yu Yureka Plus on at least a few counts. In fact, it's really 
+hard to choose between the Yureka Plus and K3 Note now - while the 
+former offers CyanogenOS and now costs Rs. 1,000 less, we still like the
+ overall package that Lenovo offers just as much. Both are only going to
+ be available only in limited numbers and only through online flash 
+sales for the foreseeable future, so you could take whichever you get 
+and not lose out either way.
+

@@ -1,0 +1,265 @@
+Xiaomi Redmi 1S Review: Redefining Value Again
+
+It's safe to say that Xiaomi is the most talked-about new brand on the Indian tech scene today. The Chinese company has not spent any money on advertising and in fact seems pretty laid back about all the fuss it has caused by selling good phones at shockingly low prices. Although
+its unique strategy of using online flash sales has aggravated quite a few customers, we must remember that Xiaomi is still a startup and doesn't have the financial or logistical might of the Samsungs and Apples of the world. Now, the company has temporarily put sales of the Mi 3 on hold to concentrate on an even lower priced offering, the Redmi 
+1S. As with the Mi 3, this phone boasts of specs that are usually found in phones that cost at least twice as much, such as the much-loved Motorola Moto G. We've played with the Redmi 1S extensively to tell you 
+in detail how well it performs. This phone could once again 
+change the dynamics of the smartphone market. Look and feelUnlike in the days of the Nokia
+ 7280, which looked like a lipstick case, phone companies are not experimenting a lot with design. Smartphones today are all pretty much the same predictable candybar shape, and most don't even really think about that.The Xiaomi Redmi 1S is yet another candybar smartphone with a staid 
+look that does not attract attention. It's unexciting, but may not a bad thing for a lot of people. The
+ Redmi 1S measures 137x69x9.9mm and is definitely not slim. 
+Moreover, its 158g weight makes it heavier than a lot of other phones
+ in this price range. The rear cover is removable and Xiaomi is expected
+ to offer colourful replacement panels priced at Rs. 459
+ each, which will be a good way to give your phone some kind of 
+distinction. The Redmi 1S is sold with a matte grey rear, and gripping it 
+is not an issue. The primary camera and flash sit on the upper part of the
+ rear. The loudspeaker is just a small slit in the top right 
+corner. A Mi logo in silver is etched on the lower back. Opening the rear 
+cover is fairly simple, and the battery is removable. The
+ front is mostly taken up by the 4.7-inch screen, which has thick plastic borders. The three capacitive button labels which sit below the screen are printed in red. Oddly, the LED indicator is below the home button. Above the
+ display are the earpiece and the front-facing camera. On the bottom 
+edge is a microphone and a Micro-USB port for charging/data transfer. A 
+3.5mm jack sits on the top. The volume rocker and power button are 
+on the right edge of the phone.  Specifications and softwareFor
+ a phone priced so low, the Redmi 1S has jaw-dropping specs. 
+Housed inside the body of the Redmi 1S are top-quality hardware 
+components including a Qualcomm Snapdragon 400 processor clocked at 
+1.6GHz with an integrated Adreno 305 GPU. There is 1GB of RAM for applications and 8GB of internal storage, of which 6.14GB is available to the 
+user. You can increase the storage space by up to 64GB using 
+a microSD card.The Redmi 1S has an 8-megapixel BSI 
+camera with flash which can record 1080p videos. It also has a 
+1.6-megapixel front-facing camera. There is a 2,000mAh battery. The phone accepts two Mini-SIM cards, but only one will be usable on 3G networks. Wi-Fi and 
+Bluetooth 4.0 round out the list of connectivity options. The
+ 4.7-inch LCD has a resolution of 720x1280 pixels, which is phenomenal compared 
+to other phones in this price range. The screen is crisp, 
+and its 312ppi density makes it difficult to discern individual 
+pixels. It is protected by AGC Dragontrail 2 glass. 
+We tried scratching the screen with a coin and a scissor, and neither left any visible scratches. On the flipside, the screen looks washed 
+out when viewed at an angle, and sunlight legibility is bad thanks to the super 
+reflective front panel. The Redmi 1S runs Android 4.3 (Jelly Bean) 
+with Xiaomi's MIUI v5 skin on top of it. This is the only drawback considering a 
+lot of phones in this price range come with Android 4.4 
+(KitKat) pre-installed. Xiaomi has promised a software update before the end of this year that will bring MIUI v6 on top of 
+Android 4.4 KitKat. MIUI goes farther than most Android skins when it comes to customisation. It offers a lot of depth and a ton of features. It is 
+incredibly responsive to touch and, unlike stock Android, has all the
+ app icons lined up on the homescreen itself. There are also tonnes of
+ useful software tweaks. We noticed that Xiaomi 
+has included a 'Lite Mode' which resembles Windows Phone's UI. The most important and frequently used
+ apps are available in the form of large easy-access tiles.  Xiaomi's MIUI is
+ a community-driven exercise. In one of our interactions with Xiaomi Vice President Hugo 
+Barra, he outlined one feature that was added 
+after a user's suggestion. Essentially, the phone
+ can vibrate when a call you make is picked up by the party on the other end, which is both convenient and also cuts down on exposure to radiation, which is higher when a call is being established.You can swipe up or down the Music or Notes icons 
+to make the respective apps launch in a pop-up mode. The Messages app has a "secret messages" area that can be accessed by swiping down from
+ within the app. Even more interestingly, a few app icons work somewhat 
+like Live Tiles (seen on Windows Phones). For example, the Calendar and Weather app icons display relevant information such as the time and temperature. The Flipkart app is preloaded on the phone, which is 
+to be expected since the phone is sold exclusively via the e-commerce platform. The default music player is feature-rich and fun to use. There is also a fairly powerful WPS Office app 
+pre-installed for reading and editing documents. Facebook comes preloaded 
+as well.  There are a ton of themes which is great for 
+customisation, but in our opinion they all look really cartoonish. In 
+fact, MIUI itself is very colourful. Ultimately, this
+ boils down to preference.You can read more of our thoughts on MIUI in the Xiaomi Mi 3 review. CameraWe want to get one thing out of the way: the primary 8-megapixel camera on the Xiaomi 
+Redmi 1S is the best anyone can find for a phone priced below Rs. 10,000 right 
+now. In our daylight shots the camera managed to capture some really
+good images. The only problem we noticed was the software processing 
+worked overtime to reduce noise in the images by smudging details 
+slightly. Otherwise, colours were natural. Even in macro 
+mode, the phone performs really well. We were shocked after the 
+low-light performance test. The camera managed to capture some details which even more 
+expensive smartphones generally fail to do. The quality of the 
+1080p video is also fairly decent. (Click to see full size)The camera software does a lot of processing after images are captured by the 1.6-megapixel front camera. This smudges details in order to beautify
+ a person's face. These selfies should suffice for sharing on social 
+networks. The camera app looks like a slightly tweaked version of the default app from Android 2.3 (Gingerbread). However,
+ it is easy to use. By default, it starts up in simple mode which strips
+ away a lot of the feature that the camera offers. We'd suggest that users switch to the advanced mode to exploit the full potential of this camera. (click for full size)PerformanceAt the risk of sounding repetitive, we start another section by stating there is no other phone in this 
+price range that performs as well as the Xiaomi Redmi 1S. If someone put
+ a gun to our heads and forced us to come up with one problem, it would be that only around 400MB of RAM is available after the 
+OS and services have loaded. As long as you don't open tons of apps 
+together, it shouldn't be too much of a problem.For the most part, the phone works well and we 
+didn't face any heating issues either. We tried Shadowgun: Deadzone and 
+Dead Trigger 2, both on Ultra High settings, just to push the GPU. The phone lagged only during intensive fight sequences, which we 
+expected from such specifications anyway. We don't think 
+prospective buyers will be disappointed with the gaming performance. We also ran a bunch of synthetic benchmarks. The Redmi 1S scored 21,439 in AnTuTu 5 and 10,752 in Quadrant, 
+which are leagues ahead of phones competing in this price range. In our graphics benchmarks 
+3D Mark Ice Storm and GFXbench, the phone scored 5274 and 10.4fps, 
+which are both comparable to scores of 
+much higher priced phones.  We played a few sample videos to test if the 
+phone could handle them and found that the 1080p sample video encoded at 40mbps didn't run, which was a bit of a letdown - 1080p videos encoded at a lower bit rate ran fine though. The 
+tiny speaker can get really loud but at its highest volume the sound 
+distorts.Xiaomi doesn't bundle earphones in the box and for testing 
+purposes we used our reference headphones. The sound quality was really 
+good. While testing via the Bluetooth A2DP profile using our Plantronics Backbeat Go 2 earphones, the volume level was really low for some 
+odd reason.  In our rigorous battery test, the Xiaomi Redmi 1S tramples its competition mercilessly. It lasted a good 8 hours and 27 minutes of video playback on a loop. In everyday usage shuffling between 3G and Wi-Fi, it wasn't significantly better than other offerings, but should still last you a day of heavy usage. VerdictXiaomi continues the trend of aggressive pricing first set by Motorola earlier this year. Samsung and Micromax, who were comfortably 
+ruling the roost in the under-10k price segment, have had the carpet pulled out from under them. Even more expensive phones such as the Moto E (Review | Pictures). The Micromax Unite 2 (Review | Pictures) cannot match the Redmi 1S with its reliable performance, great camera, crisp screen and excellent battery life. The only major drawback we see is the lack of Android 4.4 (KitKat) at the moment. Looking at this phone's specs, it is easy to make comparisons to the Moto G but we are 
+consciously avoiding that at the moment since it is very nearly at the end of its life in the market, and will soon be succeeded by the
+ Moto G2 (or whatever the final phone will be called). At the moment the 
+Xiaomi Redmi 1S is the best buy under Rs. 8,000. The Chinese startup is 
+expected to sell the phone starting September 2 using the same flash sale 
+format. In the first round, 40,000 units will be put up for 
+sale and we expect them all to be gone in a matter of seconds. We can easily recommend this phone because the 
+price-to-performance ratio is unbelievably good - and thankfully, this isn't a case of 'too good to be true'.  
+Xiaomi Redmi 1S in pictures
+
+It's safe to say that Xiaomi is the most talked-about new brand on the Indian tech scene today. The Chinese company has not spent any money on advertising and in fact seems pretty laid back about all the fuss it has caused by selling good phones at shockingly low prices. 
+
+Although
+its unique strategy of using online flash sales has aggravated quite a few customers, we must remember that Xiaomi is still a startup and doesn't have the financial or logistical might of the Samsungs and Apples of the world. 
+
+Now, the company has temporarily put sales of the Mi 3 on hold to concentrate on an even lower priced offering, the Redmi 
+1S. As with the Mi 3, this phone boasts of specs that are usually found in phones that cost at least twice as much, such as the much-loved Motorola Moto G. We've played with the Redmi 1S extensively to tell you 
+in detail how well it performs. This phone could once again 
+change the dynamics of the smartphone market. 
+
+Look and feelUnlike in the days of the Nokia
+ 7280, which looked like a lipstick case, phone companies are not experimenting a lot with design. Smartphones today are all pretty much the same predictable candybar shape, and most don't even really think about that.
+
+The Xiaomi Redmi 1S is yet another candybar smartphone with a staid 
+look that does not attract attention. It's unexciting, but may not a bad thing for a lot of people. 
+
+The
+ Redmi 1S measures 137x69x9.9mm and is definitely not slim. 
+Moreover, its 158g weight makes it heavier than a lot of other phones
+ in this price range. The rear cover is removable and Xiaomi is expected
+ to offer colourful replacement panels priced at Rs. 459
+ each, which will be a good way to give your phone some kind of 
+distinction. The Redmi 1S is sold with a matte grey rear, and gripping it 
+is not an issue. 
+
+The primary camera and flash sit on the upper part of the
+ rear. The loudspeaker is just a small slit in the top right 
+corner. A Mi logo in silver is etched on the lower back. Opening the rear 
+cover is fairly simple, and the battery is removable. 
+
+The
+ front is mostly taken up by the 4.7-inch screen, which has thick plastic borders. The three capacitive button labels which sit below the screen are printed in red. Oddly, the LED indicator is below the home button. Above the
+ display are the earpiece and the front-facing camera. On the bottom 
+edge is a microphone and a Micro-USB port for charging/data transfer. A 
+3.5mm jack sits on the top. The volume rocker and power button are 
+on the right edge of the phone.  
+
+Specifications and softwareFor
+ a phone priced so low, the Redmi 1S has jaw-dropping specs. 
+Housed inside the body of the Redmi 1S are top-quality hardware 
+components including a Qualcomm Snapdragon 400 processor clocked at 
+1.6GHz with an integrated Adreno 305 GPU. There is 1GB of RAM for applications and 8GB of internal storage, of which 6.14GB is available to the 
+user. You can increase the storage space by up to 64GB using 
+a microSD card.
+
+The Redmi 1S has an 8-megapixel BSI 
+camera with flash which can record 1080p videos. It also has a 
+1.6-megapixel front-facing camera. There is a 2,000mAh battery. The phone accepts two Mini-SIM cards, but only one will be usable on 3G networks. Wi-Fi and 
+Bluetooth 4.0 round out the list of connectivity options. 
+
+The
+ 4.7-inch LCD has a resolution of 720x1280 pixels, which is phenomenal compared 
+to other phones in this price range. The screen is crisp, 
+and its 312ppi density makes it difficult to discern individual 
+pixels. It is protected by AGC Dragontrail 2 glass. 
+We tried scratching the screen with a coin and a scissor, and neither left any visible scratches. On the flipside, the screen looks washed 
+out when viewed at an angle, and sunlight legibility is bad thanks to the super 
+reflective front panel. 
+
+The Redmi 1S runs Android 4.3 (Jelly Bean) 
+with Xiaomi's MIUI v5 skin on top of it. This is the only drawback considering a 
+lot of phones in this price range come with Android 4.4 
+(KitKat) pre-installed. Xiaomi has promised a software update before the end of this year that will bring MIUI v6 on top of 
+Android 4.4 KitKat. 
+
+MIUI goes farther than most Android skins when it comes to customisation. It offers a lot of depth and a ton of features. It is 
+incredibly responsive to touch and, unlike stock Android, has all the
+ app icons lined up on the homescreen itself. There are also tonnes of
+ useful software tweaks. We noticed that Xiaomi 
+has included a 'Lite Mode' which resembles Windows Phone's UI. The most important and frequently used
+ apps are available in the form of large easy-access tiles.  
+
+Xiaomi's MIUI is
+ a community-driven exercise. In one of our interactions with Xiaomi Vice President Hugo 
+Barra, he outlined one feature that was added 
+after a user's suggestion. Essentially, the phone
+ can vibrate when a call you make is picked up by the party on the other end, which is both convenient and also cuts down on exposure to radiation, which is higher when a call is being established.
+
+You can swipe up or down the Music or Notes icons 
+to make the respective apps launch in a pop-up mode. The Messages app has a "secret messages" area that can be accessed by swiping down from
+ within the app. Even more interestingly, a few app icons work somewhat 
+like Live Tiles (seen on Windows Phones). For example, the Calendar and Weather app icons display relevant information such as the time and temperature. 
+
+The Flipkart app is preloaded on the phone, which is 
+to be expected since the phone is sold exclusively via the e-commerce platform. The default music player is feature-rich and fun to use. There is also a fairly powerful WPS Office app 
+pre-installed for reading and editing documents. Facebook comes preloaded 
+as well.  
+
+There are a ton of themes which is great for 
+customisation, but in our opinion they all look really cartoonish. In 
+fact, MIUI itself is very colourful. Ultimately, this
+ boils down to preference.
+
+You can read more of our thoughts on MIUI in the Xiaomi Mi 3 review. 
+
+CameraWe want to get one thing out of the way: the primary 8-megapixel camera on the Xiaomi 
+Redmi 1S is the best anyone can find for a phone priced below Rs. 10,000 right 
+now. 
+
+In our daylight shots the camera managed to capture some really
+good images. The only problem we noticed was the software processing 
+worked overtime to reduce noise in the images by smudging details 
+slightly. Otherwise, colours were natural. Even in macro 
+mode, the phone performs really well. We were shocked after the 
+low-light performance test. The camera managed to capture some details which even more 
+expensive smartphones generally fail to do. The quality of the 
+1080p video is also fairly decent. 
+
+(Click to see full size)The camera software does a lot of processing after images are captured by the 1.6-megapixel front camera. This smudges details in order to beautify
+ a person's face. These selfies should suffice for sharing on social 
+networks. 
+
+The camera app looks like a slightly tweaked version of the default app from Android 2.3 (Gingerbread). However,
+ it is easy to use. By default, it starts up in simple mode which strips
+ away a lot of the feature that the camera offers. We'd suggest that users switch to the advanced mode to exploit the full potential of this camera. 
+
+(click for full size)PerformanceAt the risk of sounding repetitive, we start another section by stating there is no other phone in this 
+price range that performs as well as the Xiaomi Redmi 1S. If someone put
+ a gun to our heads and forced us to come up with one problem, it would be that only around 400MB of RAM is available after the 
+OS and services have loaded. As long as you don't open tons of apps 
+together, it shouldn't be too much of a problem.
+
+For the most part, the phone works well and we 
+didn't face any heating issues either. We tried Shadowgun: Deadzone and 
+Dead Trigger 2, both on Ultra High settings, just to push the GPU. The phone lagged only during intensive fight sequences, which we 
+expected from such specifications anyway. We don't think 
+prospective buyers will be disappointed with the gaming performance. 
+
+We also ran a bunch of synthetic benchmarks. The Redmi 1S scored 21,439 in AnTuTu 5 and 10,752 in Quadrant, 
+which are leagues ahead of phones competing in this price range. In our graphics benchmarks 
+3D Mark Ice Storm and GFXbench, the phone scored 5274 and 10.4fps, 
+which are both comparable to scores of 
+much higher priced phones.  
+
+We played a few sample videos to test if the 
+phone could handle them and found that the 1080p sample video encoded at 40mbps didn't run, which was a bit of a letdown - 1080p videos encoded at a lower bit rate ran fine though. The 
+tiny speaker can get really loud but at its highest volume the sound 
+distorts.
+
+Xiaomi doesn't bundle earphones in the box and for testing 
+purposes we used our reference headphones. The sound quality was really 
+good. While testing via the Bluetooth A2DP profile using our Plantronics Backbeat Go 2 earphones, the volume level was really low for some 
+odd reason.  
+
+In our rigorous battery test, the Xiaomi Redmi 1S tramples its competition mercilessly. It lasted a good 8 hours and 27 minutes of video playback on a loop. In everyday usage shuffling between 3G and Wi-Fi, it wasn't significantly better than other offerings, but should still last you a day of heavy usage. 
+
+VerdictXiaomi continues the trend of aggressive pricing first set by Motorola earlier this year. Samsung and Micromax, who were comfortably 
+ruling the roost in the under-10k price segment, have had the carpet pulled out from under them. 
+
+Even more expensive phones such as the Moto E (Review | Pictures). The Micromax Unite 2 (Review | Pictures) cannot match the Redmi 1S with its reliable performance, great camera, crisp screen and excellent battery life. The only major drawback we see is the lack of Android 4.4 (KitKat) at the moment. 
+
+Looking at this phone's specs, it is easy to make comparisons to the Moto G but we are 
+consciously avoiding that at the moment since it is very nearly at the end of its life in the market, and will soon be succeeded by the
+ Moto G2 (or whatever the final phone will be called). 
+
+At the moment the 
+Xiaomi Redmi 1S is the best buy under Rs. 8,000. The Chinese startup is 
+expected to sell the phone starting September 2 using the same flash sale 
+format. In the first round, 40,000 units will be put up for 
+sale and we expect them all to be gone in a matter of seconds. We can easily recommend this phone because the 
+price-to-performance ratio is unbelievably good - and thankfully, this isn't a case of 'too good to be true'.  
+

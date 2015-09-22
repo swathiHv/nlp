@@ -1,0 +1,354 @@
+Maxx Power House MX200 Review: Good For One Thing
+
+We've recently witnessed the launch of an Android phone that costs 
+just Rs. 2,000 and it's quite likely that more will follow. Arguably, 
+you lose much of the "smart" in smartphone when you pare things down so drastically,
+ but it's still a step above cheap featurephones which are barely any 
+different from what mainstream mobile phones were a decade ago.Featurephones
+ keep dropping in price and some manufacturers have tried faking the 
+smartphone experience with touchscreens and popular apps. Today, though,
+ we have a whole different animal with us for review. Maxx has decided 
+to innovate by jamming a gigantic 5,200mAh battery into its new model, 
+which is also accessible externally so you can charge other devices with
+ it.The appropriately named Power House MX200 ought to last weeks
+ on a single charge - we're used to seeing battery capacities of 
+anywhere between 1,800mAh and 4,000mAh on high-end smartphones, and that
+ much juice has to suffice for power-hungry 3G and LTE radios, 
+high-resolution screens and multi-core CPUs that run full tilt when apps
+ demand it. With so much power to spare, you should be able to run this 
+phone for weeks and still top up your other devices. Not a bad trick at 
+all, in theory, but let's see how it works out in the real world.Look and feelThis
+ is one huge phone. It's even bigger and heavier than the ancient Nokia 
+5110, one of the most popular models from 15 years ago when all phones 
+looked like bricks. The MX200 will not fit comfortably in any pocket 
+and, frankly, isn't even comfortable to hold or use - the only possible 
+saving grace is that it isn't as wide as today's smartphones. You
+ might think by looking at the military-style casing that the Maxx Power
+ House MX200 is designed to be rugged, or at least even slightly 
+resistant to damage, but it isn't. This phone's housing is all show. It might have
+ rubber flaps covering its ports, but these are not going to be 
+effective against anything considering the entire rear cover itself pops
+ off so easily. In fact, if not for its weight, this phone would feel 
+quite flimsy and we can't really tell whether it would survive a drop or
+ exposure to any liquid. Maxx's website and packaging materials make no 
+mention of any kind of waterproofing, dustproofing, impact resistance or
+ even a temperature range in which it can operate.The keypad 
+buttons are stiff and not very reassuring. There's a retractable FM 
+antenna - why not - which is extremely likely to get bent. There are no dedicated
+ volume buttons or any other conveniences that we take for granted 
+today, except for an LED torch on the top.A little flap on the 
+right opens to reveal a full-sized USB host port into which you can plug
+ other devices for charging. The MX200 comes with a retractable 
+multi-pronged USB cable which you can carry instead of multiple 
+dedicated cables. You get Micro-USB and Mini-USB, a 30-pin Apple dock 
+connector, Samsung's old proprietary connector, and a cylindrical DC 
+pin.The rear cover comes off with surprisingly little effort, and
+ you can then see the gigantic battery inside. It's completely 
+self-contained and removable - on its own it looks to be around the size
+ and shape of an asthma inhaler. The full-sized USB port is part of the 
+battery itself, and there's an additional Micro-USB port on it to charge
+ it. This means you can use it independently of the phone, which is 
+actually pretty neat.Beneath the battery, you'll find two 
+full-sized SIM card slots and a microSD slot. Cards of up to 8GB are 
+supported and you'll definitely want to buy one, because there's no 
+internal storage space for files at all.Features and softwareThe
+ phone's processor is unnamed, but it really is of no consequence 
+because there's nothing at all you could do with this phone that might 
+require a decent one. The screen measures 2.4 inches diagonally and has a
+ resolution of 240x320 pixels - a fair bit larger than the screens of 
+candybar phones were when they were the norm, such as Nokia's 
+tremendously popular Series 40 models. The MX200's screen can display 262,000 colours 
+and about nine lines of text, so while basic graphics are okay, don't 
+expect images to look realistic at all.In another flashback to 
+pre-smartphone days, you'll have to contend with limited storage pools 
+for different data types. You can save only up to 500 phonebook entries 
+and 50 text messages. If you want to take even a single photo you'll have
+ to add a microSD card - capacities up to 8GB are supported.There's
+ no 3G or Wi-Fi so the best you can do in terms of data speed is GPRS. 
+There is FM radio and a retractable antenna, so you don't have to have a
+ headset plugged in. Bluetooth is also supported, but the version number
+ is unclear. The 0.3-megapixel camera seems laughable in this day and 
+age. The MX200's software is entirely proprietary and there 
+doesn't seem to be any ability to load or run additional apps. You get 
+the standard messaging, phonebook and call log apps, along with a 
+barebones calendar, calculator and world clock. The camera and video 
+recorder apps are in a Multimedia folder along with individual apps for 
+the voice recorder, audio player, image viewer and sound recorder. For 
+some reason, an ebook reader app is in the Organizer folder. There's 
+even a game - Sokoban - which is excruciating to play on this device.You
+ can set profiles (there's even a flight mode) and the only way to 
+change ringer and other sound settings is to edit a profile. There's a 
+Bluetooth menu which lets you detect, pair and transfer files to/from 
+compatible devices. Finally, the Services menu contains links to Gmail, 
+the Times of India, Facebook and Yahoo which open in a Web browser. The 
+submenu item also labelled 'Services' launches the browser itself, and 
+you can change the default Maxx homepage. You can find an option to type
+ in your own URL in the menu. At GPRS speeds, we really didn't have much
+ use for the browser, but we would still have liked to have been able to
+ pin multiple Web shortcuts (especially since typing is such a chore).PerformanceSince
+ none of our benchmark tests would run on this phone, and its value lies
+ in its unique battery rather than its performance, we tested it by 
+using it as our primary mobile phone for a week. Other than the obvious 
+lack of apps, Internet connectivity, notifications and other things we 
+take for granted (and are also, in some senses, addicted to), we wanted 
+to see how well the Power House MX200 works. We had mixed experiences - 
+while the battery was quite impressive, the phone itself failed on many 
+counts.The first thing we realised - which the spec sheet had 
+happily glossed over - is that this phone does not have a vibrator. Of 
+all the modern conveniences a mobile phone offers, this is not one we 
+were prepared to sacrifice, and we cannot understand why it was left 
+out. If this was a budget consideration, we would much rather have 
+dispensed with the entirely useless camera.Call quality, which is
+ important for a basic phone, was really substandard. We couldn't hear 
+callers very well, and they consistently reported that our own voices 
+sounded robotic or distorted. Comfort was another limiting factor - this
+ phone was just too bulky and heavy to hold for long.Text input 
+is an exercise in masochism. Not only are the buttons stiff, but this 
+phone lacks T9 predictive input so you have to manually press each 
+button as many times as it takes to call up the letter you need - hello,
+ 1995 - and the punctuation marks are so painful that we actually ended 
+up typing like illiterate teenagers.Multimedia functions are also
+ best avoided - the speaker can get really loud but sound quality is not
+ good at all. When using the FM radio or MP3 player, no controls are 
+available unless you stay in the respective apps. The camera, as 
+expected, is a total joke. There was no situation in which we were able 
+to take usable photos, and the less said about videos (320x240 QVGA), 
+the better.(Click to see full size)Many of these gripes might seem to be because we are 
+smartphone users and thus not the target audience for a phone such as 
+this, but honestly, these are some really basic things that phones were 
+able to get right a decade ago and we really shouldn't have to deal with
+ them today. Even on such a tight budget, there are featurephones that 
+can do better.All is not lost, however. The MX200 does offer 
+dual-SIM functionality and has a microSD card slot, which are not so 
+common at this price point. And then there's the battery. That glorious,
+ gigantic, improbable battery. In nearly a week of usage (mostly only 
+phone calls and a little bit of music), it did not die. We charged it up
+ to full and were able to charge an iPhone 5c to 100 percent from its 
+battery - and it still did not die.The only problem we had with 
+the battery is that you can't easily tell how far it has depleted at any
+ point. The indicator seems to be poorly calibrated - we saw it jump 
+around quite a bit. It has seven segments, but the phone seemed to spend
+ most of its time with either only one or all lit up. If you come to 
+rely on this battery, you'll really miss being able to gauge its charge 
+level at a glance.VerdictWe're pretty sure there are 
+people who will appreciate the Maxx Power House MX200's low price and incredible 
+battery life, and not care about looks or functionality. It could be a lifesaver for those who spend most of their time in places with erratic power supply (or none at all). That said, even 
+though this product is clearly not aimed at a smartphone-buying 
+audience, it could come in handy as a secondary phone. You could pop 
+your SIM card into it when heading out on a hike or a camping trip so 
+you can leave your more valuable smartphone at home - and then maybe 
+even continue to use the battery pack long after you return.Ultimately
+ though, there are not many scenarios in which it wouldn't also be 
+perfectly feasible (if not preferable) to carry a more conventional 
+barebones phone and a separate portable charger. Even the Rs. 1,150 
+Nokia 105 would offer the same if not more functionality and be easier and more 
+comfortable to use. Two separate devices would work out to be a little 
+more expensive, but both would be useful for more things in more 
+situations. If you really are going to be in a situation in which
+ it would be too difficult to plug your phone in to charge, or if you 
+anticipate forgetting to do so, then the Maxx Power House MX200 will fit
+ the bill. If not, you'd have to be irrationally in love with the idea of 
+carrying a giant battery around everywhere in order to use it. 
+
+We've recently witnessed the launch of an Android phone that costs 
+just Rs. 2,000 and it's quite likely that more will follow. Arguably, 
+you lose much of the "smart" in smartphone when you pare things down so drastically,
+ but it's still a step above cheap featurephones which are barely any 
+different from what mainstream mobile phones were a decade ago.
+
+Featurephones
+ keep dropping in price and some manufacturers have tried faking the 
+smartphone experience with touchscreens and popular apps. Today, though,
+ we have a whole different animal with us for review. Maxx has decided 
+to innovate by jamming a gigantic 5,200mAh battery into its new model, 
+which is also accessible externally so you can charge other devices with
+ it.
+
+The appropriately named Power House MX200 ought to last weeks
+ on a single charge - we're used to seeing battery capacities of 
+anywhere between 1,800mAh and 4,000mAh on high-end smartphones, and that
+ much juice has to suffice for power-hungry 3G and LTE radios, 
+high-resolution screens and multi-core CPUs that run full tilt when apps
+ demand it. With so much power to spare, you should be able to run this 
+phone for weeks and still top up your other devices. Not a bad trick at 
+all, in theory, but let's see how it works out in the real world.
+
+Look and feelThis
+ is one huge phone. It's even bigger and heavier than the ancient Nokia 
+5110, one of the most popular models from 15 years ago when all phones 
+looked like bricks. The MX200 will not fit comfortably in any pocket 
+and, frankly, isn't even comfortable to hold or use - the only possible 
+saving grace is that it isn't as wide as today's smartphones. 
+
+You
+ might think by looking at the military-style casing that the Maxx Power
+ House MX200 is designed to be rugged, or at least even slightly 
+resistant to damage, but it isn't. This phone's housing is all show. It might have
+ rubber flaps covering its ports, but these are not going to be 
+effective against anything considering the entire rear cover itself pops
+ off so easily. In fact, if not for its weight, this phone would feel 
+quite flimsy and we can't really tell whether it would survive a drop or
+ exposure to any liquid. Maxx's website and packaging materials make no 
+mention of any kind of waterproofing, dustproofing, impact resistance or
+ even a temperature range in which it can operate.
+
+The keypad 
+buttons are stiff and not very reassuring. There's a retractable FM 
+antenna - why not - which is extremely likely to get bent. There are no dedicated
+ volume buttons or any other conveniences that we take for granted 
+today, except for an LED torch on the top.
+
+A little flap on the 
+right opens to reveal a full-sized USB host port into which you can plug
+ other devices for charging. The MX200 comes with a retractable 
+multi-pronged USB cable which you can carry instead of multiple 
+dedicated cables. You get Micro-USB and Mini-USB, a 30-pin Apple dock 
+connector, Samsung's old proprietary connector, and a cylindrical DC 
+pin.
+
+The rear cover comes off with surprisingly little effort, and
+ you can then see the gigantic battery inside. It's completely 
+self-contained and removable - on its own it looks to be around the size
+ and shape of an asthma inhaler. The full-sized USB port is part of the 
+battery itself, and there's an additional Micro-USB port on it to charge
+ it. This means you can use it independently of the phone, which is 
+actually pretty neat.
+
+Beneath the battery, you'll find two 
+full-sized SIM card slots and a microSD slot. Cards of up to 8GB are 
+supported and you'll definitely want to buy one, because there's no 
+internal storage space for files at all.
+
+Features and softwareThe
+ phone's processor is unnamed, but it really is of no consequence 
+because there's nothing at all you could do with this phone that might 
+require a decent one. The screen measures 2.4 inches diagonally and has a
+ resolution of 240x320 pixels - a fair bit larger than the screens of 
+candybar phones were when they were the norm, such as Nokia's 
+tremendously popular Series 40 models. The MX200's screen can display 262,000 colours 
+and about nine lines of text, so while basic graphics are okay, don't 
+expect images to look realistic at all.
+
+In another flashback to 
+pre-smartphone days, you'll have to contend with limited storage pools 
+for different data types. You can save only up to 500 phonebook entries 
+and 50 text messages. If you want to take even a single photo you'll have
+ to add a microSD card - capacities up to 8GB are supported.
+
+There's
+ no 3G or Wi-Fi so the best you can do in terms of data speed is GPRS. 
+There is FM radio and a retractable antenna, so you don't have to have a
+ headset plugged in. Bluetooth is also supported, but the version number
+ is unclear. The 0.3-megapixel camera seems laughable in this day and 
+age. 
+
+The MX200's software is entirely proprietary and there 
+doesn't seem to be any ability to load or run additional apps. You get 
+the standard messaging, phonebook and call log apps, along with a 
+barebones calendar, calculator and world clock. The camera and video 
+recorder apps are in a Multimedia folder along with individual apps for 
+the voice recorder, audio player, image viewer and sound recorder. For 
+some reason, an ebook reader app is in the Organizer folder. There's 
+even a game - Sokoban - which is excruciating to play on this device.
+
+You
+ can set profiles (there's even a flight mode) and the only way to 
+change ringer and other sound settings is to edit a profile. There's a 
+Bluetooth menu which lets you detect, pair and transfer files to/from 
+compatible devices. Finally, the Services menu contains links to Gmail, 
+the Times of India, Facebook and Yahoo which open in a Web browser. The 
+submenu item also labelled 'Services' launches the browser itself, and 
+you can change the default Maxx homepage. You can find an option to type
+ in your own URL in the menu. At GPRS speeds, we really didn't have much
+ use for the browser, but we would still have liked to have been able to
+ pin multiple Web shortcuts (especially since typing is such a chore).
+
+PerformanceSince
+ none of our benchmark tests would run on this phone, and its value lies
+ in its unique battery rather than its performance, we tested it by 
+using it as our primary mobile phone for a week. Other than the obvious 
+lack of apps, Internet connectivity, notifications and other things we 
+take for granted (and are also, in some senses, addicted to), we wanted 
+to see how well the Power House MX200 works. We had mixed experiences - 
+while the battery was quite impressive, the phone itself failed on many 
+counts.
+
+The first thing we realised - which the spec sheet had 
+happily glossed over - is that this phone does not have a vibrator. Of 
+all the modern conveniences a mobile phone offers, this is not one we 
+were prepared to sacrifice, and we cannot understand why it was left 
+out. If this was a budget consideration, we would much rather have 
+dispensed with the entirely useless camera.
+
+Call quality, which is
+ important for a basic phone, was really substandard. We couldn't hear 
+callers very well, and they consistently reported that our own voices 
+sounded robotic or distorted. Comfort was another limiting factor - this
+ phone was just too bulky and heavy to hold for long.
+
+Text input 
+is an exercise in masochism. Not only are the buttons stiff, but this 
+phone lacks T9 predictive input so you have to manually press each 
+button as many times as it takes to call up the letter you need - hello,
+ 1995 - and the punctuation marks are so painful that we actually ended 
+up typing like illiterate teenagers.
+
+Multimedia functions are also
+ best avoided - the speaker can get really loud but sound quality is not
+ good at all. When using the FM radio or MP3 player, no controls are 
+available unless you stay in the respective apps. 
+
+The camera, as 
+expected, is a total joke. There was no situation in which we were able 
+to take usable photos, and the less said about videos (320x240 QVGA), 
+the better.
+
+(Click to see full size)
+
+Many of these gripes might seem to be because we are 
+smartphone users and thus not the target audience for a phone such as 
+this, but honestly, these are some really basic things that phones were 
+able to get right a decade ago and we really shouldn't have to deal with
+ them today. Even on such a tight budget, there are featurephones that 
+can do better.
+
+All is not lost, however. The MX200 does offer 
+dual-SIM functionality and has a microSD card slot, which are not so 
+common at this price point. And then there's the battery. That glorious,
+ gigantic, improbable battery. In nearly a week of usage (mostly only 
+phone calls and a little bit of music), it did not die. We charged it up
+ to full and were able to charge an iPhone 5c to 100 percent from its 
+battery - and it still did not die.
+
+The only problem we had with 
+the battery is that you can't easily tell how far it has depleted at any
+ point. The indicator seems to be poorly calibrated - we saw it jump 
+around quite a bit. It has seven segments, but the phone seemed to spend
+ most of its time with either only one or all lit up. If you come to 
+rely on this battery, you'll really miss being able to gauge its charge 
+level at a glance.
+
+VerdictWe're pretty sure there are 
+people who will appreciate the Maxx Power House MX200's low price and incredible 
+battery life, and not care about looks or functionality. It could be a lifesaver for those who spend most of their time in places with erratic power supply (or none at all). That said, even 
+though this product is clearly not aimed at a smartphone-buying 
+audience, it could come in handy as a secondary phone. You could pop 
+your SIM card into it when heading out on a hike or a camping trip so 
+you can leave your more valuable smartphone at home - and then maybe 
+even continue to use the battery pack long after you return.
+
+Ultimately
+ though, there are not many scenarios in which it wouldn't also be 
+perfectly feasible (if not preferable) to carry a more conventional 
+barebones phone and a separate portable charger. Even the Rs. 1,150 
+Nokia 105 would offer the same if not more functionality and be easier and more 
+comfortable to use. Two separate devices would work out to be a little 
+more expensive, but both would be useful for more things in more 
+situations. 
+
+If you really are going to be in a situation in which
+ it would be too difficult to plug your phone in to charge, or if you 
+anticipate forgetting to do so, then the Maxx Power House MX200 will fit
+ the bill. If not, you'd have to be irrationally in love with the idea of 
+carrying a giant battery around everywhere in order to use it.
+

@@ -1,0 +1,280 @@
+Lava Iris X8 Review: Old Bottle, New Wine, New Price Tag
+
+It
+ was almost exactly one year ago that we reviewed the Lava Iris Pro 30 (Review | Photos), a
+ phone that we thought looked good but performed below par. Even though 
+it was very obviously iPhone-inspired, it had an appeal of its own. 
+Performance wasn't too great, but overall the device offered a fair 
+balance of features and aesthetics. A little while later we 
+managed to try out the Lava Iris Pro 20 (Review | Photos), which looked identical but had 
+even lower specifications in order to reach a lower price point. Those 
+who liked the Iris Pro 30 solely on the basis of its looks had another 
+option to consider. However, this time we felt that the balance wasn't 
+quite right.The newly launched Lava Iris X8 just goes to show 
+that the more things change, the more they stay the same. The past year 
+has been tumultuous for the smartphone industry in India, particularly 
+at the lower end of the price spectrum. Our expectations of phones 
+priced below Rs. 10,000 in terms of performance and features are way 
+higher than they were just a year ago. We've been spoilt for choice and 
+manufacturers have been pushed into responding, which means better 
+devices at lower prices for everyone.The Iris X8 launches at just
+ about half the price that the Iris Pro 30 did one year ago, yet the two
+ have spec lists that are worlds apart. Let's see how this changed 
+dynamic works out for the Indian brand.Look and feelThe 
+new Iris X8 looks pretty much identical to its predecessors. It still 
+has the distinctive flat rectangular shape and faux-metallic trim that 
+Lava copied from the iPhone 4 long ago. The front and rear are both 
+white, and everything is plastic except for the protective Asahi 
+Dragontrail glass in front. On closer inspection, we find a few minor 
+variations: the Iris X8 is a little larger in every dimension, the 
+Micro-USB port and headset socket have been moved, little things such as
+ the sensors and camera flash are placed differently, and the capacitive
+ buttons are printed in a new style. This is still very much a 
+continuation of the same formula, though, and why not? It worked well 
+and the style hasn't aged badly. It won't be mistaken for an iPhone 
+anymore, which actually helps it feel less like a knockoff. At 160g, 
+you'll definitely feel this phone's weight in your hand or pocket.Lava's
+ branding is subtle, restricted to a tiny logo on the lower rear. The 
+front is blank except for the printed capacitive button icons below the 
+screen and cutouts for the front camera, earpiece and sensors above it. 
+The power and volume buttons are on the right, and both the Micro-USB 
+port and 3.5mm headset socket are on top. The left and bottom are blank.There's
+ a dual-LED flash next to the camera lens which looks like it's been 
+incorporated from the iPhone 5/5s design. A silver ring surrounding the 
+camera lens is pretty much the only design flair this phone has.The
+ rear plastic cover peels off and is surprisingly flexible, so it won't 
+snap even though it feels like it might. Beneath the cover, the first 
+thing you'll see is a large sticker covering the non-removable battery 
+just to discourage people from trying to pry it out. The two Micro-SIM 
+card slots and microSD slot are above it.Lava's bundled 
+accessories are of rather poor quality. The USB cable that came in the 
+box was extremely thin, the charger felt flimsy, and the headset not 
+only felt cheap but was also uncomfortable in our ears.Specifications and softwareThe
+ Iris X8 is bigger than its predecessors thanks to the move from a 
+4.7-inch screen to a 5-inch one. The resolution stays at 720x1280. The 
+phone is powered by an octa-core Mediatek MT6592 SoC running at 1.4GHz 
+with a Mali-450 MP GPU. Lava also boasts that the phone has 2GB of RAM 
+and 16GB of internal storage space. Up to 32GB can be added using a 
+microSD card, and USB-OTG storage is supported as well. You get 
+Wi-Fi b/g/n, Bluetooth 4.0, A-GPS and FM radio. There's no 4G cellular 
+connectivity. Thanks to the bigger body, a larger 2,500mAh battery can 
+be accommodated. The rear camera has an 8-megapixel sensor and the one 
+in front is rated at 3-megapixels. The Iris X8 runs Android 4.4.2
+ in a near-stock avatar. There are only very minor visual tweaks to the 
+default wallpaper, the app switcher and the notifications shade. For 
+some reason Lava decided to go back to the pre-KitKat navigation button 
+layout, so there's a redundant Menu button below the screen and you have
+ to long-tap the Home button to go to the app switcher. We're happy to 
+see that there are no preloaded bloatware. The only app Lava has added 
+is the free version of Mobisystems' OfficeSuite 7.There are a few
+ neat settings, such as the ability to wake the phone from sleep by 
+double-tapping the screen, and "Air shuffle", which lets you swipe 
+through photos, music, and even the app drawer just by waving a hand 
+over the screen. It only works in some apps and only if your hand passes
+ slowly over the top of the screen. Even then, you scroll only in one 
+direction no matter which way you swipe, which makes this feature 
+amusing but ultimately pointless.An optional "Float Task" widget 
+stays partially visible on screen and brings up a circular menu with 
+shortcuts to popular tasks. The shape means that shortcuts can be 
+reached with one thumb, and you can choose which side of the screen the 
+menu will appear on. Swiping will rotate the circle so you can see more 
+shortcuts.PerformanceWe liked the way this phone felt and 
+behaved in the time we spent with it. We didn't face any slowdowns or 
+hiccups when launching and switching between apps. It handled most tasks
+ we threw at it, with the exception of playing our most heavily encoded 
+1080p video files. More common formats and 720p files played perfectly 
+well though.In benchmark tests, we saw scores that were typical 
+of the MediaTek MT6592 which has been very popular over the past year. 
+GFXBench gave us 16fps and 3DMark Ice Storm's Extreme test returned a 
+score of 6,397 which are good enough for casual games. We managed to get
+ 28,552 points in AnTuTu and 11,657 in Quadrant.(Click to see full size)The camera was 
+just not very good. Images came out grainy no matter the time of day, 
+distance between lens and subject, or amount of light around. Even the 
+sky came out poorly in test shots taken on a clear afternoon. Metallic 
+and organic textures alike were poorly reproduced. In addition, the 
+camera had trouble with exposure detection in photos with high contrast.
+ Video was just as disappointing as the stills we took. The camera is 
+probably this phone's biggest weakness.The Lava Iris X8's speaker
+ is surprisingly loud, but quite awful in terms of quality. Music came 
+out tinny and lifeless, with distorted vocals. The bundled headset was 
+no better for music or movies, but will suffice for voice calls. Battery
+ life was pretty good at 7 hours, 43 minutes in our video loop test. Strangely,
+ this phone really did not like being plugged in to a PC via USB. We 
+thought the thin USB cable was to blame, but swapping it made no 
+difference. It just wasn't detected until we rebooted it each time. VerdictThe
+ Lava Iris X8 is competitive with similarly priced competitors such as 
+the Xiaomi Redmi Note 4G (Review | Photos), Micromax's Yu Yureka (Review | Photos), Xolo Omega 5.0 (Review | Photos), and even
+ in some ways the Motorola Moto G (Gen 2) (Review | Photos). However we feel quite let 
+down by the poor camera performance. If you would like to take photos 
+often to share online or just save for the sake of memories, then this 
+is not the phone to be doing that with. Our expectations are higher than
+ that were a year ago, and any of the other models listed above will do 
+much better. However, if style is your main priority, you won't 
+be disappointed. In this case, good looks don't come at the cost of 
+battery life. There's also one other factor to consider: most of the 
+highly recommended phones in this price band are available only through 
+flash sales, which means the chances of actually being able to buy them 
+are quite low. 
+
+It
+ was almost exactly one year ago that we reviewed the Lava Iris Pro 30 (Review | Photos), a
+ phone that we thought looked good but performed below par. Even though 
+it was very obviously iPhone-inspired, it had an appeal of its own. 
+Performance wasn't too great, but overall the device offered a fair 
+balance of features and aesthetics. 
+
+A little while later we 
+managed to try out the Lava Iris Pro 20 (Review | Photos), which looked identical but had 
+even lower specifications in order to reach a lower price point. Those 
+who liked the Iris Pro 30 solely on the basis of its looks had another 
+option to consider. However, this time we felt that the balance wasn't 
+quite right.
+
+The newly launched Lava Iris X8 just goes to show 
+that the more things change, the more they stay the same. The past year 
+has been tumultuous for the smartphone industry in India, particularly 
+at the lower end of the price spectrum. Our expectations of phones 
+priced below Rs. 10,000 in terms of performance and features are way 
+higher than they were just a year ago. We've been spoilt for choice and 
+manufacturers have been pushed into responding, which means better 
+devices at lower prices for everyone.
+
+The Iris X8 launches at just
+ about half the price that the Iris Pro 30 did one year ago, yet the two
+ have spec lists that are worlds apart. Let's see how this changed 
+dynamic works out for the Indian brand.
+
+Look and feelThe 
+new Iris X8 looks pretty much identical to its predecessors. It still 
+has the distinctive flat rectangular shape and faux-metallic trim that 
+Lava copied from the iPhone 4 long ago. The front and rear are both 
+white, and everything is plastic except for the protective Asahi 
+Dragontrail glass in front. On closer inspection, we find a few minor 
+variations: the Iris X8 is a little larger in every dimension, the 
+Micro-USB port and headset socket have been moved, little things such as
+ the sensors and camera flash are placed differently, and the capacitive
+ buttons are printed in a new style. 
+
+This is still very much a 
+continuation of the same formula, though, and why not? It worked well 
+and the style hasn't aged badly. It won't be mistaken for an iPhone 
+anymore, which actually helps it feel less like a knockoff. At 160g, 
+you'll definitely feel this phone's weight in your hand or pocket.
+
+Lava's
+ branding is subtle, restricted to a tiny logo on the lower rear. The 
+front is blank except for the printed capacitive button icons below the 
+screen and cutouts for the front camera, earpiece and sensors above it. 
+The power and volume buttons are on the right, and both the Micro-USB 
+port and 3.5mm headset socket are on top. The left and bottom are blank.
+
+There's
+ a dual-LED flash next to the camera lens which looks like it's been 
+incorporated from the iPhone 5/5s design. A silver ring surrounding the 
+camera lens is pretty much the only design flair this phone has.
+
+The
+ rear plastic cover peels off and is surprisingly flexible, so it won't 
+snap even though it feels like it might. Beneath the cover, the first 
+thing you'll see is a large sticker covering the non-removable battery 
+just to discourage people from trying to pry it out. The two Micro-SIM 
+card slots and microSD slot are above it.
+
+Lava's bundled 
+accessories are of rather poor quality. The USB cable that came in the 
+box was extremely thin, the charger felt flimsy, and the headset not 
+only felt cheap but was also uncomfortable in our ears.
+
+Specifications and softwareThe
+ Iris X8 is bigger than its predecessors thanks to the move from a 
+4.7-inch screen to a 5-inch one. The resolution stays at 720x1280. The 
+phone is powered by an octa-core Mediatek MT6592 SoC running at 1.4GHz 
+with a Mali-450 MP GPU. Lava also boasts that the phone has 2GB of RAM 
+and 16GB of internal storage space. Up to 32GB can be added using a 
+microSD card, and USB-OTG storage is supported as well. 
+
+You get 
+Wi-Fi b/g/n, Bluetooth 4.0, A-GPS and FM radio. There's no 4G cellular 
+connectivity. Thanks to the bigger body, a larger 2,500mAh battery can 
+be accommodated. The rear camera has an 8-megapixel sensor and the one 
+in front is rated at 3-megapixels. 
+
+The Iris X8 runs Android 4.4.2
+ in a near-stock avatar. There are only very minor visual tweaks to the 
+default wallpaper, the app switcher and the notifications shade. For 
+some reason Lava decided to go back to the pre-KitKat navigation button 
+layout, so there's a redundant Menu button below the screen and you have
+ to long-tap the Home button to go to the app switcher. We're happy to 
+see that there are no preloaded bloatware. The only app Lava has added 
+is the free version of Mobisystems' OfficeSuite 7.
+
+There are a few
+ neat settings, such as the ability to wake the phone from sleep by 
+double-tapping the screen, and "Air shuffle", which lets you swipe 
+through photos, music, and even the app drawer just by waving a hand 
+over the screen. It only works in some apps and only if your hand passes
+ slowly over the top of the screen. Even then, you scroll only in one 
+direction no matter which way you swipe, which makes this feature 
+amusing but ultimately pointless.
+
+An optional "Float Task" widget 
+stays partially visible on screen and brings up a circular menu with 
+shortcuts to popular tasks. The shape means that shortcuts can be 
+reached with one thumb, and you can choose which side of the screen the 
+menu will appear on. Swiping will rotate the circle so you can see more 
+shortcuts.
+
+PerformanceWe liked the way this phone felt and 
+behaved in the time we spent with it. We didn't face any slowdowns or 
+hiccups when launching and switching between apps. It handled most tasks
+ we threw at it, with the exception of playing our most heavily encoded 
+1080p video files. More common formats and 720p files played perfectly 
+well though.
+
+In benchmark tests, we saw scores that were typical 
+of the MediaTek MT6592 which has been very popular over the past year. 
+GFXBench gave us 16fps and 3DMark Ice Storm's Extreme test returned a 
+score of 6,397 which are good enough for casual games. We managed to get
+ 28,552 points in AnTuTu and 11,657 in Quadrant.
+
+(Click to see full size)
+
+The camera was 
+just not very good. Images came out grainy no matter the time of day, 
+distance between lens and subject, or amount of light around. Even the 
+sky came out poorly in test shots taken on a clear afternoon. Metallic 
+and organic textures alike were poorly reproduced. In addition, the 
+camera had trouble with exposure detection in photos with high contrast.
+ Video was just as disappointing as the stills we took. The camera is 
+probably this phone's biggest weakness.
+
+The Lava Iris X8's speaker
+ is surprisingly loud, but quite awful in terms of quality. Music came 
+out tinny and lifeless, with distorted vocals. The bundled headset was 
+no better for music or movies, but will suffice for voice calls. Battery
+ life was pretty good at 7 hours, 43 minutes in our video loop test. 
+
+Strangely,
+ this phone really did not like being plugged in to a PC via USB. We 
+thought the thin USB cable was to blame, but swapping it made no 
+difference. It just wasn't detected until we rebooted it each time. 
+
+VerdictThe
+ Lava Iris X8 is competitive with similarly priced competitors such as 
+the Xiaomi Redmi Note 4G (Review | Photos), Micromax's Yu Yureka (Review | Photos), Xolo Omega 5.0 (Review | Photos), and even
+ in some ways the Motorola Moto G (Gen 2) (Review | Photos). However we feel quite let 
+down by the poor camera performance. If you would like to take photos 
+often to share online or just save for the sake of memories, then this 
+is not the phone to be doing that with. Our expectations are higher than
+ that were a year ago, and any of the other models listed above will do 
+much better. 
+
+However, if style is your main priority, you won't 
+be disappointed. In this case, good looks don't come at the cost of 
+battery life. There's also one other factor to consider: most of the 
+highly recommended phones in this price band are available only through 
+flash sales, which means the chances of actually being able to buy them 
+are quite low. 
+
+
+

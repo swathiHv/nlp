@@ -1,0 +1,238 @@
+InFocus M530 Review: Plenty of Power on a Budget
+
+When Oregon-based InFocus announced its first 
+smartphone in India,
+ people wondered what a company with a formidable and established 
+presence in projectors and large-format displays was doing in the 
+super-competitive smartphone market. The first product, the InFocus M2 (Review | Pictures), offered an 
+impressive specification list at just Rs. 4,999 and garnered serious 
+attention. InFocus also announced that its phones were being made by 
+Foxconn, the same company that 
+manufactures the iPhone for Apple.  
+The latest in the company's line-up is the InFocus M530. At Rs. 10,999, the device 
+competes in the sub-Rs. 15,000 price segment, which puts it against 
+competition such as the Phicomm Passion 660, Xiaomi Mi 4i and Xolo Black. The M530 offers some 
+interesting features, such as a 13-megapixel front camera with soft 
+flash and the capable MediaTek MT6595 SoC. Does it have what it takes 
+to compete in the toughest price segment in the industry? We find out in
+ our review.Look and feelThe InFocus M530 is an average 
+looking device, with very little setting it apart in terms of look and 
+feel. The front of the device is protected by Corning Gorilla Glass. The three Android soft keys are off-screen, 
+on the chin of the device, while the area above has the front
+ camera, soft flash and proximity sensor. The edges feature a metallic 
+finish which looks good. There's just one function on each edge; the 
+3.5mm socket is on the top, the power switch is on the right, the 
+microUSB port is on the bottom and the volume rocker is on the left.The
+ screen itself is a 5.5-inch 720p affair. Naturally, this makes the M530
+ a large device, feeling rather phablet-like in both size and weight. 
+Despite the low pixel density, the screen looks decent, with adequate 
+sharpness and vibrant colours. However, some competing phones in this 
+category, such as the identically priced Phicomm Passion 660 (Review | Pictures), have 
+sharper 1080p displays. This puts the InFocusM530 at a slight 
+disadvantage.The back of the device is a plastic removable panel,
+ which comes in two colour options: violet and white. The panel itself 
+is rather thin and flimsy, with a small speaker cutout at the bottom, 
+InFocus branding, and holes for the camera and flash. The camera lens 
+itself is not flush with the back panel, instead sticking out a bit. A 
+ring around the lens should protect it when the phone is lying
+ flat on its back.Under the back panel, there is a removable 
+battery, two Micro-SIM slots and a microSD slot. The storage card can 
+be swapped easily enough, but inserting or removing SIMs will need you 
+to switch off the phone and remove the battery first. There isn't much 
+else of note as far as look and feel is concerned; the InFocus M530 is 
+obviously more about performance and function than design and aesthetic 
+appeal.Specifications and softwareThe InFocus M530 uses 
+the MediaTek MT6595 octa-core SoC, which is clocked at 2GHz for the four
+ primary cores and 1.7GHz for the four secondary cores. The integrated GPU is the 
+Imagination Technologies PowerVR Rogue G6200. The phone has 2GB of RAM 
+and 16GB of in-built storage which is expandable by up to 64GB with a 
+microSD card. The phone is 4G enabled, with band 40 compatibility for 4G
+ on Indian networks. Both the primary and secondary cameras are 
+13-megapixel units. The rear camera has a dual-tone flash, while the 
+front has a single-tone soft flash lamp. The device runs on the 
+now-outdated Android 4.4.2, with InFocus' InLife user interface layered 
+on top. This is one of the few user interfaces that allow you to 
+activate or deactivate the app drawer. Single-layer mode is similar to 
+MIUI, where all apps are stuffed onto various homescreens, much like on 
+iOS. Two-layer mode activates the app drawer and removes the clutter on the 
+homescreens, and is our preferred mode. The UI itself
+ is silly-looking at times, but this is not a problem. Some of the 
+icons and colour combinations come off as cartoonish and unsophisticated, but
+ it's something you can learn to ignore. There's a fair amount of 
+customisability in the pull-down menu and the lock screen, and plenty of
+ options in the settings as well. You can tweak the device to suit your 
+needs to a reasonable extent.There is a small amount of pre-installed
+ bloatware, although some of these apps, such as the Snapdeal and MeituPC 
+apps, can be uninstalled. The rest of it won't really get in your way 
+and can be ignored. Some of the preloaded apps are even useful, such as
+ WPS Office, which lets you view and edit documents, 
+presentations and spreadsheets.CameraThe rear camera is a 13-megapixel shooter with dual flash and optical image 
+stabilisation. It's fairly good with pictures in both normal and low 
+light, capturing accurate detail and colour. As with some other cameras 
+in this range, the M530 has an over-saturation problem with whites, which
+ appear washed out and too bright. The front camera also has a 
+13-megapixel sensor, with similar levels of detail and accuracy to the 
+rear camera. An interesting addition is the soft flash, which helps when
+ taking selfies in low light. It's definitely among the better front 
+cameras we've seen on a smartphone, and selfie lovers will be very 
+pleased with the results.The camera app is well designed and easy
+ to use, with important functions such as OIS, HDR mode, flash, camera 
+switcher and mode selection on the main camera screen itself. There isn't a lot in
+ terms of settings, making this purely an amateur's camera. Autofocus is
+ quick and accurate, as is the shutter itself. It's a pleasant camera to use, on the whole.(Click for full-size image)PerformanceThe InFocus M530 is a 
+surprisingly capable performer for a phone at its price level. The UI is
+ snappy and quick to load, as are apps and games. We ran our collection 
+of heavily-encoded videos and the device ran them comfortably, with no visible motion flaws or stutter. Not once did we 
+notice lag of any kind on the device.Performance benchmark 
+figures will corroborate our flowing praise for the InFocus M530's performance. AnTuTu
+ gave us a score of 49,770, while Quadrant returned 23,673. GFX Bench rendered its test scene at 31fps, while 3D Mark Ice Storm Extreme returned
+ a score of 6,081. All of these scores are very high for a device that 
+costs just Rs. 10,999, and prove just what the phone is capable
+ of in terms of power.Finally, we ran our video loop battery test, which lasted 7 hours, 21 minutes before the phone died. Despite the battery being above 
+average at 3,100mAh, the M530's battery performance was absolutely unexciting.VerdictThe InFocus 
+M530 is a confusing phone for us, and our opinion swayed all
+ over the place during our time with it. At first, we were pretty underwhelmed with the
+ look and feel of the M530, seeing as it has no real standout attributes. 
+The camera and performance impressed us soon after, but disappointing 
+battery life brought our opinion back down.Simply put, this is a 
+phone that does some things very well, and others poorly. If camera 
+quality and performance are a priority, you simply cannot do better than
+ this phone at this price. But if battery life is a concern, 
+you'd do better to consider the Xiaomi Mi 4i, which offers a more 
+rounded experience. If those high performance figures have convinced 
+you, the InFocus M530 is available now exclusively on Snapdeal.
+InFocus M530 in pictures
+
+
+
+
+ 
+The latest in the company's line-up is the InFocus M530. At Rs. 10,999, the device 
+competes in the sub-Rs. 15,000 price segment, which puts it against 
+competition such as the Phicomm Passion 660, Xiaomi Mi 4i and Xolo Black. The M530 offers some 
+interesting features, such as a 13-megapixel front camera with soft 
+flash and the capable MediaTek MT6595 SoC. Does it have what it takes 
+to compete in the toughest price segment in the industry? We find out in
+ our review.
+
+Look and feelThe InFocus M530 is an average 
+looking device, with very little setting it apart in terms of look and 
+feel. The front of the device is protected by Corning Gorilla Glass. The three Android soft keys are off-screen, 
+on the chin of the device, while the area above has the front
+ camera, soft flash and proximity sensor. The edges feature a metallic 
+finish which looks good. There's just one function on each edge; the 
+3.5mm socket is on the top, the power switch is on the right, the 
+microUSB port is on the bottom and the volume rocker is on the left.
+
+The
+ screen itself is a 5.5-inch 720p affair. Naturally, this makes the M530
+ a large device, feeling rather phablet-like in both size and weight. 
+Despite the low pixel density, the screen looks decent, with adequate 
+sharpness and vibrant colours. However, some competing phones in this 
+category, such as the identically priced Phicomm Passion 660 (Review | Pictures), have 
+sharper 1080p displays. This puts the InFocusM530 at a slight 
+disadvantage.
+
+The back of the device is a plastic removable panel,
+ which comes in two colour options: violet and white. The panel itself 
+is rather thin and flimsy, with a small speaker cutout at the bottom, 
+InFocus branding, and holes for the camera and flash. The camera lens 
+itself is not flush with the back panel, instead sticking out a bit. A 
+ring around the lens should protect it when the phone is lying
+ flat on its back.
+
+Under the back panel, there is a removable 
+battery, two Micro-SIM slots and a microSD slot. The storage card can 
+be swapped easily enough, but inserting or removing SIMs will need you 
+to switch off the phone and remove the battery first. There isn't much 
+else of note as far as look and feel is concerned; the InFocus M530 is 
+obviously more about performance and function than design and aesthetic 
+appeal.
+
+Specifications and softwareThe InFocus M530 uses 
+the MediaTek MT6595 octa-core SoC, which is clocked at 2GHz for the four
+ primary cores and 1.7GHz for the four secondary cores. The integrated GPU is the 
+Imagination Technologies PowerVR Rogue G6200. The phone has 2GB of RAM 
+and 16GB of in-built storage which is expandable by up to 64GB with a 
+microSD card. The phone is 4G enabled, with band 40 compatibility for 4G
+ on Indian networks. Both the primary and secondary cameras are 
+13-megapixel units. The rear camera has a dual-tone flash, while the 
+front has a single-tone soft flash lamp. 
+
+The device runs on the 
+now-outdated Android 4.4.2, with InFocus' InLife user interface layered 
+on top. This is one of the few user interfaces that allow you to 
+activate or deactivate the app drawer. Single-layer mode is similar to 
+MIUI, where all apps are stuffed onto various homescreens, much like on 
+iOS. Two-layer mode activates the app drawer and removes the clutter on the 
+homescreens, and is our preferred mode.
+
+ 
+
+The UI itself
+ is silly-looking at times, but this is not a problem. Some of the 
+icons and colour combinations come off as cartoonish and unsophisticated, but
+ it's something you can learn to ignore. There's a fair amount of 
+customisability in the pull-down menu and the lock screen, and plenty of
+ options in the settings as well. You can tweak the device to suit your 
+needs to a reasonable extent.
+
+There is a small amount of pre-installed
+ bloatware, although some of these apps, such as the Snapdeal and MeituPC 
+apps, can be uninstalled. The rest of it won't really get in your way 
+and can be ignored. Some of the preloaded apps are even useful, such as
+ WPS Office, which lets you view and edit documents, 
+presentations and spreadsheets.
+
+CameraThe rear camera is a 13-megapixel shooter with dual flash and optical image 
+stabilisation. It's fairly good with pictures in both normal and low 
+light, capturing accurate detail and colour. As with some other cameras 
+in this range, the M530 has an over-saturation problem with whites, which
+ appear washed out and too bright. 
+
+The front camera also has a 
+13-megapixel sensor, with similar levels of detail and accuracy to the 
+rear camera. An interesting addition is the soft flash, which helps when
+ taking selfies in low light. It's definitely among the better front 
+cameras we've seen on a smartphone, and selfie lovers will be very 
+pleased with the results.
+
+The camera app is well designed and easy
+ to use, with important functions such as OIS, HDR mode, flash, camera 
+switcher and mode selection on the main camera screen itself. There isn't a lot in
+ terms of settings, making this purely an amateur's camera. Autofocus is
+ quick and accurate, as is the shutter itself. It's a pleasant camera to use, on the whole.
+
+(Click for full-size image)
+
+PerformanceThe InFocus M530 is a 
+surprisingly capable performer for a phone at its price level. The UI is
+ snappy and quick to load, as are apps and games. We ran our collection 
+of heavily-encoded videos and the device ran them comfortably, with no visible motion flaws or stutter. Not once did we 
+notice lag of any kind on the device.
+
+Performance benchmark 
+figures will corroborate our flowing praise for the InFocus M530's performance. AnTuTu
+ gave us a score of 49,770, while Quadrant returned 23,673. GFX Bench rendered its test scene at 31fps, while 3D Mark Ice Storm Extreme returned
+ a score of 6,081. All of these scores are very high for a device that 
+costs just Rs. 10,999, and prove just what the phone is capable
+ of in terms of power.
+
+Finally, we ran our video loop battery test, which lasted 7 hours, 21 minutes before the phone died. Despite the battery being above 
+average at 3,100mAh, the M530's battery performance was absolutely unexciting.
+
+VerdictThe InFocus 
+M530 is a confusing phone for us, and our opinion swayed all
+ over the place during our time with it. At first, we were pretty underwhelmed with the
+ look and feel of the M530, seeing as it has no real standout attributes. 
+The camera and performance impressed us soon after, but disappointing 
+battery life brought our opinion back down.
+
+Simply put, this is a 
+phone that does some things very well, and others poorly. If camera 
+quality and performance are a priority, you simply cannot do better than
+ this phone at this price. But if battery life is a concern, 
+you'd do better to consider the Xiaomi Mi 4i, which offers a more 
+rounded experience. If those high performance figures have convinced 
+you, the InFocus M530 is available now exclusively on Snapdeal.
+

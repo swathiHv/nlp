@@ -1,0 +1,440 @@
+Sony Xperia Z3 Review: The Pursuit of Refinement
+
+Should we be surprised that Sony is already refreshing its flagship 
+smartphone? Only six months after the launch of the Xperia Z2 comes its 
+successor, the Xperia Z3. Sony hopes this will help it gain traction in 
+the notoriously fickle Android superphone market, and knows that there 
+are customers who will only buy the latest and greatest model at any 
+given point of time, for whom money is no object. As Sony sees 
+it, the Xperia Z3 is not so different from its predecessor that anyone 
+who bought an Xperia Z2 (Review | Pictures) will have regrets. However, those who are in the market 
+for a new high-end phone right now will see a brand new Sony up against 
+the now-common Samsung Galaxy S5 (Review | Pictures) and HTC One (M8) (Review | Pictures). Plus, if the company 
+can do something new in this time, why should it wait for an artificial 
+cycle? The differences between each successive new model in 
+Sony's Xperia Z series have been pretty minor, but you can see a clear 
+improvement over time. Owners of the Z2 might not have any reason to 
+upgrade, but those who bought the Xperia Z or Z1 will be tempted. The 
+strategy is a gamble, but it has worked for the past two years. Look and feelThe
+ Sony Xperia Z3 is the biggest change for Sony since the first Xperia Z 
+was launched a year and a half ago. The harsh rectangular shape has 
+morphed into a more organic one, with curved sides and corners replacing
+ chiselled edges for the first time. Sony's distinctive purple option 
+has also thankfully reached the end of the line - the new Xperia Z3 is 
+still available in white and black, but the signature colour is now 
+Copper Gold. One of our gripes with the Z2 was that it looked exactly 
+like its predecessors, and Sony has taken the message to heart.The
+ Z3 is a hair slimmer than the Z2, but more noticeable are the sleek new
+ buttons and inset flaps on either side that hide (and protect) the 
+various slots and ports. The metal trim around the edges is broken up at
+ the corners, and Sony says this design is intended to make the Z3 
+resistant to damage when dropped - the corners can absorb some impact, 
+reducing the likelihood that the glass front or rear will shatter. The
+ dust and liquid resistance rating has been upgraded to IP68 which means
+ this phone should be able to survive for up to 30 minutes in fresh 
+water up to 1.5m deep. However, as before, this means you have to deal 
+with a fiddly flap and recessed Micro-USB port each time you need to 
+charge the Z3. The battery is of course sealed in, and all ports and 
+controls are around the edges. Sony's signature round power 
+button is on the right edge, but it's neither centred nor at thumb 
+height. The volume rocker is right below it, and both are incredibly 
+awkward to reach. Sony is one of the few companies still equipping their
+ phones with dedicated camera buttons, and we found the Z3 easy to hold 
+and use as a camera. The Nano-SIM and microSD card slots are under a 
+flap on the upper right, and the Micro-USB port is under a flap on the 
+left, next to the same magnetic dock connector that we've seen on 
+previous Z-series devices. It still looks as though a patch has been 
+gouged out on one side for the dock connector, but even this is less 
+jarring than it was on the Z2.  As pointed out in a snarky social
+ media post, Sony has managed to make the Z3 thin and improve its camera
+ without resorting to a protruding lens. The rear glass surface is in 
+fact so smooth that we found the Z3 slid around on tables when we tried 
+to use it. The Xperia Z3 is tall and narrow like its predecessor,
+ making it one of the more comfortable large phones on the market. It's 
+definitely easier to hold than the Z2 was, thanks to the new curves. If 
+this is still too much for you though, there's the very interesting 
+Xperia Z3 Compact to consider, which has most of the same specifications
+ but has a smaller screen and body.SpecificationsThere 
+haven't been any great game-changing strides in core smartphone hardware
+ in the past six months, and so the Z3's guts are much the same as those
+ of its predecessor. The quad-core Qualcomm Snapdragon 801 SoC is 
+slightly faster at 2.5GHz as opposed to 2.3GHz, but its Adreno 330 
+graphics processor is the same. Sony could have chosen to go with
+ a bigger and higher resolution screen, but it claims it consciously 
+chose not to so that battery life would not suffer. 1080x1920 is already
+ pretty crazy for a smartphone, so we don't have any problem with this. 
+If you're the type for whom bragging rights are more important than 
+utility, you might want to look at LG and Samsung's most recent 
+launches.You get 16GB of storage space and 3GB of RAM. The 
+microSD slot will work with cards up to 128GB in capacity. Sony throws 
+in Wi-Fi b/g/n/ac, Bluetooth 4.0, NFC and GPS. Sony has stated that LTE is supported on Indian bands.Sony has 
+concentrated on refinements that aren't really spelled out by the sheet 
+of specifications. The screen, camera, battery and audio processing 
+systems have all been tweaked and improved. The company claims it has 
+applied technology from its TV, gaming and audio divisions, and so the 
+screen boasts of features named "X-reality" and "Live Colour LED" which 
+enhance sharpness and colour reproduction. Sony claims that the Z3 has 
+the "world's brightest display of leading premium smartphones" and it 
+definitely is bright.The Xperia Z3 has another unique feature to 
+boast of - not only does the device claim to "upsample" MP3 and AAC 
+audio tracks, it can also natively handle High-Resolution Audio files in
+ a variety of formats, which can be purchased online. Digital noise 
+cancelling is built in, but it requires a specific Sony headset to work.Finally,
+ there's a twist that ties in with Sony's PlayStation 4 console - the 
+Xperia Z3 is the first smartphone to support PS4 Remote Play, which 
+means you can wirelessly stream game video from your PS4 console to the 
+phone using your home Wi-Fi connection. You'll still have to use a PS4 
+Dualshock controller but you can buy an adapter that lets you snap the 
+Z3 on to it so you can hold it up and play like you're using a handheld 
+console.SoftwareYou'll either love Sony's Android skin or 
+hate it. We like how easy it is to move around and arrange things as we 
+like them, but it really is a bit too heavy and overdone. We always find
+ ourselves trying to disable all the little animations, such as the 
+colour-changing swirl of the default "live" wallpaper. It might not feel
+ like bloat thanks to the super-fast hardware, but it's still 
+unnecessary and distracting.Nothing much has changed in software 
+between the Xperia Z2 and Z3. There's still a massive number of 
+non-removable preloaded apps, many of them related to Sony-branded 
+properties and most of them quite useless. The first homescreen has a 
+giant spammy "What's New" widget that not only advertises Sony media you
+ might not be interested in, but also consumes quite a bit of data to 
+keep its thumbnails fresh. The icon dock on the homescreens is filled 
+with Google and Sony app shortcuts rather than the more obvious 
+messaging, email or browser, which we think is ridiculous.Sony 
+hasn't jammed in quite as many features as Samsung and LG tend to do - 
+there's no split-screen functionality (though you can launch tiny 
+"floating" apps from the app switcher view) and there are very few 
+shortcuts and tweaks that make the big device more manageable. For 
+example, we really missed the ability to wake the Z3 by double-tapping 
+its screen, especially since the power button is so tiny. Two 
+apps stand out - Sony's Lifelog, and Sketch. Lifelog lets you track 
+health and fitness data such as the amount of exercise you've had in a 
+day, but stands out from other smartphone makers' health apps by also 
+including timestamps for other phone-related activities such as 
+listening to music, taking photos and playing games. Logging happens 
+continuously in the background and works better if you use one (or more)
+ of Sony's wearable products, but we don't really see the appeal of the 
+concept.Sketch on the other hand is a fun little app that lets 
+you draw with various brushes and put silly stickers or text captions on
+ photos. Some users might find Sony's other apps useful, but they're 
+easy to forget about. PartyShare lets you broadcast photos live and 
+create a music playlist that friends (with compatible Xperia phones) can
+ contribute to. News from Socialife shows assorted third-party feeds 
+including ones from popular news, sports, entertainment and tech 
+websites. You can add your own RSS URLs or browse through the presets by
+ category. Smart Connect, despite its name, lets you create profiles to 
+automate actions when you plug in a charger or headset, or when you just
+ don't want to be disturbed at night. There's also Line, Kobo, 
+AVG Antivirus, Facebook, Evernote, Kingsoft Office, Bigflix, Google 
+Drive, LinkedIn, and Wisepilot Navigation. Sony's branded apps include 
+Sony Select, What's New, TrackID, Xperia Care Support, Sony Music, Liv 
+Sports, Sony Liv, Xperia Lounge and Xperia Update Center.CameraBoth
+ hardware and software have been given a refresh. Sony makes the bold 
+claim that the Z3 has "the world's best camera and camcorder in a 
+smartphone", which is apparently based on actual subjective market 
+research. The camera can go up to ISO 12800 for low-light captures, and 
+there's a 1/2.3-inch sensor with Sony's proprietary processing tech. The
+ lens is a wide-angle 25mm one, for shots that include more subject 
+matter. Video recording goes up to 4K, though 1080p is the default. Even
+ photos are taken at 8-megapixel resolution by default, though you can 
+step up to the full 20.7-megapixels whenever you like. (Click to see full size)Sony's 
+suite of "camera apps" has grown. In addition to the basic Superior Auto
+ and Manual modes, you now have Sound Photo which lets you take stills 
+annotated with ambient sound; Face In, which lets you superimpose your 
+own face and those others in a scene; Multi Camera, which lets you 
+synchronise and merge streams with split-screen effects using multiple 
+Xperia phones; and AR Fun, which lets you squiggle notes and put 
+stickers into a scene, and then change your position so that the AR bits
+ appear to be floating in the air in 3D. (Click to see full size)We couldn't try Multi 
+Camera, but we did find that AR Fun wasn't half as good as it seemed in 
+Sony's demo videos. The app was very finicky about letting us create 
+annotations, often told us we were moving too fast even when we were 
+perfectly still, and crashed once or twice during testing. When it 
+worked, though, the effect was tremendously fun. The app seemed to be 
+calculating surfaces and distances in real-time, so for example we could
+ throw virtual paint and it would know whether to land on the floor or 
+spatter on a wall. There were even shadows of things we drew floating in
+ the air.(Click to see full size)When it comes to actual image quality, the Xperia Z3 is 
+astonishingly good. It's a little shaky sometimes, especially in Auto 
+mode and at night. For the most part, photos came out with incredible 
+detail and impressive colour reproduction. Textures were generally 
+detailed and clear, though there was a bit of noise in shots with clear 
+subjects against distant backgrounds. We managed to take some decent 
+shots in tricky conditions such as a dimly lit room with small, bright 
+lights. The front camera also performed well, and photos were usable in most conditions. There was considerably more noise and fuzziness than in photos taken with the rear camera, but we were still quite satisfied.(Click to see full size)Video recorded at 4K was very impressive, but then again so was regular old HD video. We found recordings to be just a bit dark. Be prepared for massive file sizes though - approximately 120MB for 15 seconds.The main problem we had with the camera was that we kept seeing popup warnings that the device was getting too hot and that the app might shut down. We started seeing the message within a few seconds of opening the camera app outdoors on two different (but very sunny) days - which does not say much for the Z3's ability to be useful in India.(Click to see full size)PerformanceWith 
+specifications like these, it would have been impossible for the phone 
+to lag or slouch anywhere, and thankfully it didn't. We really had no 
+problem with anything we tried doing. HD videos played perfectly well 
+and so did 3D games. The twin front-firing speakers were quite powerful 
+and rich - distortion was minimal at high volumes and subtle details 
+actually did come through. Benchmark test scores were at par with
+ those of the Xperia Z2 - the two traded blows between tests, but the 
+difference was always minor and the Z3 was on top more often. The Z3 and
+ Z2 scored 29.9fps and 29.4fps respectively in GFXbench, and the 
+Quadrant scores were 19,210 and 18,392. Interestingly, both phones were 
+bested by the smaller Sony Xperia  Z1 Compact (Review | Pictures), which scored 34.9fps in 
+GFXbench (thanks to its lower resolution screen) and 21,100 overall in 
+Quadrant. We can't wait to see what the new Xperia Z3 Compact has in 
+store for us. Sony hasn't been silent about battery improvements 
+in the Z3, and we were rewarded with a very impressive 13 hours, 27 
+minutes in our video loop test - and that's without any of the company's
+ battery-saving features turned on. This easily translates to two full 
+days of reasonably heavy usage on a single charge.VerdictThe Z3 might be newer than its contemporaries, but the downside of that is that its price hasn't had time to settle. At Rs. 51,990, the Z3 is significantly more expensive than the Samsung Galaxy S5, HTC One (M8) and LG G3. You'll really have to consider whether it's worth the premium over the Z2 which now costs around as much as those phones. In terms of price alone, it will probably be more of a competitor to the iPhone 6, as and when it launches in India.The Sony Xperia Z3 has many merits, but owners of the Z2 and even Z1 shouldn't be in any hurry to upgrade. These phones are still very competitive. However, if you're in the market for a new premium smartphone right now and only the latest and greatest will do, you'll be very happy with the Z3. There's also the Z3 Compact to consider, which should deliver much the same experience in a smaller package, and at a lower price.Sony really has managed to improve a phone that was already pretty impressive. We enjoyed using the Z3, but we have a feeling that Sony's pricing and pace will make it easier and more sensible for a lot of people to keep themselves one step behind the curve.  Sony Xperia Z3 in pictures
+
+Should we be surprised that Sony is already refreshing its flagship 
+smartphone? Only six months after the launch of the Xperia Z2 comes its 
+successor, the Xperia Z3. Sony hopes this will help it gain traction in 
+the notoriously fickle Android superphone market, and knows that there 
+are customers who will only buy the latest and greatest model at any 
+given point of time, for whom money is no object. 
+
+As Sony sees 
+it, the Xperia Z3 is not so different from its predecessor that anyone 
+who bought an Xperia Z2 (Review | Pictures) will have regrets. However, those who are in the market 
+for a new high-end phone right now will see a brand new Sony up against 
+the now-common Samsung Galaxy S5 (Review | Pictures) and HTC One (M8) (Review | Pictures). Plus, if the company 
+can do something new in this time, why should it wait for an artificial 
+cycle? 
+
+The differences between each successive new model in 
+Sony's Xperia Z series have been pretty minor, but you can see a clear 
+improvement over time. Owners of the Z2 might not have any reason to 
+upgrade, but those who bought the Xperia Z or Z1 will be tempted. The 
+strategy is a gamble, but it has worked for the past two years. 
+
+Look and feelThe
+ Sony Xperia Z3 is the biggest change for Sony since the first Xperia Z 
+was launched a year and a half ago. The harsh rectangular shape has 
+morphed into a more organic one, with curved sides and corners replacing
+ chiselled edges for the first time. Sony's distinctive purple option 
+has also thankfully reached the end of the line - the new Xperia Z3 is 
+still available in white and black, but the signature colour is now 
+Copper Gold. One of our gripes with the Z2 was that it looked exactly 
+like its predecessors, and Sony has taken the message to heart.
+
+The
+ Z3 is a hair slimmer than the Z2, but more noticeable are the sleek new
+ buttons and inset flaps on either side that hide (and protect) the 
+various slots and ports. The metal trim around the edges is broken up at
+ the corners, and Sony says this design is intended to make the Z3 
+resistant to damage when dropped - the corners can absorb some impact, 
+reducing the likelihood that the glass front or rear will shatter. 
+
+The
+ dust and liquid resistance rating has been upgraded to IP68 which means
+ this phone should be able to survive for up to 30 minutes in fresh 
+water up to 1.5m deep. However, as before, this means you have to deal 
+with a fiddly flap and recessed Micro-USB port each time you need to 
+charge the Z3. The battery is of course sealed in, and all ports and 
+controls are around the edges. 
+
+Sony's signature round power 
+button is on the right edge, but it's neither centred nor at thumb 
+height. The volume rocker is right below it, and both are incredibly 
+awkward to reach. Sony is one of the few companies still equipping their
+ phones with dedicated camera buttons, and we found the Z3 easy to hold 
+and use as a camera. The Nano-SIM and microSD card slots are under a 
+flap on the upper right, and the Micro-USB port is under a flap on the 
+left, next to the same magnetic dock connector that we've seen on 
+previous Z-series devices. It still looks as though a patch has been 
+gouged out on one side for the dock connector, but even this is less 
+jarring than it was on the Z2.  
+
+As pointed out in a snarky social
+ media post, Sony has managed to make the Z3 thin and improve its camera
+ without resorting to a protruding lens. The rear glass surface is in 
+fact so smooth that we found the Z3 slid around on tables when we tried 
+to use it. 
+
+The Xperia Z3 is tall and narrow like its predecessor,
+ making it one of the more comfortable large phones on the market. It's 
+definitely easier to hold than the Z2 was, thanks to the new curves. If 
+this is still too much for you though, there's the very interesting 
+Xperia Z3 Compact to consider, which has most of the same specifications
+ but has a smaller screen and body.
+
+SpecificationsThere 
+haven't been any great game-changing strides in core smartphone hardware
+ in the past six months, and so the Z3's guts are much the same as those
+ of its predecessor. The quad-core Qualcomm Snapdragon 801 SoC is 
+slightly faster at 2.5GHz as opposed to 2.3GHz, but its Adreno 330 
+graphics processor is the same. 
+
+Sony could have chosen to go with
+ a bigger and higher resolution screen, but it claims it consciously 
+chose not to so that battery life would not suffer. 1080x1920 is already
+ pretty crazy for a smartphone, so we don't have any problem with this. 
+If you're the type for whom bragging rights are more important than 
+utility, you might want to look at LG and Samsung's most recent 
+launches.
+
+You get 16GB of storage space and 3GB of RAM. The 
+microSD slot will work with cards up to 128GB in capacity. Sony throws 
+in Wi-Fi b/g/n/ac, Bluetooth 4.0, NFC and GPS. Sony has stated that LTE is supported on Indian bands.
+
+Sony has 
+concentrated on refinements that aren't really spelled out by the sheet 
+of specifications. The screen, camera, battery and audio processing 
+systems have all been tweaked and improved. The company claims it has 
+applied technology from its TV, gaming and audio divisions, and so the 
+screen boasts of features named "X-reality" and "Live Colour LED" which 
+enhance sharpness and colour reproduction. Sony claims that the Z3 has 
+the "world's brightest display of leading premium smartphones" and it 
+definitely is bright.
+
+The Xperia Z3 has another unique feature to 
+boast of - not only does the device claim to "upsample" MP3 and AAC 
+audio tracks, it can also natively handle High-Resolution Audio files in
+ a variety of formats, which can be purchased online. Digital noise 
+cancelling is built in, but it requires a specific Sony headset to work.
+
+Finally,
+ there's a twist that ties in with Sony's PlayStation 4 console - the 
+Xperia Z3 is the first smartphone to support PS4 Remote Play, which 
+means you can wirelessly stream game video from your PS4 console to the 
+phone using your home Wi-Fi connection. You'll still have to use a PS4 
+Dualshock controller but you can buy an adapter that lets you snap the 
+Z3 on to it so you can hold it up and play like you're using a handheld 
+console.
+
+SoftwareYou'll either love Sony's Android skin or 
+hate it. We like how easy it is to move around and arrange things as we 
+like them, but it really is a bit too heavy and overdone. We always find
+ ourselves trying to disable all the little animations, such as the 
+colour-changing swirl of the default "live" wallpaper. It might not feel
+ like bloat thanks to the super-fast hardware, but it's still 
+unnecessary and distracting.
+
+Nothing much has changed in software 
+between the Xperia Z2 and Z3. There's still a massive number of 
+non-removable preloaded apps, many of them related to Sony-branded 
+properties and most of them quite useless. The first homescreen has a 
+giant spammy "What's New" widget that not only advertises Sony media you
+ might not be interested in, but also consumes quite a bit of data to 
+keep its thumbnails fresh. The icon dock on the homescreens is filled 
+with Google and Sony app shortcuts rather than the more obvious 
+messaging, email or browser, which we think is ridiculous.
+
+Sony 
+hasn't jammed in quite as many features as Samsung and LG tend to do - 
+there's no split-screen functionality (though you can launch tiny 
+"floating" apps from the app switcher view) and there are very few 
+shortcuts and tweaks that make the big device more manageable. For 
+example, we really missed the ability to wake the Z3 by double-tapping 
+its screen, especially since the power button is so tiny. 
+
+Two 
+apps stand out - Sony's Lifelog, and Sketch. Lifelog lets you track 
+health and fitness data such as the amount of exercise you've had in a 
+day, but stands out from other smartphone makers' health apps by also 
+including timestamps for other phone-related activities such as 
+listening to music, taking photos and playing games. Logging happens 
+continuously in the background and works better if you use one (or more)
+ of Sony's wearable products, but we don't really see the appeal of the 
+concept.
+
+Sketch on the other hand is a fun little app that lets 
+you draw with various brushes and put silly stickers or text captions on
+ photos. Some users might find Sony's other apps useful, but they're 
+easy to forget about. PartyShare lets you broadcast photos live and 
+create a music playlist that friends (with compatible Xperia phones) can
+ contribute to. News from Socialife shows assorted third-party feeds 
+including ones from popular news, sports, entertainment and tech 
+websites. You can add your own RSS URLs or browse through the presets by
+ category. Smart Connect, despite its name, lets you create profiles to 
+automate actions when you plug in a charger or headset, or when you just
+ don't want to be disturbed at night. 
+
+There's also Line, Kobo, 
+AVG Antivirus, Facebook, Evernote, Kingsoft Office, Bigflix, Google 
+Drive, LinkedIn, and Wisepilot Navigation. Sony's branded apps include 
+Sony Select, What's New, TrackID, Xperia Care Support, Sony Music, Liv 
+Sports, Sony Liv, Xperia Lounge and Xperia Update Center.
+
+CameraBoth
+ hardware and software have been given a refresh. Sony makes the bold 
+claim that the Z3 has "the world's best camera and camcorder in a 
+smartphone", which is apparently based on actual subjective market 
+research. The camera can go up to ISO 12800 for low-light captures, and 
+there's a 1/2.3-inch sensor with Sony's proprietary processing tech. The
+ lens is a wide-angle 25mm one, for shots that include more subject 
+matter. Video recording goes up to 4K, though 1080p is the default. Even
+ photos are taken at 8-megapixel resolution by default, though you can 
+step up to the full 20.7-megapixels whenever you like. 
+
+(Click to see full size)
+
+Sony's 
+suite of "camera apps" has grown. In addition to the basic Superior Auto
+ and Manual modes, you now have Sound Photo which lets you take stills 
+annotated with ambient sound; Face In, which lets you superimpose your 
+own face and those others in a scene; Multi Camera, which lets you 
+synchronise and merge streams with split-screen effects using multiple 
+Xperia phones; and AR Fun, which lets you squiggle notes and put 
+stickers into a scene, and then change your position so that the AR bits
+ appear to be floating in the air in 3D. 
+
+(Click to see full size)
+
+We couldn't try Multi 
+Camera, but we did find that AR Fun wasn't half as good as it seemed in 
+Sony's demo videos. The app was very finicky about letting us create 
+annotations, often told us we were moving too fast even when we were 
+perfectly still, and crashed once or twice during testing. When it 
+worked, though, the effect was tremendously fun. The app seemed to be 
+calculating surfaces and distances in real-time, so for example we could
+ throw virtual paint and it would know whether to land on the floor or 
+spatter on a wall. There were even shadows of things we drew floating in
+ the air.
+
+(Click to see full size)
+
+When it comes to actual image quality, the Xperia Z3 is 
+astonishingly good. It's a little shaky sometimes, especially in Auto 
+mode and at night. For the most part, photos came out with incredible 
+detail and impressive colour reproduction. Textures were generally 
+detailed and clear, though there was a bit of noise in shots with clear 
+subjects against distant backgrounds. We managed to take some decent 
+shots in tricky conditions such as a dimly lit room with small, bright 
+lights. 
+
+The front camera also performed well, and photos were usable in most conditions. There was considerably more noise and fuzziness than in photos taken with the rear camera, but we were still quite satisfied.
+
+(Click to see full size)
+
+Video recorded at 4K was very impressive, but then again so was regular old HD video. We found recordings to be just a bit dark. Be prepared for massive file sizes though - approximately 120MB for 15 seconds.
+
+The main problem we had with the camera was that we kept seeing popup warnings that the device was getting too hot and that the app might shut down. We started seeing the message within a few seconds of opening the camera app outdoors on two different (but very sunny) days - which does not say much for the Z3's ability to be useful in India.
+
+(Click to see full size)
+
+PerformanceWith 
+specifications like these, it would have been impossible for the phone 
+to lag or slouch anywhere, and thankfully it didn't. We really had no 
+problem with anything we tried doing. HD videos played perfectly well 
+and so did 3D games. The twin front-firing speakers were quite powerful 
+and rich - distortion was minimal at high volumes and subtle details 
+actually did come through. 
+
+Benchmark test scores were at par with
+ those of the Xperia Z2 - the two traded blows between tests, but the 
+difference was always minor and the Z3 was on top more often. The Z3 and
+ Z2 scored 29.9fps and 29.4fps respectively in GFXbench, and the 
+Quadrant scores were 19,210 and 18,392. Interestingly, both phones were 
+bested by the smaller Sony Xperia  Z1 Compact (Review | Pictures), which scored 34.9fps in 
+GFXbench (thanks to its lower resolution screen) and 21,100 overall in 
+Quadrant. We can't wait to see what the new Xperia Z3 Compact has in 
+store for us. 
+
+Sony hasn't been silent about battery improvements 
+in the Z3, and we were rewarded with a very impressive 13 hours, 27 
+minutes in our video loop test - and that's without any of the company's
+ battery-saving features turned on. This easily translates to two full 
+days of reasonably heavy usage on a single charge.
+
+VerdictThe Z3 might be newer than its contemporaries, but the downside of that is that its price hasn't had time to settle. At Rs. 51,990, the Z3 is significantly more expensive than the Samsung Galaxy S5, HTC One (M8) and LG G3. You'll really have to consider whether it's worth the premium over the Z2 which now costs around as much as those phones. In terms of price alone, it will probably be more of a competitor to the iPhone 6, as and when it launches in India.
+
+The Sony Xperia Z3 has many merits, but owners of the Z2 and even Z1 shouldn't be in any hurry to upgrade. These phones are still very competitive. However, if you're in the market for a new premium smartphone right now and only the latest and greatest will do, you'll be very happy with the Z3. There's also the Z3 Compact to consider, which should deliver much the same experience in a smaller package, and at a lower price.
+
+Sony really has managed to improve a phone that was already pretty impressive. We enjoyed using the Z3, but we have a feeling that Sony's pricing and pace will make it easier and more sensible for a lot of people to keep themselves one step behind the curve. 
+

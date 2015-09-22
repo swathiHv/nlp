@@ -1,0 +1,348 @@
+XOLO X900 review
+
+The first Intel smartphone is here. After years of work, California 
+based Intel announced the first smartphones with its own Atom chips at 
+the Mobile World Congress earlier this year. Not able to secure the 
+support of popular smartphone manufacturers like HTC and Samsung, 
+company went ahead with Chinese tech giant Lenovo and relatively unknown
+ Indian manufacturer Lava to launch the initial smartphones.The 
+name Lava doesn't inspire much confidence in Indian consumers. While the
+ company launched its first smartphone in India last year, it hasn't 
+been able to generate much buzz. Intel needed hardware partners, and 
+Lava needed a product that would help shed its image of a feature-phone 
+manufactuer. In many ways, XOLO is a partnership of convience for both 
+sides..X900 is technically the first Intel powered smartphone to 
+ship worldwide; it is based on Intel's Medfield reference design and has
+ been priced at Rs. 21,999. In this review, we will be find out if the 
+first Intel smartphone is capable making a place for Intel in the 
+smartphone chip market.HardwareWe have seen quite a few 
+beautiful devices in the last few weeks. Coming from Sony's Xperia S, 
+Lava XOLO X900 is a tad less aesthetically pleasing but that shouldn't 
+be taken as a negative for the smartphone. For a device that 
+mirrors the reference design, XOLO X900 looks polished and feels nice in
+ hand. The overall design isn't revolutionary but it is some fine work 
+and consumers won't be disappointed. Featuring a rectangular 
+shape, XOLO X900 reminds of iPhone 4/4S , it is similar in looks with 
+the chrome ring, button placement and even the micro-SIM card slot, 
+which isn't really bad.The front of the X900 houses a 4.03-inch 
+display with 1024x600p resolution, along with capacitive Android 
+buttons, 1.3MP front camera, earpiece, MIC and a bunch of sensors. The 
+micro-SIM card slot is present on the right side with two-stage 
+dedicated camera button, volume rocker and speaker.The matching 
+second speaker for stereo sound is present on the left with HDMI-out 
+port. The company hasn't clubbed any HDMI cable in the box, which would 
+certainly have been a nice addition.Bottom is pretty much clean 
+apart from the Micro-USB cum charging port, while top includes power 
+button and the 3.5mm headphone jack. On the rubberised back, consumers 
+will find the 8MP camera, LED Flash, regulatory symbols, Intel and XOLO 
+branding.It might not be the thinnest or lightest phone around, but when it comes with real life usage, XOLO X900 works out pretty well.DisplayIn
+ the world of HTC One X and Apple iPhone 4S, manufacturers truly need 
+some great work to compete with some really awesome display panels. WVGA
+ no longer cuts and HD is the standard - anything less is simply a 
+dissapointment for a top of the line smartpone.Intel and Lava 
+have opted something that falls in the middle - 1024x600p resolution; it
+ is not very common for smartphones, but we have seen it in quite a few 
+tablets including Kindle Fire and Samsung Galaxy Tab 620. It might not 
+be 720p HD, but it is not a disappointment either. At its price, X900 
+will be competing with Motorola Atrix 2, Samsung Galaxy S Plus, which 
+come with qHD and WVGA resolutions - thus X900 surely wins that race.XOLO
+ X900 features a 4.03-inch display, which is pretty decent and offers 
+nice colour output and viewing angles. Although in comparison with the 
+recent smartphones like HTC One X and Galaxy Nexus, we found it a tad 
+underwhelming. But then that's a battle no one was expecting the X900 to
+ win.As the display has 295 pixels-per-inch, consumers would 
+hardly notice any individual pixels on the device. Even the touch 
+experience is great and we never had any problems with touch accuracy.XOLO
+ X900's display is also sufficiently bright and consumers will not have 
+issues while operating the phone directly under the sun.CameraCameras
+ have become an integral part of smartphone experience these days, 
+manufacturers are spending considerable amount of time and effort in 
+bringing something unique and useful to the table. - The ImageSense 
+enhancements in HTC One series of smartphones or Pureview technology in 
+Nokia 808 are testament to the fact.Intel and Lava have also tried to include their own set of improvements to the camera in X900 - let's see how they worked out.X900
+ houses an 8-megapixel camera sensor in the smartphone, which has been 
+clubbed with one of the most comprehensive camera apps we have seen in 
+recent times. It also comes with something called Burst Shot, last seen 
+in HTC One X, that allows consumers to click upto ten pictures in less 
+than a second.Lava and Intel even had a dancer at the X900 launch
+ to clearly show how effective burst shots can be while taking shots of 
+something that is in motion. It was the first feature that we tried on 
+X900 and it work flawlessly. Overall, even in non-burst mode, the 
+quality of still captures was a tad disappointing. We found it sub-par 
+and looking at the cameras in other modern smartphones, it certainly 
+lacked a bit.Shots taken from the 5MP camera of Galaxy Nexus were
+ better in colour output, vibrancy and details than shots the 8MP camera
+ of XOLO X900.The camera app on the smartphone also offers 
+various colour filters like Sepia, BW, Negative, which can be applied 
+directly in the app itself.The video recording interface on the 
+phone is similar to the still imaging UI and it allows you to shoot up 
+to 1080p video, which is pretty much a standard in high-end smartphones.
+ You can even apply the colour effects while recording a video or set 
+white balance or zoom. The recording output is decent and looks good. 
+Camera maintains auto-focus continuously, which helps in capturing long 
+videos with a lot of movement.The 1.3MP front camera is decent and you can even record 720p videos with it. Software/ InterfaceGive
+ us some Ice Cream Sandwich - consumers with old Android phones have 
+been shouting the same since November 2011, when ICS source code was 
+publically released. Even if we forgive manufacturers for being 
+super-late in providing updates for old smartphones, how can they launch
+ a new smartphone with old operating system version on-board? Intel
+ and Lava have done the same with XOLO X900. When manufacturers like HTC
+ could launch their One series of devices with ICS and a comprehensive 
+UI on-board, there is no excuse for Intel or Lava to release X900 with 
+Gingerbread.Having said that, as a Gingerbread smartphone, XOLO 
+X900 is quite decent as company has kept the interface as well the whole
+ Android experience pretty much stock. There are no extra applications 
+loaded on the smartphone apart from the XOLO Care app and the inclusion 
+of Swype.Talking about the app compatibility, being the new 
+architecture for Android, there is a lot of confusion on which apps will
+ be compatible with the phone's Intel x86 platforms. While apps like 
+Facebook, Twitter, Barcode Scanner, Astro, Dropbox, and Instagram work 
+flawlessly, several games ,Shadowgun, Deer Hunter, Backstab, Temple 
+Run, and Asphalt 6 amongst them, aren't supported as of date.We hope Intel is working proactively with developers to get such apps ready for the platform.Performance /Battery LifeXOLO
+ X900 recently became the first smartphone worldwide to ship with 
+Intel's Atom Z2460 32nm SoC with processor clocked at up to 1.6 GHz. It 
+also comes with a PowerVR SGX 540 GPU at 400 MHz, and a dual channel 
+LPDDR2 memory. Despite being powered a single-core processor, 
+XOLO X900 performs at par with other smartphones in the same 
+price-bracket, which are powered by dual-core processors. There is 
+no-sluggishness or lag while going through menus or working with the 
+applications.Even before Intel entered the smartphone arena, a 
+lot of questions were raised around the battery life of any future 
+phones based on Intel processors. x86 has traditionally been seen as a 
+power hungry platform, not suitable for use in smartphones and other 
+devices where battery juice is at a premium.The x86 power myth 
+also seems busted as X900's battery backup is inline with any other 
+competing high-end Android smartphone. Medium to heavy users will be 
+able to pass the day with the smartphone's 1460 mAh battery.The 
+gaming performance in pretty good and most casual games worked 
+flawlessly; although, we did miss many popular gaming titles because of 
+incompatibility with the architecture.Intel has clearly taken a 
+big step with the first smartphone and it is certainly a worthy 
+competitor, but there are few things that it needs work on - like app 
+compatibility.VerdictWhile the Lava XOLO X900 performs 
+pretty well for its price, the positioning as well as the branding might
+ well end up hurting the phone. Although Lava has pitched it under the 
+name XOLO, Indian consumers are very brand conscious and a 'Lava-made 
+Rs. 22,000 phone' factor will surely play a lot of role in their buying 
+decision. But, if you can look beyond the brand, XOLO X900 is worthy of 
+consideration.Check out more images of Lava XOLO X900 in our picture gallery.ProsQuality displayOverall performanceConsCameraDated Gingerbread on board Lack of compatibility with select appsRatingsDesign: 3Display: 3.5Camera: 3Performance: 3.5Software: 3Battery Life: 3.5Value for Money: 3Ecosystem: 3Overall: 3.5
+
+The first Intel smartphone is here. After years of work, California 
+based Intel announced the first smartphones with its own Atom chips at 
+the Mobile World Congress earlier this year. Not able to secure the 
+support of popular smartphone manufacturers like HTC and Samsung, 
+company went ahead with Chinese tech giant Lenovo and relatively unknown
+ Indian manufacturer Lava to launch the initial smartphones.
+
+The 
+name Lava doesn't inspire much confidence in Indian consumers. While the
+ company launched its first smartphone in India last year, it hasn't 
+been able to generate much buzz. Intel needed hardware partners, and 
+Lava needed a product that would help shed its image of a feature-phone 
+manufactuer. In many ways, XOLO is a partnership of convience for both 
+sides..
+
+X900 is technically the first Intel powered smartphone to 
+ship worldwide; it is based on Intel's Medfield reference design and has
+ been priced at Rs. 21,999. In this review, we will be find out if the 
+first Intel smartphone is capable making a place for Intel in the 
+smartphone chip market.
+
+HardwareWe have seen quite a few 
+beautiful devices in the last few weeks. Coming from Sony's Xperia S, 
+Lava XOLO X900 is a tad less aesthetically pleasing but that shouldn't 
+be taken as a negative for the smartphone. 
+
+For a device that 
+mirrors the reference design, XOLO X900 looks polished and feels nice in
+ hand. The overall design isn't revolutionary but it is some fine work 
+and consumers won't be disappointed. 
+
+Featuring a rectangular 
+shape, XOLO X900 reminds of iPhone 4/4S , it is similar in looks with 
+the chrome ring, button placement and even the micro-SIM card slot, 
+which isn't really bad.
+
+The front of the X900 houses a 4.03-inch 
+display with 1024x600p resolution, along with capacitive Android 
+buttons, 1.3MP front camera, earpiece, MIC and a bunch of sensors. The 
+micro-SIM card slot is present on the right side with two-stage 
+dedicated camera button, volume rocker and speaker.
+
+The matching 
+second speaker for stereo sound is present on the left with HDMI-out 
+port. The company hasn't clubbed any HDMI cable in the box, which would 
+certainly have been a nice addition.
+
+Bottom is pretty much clean 
+apart from the Micro-USB cum charging port, while top includes power 
+button and the 3.5mm headphone jack. On the rubberised back, consumers 
+will find the 8MP camera, LED Flash, regulatory symbols, Intel and XOLO 
+branding.
+
+It might not be the thinnest or lightest phone around, but when it comes with real life usage, XOLO X900 works out pretty well.
+
+DisplayIn
+ the world of HTC One X and Apple iPhone 4S, manufacturers truly need 
+some great work to compete with some really awesome display panels. WVGA
+ no longer cuts and HD is the standard - anything less is simply a 
+dissapointment for a top of the line smartpone.
+
+Intel and Lava 
+have opted something that falls in the middle - 1024x600p resolution; it
+ is not very common for smartphones, but we have seen it in quite a few 
+tablets including Kindle Fire and Samsung Galaxy Tab 620. It might not 
+be 720p HD, but it is not a disappointment either. At its price, X900 
+will be competing with Motorola Atrix 2, Samsung Galaxy S Plus, which 
+come with qHD and WVGA resolutions - thus X900 surely wins that race.
+
+XOLO
+ X900 features a 4.03-inch display, which is pretty decent and offers 
+nice colour output and viewing angles. Although in comparison with the 
+recent smartphones like HTC One X and Galaxy Nexus, we found it a tad 
+underwhelming. But then that's a battle no one was expecting the X900 to
+ win.
+
+As the display has 295 pixels-per-inch, consumers would 
+hardly notice any individual pixels on the device. Even the touch 
+experience is great and we never had any problems with touch accuracy.
+
+XOLO
+ X900's display is also sufficiently bright and consumers will not have 
+issues while operating the phone directly under the sun.
+
+CameraCameras
+ have become an integral part of smartphone experience these days, 
+manufacturers are spending considerable amount of time and effort in 
+bringing something unique and useful to the table. - The ImageSense 
+enhancements in HTC One series of smartphones or Pureview technology in 
+Nokia 808 are testament to the fact.
+
+Intel and Lava have also tried to include their own set of improvements to the camera in X900 - let's see how they worked out.
+
+X900
+ houses an 8-megapixel camera sensor in the smartphone, which has been 
+clubbed with one of the most comprehensive camera apps we have seen in 
+recent times. It also comes with something called Burst Shot, last seen 
+in HTC One X, that allows consumers to click upto ten pictures in less 
+than a second.
+
+Lava and Intel even had a dancer at the X900 launch
+ to clearly show how effective burst shots can be while taking shots of 
+something that is in motion. It was the first feature that we tried on 
+X900 and it work flawlessly. Overall, even in non-burst mode, the 
+quality of still captures was a tad disappointing. We found it sub-par 
+and looking at the cameras in other modern smartphones, it certainly 
+lacked a bit.
+
+Shots taken from the 5MP camera of Galaxy Nexus were
+ better in colour output, vibrancy and details than shots the 8MP camera
+ of XOLO X900.
+
+The camera app on the smartphone also offers 
+various colour filters like Sepia, BW, Negative, which can be applied 
+directly in the app itself.
+
+The video recording interface on the 
+phone is similar to the still imaging UI and it allows you to shoot up 
+to 1080p video, which is pretty much a standard in high-end smartphones.
+ You can even apply the colour effects while recording a video or set 
+white balance or zoom. The recording output is decent and looks good. 
+Camera maintains auto-focus continuously, which helps in capturing long 
+videos with a lot of movement.
+
+The 1.3MP front camera is decent and you can even record 720p videos with it. 
+
+Software/ InterfaceGive
+ us some Ice Cream Sandwich - consumers with old Android phones have 
+been shouting the same since November 2011, when ICS source code was 
+publically released. Even if we forgive manufacturers for being 
+super-late in providing updates for old smartphones, how can they launch
+ a new smartphone with old operating system version on-board? 
+
+Intel
+ and Lava have done the same with XOLO X900. When manufacturers like HTC
+ could launch their One series of devices with ICS and a comprehensive 
+UI on-board, there is no excuse for Intel or Lava to release X900 with 
+Gingerbread.
+
+Having said that, as a Gingerbread smartphone, XOLO 
+X900 is quite decent as company has kept the interface as well the whole
+ Android experience pretty much stock. There are no extra applications 
+loaded on the smartphone apart from the XOLO Care app and the inclusion 
+of Swype.
+
+Talking about the app compatibility, being the new 
+architecture for Android, there is a lot of confusion on which apps will
+ be compatible with the phone's Intel x86 platforms. While apps like 
+Facebook, Twitter, Barcode Scanner, Astro, Dropbox, and Instagram work 
+flawlessly, several games ,Shadowgun, Deer Hunter, Backstab, Temple 
+Run, and Asphalt 6 amongst them, aren't supported as of date.
+
+We hope Intel is working proactively with developers to get such apps ready for the platform.
+
+Performance /Battery LifeXOLO
+ X900 recently became the first smartphone worldwide to ship with 
+Intel's Atom Z2460 32nm SoC with processor clocked at up to 1.6 GHz. It 
+also comes with a PowerVR SGX 540 GPU at 400 MHz, and a dual channel 
+LPDDR2 memory. 
+
+Despite being powered a single-core processor, 
+XOLO X900 performs at par with other smartphones in the same 
+price-bracket, which are powered by dual-core processors. There is 
+no-sluggishness or lag while going through menus or working with the 
+applications.
+
+Even before Intel entered the smartphone arena, a 
+lot of questions were raised around the battery life of any future 
+phones based on Intel processors. x86 has traditionally been seen as a 
+power hungry platform, not suitable for use in smartphones and other 
+devices where battery juice is at a premium.
+
+The x86 power myth 
+also seems busted as X900's battery backup is inline with any other 
+competing high-end Android smartphone. Medium to heavy users will be 
+able to pass the day with the smartphone's 1460 mAh battery.
+
+The 
+gaming performance in pretty good and most casual games worked 
+flawlessly; although, we did miss many popular gaming titles because of 
+incompatibility with the architecture.
+
+Intel has clearly taken a 
+big step with the first smartphone and it is certainly a worthy 
+competitor, but there are few things that it needs work on - like app 
+compatibility.
+
+VerdictWhile the Lava XOLO X900 performs 
+pretty well for its price, the positioning as well as the branding might
+ well end up hurting the phone. Although Lava has pitched it under the 
+name XOLO, Indian consumers are very brand conscious and a 'Lava-made 
+Rs. 22,000 phone' factor will surely play a lot of role in their buying 
+decision. But, if you can look beyond the brand, XOLO X900 is worthy of 
+consideration.
+
+Pros
+
+Cons
+
+Ratings
+
+Design: 3
+
+Display: 3.5
+
+Camera: 3
+
+Performance: 3.5
+
+Software: 3
+
+Battery Life: 3.5
+
+Value for Money: 3
+
+Ecosystem: 3
+
+Overall: 3.5
+

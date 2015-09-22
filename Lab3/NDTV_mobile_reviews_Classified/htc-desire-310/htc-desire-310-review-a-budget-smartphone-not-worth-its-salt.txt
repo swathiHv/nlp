@@ -1,0 +1,165 @@
+HTC Desire 310 review: A budget smartphone not worth its salt
+
+Technology journalists and industry analysts have spent a lot of time lately discussing how vital the newly launched One (M8) is for the struggling HTC's survival. However, the company is where it is largely because it hasn't had a strong 
+strategy in the low-end and mid-market segments. HTC has neglected a huge audience, and it also needs to get pricing right.At least it seems as though HTC has now understood this, and has announced a few devices in the low-end segment. 
+We have the HTC Desire 310 for review, which is HTC's first budget Android 
+device in a long time. Along with the HTC Desire 210, which will be priced
+ even lower when it hits stores, we hope this device can kick off a revival of sorts for HTC. Read 
+further to find what the Desire 310 means for HTC's entry-level aspirations.Look and feelIn
+a world in which manufacturers are clamouring to showcase how thin
+ their devices are, HTC has created a smartphone that is 
+rather overweight. The Desire 310 has a thickness of 
+11.25mm and weighs 140g. If you like a solid grip, you'll find the contours actually make for good ergonomics.The 4.5-inch screen of the Desire 310 is great for 
+single-handed operation. We got the dark blue variant for review, and it 
+looks good. The phone is also available in white. The rear cover is removable, and beneath it you'll find the 2000mAh battery, slots for both SIM cards, and a slot for the micro-SD card. The left 
+edge of the HTC Desire 310 is completely bare, and the right edge 
+features the volume rocker and power button, which are too soft in 
+our opinion and might get damaged if it is not handled with care. Above 
+the screen are the front-facing VGA camera and front-firing speaker, which is always a bonus. HTC foregoes physical buttons for 
+on-screen ones for navigation. In regular usage, we 
+found that for a device of this size it was a hindrance, especially, 
+when using the on-screen keyboard. Features and specificationsThe
+ HTC Desire 310 has a Mediatek MT6582 quad-core processor clocked at 
+1.3GHz, with Mali 400MP2 graphics. 
+The phone has 512MB of RAM, which we feel is too little. Surprisingly, the European edition of this phone has 1GB of RAM. HTC provides 4GB of internal storage of which
+ only one gigabyte is available to use. You'll have to expand it 
+using a microSD, and this phone supports up to 32GB.The HTC Desire 310 has
+ a 5-megapixel rear camera with no flash or autofocus, which is a disappointment. The front-facing camera can shoot VGA images. Surprisingly, 
+the rear camera can capture video at 1080p. The two Micro-SIM
+ cards work in active standby mode.The 4.5-inch screen has a 
+resolution of 854x480, and in our opinion is dull and lifeless. The 
+viewing angles are bad and legibility under sunlight takes a 
+hit. As we mentioned earlier, the phone has on-screen buttons which take up a portion of the screen, and especially because an older version of Android has been used, apps lose screen space to the black button bar. SoftwareThe HTC 
+Desire 310 runs Android 4.2.1 (Jelly Bean) but not the usual customised Sense UI interface. The BlinkFeed visual news reader is still present and the app drawer is borrowed from Sense, but all the icons are stock Android. The phone has three homescreens, but you can add up to three more. To the left of the default screen is BlinkFeed, HTC's attempt to aggregate content from various sources including social networks, much like the very popular Flipboard. It is a fairly convenient tool and we ended up using it quite often. HTC bundles a few 
+third-party apps with the 
+phone, such as WeChat, Twitter and Polaris Office Suite, all of which could be useful. A video highlights app collates pictures to create an instant slideshow to which a user can add music or a theme. It is nothing fancy, but is definitely an interesting inclusion. CameraWe
+ want to get one thing out of the way: the HTC Desire 310's 5-megapixel 
+rear camera is quite bad. This is mainly because it doesn't have auto-focus. Images have a lot of noise, even those captured in 
+daylight. In low light, it is 
+almost unusable. The rear 
+camera captures video at 1080p which is totally pointless since that 
+kind of resolution goes waste when the footage itself is devoid of any
+ detail.(click for full size)There is no hope with the front camera either, since the maximum resolution is a lowly 640x480. The camera app is stock and there are a few modes like 
+panorama and HDR available but there is no point in discussing them since we expect users won't even bother with this camera.PerformanceEver
+ since Google introduced Ice Cream Sandwich or Android 4.0 to the world,
+ it was clear that optimisation could work wonders. But performance is 
+still highly dependent on what a smartphone packs under its hood. The 
+HTC Desire 310 features a quad-core Mediatek MT 6582 processor clocked 
+at 1.3GHz. Let's check how it 
+performs. The AnTuTu benchmark returned a score of 17,136 which 
+is fairly decent for phone in this price range. Quadrant gave us a result of 5,962 which is once again, an acceptable score. However,
+ we faced a roadblock when we tried to run the GFXbench test. It just 
+didn't work. 3DMark's Ice Storm runthrough returned a score of 3,090 which 
+indicates casual gaming will just about be okay. All scores aside, we want to reiterate that 
+512MB of RAM is insufficient and could be one of the things that caused the device to stutter and lag in day-to-day operation. The
+ battery lasted us 6 hours, 23 minutes during our continuous video 
+loop test before it died. This should translate to a day's usage in 
+real-world conditions. The one department where HTC shines is the quality 
+of sound from both, the speaker and the bundled earphones. Could it be
+a Beats branding hangover? The phone cannot handle 1080p videos 
+without artefacting or skipping frames, but it managed to play 720p 
+videos just fine, which is what we expected. It had no problems making calls even in low network areas and the clarity of sound during phone calls is really good. VerdictThe
+ HTC Desire 310 has very few positives going for it. You could use it as a phone with basic media playback features, but not much more than 
+that. Moreover, HTC is not doing itself any favours by pricing the phone
+ at Rs. 11,358 which is very close to the Moto G - by far a superior 
+performer. HTC needs to do a lot better than this to do well in today's mid-budget market.  HTC Desire 310 in pictures
+
+
+Technology journalists and industry analysts have spent a lot of time lately discussing how vital the newly launched One (M8) is for the struggling HTC's survival. However, the company is where it is largely because it hasn't had a strong 
+strategy in the low-end and mid-market segments. HTC has neglected a huge audience, and it also needs to get pricing right.
+
+At least it seems as though HTC has now understood this, and has announced a few devices in the low-end segment. 
+We have the HTC Desire 310 for review, which is HTC's first budget Android 
+device in a long time. Along with the HTC Desire 210, which will be priced
+ even lower when it hits stores, we hope this device can kick off a revival of sorts for HTC. Read 
+further to find what the Desire 310 means for HTC's entry-level aspirations.
+
+Look and feelIn
+a world in which manufacturers are clamouring to showcase how thin
+ their devices are, HTC has created a smartphone that is 
+rather overweight. The Desire 310 has a thickness of 
+11.25mm and weighs 140g. If you like a solid grip, you'll find the contours actually make for good ergonomics.
+
+The 4.5-inch screen of the Desire 310 is great for 
+single-handed operation. We got the dark blue variant for review, and it 
+looks good. The phone is also available in white. The rear cover is removable, and beneath it you'll find the 2000mAh battery, slots for both SIM cards, and a slot for the micro-SD card. 
+
+The left 
+edge of the HTC Desire 310 is completely bare, and the right edge 
+features the volume rocker and power button, which are too soft in 
+our opinion and might get damaged if it is not handled with care. Above 
+the screen are the front-facing VGA camera and front-firing speaker, which is always a bonus. HTC foregoes physical buttons for 
+on-screen ones for navigation. In regular usage, we 
+found that for a device of this size it was a hindrance, especially, 
+when using the on-screen keyboard. 
+
+Features and specificationsThe
+ HTC Desire 310 has a Mediatek MT6582 quad-core processor clocked at 
+1.3GHz, with Mali 400MP2 graphics. 
+The phone has 512MB of RAM, which we feel is too little. Surprisingly, the European edition of this phone has 1GB of RAM. HTC provides 4GB of internal storage of which
+ only one gigabyte is available to use. You'll have to expand it 
+using a microSD, and this phone supports up to 32GB.
+
+The HTC Desire 310 has
+ a 5-megapixel rear camera with no flash or autofocus, which is a disappointment. The front-facing camera can shoot VGA images. Surprisingly, 
+the rear camera can capture video at 1080p. The two Micro-SIM
+ cards work in active standby mode.
+
+The 4.5-inch screen has a 
+resolution of 854x480, and in our opinion is dull and lifeless. The 
+viewing angles are bad and legibility under sunlight takes a 
+hit. As we mentioned earlier, the phone has on-screen buttons which take up a portion of the screen, and especially because an older version of Android has been used, apps lose screen space to the black button bar. 
+
+SoftwareThe HTC 
+Desire 310 runs Android 4.2.1 (Jelly Bean) but not the usual customised Sense UI interface. The BlinkFeed visual news reader is still present and the app drawer is borrowed from Sense, but all the icons are stock Android. 
+
+The phone has three homescreens, but you can add up to three more. To the left of the default screen is BlinkFeed, HTC's attempt to aggregate content from various sources including social networks, much like the very popular Flipboard. It is a fairly convenient tool and we ended up using it quite often. 
+
+HTC bundles a few 
+third-party apps with the 
+phone, such as WeChat, Twitter and Polaris Office Suite, all of which could be useful. A video highlights app collates pictures to create an instant slideshow to which a user can add music or a theme. It is nothing fancy, but is definitely an interesting inclusion. 
+
+CameraWe
+ want to get one thing out of the way: the HTC Desire 310's 5-megapixel 
+rear camera is quite bad. This is mainly because it doesn't have auto-focus. Images have a lot of noise, even those captured in 
+daylight. In low light, it is 
+almost unusable. The rear 
+camera captures video at 1080p which is totally pointless since that 
+kind of resolution goes waste when the footage itself is devoid of any
+ detail.
+
+(click for full size)There is no hope with the front camera either, since the maximum resolution is a lowly 640x480. The camera app is stock and there are a few modes like 
+panorama and HDR available but there is no point in discussing them since we expect users won't even bother with this camera.
+
+PerformanceEver
+ since Google introduced Ice Cream Sandwich or Android 4.0 to the world,
+ it was clear that optimisation could work wonders. But performance is 
+still highly dependent on what a smartphone packs under its hood. The 
+HTC Desire 310 features a quad-core Mediatek MT 6582 processor clocked 
+at 1.3GHz. Let's check how it 
+performs. 
+
+The AnTuTu benchmark returned a score of 17,136 which 
+is fairly decent for phone in this price range. Quadrant gave us a result of 5,962 which is once again, an acceptable score. However,
+ we faced a roadblock when we tried to run the GFXbench test. It just 
+didn't work. 3DMark's Ice Storm runthrough returned a score of 3,090 which 
+indicates casual gaming will just about be okay. All scores aside, we want to reiterate that 
+512MB of RAM is insufficient and could be one of the things that caused the device to stutter and lag in day-to-day operation. 
+
+The
+ battery lasted us 6 hours, 23 minutes during our continuous video 
+loop test before it died. This should translate to a day's usage in 
+real-world conditions. The one department where HTC shines is the quality 
+of sound from both, the speaker and the bundled earphones. Could it be
+a Beats branding hangover? 
+
+The phone cannot handle 1080p videos 
+without artefacting or skipping frames, but it managed to play 720p 
+videos just fine, which is what we expected. It had no problems making calls even in low network areas and the clarity of sound during phone calls is really good. 
+
+VerdictThe
+ HTC Desire 310 has very few positives going for it. You could use it as a phone with basic media playback features, but not much more than 
+that. Moreover, HTC is not doing itself any favours by pricing the phone
+ at Rs. 11,358 which is very close to the Moto G - by far a superior 
+performer. HTC needs to do a lot better than this to do well in today's mid-budget market. 
+

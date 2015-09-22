@@ -1,0 +1,241 @@
+Nubia Z9 Mini Review: A Mid-Range Smartphone With a Camera That Stands Out
+
+ZTE is among the top five smartphone 
+manufacturers in China. The company entered India last year with 
+powerful devices priced aggressively to take on the competition. 
+However, it didn't rise to much prominence thanks to tough competition from brands like Xiaomi, Asus, and 
+Motorola. We reviewed one of its phones, the ZTE V5 (Review | Pictures), and 
+despite packing powerful hardware, we found that its middling software held it back.Therefore, we think it is a smart decision 
+for the company to refocus on a more
+ premium brand: Nubia. One of the smartphones in this range is a scaled 
+down version of the flagship Nubia Z9 (which comes in three variants: Classic, Elite and Exclusive). This mid-range smartphone is 
+called the Nubia Z9 Mini and it has a really powerful camera. ZTE
+ has also cleaned up its Android skin and has installed the latest 
+version, Nubia UI 2.8, on the Z9 Mini. Let's find out if ZTE is 
+successful in cleaning up its act. Look and feelThe Nubia 
+Z9 Mini doesn't do anything drastic with the standard candybar design but is 
+still a strikingly handsome smartphone. It isn't exactly 
+slim at 8.2mm or lightweight at 147g. However, it feels about the right 
+size for a phone with a 5-inch screen. Our 
+only gripe with the design of the Z9 Mini is that it feels a little 
+uncomfortable to hold because the metal trim running around the edges is raised and creates a ridge, which will dig into your palms.The Nubia Z9 Mini is predominately
+ black but has small doses of red sprinkled around to 
+distinguish it from the herd. For example, the rear camera is surrounded
+ by a red ring and the three capacitive buttons below the display are 
+backlit in red. Above the display you can find a small slit for the 
+earpiece and a front-facing camera. The power button and the volume 
+rocker sit on the right edge of the phone. The SIM card tray is on the left edge. Located on the 
+bottom are the Micro-USB port, speaker and microphone. The 3.5mm 
+audio port and yet another microphone lie on the top. At first glance 
+it looks like the rear is made of glass but in reality it is an 
+extremely glossy and reflective sheet of plastic that can be 
+removed. Removing the rear cover reveals the microSD card slot, but the battery is in-built and cannot be replaced. Specifications and softwareZTE decided to go with a 1.5GHz octa-core Qualcomm Snapdragon 615 SoC featuring Adreno 405 graphics for the Nubia Z9 Mini. The phone also has 2GB of RAM and 16GB of 
+storage space. This can be expanded by up to 128GB using a 
+microSD card. Additionally, the Micro-USB port can act as a host for USB
+ devices. The Nubia Z9 Mini has a 16-megapixel rear camera with 
+a Sony IMX234 sensor and the front camera can shoot 8-megapixel images. 
+The phone accepts two Nano-SIM cards, one of which can connect to 4G 
+networks even on the 2300MHz band which is used by Airtel. Other 
+connectivity options include Wi-Fi 802.11 a/b/g/n/ac and Bluetooth 4.0.
+ The battery has a rated capacity of 2900mAh. The
+ 5-inch IPS LCD screen has a resolution of 1080x1920, which translates 
+to an extremely high pixel density of 441ppi. The screen is crisp, 
+adequately bright and not overtly saturated. It is also protected by 
+Corning's Gorilla Glass 3. However, since it is very reflective the 
+sunlight legibility takes a beating. The viewing angles are fine though.The
+ phone runs Android 5.0.2 (Lollipop) with the Nubia UI 2.8 skin on top of 
+it. It has a flatter design and default apps have round icons. There is 
+no app drawer and all apps are lined up on the home screens. The 
+first home screen is filled with shortcuts to specific 
+camera modes and you cannot move any other app there. There are touch 
+gestures and smart sensing functions, for example you can double-tap to unlock the phone and flip it over to mute an incoming call. There is also a very laggy split-screen mode
+ that doesn't make sense on a phone of this size. The Nubia UI 
+2.8 skin has toned down animations. 
+However, it doesn't feel polished. The camera app crashed each time we 
+switched to the high frame rate video mode. Also, there are places in 
+the menu with serious grammatical errors. Such issues highlight that the
+ software developers haven't paid attention to small details. CameraThe
+ Nubia Z9 Mini has one of the most feature-rich camera apps we've used 
+with ample manual controls for the photographer. The Pro mode allows 
+users to play around with ISO, white balance, focus, and the likes. One 
+can also use shutter priority and enhanced depth-of-field detection. The
+ selfie camera has a beauty mode and smile-to-capture function.(Click for full size)The
+ 16-megapixel rear camera with its Sony IMX234 sensor and fast f/2.0 
+aperture surprised us with its consistently good performance, especially
+ in good lighting conditions. What impressed us most was that the camera could 
+handle even extremely contrasting lighting conditions with relative ease. 
+The details in our daylight samples were really good. We didn't detect 
+any noise, chromatic aberration or barrel distortion either. The colours
+ were adequately saturated. The HDR mode does a decent job of 
+improving dynamic range, although there are very few situations in which
+one would actually need to use it. (Click for full size)Auto-white balance in 
+low light was completely off but the general performance was pretty 
+decent. The camera works in such a way that it 
+pumps up the noise levels but maintains the details. We prefer this to having the
+details softened. The 8-megapixel front camera is really good for 
+selfies and the details it captures will definitely not disappoint you. 
+The 1080p video captured by the primary camera was average and 
+not a patch on the still image performance of the camera. Overall, we 
+think the Nubia Z9 Mini has one of the better cameras in a smartphone 
+under Rs. 20,000.(Click for full size)PerformanceIn our time with the phone, we
+ didn't notice any stutter during daily usage. We mostly had a smooth 
+experience. The phone however did get noticeably hot when we ran any processor 
+intensive task such as playing games and editing photos. Thankfully, it 
+doesn't get unbearable. The AnTuTu and Quadrant benchmark 
+scores of 31,973 and 16,600 respectively were slightly on the higher 
+side when compared to other phones based on the same SoC. In GFXbench and 
+3DMark Ice Storm, the phone scored 14.7fps and 7,663 points 
+respectively. The phone also managed to play our sample videos in 
+different formats, including our 40Mbps high bit-rate one, without any 
+issues. The loudspeaker outputs tinny sound and crackles at maximum volume. ZTE doesn't bundle a headset with the Nubia Z9 Mini but we used our reference pair of earphones and the sound quality was 
+top notch. While the phone managed to hold on to cellular networks 
+during calls, the sound quality wasn't too great - the voice on our end 
+was very faint. The battery lasted 8 hours and 46 minutes in our video loop test, 
+which is not bad but not great either. VerdictThe Nubia Z9
+ Mini's camera performance left us pleasantly surprised. We would 
+recommend this phone to anyone looking for a great camera in a 
+smartphone that costs less than Rs. 20,000. Do bear in mind that the ZTE
+ still needs to work on a few kinks in the software and that call 
+quality is not up to the mark either. If you are willing to look past 
+those issues, this phone should serve you well. Hopefully an over-the-air update will fix these issues soon. We also liked the 
+camera inside the Micromax Canvas Selfie (Review | Pictures). All said and done,
+ we are glad that phone companies are realising that people looking for phones
+ under Rs. 20,000 want a competent camera and are racing to outdo each other. 
+ZTE Nubia Z9 Mini in pictures
+
+ZTE is among the top five smartphone 
+manufacturers in China. The company entered India last year with 
+powerful devices priced aggressively to take on the competition. 
+However, it didn't rise to much prominence thanks to tough competition from brands like Xiaomi, Asus, and 
+Motorola. We reviewed one of its phones, the ZTE V5 (Review | Pictures), and 
+despite packing powerful hardware, we found that its middling software held it back.
+
+Therefore, we think it is a smart decision 
+for the company to refocus on a more
+ premium brand: Nubia. One of the smartphones in this range is a scaled 
+down version of the flagship Nubia Z9 (which comes in three variants: Classic, Elite and Exclusive). This mid-range smartphone is 
+called the Nubia Z9 Mini and it has a really powerful camera. ZTE
+ has also cleaned up its Android skin and has installed the latest 
+version, Nubia UI 2.8, on the Z9 Mini. Let's find out if ZTE is 
+successful in cleaning up its act. 
+
+Look and feelThe Nubia 
+Z9 Mini doesn't do anything drastic with the standard candybar design but is 
+still a strikingly handsome smartphone. It isn't exactly 
+slim at 8.2mm or lightweight at 147g. However, it feels about the right 
+size for a phone with a 5-inch screen. Our 
+only gripe with the design of the Z9 Mini is that it feels a little 
+uncomfortable to hold because the metal trim running around the edges is raised and creates a ridge, which will dig into your palms.
+
+The Nubia Z9 Mini is predominately
+ black but has small doses of red sprinkled around to 
+distinguish it from the herd. For example, the rear camera is surrounded
+ by a red ring and the three capacitive buttons below the display are 
+backlit in red. Above the display you can find a small slit for the 
+earpiece and a front-facing camera. The power button and the volume 
+rocker sit on the right edge of the phone. The SIM card tray is on the left edge. 
+
+Located on the 
+bottom are the Micro-USB port, speaker and microphone. The 3.5mm 
+audio port and yet another microphone lie on the top. At first glance 
+it looks like the rear is made of glass but in reality it is an 
+extremely glossy and reflective sheet of plastic that can be 
+removed. Removing the rear cover reveals the microSD card slot, but the battery is in-built and cannot be replaced. 
+
+Specifications and softwareZTE decided to go with a 1.5GHz octa-core Qualcomm Snapdragon 615 SoC featuring Adreno 405 graphics for the Nubia Z9 Mini. The phone also has 2GB of RAM and 16GB of 
+storage space. This can be expanded by up to 128GB using a 
+microSD card. Additionally, the Micro-USB port can act as a host for USB
+ devices. 
+
+The Nubia Z9 Mini has a 16-megapixel rear camera with 
+a Sony IMX234 sensor and the front camera can shoot 8-megapixel images. 
+The phone accepts two Nano-SIM cards, one of which can connect to 4G 
+networks even on the 2300MHz band which is used by Airtel. Other 
+connectivity options include Wi-Fi 802.11 a/b/g/n/ac and Bluetooth 4.0.
+ The battery has a rated capacity of 2900mAh. 
+
+The
+ 5-inch IPS LCD screen has a resolution of 1080x1920, which translates 
+to an extremely high pixel density of 441ppi. The screen is crisp, 
+adequately bright and not overtly saturated. It is also protected by 
+Corning's Gorilla Glass 3. However, since it is very reflective the 
+sunlight legibility takes a beating. The viewing angles are fine though.
+
+The
+ phone runs Android 5.0.2 (Lollipop) with the Nubia UI 2.8 skin on top of 
+it. It has a flatter design and default apps have round icons. There is 
+no app drawer and all apps are lined up on the home screens. The 
+first home screen is filled with shortcuts to specific 
+camera modes and you cannot move any other app there. There are touch 
+gestures and smart sensing functions, for example you can double-tap to unlock the phone and flip it over to mute an incoming call. There is also a very laggy split-screen mode
+ that doesn't make sense on a phone of this size. 
+
+The Nubia UI 
+2.8 skin has toned down animations. 
+However, it doesn't feel polished. The camera app crashed each time we 
+switched to the high frame rate video mode. Also, there are places in 
+the menu with serious grammatical errors. Such issues highlight that the
+ software developers haven't paid attention to small details. 
+
+CameraThe
+ Nubia Z9 Mini has one of the most feature-rich camera apps we've used 
+with ample manual controls for the photographer. The Pro mode allows 
+users to play around with ISO, white balance, focus, and the likes. One 
+can also use shutter priority and enhanced depth-of-field detection. The
+ selfie camera has a beauty mode and smile-to-capture function.
+
+(Click for full size)The
+ 16-megapixel rear camera with its Sony IMX234 sensor and fast f/2.0 
+aperture surprised us with its consistently good performance, especially
+ in good lighting conditions. What impressed us most was that the camera could 
+handle even extremely contrasting lighting conditions with relative ease. 
+The details in our daylight samples were really good. We didn't detect 
+any noise, chromatic aberration or barrel distortion either. The colours
+ were adequately saturated. The HDR mode does a decent job of 
+improving dynamic range, although there are very few situations in which
+one would actually need to use it. 
+
+(Click for full size)Auto-white balance in 
+low light was completely off but the general performance was pretty 
+decent. The camera works in such a way that it 
+pumps up the noise levels but maintains the details. We prefer this to having the
+details softened. The 8-megapixel front camera is really good for 
+selfies and the details it captures will definitely not disappoint you. 
+The 1080p video captured by the primary camera was average and 
+not a patch on the still image performance of the camera. Overall, we 
+think the Nubia Z9 Mini has one of the better cameras in a smartphone 
+under Rs. 20,000.
+
+(Click for full size)PerformanceIn our time with the phone, we
+ didn't notice any stutter during daily usage. We mostly had a smooth 
+experience. The phone however did get noticeably hot when we ran any processor 
+intensive task such as playing games and editing photos. Thankfully, it 
+doesn't get unbearable. 
+
+The AnTuTu and Quadrant benchmark 
+scores of 31,973 and 16,600 respectively were slightly on the higher 
+side when compared to other phones based on the same SoC. In GFXbench and 
+3DMark Ice Storm, the phone scored 14.7fps and 7,663 points 
+respectively. The phone also managed to play our sample videos in 
+different formats, including our 40Mbps high bit-rate one, without any 
+issues. 
+
+The loudspeaker outputs tinny sound and crackles at maximum volume. ZTE doesn't bundle a headset with the Nubia Z9 Mini but we used our reference pair of earphones and the sound quality was 
+top notch. While the phone managed to hold on to cellular networks 
+during calls, the sound quality wasn't too great - the voice on our end 
+was very faint. The battery lasted 8 hours and 46 minutes in our video loop test, 
+which is not bad but not great either. 
+
+VerdictThe Nubia Z9
+ Mini's camera performance left us pleasantly surprised. We would 
+recommend this phone to anyone looking for a great camera in a 
+smartphone that costs less than Rs. 20,000. Do bear in mind that the ZTE
+ still needs to work on a few kinks in the software and that call 
+quality is not up to the mark either. If you are willing to look past 
+those issues, this phone should serve you well. Hopefully an over-the-air update will fix these issues soon. 
+
+We also liked the 
+camera inside the Micromax Canvas Selfie (Review | Pictures). All said and done,
+ we are glad that phone companies are realising that people looking for phones
+ under Rs. 20,000 want a competent camera and are racing to outdo each other. 
+

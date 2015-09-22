@@ -1,0 +1,314 @@
+Xiaomi Mi 4 Review: Applying the Same Formula in New Places 
+
+After cementing itself in the sub-Rs. 10,000 segment with a number of
+ phone launches, Xiaomi seems ready to take a leap. Its latest phone, 
+the Mi 4, will be its most expensive yet - by quite a margin. Buyers 
+have been lining up faithfully every week in hopes of snagging one of a 
+very limited supply of phones, often without ever having seen or felt 
+one, but that fervour has been based on the fact that prices were 
+shockingly low. The big question now is whether Xiaomi's brand value
+ will carry over to a device that costs over twice as much as the Redmi 
+Note and thrice as much as the Redmi 1S.The highly regarded 
+Xiaomi Mi 3 (Review | Photos) is not available anymore, but the Mi 4 is more of an upgrade
+ than a replacement. It comes to India many months after its launch back
+ home in China, though we can't really call it dated given its top-tier 
+specifications. Let's see how the Xiaomi Mi 4 stacks up against its 
+competition, and whether getting one will be worth all the trouble flash
+ sales involve.Look and feelThe Xiaomi Mi 4 doesn't look 
+anything like the Mi 3 did. It has a far more traditional shape, and 
+borrows heavily from both Apple and Samsung's design languages. The 
+screen dominates the front, with very little space wasted around it. The
+ area above the screen is rather crowded, with a shiny silver Mi logo 
+and sensor window on one side of the earpiece, with the front-facing 
+camera on the other. The capacitive navigation buttons on the bottom 
+have white backlighting, and a tiny status LED is hidden beneath them - 
+so much so that you'd miss it if you weren't specifically looking for 
+it.The sides of the Mi 4 are flat, and a shiny stainless steel 
+rim runs around the entire phone. It looks a lot like Apple's iPhone 5 
+design, but also incorporates Samsung's current antenna cutout style. 
+The rim protrudes a little and you can feel it scratching your ear when 
+you hold up this phone to talk. The rear is not removable and so 
+the battery isn't accessible. There's a slot on the left for a Micro-SIM
+ card, but the microSD slot has been sacrificed for the sake of design. 
+The power button on the right is below the volume rocker, making it a 
+bit too low to be reached comfortably. The 3.5mm headset socket is on 
+top, with an Infrared LED next to it. On the bottom, there's a speaker 
+grille and the Micro-USB port, which, like on all other Xiaomi phones, 
+is confusingly rectangular in shape.The camera and flash on the 
+rear are shaped and placed much like Samsung does on its current models.
+ The white plastic has a subtle pattern, which is again a familiar 
+Samsung touch. There's another shiny Mi logo lower down.  The 
+combination of milky white plastic and shiny metal isn't especially 
+appealing, and this is Xiaomi's first phone in India that doesn't look a
+ lot more expensive than it is. Notably, the specifications do not 
+mention Gorilla Glass or any other structural reinforcement. That said, 
+this is a rather hefty phone and its build quality does seem solid.Specifications and softwareXiaomi's
+ entire identity is based around stuffing high-end specifications into 
+phones with low-end prices, and the Mi 4 is no exception. There's a 
+Qualcomm Snapdragon 801 with four CPU cores running at 2.5GHz and an 
+Adreno 330 GPU. There is also a very generous 3GB of RAM. The model 
+currently available in India has 16GB of storage space and no microSD 
+slot - a 64GB model might come in later, though the price difference is 
+unknown.The screen is a 5-inch full-HD 1080x1920-pixel IPS panel -
+ thankfully not too large. The battery comes in at 3,080mAh, and the 
+front and rear cameras have 13-megapixel and 8-megapixel Sony sensors 
+respectively. You can capture 4K videos at up to 30fps with the rear 
+camera. Wi-Fi a/b/g/n/ac and Bluetooth 4.0 are complemented by Infrared 
+and A-GPS. Our review unit came running Xiaomi's MIUI 6 interface
+ on top of Android 4.4.4. It looks great on the high-resolution screen 
+but definitely has its quirks. Most importantly, it doesn't have a 
+separate homescreen and app drawer - while some prefer the simplicity, 
+others would much rather be able to organise their widgets and app 
+icons. The icons are all custom, and text is crisp, but on the smaller 
+side. Several things have been customised, which are not 
+necessarily improvements. Options in the Settings app have been somewhat
+ reorganised, and it takes an extra step to get to common things such as
+ the display and battery sections. The battery indicator doesn't clearly
+ show when the phone is or isn't charging. The camera shortcut on the 
+lockscreen disappears off the right edge but to launch it you need to 
+swipe left. The quick shortcuts panel in the notifications shade isn't 
+too well designed or easy to get to. There are also iOS-inspired 
+flourishes all around, such as red notification badges on icons, the 
+appearance of folders, and the task switcher. Xiaomi offers a 
+huge selection of themes including ones with Indian imagery. You can 
+change the system font, and there are quite a few practical modern 
+typefaces to choose from. You can also change the behaviour of the 
+notification LED. Xiaomi has integrated audio EQ settings customised for
+ different types of earphones including its own Piston headset.Fleksy
+ and Swiftkey come preinstalled. There's also the Facebook app, WPS 
+office, and a Security app that offers an overview of data usage, 
+battery performance and app permissions, and lets you block contacts 
+too. Hidden away at the bottom of a "Tools" folder is the Mi Remote app that lets you control appliances using the Infrared LED. Only TVs and set-top boxes are supported at the moment, and an Internet connection is required for setup. It worked with a Samsung TV, but Indian set-top box brands weren't even listed as options. The app has a very iOS 7-inspired look, down to the animations which look like the iOS task switcher.PerformanceWhile there's a lot of powerful hardware 
+under the hood, one thing that frustrated us was MIUI's slow animations.
+ It felt as though simple things such as opening a folder or switching 
+apps took way too long. Apps themselves ran very snappily and we had no 
+problems there. Interestingly, the task switcher showed only 1.8GB of 
+RAM available out of the device's 3GB, even when no apps were running in
+ the background. Benchmark test results were predictably high. 
+Xiaomi has incorporated a "Performance mode" which can be found in the 
+settings, but a dialog popped up each time we launched a benchmark app 
+asking if we wanted to switch out of "Balanced mode". For the purposes 
+of testing, we stuck to the default Balanced mode.AnTuTu and 
+Quadrant reported scores of 32,264 and 15,344 respectively, which are 
+both pretty good but not as good as those of the marginally more 
+expensive OnePlus One (Review | Photos), or for that matter, the equivalently priced 
+Lenovo Vibe X2 (Review | Photos) with its octa-core MediaTek MT6595M SoC. Graphics scores 
+were also pretty good, with 28fps in GFXBench and 14,585 points in 
+3DMark Ice Storm Unlimited. Video samples played without any 
+problem. Thankfully, the screen isn't too reflective and looks great 
+even in sunlight. Sound through the bottom-firing speaker is loud, but 
+thin and scratchy. We found that the rear and the right edge got a bit 
+warm when we ran tests or played games for a while. The battery lasted a
+ respectable 10 hours, 4 minutes in our video loop test.The Mi 
+3's camera was one of its less appealing features, but things are 
+definitely looking better with the Mi 4. Most of the photos we managed 
+to take in daylight came out very well, with accurate colouring and 
+subtle details intact. Low light performance was weak, though, and 
+sharpness definitely suffered as a result of longer exposure time. It 
+took two or three attempts to get a great shot at night. Videos are 
+taken at 720p by default.(Click to see full size)The camera app has several neat features
+ including optional manual controls for ISO, exposure time, white 
+balance and ISO. You can change the metering mode, image and video 
+quality, and frame aspect ratio. There's also a neat Refocus mode that 
+takes multiple shots (if you hold the phone really steady) and lets you 
+tap to choose which areas should be in focus long after the shots have 
+been taken.(Click to see full size)VerdictThe Xiaomi Mi 4 is a great phone for its
+ price, but it isn't as decisively ahead of the curve as its 
+predecessors have been. It's certainly not perfect, but it will suit 
+most people's needs just fine. Still, the market has somewhat adapted to
+ the Chinese upstart's disruptions, and there are alternatives that 
+offer similar value for money if you feel as though the UI, storage 
+space or looks aren't enough for you. We'd most likely hold off till the
+ 64GB model is launched - it will be interesting to see how that 
+compares to the OnePlus One in terms of pricing.The price tag of 
+Rs. 19,999 is ambitious for Xiaomi but we're sure people will still line
+ up for hours to buy how many ever units are put up for sale now that 
+the company has established its name in India. As has been the case with
+ previous models, there's no telling how many units will be sold and for
+ how long. Hopefully, plans to sell the device through channels other 
+than Flipkart's flash sales will help alleviate the mass frustration 
+that arises from each weekly event.With even more premium devices
+ such as the Mi Note coming in later this year, the Mi 4 will help 
+Xiaomi break away from its ultra-low-price image. Competition is always 
+good for buyers and so we welcome responses from the world's big Android
+ manufacturers.  Xiaomi Mi 4 in pictures
+
+After cementing itself in the sub-Rs. 10,000 segment with a number of
+ phone launches, Xiaomi seems ready to take a leap. Its latest phone, 
+the Mi 4, will be its most expensive yet - by quite a margin. Buyers 
+have been lining up faithfully every week in hopes of snagging one of a 
+very limited supply of phones, often without ever having seen or felt 
+one, but that fervour has been based on the fact that prices were 
+shockingly low. The big question now is whether Xiaomi's brand value
+ will carry over to a device that costs over twice as much as the Redmi 
+Note and thrice as much as the Redmi 1S.
+
+The highly regarded 
+Xiaomi Mi 3 (Review | Photos) is not available anymore, but the Mi 4 is more of an upgrade
+ than a replacement. It comes to India many months after its launch back
+ home in China, though we can't really call it dated given its top-tier 
+specifications. Let's see how the Xiaomi Mi 4 stacks up against its 
+competition, and whether getting one will be worth all the trouble flash
+ sales involve.
+
+Look and feelThe Xiaomi Mi 4 doesn't look 
+anything like the Mi 3 did. It has a far more traditional shape, and 
+borrows heavily from both Apple and Samsung's design languages. The 
+screen dominates the front, with very little space wasted around it. The
+ area above the screen is rather crowded, with a shiny silver Mi logo 
+and sensor window on one side of the earpiece, with the front-facing 
+camera on the other. The capacitive navigation buttons on the bottom 
+have white backlighting, and a tiny status LED is hidden beneath them - 
+so much so that you'd miss it if you weren't specifically looking for 
+it.
+
+The sides of the Mi 4 are flat, and a shiny stainless steel 
+rim runs around the entire phone. It looks a lot like Apple's iPhone 5 
+design, but also incorporates Samsung's current antenna cutout style. 
+The rim protrudes a little and you can feel it scratching your ear when 
+you hold up this phone to talk. 
+
+The rear is not removable and so 
+the battery isn't accessible. There's a slot on the left for a Micro-SIM
+ card, but the microSD slot has been sacrificed for the sake of design. 
+The power button on the right is below the volume rocker, making it a 
+bit too low to be reached comfortably. The 3.5mm headset socket is on 
+top, with an Infrared LED next to it. On the bottom, there's a speaker 
+grille and the Micro-USB port, which, like on all other Xiaomi phones, 
+is confusingly rectangular in shape.
+
+The camera and flash on the 
+rear are shaped and placed much like Samsung does on its current models.
+ The white plastic has a subtle pattern, which is again a familiar 
+Samsung touch. There's another shiny Mi logo lower down.  
+
+The 
+combination of milky white plastic and shiny metal isn't especially 
+appealing, and this is Xiaomi's first phone in India that doesn't look a
+ lot more expensive than it is. Notably, the specifications do not 
+mention Gorilla Glass or any other structural reinforcement. That said, 
+this is a rather hefty phone and its build quality does seem solid.
+
+Specifications and softwareXiaomi's
+ entire identity is based around stuffing high-end specifications into 
+phones with low-end prices, and the Mi 4 is no exception. There's a 
+Qualcomm Snapdragon 801 with four CPU cores running at 2.5GHz and an 
+Adreno 330 GPU. There is also a very generous 3GB of RAM. The model 
+currently available in India has 16GB of storage space and no microSD 
+slot - a 64GB model might come in later, though the price difference is 
+unknown.
+
+The screen is a 5-inch full-HD 1080x1920-pixel IPS panel -
+ thankfully not too large. The battery comes in at 3,080mAh, and the 
+front and rear cameras have 13-megapixel and 8-megapixel Sony sensors 
+respectively. You can capture 4K videos at up to 30fps with the rear 
+camera. Wi-Fi a/b/g/n/ac and Bluetooth 4.0 are complemented by Infrared 
+and A-GPS. 
+
+Our review unit came running Xiaomi's MIUI 6 interface
+ on top of Android 4.4.4. It looks great on the high-resolution screen 
+but definitely has its quirks. Most importantly, it doesn't have a 
+separate homescreen and app drawer - while some prefer the simplicity, 
+others would much rather be able to organise their widgets and app 
+icons. The icons are all custom, and text is crisp, but on the smaller 
+side. 
+
+Several things have been customised, which are not 
+necessarily improvements. Options in the Settings app have been somewhat
+ reorganised, and it takes an extra step to get to common things such as
+ the display and battery sections. The battery indicator doesn't clearly
+ show when the phone is or isn't charging. The camera shortcut on the 
+lockscreen disappears off the right edge but to launch it you need to 
+swipe left. The quick shortcuts panel in the notifications shade isn't 
+too well designed or easy to get to. There are also iOS-inspired 
+flourishes all around, such as red notification badges on icons, the 
+appearance of folders, and the task switcher. 
+
+Xiaomi offers a 
+huge selection of themes including ones with Indian imagery. You can 
+change the system font, and there are quite a few practical modern 
+typefaces to choose from. You can also change the behaviour of the 
+notification LED. Xiaomi has integrated audio EQ settings customised for
+ different types of earphones including its own Piston headset.
+
+Fleksy
+ and Swiftkey come preinstalled. There's also the Facebook app, WPS 
+office, and a Security app that offers an overview of data usage, 
+battery performance and app permissions, and lets you block contacts 
+too. Hidden away at the bottom of a "Tools" folder is the Mi Remote app that lets you control appliances using the Infrared LED. Only TVs and set-top boxes are supported at the moment, and an Internet connection is required for setup. It worked with a Samsung TV, but Indian set-top box brands weren't even listed as options. The app has a very iOS 7-inspired look, down to the animations which look like the iOS task switcher.
+
+PerformanceWhile there's a lot of powerful hardware 
+under the hood, one thing that frustrated us was MIUI's slow animations.
+ It felt as though simple things such as opening a folder or switching 
+apps took way too long. Apps themselves ran very snappily and we had no 
+problems there. Interestingly, the task switcher showed only 1.8GB of 
+RAM available out of the device's 3GB, even when no apps were running in
+ the background. 
+
+Benchmark test results were predictably high. 
+Xiaomi has incorporated a "Performance mode" which can be found in the 
+settings, but a dialog popped up each time we launched a benchmark app 
+asking if we wanted to switch out of "Balanced mode". For the purposes 
+of testing, we stuck to the default Balanced mode.
+
+AnTuTu and 
+Quadrant reported scores of 32,264 and 15,344 respectively, which are 
+both pretty good but not as good as those of the marginally more 
+expensive OnePlus One (Review | Photos), or for that matter, the equivalently priced 
+Lenovo Vibe X2 (Review | Photos) with its octa-core MediaTek MT6595M SoC. Graphics scores 
+were also pretty good, with 28fps in GFXBench and 14,585 points in 
+3DMark Ice Storm Unlimited. 
+
+Video samples played without any 
+problem. Thankfully, the screen isn't too reflective and looks great 
+even in sunlight. Sound through the bottom-firing speaker is loud, but 
+thin and scratchy. We found that the rear and the right edge got a bit 
+warm when we ran tests or played games for a while. The battery lasted a
+ respectable 10 hours, 4 minutes in our video loop test.
+
+The Mi 
+3's camera was one of its less appealing features, but things are 
+definitely looking better with the Mi 4. Most of the photos we managed 
+to take in daylight came out very well, with accurate colouring and 
+subtle details intact. Low light performance was weak, though, and 
+sharpness definitely suffered as a result of longer exposure time. It 
+took two or three attempts to get a great shot at night. Videos are 
+taken at 720p by default.
+
+(Click to see full size)
+
+The camera app has several neat features
+ including optional manual controls for ISO, exposure time, white 
+balance and ISO. You can change the metering mode, image and video 
+quality, and frame aspect ratio. There's also a neat Refocus mode that 
+takes multiple shots (if you hold the phone really steady) and lets you 
+tap to choose which areas should be in focus long after the shots have 
+been taken.
+
+(Click to see full size)
+
+VerdictThe Xiaomi Mi 4 is a great phone for its
+ price, but it isn't as decisively ahead of the curve as its 
+predecessors have been. It's certainly not perfect, but it will suit 
+most people's needs just fine. Still, the market has somewhat adapted to
+ the Chinese upstart's disruptions, and there are alternatives that 
+offer similar value for money if you feel as though the UI, storage 
+space or looks aren't enough for you. We'd most likely hold off till the
+ 64GB model is launched - it will be interesting to see how that 
+compares to the OnePlus One in terms of pricing.
+
+The price tag of 
+Rs. 19,999 is ambitious for Xiaomi but we're sure people will still line
+ up for hours to buy how many ever units are put up for sale now that 
+the company has established its name in India. As has been the case with
+ previous models, there's no telling how many units will be sold and for
+ how long. Hopefully, plans to sell the device through channels other 
+than Flipkart's flash sales will help alleviate the mass frustration 
+that arises from each weekly event.
+
+With even more premium devices
+ such as the Mi Note coming in later this year, the Mi 4 will help 
+Xiaomi break away from its ultra-low-price image. Competition is always 
+good for buyers and so we welcome responses from the world's big Android
+ manufacturers. 
+

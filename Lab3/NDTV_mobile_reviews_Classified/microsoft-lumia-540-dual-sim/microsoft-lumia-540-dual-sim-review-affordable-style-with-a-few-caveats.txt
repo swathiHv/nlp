@@ -1,0 +1,280 @@
+Microsoft Lumia 540 Dual SIM Review: Affordable Style With a Few Caveats
+
+Microsoft's
+ takeover of Nokia's handset business has had the immediate effect of 
+speeding up the refresh rate of Lumia hardware. There more models in the
+ portfolio than ever before and the gaps between launches have shrunk 
+considerably. It makes sense for most of these models to be clustered 
+around lower end of the market since flagship new hardware will be on 
+hold till Windows 10 is launched later this year.The 
+proliferation of models means that customers have far more choices at 
+far more price points. Android dominates the budget market, and for good
+ reason - it is now possible to get tremendous value out of sub-Rs. 
+10,000 Android smartphones in terms of speed, features, camera 
+capabilities and construction quality. That means Microsoft has a major 
+challenge on its hands, and we're happy to see that it's taking things 
+seriously.Look and feelSmartphones these days tend to all 
+look alike, and not many manage to really stand out. The Lumia 540 Dual SIM 
+is one of those few, thanks to its highly unusual translucent rear 
+shell. The unit we got for review was a very attractive electric blue 
+with a slightly darker band around the sides reminiscent of the 
+"dual-shot" layer effect on previous models. The phone is also available
+ in orange or white with the same effect, and matte black for those who 
+would prefer something plainer.Overall, this doesn't look like a 
+budget-segment phone. The material and construction quality are 
+outstanding. The front face is a stealthy black thanks to the use of 
+on-screen buttons. The volume and power buttons are on the right, the 
+Micro-USB port is on the bottom and the headset socket is on top. The 
+camera lens is flush with the rear. The only thing we didn't like about 
+the design was Microsoft's ugly black logotype down the centre of the rear. There isn't much wasted space 
+around the screen, which helps you hold and use it with one hand. The 
+Lumia 540 Dual SIM is light enough that it won't cause fatigue, but you 
+might feel its corners digging into your palm. We were concerned that 
+the high-gloss rear would pick up scratches but that didn't happen in 
+our time with it. On the other hand, we had to keep wiping smudges and 
+fingerprints off.The shell needs a little more effort than usual 
+to come off. You'll see a microSD card slot to the side of the camera 
+module, but the two Micro-SIM slots on the edge of the battery 
+compartment which means taking the battery out each time you need to 
+change them.Microsoft includes a charger with a fixed USB cable 
+in the box, so you'll need your own for data transfers. This 
+cost-cutting move is especially annoying because the phone itself 
+doesn't feel like any cutbacks were made. There's also headset which is 
+fine for voice calls and okay for music. Specifications and softwareThe
+ Microsoft Lumia 540 Dual SIM is defined by its 5-inch 720x1280-pixel 
+screen. This has become fairly standard for budget phones and we have no
+ complaints. The screen is sharp and bright, with decent viewing angles 
+even under direct sunlight.The processor is a low-end Qualcomm 
+Snapdragon 200 with four cores running at 1.2GHz. The 1GB of RAM and 8GB
+ of built-in storage solidify this phone's budget-level positioning. You
+ get Wi-Fi b/g/n, Bluetooth 4.0 and A-GPS. The removable battery seems 
+beefy enough, with a 2,200mAh rating. The rear camera has an 
+8-megapixel sensor and the one in front is a surprisingly decent 
+5-megapixel unit. For some reason entirely beyond our understanding, 
+video capture through the rear camera has been capped at 848x480, which 
+is just a wider version of 640x480 VGA. There's no reason for such a 
+bizarre restriction especially because Lumia phones have so far been 
+associated with high-quality camera capabilities.The Lumia 540 
+Dual SIM comes with Windows Phone 8.1 Update 2 and its promo material 
+clearly states that it will be eligible for an update to Windows 10 upon
+ that version's release later this year. Microsoft has stuffed it to the
+ gills with its own apps, including Skype, Office and OneDrive; all the 
+Windows apps, such as News, Food & Drink, Health & Fitness, 
+Money and Travel; and a whole bunch of apps passed down from Nokia, such
+ as Lumia Camera, Lumia Selfie, Lumia Storyteller, MixRadio and Here 
+Maps. If those weren't enough, there are quite a few third-party ones as
+ well: Ola Cabs, PayTM, BBM, Cleartrip, Facebook, Twitter, Gaana, 
+Foodpanda, Snapdeal and more.As always, we like several of the 
+Windows Phone platform's software features, such as the Sense apps which
+ help you get on to Wi-Fi networks and manage storage; Cortana, the 
+voice assistant; and independent dialler and messaging shortcuts for 
+each SIM. Windows Phone continues to stand out from Android and it will 
+take some getting used to if you're new to it.PerformanceWhile
+ not a speed demon, we found the Lumia 540 Dual SIM adequate for 
+everyday usage. Some apps, such as the camera, did take a few seconds 
+too long to load and some transitions and animations stuttered slightly 
+on occasion. These things took away from the usually slick Windows Phone
+ experience. Benchmark scores were pretty much at par with those 
+of the Microsoft Lumia 532 Dual SIM (Review | Pictures) which we tested not too long ago. 
+The two have similar core specifications so this wasn't surprising. We 
+observed timings of 1259.1ms in SunSpider and 27307.7ms in Mozilla 
+Kraken. AnTuTu for Windows Phone gave us a score of 11,654, while the 
+WPBench result was 227.29.The battery life was decent, at 8 
+hours, 41 minutes in our video loop test - interestingly, this phone 
+lasted just a little less than the Lumia 532 Dual SIM did despite having
+ a larger battery. We put this down to the different screens the two 
+models have. Call quality was great, and we had no trouble with 3G 
+network reception.   Video playback was iffy, with several of our
+ test files refusing to play or stuttering badly. The phone had trouble 
+with 720p files in any format other than AVI, which was surprising. 
+Audio quality was excellent though, with clear, rich reproduction but 
+not always enough volume.We were very pleased with the camera. 
+The app was slow to load but focusing was quick and easy. Shots taken in
+ daylight came out crisp and clear, with vibrant colours and very little
+ loss of detail even in distant objects. The camera also dealt well with
+ areas in the shade, and we happy with how colours and textures came 
+out. Even at night, the camera handled things accurately. Focusing was 
+slow and objects in motion came out blurry more often than not, but 
+noise was always under control and colours were well defined. Exposures 
+were handled well even in frames with a bright source of light and other
+ areas in the shadows. The front-facing camera wasn't as impressive but 
+should do for casual shots and video chatting.Pro mode in the 
+Lumia Camera app lets you play with white balance, manual focus, ISO, 
+shutter speed and exposure compensation. The great sensor and optics 
+make it all the more disappointing that Microsoft hobbled this phone's 
+video recording capabilities.   VerdictThe new Microsoft 
+Lumia Dual SIM feels like a definite step up from the Lumia 532 Dual SIM
+ in terms of its appearance and display. It just feels better to hold 
+and use, and yes, even to show off. Internally the two are much the same
+ and so you aren't getting any major performance benefits even though 
+the price is about 50 percent higher.Even so, most people would 
+choose the Lumia 540 Dual-SIM when shown both options side by side. If 
+money isn't your primary concern, you'll definitely feel better about 
+owning this phone rather than its predecessor. With that said, we
+ still aren't happy with some of Microsoft's choices. Android phones 
+such as the Xiaomi Redmi 2 (Review | Pictures), Motorola Moto E (Gen 2) (Review | Pictures) and Lenovo A6000 
+Plus (Review | Pictures) sell for less and offer better capabilities such as at least 720p 
+video recording. While none of them might have the Lumia 540 Dual SIM's 
+style, you'd be less likely to feel buyers' remorse after a few months.Pick
+ up the Lumia 540 Dual SIM if you value style above all else and want to
+ stand out in a crowd. If utility is your main concern but you still 
+want Windows Phone, save some money with the Lumia 532 Dual SIM. If you 
+want better features and a bit more power, you have plenty of options on
+ the Android side of the fence. 
+
+The 
+proliferation of models means that customers have far more choices at 
+far more price points. Android dominates the budget market, and for good
+ reason - it is now possible to get tremendous value out of sub-Rs. 
+10,000 Android smartphones in terms of speed, features, camera 
+capabilities and construction quality. That means Microsoft has a major 
+challenge on its hands, and we're happy to see that it's taking things 
+seriously.
+
+Look and feelSmartphones these days tend to all 
+look alike, and not many manage to really stand out. The Lumia 540 Dual SIM 
+is one of those few, thanks to its highly unusual translucent rear 
+shell. The unit we got for review was a very attractive electric blue 
+with a slightly darker band around the sides reminiscent of the 
+"dual-shot" layer effect on previous models. The phone is also available
+ in orange or white with the same effect, and matte black for those who 
+would prefer something plainer.
+
+Overall, this doesn't look like a 
+budget-segment phone. The material and construction quality are 
+outstanding. The front face is a stealthy black thanks to the use of 
+on-screen buttons. The volume and power buttons are on the right, the 
+Micro-USB port is on the bottom and the headset socket is on top. The 
+camera lens is flush with the rear. The only thing we didn't like about 
+the design was Microsoft's ugly black logotype down the centre of the rear. 
+
+There isn't much wasted space 
+around the screen, which helps you hold and use it with one hand. The 
+Lumia 540 Dual SIM is light enough that it won't cause fatigue, but you 
+might feel its corners digging into your palm. We were concerned that 
+the high-gloss rear would pick up scratches but that didn't happen in 
+our time with it. On the other hand, we had to keep wiping smudges and 
+fingerprints off.
+
+The shell needs a little more effort than usual 
+to come off. You'll see a microSD card slot to the side of the camera 
+module, but the two Micro-SIM slots on the edge of the battery 
+compartment which means taking the battery out each time you need to 
+change them.
+
+Microsoft includes a charger with a fixed USB cable 
+in the box, so you'll need your own for data transfers. This 
+cost-cutting move is especially annoying because the phone itself 
+doesn't feel like any cutbacks were made. There's also headset which is 
+fine for voice calls and okay for music. 
+
+Specifications and softwareThe
+ Microsoft Lumia 540 Dual SIM is defined by its 5-inch 720x1280-pixel 
+screen. This has become fairly standard for budget phones and we have no
+ complaints. The screen is sharp and bright, with decent viewing angles 
+even under direct sunlight.
+
+The processor is a low-end Qualcomm 
+Snapdragon 200 with four cores running at 1.2GHz. The 1GB of RAM and 8GB
+ of built-in storage solidify this phone's budget-level positioning. You
+ get Wi-Fi b/g/n, Bluetooth 4.0 and A-GPS. The removable battery seems 
+beefy enough, with a 2,200mAh rating. 
+
+The rear camera has an 
+8-megapixel sensor and the one in front is a surprisingly decent 
+5-megapixel unit. For some reason entirely beyond our understanding, 
+video capture through the rear camera has been capped at 848x480, which 
+is just a wider version of 640x480 VGA. There's no reason for such a 
+bizarre restriction especially because Lumia phones have so far been 
+associated with high-quality camera capabilities.
+
+The Lumia 540 
+Dual SIM comes with Windows Phone 8.1 Update 2 and its promo material 
+clearly states that it will be eligible for an update to Windows 10 upon
+ that version's release later this year. Microsoft has stuffed it to the
+ gills with its own apps, including Skype, Office and OneDrive; all the 
+Windows apps, such as News, Food & Drink, Health & Fitness, 
+Money and Travel; and a whole bunch of apps passed down from Nokia, such
+ as Lumia Camera, Lumia Selfie, Lumia Storyteller, MixRadio and Here 
+Maps. If those weren't enough, there are quite a few third-party ones as
+ well: Ola Cabs, PayTM, BBM, Cleartrip, Facebook, Twitter, Gaana, 
+Foodpanda, Snapdeal and more.
+
+As always, we like several of the 
+Windows Phone platform's software features, such as the Sense apps which
+ help you get on to Wi-Fi networks and manage storage; Cortana, the 
+voice assistant; and independent dialler and messaging shortcuts for 
+each SIM. Windows Phone continues to stand out from Android and it will 
+take some getting used to if you're new to it.
+
+PerformanceWhile
+ not a speed demon, we found the Lumia 540 Dual SIM adequate for 
+everyday usage. Some apps, such as the camera, did take a few seconds 
+too long to load and some transitions and animations stuttered slightly 
+on occasion. These things took away from the usually slick Windows Phone
+ experience. 
+
+Benchmark scores were pretty much at par with those 
+of the Microsoft Lumia 532 Dual SIM (Review | Pictures) which we tested not too long ago. 
+The two have similar core specifications so this wasn't surprising. We 
+observed timings of 1259.1ms in SunSpider and 27307.7ms in Mozilla 
+Kraken. AnTuTu for Windows Phone gave us a score of 11,654, while the 
+WPBench result was 227.29.
+
+The battery life was decent, at 8 
+hours, 41 minutes in our video loop test - interestingly, this phone 
+lasted just a little less than the Lumia 532 Dual SIM did despite having
+ a larger battery. We put this down to the different screens the two 
+models have. Call quality was great, and we had no trouble with 3G 
+network reception.   
+
+Video playback was iffy, with several of our
+ test files refusing to play or stuttering badly. The phone had trouble 
+with 720p files in any format other than AVI, which was surprising. 
+Audio quality was excellent though, with clear, rich reproduction but 
+not always enough volume.
+
+We were very pleased with the camera. 
+The app was slow to load but focusing was quick and easy. Shots taken in
+ daylight came out crisp and clear, with vibrant colours and very little
+ loss of detail even in distant objects. The camera also dealt well with
+ areas in the shade, and we happy with how colours and textures came 
+out. Even at night, the camera handled things accurately. Focusing was 
+slow and objects in motion came out blurry more often than not, but 
+noise was always under control and colours were well defined. Exposures 
+were handled well even in frames with a bright source of light and other
+ areas in the shadows. The front-facing camera wasn't as impressive but 
+should do for casual shots and video chatting.
+
+Pro mode in the 
+Lumia Camera app lets you play with white balance, manual focus, ISO, 
+shutter speed and exposure compensation. The great sensor and optics 
+make it all the more disappointing that Microsoft hobbled this phone's 
+video recording capabilities.   
+
+VerdictThe new Microsoft 
+Lumia Dual SIM feels like a definite step up from the Lumia 532 Dual SIM
+ in terms of its appearance and display. It just feels better to hold 
+and use, and yes, even to show off. Internally the two are much the same
+ and so you aren't getting any major performance benefits even though 
+the price is about 50 percent higher.
+
+Even so, most people would 
+choose the Lumia 540 Dual-SIM when shown both options side by side. If 
+money isn't your primary concern, you'll definitely feel better about 
+owning this phone rather than its predecessor. 
+
+With that said, we
+ still aren't happy with some of Microsoft's choices. Android phones 
+such as the Xiaomi Redmi 2 (Review | Pictures), Motorola Moto E (Gen 2) (Review | Pictures) and Lenovo A6000 
+Plus (Review | Pictures) sell for less and offer better capabilities such as at least 720p 
+video recording. While none of them might have the Lumia 540 Dual SIM's 
+style, you'd be less likely to feel buyers' remorse after a few months.
+
+Pick
+ up the Lumia 540 Dual SIM if you value style above all else and want to
+ stand out in a crowd. If utility is your main concern but you still 
+want Windows Phone, save some money with the Lumia 532 Dual SIM. If you 
+want better features and a bit more power, you have plenty of options on
+ the Android side of the fence.
+

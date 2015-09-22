@@ -1,0 +1,194 @@
+Spice Stellar 520 Review: A Colourful Departure
+
+Not
+ willing to lose out on the opportunity in the sub-Rs. 10,000 price range, Spice Mobiles launched the Spice Stellar 
+520 in June. It is available in two colour options, has decent specifications (on paper at least), and runs Android 4.4.2 (KitKat) 
+out-of-the-box. We put the phone through a battery of tests to find out 
+if it can distinguish itself from the strong competition in this price 
+range. Look and feelIt is evident that Spice is trying to 
+attract the youth here since the Stellar 520 is available only in 
+two bright colours: red and yellow. There is no black or even a white option. 
+We got the red one for review. It is glossy and attracts attention, as well as fingerprints. At 8.75mm, the phone is not exactly slim but it
+ does feel comfortable. However, it has a rather slippery 
+surface and we had to be careful while using it. Removing
+ the plastic rear cover is very simple. The build of the rear cover 
+doesn't inspire confidence and overall we think that the phone won't be 
+able to handle drops. On removing the rear cover, one can find two slots
+ for SIM cards, a slot for the microSD card and a huge area just for the
+ battery.The front of the phone is dominated by a 5-inch OGS screen, and there are fairly wide bezels on either side of the display. Above it are the front-facing camera and the 
+earpiece. There are three backlit capacitive buttons below it. The backlighting is even, thankfully. The power/wake button 
+and the volume rocker sit on the right edge, and are comfortable to use.
+ The primary camera and a small loudspeaker grill are on the rear of the
+ Spice Stellar 520.Specifications, software and cameraThe 
+SoC under the hood is a Mediatek MT6582 
+quad-core processor clocked at 1.3GHz with a Mali-400 GPU. There is 1GB 
+of RAM for applications and services. Spice provides 4GB of internal storage
+ space, of which only a paltry 894MB is available for users. In case one
+ needs more space, they can use a microSD card. The phone 
+supports microSD cards up to 32GB.There is an 8-megapixel rear 
+camera with autofocus and flash. It can shoot 1080p videos at 30fps. The front camera on the other hand can shoot images at 
+2-megapixel resolution. With respect to connectivity, this phone can connect to 
+850/900/1800/1900/2100 MHz GSM bands. It can also connect to Wi-Fi
+ b/g/n networks, and Bluetooth 4.0 accessories. The 5-inch IPS panel has a resolution of 720x1280, which is rare for phones 
+in this price range. While colours are slightly oversaturated, text looks crisp thanks to the pixel density of 294ppi. The viewing angles 
+are surprisingly good and the sunlight legibility is decent too. Except
+ for the colourful square icons with rounded corners, the Android 
+4.4.2 KitKat implementation on the Spice Stellar 520 doesn't feel too 
+different from the stock experience. One particular feature 
+did annoy us a lot: by default, the screen locks itself as soon as the 
+front camera detects any hand movement. This feature is extremely 
+sensitive and we involuntarily triggered it every single time
+ we pulled down the notifications shade. Thankfully, buried somewhere 
+deep down inside the settings, we managed to turn it off. This aside, the software is mostly robust. There are a few 
+third-party apps such as OLX, GetIt, Spice Gang, Quikr and WeChat, some of which are useful. Spice also has its own cloud storage service and gives users 2GB of storage.(Click to see full size)For some odd reason, 
+there are two stock camera apps - Gingerbread and KitKat. We like the 
+KitKat camera app and most users will too. There are not too many manual
+ controls but it is fuss free and fairly easy to use. There is an HDR 
+option for improving high-contrast scenes. The performance of the 
+8-megapixel camera is hit-or-miss because focussing on subjects is quite a task. When we did manage to focus
+ properly, the captured image looked good, with natural colour 
+reproduction. There is noise in daylight shots but it is visible only 
+when zoomed in. In low-light, the camera on this phone is unusable. The 
+front camera is good enough for a selfie once in a while but otherwise 
+it is mostly useless. We captured a 1080p video clip but it was a little choppy
+ at intervals and we don't think users would want to depend on it on a regular 
+basis. PerformanceWe played around with the phone a lot 
+and came to the conclusion that it is really smooth to use. Looking 
+past the specifications list, in daily usage, the phone doesn't lag at 
+all. The Mali-400 GPU, however, is not sufficient to run high-end games at
+ the native 720x1280 resolution. This is evident in our benchmark 
+results as well. In GFXbench and 3D Mark Ice Storm, the phone 
+scored 7fps and 3,139 points respectively, which are both fairly low. For 
+comparison, even the lower priced Moto E performs better. We ran AnTuTu 
+and Quadrant as well. In these tests, the Spice Stellar 520 scored 
+16,246 and 7,238 respectively. We played our set of test videos on the phone and it managed all of them. It even played our heavy
+40mbps 1080p video without  any problem. The bundled earphones
+ are fairly decent, and coupled with the video performance and 
+good screen, this phone looks like a great solution for watching movies. The 
+loudspeaker is underwhelming, though. Call quality is good. In 
+our battery test, the phone managed to last 5 hours and 28 minutes, 
+which seems to be fairly common in this price range. VerdictThe
+ Spice Stellar 520's decent overall performance, good media playback 
+abilities and good, big screen justify the Rs. 8,999 price tag (it is 
+available slightly cheaper online). The Xiaomi Redmi 1S, Moto E 
+and Micromax Unite 2 are other great smartphones in this price band. In 
+fact, all of them are priced lower than the Spice Stellar 520. There
+ are a few things one has to consider before making the purchase 
+decision. The Moto E and the Xiaomi Redmi 1S (Review | Pictures) have smaller screens 
+compared to the Spice Stellar 520, while the Micromax Unite 2 (Review | Pictures) has a 
+lower resolution screen. Software updates will be prompt on the Moto
+ E (Review | Pictures). Finally, the Xiaomi Redmi 1S and Micromax Unite 2 have better overall 
+performance. The Spice Stellar 520 is great for viewing videos and is 
+also available in funky colour options. 
+Eventually, it all boils down to what you want to do with your phone.Spice Stellar 520 in pictures
+
+
+Not
+ willing to lose out on the opportunity in the sub-Rs. 10,000 price range, Spice Mobiles launched the Spice Stellar 
+520 in June. It is available in two colour options, has decent specifications (on paper at least), and runs Android 4.4.2 (KitKat) 
+out-of-the-box. We put the phone through a battery of tests to find out 
+if it can distinguish itself from the strong competition in this price 
+range. 
+
+Look and feelIt is evident that Spice is trying to 
+attract the youth here since the Stellar 520 is available only in 
+two bright colours: red and yellow. There is no black or even a white option. 
+We got the red one for review. It is glossy and attracts attention, as well as fingerprints. At 8.75mm, the phone is not exactly slim but it
+ does feel comfortable. However, it has a rather slippery 
+surface and we had to be careful while using it. 
+
+Removing
+ the plastic rear cover is very simple. The build of the rear cover 
+doesn't inspire confidence and overall we think that the phone won't be 
+able to handle drops. On removing the rear cover, one can find two slots
+ for SIM cards, a slot for the microSD card and a huge area just for the
+ battery.
+
+The front of the phone is dominated by a 5-inch OGS screen, and there are fairly wide bezels on either side of the display. Above it are the front-facing camera and the 
+earpiece. There are three backlit capacitive buttons below it. The backlighting is even, thankfully. The power/wake button 
+and the volume rocker sit on the right edge, and are comfortable to use.
+ The primary camera and a small loudspeaker grill are on the rear of the
+ Spice Stellar 520.Specifications, software and cameraThe 
+SoC under the hood is a Mediatek MT6582 
+quad-core processor clocked at 1.3GHz with a Mali-400 GPU. There is 1GB 
+of RAM for applications and services. Spice provides 4GB of internal storage
+ space, of which only a paltry 894MB is available for users. In case one
+ needs more space, they can use a microSD card. The phone 
+supports microSD cards up to 32GB.
+
+There is an 8-megapixel rear 
+camera with autofocus and flash. It can shoot 1080p videos at 30fps. The front camera on the other hand can shoot images at 
+2-megapixel resolution. With respect to connectivity, this phone can connect to 
+850/900/1800/1900/2100 MHz GSM bands. It can also connect to Wi-Fi
+ b/g/n networks, and Bluetooth 4.0 accessories. 
+
+The 5-inch IPS panel has a resolution of 720x1280, which is rare for phones 
+in this price range. While colours are slightly oversaturated, text looks crisp thanks to the pixel density of 294ppi. The viewing angles 
+are surprisingly good and the sunlight legibility is decent too. 
+
+Except
+ for the colourful square icons with rounded corners, the Android 
+4.4.2 KitKat implementation on the Spice Stellar 520 doesn't feel too 
+different from the stock experience. One particular feature 
+did annoy us a lot: by default, the screen locks itself as soon as the 
+front camera detects any hand movement. This feature is extremely 
+sensitive and we involuntarily triggered it every single time
+ we pulled down the notifications shade. Thankfully, buried somewhere 
+deep down inside the settings, we managed to turn it off. This aside, the software is mostly robust. There are a few 
+third-party apps such as OLX, GetIt, Spice Gang, Quikr and WeChat, some of which are useful. Spice also has its own cloud storage service and gives users 2GB of storage.
+
+(Click to see full size)For some odd reason, 
+there are two stock camera apps - Gingerbread and KitKat. We like the 
+KitKat camera app and most users will too. There are not too many manual
+ controls but it is fuss free and fairly easy to use. There is an HDR 
+option for improving high-contrast scenes. The performance of the 
+8-megapixel camera is hit-or-miss because focussing on subjects is quite a task. When we did manage to focus
+ properly, the captured image looked good, with natural colour 
+reproduction. 
+
+There is noise in daylight shots but it is visible only 
+when zoomed in. In low-light, the camera on this phone is unusable. The 
+front camera is good enough for a selfie once in a while but otherwise 
+it is mostly useless. We captured a 1080p video clip but it was a little choppy
+ at intervals and we don't think users would want to depend on it on a regular 
+basis. 
+
+PerformanceWe played around with the phone a lot 
+and came to the conclusion that it is really smooth to use. Looking 
+past the specifications list, in daily usage, the phone doesn't lag at 
+all. The Mali-400 GPU, however, is not sufficient to run high-end games at
+ the native 720x1280 resolution. This is evident in our benchmark 
+results as well. In GFXbench and 3D Mark Ice Storm, the phone 
+scored 7fps and 3,139 points respectively, which are both fairly low. For 
+comparison, even the lower priced Moto E performs better. We ran AnTuTu 
+and Quadrant as well. In these tests, the Spice Stellar 520 scored 
+16,246 and 7,238 respectively. 
+
+We played our set of test videos on the phone and it managed all of them. It even played our heavy
+40mbps 1080p video without  any problem. The bundled earphones
+ are fairly decent, and coupled with the video performance and 
+good screen, this phone looks like a great solution for watching movies. The 
+loudspeaker is underwhelming, though. 
+
+Call quality is good. In 
+our battery test, the phone managed to last 5 hours and 28 minutes, 
+which seems to be fairly common in this price range. 
+
+VerdictThe
+ Spice Stellar 520's decent overall performance, good media playback 
+abilities and good, big screen justify the Rs. 8,999 price tag (it is 
+available slightly cheaper online). The Xiaomi Redmi 1S, Moto E 
+and Micromax Unite 2 are other great smartphones in this price band. In 
+fact, all of them are priced lower than the Spice Stellar 520. 
+
+There
+ are a few things one has to consider before making the purchase 
+decision. The Moto E and the Xiaomi Redmi 1S (Review | Pictures) have smaller screens 
+compared to the Spice Stellar 520, while the Micromax Unite 2 (Review | Pictures) has a 
+lower resolution screen. Software updates will be prompt on the Moto
+ E (Review | Pictures). Finally, the Xiaomi Redmi 1S and Micromax Unite 2 have better overall 
+performance. The Spice Stellar 520 is great for viewing videos and is 
+also available in funky colour options. 
+
+Eventually, it all boils down to what you want to do with your phone.
+

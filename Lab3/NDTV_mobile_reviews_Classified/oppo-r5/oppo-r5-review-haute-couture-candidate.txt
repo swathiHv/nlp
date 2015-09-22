@@ -1,0 +1,343 @@
+Oppo R5 Review: Haute Couture Candidate
+
+Haute
+ Couture is a French phrase used to refer to the practice of creating 
+high fashion, custom-fitted garments which are mostly suited for models 
+walking the ramps in cities like Paris, London or Milan. With
+ smartphone manufacturers across the world racing to launch models that can turn heads, we might be looking at a new wave of phones that
+ can be elevated to the level of haute couture. From painstaking manufacturing processes to expensive materials, the major brands are trying to outdo each other. We can be assured that this is a
+ thing when an 800-pound gorilla like Samsung, which has resisted design
+ innovation like the plague, starts experimenting with premium materials - thus was born
+ the Samsung Galaxy Alpha (Review | Pictures). The Oppo R5 is a device that fits right into this new wave of smartphones. The company has focussed on engineering a slim device that creates an identity for 
+itself, using custom materials 
+and hand-polishing the R5. Or, so it claims. Is the Oppo R5 ready to walk the ramp in the company of lookers such as the HTC One (M8) (Review | 
+Pictures), Gionee Elife S5.1 (Review | Pictures), and iPhone 6 
+(Review | Pictures)? Does it sacrifice performance for the sake of 
+beauty? We find out. Look and feelWhen the Oppo R5 was 
+announced, the Chinese smartphone major went a little overboard with the
+ marketing spiel about its design. Sample a few 
+statements from their press releases: "Oppo has created a delicate 
+balance between ergonomic practicality and efficiency", "After extensive
+ research, the design team settled upon a frame for the R5 that is as 
+attractive as it is easy to handle", and "hand-polishing the R5 ...
+ brought a personal touch of excellence which can be seen in premium 
+Swiss watches."While these statements do seem like hyperbolic 
+marketing (not surprisingly), Oppo's enthusiasm is actually warranted in the case of R5's 
+design. Notwithstanding its obvious resemblance to the iPhone 5s, the 
+Oppo R5 is an attractive device. The 'micro-arc frame', 
+which is what Oppo calls the stainless steel chassis with chamfered 
+edges, looks rather premium. The company claims it commissioned a 
+customised coating material for the phone's metal backplate, which is thinner than ordinary paints. The 
+smoothness of the glaze on the backplate feels really great. In fact, we'd say that despite the fairly large dimensions of the
+ Oppo R5 - 148.9x74.5mm - it feels comfortable to hold. This is due to a combination of
+ multiple factors including the asymmetrical micro-arc frame, smooth metal backplate, 155g weight and thin borders on either sides of the display. However, the design of the
+ Oppo R5 is not completely bereft of flaws. For one, the camera bump 
+sticks out from the sleek body like a sore thumb. Also, the bump makes 
+the phone top-heavy and as a result it has a tendency to topple over. In a bid to make a smartphone as thin as a few sheets of paper
+ stacked on top of each other, Oppo has eliminated the 3.5mm audio jack 
+which is a staple in all current smartphones. Instead, Oppo provides a
+ Micro-USB to 3.5mm adapter in the box. This is inconvenient 
+because one has to remember to carry the adapter everywhere. 
+The Micro-USB port and a microphone for phone calls are on the bottom. Like many other metal phones we've tested, there are two 
+plastic strips on the top and bottom edges for cellular and Wi-Fi reception. The left edge of the phone houses the 
+power button and the volume rocker, which have fairly good tactile 
+feedback. Oppo has lined up the earpiece, two sensors and the front 
+camera above the phone's screen. The 5.2-inch screen takes 
+up most of the front and has Corning's Gorilla Glass 3 for 
+protection from scratches. This AMOLED screen outputs visuals at a 
+resolution of 1080x1920 pixels. The colour saturation is bearable but 
+the high contrast ratio is a letdown. Also, there is a distinctive black border around the display which is quite distracting. The viewing angles are 
+pretty good and sunlight legibility is also serviceable. The Oppo R5
+ does not have the best 1080p display on a phone, but it gets its job done. Specifications and softwareThe
+ Oppo R5 packs a Qualcomm Snapdragon 615 SoC inside. This SoC supports 
+64-bit applications and has four 1.5 GHz Cortex-A53 cores plus four 1.0 GHz Cortex-A53 cores. It also includes an Adreno 405 GPU. The 
+R5 has 16GB of internal storage space of which around 3.91GB is used by 
+the OS. There is no memory card slot for additional storage but 
+the phone supports USB On-the-Go.The
+ phone has a 13-megapixel primary camera with a Sony Exmor IMX214 BSI 
+sensor, which is also used in the OnePlus One. On the front is a 
+5-megapixel shooter with an 88-degree wide angle lens. Both the cameras 
+have an f/2.0 aperture. On the connectivity front, the Oppo R5 includes 
+Wi-Fi a/b/g/n and Bluetooth v4.0. Also, it can connect to LTE on 
+Indian cellular networks.  The R5 runs Android 4.4.2 with Oppo's Color
+ OS skin on top of it. Oppo's take on skinning the Android OS is quite neat, when compared directly with the competition. There is no app drawer, like iOS and the skins other 
+Chinese manufacturers such as Gionee and Xiaomi use. We like the cool 
+music player widget on the first home screen, and the fact that Oppo 
+bundles useful third-party apps with the phone instead of bloatware. 
+NearMeCloud lets you back up contacts and text messages to the 
+cloud; Theme Store allows you to skin the phone according to your 
+preferences; Security Centre has a cornucopia of useful functions such as app
+ encryption, data monitor and power manager; and WeChat is good 
+alternative to the uber-popular Whatsapp.  Oppo provides 
+users with a few more functions than stock Android, to play
+ around with, including Smart Gesture controls and motion control. After 
+tweaking the settings to suit our preferences, we were happily swiping 
+through photographs in the gallery by waving over the screen and 
+using a double-tap to wake the device from standby. CameraThe
+ default camera app on the Oppo R5 is nothing flashy but gets the work 
+done. The simple app has a neat drawer that can be pulled out from the 
+bottom of the screen and there are a ton of "apps", which is what Oppo 
+intends to call the camera modes. Normal, Ultra 
+HD, Slow Shutter and the like are present by default. One can hit the Add App button to find more. We found 
+the Ultra HD, HDR and After Focus apps particularly intriguing. The Ultra HD 
+app is similar to the implementation on the Oppo Find 7, where information from ten images can be extrapolated to create a composite 50-megapixel image which is supposed to be sharper. We noticed that these images take up a lot of 
+space, and that captured details weren't sharp enough to justify using this mode as default.  We loved how Oppo's HDR algorithm did a great job of capturing a wide a dynamic range, and not 
+by just artificially increasing the exposure. After Focus 
+essentially allows users to manipulate the
+ focus of an image after it has been shot. Unfortunately, in our 
+testing process we noticed that it was a case of hit or miss. Sometimes 
+we got really good shots where we could change the focus from the 
+subject to the background without losing the integrity of the 
+blur effect in the shot.(click for full size)By default,
+ the 13-megapixel camera captures some really great images. The colours 
+are natural - not over-saturated or dull. Details are intact even 
+when zoomed in and there is no pixelation. Even 
+the colour temperature is just about right - not too warm or too cold. A
+ minor gripe we have is that the camera has a problem with the exposure 
+settings and as result sometimes we got overblown highlights. Of course,
+ the capable HDR mode can solve this problem without any hassle. Even 
+the low-light performance is pretty decent, with noise levels being low.
+ But the camera is guilty of artificially enhancing the light in some 
+sections where it was really dark. The 5-megapixel front camera 
+can capture some really good selfies with great colour reproduction and 
+details. Also, the 1080p video captured by the primary camera doesn't 
+skip frames and retains details as well. On the other hand, 720p slow motion 
+video captured at 120fps is not a patch on the performance of some of 
+the other cameras we've tested. (click for full size)PerformanceIn our review 
+of the Yu Yureka (Review | Pictures), we found that the Snapdragon 615
+ is a great mid-range chipset. The Yu Yureka scored higher in our tests 
+because it uses a 720p display. So, with the benchmark results of the 
+Oppo R5 we now have a reference point for future phones with 1080p 
+displays and Snapdragon 615 SoC. In AnTuTu 5.5 and Quadrant, the Oppo R5 scored 25,594 and 14,116 respectively. In the 3DMark Ice Storm test the phone scored a more than respectable 
+8,863 points. In day-to-day usage the phone didn't face any hangups or 
+stutter at any point. We were more than happy with the gaming 
+performance as well. However, opening resource-intensive apps caused the
+ upper part of the backplate to become hot immediately. Thankfully, it 
+wasn't unbearable but smartphone companies need to find a solution that 
+works especially if they are going to make anorexic smartphones. The
+ Oppo R5 played all the videos we tried without any hiccups. 
+Despite its slim exterior, the Oppo R5 doesn't compromise on the quality
+ of the speakers. The sound was loud and clear with no distortion at high volumes. 
+The call quality was average at best. We faced a few call drops 
+occasionally and the person on the other end sounded robotic at times. 
+The bundled headset is of the in-ear kind and is a little too 
+heavy on bass sounds, which people might prefer. Unlike
+ another slim smartphone, the Gionee Elife S5.1, which had better-than-average battery performance, the Oppo R5 falters. The R5 lasted only 6 
+hours and 46 minutes in our rigorous battery test. This is average at 
+best and we noticed that the phone lost charge quicker than other phones
+ in standby. Fortunately, the 2,000mAh battery can charge really fast - 
+up to 75 percent in 30 minutes - thanks to the bundled VOOC fast charger
+ Our first brush with this feature was when we reviewed the Oppo Find 7 
+(Review | Pictures), though this time around the charger is smaller. VerdictWhen
+ we reviewed the Gionee Elife S5.1, we were concerned that the race to 
+make the slimmest smartphone was getting slightly out of hand. The Oppo 
+R5 doesn't change that perception but it 
+definitely has a few redeeming features. For one, the phone screams "look at me, I'm attractive" thanks to its gorgeous yet ergonomic 
+design. We liked the fact that despite its slim profile, it is pretty 
+sturdy and the ergonomics are good too. It is not without caveats, 
+though. We don't think the exclusion of a standard 3.5mm jack 
+was a good tradeoff. Also, the 
+heating issue we've come to associate with slim smartphones is present 
+in the Oppo R5 as well. Priced at Rs. 29,990, the Oppo R5 is 
+asking for a premium considering its specs list and overall performance.
+ That said, we'll cut Oppo some slack for this since we can
+ quite clearly see that this phone is built well and was designed to turn heads. If you are looking for performance over style, we'd suggest 
+looking at the Moto X (Gen2) (Review | Pictures) instead, which by 
+itself isn't a bad looking device.
+Oppo R5 in pictures
+
+Haute
+ Couture is a French phrase used to refer to the practice of creating 
+high fashion, custom-fitted garments which are mostly suited for models 
+walking the ramps in cities like Paris, London or Milan. With
+ smartphone manufacturers across the world racing to launch models that can turn heads, we might be looking at a new wave of phones that
+ can be elevated to the level of haute couture. 
+
+From painstaking manufacturing processes to expensive materials, the major brands are trying to outdo each other. We can be assured that this is a
+ thing when an 800-pound gorilla like Samsung, which has resisted design
+ innovation like the plague, starts experimenting with premium materials - thus was born
+ the Samsung Galaxy Alpha (Review | Pictures). 
+
+The Oppo R5 is a device that fits right into this new wave of smartphones. The company has focussed on engineering a slim device that creates an identity for 
+itself, using custom materials 
+and hand-polishing the R5. Or, so it claims. 
+
+Is the Oppo R5 ready to walk the ramp in the company of lookers such as the HTC One (M8) (Review | 
+Pictures), Gionee Elife S5.1 (Review | Pictures), and iPhone 6 
+(Review | Pictures)? Does it sacrifice performance for the sake of 
+beauty? We find out. 
+
+Look and feelWhen the Oppo R5 was 
+announced, the Chinese smartphone major went a little overboard with the
+ marketing spiel about its design. Sample a few 
+statements from their press releases: "Oppo has created a delicate 
+balance between ergonomic practicality and efficiency", "After extensive
+ research, the design team settled upon a frame for the R5 that is as 
+attractive as it is easy to handle", and "hand-polishing the R5 ...
+ brought a personal touch of excellence which can be seen in premium 
+Swiss watches."
+
+While these statements do seem like hyperbolic 
+marketing (not surprisingly), Oppo's enthusiasm is actually warranted in the case of R5's 
+design. Notwithstanding its obvious resemblance to the iPhone 5s, the 
+Oppo R5 is an attractive device. 
+
+The 'micro-arc frame', 
+which is what Oppo calls the stainless steel chassis with chamfered 
+edges, looks rather premium. The company claims it commissioned a 
+customised coating material for the phone's metal backplate, which is thinner than ordinary paints. The 
+smoothness of the glaze on the backplate feels really great. In fact, we'd say that despite the fairly large dimensions of the
+ Oppo R5 - 148.9x74.5mm - it feels comfortable to hold. This is due to a combination of
+ multiple factors including the asymmetrical micro-arc frame, smooth metal backplate, 155g weight and thin borders on either sides of the display. 
+
+However, the design of the
+ Oppo R5 is not completely bereft of flaws. For one, the camera bump 
+sticks out from the sleek body like a sore thumb. Also, the bump makes 
+the phone top-heavy and as a result it has a tendency to topple over. In a bid to make a smartphone as thin as a few sheets of paper
+ stacked on top of each other, Oppo has eliminated the 3.5mm audio jack 
+which is a staple in all current smartphones. Instead, Oppo provides a
+ Micro-USB to 3.5mm adapter in the box. This is inconvenient 
+because one has to remember to carry the adapter everywhere. 
+The Micro-USB port and a microphone for phone calls are on the bottom. 
+
+Like many other metal phones we've tested, there are two 
+plastic strips on the top and bottom edges for cellular and Wi-Fi reception. The left edge of the phone houses the 
+power button and the volume rocker, which have fairly good tactile 
+feedback. Oppo has lined up the earpiece, two sensors and the front 
+camera above the phone's screen. 
+
+The 5.2-inch screen takes 
+up most of the front and has Corning's Gorilla Glass 3 for 
+protection from scratches. This AMOLED screen outputs visuals at a 
+resolution of 1080x1920 pixels. The colour saturation is bearable but 
+the high contrast ratio is a letdown. Also, there is a distinctive black border around the display which is quite distracting. The viewing angles are 
+pretty good and sunlight legibility is also serviceable. The Oppo R5
+ does not have the best 1080p display on a phone, but it gets its job done. 
+
+Specifications and softwareThe
+ Oppo R5 packs a Qualcomm Snapdragon 615 SoC inside. This SoC supports 
+64-bit applications and has four 1.5 GHz Cortex-A53 cores plus four 1.0 GHz Cortex-A53 cores. It also includes an Adreno 405 GPU. The 
+R5 has 16GB of internal storage space of which around 3.91GB is used by 
+the OS. There is no memory card slot for additional storage but 
+the phone supports USB On-the-Go.
+
+The
+ phone has a 13-megapixel primary camera with a Sony Exmor IMX214 BSI 
+sensor, which is also used in the OnePlus One. On the front is a 
+5-megapixel shooter with an 88-degree wide angle lens. Both the cameras 
+have an f/2.0 aperture. On the connectivity front, the Oppo R5 includes 
+Wi-Fi a/b/g/n and Bluetooth v4.0. Also, it can connect to LTE on 
+Indian cellular networks.  
+
+The R5 runs Android 4.4.2 with Oppo's Color
+ OS skin on top of it. Oppo's take on skinning the Android OS is quite neat, when compared directly with the competition. There is no app drawer, like iOS and the skins other 
+Chinese manufacturers such as Gionee and Xiaomi use. We like the cool 
+music player widget on the first home screen, and the fact that Oppo 
+bundles useful third-party apps with the phone instead of bloatware. 
+NearMeCloud lets you back up contacts and text messages to the 
+cloud; Theme Store allows you to skin the phone according to your 
+preferences; Security Centre has a cornucopia of useful functions such as app
+ encryption, data monitor and power manager; and WeChat is good 
+alternative to the uber-popular Whatsapp.  
+
+Oppo provides 
+users with a few more functions than stock Android, to play
+ around with, including Smart Gesture controls and motion control. After 
+tweaking the settings to suit our preferences, we were happily swiping 
+through photographs in the gallery by waving over the screen and 
+using a double-tap to wake the device from standby. 
+
+CameraThe
+ default camera app on the Oppo R5 is nothing flashy but gets the work 
+done. The simple app has a neat drawer that can be pulled out from the 
+bottom of the screen and there are a ton of "apps", which is what Oppo 
+intends to call the camera modes. Normal, Ultra 
+HD, Slow Shutter and the like are present by default. One can hit the Add App button to find more. We found 
+the Ultra HD, HDR and After Focus apps particularly intriguing. 
+
+The Ultra HD 
+app is similar to the implementation on the Oppo Find 7, where information from ten images can be extrapolated to create a composite 50-megapixel image which is supposed to be sharper. We noticed that these images take up a lot of 
+space, and that captured details weren't sharp enough to justify using this mode as default.  
+
+We loved how Oppo's HDR algorithm did a great job of capturing a wide a dynamic range, and not 
+by just artificially increasing the exposure. After Focus 
+essentially allows users to manipulate the
+ focus of an image after it has been shot. Unfortunately, in our 
+testing process we noticed that it was a case of hit or miss. Sometimes 
+we got really good shots where we could change the focus from the 
+subject to the background without losing the integrity of the 
+blur effect in the shot.
+
+(click for full size)By default,
+ the 13-megapixel camera captures some really great images. The colours 
+are natural - not over-saturated or dull. Details are intact even 
+when zoomed in and there is no pixelation. Even 
+the colour temperature is just about right - not too warm or too cold. A
+ minor gripe we have is that the camera has a problem with the exposure 
+settings and as result sometimes we got overblown highlights. Of course,
+ the capable HDR mode can solve this problem without any hassle. Even 
+the low-light performance is pretty decent, with noise levels being low.
+ But the camera is guilty of artificially enhancing the light in some 
+sections where it was really dark. 
+
+The 5-megapixel front camera 
+can capture some really good selfies with great colour reproduction and 
+details. Also, the 1080p video captured by the primary camera doesn't 
+skip frames and retains details as well. On the other hand, 720p slow motion 
+video captured at 120fps is not a patch on the performance of some of 
+the other cameras we've tested. 
+
+(click for full size)PerformanceIn our review 
+of the Yu Yureka (Review | Pictures), we found that the Snapdragon 615
+ is a great mid-range chipset. The Yu Yureka scored higher in our tests 
+because it uses a 720p display. So, with the benchmark results of the 
+Oppo R5 we now have a reference point for future phones with 1080p 
+displays and Snapdragon 615 SoC. 
+
+In AnTuTu 5.5 and Quadrant, the Oppo R5 scored 25,594 and 14,116 respectively. In the 3DMark Ice Storm test the phone scored a more than respectable 
+8,863 points. In day-to-day usage the phone didn't face any hangups or 
+stutter at any point. We were more than happy with the gaming 
+performance as well. However, opening resource-intensive apps caused the
+ upper part of the backplate to become hot immediately. Thankfully, it 
+wasn't unbearable but smartphone companies need to find a solution that 
+works especially if they are going to make anorexic smartphones. 
+
+The
+ Oppo R5 played all the videos we tried without any hiccups. 
+Despite its slim exterior, the Oppo R5 doesn't compromise on the quality
+ of the speakers. The sound was loud and clear with no distortion at high volumes. 
+The call quality was average at best. We faced a few call drops 
+occasionally and the person on the other end sounded robotic at times. 
+The bundled headset is of the in-ear kind and is a little too 
+heavy on bass sounds, which people might prefer. 
+
+Unlike
+ another slim smartphone, the Gionee Elife S5.1, which had better-than-average battery performance, the Oppo R5 falters. The R5 lasted only 6 
+hours and 46 minutes in our rigorous battery test. This is average at 
+best and we noticed that the phone lost charge quicker than other phones
+ in standby. Fortunately, the 2,000mAh battery can charge really fast - 
+up to 75 percent in 30 minutes - thanks to the bundled VOOC fast charger
+ Our first brush with this feature was when we reviewed the Oppo Find 7 
+(Review | Pictures), though this time around the charger is smaller. 
+
+VerdictWhen
+ we reviewed the Gionee Elife S5.1, we were concerned that the race to 
+make the slimmest smartphone was getting slightly out of hand. The Oppo 
+R5 doesn't change that perception but it 
+definitely has a few redeeming features. For one, the phone screams "look at me, I'm attractive" thanks to its gorgeous yet ergonomic 
+design. We liked the fact that despite its slim profile, it is pretty 
+sturdy and the ergonomics are good too. It is not without caveats, 
+though. 
+
+We don't think the exclusion of a standard 3.5mm jack 
+was a good tradeoff. Also, the 
+heating issue we've come to associate with slim smartphones is present 
+in the Oppo R5 as well. 
+
+Priced at Rs. 29,990, the Oppo R5 is 
+asking for a premium considering its specs list and overall performance.
+ That said, we'll cut Oppo some slack for this since we can
+ quite clearly see that this phone is built well and was designed to turn heads. If you are looking for performance over style, we'd suggest 
+looking at the Moto X (Gen2) (Review | Pictures) instead, which by 
+itself isn't a bad looking device.
+

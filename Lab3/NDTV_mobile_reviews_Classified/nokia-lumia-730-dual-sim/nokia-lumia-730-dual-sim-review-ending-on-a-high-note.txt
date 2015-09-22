@@ -1,0 +1,298 @@
+Nokia Lumia 730 Dual SIM Review: Ending on a High Note
+
+Nostalgia
+ reigns supreme as we start writing this review. Nokia, as a brand, evokes a lot of emotions. For a
+ large number of Indians, their first phones would most likely have been Nokias. We 
+are talking about a brand that transcended all divisions based on social
+ class - rich, poor and middle. A brand that a surprising number of Indians swear 
+by even today. A brand that truly "connected people".But alas, Nokia's glory days have finally come to an end. Microsoft, the tech major that acquired Nokia's handset division, 
+recently announced the launch of the Microsoft Lumia 535 - the first
+smartphone that isn't preceded by the Nokia tag. The last major launch that we are likely to see from the original company with its own Nokia branding is the Lumia 730 Dual SIM. This phone 
+is a big upgrade to last year's Lumia 720 (Review | Pictures). The mid-range Lumia 730 Dual 
+SIM adds a good mix of features that include a capable processor, 
+sufficient RAM, 6.7-megapixel primary camera, and - its most promoted feature - a
+ 5-megapixel, 24mm wide-angle front camera. Let's find out how the 
+Lumia 730 Dual SIM fares in our tests, and ascertain if Nokia can exit 
+the world stage with its head held high. Look and feelThe Nokia 730 Dual 
+SIM's design is not starkly different from that of its predecessor. It 
+retains the rectangular candybar design and would have looked nondescript but for its funky coloured rear shells. These are 
+available in glossy orange and matte green, white and black.The engineers managed to fit a 4.7-inch 
+display in a phone that has dimensions of 134.7x68.5x8.7mm, which is 
+great because it keeps the body compact. The girth of 8.7mm notwithstanding, 
+the Lumia 730 Dual SIM actually feels much slimmer in the hand thanks to
+ gentle slope on the rear. It is also pretty light at 130g. We got the 
+green variant for review and its matte rear ensured that the phone 
+didn't feel slippery. The edges are sharp but not to the point 
+that they feel uncomfortable. We 
+would still have preferred it if the edges had been rounded off instead. The 
+power/wake button and the volume rocker are on the right. There is no dedicated camera shutter button, just like on the Lumia 630 Dual SIM (Review | Pictures). This is a bit of a downer for us considering we
+ expect this on Nokia phones.  The primary camera on the rear
+ is accompanied by an LED flash, and beside it lies a microphone. The 
+loudspeaker sits on the bottom right corner of the rear. On prying open 
+the rear cover, one can find the battery compartment, 
+two Micro-SIM card slots, and a microSD card slot. The Micro-USB port is bang in the centre of the bottom of the phone, while the 3.5mm 
+jack is on the top. Above the screen one can find the earpiece and 
+front-facing camera. There is a row of buttons for 
+navigation on-screen, which takes up some real estate. However, Windows Phone 
+8.1 hides these 
+buttons automatically when an app/game goes full-screen, just like Android 4.4 (KitKat). However, we noticed that bottom portion some apps, such as one called App 
+Social, were cut off because of the bar on the bottom. This could probably be fixed with an update, but it was still jarring (check the screenshot in the software section). Specifications and softwareThe
+ phone makes use of Qualcomm's Snapdragon 400 quad-core chip 
+clocked at 1.2GHz per core with Adreno 305 graphics. There is 1GB
+ of RAM, which is a welcome change compared to the paltry 512MB on its predecessor. Around half of the 8GB of internal storage space is used by system files. Thankfully, users can add up to 128GB of 
+storage space using a microSD card. Also, there is a 2,200mAh battery 
+powering the phone. As we mentioned before, the 6.7-megapixel 
+primary camera is accompanied by an LED flash whereas the 5-megapixel front
+ camera has a 24mm wide angle lens. With respect to cellular 
+connectivity, both the SIM cards can connect to 3G networks. The
+ other wireless connectivity options include Wi-Fi, Bluetooth v4.0 and 
+NFC. One can also add wireless charging to the lumia 730 Dual SIM with a special back panel. It isn't available in the default panel. The 4.7-inch OLED screen has
+ a resolution of 720x1280, which translates to a pixel density 
+of 316ppi. This screen is well saturated and the colours just pop. It's 
+been a long time since we've seen such a vibrant screen from Nokia's 
+stable and we are pleasantly surprised. The screen is so bright that 
+you won't face any issues with visibility in sunlight. Even 
+the viewing angles are pretty good, unlike the Nokia Lumia 830 (Review | Pictures). All in 
+all, we really like the screen on the Lumia 730 Dual SIM and cannot 
+really find fault with it. Just like its elder sibling, the Nokia 
+Lumia 830, the Lumia 730 Dual SIM runs the latest Windows Phone 8.1 Denim update. This update adds a ton of camera-related features which we will explore in the camera section. Thanks to the fact that 
+Microsoft doesn't allow companies to tweak its OS, the core experience 
+of using Windows Phone 8.1 on any hardware remains the same. We've 
+spoken at length about this in our reviews of the Nokia 
+Lumia 630 Dual SIM and Lumia 830. We haven't noticed any changes in our 
+time with this device, and we still think that the Action Centre and Cortana
+ are good steps forward for Microsoft. Similar to the dual-SIM implementation on the Lumia 630 Dual SIM, Microsoft puts two separate tiles for the phone
+ and message functions for each SIM card. This 
+is a pretty flexible approach as it allows users to keep their work and 
+personal lives separate.There are a ton of additional apps, all of 
+which can thankfully be deleted. These include App 
+Social, BoxTV, Facebook, Flipkart, Flipkart eBooks, Gameloft's GameHub, 
+Health & Fitness, HERE Drive+, HERE Maps, Keek, MixRadio, Myntra, 
+TimesCity and WeChat. Of the aforementioned apps, Keek is a new 
+addition. It is a social network where people can share video status 
+messages instead of regular text updates. Microsoft also provides 1TB of free 
+cloud storage via OneDrive for six months. Users have the option to 
+continue the subscription for Rs. 100 per month.CameraIn addition to the default camera app bundled with all Windows Phone devices, 
+Microsoft adds five Lumia-branded apps for capturing photographs and 
+other related functions: Lumia Camera, Lumia Cinemagraph, Lumia 
+Creative Studio, Lumia Selfie and Lumia Storyteller. While we think this
+borders on overkill, some users might actually find them all useful. The 
+Lumia Refocus app, which was present in the Lumia 830 and is still one of our 
+favourite apps, is missing in this phone and has been replaced by the 
+Lumia Selfie app. This is big disappointment in the sense that it 
+only offers a self-timer and doesn't do anything that the regular camera
+ app cannot do. Lumia Camera is basically the Nokia Camera app rebranded, and is functionally identical. Users still get a ton of manual 
+adjustment options and we expect most users to prefer 
+this over the default camera app. Lumia Cinemagraph is, at its most basic, a GIF file creator. Lumia 
+Storyteller uses Nokia's HERE Maps, points of interests, the time and 
+the date to create mini collections of important moments. (Click for full size)The 
+6.7-megapixel camera is quite possibly the same hardware that we saw on the Lumia
+ 720 because we faced the same white balance issues in our test shots. 
+We saw a pinkish tinge in a few of our shots. That said, the quality of 
+captured images in daylight is really good otherwise. Despite not being
+ a PureView camera, the lens does a good job of capturing details, that too with noise levels kept at a bare minimum. Overall, the colours were natural and we 
+didn't notice purple fringing around the edges. Unlike quite a few Lumia
+ phones we've used in the past, the Lumia 730 Dual SIM suffers in 
+low-light performance. In our captured shots, the noise levels were very
+ high. The camera can also capture 1080p video and the quality of our 
+test video was really good. We did face some issues with auto-focus but 
+they were few and far between. (Click for full size)The marketing tag line for the 
+Lumia 730 Dual SIM is 'Made for Selfies'. The 5-megapixel front camera definitely has
+ a wide-angle 24mm lens but after testing it we don't really think that 
+it is the best phone for selfies. We say this because some of test 
+self-portraits lacked depth. It can definitely fit a lot of 
+people into a frame, but we noticed that some of the details were 
+smudged. We are not saying it is a bad camera but it is definitely 
+not the best in business. At the moment, it features third on our list 
+after the Sony Xperia C3 Dual (Review | Pictures) and the HTC Desire 816 (Review | Pictures).PerformanceThe
+ Snapdragon 400 SoC under the hood of the phone is fairly powerful 
+and we rarely faced any hiccups in daily use. Casual games work fine but
+ Asphalt 8 lagged intermittently. In our GFXbench test the Adreno 305 
+GPU managed to earn a score of 7.2fps, which is pretty
+ low. The AnTuTu and WPBench scores were on par with those of the more expensive 
+Lumia 830, which bodes well for the device. The phone logged 11,922 and 241.28 points, respectively, in these tests. The 
+phone ran our HD (720p) videos just fine but failed to play 1080p 
+videos. The speaker is loud enough for most practical purposes and 
+thankfully the sound doesn't crackle at high volumes. The bundled 
+earphones are comfortable to use and sound pretty decent too. 
+Nokia's phones usually have great sound quality in calls and this hasn't changed with
+ the Lumia 730 Dual SIM. We didn't face any call drops and sound
+ was crystal clear too. In our battery test the phone lasted 12 hours
+ and 44 minutes, which is excellent. One can expect the phone to last at
+ least a day and half with moderate usage. VerdictThe Nokia 
+Lumia 730 Dual SIM is a polished smartphone. We would, in fact, go as 
+far as to state that this phone is the best Windows Phone alternative to the 
+dependable Moto G (Gen 2) (Review | Pictures). It has a pleasing design, good cameras, 
+consistent overall performance and great battery life. We believe that Microsoft has a winner on its hands with the Lumia 730 Dual SIM. For those who are 
+happy with Microsoft's smartphone ecosystem or just getting started with smartphones, the Lumia 730 
+Dual SIM is a perfect mid-range phone. For people who are already entrenched in Android or iOS or who need a lot of apps, it will take a leap of faith. Nokia Lumia 730 Dual SIM in pictures
+
+Nostalgia
+ reigns supreme as we start writing this review. Nokia, as a brand, evokes a lot of emotions. For a
+ large number of Indians, their first phones would most likely have been Nokias. We 
+are talking about a brand that transcended all divisions based on social
+ class - rich, poor and middle. A brand that a surprising number of Indians swear 
+by even today. A brand that truly "connected people".
+
+But alas, Nokia's glory days have finally come to an end. Microsoft, the tech major that acquired Nokia's handset division, 
+recently announced the launch of the Microsoft Lumia 535 - the first
+smartphone that isn't preceded by the Nokia tag. The last major launch that we are likely to see from the original company with its own Nokia branding is the Lumia 730 Dual SIM. 
+
+This phone 
+is a big upgrade to last year's Lumia 720 (Review | Pictures). The mid-range Lumia 730 Dual 
+SIM adds a good mix of features that include a capable processor, 
+sufficient RAM, 6.7-megapixel primary camera, and - its most promoted feature - a
+ 5-megapixel, 24mm wide-angle front camera. Let's find out how the 
+Lumia 730 Dual SIM fares in our tests, and ascertain if Nokia can exit 
+the world stage with its head held high. 
+
+Look and feelThe Nokia 730 Dual 
+SIM's design is not starkly different from that of its predecessor. It 
+retains the rectangular candybar design and would have looked nondescript but for its funky coloured rear shells. These are 
+available in glossy orange and matte green, white and black.
+
+The engineers managed to fit a 4.7-inch 
+display in a phone that has dimensions of 134.7x68.5x8.7mm, which is 
+great because it keeps the body compact. The girth of 8.7mm notwithstanding, 
+the Lumia 730 Dual SIM actually feels much slimmer in the hand thanks to
+ gentle slope on the rear. It is also pretty light at 130g. We got the 
+green variant for review and its matte rear ensured that the phone 
+didn't feel slippery. The edges are sharp but not to the point 
+that they feel uncomfortable. We 
+would still have preferred it if the edges had been rounded off instead. 
+
+The 
+power/wake button and the volume rocker are on the right. There is no dedicated camera shutter button, just like on the Lumia 630 Dual SIM (Review | Pictures). This is a bit of a downer for us considering we
+ expect this on Nokia phones.  The primary camera on the rear
+ is accompanied by an LED flash, and beside it lies a microphone. The 
+loudspeaker sits on the bottom right corner of the rear. On prying open 
+the rear cover, one can find the battery compartment, 
+two Micro-SIM card slots, and a microSD card slot. The Micro-USB port is bang in the centre of the bottom of the phone, while the 3.5mm 
+jack is on the top. Above the screen one can find the earpiece and 
+front-facing camera. 
+
+There is a row of buttons for 
+navigation on-screen, which takes up some real estate. However, Windows Phone 
+8.1 hides these 
+buttons automatically when an app/game goes full-screen, just like Android 4.4 (KitKat). However, we noticed that bottom portion some apps, such as one called App 
+Social, were cut off because of the bar on the bottom. This could probably be fixed with an update, but it was still jarring (check the screenshot in the software section). 
+
+Specifications and softwareThe
+ phone makes use of Qualcomm's Snapdragon 400 quad-core chip 
+clocked at 1.2GHz per core with Adreno 305 graphics. There is 1GB
+ of RAM, which is a welcome change compared to the paltry 512MB on its predecessor. Around half of the 8GB of internal storage space is used by system files. Thankfully, users can add up to 128GB of 
+storage space using a microSD card. Also, there is a 2,200mAh battery 
+powering the phone. 
+
+As we mentioned before, the 6.7-megapixel 
+primary camera is accompanied by an LED flash whereas the 5-megapixel front
+ camera has a 24mm wide angle lens. With respect to cellular 
+connectivity, both the SIM cards can connect to 3G networks. The
+ other wireless connectivity options include Wi-Fi, Bluetooth v4.0 and 
+NFC. One can also add wireless charging to the lumia 730 Dual SIM with a special back panel. It isn't available in the default panel. 
+
+The 4.7-inch OLED screen has
+ a resolution of 720x1280, which translates to a pixel density 
+of 316ppi. This screen is well saturated and the colours just pop. It's 
+been a long time since we've seen such a vibrant screen from Nokia's 
+stable and we are pleasantly surprised. The screen is so bright that 
+you won't face any issues with visibility in sunlight. Even 
+the viewing angles are pretty good, unlike the Nokia Lumia 830 (Review | Pictures). All in 
+all, we really like the screen on the Lumia 730 Dual SIM and cannot 
+really find fault with it. 
+
+Just like its elder sibling, the Nokia 
+Lumia 830, the Lumia 730 Dual SIM runs the latest Windows Phone 8.1 Denim update. This update adds a ton of camera-related features which we will explore in the camera section. Thanks to the fact that 
+Microsoft doesn't allow companies to tweak its OS, the core experience 
+of using Windows Phone 8.1 on any hardware remains the same. We've 
+spoken at length about this in our reviews of the Nokia 
+Lumia 630 Dual SIM and Lumia 830. We haven't noticed any changes in our 
+time with this device, and we still think that the Action Centre and Cortana
+ are good steps forward for Microsoft. 
+
+Similar to the dual-SIM implementation on the Lumia 630 Dual SIM, Microsoft puts two separate tiles for the phone
+ and message functions for each SIM card. This 
+is a pretty flexible approach as it allows users to keep their work and 
+personal lives separate.
+
+There are a ton of additional apps, all of 
+which can thankfully be deleted. These include App 
+Social, BoxTV, Facebook, Flipkart, Flipkart eBooks, Gameloft's GameHub, 
+Health & Fitness, HERE Drive+, HERE Maps, Keek, MixRadio, Myntra, 
+TimesCity and WeChat. Of the aforementioned apps, Keek is a new 
+addition. It is a social network where people can share video status 
+messages instead of regular text updates. Microsoft also provides 1TB of free 
+cloud storage via OneDrive for six months. Users have the option to 
+continue the subscription for Rs. 100 per month.
+
+CameraIn addition to the default camera app bundled with all Windows Phone devices, 
+Microsoft adds five Lumia-branded apps for capturing photographs and 
+other related functions: Lumia Camera, Lumia Cinemagraph, Lumia 
+Creative Studio, Lumia Selfie and Lumia Storyteller. While we think this
+borders on overkill, some users might actually find them all useful. The 
+Lumia Refocus app, which was present in the Lumia 830 and is still one of our 
+favourite apps, is missing in this phone and has been replaced by the 
+Lumia Selfie app. This is big disappointment in the sense that it 
+only offers a self-timer and doesn't do anything that the regular camera
+ app cannot do. 
+
+Lumia Camera is basically the Nokia Camera app rebranded, and is functionally identical. Users still get a ton of manual 
+adjustment options and we expect most users to prefer 
+this over the default camera app. Lumia Cinemagraph is, at its most basic, a GIF file creator. Lumia 
+Storyteller uses Nokia's HERE Maps, points of interests, the time and 
+the date to create mini collections of important moments. 
+
+(Click for full size)The 
+6.7-megapixel camera is quite possibly the same hardware that we saw on the Lumia
+ 720 because we faced the same white balance issues in our test shots. 
+We saw a pinkish tinge in a few of our shots. That said, the quality of 
+captured images in daylight is really good otherwise. Despite not being
+ a PureView camera, the lens does a good job of capturing details, that too with noise levels kept at a bare minimum. Overall, the colours were natural and we 
+didn't notice purple fringing around the edges. Unlike quite a few Lumia
+ phones we've used in the past, the Lumia 730 Dual SIM suffers in 
+low-light performance. In our captured shots, the noise levels were very
+ high. The camera can also capture 1080p video and the quality of our 
+test video was really good. We did face some issues with auto-focus but 
+they were few and far between. 
+
+(Click for full size)The marketing tag line for the 
+Lumia 730 Dual SIM is 'Made for Selfies'. The 5-megapixel front camera definitely has
+ a wide-angle 24mm lens but after testing it we don't really think that 
+it is the best phone for selfies. We say this because some of test 
+self-portraits lacked depth. It can definitely fit a lot of 
+people into a frame, but we noticed that some of the details were 
+smudged. We are not saying it is a bad camera but it is definitely 
+not the best in business. At the moment, it features third on our list 
+after the Sony Xperia C3 Dual (Review | Pictures) and the HTC Desire 816 (Review | Pictures).
+
+PerformanceThe
+ Snapdragon 400 SoC under the hood of the phone is fairly powerful 
+and we rarely faced any hiccups in daily use. Casual games work fine but
+ Asphalt 8 lagged intermittently. In our GFXbench test the Adreno 305 
+GPU managed to earn a score of 7.2fps, which is pretty
+ low. The AnTuTu and WPBench scores were on par with those of the more expensive 
+Lumia 830, which bodes well for the device. The phone logged 11,922 and 241.28 points, respectively, in these tests. 
+
+The 
+phone ran our HD (720p) videos just fine but failed to play 1080p 
+videos. The speaker is loud enough for most practical purposes and 
+thankfully the sound doesn't crackle at high volumes. The bundled 
+earphones are comfortable to use and sound pretty decent too. 
+Nokia's phones usually have great sound quality in calls and this hasn't changed with
+ the Lumia 730 Dual SIM. We didn't face any call drops and sound
+ was crystal clear too. In our battery test the phone lasted 12 hours
+ and 44 minutes, which is excellent. One can expect the phone to last at
+ least a day and half with moderate usage. 
+
+VerdictThe Nokia 
+Lumia 730 Dual SIM is a polished smartphone. We would, in fact, go as 
+far as to state that this phone is the best Windows Phone alternative to the 
+dependable Moto G (Gen 2) (Review | Pictures). It has a pleasing design, good cameras, 
+consistent overall performance and great battery life. We believe that Microsoft has a winner on its hands with the Lumia 730 Dual SIM. 
+
+For those who are 
+happy with Microsoft's smartphone ecosystem or just getting started with smartphones, the Lumia 730 
+Dual SIM is a perfect mid-range phone. For people who are already entrenched in Android or iOS or who need a lot of apps, it will take a leap of faith.
+
+ 
+

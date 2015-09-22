@@ -1,0 +1,422 @@
+Motorola Moto X (Gen 2) Review: Stepping Up to a Bigger Game
+
+Motorola chose its market segments very wisely when plotting its 
+comeback strategy, and now just over a year after the original Moto X 
+made a fantastic impression on the world, the new Moto X (Gen 2) is 
+trying to build on that momentum to take things to a new level. The Gen 2
+ model is not a direct replacement of its predecessor - it's far more 
+expensive and has higher aspirations. This is Motorola's push to 
+cement itself as a competitor to the biggest names in the business. The 
+Moto  X (Gen 2) checks off nearly all the major boxes in terms of 
+features, materials and specifications - and there's a little bit of 
+special sauce in there as well. Let's take a closer look.Look and feelThe
+ new Moto X is well crafted and feels very slick. The front panel glass 
+seems to float right to the device's edges and is protected only by a thin strip of plastic on the sides 
+and corners, where most large phones use strips of metal for 
+protection. This makes us a little worried about how well the device 
+will stand up if dropped, particularly if it lands on a corner. On the 
+other hand, Motorola has decided to go with a metal body this time, and
+ the exposed parts of the frame look very well crafted.There isn't much
+ room around the screen, and it's quite crowded. Like the refreshed Moto G (Review | Pictures) we had in our lab a little while ago, the new Moto X tries but 
+doesn't quite succeed to pull off an edgy look. There are metallic bars 
+above and below the screen, though only the lower one is a speaker. The 
+usual camera and sensor cutouts can be seen above the screen, but there 
+are three additional dots as well; two below the screen and one above. 
+These are infrared LEDs and are used to detect motions to trigger 
+Motorola's unique gesture control features. It's all very busy, and once
+ again we find ourselves favouring the black variant over the white.In
+ markets abroad, Motorola offers a tool called Moto Maker which lets 
+buyers decide between 25 different options for the fixed rear panel 
+including leather and wood grain choices, as well as choose an accent 
+colour finally, get a custom message engraved. Indian customers have no 
+such thing - Motorola's e-commerce partner here has only three 
+predefined options - plain black plastic, black with black leather, and 
+white with bamboo. The leather and bamboo options are a little bit more 
+expensive, but we really would have liked more options. Note that the 
+Moto X's rear is non-removable, so your choice will have to stick for 
+the phone's entire life.We quite liked the feel or our review 
+unit's bamboo rear. We're not entirely confident that it can withstand 
+scratches and scrapes, and it would be a shame to cover it up with a 
+plastic or rubber shell. The back is curved and most will find the new 
+Moto X easy to hold though there will be some who find it a bit too wide
+ or a bit too heavy.Motorola has retained its trademark notched 
+lip on top, but has moved the camera flash into a ring around the lens. 
+There are two flash LEDs; one on either side of the lens. Right below 
+the lens is a circular depression with a large Motorola M insignia. 
+You'll find your forefinger resting here naturally as you hold and use 
+the phone. The new Moto X is not exactly slick, but it is totally
+ unique and very memorable - and we think that's what the company was 
+primarily going for.SpecificationsYou can't really go 
+wrong with Qualcomm's top-tier Snapdragon 801 SoC, which integrates four
+ 2.5GHz processor cores and an Adreno 330 graphics unit. Motorola has 
+added its own touch in the form of dedicated hardware for motion control
+ detection and voice recognition. These specialised processors power 
+Motorola's unique software features and help minimise battery life 
+impact by allowing the device's other hardware to remain asleep while 
+they work.There's 2GB of RAM and 16GB of built-in space. We're 
+disappointed to note the continued lack of a microSD card slot - 
+Motorola clearly learned what customers wanted and included this on the 
+new Moto G, but those who shell out over twice as much for the new Moto X
+ won't have the same comfort. We definitely hope the 32GB version 
+launches in India soon.Motorola upgraded the screen resolution 
+from 720p to full 1080p and bumped  up its size from 4.7 inches to 5.2. 
+Most of today's flagship phones are the same in terms of screen size, 
+and you can now count Motorola amongst the pack.Everything else 
+is consistent with Motorola's and Google's vision for simple, 
+stress-free Android. There's high-speed Wi-Fi ac support, Bluetooth 4.0 
+and NFC. The camera has received a boost to 13 megapixels and can now 
+handle 4K video recording. The usual sensors are all accounted for, plus
+ there are the aforementioned IR motion sensors.Interestingly, the bundled charger has two USB power outlets so you can charge your Moto X along with another device. This is phenomenally useful, especially for frequent travellers.  SoftwareMotorola's
+ support of stock Android has not wavered. Purists will not be sad at 
+all that the company hasn't gone out and created yet another new Android
+ skin. The company has baked its unique functionality in, but it hasn't 
+changed all the icons or rearranged homescreens just to look different.The
+ new Moto X runs Android 4.4.4. The only thing you might find out of 
+place will be a little prompt in the Google search field encouraging you
+ to give the phone instructions out loud. One of Motorola's tricks is 
+passive listening, so you can give your Moto X voice instructions or 
+start searching for anything without having to actually touch anything 
+to trigger voice recognition. It really does just work - once you
+ get the hang of the commands you can say. You'll be prompted to set up 
+your own voice trigger, which has to be multiple syllables long. If 
+there's a little bit of background noise, you'll have to over-enunciate 
+your instructions, but only rarely did the phone fail to recognise 
+anything at all. We found that it didn't like windy environments, even 
+quiet rooms at night if a fan was on.Then there's Moto Display, 
+which uses the infrared sensors to detect when your hand is hovering 
+over the phone, and triggers a display of notifications and actions. 
+This works really well, but we wish the screen had been designed better.
+ It's similar to Nokia's Glance screen, which just shows the bare basics
+ in plain white text, but it only comes on when you reach out to the 
+phone. We like the idea but think there's room for improvement - you can
+ swipe a notification to trigger an action, for example calling a number
+ back for a missed call, but there are no shortcuts to apps or actions 
+otherwise. You can decide which apps get to show notifications on the 
+Moto Display screen.There are other gestures too - you can wave a
+ hand over the screen to silence calls and alarms (the latter might 
+prove to be a very bad idea if you are a heavy sleeper). You can also 
+flick your wrist twice in quick succession to trigger the camera app, 
+which is actually pretty handy.Moto Assist lets you define rules 
+for how the phone should behave when you're sleeping, driving, at home 
+or in a meeting. It detects these things in various ways - sleep hours 
+are defined manually, but driving can be detected by motion and also by 
+being connected to specific Bluetooth devices such as your car stereo, 
+meetings are picked out of your calendars, and "home" is a specific GPS 
+target. Sleep mode lets you silence alerts (and define exceptions) while
+ text messages are automatically read out aloud in driving mode. You'll
+ have to use Moto Assist for an extended period to judge whether you 
+like it automatically managing your phone. We suspect that at least one 
+of the modes will be useful to most people, but it's not the kind of 
+feature you'll never be able to live without after having used it.Motorola's
+ less glamorous additions come in the form of the Migrate and Help apps 
+which let you import data from an old phone and discover the Moto X's 
+features and capabilities. Google's usual flood of apps is also present.
+ Well, there is one strange little addition. We started noticing 
+silly cartoony things on our screen at random times - a big red hat and 
+an insect with huge eyes. They appeared at random times, and then 
+settled into the lower left corner of the screen. Tapping them out of 
+curiosity launched into a sort of game - we could move our Moto X around
+ in our hands and the scene would change, augmented reality style, 
+showing different parts of a scene. Tapping to exit left us with cryptic
+ messages in the notification shade - "Tap to continue playing Windy 
+Day" and "Tap to continue playing Buggy Night". It turns out 
+these are what Motorola is calling Spotlight Stories - interactive 
+animated shorts. Motorola claims these are not ads, but that more 
+content will periodically be downloaded (only over Wi-Fi). You can only 
+disable the whole thing if you dig into the notifications - frankly, 
+even though they might be harmless, we would have preferred an opt-in 
+deal. The random animations and lack of explanation might freak out 
+users, and those with download caps who have no idea what's going on are
+ bound to be annoyed when they find out.PerformanceWe 
+liked using the new Moto X, and why not? It has specifications that are 
+right up there with some of the best and most expensive phones available
+ today. There is absolutely nothing to complain about in terms of 
+responsiveness. In fact, you might find the automatic gesture detection a
+ little too quick to respond, and you'll have to be careful to choose a 
+voice command trigger that isn't part of your common speech patterns. Benchmark
+ scores were impressive, and the new Moto X held its own against 
+heavyweights such as the brand new (and far more expensive) Sony Xperia 
+Z3 (Review | Pictures). Graphics scores were on par, which is not a surprise as both have 
+1080p screens and Adreno 330 GPUs. The Moto X managed 29.1fps in 
+GFXbench while the Xperia Z3 scored 29.9fps.(Click to see full size)CPU scores actually 
+tended to show the Moto X in a better light - we recorded 44,020 points 
+in AnTuTu 5 as opposed to 39,441 with the Z3. SunSpider also pulled in 
+slightly ahead, completing the run in 772.4ms compared to 853.8ms.The
+ Moto X looks like pretty good value in terms of just application 
+performance, and will thus be a good choice for gaming. HD videos 
+presented no problem, but we were a little disappointed that sound from 
+the built-in speaker was so thin and scratchy. Call quality was 
+fantastic - the only complaint would be that the serrated texture of the
+ metal bar in the earpiece was occasionally irritating against our ears.(Click to see full size)We
+ weren't especially impressed with the camera. One of the downsides of 
+stock Android is a very barebones app, compared to what the competition 
+offer. You'll be able to download plenty of alternatives from the Google
+ Play store if you want something that's easier to handle and offers 
+tricks and effects. Photo quality was decent, but not to the level of 
+top-end competitors. We found autofocusing was a bit slow and not always
+ accurate. That said, the camera worked well for close-up shots in good 
+light, and will do for most casual purposes. The flash is pretty 
+remarkable and didn't blow out nearby subjects at the cost of ones 
+further back, but without it, low light performance is not very good.Battery
+ life was also on the high side, and we were more than satisfied with 
+the result of 9 hours, 36 minutes in our video loop test. You'll easily 
+get a day's worth of heavy usage - we didn't notice any significant 
+drain on the battery caused by the voice and gesture features in 
+ordinary usage, though these might become apparent over a much longer 
+period of usage.VerdictA lot of people loved the first 
+Moto X, and plenty will be disappointed that there isn't a new model in 
+the same size class and price range. Motorola has stepped its game up, 
+but at the same time has left a void in the market where the X used to 
+reign. We hope to see that opportunity capitalised on soon.Meanwhile,
+ those who do want the new Moto X will have to deal with not being able 
+to choose their own colours, textures and materials. They'll also have 
+to consider carefully whether they can live with only 16GB of storage 
+space. If these hurdles can be surmounted, the Moto X (Gen 2) looks like
+ a pretty good deal. It doesn't quite kill the appeal of flagship phones
+ in the neighbourhood of Rs. 50,000, but some models such as the Samsung
+ Galaxy S5 (Review | Pictures) are currently available for around Rs. 37,500. Given the 
+relatively small price difference, you might choose to go with the S5 
+for its features and camera, or the Moto X to save some money. Motorola Moto X (Gen 2) in pictures
+
+Motorola chose its market segments very wisely when plotting its 
+comeback strategy, and now just over a year after the original Moto X 
+made a fantastic impression on the world, the new Moto X (Gen 2) is 
+trying to build on that momentum to take things to a new level. The Gen 2
+ model is not a direct replacement of its predecessor - it's far more 
+expensive and has higher aspirations. 
+
+This is Motorola's push to 
+cement itself as a competitor to the biggest names in the business. The 
+Moto  X (Gen 2) checks off nearly all the major boxes in terms of 
+features, materials and specifications - and there's a little bit of 
+special sauce in there as well. Let's take a closer look.
+
+Look and feelThe
+ new Moto X is well crafted and feels very slick. The front panel glass 
+seems to float right to the device's edges and is protected only by a thin strip of plastic on the sides 
+and corners, where most large phones use strips of metal for 
+protection. This makes us a little worried about how well the device 
+will stand up if dropped, particularly if it lands on a corner. On the 
+other hand, Motorola has decided to go with a metal body this time, and
+ the exposed parts of the frame look very well crafted.
+
+There isn't much
+ room around the screen, and it's quite crowded. Like the refreshed Moto G (Review | Pictures) we had in our lab a little while ago, the new Moto X tries but 
+doesn't quite succeed to pull off an edgy look. There are metallic bars 
+above and below the screen, though only the lower one is a speaker. The 
+usual camera and sensor cutouts can be seen above the screen, but there 
+are three additional dots as well; two below the screen and one above. 
+These are infrared LEDs and are used to detect motions to trigger 
+Motorola's unique gesture control features. It's all very busy, and once
+ again we find ourselves favouring the black variant over the white.
+
+In
+ markets abroad, Motorola offers a tool called Moto Maker which lets 
+buyers decide between 25 different options for the fixed rear panel 
+including leather and wood grain choices, as well as choose an accent 
+colour finally, get a custom message engraved. Indian customers have no 
+such thing - Motorola's e-commerce partner here has only three 
+predefined options - plain black plastic, black with black leather, and 
+white with bamboo. The leather and bamboo options are a little bit more 
+expensive, but we really would have liked more options. Note that the 
+Moto X's rear is non-removable, so your choice will have to stick for 
+the phone's entire life.
+
+We quite liked the feel or our review 
+unit's bamboo rear. We're not entirely confident that it can withstand 
+scratches and scrapes, and it would be a shame to cover it up with a 
+plastic or rubber shell. The back is curved and most will find the new 
+Moto X easy to hold though there will be some who find it a bit too wide
+ or a bit too heavy.
+
+Motorola has retained its trademark notched 
+lip on top, but has moved the camera flash into a ring around the lens. 
+There are two flash LEDs; one on either side of the lens. Right below 
+the lens is a circular depression with a large Motorola M insignia. 
+You'll find your forefinger resting here naturally as you hold and use 
+the phone.
+
+ The new Moto X is not exactly slick, but it is totally
+ unique and very memorable - and we think that's what the company was 
+primarily going for.
+
+SpecificationsYou can't really go 
+wrong with Qualcomm's top-tier Snapdragon 801 SoC, which integrates four
+ 2.5GHz processor cores and an Adreno 330 graphics unit. Motorola has 
+added its own touch in the form of dedicated hardware for motion control
+ detection and voice recognition. These specialised processors power 
+Motorola's unique software features and help minimise battery life 
+impact by allowing the device's other hardware to remain asleep while 
+they work.
+
+There's 2GB of RAM and 16GB of built-in space. We're 
+disappointed to note the continued lack of a microSD card slot - 
+Motorola clearly learned what customers wanted and included this on the 
+new Moto G, but those who shell out over twice as much for the new Moto X
+ won't have the same comfort. We definitely hope the 32GB version 
+launches in India soon.
+
+Motorola upgraded the screen resolution 
+from 720p to full 1080p and bumped  up its size from 4.7 inches to 5.2. 
+Most of today's flagship phones are the same in terms of screen size, 
+and you can now count Motorola amongst the pack.
+
+Everything else 
+is consistent with Motorola's and Google's vision for simple, 
+stress-free Android. There's high-speed Wi-Fi ac support, Bluetooth 4.0 
+and NFC. The camera has received a boost to 13 megapixels and can now 
+handle 4K video recording. The usual sensors are all accounted for, plus
+ there are the aforementioned IR motion sensors.
+
+Interestingly, the bundled charger has two USB power outlets so you can charge your Moto X along with another device. This is phenomenally useful, especially for frequent travellers.  
+
+SoftwareMotorola's
+ support of stock Android has not wavered. Purists will not be sad at 
+all that the company hasn't gone out and created yet another new Android
+ skin. The company has baked its unique functionality in, but it hasn't 
+changed all the icons or rearranged homescreens just to look different.
+
+The
+ new Moto X runs Android 4.4.4. The only thing you might find out of 
+place will be a little prompt in the Google search field encouraging you
+ to give the phone instructions out loud. One of Motorola's tricks is 
+passive listening, so you can give your Moto X voice instructions or 
+start searching for anything without having to actually touch anything 
+to trigger voice recognition. 
+
+It really does just work - once you
+ get the hang of the commands you can say. You'll be prompted to set up 
+your own voice trigger, which has to be multiple syllables long. If 
+there's a little bit of background noise, you'll have to over-enunciate 
+your instructions, but only rarely did the phone fail to recognise 
+anything at all. We found that it didn't like windy environments, even 
+quiet rooms at night if a fan was on.
+
+Then there's Moto Display, 
+which uses the infrared sensors to detect when your hand is hovering 
+over the phone, and triggers a display of notifications and actions. 
+This works really well, but we wish the screen had been designed better.
+ It's similar to Nokia's Glance screen, which just shows the bare basics
+ in plain white text, but it only comes on when you reach out to the 
+phone. We like the idea but think there's room for improvement - you can
+ swipe a notification to trigger an action, for example calling a number
+ back for a missed call, but there are no shortcuts to apps or actions 
+otherwise. You can decide which apps get to show notifications on the 
+Moto Display screen.
+
+There are other gestures too - you can wave a
+ hand over the screen to silence calls and alarms (the latter might 
+prove to be a very bad idea if you are a heavy sleeper). You can also 
+flick your wrist twice in quick succession to trigger the camera app, 
+which is actually pretty handy.
+
+Moto Assist lets you define rules 
+for how the phone should behave when you're sleeping, driving, at home 
+or in a meeting. It detects these things in various ways - sleep hours 
+are defined manually, but driving can be detected by motion and also by 
+being connected to specific Bluetooth devices such as your car stereo, 
+meetings are picked out of your calendars, and "home" is a specific GPS 
+target. Sleep mode lets you silence alerts (and define exceptions) while
+ text messages are automatically read out aloud in driving mode. 
+
+You'll
+ have to use Moto Assist for an extended period to judge whether you 
+like it automatically managing your phone. We suspect that at least one 
+of the modes will be useful to most people, but it's not the kind of 
+feature you'll never be able to live without after having used it.
+
+Motorola's
+ less glamorous additions come in the form of the Migrate and Help apps 
+which let you import data from an old phone and discover the Moto X's 
+features and capabilities. Google's usual flood of apps is also present.
+ 
+
+Well, there is one strange little addition. We started noticing 
+silly cartoony things on our screen at random times - a big red hat and 
+an insect with huge eyes. They appeared at random times, and then 
+settled into the lower left corner of the screen. Tapping them out of 
+curiosity launched into a sort of game - we could move our Moto X around
+ in our hands and the scene would change, augmented reality style, 
+showing different parts of a scene. Tapping to exit left us with cryptic
+ messages in the notification shade - "Tap to continue playing Windy 
+Day" and "Tap to continue playing Buggy Night". 
+
+It turns out 
+these are what Motorola is calling Spotlight Stories - interactive 
+animated shorts. Motorola claims these are not ads, but that more 
+content will periodically be downloaded (only over Wi-Fi). You can only 
+disable the whole thing if you dig into the notifications - frankly, 
+even though they might be harmless, we would have preferred an opt-in 
+deal. The random animations and lack of explanation might freak out 
+users, and those with download caps who have no idea what's going on are
+ bound to be annoyed when they find out.
+
+PerformanceWe 
+liked using the new Moto X, and why not? It has specifications that are 
+right up there with some of the best and most expensive phones available
+ today. There is absolutely nothing to complain about in terms of 
+responsiveness. In fact, you might find the automatic gesture detection a
+ little too quick to respond, and you'll have to be careful to choose a 
+voice command trigger that isn't part of your common speech patterns. 
+
+Benchmark
+ scores were impressive, and the new Moto X held its own against 
+heavyweights such as the brand new (and far more expensive) Sony Xperia 
+Z3 (Review | Pictures). Graphics scores were on par, which is not a surprise as both have 
+1080p screens and Adreno 330 GPUs. The Moto X managed 29.1fps in 
+GFXbench while the Xperia Z3 scored 29.9fps.
+
+(Click to see full size)
+
+CPU scores actually 
+tended to show the Moto X in a better light - we recorded 44,020 points 
+in AnTuTu 5 as opposed to 39,441 with the Z3. SunSpider also pulled in 
+slightly ahead, completing the run in 772.4ms compared to 853.8ms.
+
+The
+ Moto X looks like pretty good value in terms of just application 
+performance, and will thus be a good choice for gaming. HD videos 
+presented no problem, but we were a little disappointed that sound from 
+the built-in speaker was so thin and scratchy. Call quality was 
+fantastic - the only complaint would be that the serrated texture of the
+ metal bar in the earpiece was occasionally irritating against our ears.
+
+(Click to see full size)
+
+We
+ weren't especially impressed with the camera. One of the downsides of 
+stock Android is a very barebones app, compared to what the competition 
+offer. You'll be able to download plenty of alternatives from the Google
+ Play store if you want something that's easier to handle and offers 
+tricks and effects. Photo quality was decent, but not to the level of 
+top-end competitors. We found autofocusing was a bit slow and not always
+ accurate. That said, the camera worked well for close-up shots in good 
+light, and will do for most casual purposes. The flash is pretty 
+remarkable and didn't blow out nearby subjects at the cost of ones 
+further back, but without it, low light performance is not very good.
+
+Battery
+ life was also on the high side, and we were more than satisfied with 
+the result of 9 hours, 36 minutes in our video loop test. You'll easily 
+get a day's worth of heavy usage - we didn't notice any significant 
+drain on the battery caused by the voice and gesture features in 
+ordinary usage, though these might become apparent over a much longer 
+period of usage.
+
+VerdictA lot of people loved the first 
+Moto X, and plenty will be disappointed that there isn't a new model in 
+the same size class and price range. Motorola has stepped its game up, 
+but at the same time has left a void in the market where the X used to 
+reign. We hope to see that opportunity capitalised on soon.
+
+Meanwhile,
+ those who do want the new Moto X will have to deal with not being able 
+to choose their own colours, textures and materials. They'll also have 
+to consider carefully whether they can live with only 16GB of storage 
+space. If these hurdles can be surmounted, the Moto X (Gen 2) looks like
+ a pretty good deal. It doesn't quite kill the appeal of flagship phones
+ in the neighbourhood of Rs. 50,000, but some models such as the Samsung
+ Galaxy S5 (Review | Pictures) are currently available for around Rs. 37,500. Given the 
+relatively small price difference, you might choose to go with the S5 
+for its features and camera, or the Moto X to save some money.
+

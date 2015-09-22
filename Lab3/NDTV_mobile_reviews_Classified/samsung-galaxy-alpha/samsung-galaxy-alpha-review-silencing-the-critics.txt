@@ -1,0 +1,351 @@
+Samsung Galaxy Alpha Review: Silencing the Critics
+
+Bollywood
+ is a funny place. Almost every single Salman Khan movie released 
+recently has been trashed by the critics. At the end of the day though, 
+these movies still manage to set the cash registers ringing. Samsung is the Salman Khan of the mobile world. Every
+ single flagship smartphone from Samsung has been at least somewhat 
+successful. But every single time, critics have
+ dissed the design and the build quality for being, for lack of a better
+ word, 'plasticky'. The Samsung Galaxy Alpha, enclosed in a metal
+ chassis with chamfered edges, aims
+ to change all this. Also while Apple has finally decided to release phones with bigger screens, Samsung has gone the other way with a more palm-friendly 4.7-inch screen. We try to find out if this strategy works for the brand and if it can appease its naysayers. Look and feelThe
+ Samsung Galaxy Alpha looks like a stretched Apple iPhone 5/5s but 
+calling it a blatant clone would be taking things too far. There are striking similarities between the two devices: Chamfered 
+edges? Check. Metal chassis? Check. Slim boxy design? Check. Physical home 
+button? Check. Fingerprint scanner? Check. But leaving the similarities 
+aside for a moment, the Galaxy Alpha still has a 
+distinctively Samsung flavour to it. We've seen the Galaxy 
+Alpha's removable plastic rear cover in quite a few of its previous 
+flagships. We've also seen the dotted texture on the rear cover, although 
+subtle here, in the Samsung Galaxy S5 (Review | Pictures). The patterned print under the all 
+glass front of the Alpha is also in line with other Samsung phones. The
+ Samsung Galaxy Alpha is thin at 6.7mm and weighs a mere 
+115g. This is definitely good news for folks who like sleek phones 
+since the Galaxy Alpha manages to undercut the iPhone 6 by 0.2mm in 
+thinness and 14g in weight. Moreover, compared to the iPhone 6, the 
+Galaxy Alpha has smaller bezels all around, making it more compact. We liked the grip of the phone and 
+didn't feel it was slippery. Above the 4.7-inch screen are two sensor cutouts, a front-facing camera and a notification LED that is only visible 
+when it lights up. The Home button is flanked by the capacitive buttons for 'back' and 'recents'. The volume rocker
+ and power button, both made of metal and with great tactile 
+feedback, are on the left and right edges respectively. The bottom of 
+the Alpha has the single grill speaker, Micro-USB port and microphone, 
+whereas the top has the 3.5mm jack and another microphone.The rear has 
+the primary camera with flash and the heart-rate monitor. The camera is 
+slightly raised and as a result you cannot place the phone flat on a 
+surface without it wobbling, this minor niggle is also present on the 
+iPhone 6 and was highlighted by many reviews as being a problem. On opening the rear cover, one can see the battery and a 
+Nano-SIM card slot.Specifications and softwareAs usual, Samsung sells the Galaxy Alpha in
+ India with its home-grown Exynos SoC. This is the first time that Samsung is using the Exynos 5 Octa 
+5430 SoC, with 20nm architecture. It has a combination of four 1.8 GHz Cortex-A15 cores and four 1.3 GHz Cortex-A7 cores, which can all work together. The GPU is a 
+Mali-T628 MP6. There is 2GB of RAM as well. The phone has 32GB of internal 
+storage space which should suffice for most practical purposes. It won't be possible 
+to add more space since there is no slot for a microSD card.With respect to 
+connectivity, Samsung has all that one can ask for and more, including Bluetooth, Wi-Fi, GPRS/ EDGE, 3G, 4G/ LTE, and NFC. In fact, Samsung 
+claims that the Galaxy Alpha is also compatible with Indian LTE networks, though
+ we couldn't test this since LTE isn't present in our city. Samsung's Exynos processors do not have support for LTE built in, and so the Galaxy Alpha uses a discrete Intel XMM 7260 
+LTE-advanced modem. There is a 2.1-megapixel front-facing camera and a 
+12-megapixel rear camera. Samsung packs an 1860mAh battery with the 
+Galaxy Alpha. This is much lower than what we've seen in other
+ phones in this price range. We will confirm in our performance section if it the battery 
+life is lower than normal because of this compromise.The 4.7-inch
+ Super AMOLED screen displays visuals at 720x1280. Spec 
+junkies might scoff at the low resolution but frankly the 312ppi 
+density is more than enough for most purposes. We were hard pressed to 
+find any pixellation in text or images. However, as with all Super 
+AMOLED screens, the one on this phone is also oversaturated and has 
+colours are a little too rich for our liking. The viewing angles on 
+the phone are excellent and so is sunlight legibility.The 
+fingerprint scanner is on the home button a la the iPhone 5s. We've seen such
+ an implementation before in the Samsung Galaxy S5. One can set up to three different fingerprints and use any of them to unlock the device.
+ It works fine most of the time but is not as reliable as Apple's 
+implementation. You can use your fingerprint to sign 
+in to a Samsung account and make PayPal payments as well. Once again, 
+just like all recent high-end Samsung launches, there is a heart rate sensor on the 
+rear.  It works in conjunction with the S Health app. We tried it 
+multiple times but the results were erratic, echoing our impressions from testing the same sensor in the Galaxy S5. As expected, 
+Samsung has slapped Touchwiz on top of Android KitKat on the Galaxy Alpha. The
+first homescreen is a news and social feed called Magazine, which is something like HTC's 
+Blinkfeed. Pulling down the notifications shade displays a ton of settings toggles. This can be configured according to user 
+preference. We think the whole interface is too cluttered and distracting. In terms 
+of third-party apps, we get My Files, Studio, and 
+Flipboard, which is a surprisingly low number by Samsung's standards. 
+The S Health app is not very accurate and sometimes recorded that it had taken 10 steps even was placed on a table to charge. All the additional Samsung 
+features such as Smart pause, Smart stay, Multi window and Download booster
+ are all present in the Galaxy Alpha and they work as advertised. We had a 
+small gripe with the keyboard; since the screen size is now smaller, 
+having an extra row for numbers makes it feel a bit cramped.CameraIn 
+typical Samsung fashion, even the default camera app is overburdened 
+with options. There are a ton of manual options for the more serious 
+photographer but you can also just tap to take pictures if that's what you want. Apart from the Auto mode there are 
+other modes like Beauty face, Shot and more, Panorama, Virtual tour and 
+Dual camera. Many
+ more can be downloaded from the Galaxy Apps store. The 12-megapixel rear camera performs as well 
+as, if not better than, a flagship smartphone like the Samsung Galaxy S5
+ in daylight conditions. We managed to capture crisp details in almost 
+all modes. In close-ups, the lens allows for some good depth-of-field, 
+which looks nice and dramatic. The captured colours were warm and 
+natural but we noticed a slight reddish tint. Our landscape shots also 
+captured good details in subjects that were really far away. Even at 100
+ percent crops the loss in detail was very low. Moreover, there is no 
+chromatic aberration or barrel distortion. However, the camera struggles in low light. The 
+images are noisy and it doesn't really capture too many details. It is 
+not bad at all but there are many phones in this price range that can 
+and do perform better in low light conditions. (click for full size)The rear camera 
+can also capture 4K video, which looks rather crisp. We 
+checked the quality of the captured video on a FHD screen and noted that
+ all the details looked crystal clear without any screen tearing 
+whatsoever. Note that 18 seconds of 4K video took up 118MB of the limited internal storage space. The 2.1-megapixel front camera does a decent job 
+too and it has a beautify option with varying levels by default. 
+However, folks who take a lot of selfies might have preferred a lens 
+with a wider angle. PerformanceSamsung's Exynos and 
+Qualcomm's Snapdragon SoCs have always been pitted against each other by 
+the geek community who care about minute differences in benchmark 
+scores. Frankly, both manufacturers make powerful chips and 
+they work well overall. The Exynos 5 Octa 5430 in the Galaxy Alpha is 
+very powerful and we found 
+it to be very smooth in daily usage. The Alpha's Achilles heel is
+ the fact that high-end benchmark tests and games make it warm; nothing 
+too alarming though. This is further aided by the fact that the metal 
+chassis of the phone gets hot very easily. We noticed that the 
+performance of the phone took a beating due to the heat buildup.  This was evident from the fact that on two different cycles, 
+GFXbench returned scores of 31.9fps and 48.2fps, the latter of which is incidentally 
+the highest score we have recorded this year. The lower score was 
+recorded when the phone had become hot after running benchmark tests but
+ the degree of difference was not too drastic in our other regular 
+benchmarks. In 3DMark Ice Storm Extreme the phone scored 9613.
+ On the other hand, AnTuTu and Quadrant returned scores of 48,991 and 
+24,206, which are both higher than the scores of the Sony Xperia Z3 (Review | Pictures) and 
+the Xperia Z3 Compact (Review | Pictures).We tested a few heavily encoded videos and the phone managed to play them without any problem. Still, the Alpha isn't great for watching movies on due to its loudspeaker, 
+which produces really low, tinny sound and is 
+leagues behind the competition. There is no need to replace the bundled 
+earphones as they are pretty decent. This phone managed to hold on to networks even in 
+areas where the reception was really weak. Even the sound quality in phone 
+calls is really good. If you have been concerned about the Galaxy Alpha's small 1860mAh battery, worry not. The device lasted us 9 hours and 15 minutes in 
+the battery test, which is around the same result we got with the Moto X
+ (Gen 2). Even in regular use the phone easily lasted through a day. VerdictAbove the Rs. 35,000 price point, you'll find several flagships, flagships from previous year, mini variants of flagships, and 
+phablets. Price fluctuations are 
+massive, especially with Samsung's models. For example, the Galaxy S5, the tech giant's flagship released only a few months ago at Rs. 51,500, is 
+now retailing for close to Rs. 38,000. Why are we telling you this? Because
+ the Samsung Galaxy Alpha, with its price tag of Rs.39,999 actually costs
+ more than a Galaxy S5. While you are paying for the metal body of the 
+Galaxy Alpha, the Galaxy S5 is a much better phone overall and is now less expensive to boot. If you don't want a Samsung phone, both the LG G3 (Review | Pictures) and the HTC 
+One M8 (Review | Pictures) are available for less than Rs. 40,000. Shell out a little more money and you can even pick up the iPhone 5s if you want to go the Apple way. We
+ are finding it difficult to recommend the Samsung Galaxy Alpha with its
+ current price tag. If it was priced below Rs. 35,000 (which might happen soon), we would have been able to 
+recommend it wholeheartedly. By no means are we saying that the 
+Galaxy Alpha is a bad phone, because it is the most premium-looking and 
+sturdy Samsung phone we've played with till date. However, there are 
+compromises in the form of heating issues, the lower resolution screen and the lack of expandable storage.
+  At least now we know that Samsung can make a
+ premium-looking smartphone with sturdy materials, because the Galaxy 
+Alpha's design language is replicated in the newly launched Samsung 
+Galaxy Note 4 as well.  Samsung Galaxy Alpha in pictures
+
+
+Bollywood
+ is a funny place. Almost every single Salman Khan movie released 
+recently has been trashed by the critics. At the end of the day though, 
+these movies still manage to set the cash registers ringing. 
+
+Samsung is the Salman Khan of the mobile world. 
+
+Every
+ single flagship smartphone from Samsung has been at least somewhat 
+successful. But every single time, critics have
+ dissed the design and the build quality for being, for lack of a better
+ word, 'plasticky'. 
+
+The Samsung Galaxy Alpha, enclosed in a metal
+ chassis with chamfered edges, aims
+ to change all this. Also while Apple has finally decided to release phones with bigger screens, Samsung has gone the other way with a more palm-friendly 4.7-inch screen. 
+
+We try to find out if this strategy works for the brand and if it can appease its naysayers. 
+
+Look and feelThe
+ Samsung Galaxy Alpha looks like a stretched Apple iPhone 5/5s but 
+calling it a blatant clone would be taking things too far. There are striking similarities between the two devices: Chamfered 
+edges? Check. Metal chassis? Check. Slim boxy design? Check. Physical home 
+button? Check. Fingerprint scanner? Check. But leaving the similarities 
+aside for a moment, the Galaxy Alpha still has a 
+distinctively Samsung flavour to it. 
+
+We've seen the Galaxy 
+Alpha's removable plastic rear cover in quite a few of its previous 
+flagships. We've also seen the dotted texture on the rear cover, although 
+subtle here, in the Samsung Galaxy S5 (Review | Pictures). The patterned print under the all 
+glass front of the Alpha is also in line with other Samsung phones. 
+
+The
+ Samsung Galaxy Alpha is thin at 6.7mm and weighs a mere 
+115g. This is definitely good news for folks who like sleek phones 
+since the Galaxy Alpha manages to undercut the iPhone 6 by 0.2mm in 
+thinness and 14g in weight. Moreover, compared to the iPhone 6, the 
+Galaxy Alpha has smaller bezels all around, making it more compact. We liked the grip of the phone and 
+didn't feel it was slippery. 
+
+Above the 4.7-inch screen are two sensor cutouts, a front-facing camera and a notification LED that is only visible 
+when it lights up. The Home button is flanked by the capacitive buttons for 'back' and 'recents'. The volume rocker
+ and power button, both made of metal and with great tactile 
+feedback, are on the left and right edges respectively. The bottom of 
+the Alpha has the single grill speaker, Micro-USB port and microphone, 
+whereas the top has the 3.5mm jack and another microphone.
+
+The rear has 
+the primary camera with flash and the heart-rate monitor. The camera is 
+slightly raised and as a result you cannot place the phone flat on a 
+surface without it wobbling, this minor niggle is also present on the 
+iPhone 6 and was highlighted by many reviews as being a problem. On opening the rear cover, one can see the battery and a 
+Nano-SIM card slot.
+
+Specifications and softwareAs usual, Samsung sells the Galaxy Alpha in
+ India with its home-grown Exynos SoC. This is the first time that Samsung is using the Exynos 5 Octa 
+5430 SoC, with 20nm architecture. It has a combination of four 1.8 GHz Cortex-A15 cores and four 1.3 GHz Cortex-A7 cores, which can all work together. The GPU is a 
+Mali-T628 MP6. There is 2GB of RAM as well. The phone has 32GB of internal 
+storage space which should suffice for most practical purposes. It won't be possible 
+to add more space since there is no slot for a microSD card.
+
+With respect to 
+connectivity, Samsung has all that one can ask for and more, including Bluetooth, Wi-Fi, GPRS/ EDGE, 3G, 4G/ LTE, and NFC. In fact, Samsung 
+claims that the Galaxy Alpha is also compatible with Indian LTE networks, though
+ we couldn't test this since LTE isn't present in our city. Samsung's Exynos processors do not have support for LTE built in, and so the Galaxy Alpha uses a discrete Intel XMM 7260 
+LTE-advanced modem. 
+
+There is a 2.1-megapixel front-facing camera and a 
+12-megapixel rear camera. Samsung packs an 1860mAh battery with the 
+Galaxy Alpha. This is much lower than what we've seen in other
+ phones in this price range. We will confirm in our performance section if it the battery 
+life is lower than normal because of this compromise.
+
+The 4.7-inch
+ Super AMOLED screen displays visuals at 720x1280. Spec 
+junkies might scoff at the low resolution but frankly the 312ppi 
+density is more than enough for most purposes. We were hard pressed to 
+find any pixellation in text or images. However, as with all Super 
+AMOLED screens, the one on this phone is also oversaturated and has 
+colours are a little too rich for our liking. The viewing angles on 
+the phone are excellent and so is sunlight legibility.
+
+The 
+fingerprint scanner is on the home button a la the iPhone 5s. We've seen such
+ an implementation before in the Samsung Galaxy S5. One can set up to three different fingerprints and use any of them to unlock the device.
+ It works fine most of the time but is not as reliable as Apple's 
+implementation. You can use your fingerprint to sign 
+in to a Samsung account and make PayPal payments as well. 
+
+Once again, 
+just like all recent high-end Samsung launches, there is a heart rate sensor on the 
+rear.  It works in conjunction with the S Health app. We tried it 
+multiple times but the results were erratic, echoing our impressions from testing the same sensor in the Galaxy S5. 
+
+As expected, 
+Samsung has slapped Touchwiz on top of Android KitKat on the Galaxy Alpha. The
+first homescreen is a news and social feed called Magazine, which is something like HTC's 
+Blinkfeed. Pulling down the notifications shade displays a ton of settings toggles. This can be configured according to user 
+preference. We think the whole interface is too cluttered and distracting. In terms 
+of third-party apps, we get My Files, Studio, and 
+Flipboard, which is a surprisingly low number by Samsung's standards. 
+The S Health app is not very accurate and sometimes recorded that it had taken 10 steps even was placed on a table to charge. 
+
+All the additional Samsung 
+features such as Smart pause, Smart stay, Multi window and Download booster
+ are all present in the Galaxy Alpha and they work as advertised. We had a 
+small gripe with the keyboard; since the screen size is now smaller, 
+having an extra row for numbers makes it feel a bit cramped.
+
+CameraIn 
+typical Samsung fashion, even the default camera app is overburdened 
+with options. There are a ton of manual options for the more serious 
+photographer but you can also just tap to take pictures if that's what you want. Apart from the Auto mode there are 
+other modes like Beauty face, Shot and more, Panorama, Virtual tour and 
+Dual camera. Many
+ more can be downloaded from the Galaxy Apps store. 
+
+The 12-megapixel rear camera performs as well 
+as, if not better than, a flagship smartphone like the Samsung Galaxy S5
+ in daylight conditions. We managed to capture crisp details in almost 
+all modes. In close-ups, the lens allows for some good depth-of-field, 
+which looks nice and dramatic. The captured colours were warm and 
+natural but we noticed a slight reddish tint. Our landscape shots also 
+captured good details in subjects that were really far away. Even at 100
+ percent crops the loss in detail was very low. Moreover, there is no 
+chromatic aberration or barrel distortion. 
+
+However, the camera struggles in low light. The 
+images are noisy and it doesn't really capture too many details. It is 
+not bad at all but there are many phones in this price range that can 
+and do perform better in low light conditions. 
+
+(click for full size)The rear camera 
+can also capture 4K video, which looks rather crisp. We 
+checked the quality of the captured video on a FHD screen and noted that
+ all the details looked crystal clear without any screen tearing 
+whatsoever. Note that 18 seconds of 4K video took up 118MB of the limited internal storage space. The 2.1-megapixel front camera does a decent job 
+too and it has a beautify option with varying levels by default. 
+However, folks who take a lot of selfies might have preferred a lens 
+with a wider angle. 
+
+PerformanceSamsung's Exynos and 
+Qualcomm's Snapdragon SoCs have always been pitted against each other by 
+the geek community who care about minute differences in benchmark 
+scores. Frankly, both manufacturers make powerful chips and 
+they work well overall. The Exynos 5 Octa 5430 in the Galaxy Alpha is 
+very powerful and we found 
+it to be very smooth in daily usage. 
+
+The Alpha's Achilles heel is
+ the fact that high-end benchmark tests and games make it warm; nothing 
+too alarming though. This is further aided by the fact that the metal 
+chassis of the phone gets hot very easily. We noticed that the 
+performance of the phone took a beating due to the heat buildup.  This was evident from the fact that on two different cycles, 
+GFXbench returned scores of 31.9fps and 48.2fps, the latter of which is incidentally 
+the highest score we have recorded this year. 
+
+The lower score was 
+recorded when the phone had become hot after running benchmark tests but
+ the degree of difference was not too drastic in our other regular 
+benchmarks. In 3DMark Ice Storm Extreme the phone scored 9613.
+ On the other hand, AnTuTu and Quadrant returned scores of 48,991 and 
+24,206, which are both higher than the scores of the Sony Xperia Z3 (Review | Pictures) and 
+the Xperia Z3 Compact (Review | Pictures).
+
+We tested a few heavily encoded videos and the phone managed to play them without any problem. Still, the Alpha isn't great for watching movies on due to its loudspeaker, 
+which produces really low, tinny sound and is 
+leagues behind the competition. There is no need to replace the bundled 
+earphones as they are pretty decent. 
+
+This phone managed to hold on to networks even in 
+areas where the reception was really weak. Even the sound quality in phone 
+calls is really good. 
+
+If you have been concerned about the Galaxy Alpha's small 1860mAh battery, worry not. The device lasted us 9 hours and 15 minutes in 
+the battery test, which is around the same result we got with the Moto X
+ (Gen 2). Even in regular use the phone easily lasted through a day. 
+
+VerdictAbove the Rs. 35,000 price point, you'll find several flagships, flagships from previous year, mini variants of flagships, and 
+phablets. Price fluctuations are 
+massive, especially with Samsung's models. For example, the Galaxy S5, the tech giant's flagship released only a few months ago at Rs. 51,500, is 
+now retailing for close to Rs. 38,000. 
+
+Why are we telling you this? Because
+ the Samsung Galaxy Alpha, with its price tag of Rs.39,999 actually costs
+ more than a Galaxy S5. While you are paying for the metal body of the 
+Galaxy Alpha, the Galaxy S5 is a much better phone overall and is now less expensive to boot. If you don't want a Samsung phone, both the LG G3 (Review | Pictures) and the HTC 
+One M8 (Review | Pictures) are available for less than Rs. 40,000. Shell out a little more money and you can even pick up the iPhone 5s if you want to go the Apple way. 
+
+We
+ are finding it difficult to recommend the Samsung Galaxy Alpha with its
+ current price tag. If it was priced below Rs. 35,000 (which might happen soon), we would have been able to 
+recommend it wholeheartedly. 
+
+By no means are we saying that the 
+Galaxy Alpha is a bad phone, because it is the most premium-looking and 
+sturdy Samsung phone we've played with till date. However, there are 
+compromises in the form of heating issues, the lower resolution screen and the lack of expandable storage.
+  
+
+At least now we know that Samsung can make a
+ premium-looking smartphone with sturdy materials, because the Galaxy 
+Alpha's design language is replicated in the newly launched Samsung 
+Galaxy Note 4 as well. 
+

@@ -1,0 +1,299 @@
+Xiaomi Redmi Note Review: A Big Screen on a Budget
+
+Well, it looks like Xiaomi has done it 
+again. The Web is on fire thanks to the launch of another highly capable
+ handset with an impossibly low price tag. This time, the Chinese 
+manufacturer has jumped into one of the hottest current market segments:
+ cheap devices with big screens. After having sold multiple lakh units 
+of its Mi 3 and Redmi 1S phones, Xiaomi is cementing its appeal with a 
+claimed 50,000 units of the brand new Redmi Note selling out within 
+seconds in its first flash sale.Demand is high and it will be 
+frustratingly difficult to get your hands on one of the few units up for
+ grabs each week. We're here to find out whether the Xiaomi Redmi Note lives up
+ to the high standard set by its forerunners, or whether it's really not
+ worth all the hassle.Look and feelThe Redmi Note 
+definitely has a family resemblance to the Xiaomi Redmi 1S (Review | Photos), except that the 
+rear cover is a glossy white. The front face is quite plain, with black 
+glass surrounded by a slightly raised black plastic edging. The three 
+capacitive buttons below the screen light up in red. It's a simple look,
+ which we quite like. The power and volume buttons are on the 
+right, the Micro-USB port is on the bottom and the headset socket is on 
+top. There's a camera lens and flash on the upper rear, with a silvery 
+MI logo and the speaker grille closer to the bottom.The cover 
+comes off if you peel it back with one fingernail in the Micro-USB port 
+cutout. The two SIM card slots and the microSD slot are beneath arranged
+ such that you have to take the battery out to get to them.The 
+rear is very glossy, which gives it a great look but makes it a little 
+slippery. Luckily, the Redmi Note isn't very wide and the sides are 
+curved, which make it a little easier to grip when using it with one 
+hand. Specifications and softwareXiaomi is well known by 
+now for stuffing high-end components into dirt-cheap phones, and the 
+Redmi Note is no different. The 1.7GHz octa-core MediaTek MT6592 SoC and
+ 5.5-inch 720x1280-pixel screen are more typical of phones that cost 
+around Rs. 15,000 today. There are a few similarly-specced phones in 
+this price range though: the Intel-based Asus ZenFone 5 (Review | Photos) and the 
+Qualcomm-powered Xolo Q1100 (Review | Photos), for example. It will be interesting to see which one 
+comes out on top in our performance tests.The Redmi Note also has
+ 2GB of RAM and 8GB of storage space which can be bumped up by only 32GB
+ using a microSD card. Wi-Fi b/g/n and Bluetooth 4.0 are supported. 
+There's a gyroscope and a digital compass in addition to the 
+accelerometer, ambient light sensor and proximity sensor. The 
+rear camera takes 13-megapixel photos while buyers will be pleased to 
+note that the front camera also has pretty decent 5-megapixel sensor.You get a charger and USB cable in the box, but no headset.Xiaomi's
+ MIUI skin is one of the most polished we've seen from the major Chinese
+ manufacturers. As we've come to expect, all icons and widgets live 
+together on the homescreens and there is no separate app drawer. This is
+ something users who like simplicity might prefer, but we feel hampered 
+because it's difficult to arrange widgets, and as we install more apps, 
+things get really disorganised. The system app icons are also 
+customised, and thankfully they aren't too difficult to tell apart. 
+Everything looks crisp and clean, without being over the top.  Xiaomi 
+includes an online wallpaper catalog within the Settings app itself. You
+ can change the transition animation and some other visual effects if 
+you like.There are quite a few options to discover in the Redmi 
+Note's Settings app. You can play around with settings for the buttons, 
+notifications LED, lockscreen and more. There's a massive variety of 
+ringtones and message alert sounds to choose from. The notifications 
+shade is also clean, and you can choose whether to show quick settings 
+shortcuts in a separate page or in a scrolling bar at the bottom. There's
+ also an interesting Lite mode, which completely replaces the MIUI 
+launcher with a very simple tile-based interface and large text, 
+probably designed for children, elderly people or the extremely 
+tech-phobic. You get access to basic functions and a panel of contacts 
+which are easy to access. It's a nice touch but Xiaomi doesn't offer 
+fine-grained control over it, such as letting a parent allow or disable 
+certain apps and functions, or forcing a password to get out of it. Some
+ of the tools such as the dialler and messaging app are simplified, 
+while others such as the gallery are just the regular apps, which 
+presents its own set of confusions.There's a separate Guest mode 
+toggle, buried in the security and privacy settings, which hides your 
+call history, messages, notes, photos and some settings, for times when 
+you want to hand your phone to someone else temporarily. This lets you 
+set a password so that it can't be disabled by anyone other than you. 
+There's also a separate section for permissions which forces a PIN or 
+pattern check (independent of your lockscreen PIN or pattern) when 
+someone tries to launch any app you decide should be locked - including 
+system-level ones such as the dialler.PerformanceWe had no
+ complaints with the general performance of the Xiaomi Redmi Note. 
+There's a lot of buzz around this product and a lot of people recognised
+ it in our hands as soon as they saw it. We're happy to report that the 
+anticipation was worth it - Xiaomi has pulled it off yet again. Day-to-day
+ usage presented no problems, and we did not encounter any lag or 
+slowdowns. Casual games ran well but we hit a wall when playing HD 
+videos - only our lightest MPEG4 samples worked well enough, while the 
+heavier H.264 files choked. For some reason, the red navigation buttons 
+remained lit up while videos played in some apps, which was very 
+distracting.We liked the screen for the most 
+part, though it felt unusually slick and was also not very readable in 
+sunlight. Sound from the single speaker on the rear wasn't very 
+impressive - music sounded tinny and compressed, but at least it didn't 
+distort at high volumes.The benchmark scores revealed some very 
+interesting results. While CPU performance was impressive, graphics 
+typically lagged. This has been true of MediaTek processors for a while,
+ but it shows that the Redmi Note does have at least one chink in its 
+armour. We saw scores of 31,969 in AnTuTu and 16,083 overall in 
+Quadrant, which were way higher than those of the Xolo Q1100, Asus 
+ZenFone 5 and even one of our more expensive favourites, the Motorola 
+Moto G (Gen 2) (Review | Photos).However, the GFXbench and 3DMark Ice Storm scores
+ of 13.1fps and 5950 points respectively were not as strong as all the 
+others. The ZenFone 5, in particular, was considerably stronger in both 
+tests. Gaming and HD video consumption will be the one area in which the
+ Redmi Note falls short. (Click to see full size)Both cameras were good when used with 
+plenty of natural light around. Photos were a little grainy when seen at
+ 100 percent, but details were reproduced consistently well and we 
+managed to take some very nice close-up shots with defocused 
+backgrounds. Focusing took a little time and we found it more reliable 
+to tap the screen and confirm a lock rather than let the autofocus take 
+care of it. The same behaviour was amplified in low light - it took a 
+bit too long to lock focus, and there was also a fair bit of shutter 
+lag. Still, results came out well enough for sharing around.Battery life was also quite good. Our looped video test ran for 11 hours, 56 minutes before the phone down automatically. (Click to see full size)VerdictThe
+ Redmi Note continues Xiaomi's habit of upsetting the market with strong
+ smartphones at phenomenal prices. With a phablet-sized screen and 
+specifications that are more typical of phones twice as expensive, it's 
+no surprise that there's a lot of buzz around this phone and demand is 
+extraordinarily high.The sub-Rs. 10,000 smartphone space has been
+ on fire all year and it's amazing to look back and see just how far 
+things have come. For anyone considering a spend of Rs. 6-7,000 on a 
+basic, entry level phone (such as any of the Android One lineup), it 
+makes a lot of sense to step up just a little bit and try to snag a 
+Redmi Note.We say "try" because of course Xiaomi also continues 
+its practice of making devices very, very difficult to buy. The Redmi 
+Note is available only through weekly flash sales on Flipkart, and to 
+make things worse, there's no guarantee of how many units will be 
+available and how long these sales will go on. We already know that a 
+4G-LTE version of this phone will be released later in December for Rs. 
+1,000 more, so the future availability of this particular model is 
+uncertain.There's also the slight issue of graphics performance. 
+If you're into gaming and don't mind a slightly smaller screen, it might be worth it to spend just a little more 
+on the Asus ZenFone 5. Xiaomi Redmi Note in pictures
+
+Demand is high and it will be 
+frustratingly difficult to get your hands on one of the few units up for
+ grabs each week. We're here to find out whether the Xiaomi Redmi Note lives up
+ to the high standard set by its forerunners, or whether it's really not
+ worth all the hassle.
+
+Look and feelThe Redmi Note 
+definitely has a family resemblance to the Xiaomi Redmi 1S (Review | Photos), except that the 
+rear cover is a glossy white. The front face is quite plain, with black 
+glass surrounded by a slightly raised black plastic edging. The three 
+capacitive buttons below the screen light up in red. It's a simple look,
+ which we quite like. 
+
+The power and volume buttons are on the 
+right, the Micro-USB port is on the bottom and the headset socket is on 
+top. There's a camera lens and flash on the upper rear, with a silvery 
+MI logo and the speaker grille closer to the bottom.
+
+The cover 
+comes off if you peel it back with one fingernail in the Micro-USB port 
+cutout. The two SIM card slots and the microSD slot are beneath arranged
+ such that you have to take the battery out to get to them.
+
+The 
+rear is very glossy, which gives it a great look but makes it a little 
+slippery. Luckily, the Redmi Note isn't very wide and the sides are 
+curved, which make it a little easier to grip when using it with one 
+hand. 
+
+Specifications and softwareXiaomi is well known by 
+now for stuffing high-end components into dirt-cheap phones, and the 
+Redmi Note is no different. The 1.7GHz octa-core MediaTek MT6592 SoC and
+ 5.5-inch 720x1280-pixel screen are more typical of phones that cost 
+around Rs. 15,000 today. There are a few similarly-specced phones in 
+this price range though: the Intel-based Asus ZenFone 5 (Review | Photos) and the 
+Qualcomm-powered Xolo Q1100 (Review | Photos), for example. It will be interesting to see which one 
+comes out on top in our performance tests.
+
+The Redmi Note also has
+ 2GB of RAM and 8GB of storage space which can be bumped up by only 32GB
+ using a microSD card. Wi-Fi b/g/n and Bluetooth 4.0 are supported. 
+There's a gyroscope and a digital compass in addition to the 
+accelerometer, ambient light sensor and proximity sensor. 
+
+The 
+rear camera takes 13-megapixel photos while buyers will be pleased to 
+note that the front camera also has pretty decent 5-megapixel sensor.You get a charger and USB cable in the box, but no headset.
+
+Xiaomi's
+ MIUI skin is one of the most polished we've seen from the major Chinese
+ manufacturers. As we've come to expect, all icons and widgets live 
+together on the homescreens and there is no separate app drawer. This is
+ something users who like simplicity might prefer, but we feel hampered 
+because it's difficult to arrange widgets, and as we install more apps, 
+things get really disorganised. 
+
+The system app icons are also 
+customised, and thankfully they aren't too difficult to tell apart. 
+Everything looks crisp and clean, without being over the top.  Xiaomi 
+includes an online wallpaper catalog within the Settings app itself. You
+ can change the transition animation and some other visual effects if 
+you like.
+
+There are quite a few options to discover in the Redmi 
+Note's Settings app. You can play around with settings for the buttons, 
+notifications LED, lockscreen and more. There's a massive variety of 
+ringtones and message alert sounds to choose from. The notifications 
+shade is also clean, and you can choose whether to show quick settings 
+shortcuts in a separate page or in a scrolling bar at the bottom. 
+
+There's
+ also an interesting Lite mode, which completely replaces the MIUI 
+launcher with a very simple tile-based interface and large text, 
+probably designed for children, elderly people or the extremely 
+tech-phobic. You get access to basic functions and a panel of contacts 
+which are easy to access. It's a nice touch but Xiaomi doesn't offer 
+fine-grained control over it, such as letting a parent allow or disable 
+certain apps and functions, or forcing a password to get out of it. Some
+ of the tools such as the dialler and messaging app are simplified, 
+while others such as the gallery are just the regular apps, which 
+presents its own set of confusions.
+
+There's a separate Guest mode 
+toggle, buried in the security and privacy settings, which hides your 
+call history, messages, notes, photos and some settings, for times when 
+you want to hand your phone to someone else temporarily. This lets you 
+set a password so that it can't be disabled by anyone other than you. 
+There's also a separate section for permissions which forces a PIN or 
+pattern check (independent of your lockscreen PIN or pattern) when 
+someone tries to launch any app you decide should be locked - including 
+system-level ones such as the dialler.
+
+PerformanceWe had no
+ complaints with the general performance of the Xiaomi Redmi Note. 
+There's a lot of buzz around this product and a lot of people recognised
+ it in our hands as soon as they saw it. We're happy to report that the 
+anticipation was worth it - Xiaomi has pulled it off yet again. 
+
+Day-to-day
+ usage presented no problems, and we did not encounter any lag or 
+slowdowns. Casual games ran well but we hit a wall when playing HD 
+videos - only our lightest MPEG4 samples worked well enough, while the 
+heavier H.264 files choked. For some reason, the red navigation buttons 
+remained lit up while videos played in some apps, which was very 
+distracting.
+
+We liked the screen for the most 
+part, though it felt unusually slick and was also not very readable in 
+sunlight. Sound from the single speaker on the rear wasn't very 
+impressive - music sounded tinny and compressed, but at least it didn't 
+distort at high volumes.
+
+The benchmark scores revealed some very 
+interesting results. While CPU performance was impressive, graphics 
+typically lagged. This has been true of MediaTek processors for a while,
+ but it shows that the Redmi Note does have at least one chink in its 
+armour. We saw scores of 31,969 in AnTuTu and 16,083 overall in 
+Quadrant, which were way higher than those of the Xolo Q1100, Asus 
+ZenFone 5 and even one of our more expensive favourites, the Motorola 
+Moto G (Gen 2) (Review | Photos).
+
+However, the GFXbench and 3DMark Ice Storm scores
+ of 13.1fps and 5950 points respectively were not as strong as all the 
+others. The ZenFone 5, in particular, was considerably stronger in both 
+tests. Gaming and HD video consumption will be the one area in which the
+ Redmi Note falls short. 
+
+(Click to see full size)
+
+Both cameras were good when used with 
+plenty of natural light around. Photos were a little grainy when seen at
+ 100 percent, but details were reproduced consistently well and we 
+managed to take some very nice close-up shots with defocused 
+backgrounds. Focusing took a little time and we found it more reliable 
+to tap the screen and confirm a lock rather than let the autofocus take 
+care of it. The same behaviour was amplified in low light - it took a 
+bit too long to lock focus, and there was also a fair bit of shutter 
+lag. Still, results came out well enough for sharing around.
+
+Battery life was also quite good. Our looped video test ran for 11 hours, 56 minutes before the phone down automatically. 
+
+(Click to see full size)
+
+VerdictThe
+ Redmi Note continues Xiaomi's habit of upsetting the market with strong
+ smartphones at phenomenal prices. With a phablet-sized screen and 
+specifications that are more typical of phones twice as expensive, it's 
+no surprise that there's a lot of buzz around this phone and demand is 
+extraordinarily high.
+
+The sub-Rs. 10,000 smartphone space has been
+ on fire all year and it's amazing to look back and see just how far 
+things have come. For anyone considering a spend of Rs. 6-7,000 on a 
+basic, entry level phone (such as any of the Android One lineup), it 
+makes a lot of sense to step up just a little bit and try to snag a 
+Redmi Note.
+
+We say "try" because of course Xiaomi also continues 
+its practice of making devices very, very difficult to buy. The Redmi 
+Note is available only through weekly flash sales on Flipkart, and to 
+make things worse, there's no guarantee of how many units will be 
+available and how long these sales will go on. We already know that a 
+4G-LTE version of this phone will be released later in December for Rs. 
+1,000 more, so the future availability of this particular model is 
+uncertain.
+
+There's also the slight issue of graphics performance. 
+If you're into gaming and don't mind a slightly smaller screen, it might be worth it to spend just a little more 
+on the Asus ZenFone 5. 
+

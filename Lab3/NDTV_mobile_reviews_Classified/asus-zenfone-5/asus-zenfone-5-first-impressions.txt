@@ -1,0 +1,270 @@
+Asus ZenFone 5: First Impressions
+
+For a company that was focused on desktop components for a long time, 
+Asus has really changed. After the success of its Fonepad voice-calling 
+tablets, the company is gearing up to really make a mark on the 
+smartphone segment in India.The new Zenfone series initially debuted at CES this year and it now comprises of ZenFone 4 A400CG, ZenFone 4 A450CG, ZenFone 5, 
+and ZenFone 6.  Asus has already confirmed that the new ZenFone 
+series will formally be launched in India at an event on July 9, and the
+ prices will also only be revealed then.We got a chance to play 
+with the Asus ZenFone 5 ahead of its launch in India and these are our first impressions.Design and displayWhen
+ we first held the Asus ZenFone 5 in our hands, we were impressed by its
+ ergonomic design and good looks, which are definitely its USPs.The
+ smartphone is not that heavy when compared to some of the competitors 
+in its segment, with a weight of 145 grams and dimensions of 
+148.2x72.8x10.34mm. Asus has not tried anything new in terms of design 
+and has kept it very basic; we were definitely not expecting any 
+surprises considering Asus is a relative newcomer to phones. The ZenFone
+ 5 feels sturdier in the hands than many phones from both local and 
+international manufacturers.The ZenFone 5 feels quite slim when 
+compared to the likes of the Moto G (Review | Pictures), and is more comfortable to use with
+ just one hand. It is well suited to those with larger palms. The 
+smartphone isn't so bulky or heavy that it can't be used in one hand, 
+but typing, for example, is far more comfortable with two hands.(Also see: Asus ZenFone 5 vs Motorola Moto G)The
+ front panel of the ZenFone 5 is dominated by the 5-inch screen. The 
+section below the screen has a concentric circle finish which is 
+inspired by the design of Asus' ZenBook laptops. Even the power button 
+and volume rocker on the right edge have a touch of the metallic design.
+ The rear cover has a removable panel. You'll see minimal Asus and Intel
+ branding, plus of course the 8-megapixel camera lens on the back. The 
+Micro-USB charging port is on the bottom, while the 3.5mm audio port is 
+on the top.The ZenFone 5 was initially showed off in five colours
+ - Charcoal Black, Pearl White, Cherry Red, Twilight Purple, and 
+Champagne Gold. We received the Charcoal Black version for evaluation. 
+As of now, there is no word whether the company will roll out all five 
+colours in India.The Asus ZenFone 5, as the name suggests, 
+features a 5-inch IPS HD (720x1280 pixels) screen with Corning Gorilla 
+Glass 3 protection. Asus 
+claims that its new TruVivid technology reproduces a greater range of 
+rich, natural colours.In our limited testing, the screen's 294ppi
+ pixel density makes text sharp and clear, and means the ZenFone 5 is 
+fantastic for web browsing. It's possible to read text on web pages when
+ fully zoomed out, which is not really possible on many mid-range 
+handsets.Colours looked quite vibrant and consistently reproduced
+ well on the ZenFone 5's screen and thankfully the viewing angles were 
+never a problem. Typing on the 5-inch display of the handset would be no
+ problem even for people with bigger hands.Camera and softwareThe ZenFone 5 sports an 8-megapixel autofocus rear camera with an f/2.0 
+aperture lens and LED flash. There is also a 2-megapixel front camera. 
+The company is touting its PixelMaster technology which is said to 
+combine software, hardware and optical design to deliver good image 
+quality.The feature we spent the most time with in our limited time 
+with the ZenFone 5 was its camera, which could shape up to be the 
+company's best asset in the market today. The rear camera produces 
+vibrant and detailed images. It performs well in just about every 
+lighting condition but found that there was some noise when we reviewed 
+the photos at 100 percent. We will test the camera in much greater 
+detail in our review.Some of the available camera modes are time 
+rewind (starts recording images two seconds before and one second after 
+pressing the shutter button, and captures 31 images for consumers to 
+choose), HDR, panorama, night, low-light, selfie (detects faces within 
+the frame automatically), miniature, depth of field (background blur), 
+smart remove (removes unwanted moving objects from backgrounds), all 
+smiles, beautification (helps adjusting subject's look in real-time), 
+and GIF animation (automatically converts a series of photos into 
+animation).The Asus ZenFone 5 still runs Android 4.3 Jelly Bean, 
+but an update to Android 4.4 KitKat is already on the company's to-do 
+list. It's also running Asus's custom ZenUI which takes some getting 
+used to, but is most certainly worth the learning curve.Asus' 
+skin applies to several elements of the UI such as the app icons, 
+although the changes are not as radical as Gionee's Amigo UI or 
+Samsung's TouchWiz UI. There are also a few neat bells and whistles. 
+While the ZenFone 5 retains the same navigation structure of home 
+screens (complete with widgets and app shortcuts), an app launcher and a
+ notifications tray (with toggles for settings), all the UI elements 
+have been tinkered with to make the interface look different from other 
+Android phones.The UI layer on the ZenFone 5 goes beyond just app
+ icons and menus, extending even to native apps like the Calculator, 
+Clock, Camera and the phone's image gallery.The ZenFone 5 comes 
+with a number of apps such as What's Next, which is an app for tracking 
+and managing apps; Do It Later, an app that can manage the to do list; 
+Zen Link (Share Link, Party Link, PC Link, and Remote Link apps); Asus 
+WebStorage, is the company's cloud storage app (5GB free for lifetime), 
+and Omlet Chat, an instant messaging free app.If you're used to 
+stock or mildly-customised versions of Android such as those on Motorola
+ handsets, you may find it all a bit much. We'll be diving into Asus's 
+ZenUI more in depth in our full review.  Specifications and PerformanceConfirming
+ its place within the mid-range smartphone market, the Asus ZenFone 5 
+has a dual-core 1.6GHz Intel Atom Z2560 processor with what Intel calls 
+Hyper-Threading technology, which allows each core to execute two 
+instructions at a time.Asus at the Computex launched 
+refreshed version of its ZenFone 5 smartphone, which now comes with 
+LTE support and is backed by a Qualcomm Snapdragon 400 processor clocked
+ at 1.2GHz. Considering that Asus is launching the Intel chipset powered
+ handset means that the company is sticking to a non-LTE variant for the
+ Indian market.There is 2GB of RAM and the internal 
+storage stands at 8GB with support for up to an additional 64GB using a 
+microSD card. The Asus ZenFone 5 is a dual-SIM device (GSM+GSM) and 
+supports two Micro-SIMs. There is a 2,110mAh battery which is pretty 
+good for a handset with an HD screen.In our short time with the 
+handset, we found it to be pretty snappy. The ZenFone 5's customised 
+interface was responsive and smooth during our use. We also downloaded 
+and played Asphalt 8, and the gaming experience delivered by the phone 
+was mostly good. The big screen and the HD resolution make 
+watching videos enjoyable. Blacks had the perfect depth and the screen 
+contrast was optimum.Final wordsThe Asus ZenFone 5 packs a
+ punch with its screen and solid build quality. It's pretty impressive 
+for a mid-range phone. However, we would like to wait for the price to 
+be announced officially before commenting on the overall value for 
+money.One thing is for sure, if the ZenFone 5 is priced between 
+Rs. 10,000 and 15,000, it will be compared to the popular Moto G and 
+could be a pretty good alternative for those who prefer large screens.
+
+
+The new Zenfone series initially debuted at CES this year and it now comprises of ZenFone 4 A400CG, ZenFone 4 A450CG, ZenFone 5, 
+and ZenFone 6.  Asus has already confirmed that the new ZenFone 
+series will formally be launched in India at an event on July 9, and the
+ prices will also only be revealed then.
+
+We got a chance to play 
+with the Asus ZenFone 5 ahead of its launch in India and these are our first impressions.
+
+Design and displayWhen
+ we first held the Asus ZenFone 5 in our hands, we were impressed by its
+ ergonomic design and good looks, which are definitely its USPs.
+
+The
+ smartphone is not that heavy when compared to some of the competitors 
+in its segment, with a weight of 145 grams and dimensions of 
+148.2x72.8x10.34mm. Asus has not tried anything new in terms of design 
+and has kept it very basic; we were definitely not expecting any 
+surprises considering Asus is a relative newcomer to phones. The ZenFone
+ 5 feels sturdier in the hands than many phones from both local and 
+international manufacturers.
+
+The ZenFone 5 feels quite slim when 
+compared to the likes of the Moto G (Review | Pictures), and is more comfortable to use with
+ just one hand. It is well suited to those with larger palms. The 
+smartphone isn't so bulky or heavy that it can't be used in one hand, 
+but typing, for example, is far more comfortable with two hands.
+
+(Also see: Asus ZenFone 5 vs Motorola Moto G)
+
+The
+ front panel of the ZenFone 5 is dominated by the 5-inch screen. The 
+section below the screen has a concentric circle finish which is 
+inspired by the design of Asus' ZenBook laptops. Even the power button 
+and volume rocker on the right edge have a touch of the metallic design.
+ The rear cover has a removable panel. You'll see minimal Asus and Intel
+ branding, plus of course the 8-megapixel camera lens on the back. The 
+Micro-USB charging port is on the bottom, while the 3.5mm audio port is 
+on the top.
+
+The ZenFone 5 was initially showed off in five colours
+ - Charcoal Black, Pearl White, Cherry Red, Twilight Purple, and 
+Champagne Gold. We received the Charcoal Black version for evaluation. 
+As of now, there is no word whether the company will roll out all five 
+colours in India.
+
+The Asus ZenFone 5, as the name suggests, 
+features a 5-inch IPS HD (720x1280 pixels) screen with Corning Gorilla 
+Glass 3 protection. Asus 
+claims that its new TruVivid technology reproduces a greater range of 
+rich, natural colours.
+
+In our limited testing, the screen's 294ppi
+ pixel density makes text sharp and clear, and means the ZenFone 5 is 
+fantastic for web browsing. It's possible to read text on web pages when
+ fully zoomed out, which is not really possible on many mid-range 
+handsets.
+
+Colours looked quite vibrant and consistently reproduced
+ well on the ZenFone 5's screen and thankfully the viewing angles were 
+never a problem. Typing on the 5-inch display of the handset would be no
+ problem even for people with bigger hands.
+
+Camera and softwareThe ZenFone 5 sports an 8-megapixel autofocus rear camera with an f/2.0 
+aperture lens and LED flash. There is also a 2-megapixel front camera. 
+The company is touting its PixelMaster technology which is said to 
+combine software, hardware and optical design to deliver good image 
+quality.
+
+The feature we spent the most time with in our limited time 
+with the ZenFone 5 was its camera, which could shape up to be the 
+company's best asset in the market today. The rear camera produces 
+vibrant and detailed images. It performs well in just about every 
+lighting condition but found that there was some noise when we reviewed 
+the photos at 100 percent. We will test the camera in much greater 
+detail in our review.
+
+Some of the available camera modes are time 
+rewind (starts recording images two seconds before and one second after 
+pressing the shutter button, and captures 31 images for consumers to 
+choose), HDR, panorama, night, low-light, selfie (detects faces within 
+the frame automatically), miniature, depth of field (background blur), 
+smart remove (removes unwanted moving objects from backgrounds), all 
+smiles, beautification (helps adjusting subject's look in real-time), 
+and GIF animation (automatically converts a series of photos into 
+animation).
+
+The Asus ZenFone 5 still runs Android 4.3 Jelly Bean, 
+but an update to Android 4.4 KitKat is already on the company's to-do 
+list. It's also running Asus's custom ZenUI which takes some getting 
+used to, but is most certainly worth the learning curve.
+
+Asus' 
+skin applies to several elements of the UI such as the app icons, 
+although the changes are not as radical as Gionee's Amigo UI or 
+Samsung's TouchWiz UI. There are also a few neat bells and whistles. 
+While the ZenFone 5 retains the same navigation structure of home 
+screens (complete with widgets and app shortcuts), an app launcher and a
+ notifications tray (with toggles for settings), all the UI elements 
+have been tinkered with to make the interface look different from other 
+Android phones.
+
+The UI layer on the ZenFone 5 goes beyond just app
+ icons and menus, extending even to native apps like the Calculator, 
+Clock, Camera and the phone's image gallery.
+
+The ZenFone 5 comes 
+with a number of apps such as What's Next, which is an app for tracking 
+and managing apps; Do It Later, an app that can manage the to do list; 
+Zen Link (Share Link, Party Link, PC Link, and Remote Link apps); Asus 
+WebStorage, is the company's cloud storage app (5GB free for lifetime), 
+and Omlet Chat, an instant messaging free app.
+
+If you're used to 
+stock or mildly-customised versions of Android such as those on Motorola
+ handsets, you may find it all a bit much. We'll be diving into Asus's 
+ZenUI more in depth in our full review.
+
+ 
+
+ 
+
+Specifications and PerformanceConfirming
+ its place within the mid-range smartphone market, the Asus ZenFone 5 
+has a dual-core 1.6GHz Intel Atom Z2560 processor with what Intel calls 
+Hyper-Threading technology, which allows each core to execute two 
+instructions at a time.
+
+Asus at the Computex launched 
+refreshed version of its ZenFone 5 smartphone, which now comes with 
+LTE support and is backed by a Qualcomm Snapdragon 400 processor clocked
+ at 1.2GHz. Considering that Asus is launching the Intel chipset powered
+ handset means that the company is sticking to a non-LTE variant for the
+ Indian market.
+
+There is 2GB of RAM and the internal 
+storage stands at 8GB with support for up to an additional 64GB using a 
+microSD card. The Asus ZenFone 5 is a dual-SIM device (GSM+GSM) and 
+supports two Micro-SIMs. There is a 2,110mAh battery which is pretty 
+good for a handset with an HD screen.
+
+In our short time with the 
+handset, we found it to be pretty snappy. The ZenFone 5's customised 
+interface was responsive and smooth during our use. We also downloaded 
+and played Asphalt 8, and the gaming experience delivered by the phone 
+was mostly good. The big screen and the HD resolution make 
+watching videos enjoyable. Blacks had the perfect depth and the screen 
+contrast was optimum.
+
+Final wordsThe Asus ZenFone 5 packs a
+ punch with its screen and solid build quality. It's pretty impressive 
+for a mid-range phone. However, we would like to wait for the price to 
+be announced officially before commenting on the overall value for 
+money.
+
+One thing is for sure, if the ZenFone 5 is priced between 
+Rs. 10,000 and 15,000, it will be compared to the popular Moto G and 
+could be a pretty good alternative for those who prefer large screens.
+

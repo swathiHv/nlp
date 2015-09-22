@@ -1,0 +1,470 @@
+Intex Cloud FX Review: A Bold New Direction
+
+It isn't easy to create and promote a whole new smartphone platform. 
+Over 84 percent of smartphones in use today run Android, with iOS a 
+distant second at around 12 percent. That means there's just four 
+percent of the market left for everyone else - including Microsoft, 
+BlackBerry, and anyone optimistic enough to try their luck. We were in 
+fact supposed to have seen a number of upstarts this year: Sailfish OS, 
+Ubuntu Touch and Tizen, to name a few, but none of them has yet 
+materialised in any significant form.  Which is where the Mozilla
+ Foundation comes in. Firefox OS, after a couple of years in the making,
+ is now here in full force. The company made a splash at this year's 
+Mobile World Congress by announcing a $25 smartphone is partnership with
+ a little-known Chinese firm named Spreadtrum. This device has become 
+the basis of both the two Firefox OS devices launched in India this 
+week: the Intex Cloud FX and the Spice Fire One Mi-FX 1.The one 
+thing that sets Mozilla apart from everyone else who has tried and 
+failed at this game is that it is a non-profit organisation. That means 
+it doesn't have the same concerns and motivations as everyone else, 
+which not only reduces costs and attracts partners, but also allows the 
+organisation to push for open standards.With its ultra-low-cost 
+strategy in India, Mozilla clearly isn't competing with the 
+heavyweights. It has its sights locked on the crucial first-time 
+smartphone buyer who is either upgrading from a simple candybar phone or
+ has never owned a mobile phone at all. Look and feelThe 
+Intex Cloud FX is Firefox OS's first launch vehicle in India. This is 
+pretty much as basic as a phone can get, which is no surprise. The 
+device is small by today's standards and feels a lot like many of the 
+earliest all-touch phones did, the better part of a decade ago.  It's 
+easy to hold, and Intex has used a textured rear panel for even more 
+grip.This is pretty much as simple as a touchscreen phone can 
+get. There's a lot of plastic surrounding the screen, including a very 
+thick "chin" which is broken up by the lone capacitive navigation 
+button.  Mozilla has chosen a simple circle for its Home button icon and
+ all other interaction is carried out using on-screen controls - more in
+ line with iOS than Android.The power button and headset jack are
+ on the top, though the Micro-USB port is on the left. There's nothing 
+on the back apart from the camera lens, speaker holes, Intex logo and 
+Firefox OS branding. The two SIM slots and the microSD card slot are 
+beneath the removable battery. It isn't hard at all to peel off the rear
+ panel and get to them.The Cloud FX is clearly a budget plastic 
+phone, but it feels well-constructed and sturdy enough to withstand a 
+few knocks. It could pass off as being in the same price league as the 
+Motorola Moto E (Review | Pictures) which costs over three times as much. SpecificationsJust
+ how low can a manufacturer go? The Intex Cloud FX's specifications are 
+so meagre that we have to admire the fact a full-fledged mobile OS can 
+actually run on such a device. For starters, the processor is a poky 
+1GHz single-core ARM Cortex-A5 derivative designed by Spreadtrum. At 
+least there's an integrated Mali-400 GPU for graphics. There's a paltry 
+128MB of RAM, which is a quarter of what we would consider the barest of
+ bare minimums for a respectable budget Android device.The Cloud 
+FX has a 3.5-inch 320x480-pixel screen which might also sound laughable,
+ till you remember that this is the exact size and density that Apple 
+used on the original iPhone and its successors until the iPhone 4 came 
+along in 2010, but in terms of quality there's no comparison at all 
+between these devices.Intex's spec sheet lists 256MB of internal 
+storage space, but it's divided into dedicated areas for apps, documents
+ and the OS itself. Only 46MB of space is exposed to the user for 
+documents - including photos taken with the phone itself - which means 
+you'll definitely need a microSD card right from day one.The 
+2-megapixel camera is about all we can expect at this price level, and 
+there's no flash. There is Wi-Fi and Bluetooth (versions unspecified) 
+but no ambient light sensor or anything of the sort. Don't expect 3G 
+data - you're limited to EDGE speeds when not in range of a Wi-Fi 
+hotspot.  SoftwareOf course the main attraction here is 
+Firefox OS, and we're counting on it to be optimised enough to make run 
+well on the feeble hardware. In terms of its look and feel, Firefox OS 
+isn't too far removed from Android or iOS. There's a familiar grid of 
+app icons, and most parts of the interface are predictable. You can pull
+ down from the top of the screen to show a notification shade (with 
+quick shortcuts); there's a search bar on the first menu page, you can 
+tap and hold any icon to reorder it or delete it, you can get to the 
+camera from the lockscreen, and there are apps for most common purposes.A
+ few things are unique though - not all the icons represent apps which 
+are installed on the phone. That's probably a good thing considering the
+ severe lack of available storage space, but it also means you're 
+dependent on an Internet connection (2G at that) for a lot of things. The
+ first menu screen has four circular icons for "Smart collections" which
+ act somewhat like folders.  They can contain regular apps as well as 
+Web shortcuts. There are four collections by default - Social, Games, 
+Music and Entertainment. You'll find dozens of popular websites and 
+services here - just keep scrolling to see more. There are big names 
+from the global and local scenes including Hungama, Miss Malini, 
+Soundcloud, Entertainment Weekly, Spotify, Grooveshark, Gaana, Rotten 
+Tomatoes, IMDb, ScoopWhoop, TMZ, LinkedIn, OKCupid, Flickr, Reddit, and 
+Tetris. Long-tap any blank area on the screen to choose from more 
+possible Smart Collections such as Music, Tech, Bollywood, Politics, 
+Religion, News, Outdoors, DIY, Cricket, and loads more. You can pin 
+individual sites to the top of the list, but you can't reorder or remove
+ ones you don't want to see.There's also an app store for regular
+ apps, called the Firefox Marketplace. Interestingly, you don't need an 
+account or email address in order to download apps. This is convenient 
+in the short term, but it also means you can't sync across multiple 
+devices or set up a new phone with your chosen apps quickly. There are 
+quite a few big names here, but not quite as many as we would have 
+liked. You'll find Facebook, ESPN, Box, Wikipedia, Bing, Twitter, 
+Soundcloud and many others in the Marketplace. Whatsapp is one of the 
+biggest omissions - experiences with the Nokia X platform indicate that 
+this will be a major obstacle for Mozilla to overcome.Our Cloud 
+FX unit came with an instant messaging app called ConnectA2 preloaded, 
+which claimed to offer "experimental" interoperability with Whatsapp but
+ failed to let us even create an account when we tried it. At least the Marketplace apps and games work when there is no Internet connection - the Collections simply fail to load, and all you'll see is a blank screen.Mozilla
+ has done a decent job with the default apps. There's a clock, calendar,
+ FM radio, data usage tracker, file manager, audio player, video player,
+ email client, and of course the Firefox browser.  They're consistent 
+and easy to use, even if not exactly as feature-rich as their Android or
+ iOS counterparts. Oddly, there's no calculator app, voice recorder, 
+note taker or weather app though all of these can be found in the 
+Marketplace. The Settings app is laid out very much like Android's. The
+ search bar on the first menu page behaves a little unconventionally. It
+ prompts you with "I'm thinking of...", and when you type anything in, 
+it shows a sheet of icons representing sites or apps that might have an 
+answer for you. For example, you could search for "cake" or "Guardians 
+of the Galaxy", and you'll see results such as Google Maps, YouTube, 
+Yellow Pages, Sanjeev Kapoor and About.com, or IMDb, Twitter, eBay and 
+Desimartini respectively. Note that you don't see individual page or 
+post results, only pointers to entire sites. Tapping each "result" will 
+perform your search again using that respective site or service's own 
+search feature. We found Firefox OS to be very user-friendly and 
+polished, although the Intex Cloud FX itself is generally not a very 
+slick device thanks to its weak hardware. There are still plenty of 
+places where Mozilla can improve. For example the keyboard is extremely 
+fussy - you have to hunt and peck each letter you type to make sure 
+you've tapped exactly the right spot. There's no error correction, and 
+the phone's glacial touch recognition speed is frustrating to say the 
+least. The letters are always shown in uppercase and there's no 
+indication of when the Shift key is engaged - this makes typing 
+passwords especially painful.PerformanceMost of the time, 
+the Intex Cloud FX is easy to use and in fact, the menus are surprisingly 
+responsive. There is definitely lag when flipping through the menu and 
+launching apps, but not more so than on budget Android phones (which in 
+this case would cost over twice as much). However, anything that taxes 
+the device even a little will result in agonising slowdowns and delayed 
+response to touch input. Scrolling through the Marketplace, for example,
+ can be quite painful because not only do you not know if it has 
+recognised a tap, but if you wind up tapping on something inadvertently,
+ it will take an age to get back to where you were in the list.Switching
+ between open tabs in the browser can take upwards of 15 seconds, and 
+trying to read heavy responsive Web pages feels like wading through 
+molasses. When the device is stressed, flicks to scroll are sometimes 
+interpreted as taps to click. This is more of a problem with the 
+hardware than with the software - in our testing it seemed as though the
+ Cloud FX supports only single-finger touch input.We tried a few 
+simple games. A simple 2048 clone ran pretty well, though it looked 
+almost like plain text. Another game from the Marketplace called Tower 
+Jelly was a simple stacking puzzle, but with a bit of graphical flourish
+ - the game's mechanic requires a precise timing of taps, which made it 
+very difficult to play.Videos of any resolution higher than 480p 
+weren't even recognised by the built-in player. Our 240p and 480p test 
+clips played with a tiny bit of lag, but we noticed that the phone 
+heated up so much that it was slightly uncomfortable to hold.The 
+only formal benchmark in our suite that would even run on this device 
+was the browser-based SunSpider test. The time of 6997ms was nearly five
+ times longer than that of the Asus Zenfone 4 (Review | Pictures) one of our current 
+favourite budget Android devices right now. This doesn't affect 
+real-world usability; in fact it's almost impressive to think about how 
+light the OS must be in order to run on hardware that produces such a 
+stunningly low score.This is also when the abysmal quality of the
+ screen and speaker really became evident. Viewing angles are simply 
+awful - colours are almost completely inverted or washed out unless you 
+look at the screen straight on. Brightness is inadequate and there's no 
+automatic adjustment. The speaker tears at every volume level, and sound
+ is just screechy and distorted. The bundled headset is not much better.(Click to see full size)The
+ phone's camera is also mostly awful - we can understand that a 
+camera is a huge draw for smartphone buyers, but it's of such limited use that we wish Intex had just dispensed with it and shaved another
+ Rs. 100-200 off the device's price. The camera app is so basic that you
+ can only switch between still and video - there is absolutely no other 
+control. The Cloud FX has a fixed-focus lens, so details are suppressed and sharpness suffers. You'll have to 
+deal with significant shutter lag and stand really still to avoid blurring. Don't bother trying to take pictures 
+of anything other than close-up subjects, and that too only in bright 
+daylight.We weren't too pleased with the device's battery life 
+either. In informal usage over the course of a week, we found that the 
+phone lasted relatively well on standby but could not really handle any 
+multimedia or Web usage without draining rapidly. We were also shocked 
+to see how long it took to charge, till we realised that Intex has 
+shipped a ridiculously underpowered 500mA USB adapter in the box. 
+Swapping it for any common 1000-2000mA charger took care of that little 
+problem.(Click to see full size)VerdictFirefox OS is a well-built, well-designed 
+platform, but then we can say the same about so many others as well. The
+ one thing it has going for it right now is that devices based on it can
+ undercut even the cheapest Android phones, thus creating a whole new 
+market for itself and avoiding direct competition. Even Nokia's Asha 
+pseudo-smartphones can't quite reach this level of affordability. 
+First-time users aren't likely to have very high expectations either.That
+ could also work against the Intex Cloud FX, though. With such weak 
+hardware, it will be easy for people to get frustrated and give up on 
+the idea of such a cheap smartphone altogether. If even basic text input
+ is so difficult (and that's not even with language localisation) and 
+essential apps are missing, what's the point of calling the phone 
+"smart"? Given a choice between saving a thousand rupees and getting a 
+much more usable device, most people would eventually gravitate towards 
+the better device.Another problem is the concept of Web apps. 
+With cellular data speeds capped at 2G levels, we can't even imagine 
+that a device such as the Cloud FX will somehow encourage mass adoption 
+of mobile Internet connectivity.  Users are just far more likely to 
+become frustrated and upgrade away from the platform. All things 
+considered, we do think that Firefox OS has a solid chance of succeeding
+ in India, and that the Intex Cloud FX is a great start. With a bit of 
+momentum, device manufacturers might even be able to take a chance on 
+devices that compete more evenly with the current Android bottom-end. 
+Competition can only be a good thing for the market. Intex Cloud FX in pictures
+
+It isn't easy to create and promote a whole new smartphone platform. 
+Over 84 percent of smartphones in use today run Android, with iOS a 
+distant second at around 12 percent. That means there's just four 
+percent of the market left for everyone else - including Microsoft, 
+BlackBerry, and anyone optimistic enough to try their luck. We were in 
+fact supposed to have seen a number of upstarts this year: Sailfish OS, 
+Ubuntu Touch and Tizen, to name a few, but none of them has yet 
+materialised in any significant form.  
+
+Which is where the Mozilla
+ Foundation comes in. Firefox OS, after a couple of years in the making,
+ is now here in full force. The company made a splash at this year's 
+Mobile World Congress by announcing a $25 smartphone is partnership with
+ a little-known Chinese firm named Spreadtrum. This device has become 
+the basis of both the two Firefox OS devices launched in India this 
+week: the Intex Cloud FX and the Spice Fire One Mi-FX 1.
+
+The one 
+thing that sets Mozilla apart from everyone else who has tried and 
+failed at this game is that it is a non-profit organisation. That means 
+it doesn't have the same concerns and motivations as everyone else, 
+which not only reduces costs and attracts partners, but also allows the 
+organisation to push for open standards.
+
+With its ultra-low-cost 
+strategy in India, Mozilla clearly isn't competing with the 
+heavyweights. It has its sights locked on the crucial first-time 
+smartphone buyer who is either upgrading from a simple candybar phone or
+ has never owned a mobile phone at all. 
+
+Look and feelThe 
+Intex Cloud FX is Firefox OS's first launch vehicle in India. This is 
+pretty much as basic as a phone can get, which is no surprise. The 
+device is small by today's standards and feels a lot like many of the 
+earliest all-touch phones did, the better part of a decade ago.  It's 
+easy to hold, and Intex has used a textured rear panel for even more 
+grip.
+
+This is pretty much as simple as a touchscreen phone can 
+get. There's a lot of plastic surrounding the screen, including a very 
+thick "chin" which is broken up by the lone capacitive navigation 
+button.  Mozilla has chosen a simple circle for its Home button icon and
+ all other interaction is carried out using on-screen controls - more in
+ line with iOS than Android.
+
+The power button and headset jack are
+ on the top, though the Micro-USB port is on the left. There's nothing 
+on the back apart from the camera lens, speaker holes, Intex logo and 
+Firefox OS branding. The two SIM slots and the microSD card slot are 
+beneath the removable battery. It isn't hard at all to peel off the rear
+ panel and get to them.
+
+The Cloud FX is clearly a budget plastic 
+phone, but it feels well-constructed and sturdy enough to withstand a 
+few knocks. It could pass off as being in the same price league as the 
+Motorola Moto E (Review | Pictures) which costs over three times as much.
+
+ SpecificationsJust
+ how low can a manufacturer go? The Intex Cloud FX's specifications are 
+so meagre that we have to admire the fact a full-fledged mobile OS can 
+actually run on such a device. For starters, the processor is a poky 
+1GHz single-core ARM Cortex-A5 derivative designed by Spreadtrum. At 
+least there's an integrated Mali-400 GPU for graphics. There's a paltry 
+128MB of RAM, which is a quarter of what we would consider the barest of
+ bare minimums for a respectable budget Android device.
+
+The Cloud 
+FX has a 3.5-inch 320x480-pixel screen which might also sound laughable,
+ till you remember that this is the exact size and density that Apple 
+used on the original iPhone and its successors until the iPhone 4 came 
+along in 2010, but in terms of quality there's no comparison at all 
+between these devices.
+
+Intex's spec sheet lists 256MB of internal 
+storage space, but it's divided into dedicated areas for apps, documents
+ and the OS itself. Only 46MB of space is exposed to the user for 
+documents - including photos taken with the phone itself - which means 
+you'll definitely need a microSD card right from day one.
+
+The 
+2-megapixel camera is about all we can expect at this price level, and 
+there's no flash. There is Wi-Fi and Bluetooth (versions unspecified) 
+but no ambient light sensor or anything of the sort. Don't expect 3G 
+data - you're limited to EDGE speeds when not in range of a Wi-Fi 
+hotspot.  
+
+SoftwareOf course the main attraction here is 
+Firefox OS, and we're counting on it to be optimised enough to make run 
+well on the feeble hardware. In terms of its look and feel, Firefox OS 
+isn't too far removed from Android or iOS. There's a familiar grid of 
+app icons, and most parts of the interface are predictable. You can pull
+ down from the top of the screen to show a notification shade (with 
+quick shortcuts); there's a search bar on the first menu page, you can 
+tap and hold any icon to reorder it or delete it, you can get to the 
+camera from the lockscreen, and there are apps for most common purposes.
+
+A
+ few things are unique though - not all the icons represent apps which 
+are installed on the phone. That's probably a good thing considering the
+ severe lack of available storage space, but it also means you're 
+dependent on an Internet connection (2G at that) for a lot of things.
+
+ 
+
+The
+ first menu screen has four circular icons for "Smart collections" which
+ act somewhat like folders.  They can contain regular apps as well as 
+Web shortcuts. There are four collections by default - Social, Games, 
+Music and Entertainment. You'll find dozens of popular websites and 
+services here - just keep scrolling to see more. There are big names 
+from the global and local scenes including Hungama, Miss Malini, 
+Soundcloud, Entertainment Weekly, Spotify, Grooveshark, Gaana, Rotten 
+Tomatoes, IMDb, ScoopWhoop, TMZ, LinkedIn, OKCupid, Flickr, Reddit, and 
+Tetris. Long-tap any blank area on the screen to choose from more 
+possible Smart Collections such as Music, Tech, Bollywood, Politics, 
+Religion, News, Outdoors, DIY, Cricket, and loads more. You can pin 
+individual sites to the top of the list, but you can't reorder or remove
+ ones you don't want to see.
+
+There's also an app store for regular
+ apps, called the Firefox Marketplace. Interestingly, you don't need an 
+account or email address in order to download apps. This is convenient 
+in the short term, but it also means you can't sync across multiple 
+devices or set up a new phone with your chosen apps quickly. There are 
+quite a few big names here, but not quite as many as we would have 
+liked. You'll find Facebook, ESPN, Box, Wikipedia, Bing, Twitter, 
+Soundcloud and many others in the Marketplace. Whatsapp is one of the 
+biggest omissions - experiences with the Nokia X platform indicate that 
+this will be a major obstacle for Mozilla to overcome.
+
+Our Cloud 
+FX unit came with an instant messaging app called ConnectA2 preloaded, 
+which claimed to offer "experimental" interoperability with Whatsapp but
+ failed to let us even create an account when we tried it. At least the Marketplace apps and games work when there is no Internet connection - the Collections simply fail to load, and all you'll see is a blank screen.
+
+Mozilla
+ has done a decent job with the default apps. There's a clock, calendar,
+ FM radio, data usage tracker, file manager, audio player, video player,
+ email client, and of course the Firefox browser.  They're consistent 
+and easy to use, even if not exactly as feature-rich as their Android or
+ iOS counterparts. Oddly, there's no calculator app, voice recorder, 
+note taker or weather app though all of these can be found in the 
+Marketplace. The Settings app is laid out very much like Android's. 
+
+The
+ search bar on the first menu page behaves a little unconventionally. It
+ prompts you with "I'm thinking of...", and when you type anything in, 
+it shows a sheet of icons representing sites or apps that might have an 
+answer for you. For example, you could search for "cake" or "Guardians 
+of the Galaxy", and you'll see results such as Google Maps, YouTube, 
+Yellow Pages, Sanjeev Kapoor and About.com, or IMDb, Twitter, eBay and 
+Desimartini respectively. Note that you don't see individual page or 
+post results, only pointers to entire sites. Tapping each "result" will 
+perform your search again using that respective site or service's own 
+search feature. 
+
+We found Firefox OS to be very user-friendly and 
+polished, although the Intex Cloud FX itself is generally not a very 
+slick device thanks to its weak hardware. There are still plenty of 
+places where Mozilla can improve. For example the keyboard is extremely 
+fussy - you have to hunt and peck each letter you type to make sure 
+you've tapped exactly the right spot. There's no error correction, and 
+the phone's glacial touch recognition speed is frustrating to say the 
+least. The letters are always shown in uppercase and there's no 
+indication of when the Shift key is engaged - this makes typing 
+passwords especially painful.
+
+PerformanceMost of the time, 
+the Intex Cloud FX is easy to use and in fact, the menus are surprisingly 
+responsive. There is definitely lag when flipping through the menu and 
+launching apps, but not more so than on budget Android phones (which in 
+this case would cost over twice as much). However, anything that taxes 
+the device even a little will result in agonising slowdowns and delayed 
+response to touch input. Scrolling through the Marketplace, for example,
+ can be quite painful because not only do you not know if it has 
+recognised a tap, but if you wind up tapping on something inadvertently,
+ it will take an age to get back to where you were in the list.
+
+Switching
+ between open tabs in the browser can take upwards of 15 seconds, and 
+trying to read heavy responsive Web pages feels like wading through 
+molasses. When the device is stressed, flicks to scroll are sometimes 
+interpreted as taps to click. This is more of a problem with the 
+hardware than with the software - in our testing it seemed as though the
+ Cloud FX supports only single-finger touch input.
+
+We tried a few 
+simple games. A simple 2048 clone ran pretty well, though it looked 
+almost like plain text. Another game from the Marketplace called Tower 
+Jelly was a simple stacking puzzle, but with a bit of graphical flourish
+ - the game's mechanic requires a precise timing of taps, which made it 
+very difficult to play.
+
+Videos of any resolution higher than 480p 
+weren't even recognised by the built-in player. Our 240p and 480p test 
+clips played with a tiny bit of lag, but we noticed that the phone 
+heated up so much that it was slightly uncomfortable to hold.
+
+The 
+only formal benchmark in our suite that would even run on this device 
+was the browser-based SunSpider test. The time of 6997ms was nearly five
+ times longer than that of the Asus Zenfone 4 (Review | Pictures) one of our current 
+favourite budget Android devices right now. This doesn't affect 
+real-world usability; in fact it's almost impressive to think about how 
+light the OS must be in order to run on hardware that produces such a 
+stunningly low score.
+
+This is also when the abysmal quality of the
+ screen and speaker really became evident. Viewing angles are simply 
+awful - colours are almost completely inverted or washed out unless you 
+look at the screen straight on. Brightness is inadequate and there's no 
+automatic adjustment. The speaker tears at every volume level, and sound
+ is just screechy and distorted. The bundled headset is not much better.
+
+(Click to see full size)
+
+The
+ phone's camera is also mostly awful - we can understand that a 
+camera is a huge draw for smartphone buyers, but it's of such limited use that we wish Intex had just dispensed with it and shaved another
+ Rs. 100-200 off the device's price. The camera app is so basic that you
+ can only switch between still and video - there is absolutely no other 
+control. The Cloud FX has a fixed-focus lens, so details are suppressed and sharpness suffers. You'll have to 
+deal with significant shutter lag and stand really still to avoid blurring. Don't bother trying to take pictures 
+of anything other than close-up subjects, and that too only in bright 
+daylight.
+
+We weren't too pleased with the device's battery life 
+either. In informal usage over the course of a week, we found that the 
+phone lasted relatively well on standby but could not really handle any 
+multimedia or Web usage without draining rapidly. We were also shocked 
+to see how long it took to charge, till we realised that Intex has 
+shipped a ridiculously underpowered 500mA USB adapter in the box. 
+Swapping it for any common 1000-2000mA charger took care of that little 
+problem.
+
+(Click to see full size)
+
+VerdictFirefox OS is a well-built, well-designed 
+platform, but then we can say the same about so many others as well. The
+ one thing it has going for it right now is that devices based on it can
+ undercut even the cheapest Android phones, thus creating a whole new 
+market for itself and avoiding direct competition. Even Nokia's Asha 
+pseudo-smartphones can't quite reach this level of affordability. 
+First-time users aren't likely to have very high expectations either.
+
+That
+ could also work against the Intex Cloud FX, though. With such weak 
+hardware, it will be easy for people to get frustrated and give up on 
+the idea of such a cheap smartphone altogether. If even basic text input
+ is so difficult (and that's not even with language localisation) and 
+essential apps are missing, what's the point of calling the phone 
+"smart"? Given a choice between saving a thousand rupees and getting a 
+much more usable device, most people would eventually gravitate towards 
+the better device.
+
+Another problem is the concept of Web apps. 
+With cellular data speeds capped at 2G levels, we can't even imagine 
+that a device such as the Cloud FX will somehow encourage mass adoption 
+of mobile Internet connectivity.  Users are just far more likely to 
+become frustrated and upgrade away from the platform. 
+
+All things 
+considered, we do think that Firefox OS has a solid chance of succeeding
+ in India, and that the Intex Cloud FX is a great start. With a bit of 
+momentum, device manufacturers might even be able to take a chance on 
+devices that compete more evenly with the current Android bottom-end. 
+Competition can only be a good thing for the market.
+

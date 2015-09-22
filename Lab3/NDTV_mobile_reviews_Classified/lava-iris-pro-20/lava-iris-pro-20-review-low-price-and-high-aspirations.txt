@@ -1,0 +1,228 @@
+Lava Iris Pro 20 review: Low price and high aspirations
+
+In
+ the not so distant past, recommendations for a smartphone under Rs. 15,000 would generally bring up the names of nondescript local companies. 
+These brands understood the pulse of the average Indian smartphone buyer,
+ and the only multinational company that managed to stay relevant in this scheme of 
+things, albeit with highly underpowered devices, was Samsung. Then, 
+recently, a storm hit the market. Motorola introduced the Moto G in the 
+Indian market.With its aggressive pricing, lots of freebies and a smart tie-up with a very popular e-commerce platform, the 16GB Moto G sold out within 
+hours.Today, we're reviewing the Lava Iris Pro 20, a phone that has launched after 
+the Moto G, and without as much fanfare, but is priced tantalisingly close to Motorola's budget beast. Interestingly, its elder sibling, the Lava Iris 
+Pro 30, costs just a few thousand rupees more.Lofty ambitions aren't enough, though. The Lava Iris Pro 20 must prove its mettle against daunting competition. Look and feelWe
+ have to hand it to Lava for creating a great iPhone clone, at least
+ when seen head on. If the iPhone had a bigger screen it might look something like this. Both the Lava Iris Pro 20 and Iris Pro 
+30 look like mashups between the iPhone 4S and the 5s. We say this as a compliment. Many people would consider the Iris Pro 20 a better looking phone than the Moto G.The Lava Iris Pro 20 is sleek at 
+7.7mm and weighs just 112g. The phone feels great in the hand and works 
+absolutely fine for single-handed usage. We've always believed that 
+4.7 inches is a great size for a smartphone screen. Unfortunately, manufacturers seem to think otherwise.  The only downside of the 
+otherwise good design is the rather tacky chrome trim running 
+around the edges. The left edge is completely bare and the right edge 
+houses the physical buttons for the power and volume adjustment 
+functions. The bottom has a Micro-USB port for data transfer/charging 
+and the microphone, and the top has only the 3.5mm headset socket. The 
+distinctively plastic back is blue in colour, and has a rather neat Iris 
+Pro 20 logo bang in the centre. The back also houses an 8-megapixel 
+camera and the dual-LED flash. Prying open the cover reveals a non-removable
+ 2000mAh battery, and the slots for the two SIM cards and Micro-SD card,
+ which we have to point out is extremely flimsy and should be handled with 
+care. For navigation, Lava has decided to go with capacitive buttons which lie below the screen. The 
+discreet lights glow only when users hit that designated region. We 
+think it is rather understated and classy. Above the screen is 
+a front-facing VGA camera, earpiece, and ambient light sensor. Features and SpecificationsThis
+ is where Lava cuts corners. The Iris Pro 20 features a quad-core 
+processor from MediaTek, which is standard for budget smartphones today. More importantly, in a 
+day and age when high-resolution screens are becoming popular even in lower priced models, Lava has fitted the 
+Iris Pro 20 with a display from 2011. Let's dive into the details. The
+ phone features a Mediatek M6589 quad-core processor with 1GB of RAM and
+PowerVR SGX544 graphics. The Iris Pro 20 has 4GB of internal storage, of which only around 1GB is available to use. It
+ is highly recommend that users add a microSD 
+card of their own, for up to 32GB more space. The 8-megapixel camera with dual-LED flash can shoot videos at 1080p resolution. The 
+front-facing camera, which is something buyers are very particular about
+ these days thanks to the selfie craze, can only capture pictures at VGA
+ resolution.  Both SIM cards can operate at 850/900/1800/1900MHz, and one of them can connect to the 2100MHz 3G 
+band. The phone also has Bluetooth 4.0 with A2DP support 
+along with an accelerometer and a proximity sensor. What's missing is a 
+gyroscope. Just like the Iris Pro 30, this phone features a One 
+Glass Solution (OGS) screen. The only difference is that it has a lower 
+qHD (960x540) resolution. This wouldn't be too much of a 
+problem if the screen was vibrant, but it isn't. What we saw was washed out,
+ and legibility under sunlight takes a major hit. The screen, 
+however, has decent colour reproduction. SoftwareThe Lava 
+Iris Pro 20 runs vanilla Android 4.2.1 (Jelly Bean), which should be familiar to users. There is no word on an update yet, 
+though.The only additions are in the form of a Lava Care app that
+ plainly lists all Lava service centres in India, and 
+a CPU usage graph in the notifications shade. We believe that the latter is
+ a really nifty addition and gives users a direct view of the RAM usage.
+ The phone also carries forward a call handling feature from the Iris Pro 30 which allows it to silence a call when it rings.
+ It worked as advertised. The voice pattern and face unlock 
+feature s are also present here. Unfortunately, face recognition was 
+not accurate most of the time. CameraIt's a pity that 
+Lava stuck to a camera app that transports us to the good old days
+ of Android Gingerbread. Fortunately, it features an HDR mode and a face
+ recognition mode. Some of the more advanced features are hidden. 
+Without some snooping around, we wouldn't have realised that by default 
+the video resolution was set to 'Medium' and not 'Fine'. The latter mode
+ translates to 1080p. (Click to see full size)Once focussed, the camera takes 
+pictures really fast. Lava has also included a zero-shutter-lag mode for 
+taking photographs faster, and it works well. In daylight, the camera 
+captures photographs with smudged details and chromatic aberration. 
+Low-light photography is not recommended on this phone at all. A multi-angle mode goes beyond the panorama and adds a bit 
+of angular depth to captured images. It is fun to use but definitely 
+not unique. In the video capture mode, interested users can warp footage using software features that Lava offers, but even this is buried inside settings. The quality of captured video is quite sub-par, and once again, we noted a significant loss of detail. As far as the front camera goes, we believe it is 
+better not to have one at all than to be stuck with VGA quality. Stay away. PerformanceThe
+ Mediatek M6589 processor under the hood is the same as the one in 
+the Iris Pro 30, and surprisingly, this phone performs slightly better in synthetic benchmarks. Still, the more important thing to consider is how well it works compared to other phones in its price band today. In 
+our Quadrant test the Iris Pro 20, logged a score of 4,126 which is 
+slightly higher than the elder sibling's 3,936. In the AnTuTu benchmark, 
+we got a result of 13,202. The graphics tests were expectedly below average, 
+with 3DMark's Ice Storm scenario returning a score of 3,803 and 
+GFXbench running at only 6.1 frames per second. We tried playing Temple Run 2 and it stuttered occasionally. Even phones fitted with the low-end 
+Qualcomm Snapdragon 400 should perform better.Don't expect the 
+phone to play high-quality videos without throwing up artifacts or skipping frames. 1080p files were quite unwatchable, though lower-resolution videos were handled well. The phone's speaker is really loud, but the same cannot be said about the voice calls, though. Our voices were also a bit muffled on the receiver's end. The battery life 
+of the Lava Iris Pro 20 is good enough, and it should easily last you an entire day. It lasted us 6 hours, 10 minutes in our continuous video playback test before we had to recharge it. VerdictWe
+ think Lava Iris Pro 20, priced at Rs. 12,799 phone is destined to live in the shadows of its elder sibling. The price difference between the
+ two phones is only Rs. 2,200, and for that money you get a much better 
+screen, battery life, and camera. Even considering the Moto G has a lower rated camera, non-expandable memory and slightly boring design, we would 
+easily recommend it over both Lava Iris Pro siblings. At least with the Moto G, users are assured of satisfactory price-to-performance ratio.  Lava Iris Pro 20 in pictures
+
+In
+ the not so distant past, recommendations for a smartphone under Rs. 15,000 would generally bring up the names of nondescript local companies. 
+These brands understood the pulse of the average Indian smartphone buyer,
+ and the only multinational company that managed to stay relevant in this scheme of 
+things, albeit with highly underpowered devices, was Samsung. Then, 
+recently, a storm hit the market. Motorola introduced the Moto G in the 
+Indian market.
+
+With its aggressive pricing, lots of freebies and a smart tie-up with a very popular e-commerce platform, the 16GB Moto G sold out within 
+hours.
+
+Today, we're reviewing the Lava Iris Pro 20, a phone that has launched after 
+the Moto G, and without as much fanfare, but is priced tantalisingly close to Motorola's budget beast. Interestingly, its elder sibling, the Lava Iris 
+Pro 30, costs just a few thousand rupees more.
+
+Lofty ambitions aren't enough, though. The Lava Iris Pro 20 must prove its mettle against daunting competition. 
+
+Look and feelWe
+ have to hand it to Lava for creating a great iPhone clone, at least
+ when seen head on. If the iPhone had a bigger screen it might look something like this. Both the Lava Iris Pro 20 and Iris Pro 
+30 look like mashups between the iPhone 4S and the 5s. We say this as a compliment. Many people would consider the Iris Pro 20 a better looking phone than the Moto G.
+
+The Lava Iris Pro 20 is sleek at 
+7.7mm and weighs just 112g. The phone feels great in the hand and works 
+absolutely fine for single-handed usage. We've always believed that 
+4.7 inches is a great size for a smartphone screen. Unfortunately, manufacturers seem to think otherwise. 
+
+ 
+
+The only downside of the 
+otherwise good design is the rather tacky chrome trim running 
+around the edges. The left edge is completely bare and the right edge 
+houses the physical buttons for the power and volume adjustment 
+functions. The bottom has a Micro-USB port for data transfer/charging 
+and the microphone, and the top has only the 3.5mm headset socket. The 
+distinctively plastic back is blue in colour, and has a rather neat Iris 
+Pro 20 logo bang in the centre. The back also houses an 8-megapixel 
+camera and the dual-LED flash. 
+
+Prying open the cover reveals a non-removable
+ 2000mAh battery, and the slots for the two SIM cards and Micro-SD card,
+ which we have to point out is extremely flimsy and should be handled with 
+care. 
+
+For navigation, Lava has decided to go with capacitive buttons which lie below the screen. The 
+discreet lights glow only when users hit that designated region. We 
+think it is rather understated and classy. Above the screen is 
+a front-facing VGA camera, earpiece, and ambient light sensor. 
+
+Features and SpecificationsThis
+ is where Lava cuts corners. The Iris Pro 20 features a quad-core 
+processor from MediaTek, which is standard for budget smartphones today. More importantly, in a 
+day and age when high-resolution screens are becoming popular even in lower priced models, Lava has fitted the 
+Iris Pro 20 with a display from 2011. Let's dive into the details. 
+
+The
+ phone features a Mediatek M6589 quad-core processor with 1GB of RAM and
+PowerVR SGX544 graphics. The Iris Pro 20 has 4GB of internal storage, of which only around 1GB is available to use. It
+ is highly recommend that users add a microSD 
+card of their own, for up to 32GB more space. The 8-megapixel camera with dual-LED flash can shoot videos at 1080p resolution. The 
+front-facing camera, which is something buyers are very particular about
+ these days thanks to the selfie craze, can only capture pictures at VGA
+ resolution. 
+
+ 
+
+Both SIM cards can operate at 850/900/1800/1900MHz, and one of them can connect to the 2100MHz 3G 
+band. The phone also has Bluetooth 4.0 with A2DP support 
+along with an accelerometer and a proximity sensor. What's missing is a 
+gyroscope. 
+
+Just like the Iris Pro 30, this phone features a One 
+Glass Solution (OGS) screen. The only difference is that it has a lower 
+qHD (960x540) resolution. This wouldn't be too much of a 
+problem if the screen was vibrant, but it isn't. What we saw was washed out,
+ and legibility under sunlight takes a major hit. The screen, 
+however, has decent colour reproduction. 
+
+SoftwareThe Lava 
+Iris Pro 20 runs vanilla Android 4.2.1 (Jelly Bean), which should be familiar to users. There is no word on an update yet, 
+though.
+
+The only additions are in the form of a Lava Care app that
+ plainly lists all Lava service centres in India, and 
+a CPU usage graph in the notifications shade. We believe that the latter is
+ a really nifty addition and gives users a direct view of the RAM usage.
+ 
+
+The phone also carries forward a call handling feature from the Iris Pro 30 which allows it to silence a call when it rings.
+ It worked as advertised. The voice pattern and face unlock 
+feature s are also present here. Unfortunately, face recognition was 
+not accurate most of the time. 
+
+CameraIt's a pity that 
+Lava stuck to a camera app that transports us to the good old days
+ of Android Gingerbread. Fortunately, it features an HDR mode and a face
+ recognition mode. Some of the more advanced features are hidden. 
+Without some snooping around, we wouldn't have realised that by default 
+the video resolution was set to 'Medium' and not 'Fine'. The latter mode
+ translates to 1080p. 
+
+(Click to see full size)Once focussed, the camera takes 
+pictures really fast. Lava has also included a zero-shutter-lag mode for 
+taking photographs faster, and it works well. In daylight, the camera 
+captures photographs with smudged details and chromatic aberration. 
+Low-light photography is not recommended on this phone at all. A multi-angle mode goes beyond the panorama and adds a bit 
+of angular depth to captured images. It is fun to use but definitely 
+not unique. 
+
+In the video capture mode, interested users can warp footage using software features that Lava offers, but even this is buried inside settings. The quality of captured video is quite sub-par, and once again, we noted a significant loss of detail. As far as the front camera goes, we believe it is 
+better not to have one at all than to be stuck with VGA quality. Stay away. 
+
+PerformanceThe
+ Mediatek M6589 processor under the hood is the same as the one in 
+the Iris Pro 30, and surprisingly, this phone performs slightly better in synthetic benchmarks. Still, the more important thing to consider is how well it works compared to other phones in its price band today. 
+
+In 
+our Quadrant test the Iris Pro 20, logged a score of 4,126 which is 
+slightly higher than the elder sibling's 3,936. In the AnTuTu benchmark, 
+we got a result of 13,202. The graphics tests were expectedly below average, 
+with 3DMark's Ice Storm scenario returning a score of 3,803 and 
+GFXbench running at only 6.1 frames per second. We tried playing Temple Run 2 and it stuttered occasionally. Even phones fitted with the low-end 
+Qualcomm Snapdragon 400 should perform better.
+
+Don't expect the 
+phone to play high-quality videos without throwing up artifacts or skipping frames. 1080p files were quite unwatchable, though lower-resolution videos were handled well. The phone's speaker is really loud, but the same cannot be said about the voice calls, though. Our voices were also a bit muffled on the receiver's end. The battery life 
+of the Lava Iris Pro 20 is good enough, and it should easily last you an entire day. It lasted us 6 hours, 10 minutes in our continuous video playback test before we had to recharge it.
+
+ 
+
+VerdictWe
+ think Lava Iris Pro 20, priced at Rs. 12,799 phone is destined to live in the shadows of its elder sibling. The price difference between the
+ two phones is only Rs. 2,200, and for that money you get a much better 
+screen, battery life, and camera. 
+
+Even considering the Moto G has a lower rated camera, non-expandable memory and slightly boring design, we would 
+easily recommend it over both Lava Iris Pro siblings. At least with the Moto G, users are assured of satisfactory price-to-performance ratio. 
+
+
+

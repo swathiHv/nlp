@@ -1,0 +1,162 @@
+Jolla Sailfish OS Smartphone: First Impressions
+
+Jolla, a company formed by a group of former Nokia employees, has 
+entered the Indian market with a smartphone of the same name, powered by
+ the new Sailfish OS and priced attractively at Rs. 16,499. The 
+company has chosen Snapdeal as the exclusive online retailer in India for
+ Jolla smartphones, and had teased its plans to launch in India way back
+ in July. It seems that the company is emulating the strategy that has 
+been successful for Motorola and Xiaomi so far.In a market 
+already crowded with similar Android devices, Sailfish OS is completely 
+new and offers a gesture-based interface.Jolla proclaims "We are 
+unlike," which is its way of separating its hardware and software from 
+the rest of the phone crowd.But will customers be willing to try 
+something new? We spent some time with new Jolla smartphone to learn 
+exactly how unique the new OS is.SoftwareSailfish OS was 
+developed by few former employees of Nokia who had worked on the MeeGo 
+operating system which was cancelled when Nokia hit tough times. The 
+team had enough faith in their work that they started their own company 
+in order to continue and see it through.With iOS, Windows Phone, 
+BlackBerry OS and now even Firefox OS competing for the shrinking 
+non-Android share of the market, one might wonder what is so different 
+about Sailfish OS. The Jolla smartphone's interface is heavily driven by
+ gestures and has similarities to BlackBerry's BB 10 OS, such as tiles 
+representing running apps. The lock screen, much like other OSes,
+ shows notifications for various apps and services. However the first 
+homescreen shows up to nine tiles representing running apps, which you 
+can interact with. The screen can also be pulled up with a gesture while
+ any app is running.A Jolla employee told NDTV Gadgets that the 
+Sailfish OS was built "to be used just by one hand". One can interact 
+with the running apps and services via swipes, and notably, there is no 
+home button on the front panel. Jolla believes that the home button 
+should always be right under the user's thumb, wherever it is. To
+ get to the main app drawer from the homescreen, users have to just 
+flick a thumb upwards.Just swipe from the left or right of the screen to
+ multitask, and if you want to close an app, just swipe from the top of 
+the display to the bottom. For accessing the Events (notifications), 
+users have to swipe up from beyond the bottom edge.At the launch 
+event, the company claimed that the Jolla smartphone will come with very
+ few preloaded apps, though the unit we tried out had popular apps such 
+as Facebook, Instagram, Twitter, WhatsApp, Angry Birds, Zomato, 
+Bollywood Hungama, and ESPN Cricinfo already installed. The 
+company also confirmed that the Sailfish OS can run Android apps, and 
+roughly 85,000 are compatible. Android apps can be downloaded from 
+third-party app stores such as Yandex and Aptoide.HardwareAt
+ first glance, the smartphone appears like two rectangles sandwiched 
+together.The unique design of the Jolla phone is due to itsremovable 
+rear shell, the "Other Half" which is a patented innovation. The covers 
+are NFC enabled and the phone can detect when a new cover is attached. 
+It can then changeits wallpaper, icons, and theme to match the 
+colour.The Other Half back covers are available in Poppy Red, Keira 
+Black, and Aloe. Thanks to the low weight, the Jolla smartphone 
+was comfortable to use with just one hand. The front is completely bare 
+of buttons and even branding. Only the earpiece grill and 2-megapixel 
+front camera are visible.The bottom panel houses speakers, while 
+top houses the 3.5mm audio port and Micro-USB charging port. Jolla 
+branding can be seen on the top as well. The rear panel has the 
+8-megapixel primary camera accompanied by an LED flash, and a Jolla logo 
+lower down.The phone features a 4.5-inch 540x960-pixelqHD 
+display. The display on the Jolla looks fine for daily tasks. Colours 
+are not exceptional but are good enough for this segment.A 1.4GHz
+ dual-core Qualcomm Snapdragon processor powers the device coupled with 
+1GB of RAM. This might not seem very modern, but in our experience it 
+was enough to let us multitask without any probem. There is 16GB of 
+storage, which is expandable via microSD card, and also a removable 
+2100mAh battery.The biggest challenge for Jolla will be 
+convincing the Indian consumers to give the new Sailfish OS a chance, 
+rather than going with the established Android or even Windows Phone 
+devices available in same price band.  
+
+The 
+company has chosen Snapdeal as the exclusive online retailer in India for
+ Jolla smartphones, and had teased its plans to launch in India way back
+ in July. It seems that the company is emulating the strategy that has 
+been successful for Motorola and Xiaomi so far.
+
+In a market 
+already crowded with similar Android devices, Sailfish OS is completely 
+new and offers a gesture-based interface.Jolla proclaims "We are 
+unlike," which is its way of separating its hardware and software from 
+the rest of the phone crowd.But will customers be willing to try 
+something new? We spent some time with new Jolla smartphone to learn 
+exactly how unique the new OS is.
+
+SoftwareSailfish OS was 
+developed by few former employees of Nokia who had worked on the MeeGo 
+operating system which was cancelled when Nokia hit tough times. The 
+team had enough faith in their work that they started their own company 
+in order to continue and see it through.
+
+With iOS, Windows Phone, 
+BlackBerry OS and now even Firefox OS competing for the shrinking 
+non-Android share of the market, one might wonder what is so different 
+about Sailfish OS. The Jolla smartphone's interface is heavily driven by
+ gestures and has similarities to BlackBerry's BB 10 OS, such as tiles 
+representing running apps. 
+
+The lock screen, much like other OSes,
+ shows notifications for various apps and services. However the first 
+homescreen shows up to nine tiles representing running apps, which you 
+can interact with. The screen can also be pulled up with a gesture while
+ any app is running.
+
+A Jolla employee told NDTV Gadgets that the 
+Sailfish OS was built "to be used just by one hand". One can interact 
+with the running apps and services via swipes, and notably, there is no 
+home button on the front panel. Jolla believes that the home button 
+should always be right under the user's thumb, wherever it is. 
+
+To
+ get to the main app drawer from the homescreen, users have to just 
+flick a thumb upwards.Just swipe from the left or right of the screen to
+ multitask, and if you want to close an app, just swipe from the top of 
+the display to the bottom. For accessing the Events (notifications), 
+users have to swipe up from beyond the bottom edge.
+
+At the launch 
+event, the company claimed that the Jolla smartphone will come with very
+ few preloaded apps, though the unit we tried out had popular apps such 
+as Facebook, Instagram, Twitter, WhatsApp, Angry Birds, Zomato, 
+Bollywood Hungama, and ESPN Cricinfo already installed. 
+
+The 
+company also confirmed that the Sailfish OS can run Android apps, and 
+roughly 85,000 are compatible. Android apps can be downloaded from 
+third-party app stores such as Yandex and Aptoide.
+
+HardwareAt
+ first glance, the smartphone appears like two rectangles sandwiched 
+together.The unique design of the Jolla phone is due to itsremovable 
+rear shell, the "Other Half" which is a patented innovation. The covers 
+are NFC enabled and the phone can detect when a new cover is attached. 
+It can then changeits wallpaper, icons, and theme to match the 
+colour.The Other Half back covers are available in Poppy Red, Keira 
+Black, and Aloe. 
+
+Thanks to the low weight, the Jolla smartphone 
+was comfortable to use with just one hand. The front is completely bare 
+of buttons and even branding. Only the earpiece grill and 2-megapixel 
+front camera are visible.
+
+The bottom panel houses speakers, while 
+top houses the 3.5mm audio port and Micro-USB charging port. Jolla 
+branding can be seen on the top as well. The rear panel has the 
+8-megapixel primary camera accompanied by an LED flash, and a Jolla logo 
+lower down.
+
+The phone features a 4.5-inch 540x960-pixelqHD 
+display. The display on the Jolla looks fine for daily tasks. Colours 
+are not exceptional but are good enough for this segment.
+
+A 1.4GHz
+ dual-core Qualcomm Snapdragon processor powers the device coupled with 
+1GB of RAM. This might not seem very modern, but in our experience it 
+was enough to let us multitask without any probem. There is 16GB of 
+storage, which is expandable via microSD card, and also a removable 
+2100mAh battery.
+
+The biggest challenge for Jolla will be 
+convincing the Indian consumers to give the new Sailfish OS a chance, 
+rather than going with the established Android or even Windows Phone 
+devices available in same price band. 
+

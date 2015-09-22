@@ -1,0 +1,120 @@
+Nokia XL Dual SIM: First Impressions
+
+We've already gotten a glimpse of Nokia's entry into the world of 
+Android, albeit a heavily forked version of it, with the Nokia X. Hot on the heels
+ of the completion of Microsoft's acquisition of Nokia, the Finnish 
+phone manufacturer showcased the larger sibling, the Nokia XL Dual 
+SIM to a closed group of journalists and tech bloggers in Mumbai on 
+Saturday. Nokia had formally announced the trio of devices - Nokia X, X+ and
+ XL - worldwide at the Mobile World Congress (MWC) in Barcelona in
+ February, but only the Nokia X has launched so far. With a much bigger profile, slightly better 
+specifications, and a promise to regularly tweak and update the Nokia X platform running on the phone, we were eager to get 
+our hands on the device. This wasn't a formal product launch, and so Nokia did not divulge any details about the launch date or price of this device. There is also no word on the Nokia X+ yet. Look and feelThe
+ Nokia XL Dual SIM is much larger than the Nokia X, which becomes evident when 
+we compare the two. It is thicker, at 10.9mm, and at 190g,
+is quite heavy for a phone this size. The phone is available in 
+six different colours - black, white, blue, green, orange and yellow. 
+Anybody used to a Lumia or Asha phone will find the XL familiar, considering its boxy design takes cues from the Asha 
+series and the matte-finish rear is reminiscent of the Lumia series. The
+ left edge is devoid of any physical buttons or ports whereas the right 
+edge features the volume rocker and power button. The top and the 
+bottom edges have the 3.5mm jack and the micro-USB port for charging and
+ data transfers, respectively. Above the screen are the front camera 
+and the ambient light sensor, and below is a single capacitive button 
+for navigation unlike the regular three-button setup on Android. The 
+back of the device houses the camera and flash modules. Removing the 
+rear cover reveals slots for two SIM cards and a microSD card. Design fatigue seems to be setting in around the industry, but after taking a look at the Nokia XL 
+Dual SIM, we're sure its Lumia-esque design (which actually debuted with the Nokia N9) will be able to stand out in the crowd of black slabs that adorn the shelves of retail
+ stores. All said and done, it does look attractive. SpecificationsUnder
+ the hood, the Nokia XL Dual SIM is powered by the last-gen dual-core 
+Snapdragon S4 Play processor clocked at 1GHz. Supplementing its processing power is an Adreno 203 graphics processing unit. The RAM capacity receives a slight bump to 768MB. In our limited 
+time with the device, swiping through the wallpaper, home screen and 
+Fastlane felt sluggish. We will refrain from commenting further on the 
+performance until we can have a review unit in hand. Additionally, the phone has 4GB of internal storage which is expandable up to 32GB using microSD cards. The
+ Nokia XL Dual SIM has a 5-inch screen with a WVGA (800X480) resolution 
+which translates to a density of approximately 187ppi. One look at
+ the screen and any user can spot jagged edges on the tiles or icons. On the other hand, the IPS panel on this device manages to display
+blacks accurately. The preloaded demo video looked fine. Stay tuned for more details in our full review. SoftwareNokia promises
+that it is listening to user feedback with the software running on the X series of smartphones, and is constantly tweaking it for better 
+performance. We saw an updated version of the Nokia X platform on the device,
+ which had two distinct new features: tiles and widgets for 
+third-party apps can be colour-coded to your preference, and the 
+proprietary Nokia Store now displays links to other app stores in case 
+an app isn't present in the default store. Fastlane is Nokia's version 
+of an advanced logging system that keeps a tab on users' notifications and most used apps, 
+and the fact that it can be customised as per a user's preferences is an 
+added advantage. CameraThe XL has a 5-megapixel rear camera with a 1/4-inch sensor, plus a flash.
+ We managed to capture a few images in less-than-ideal lighting conditions, and 
+it still managed to focus quickly enough. On the phone's
+ screen, the image looked good with little loss of details even when 
+zoomed in to the actual size. The 2-megapixel front camera is a good enough for those who want to capture selfies. Keep watching this space for our full review of the Nokia XL Dual SIM.
+
+We've already gotten a glimpse of Nokia's entry into the world of 
+Android, albeit a heavily forked version of it, with the Nokia X. Hot on the heels
+ of the completion of Microsoft's acquisition of Nokia, the Finnish 
+phone manufacturer showcased the larger sibling, the Nokia XL Dual 
+SIM to a closed group of journalists and tech bloggers in Mumbai on 
+Saturday. Nokia had formally announced the trio of devices - Nokia X, X+ and
+ XL - worldwide at the Mobile World Congress (MWC) in Barcelona in
+ February, but only the Nokia X has launched so far. 
+
+With a much bigger profile, slightly better 
+specifications, and a promise to regularly tweak and update the Nokia X platform running on the phone, we were eager to get 
+our hands on the device. This wasn't a formal product launch, and so Nokia did not divulge any details about the launch date or price of this device. There is also no word on the Nokia X+ yet. 
+
+Look and feelThe
+ Nokia XL Dual SIM is much larger than the Nokia X, which becomes evident when 
+we compare the two. It is thicker, at 10.9mm, and at 190g,
+is quite heavy for a phone this size. The phone is available in 
+six different colours - black, white, blue, green, orange and yellow. 
+Anybody used to a Lumia or Asha phone will find the XL familiar, considering its boxy design takes cues from the Asha 
+series and the matte-finish rear is reminiscent of the Lumia series. 
+
+The
+ left edge is devoid of any physical buttons or ports whereas the right 
+edge features the volume rocker and power button. The top and the 
+bottom edges have the 3.5mm jack and the micro-USB port for charging and
+ data transfers, respectively. Above the screen are the front camera 
+and the ambient light sensor, and below is a single capacitive button 
+for navigation unlike the regular three-button setup on Android. The 
+back of the device houses the camera and flash modules. Removing the 
+rear cover reveals slots for two SIM cards and a microSD card. 
+
+Design fatigue seems to be setting in around the industry, but after taking a look at the Nokia XL 
+Dual SIM, we're sure its Lumia-esque design (which actually debuted with the Nokia N9) will be able to stand out in the crowd of black slabs that adorn the shelves of retail
+ stores. All said and done, it does look attractive. 
+
+SpecificationsUnder
+ the hood, the Nokia XL Dual SIM is powered by the last-gen dual-core 
+Snapdragon S4 Play processor clocked at 1GHz. Supplementing its processing power is an Adreno 203 graphics processing unit. The RAM capacity receives a slight bump to 768MB. In our limited 
+time with the device, swiping through the wallpaper, home screen and 
+Fastlane felt sluggish. We will refrain from commenting further on the 
+performance until we can have a review unit in hand. 
+
+Additionally, the phone has 4GB of internal storage which is expandable up to 32GB using microSD cards. 
+
+The
+ Nokia XL Dual SIM has a 5-inch screen with a WVGA (800X480) resolution 
+which translates to a density of approximately 187ppi. One look at
+ the screen and any user can spot jagged edges on the tiles or icons. On the other hand, the IPS panel on this device manages to display
+blacks accurately. The preloaded demo video looked fine. Stay tuned for more details in our full review. 
+
+SoftwareNokia promises
+that it is listening to user feedback with the software running on the X series of smartphones, and is constantly tweaking it for better 
+performance. We saw an updated version of the Nokia X platform on the device,
+ which had two distinct new features: tiles and widgets for 
+third-party apps can be colour-coded to your preference, and the 
+proprietary Nokia Store now displays links to other app stores in case 
+an app isn't present in the default store. Fastlane is Nokia's version 
+of an advanced logging system that keeps a tab on users' notifications and most used apps, 
+and the fact that it can be customised as per a user's preferences is an 
+added advantage. 
+
+CameraThe XL has a 5-megapixel rear camera with a 1/4-inch sensor, plus a flash.
+ We managed to capture a few images in less-than-ideal lighting conditions, and 
+it still managed to focus quickly enough. On the phone's
+ screen, the image looked good with little loss of details even when 
+zoomed in to the actual size. The 2-megapixel front camera is a good enough for those who want to capture selfies. 
+
+Keep watching this space for our full review of the Nokia XL Dual SIM.
+

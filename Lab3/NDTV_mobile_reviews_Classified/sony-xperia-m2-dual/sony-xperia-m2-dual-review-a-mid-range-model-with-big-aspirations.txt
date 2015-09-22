@@ -1,0 +1,183 @@
+Sony Xperia M2 Dual Review: A Mid-range Model With Big Aspirations
+
+The
+ mid-range smartphone market is currently saturated, which wasn't the case even a few months ago. There are a ton of 
+new smartphones in the Rs. 18,000 - 25,000 price range, most with unique features and quite a few touting octa-core 
+processors. Entering the fray is the Sony Xperia M2 Dual, a smartphone 
+which promises good camera performance and long battery life.We put the phone through its paces to find out if it stands true to its claims. Look and FeelWe
+ understand that the "why fix something if it isn't broken?" ideology is a 
+good enough reason to resist change, but this also deters change - case in point, the "omnibalance" design introduced by Sony with the Xperia Z (review), despite 
+its premium look, now feels a little tired. The Sony Xperia M2 Dual gets a bit lost in the crowd of Sony Xperia phones which 
+look just the same. We 
+would have liked for Sony to at least have made a distinction between their 
+own products in different price ranges. Nevertheless, the 
+Sony Xperia M2 Dual is a good-looking phone with glass on the front and 
+back, and rubberised strips around the edges for better grip. It 
+is not very slim, at 8.6mm, and also weighs 148g making it slightly 
+heavy. Fortunately, it feels good in the hand, and the phone is 
+quite sturdy too. The one thing that is missing here is the waterproofing 
+found in Sony's flagship smartphones. On the left edge of
+ the phone is a microSD card slot protected by a flap, and Micro-USB port. Three physical
+ buttons - power, volume up/down, and camera - are on the right edge 
+along with another long flap covering the slots for two Micro-SIM cards.
+ The top edge has only the 3.5mm jack and the bottom edge is dominated 
+by a long speaker grille. The 
+4.8-inch LCD screen has a resolution of 540x960, which is very low 
+compared to the HD screens on even a few lower-priced smartphones. While the
+ resolution is low, it's good enough for most tasks. Sunlight legibility is passable but viewing angles suffer due to the highly reflective screen glass. Features and SpecificationsJust
+ like the much cheaper Moto G (review), the Sony Xperia M2 Dual has a Snapdragon 
+400 processor under its hood, clocked at 1.2GHz with an integrated Adreno 305 graphics processing unit. 
+There is 1GB of RAM and 8GB of internal storage space, of which only 
+around 5GB is available to the user. If that feels insufficient, it can be increased by 32GB using a microSD card. The phone accepts 
+two Micro-SIM cards, both of which can connect to 3G networks. They 
+work in dual-standby mode. The front 
+camera has a ridiculously low VGA resolution and can shoot videos only at 480p. The 
+8-megapixel rear camera, on the other hand, can capture videos at up to 1080p.SoftwareThe phone runs Android 4.3 (Jelly 
+Bean) and is expected to receive an update to Android KitKat soon. 
+Hence, we are cutting it a little bit of slack. Sony's skin is quite 
+unobtrusive and we like it more than Samsung's Touchwiz UI. One can add 
+up to seven homescreens. Hitting the multitasking key reveals 'small apps' 
+that can run in small floating windows on the homescreen. Also, swiping in from
+ the left of the screen in the app drawer brings up a side panel that allows
+ users to categorise apps in their own order, alphabetical order, usage frequency, or 
+installation date. You'll also find shortcuts to the Play Store and Sony Select store here. We quite 
+like the overall look and feel of the software, but not the fact that Sony
+ insists on bundling its own apps which are not that great. The Walkman 
+app is the only decent one. TrackID failed for us most of the time, and 
+the default movies app didn't support quite a few formats. CameraWe were eager to test the performance of the camera, but sadly it fell short of our expectations by a mile. The
+ daylight shots had muted details and there was loads of chromatic aberration. Green leaves merged into each other despite specifically focusing on them.T he camera struggled to focus on intended 
+subjects very often. The camera couldn't do much in low light either, and images were
+often blurred. The less we say about the VGA front camera, the 
+better. It is absolutely useless. 1080p videos taken with the rear
+ camera weren't all that good either. We have the same problems with Sony's 
+default camera interface as we had detailed in our  review of the Sony Xperia T2 Ultra. PerformanceThe benchmark 
+numbers are not great compared to other smartphones in this price range, many of which feature MediaTek's octa-core processors. The 
+phone scored 17,495 points in AnTuTu and 8,298 in the Quadrant benchmark. On the other hand, the Adreno 305 managed to 
+push out some decent numbers in our gaming and graphics tests. The Sony Xperia M2 
+Dual returned 15.2fps in GFXbench and it
+ had a score of 5692 in the more intensive 3DMark Ice Storm test. We think these scores were helped by the fact that it takes less effort to power lower-resolution screens such as the one on this phone. In daily usage situations, the phone felt slightly 
+sluggish, which was a bit of a letdown. In our 
+video tests, the Sony Xperia M2 Dual played every format we threw at 
+it with no lag or skipped frames. Moreover, it also excelled in 
+the battery life tests. The 2300mAh battery lasted us 10 hours, 2 minutes in our 
+stringent video loop test. With moderate usage, this phone could last 
+for as long as two days, which is superb. The speaker is adequately loud and the
+ sound from the bundled headset is really good too. In our call quality test, the 
+phone held on to network even in congested areas and the sound quality 
+on both ends was good. VerdictWe 
+think Sony has cut far too many corners with the M2. The screen is not 
+that great, and its sluggish performance in daily usage is a
+ downer. It has a retail price of Rs. 21,990 but can be found cheaper 
+online. Even at reduced prices, the Sony Xperia M2 Dual doesn't feel like a 
+good bargain considering the Moto G works out as better value for money. 
+However, what the Sony has going for itself is the stellar battery 
+life, expandable storage, and the good (if somewhat boring) design. If you need a good-looking phone in this price range which will last up to two days on a single charge, then by all means consider the Xperia M2. If not, there are other fish in the sea. 
+Sony Xperia M2 Dual in pictures
+
+The
+ mid-range smartphone market is currently saturated, which wasn't the case even a few months ago. There are a ton of 
+new smartphones in the Rs. 18,000 - 25,000 price range, most with unique features and quite a few touting octa-core 
+processors. Entering the fray is the Sony Xperia M2 Dual, a smartphone 
+which promises good camera performance and long battery life.
+
+We put the phone through its paces to find out if it stands true to its claims. 
+
+Look and FeelWe
+ understand that the "why fix something if it isn't broken?" ideology is a 
+good enough reason to resist change, but this also deters change - case in point, the "omnibalance" design introduced by Sony with the Xperia Z (review), despite 
+its premium look, now feels a little tired. The Sony Xperia M2 Dual gets a bit lost in the crowd of Sony Xperia phones which 
+look just the same. We 
+would have liked for Sony to at least have made a distinction between their 
+own products in different price ranges. 
+
+Nevertheless, the 
+Sony Xperia M2 Dual is a good-looking phone with glass on the front and 
+back, and rubberised strips around the edges for better grip. It 
+is not very slim, at 8.6mm, and also weighs 148g making it slightly 
+heavy. Fortunately, it feels good in the hand, and the phone is 
+quite sturdy too. The one thing that is missing here is the waterproofing 
+found in Sony's flagship smartphones. 
+
+On the left edge of
+ the phone is a microSD card slot protected by a flap, and Micro-USB port. Three physical
+ buttons - power, volume up/down, and camera - are on the right edge 
+along with another long flap covering the slots for two Micro-SIM cards.
+ The top edge has only the 3.5mm jack and the bottom edge is dominated 
+by a long speaker grille. 
+
+The 
+4.8-inch LCD screen has a resolution of 540x960, which is very low 
+compared to the HD screens on even a few lower-priced smartphones. While the
+ resolution is low, it's good enough for most tasks. Sunlight legibility is passable but viewing angles suffer due to the highly reflective screen glass. 
+
+Features and SpecificationsJust
+ like the much cheaper Moto G (review), the Sony Xperia M2 Dual has a Snapdragon 
+400 processor under its hood, clocked at 1.2GHz with an integrated Adreno 305 graphics processing unit. 
+There is 1GB of RAM and 8GB of internal storage space, of which only 
+around 5GB is available to the user. If that feels insufficient, it can be increased by 32GB using a microSD card. 
+
+The phone accepts 
+two Micro-SIM cards, both of which can connect to 3G networks. They 
+work in dual-standby mode. The front 
+camera has a ridiculously low VGA resolution and can shoot videos only at 480p. The 
+8-megapixel rear camera, on the other hand, can capture videos at up to 1080p.
+
+SoftwareThe phone runs Android 4.3 (Jelly 
+Bean) and is expected to receive an update to Android KitKat soon. 
+Hence, we are cutting it a little bit of slack. 
+
+Sony's skin is quite 
+unobtrusive and we like it more than Samsung's Touchwiz UI. One can add 
+up to seven homescreens. Hitting the multitasking key reveals 'small apps' 
+that can run in small floating windows on the homescreen. Also, swiping in from
+ the left of the screen in the app drawer brings up a side panel that allows
+ users to categorise apps in their own order, alphabetical order, usage frequency, or 
+installation date. You'll also find shortcuts to the Play Store and Sony Select store here. 
+
+We quite 
+like the overall look and feel of the software, but not the fact that Sony
+ insists on bundling its own apps which are not that great. The Walkman 
+app is the only decent one. TrackID failed for us most of the time, and 
+the default movies app didn't support quite a few formats. 
+
+CameraWe were eager to test the performance of the camera, but sadly it fell short of our expectations by a mile. 
+
+The
+ daylight shots had muted details and there was loads of chromatic aberration. Green leaves merged into each other despite specifically focusing on them.T he camera struggled to focus on intended 
+subjects very often. The camera couldn't do much in low light either, and images were
+often blurred. The less we say about the VGA front camera, the 
+better. It is absolutely useless. 1080p videos taken with the rear
+ camera weren't all that good either. 
+
+We have the same problems with Sony's 
+default camera interface as we had detailed in our  review of the Sony Xperia T2 Ultra. 
+
+PerformanceThe benchmark 
+numbers are not great compared to other smartphones in this price range, many of which feature MediaTek's octa-core processors. The 
+phone scored 17,495 points in AnTuTu and 8,298 in the Quadrant benchmark. On the other hand, the Adreno 305 managed to 
+push out some decent numbers in our gaming and graphics tests. The Sony Xperia M2 
+Dual returned 15.2fps in GFXbench and it
+ had a score of 5692 in the more intensive 3DMark Ice Storm test. We think these scores were helped by the fact that it takes less effort to power lower-resolution screens such as the one on this phone. In daily usage situations, the phone felt slightly 
+sluggish, which was a bit of a letdown. 
+
+In our 
+video tests, the Sony Xperia M2 Dual played every format we threw at 
+it with no lag or skipped frames. Moreover, it also excelled in 
+the battery life tests. The 2300mAh battery lasted us 10 hours, 2 minutes in our 
+stringent video loop test. With moderate usage, this phone could last 
+for as long as two days, which is superb. The speaker is adequately loud and the
+ sound from the bundled headset is really good too. In our call quality test, the 
+phone held on to network even in congested areas and the sound quality 
+on both ends was good. 
+
+VerdictWe 
+think Sony has cut far too many corners with the M2. The screen is not 
+that great, and its sluggish performance in daily usage is a
+ downer. It has a retail price of Rs. 21,990 but can be found cheaper 
+online. Even at reduced prices, the Sony Xperia M2 Dual doesn't feel like a 
+good bargain considering the Moto G works out as better value for money. 
+However, what the Sony has going for itself is the stellar battery 
+life, expandable storage, and the good (if somewhat boring) design. 
+
+If you need a good-looking phone in this price range which will last up to two days on a single charge, then by all means consider the Xperia M2. If not, there are other fish in the sea. 
+

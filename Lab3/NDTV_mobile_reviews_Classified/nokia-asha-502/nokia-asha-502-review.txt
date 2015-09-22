@@ -1,0 +1,314 @@
+Nokia Asha 502 review
+
+Nokia, the Finnish smartphone and tablet maker, has always been 
+considered a game changer in the ever-evolving smartphone industry. As a
+ rival to other world leaders including Samsung and Apple, the firm fell
+ behind for a while but has now made a huge comeback with its line of 
+Lumia devices running the Windows Phone OS.At last year's Nokia 
+World event, the company introduced six new handsets. While the high-end
+ phablets took the spotlight, Nokia also made sure that it still caters 
+to the needs of its budget customers. Introduced at the event, the Nokia
+ Asha 502 budget smartphone is a shining example of how hard the firm is
+ still trying to take over the low-end smartphone market by stuffing a 
+bunch of impressive features into a small-sized device.The Nokia Asha 502 is the successor to the Asha 501, and has some noticeable bodily and internal OS feature tweaks.In
+ hand, the Asha 502 feels both compact and strong. We found its build 
+and overall design very appealing, and the phone itself is comfortable 
+to carry around.After spending a decent amount of time with the 
+Asha 502, testing its battery life, camera, Internet connectivity, 
+gaming capabilities and much more, here is what we think about this 
+budget handset.Build quality and designThe Nokia Asha 502 
+is extremely comfortable to hold, as its sharp corners give the user a 
+better grip and reduce the chances of it slipping and falling. The small
+ device measures 99.6 x 59.5 x 11.1mm and is well suited for users who 
+have average or small hands. One its most distinctive features is the 
+plastic monoblock body. The entire back panel and all four edges of Asha
+ 502 are encased in a transparent material, giving the handset a 
+crystallized effect. Dedicated hard keys are usually found on the
+ sides of a handset, and Nokia offers exactly what a user needs. Both 
+the lock key and the two volume keys are closely placed on the right 
+side of the handset, but are not so close that a user could accidently 
+press the wrong button. The buttons are easy to locate even in 
+low-light situations as they are slightly elevated from the body 
+surface. There is no dedicated camera button, but the feature can be 
+accessed with a single swipe on the touchscreen.The Nokia Asha 
+502 has a small microphone on the bottom-right corner along with a 
+Micro-USB connector and a 3.5mm headphone port placed on the left and 
+right of the top panel respectively. Nokia has given the left edge of 
+the handset a clean look. The rear panel has a camera centred at the 
+top, with a small but powerful LED flash to its right. Just below the 
+camera, a large Nokia logo is embossed into the transparent sheath. 
+There's a thin speaker on the bottom, leaving the rest of the rear panel
+ blank.The front panel houses a small 3-inch screen and a speaker
+ grille, with Nokia's logo between them. Below the screen is a single 
+capacitive touch button for going back to the previous screen or closing
+ apps.On removing the Asha 502's back panel, one can see the 
+removable battery taking up most of the space, with slots for the first 
+SIM just above it. The slots for the second SIM and microSD card are on 
+either side.DisplayThe Nokia Asha 502's 3-inch screen is 
+smaller than those of other devices in the same price segment. Users 
+coming from phones with 4-5-inch screens might be able to get used to 
+it, but if you like the feel of phablet devices that are currently 
+popular, you'll find the small screen cumbersome to operate.The 
+Nokia Asha 502's multi-touch screen features a QVGA (320 x 240 pixels) 
+resolution. The screen can display only 256,000 colours as opposed to 
+the full range of 1.6 million colours that is the usual standard. When 
+set to full brightness, the screen is easily visible under direct 
+sunlight.Software/InterfaceThe Nokia Asha 502 runs on the 
+latest Asha OS, version 1.1, which is an update to the software used by 
+the Asha 501. The OS uses simple swipe gestures for most actions, and 
+the back button is mainly used to close apps and return to the main menu
+ screen.The Asha 502, like other Asha models, comes with a 
+feature called Fastlane, which helps users access apps quickly, without 
+searching through the main apps page. The Fastlane window shows the apps
+ which have been used most recently. One can navigate to the Fastlane 
+view by unlocking the device and simply swiping towards the right from 
+the main apps page. As seen on Nokia's higher-end handsets 
+running Windows Phone 8 OS, the Nokia Asha 502 also allows users to 
+change the positions of icons or delete entire apps by simply 
+long-pressing on any icon. The settings app gives you direct 
+access to the Wi-Fi, Bluetooth, Flight Mode, and Dual-SIM settings, 
+amongst others. The Personalisation section lets you select ringtones 
+and vibration settings along with the wallpaper, lock screen image and 
+Fastlane settings. Since the Asha 502 is a budget handset, users 
+will have to put up with limited customisation options for things like 
+the Fastlane settings, and limited background apps.The phone 
+struggles to load heavy websites in its browser, but it can run 
+optimised Java games such as Assassin's Creed 3 and Asphalt 6: Heat. The
+ graphics are not impressive, and users who expect even average quality 
+graphics will be disappointed. The Asha 502 includes one of the 
+most useful features that Nokia recently added to its Lumia phones, the 
+Glance screen. Glance shows the time and notifications on the screen 
+even after the phone has gone into standby mode. Nokia's Xpress 
+browser opens most websites quickly because data goes through Nokia's 
+server where it is compressed before being delivered. However, it fails 
+when it comes to running heavy Java-enabled websites. Up to six tabs can
+ be open at any time. Some of the popular apps which come preloaded on 
+the device are Facebook, Twitter, Line, Wechat and WhatsApp. We also 
+tried watching some Youtube videos on the handset, which turned out 
+better than we expected. CameraEven though it's a budget 
+device, the Asha 502 has a 5-megapixel fixed-focus rear camera with a 
+f/2.4 aperture and an LED flash with a range of one metre. There's no 
+front-facing camera and very few camera software features.  The 
+camera interface of Asha 502 is pretty easy to operate. The camera app 
+can be directly accessed from the lock screen by swiping upwards. Once 
+open, you can long-press on the screen to access the camera settings 
+which include flash adjustment options, self-timer, white balance, 
+filters, camera shutter sound and a choice of five resolutions. The
+ Asha 502's camera is just about average when it comes to image quality 
+and clarity despite its 5-megapixel resolution. Images captured in 
+bright sunny conditions look good, but like most such handsets, the Asha
+ 502 fails in low-light situations. You can't see much detail on the 
+device's small screen, but images shot in low-light are grainy and 
+unclear. Features and performanceIn use some stuttering 
+was noticeable while swiping between screens, and there was a few 
+seconds' lag while closing applications. However, by long-pressing the 
+back button, we were able to kill apps faster. Nokia says you can 
+double-tap the screen to wake the phone from sleep, but 6-10 were 
+usually required before the feature worked.The phone has very 
+little internal storage, with only a few MB free for users. However, the 
+handset comes bundled with a 4GB microSD card, and you can use cards up 
+to 32GB in size. We also noted that it took a considerable amount of 
+time for the handset to show the contents of the memory card, which we 
+suspect is due to the low amount of RAM.One of the features Nokia
+ has been known for in India is call quality. The Asha 502 was decent 
+enough, and it did not lose network connectivity even in basements. 
+Similarly, people on the other end of our calls also reported clear 
+quality.The 1010mAh battery was very impressive, as the phone made it through two consecutive days of usage with a single charge.The FM radio on Nokia Asha 502 is average and the headset needs to be plugged in for the application to work. The
+ Nokia Asha 502 is undoubtedly a fingerprint magnet. After a little 
+time, the screen as well as the crystalline cover will accumulate 
+smudges, and you'll have to wipe the phone repeatedly to make it look 
+good.VerdictTo sum it up in few words, the Nokia Asha 502 
+is a very basic phone with the simplest features one can expect in this 
+segment. The handset is best suited for light users, who will use it 
+mainly for calls, texts and very occasional social networking. The
+ handset lacks features that other manufacturers offer in this price 
+range, such as  3G connectivity, bigger display, multi-touch 
+functionality and a better processor for quick operations. A few 
+alternatives to consider are Samsung Galaxy Pocket Neo, Samsung Rex 90 
+and LG T585. The Asha 502 thus has a lot of room for improvement.The
+ handset is priced at Rs. 5,739 on the official Nokia India website, but
+ it can be bought for around Rs. 5,500 from online retailers such as 
+Flipkart and Snapdeal.
+Nokia Asha 502 in pictures
+
+
+The Nokia Asha 502 is the successor to the Asha 501, and has some noticeable bodily and internal OS feature tweaks.
+
+In
+ hand, the Asha 502 feels both compact and strong. We found its build 
+and overall design very appealing, and the phone itself is comfortable 
+to carry around.
+
+After spending a decent amount of time with the 
+Asha 502, testing its battery life, camera, Internet connectivity, 
+gaming capabilities and much more, here is what we think about this 
+budget handset.
+
+Build quality and designThe Nokia Asha 502 
+is extremely comfortable to hold, as its sharp corners give the user a 
+better grip and reduce the chances of it slipping and falling. The small
+ device measures 99.6 x 59.5 x 11.1mm and is well suited for users who 
+have average or small hands. One its most distinctive features is the 
+plastic monoblock body. The entire back panel and all four edges of Asha
+ 502 are encased in a transparent material, giving the handset a 
+crystallized effect. 
+
+Dedicated hard keys are usually found on the
+ sides of a handset, and Nokia offers exactly what a user needs. Both 
+the lock key and the two volume keys are closely placed on the right 
+side of the handset, but are not so close that a user could accidently 
+press the wrong button. 
+
+The buttons are easy to locate even in 
+low-light situations as they are slightly elevated from the body 
+surface. There is no dedicated camera button, but the feature can be 
+accessed with a single swipe on the touchscreen.
+
+The Nokia Asha 
+502 has a small microphone on the bottom-right corner along with a 
+Micro-USB connector and a 3.5mm headphone port placed on the left and 
+right of the top panel respectively. Nokia has given the left edge of 
+the handset a clean look. The rear panel has a camera centred at the 
+top, with a small but powerful LED flash to its right. Just below the 
+camera, a large Nokia logo is embossed into the transparent sheath. 
+There's a thin speaker on the bottom, leaving the rest of the rear panel
+ blank.
+
+The front panel houses a small 3-inch screen and a speaker
+ grille, with Nokia's logo between them. Below the screen is a single 
+capacitive touch button for going back to the previous screen or closing
+ apps.
+
+On removing the Asha 502's back panel, one can see the 
+removable battery taking up most of the space, with slots for the first 
+SIM just above it. The slots for the second SIM and microSD card are on 
+either side.
+
+DisplayThe Nokia Asha 502's 3-inch screen is 
+smaller than those of other devices in the same price segment. Users 
+coming from phones with 4-5-inch screens might be able to get used to 
+it, but if you like the feel of phablet devices that are currently 
+popular, you'll find the small screen cumbersome to operate.
+
+The 
+Nokia Asha 502's multi-touch screen features a QVGA (320 x 240 pixels) 
+resolution. The screen can display only 256,000 colours as opposed to 
+the full range of 1.6 million colours that is the usual standard. When 
+set to full brightness, the screen is easily visible under direct 
+sunlight.
+
+Software/InterfaceThe Nokia Asha 502 runs on the 
+latest Asha OS, version 1.1, which is an update to the software used by 
+the Asha 501. The OS uses simple swipe gestures for most actions, and 
+the back button is mainly used to close apps and return to the main menu
+ screen.
+
+The Asha 502, like other Asha models, comes with a 
+feature called Fastlane, which helps users access apps quickly, without 
+searching through the main apps page. The Fastlane window shows the apps
+ which have been used most recently. One can navigate to the Fastlane 
+view by unlocking the device and simply swiping towards the right from 
+the main apps page. 
+
+As seen on Nokia's higher-end handsets 
+running Windows Phone 8 OS, the Nokia Asha 502 also allows users to 
+change the positions of icons or delete entire apps by simply 
+long-pressing on any icon. 
+
+The settings app gives you direct 
+access to the Wi-Fi, Bluetooth, Flight Mode, and Dual-SIM settings, 
+amongst others. The Personalisation section lets you select ringtones 
+and vibration settings along with the wallpaper, lock screen image and 
+Fastlane settings. 
+
+Since the Asha 502 is a budget handset, users 
+will have to put up with limited customisation options for things like 
+the Fastlane settings, and limited background apps.
+
+The phone 
+struggles to load heavy websites in its browser, but it can run 
+optimised Java games such as Assassin's Creed 3 and Asphalt 6: Heat. The
+ graphics are not impressive, and users who expect even average quality 
+graphics will be disappointed. 
+
+The Asha 502 includes one of the 
+most useful features that Nokia recently added to its Lumia phones, the 
+Glance screen. Glance shows the time and notifications on the screen 
+even after the phone has gone into standby mode. 
+
+Nokia's Xpress 
+browser opens most websites quickly because data goes through Nokia's 
+server where it is compressed before being delivered. However, it fails 
+when it comes to running heavy Java-enabled websites. Up to six tabs can
+ be open at any time. Some of the popular apps which come preloaded on 
+the device are Facebook, Twitter, Line, Wechat and WhatsApp. We also 
+tried watching some Youtube videos on the handset, which turned out 
+better than we expected. 
+
+CameraEven though it's a budget 
+device, the Asha 502 has a 5-megapixel fixed-focus rear camera with a 
+f/2.4 aperture and an LED flash with a range of one metre. There's no 
+front-facing camera and very few camera software features.  
+
+The 
+camera interface of Asha 502 is pretty easy to operate. The camera app 
+can be directly accessed from the lock screen by swiping upwards. Once 
+open, you can long-press on the screen to access the camera settings 
+which include flash adjustment options, self-timer, white balance, 
+filters, camera shutter sound and a choice of five resolutions. 
+
+The
+ Asha 502's camera is just about average when it comes to image quality 
+and clarity despite its 5-megapixel resolution. Images captured in 
+bright sunny conditions look good, but like most such handsets, the Asha
+ 502 fails in low-light situations. You can't see much detail on the 
+device's small screen, but images shot in low-light are grainy and 
+unclear. 
+
+Features and performanceIn use some stuttering 
+was noticeable while swiping between screens, and there was a few 
+seconds' lag while closing applications. However, by long-pressing the 
+back button, we were able to kill apps faster. Nokia says you can 
+double-tap the screen to wake the phone from sleep, but 6-10 were 
+usually required before the feature worked.
+
+The phone has very 
+little internal storage, with only a few MB free for users. However, the 
+handset comes bundled with a 4GB microSD card, and you can use cards up 
+to 32GB in size. We also noted that it took a considerable amount of 
+time for the handset to show the contents of the memory card, which we 
+suspect is due to the low amount of RAM.
+
+One of the features Nokia
+ has been known for in India is call quality. The Asha 502 was decent 
+enough, and it did not lose network connectivity even in basements. 
+Similarly, people on the other end of our calls also reported clear 
+quality.
+
+The 1010mAh battery was very impressive, as the phone made it through two consecutive days of usage with a single charge.
+
+The FM radio on Nokia Asha 502 is average and the headset needs to be plugged in for the application to work. 
+
+The
+ Nokia Asha 502 is undoubtedly a fingerprint magnet. After a little 
+time, the screen as well as the crystalline cover will accumulate 
+smudges, and you'll have to wipe the phone repeatedly to make it look 
+good.
+
+VerdictTo sum it up in few words, the Nokia Asha 502 
+is a very basic phone with the simplest features one can expect in this 
+segment. The handset is best suited for light users, who will use it 
+mainly for calls, texts and very occasional social networking. 
+
+The
+ handset lacks features that other manufacturers offer in this price 
+range, such as  3G connectivity, bigger display, multi-touch 
+functionality and a better processor for quick operations. A few 
+alternatives to consider are Samsung Galaxy Pocket Neo, Samsung Rex 90 
+and LG T585. The Asha 502 thus has a lot of room for improvement.
+
+The
+ handset is priced at Rs. 5,739 on the official Nokia India website, but
+ it can be bought for around Rs. 5,500 from online retailers such as 
+Flipkart and Snapdeal.
+

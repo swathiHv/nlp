@@ -1,0 +1,338 @@
+Oppo R1 Review: A Different Kind of Chinese Phone
+
+Oppo made a bit of a splash when it entered India with
+ the N1, a relatively premium phone with a unique swivelling camera, but
+ it will take a lot more than one model and a few splashy ads for the 
+company to establish itself in India. As an unknown brand with an 
+unproven after-sales service track record, Oppo has a tough fight ahead 
+of it - but if it does manage, the rewards of success in India's booming
+ smartphone market will be rich.Besides the N1, the second prong 
+of Oppo's attack is the new R1. This model is quite different from its 
+predecessor, and will probably appeal to a wider section of buyers. It's
+ a simple, sleek slab of a phone but promises quite a few features that 
+should make it stand out.Look and feelThe Oppo R1 has a 
+definite iPhone 4 vibe. The proportions are different, but the overall 
+look of the front, back and sides are more than a little inspired by 
+Apple's previous-generation design style. The front and back are sheer 
+glass, and are in fact so reflective that even though they're black, you
+ could easily use either as a mirror and clearly see every pore on your 
+face.This also makes the phone extremely slippery. More than 
+once, we caught it sliding around on various surfaces we left it on, and
+ on one occasion a gust of wind actually managed to nudge it a little 
+way when it was lying on a table. This is definitely not the easiest 
+phone to hold, and you'll want to be careful if you have sweaty hands.The
+ high-gloss surfaces don't get scratched during everyday usage, but they
+ definitely do pick up smudges and fingerprints like crazy. The R1 comes
+ with a snap-on plastic case which helps with the grip and smudges, but 
+covers probably the most attractive parts of the phone. The front
+ has no visible markings except for very faint icons beneath the screen 
+where the capacitive buttons are. They light up a little when the screen
+ is on, but you'll be tapping them more by memory than by sight. There's
+ a silver Oppo logo on the upper back and a silver ring around the 
+camera lens, but the rest of the rear panel is quite blank.The 
+power button is on the upper left with the volume rocker opposite it on 
+the right. Towards the lower left corner is a neatly designed SIM card 
+tray that sits perfectly flush with the phone's exterior, but actually 
+has cavities for two Micro-SIMs. There's no microSD slot though.The
+ design is very slick, and the R1 feels rather premium. Unlike our 
+stereotypical ideas of Chinese-branded phones, this one definitely 
+doesn't feel as though it might break or fall apart in a few months' 
+time.Features and softwareThe R1's interiors definitely 
+aren't as premium as its exterior. The processor is a relatively weak 
+MediaTek MT6582 with four cores running at 1.3GHz and a Mali-400. 
+There's 1GB of RAM and 16GB of internal storage space, which is divided 
+into "system storage" and "phone storage". Around 11GB is available to 
+the user in total. The screen is bright and crisp, and although 
+we've seen full-HD resolutions at this size, 720x1280 should be sharp 
+enough for most people. Everything else is fairly standard, though 
+Bluetooth is strangely stuck at version 2.1, which won't play well with 
+many of today's popular low-energy accessories.The bigger story 
+is the software. The R1 runs Android 4.2.2 but comes with Oppo's fairly 
+extensive skin, which for some reason is called ColorOS. Unlike most 
+third-party skins, this one is actually quite well designed. We wish the
+ underlying version of Android was more modern, but there's nothing 
+wrong with the skin itself. It's easy enough to find your way around if 
+you have even a passing familiarity with Android.You can have a 
+number of home screens and populate them with icons and widgets as 
+usual, but you can also turn on the Photo Space and Music Space, which 
+then live to the right of your home screens. Photo Space contains a 
+large camera widget which acts like a mini camera app when tapped, and 
+lets you take photos right then and there without even launching into 
+the camera app. The rest of the screen is a timeline of photos you've 
+already taken. Music Space only displays a turntable-styled music player
+ which you can tap to begin or pause music playback, or swipe to move 
+between tracks. Both "spaces" have a row of shortcut buttons to related 
+apps and actions, as well as a row of four additional configurable 
+shortcuts. The home screen customisation menu promises that more 
+such "Exclusive spaces" are coming soon. Here you can also find options 
+for live wallpaper which can change as per the current weather. These 
+are extremely gimmicky; for example icons flash when there's a random 
+lightning strike on the "Thundershowers" wallpaper.The rest of 
+the UI is clean and sensible, with surprisingly little junk. There are a
+ few pointless apps such as Lock Now which does nothing but lock the 
+screen, and Power Manager, which duplicates the Battery page from the 
+Settings app. Data Saving is potentially more useful, allowing you to 
+track and block apps that use your 3G or Wi-Fi connections in the 
+background. Guest Mode lets you hide contacts, photos, videos and apps, 
+and Holiday Mode disables notifications for incoming calls and messages 
+except those from contacts you whitelist.There's also O-Cloud, a 
+backup service for contacts and messages that you can register for, and 
+the handy Kingsoft Office suite. Chrome is the default browser.Oppo
+ includes a number of tweaks, such as gestures that you can make to 
+trigger screenshots, adjust the volume and jump to the camera app from 
+any part of the OS. When the R1 is in standby mode, you can double-tap 
+to turn the screen on, or draw gestures to trigger the flashlight or 
+camera app.The gestures idea carries over to a dedicated panel 
+that you can pull down from the upper left corner of the status bar at 
+any time. Here you can even configure your own shortcut gestures for 
+things such as calling a particular contact, launching an app, loading a
+ website, etc.CameraOppo is seriously hyping the R1's 
+camera, especially its capabilities in low light. Its website boasts 
+that the camera sensor measures 1/3.2 of an inch, which is 
+characteristic of a few older high-end phones which are still fairly 
+premium today. Combined with the f/2.0 aperture and back-side sensor 
+illumination, this should allow for fairly decent low-light shots.The
+ camera app is fairly well designed, and you get basic options for 
+things such as the photo and video resolution, timer, location tagging 
+and white balance. There are a few "scene modes too" - landscape, 
+sunset, night, sports, and portrait - but no HDR.(Click to see full size)Photos came out 
+with mixed results. We noticed some odd behaviour when trying to focus, 
+when the camera simply refused to focus on what was in front of it and 
+instead decided that the background needed to be sharp. Other times, we 
+were impressed with the clarity of subjects, especially finer details 
+such as the veins in leaves.The much-touted night photography 
+abilities also turned out to be something of a mixed bag. While photos 
+definitely had a lot of detail, they also had way too much noise. 
+Subjects close at hand and lit by artificial light fared better, but 
+there was still much more noise than we would have liked.We took 
+some video at night as well, and found that it was surprisingly clear. 
+Moving cars were well defined and noise was manageable. (Click to see full size)PerformanceWe
+ had no problem with lags in everyday usage, but this phone definitely 
+wasn't meant to handle full-HD video. Some of our clips played with 
+occasional stutters, but the heavier ones didn't even load. Similarly, 
+gaming is restricted to casual titles only. Games like Temple Run 2 look
+ fantastic, but that's as good as you should expect things to be.Call
+ quality is perfectly acceptable and we were also pretty impressed with 
+the built-in speaker when playing music and watching video clips. The R1
+ is one of the better-sounding smartphones though of course that isn't 
+saying very much. The battery lasted 6 hours, 12 minutes in our video loop test, which is acceptable but not very reassuring.Benchmark scores were mostly predictable. The 
+Oppo R1 managed to post some of the lowest scores we've seen in a long 
+time when it came to the graphics test, but did manage to hold its own 
+in CPU-bound tests. You can definitely get better raw performance at 
+this price point, so you'll have to seriously consider whether your 
+priority is a phone that looks good or one that has more muscle.VerdictThe
+ Oppo R1 looks great, and if you don't see the appeal in running lots of
+ apps or carrying a lot of media around with you, then you'll probably 
+like it. You can do all the basics, including surf the Web and use as 
+many messenger and social networking apps as you like, but you won't get
+ far if you try gaming or doing any serious work. At this price 
+level, the Oppo R1 competes with several strong devices such as the Motorola 
+Moto X (review), Samsung Galaxy Grand 2 (review), HTC Desire 816 (review) and Sony Xperia 
+T2 Ultra (review). The R1 might be the best looking of this bunch, but it 
+definitely suffers in terms of features and flexibility. There's also 
+the fact that Oppo doesn't have the kind of brand pull that any of these
+ competitors do, and its service network is not yet proven. Oppo 
+might have to drop prices to be competitive in this context. The R1 is 
+much more reassuring than many of the phones sold by Indian brands which
+ are of unknown origin, so maybe that's where the company should focus 
+its attention rather than the premium segment.Oppo R1 in pictures
+
+Oppo made a bit of a splash when it entered India with
+ the N1, a relatively premium phone with a unique swivelling camera, but
+ it will take a lot more than one model and a few splashy ads for the 
+company to establish itself in India. As an unknown brand with an 
+unproven after-sales service track record, Oppo has a tough fight ahead 
+of it - but if it does manage, the rewards of success in India's booming
+ smartphone market will be rich.
+
+Besides the N1, the second prong 
+of Oppo's attack is the new R1. This model is quite different from its 
+predecessor, and will probably appeal to a wider section of buyers. It's
+ a simple, sleek slab of a phone but promises quite a few features that 
+should make it stand out.
+
+Look and feelThe Oppo R1 has a 
+definite iPhone 4 vibe. The proportions are different, but the overall 
+look of the front, back and sides are more than a little inspired by 
+Apple's previous-generation design style. The front and back are sheer 
+glass, and are in fact so reflective that even though they're black, you
+ could easily use either as a mirror and clearly see every pore on your 
+face.
+
+This also makes the phone extremely slippery. More than 
+once, we caught it sliding around on various surfaces we left it on, and
+ on one occasion a gust of wind actually managed to nudge it a little 
+way when it was lying on a table. This is definitely not the easiest 
+phone to hold, and you'll want to be careful if you have sweaty hands.
+
+The
+ high-gloss surfaces don't get scratched during everyday usage, but they
+ definitely do pick up smudges and fingerprints like crazy. The R1 comes
+ with a snap-on plastic case which helps with the grip and smudges, but 
+covers probably the most attractive parts of the phone.
+
+ 
+
+The front
+ has no visible markings except for very faint icons beneath the screen 
+where the capacitive buttons are. They light up a little when the screen
+ is on, but you'll be tapping them more by memory than by sight. There's
+ a silver Oppo logo on the upper back and a silver ring around the 
+camera lens, but the rest of the rear panel is quite blank.
+
+The 
+power button is on the upper left with the volume rocker opposite it on 
+the right. Towards the lower left corner is a neatly designed SIM card 
+tray that sits perfectly flush with the phone's exterior, but actually 
+has cavities for two Micro-SIMs. There's no microSD slot though.
+
+The
+ design is very slick, and the R1 feels rather premium. Unlike our 
+stereotypical ideas of Chinese-branded phones, this one definitely 
+doesn't feel as though it might break or fall apart in a few months' 
+time.
+
+Features and softwareThe R1's interiors definitely 
+aren't as premium as its exterior. The processor is a relatively weak 
+MediaTek MT6582 with four cores running at 1.3GHz and a Mali-400. 
+There's 1GB of RAM and 16GB of internal storage space, which is divided 
+into "system storage" and "phone storage". Around 11GB is available to 
+the user in total. 
+
+The screen is bright and crisp, and although 
+we've seen full-HD resolutions at this size, 720x1280 should be sharp 
+enough for most people. Everything else is fairly standard, though 
+Bluetooth is strangely stuck at version 2.1, which won't play well with 
+many of today's popular low-energy accessories.
+
+The bigger story 
+is the software. The R1 runs Android 4.2.2 but comes with Oppo's fairly 
+extensive skin, which for some reason is called ColorOS. Unlike most 
+third-party skins, this one is actually quite well designed. We wish the
+ underlying version of Android was more modern, but there's nothing 
+wrong with the skin itself. It's easy enough to find your way around if 
+you have even a passing familiarity with Android.
+
+You can have a 
+number of home screens and populate them with icons and widgets as 
+usual, but you can also turn on the Photo Space and Music Space, which 
+then live to the right of your home screens. Photo Space contains a 
+large camera widget which acts like a mini camera app when tapped, and 
+lets you take photos right then and there without even launching into 
+the camera app. The rest of the screen is a timeline of photos you've 
+already taken. Music Space only displays a turntable-styled music player
+ which you can tap to begin or pause music playback, or swipe to move 
+between tracks. Both "spaces" have a row of shortcut buttons to related 
+apps and actions, as well as a row of four additional configurable 
+shortcuts. 
+
+The home screen customisation menu promises that more 
+such "Exclusive spaces" are coming soon. Here you can also find options 
+for live wallpaper which can change as per the current weather. These 
+are extremely gimmicky; for example icons flash when there's a random 
+lightning strike on the "Thundershowers" wallpaper.
+
+The rest of 
+the UI is clean and sensible, with surprisingly little junk. There are a
+ few pointless apps such as Lock Now which does nothing but lock the 
+screen, and Power Manager, which duplicates the Battery page from the 
+Settings app. Data Saving is potentially more useful, allowing you to 
+track and block apps that use your 3G or Wi-Fi connections in the 
+background. Guest Mode lets you hide contacts, photos, videos and apps, 
+and Holiday Mode disables notifications for incoming calls and messages 
+except those from contacts you whitelist.
+
+There's also O-Cloud, a 
+backup service for contacts and messages that you can register for, and 
+the handy Kingsoft Office suite. Chrome is the default browser.
+
+Oppo
+ includes a number of tweaks, such as gestures that you can make to 
+trigger screenshots, adjust the volume and jump to the camera app from 
+any part of the OS. When the R1 is in standby mode, you can double-tap 
+to turn the screen on, or draw gestures to trigger the flashlight or 
+camera app.
+
+The gestures idea carries over to a dedicated panel 
+that you can pull down from the upper left corner of the status bar at 
+any time. Here you can even configure your own shortcut gestures for 
+things such as calling a particular contact, launching an app, loading a
+ website, etc.
+
+CameraOppo is seriously hyping the R1's 
+camera, especially its capabilities in low light. Its website boasts 
+that the camera sensor measures 1/3.2 of an inch, which is 
+characteristic of a few older high-end phones which are still fairly 
+premium today. Combined with the f/2.0 aperture and back-side sensor 
+illumination, this should allow for fairly decent low-light shots.
+
+The
+ camera app is fairly well designed, and you get basic options for 
+things such as the photo and video resolution, timer, location tagging 
+and white balance. There are a few "scene modes too" - landscape, 
+sunset, night, sports, and portrait - but no HDR.
+
+(Click to see full size)
+
+Photos came out 
+with mixed results. We noticed some odd behaviour when trying to focus, 
+when the camera simply refused to focus on what was in front of it and 
+instead decided that the background needed to be sharp. Other times, we 
+were impressed with the clarity of subjects, especially finer details 
+such as the veins in leaves.
+
+The much-touted night photography 
+abilities also turned out to be something of a mixed bag. While photos 
+definitely had a lot of detail, they also had way too much noise. 
+Subjects close at hand and lit by artificial light fared better, but 
+there was still much more noise than we would have liked.
+
+We took 
+some video at night as well, and found that it was surprisingly clear. 
+Moving cars were well defined and noise was manageable.
+
+ 
+
+(Click to see full size)
+
+PerformanceWe
+ had no problem with lags in everyday usage, but this phone definitely 
+wasn't meant to handle full-HD video. Some of our clips played with 
+occasional stutters, but the heavier ones didn't even load. Similarly, 
+gaming is restricted to casual titles only. Games like Temple Run 2 look
+ fantastic, but that's as good as you should expect things to be.
+
+Call
+ quality is perfectly acceptable and we were also pretty impressed with 
+the built-in speaker when playing music and watching video clips. The R1
+ is one of the better-sounding smartphones though of course that isn't 
+saying very much. The battery lasted 6 hours, 12 minutes in our video loop test, which is acceptable but not very reassuring.
+
+Benchmark scores were mostly predictable. The 
+Oppo R1 managed to post some of the lowest scores we've seen in a long 
+time when it came to the graphics test, but did manage to hold its own 
+in CPU-bound tests. You can definitely get better raw performance at 
+this price point, so you'll have to seriously consider whether your 
+priority is a phone that looks good or one that has more muscle.
+
+VerdictThe
+ Oppo R1 looks great, and if you don't see the appeal in running lots of
+ apps or carrying a lot of media around with you, then you'll probably 
+like it. You can do all the basics, including surf the Web and use as 
+many messenger and social networking apps as you like, but you won't get
+ far if you try gaming or doing any serious work. 
+
+At this price 
+level, the Oppo R1 competes with several strong devices such as the Motorola 
+Moto X (review), Samsung Galaxy Grand 2 (review), HTC Desire 816 (review) and Sony Xperia 
+T2 Ultra (review). The R1 might be the best looking of this bunch, but it 
+definitely suffers in terms of features and flexibility. There's also 
+the fact that Oppo doesn't have the kind of brand pull that any of these
+ competitors do, and its service network is not yet proven. 
+
+Oppo 
+might have to drop prices to be competitive in this context. The R1 is 
+much more reassuring than many of the phones sold by Indian brands which
+ are of unknown origin, so maybe that's where the company should focus 
+its attention rather than the premium segment.
+

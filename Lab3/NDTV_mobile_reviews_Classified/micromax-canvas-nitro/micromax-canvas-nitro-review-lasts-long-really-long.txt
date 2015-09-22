@@ -1,0 +1,279 @@
+Micromax Canvas Nitro Review: Lasts Long, Really Long
+
+Who
+ would have predicted that Micromax would have to play catch-up in the 
+price band it ruled just a year ago? With the entry of powerful and 
+competent devices from global manufacturers which cost less than Rs. 
+15,000, Micromax has had to slightly rethink its strategy. The newly 
+launched Canvas Nitro features impressive specifications and a price tag
+ that would have been a good Rs. 5,000 higher before this budget war 
+happened.We reviewed the Micromax Canvas Nitro to find out if it 
+can hold its own against heavyweight brands such as Motorola, Asus, and 
+the surprise star Xiaomi. Look and feelOur instant 
+reaction on holding the Micromax Canvas Nitro, with its weight of 146g, 
+was that it felt heavier than the other options in this price range. The
+ rear of the Micromax Canvas Nitro looks quite similar to that of the 
+Samsung Galaxy Note 3 (Review | Pictures) with its faux stitched-leather finish. The front 
+is mostly uninspiring with the 5-inch screen taking up most of the real 
+estate. In fact, the phone on the whole looks rather tepid and does 
+nothing to capture attention. We got the white version for review
+ but this phone is also available in dark blue. The power button sits on
+ the right edge whereas the left edge houses the volume rocker. Both 
+physical buttons have very little travel. A 3.5mm audio jack can be 
+found on the top of the phone, and the Micro-USB port for data transfer 
+and charging is on the bottom. Above the screen are the notification 
+LED, a front-facing camera and an earpiece. Micromax has decided to go 
+with backlit capacitive buttons, but they are not illuminated evenly. 
+The rear cover can be removed easily and under it one can find the 
+battery, two slots for Micro-SIM cards, and a slot for a microSD card. Specifications and softwareMicromax
+ has fitted the Canvas Nitro with the octa-core Mediatek MT6592 
+processor which is clocked at 1.7GHz and has an integrated Mali-450 GPU.
+ The Canvas Nitro also features 2GB of RAM. Out of the 8GB of internal 
+storage space, only 5.68GB is available for users but you can expand this
+ by up to 32GB using a microSD card.The phone accepts two 
+Micro-SIM cards and they connect to the 850/ 900/ 1800/ 1900/ 2100 network 
+bands. It can also connect to Wi-Fi networks and other Bluetooth-enabled
+ devices. A 2500mAh battery provides the juice for the device.  The 
+5-inch 720p display is great for the most part with vibrant colours and 
+good viewing angles, but things go downhill when viewed under direct 
+sunlight. The screen is very reflective and we had a difficult time 
+trying to use this phone because of this. Micromax has tweaked 
+the software to add a few additional features which have been mostly 
+borrowed from Samsung's Touchwiz and HTC's Sense UI. For starters, 
+Micromax adds a QuickLook page to the left of the primary homescreen.  
+QuickLook is nothing but Micromax's attempt to emulate HTC's BlinkFeed 
+which itself is based on Flipboard. One more swipe from the QuickLook 
+page shows the settings where one can choose which topics the feed 
+displays. One can also add Facebook and Twitter accounts so that they 
+can reflect in the feed. However, there is no way to add feeds from 
+specific websites. Moreover, there is a weird blue tint to the 
+background of text when any article is opened, making it rather 
+difficult to read. The lockscreen has a simple swipe-up gesture, 
+and available notifications are displayed on a red band. Some of the 
+other software tweaks include the ability to pause video playback when 
+the user looks away, which is a direct lift of Samsung's 'Smart Pause' 
+feature. It works most of the time, if ambient lighting is good enough. 
+There are a few tweaks to the camera software which we shall discuss in 
+the camera section. There are a ton of third party apps and they 
+are mostly bloatware - apps that are just pointless. The Clean Master 
+app has a widget on the home screen and it is very intrusive unless one 
+changes its settings. There are also apps like M! Games and M! Live 
+which just jump to Web pages. What's worse is that none of these apps 
+can be uninstalled. SwiftKey, a keyboard app that uses a proprietary prediction technology 
+that works really well, is the default keyboard on the phone. We approve
+ of this implementation and think that users will like it too. Micromax also bundles the rather annoying Truecaller app, that claims to
+ be a global telephone directory with a caller ID feature. The 
+problem with this app is that it scans the contact lists of people who 
+use it and make it available to other Truecaller users thereby raising 
+privacy concerns. While some may refute that it could be extremely 
+useful in certain cases, it sends an open invitation for miscreants to 
+misuse information that some users wish to keep confidential.CameraThe
+ 13-megapixel camera on the Micromax Canvas Nitro is the perfect example
+ of why the megapixel count doesn't matter. The lens and sensor of this 
+phone clearly don't do it any justice. As a result when seen at actual 
+size, it is quite evident that captured photos lack a lot of details. If
+ viewed closely one can observe a blue tint to photographs which means 
+that the white balance is off. In low light, the camera failed to 
+capture any detail whatsoever. The only upside is that the camera can 
+focus and shoot images really fast.Captured video is recorded in 
+.3gpp format for some reason and the quality is really bad. The camera 
+couldn't stay focused on any subject, and video was just very dim. 
+Surprisingly, the fixed-focus 5-megapixel front camera can capture 
+decent images but it is not as good as the one on the Sony Xperia C3 Dual (Review | Pictures). (click for full size)Micromax has added a camera widget to one 
+of the home screens, which directly lets a user access some of the 
+camera's many modes. The selfie mode is self-explanatory. Frontback mode
+ takes pictures with both cameras and shows them in splits creen. We fail
+ to understand the novelty of this mode and think that Micromax could 
+have stuck to the tried-and-tested picture-in-picture format used by 
+other smartphone companies. There is a Stable mode in which a reading 
+like a heart rate monitor moves on top of the screen to show you when 
+the device is stable enough for shooting. The camera app by itself 
+provides a lot of cool options like saying the word 'cheese' to capture 
+an image (which didn't work most of the time). Also, there are a few 
+manual controls as well. But hiding often-used modes like HDR deep in 
+the settings menu is rather annoying. PerformanceWe 
+didn't face any hiccups while using the Micromax Canvas Nitro every day.
+ It has smooth transitions and works quite well. It is a great 
+smartphone experience. We even tried high-end games like Asphalt 8 and 
+Dead Trigger 2, and we didn't face any lag whatsoever. The 
+benchmark numbers are second only to the slightly more expensive Xiaomi 
+Mi 3 (Review | Pictures) in this price range. In AnTuTu and Quadrant benchmarks the 
+phone managed to score 28,302 and 13,444 respectively, which are more 
+than respectable numbers. The phone also hit 13.4fps and scored 6,453 in
+ our GFXbench and 3D Mark Ice Storm graphics tests. The Canvas Nitro 
+played all the heavily encoded videos we threw at it without any 
+hassles. The loudspeaker is not too loud and moreover it distorts at 
+high volumes. The bundled earphones will serve the purpose for most 
+people, which is a good thing. The call quality is really good and the 
+sound on both ends of the call was crystal clear.We were 
+completely floored at the battery performance of the Canvas Nitro. It 
+managed to play video in a loop for 16 hours and 9 minutes before it 
+died on us. This is exceptional battery life and this one performance 
+stat alone is enough to sway a lot of buyers in the favour of this 
+phone. VerdictThe Micromax Canvas Nitro does a lot of 
+things one would expect from a smartphone and does them well for the 
+most part (except for the camera, of course). It is priced at Rs. 
+12,900, which is a great bargain. Unfortunately for Micromax, the market
+ is filled with a ton of options in this range and the upgraded Moto G 
+(Review | Pictures) is huge competition for the phone. The 
+leverage that Canvas Nitro has over most of the other phones like the 
+Asus Zenfone 5 (Review | Pictures), Xiaomi Mi 3 (out of stock for now) and the Moto G 
+(Gen 2) is that it will be available in retail channels as well apart 
+from any one online store. We would recommend this phone to anyone who 
+needs exceptional battery life, as long as they're willing to accept the
+ lousy camera as a tradeoff. 
+Micromax Canvas Nitro in pictures
+
+Who
+ would have predicted that Micromax would have to play catch-up in the 
+price band it ruled just a year ago? With the entry of powerful and 
+competent devices from global manufacturers which cost less than Rs. 
+15,000, Micromax has had to slightly rethink its strategy. The newly 
+launched Canvas Nitro features impressive specifications and a price tag
+ that would have been a good Rs. 5,000 higher before this budget war 
+happened.
+
+We reviewed the Micromax Canvas Nitro to find out if it 
+can hold its own against heavyweight brands such as Motorola, Asus, and 
+the surprise star Xiaomi. 
+
+Look and feelOur instant 
+reaction on holding the Micromax Canvas Nitro, with its weight of 146g, 
+was that it felt heavier than the other options in this price range. The
+ rear of the Micromax Canvas Nitro looks quite similar to that of the 
+Samsung Galaxy Note 3 (Review | Pictures) with its faux stitched-leather finish. The front 
+is mostly uninspiring with the 5-inch screen taking up most of the real 
+estate. In fact, the phone on the whole looks rather tepid and does 
+nothing to capture attention. 
+
+We got the white version for review
+ but this phone is also available in dark blue. The power button sits on
+ the right edge whereas the left edge houses the volume rocker. Both 
+physical buttons have very little travel. A 3.5mm audio jack can be 
+found on the top of the phone, and the Micro-USB port for data transfer 
+and charging is on the bottom. Above the screen are the notification 
+LED, a front-facing camera and an earpiece. Micromax has decided to go 
+with backlit capacitive buttons, but they are not illuminated evenly. 
+The rear cover can be removed easily and under it one can find the 
+battery, two slots for Micro-SIM cards, and a slot for a microSD card. 
+
+Specifications and softwareMicromax
+ has fitted the Canvas Nitro with the octa-core Mediatek MT6592 
+processor which is clocked at 1.7GHz and has an integrated Mali-450 GPU.
+ The Canvas Nitro also features 2GB of RAM. Out of the 8GB of internal 
+storage space, only 5.68GB is available for users but you can expand this
+ by up to 32GB using a microSD card.
+
+The phone accepts two 
+Micro-SIM cards and they connect to the 850/ 900/ 1800/ 1900/ 2100 network 
+bands. It can also connect to Wi-Fi networks and other Bluetooth-enabled
+ devices. A 2500mAh battery provides the juice for the device.  The 
+5-inch 720p display is great for the most part with vibrant colours and 
+good viewing angles, but things go downhill when viewed under direct 
+sunlight. The screen is very reflective and we had a difficult time 
+trying to use this phone because of this. 
+
+Micromax has tweaked 
+the software to add a few additional features which have been mostly 
+borrowed from Samsung's Touchwiz and HTC's Sense UI. For starters, 
+Micromax adds a QuickLook page to the left of the primary homescreen.  
+QuickLook is nothing but Micromax's attempt to emulate HTC's BlinkFeed 
+which itself is based on Flipboard. One more swipe from the QuickLook 
+page shows the settings where one can choose which topics the feed 
+displays. One can also add Facebook and Twitter accounts so that they 
+can reflect in the feed. However, there is no way to add feeds from 
+specific websites. Moreover, there is a weird blue tint to the 
+background of text when any article is opened, making it rather 
+difficult to read. 
+
+The lockscreen has a simple swipe-up gesture, 
+and available notifications are displayed on a red band. Some of the 
+other software tweaks include the ability to pause video playback when 
+the user looks away, which is a direct lift of Samsung's 'Smart Pause' 
+feature. It works most of the time, if ambient lighting is good enough. 
+There are a few tweaks to the camera software which we shall discuss in 
+the camera section. 
+
+There are a ton of third party apps and they 
+are mostly bloatware - apps that are just pointless. The Clean Master 
+app has a widget on the home screen and it is very intrusive unless one 
+changes its settings. There are also apps like M! Games and M! Live 
+which just jump to Web pages. What's worse is that none of these apps 
+can be uninstalled. SwiftKey, a keyboard app that uses a proprietary prediction technology 
+that works really well, is the default keyboard on the phone. We approve
+ of this implementation and think that users will like it too. Micromax also bundles the rather annoying Truecaller app, that claims to
+ be a global telephone directory with a caller ID feature. The 
+problem with this app is that it scans the contact lists of people who 
+use it and make it available to other Truecaller users thereby raising 
+privacy concerns. While some may refute that it could be extremely 
+useful in certain cases, it sends an open invitation for miscreants to 
+misuse information that some users wish to keep confidential.
+
+CameraThe
+ 13-megapixel camera on the Micromax Canvas Nitro is the perfect example
+ of why the megapixel count doesn't matter. The lens and sensor of this 
+phone clearly don't do it any justice. As a result when seen at actual 
+size, it is quite evident that captured photos lack a lot of details. If
+ viewed closely one can observe a blue tint to photographs which means 
+that the white balance is off. In low light, the camera failed to 
+capture any detail whatsoever. The only upside is that the camera can 
+focus and shoot images really fast.
+
+Captured video is recorded in 
+.3gpp format for some reason and the quality is really bad. The camera 
+couldn't stay focused on any subject, and video was just very dim. 
+Surprisingly, the fixed-focus 5-megapixel front camera can capture 
+decent images but it is not as good as the one on the Sony Xperia C3 Dual (Review | Pictures). 
+
+(click for full size)Micromax has added a camera widget to one 
+of the home screens, which directly lets a user access some of the 
+camera's many modes. The selfie mode is self-explanatory. Frontback mode
+ takes pictures with both cameras and shows them in splits creen. We fail
+ to understand the novelty of this mode and think that Micromax could 
+have stuck to the tried-and-tested picture-in-picture format used by 
+other smartphone companies. There is a Stable mode in which a reading 
+like a heart rate monitor moves on top of the screen to show you when 
+the device is stable enough for shooting. The camera app by itself 
+provides a lot of cool options like saying the word 'cheese' to capture 
+an image (which didn't work most of the time). Also, there are a few 
+manual controls as well. But hiding often-used modes like HDR deep in 
+the settings menu is rather annoying. 
+
+PerformanceWe 
+didn't face any hiccups while using the Micromax Canvas Nitro every day.
+ It has smooth transitions and works quite well. It is a great 
+smartphone experience. We even tried high-end games like Asphalt 8 and 
+Dead Trigger 2, and we didn't face any lag whatsoever. 
+
+The 
+benchmark numbers are second only to the slightly more expensive Xiaomi 
+Mi 3 (Review | Pictures) in this price range. In AnTuTu and Quadrant benchmarks the 
+phone managed to score 28,302 and 13,444 respectively, which are more 
+than respectable numbers. The phone also hit 13.4fps and scored 6,453 in
+ our GFXbench and 3D Mark Ice Storm graphics tests. The Canvas Nitro 
+played all the heavily encoded videos we threw at it without any 
+hassles. The loudspeaker is not too loud and moreover it distorts at 
+high volumes. The bundled earphones will serve the purpose for most 
+people, which is a good thing. The call quality is really good and the 
+sound on both ends of the call was crystal clear.
+
+We were 
+completely floored at the battery performance of the Canvas Nitro. It 
+managed to play video in a loop for 16 hours and 9 minutes before it 
+died on us. This is exceptional battery life and this one performance 
+stat alone is enough to sway a lot of buyers in the favour of this 
+phone. 
+
+VerdictThe Micromax Canvas Nitro does a lot of 
+things one would expect from a smartphone and does them well for the 
+most part (except for the camera, of course). It is priced at Rs. 
+12,900, which is a great bargain. Unfortunately for Micromax, the market
+ is filled with a ton of options in this range and the upgraded Moto G 
+(Review | Pictures) is huge competition for the phone. The 
+leverage that Canvas Nitro has over most of the other phones like the 
+Asus Zenfone 5 (Review | Pictures), Xiaomi Mi 3 (out of stock for now) and the Moto G 
+(Gen 2) is that it will be available in retail channels as well apart 
+from any one online store. We would recommend this phone to anyone who 
+needs exceptional battery life, as long as they're willing to accept the
+ lousy camera as a tradeoff. 
+

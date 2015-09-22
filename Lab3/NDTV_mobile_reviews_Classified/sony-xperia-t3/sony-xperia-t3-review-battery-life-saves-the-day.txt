@@ -1,0 +1,249 @@
+Sony Xperia T3 Review: Battery Life Saves the Day
+
+The
+ advent of new players in the Indian Android smartphone market has 
+changed its dynamics a lot. Well-entrenched brands such as Sony, Samsung
+ and HTC have had to innovate rapidly. Sony's latest is a slim 
+smartphone which has a decent set of specifications on paper - the Sony 
+Xperia T3. The only problem we anticipate is the pricing of this 
+phone, compared to others with similar specifications. We put it to the 
+test to find out if the Xperia T3 is worth its rather high price tag.Look and FeelSony
+ seems to be bullish on its Omnibalance design for smartphones, which 
+was introduced with the Xperia Z. The Xperia T3 follows the same 
+principles but tweaks them slightly to accommodate a matte plastic back.
+ A stainless steel strip runs along the edges of the phone and makes it 
+look premium. The back attracts a lot of grime and we think the glass 
+back on Sony's more premium smartphones looks better. The Xperia T3 is 
+available in Sony's usual three colours - black, white and purple. The
+ Xperia T3 is possibly the slimmest Sony smartphone yet, at 7mm thick. 
+Its weight of 148g is distributed evenly. It has a width of 77mm and a 
+height of 150.7mm. The bezels around the 5.3-inch screen are quite 
+thick, making the Xperia T3 look large. Sony could have trimmed it 
+little bit more but we are nit-picking here because the Xperia T3 is 
+actually pretty comfortable to use. Unlike its more expensive siblings, 
+the Xperia T3 is neither waterproof nor shockproof.Sony has 
+decided to place the Micro-USB port on the left edge of the device. The 
+right is crowded with a dedicated camera shutter button, volume rocker, 
+power button and a flap that conceals the SIM card and microSD card 
+slots. A 3.5mm jack sits on the top while a lanyard eyelet and 
+microphone are present on the bottom. The non-removable rear of the smartphone has the
+ camera with flash and the loudspeaker. Specifications and SoftwareThe
+ Xperia T3 runs on a 1.4GHz quad-core Qualcomm Snapdragon 400 processor 
+with Adreno 305 graphics, and has 1GB of RAM. The phone has 8GB of 
+internal storage and accepts microSD cards up to 32GB, which is low 
+considering even cheaper phones support up to 128GB cards.There 
+is an 8-megapixel rear camera with a flash and a 1.1-megapixel front 
+camera. The rear camera can shoot 1080p videos while the one in front 
+can capture videos at up to 720p. The Indian variant of the Xperia T3 
+does not support 4G but can connect to 3G networks. Apart from Wi-Fi and
+ Bluetooth 4.0, the Xperia T3 also supports NFC. Inside the phone is a 
+large 2,500mAh battery.The 5.3-inch screen has a 720p resolution,
+ which translates to a pixel density of 277ppi. The screen is adequately
+ sharp and the colours are saturated nicely thanks to the Mobile Bravia 
+Engine 2, but viewing angles are not that good as the glass is very 
+reflective. Moreover, the screen was too dim and we had to crank up the 
+brightness most of the time.The phone runs Android 4.4.2 KitKat, 
+which is great. Sony slaps its usual skin on top of it, which is nothing
+ we haven't seen before in other Sony smartphones. Annoyingly, 
+long-pressing one of the quick toggles in the notifications shade 
+doesn't take you to the relevant settings page, though we like the fact 
+that the shade is transparent. Sony bundles a ton of apps which 
+include NeoReader, Facebook, Sony Select, What's New, Walkman, Socialife
+ News, Video Unlimited, TrackID, Smart Connect, Support, TrackID TV, 
+Update Centre, Office Suite, File Commander, Navigation by Garmin, 
+Xperia Lounge, Sketch and Pixlr Express. It is definitely a long list.`What's
+ New is basically a curated content board which offers information about
+ new apps, games, music, TV shows and movies on the Play Store. It is 
+present on the home screen by default and looks good. CameraSony's
+ custom camera software has a ton of modes including Superior Auto, 
+Manual, AR Effect, Creative Effect, Timeshift Burst, Social Live, Sweep 
+Panorama and Portrait Retouch. As we mentioned in the review of the Sony
+ Xperia T2 Ultra, the AR Effect mode is gimmicky and looks cheap. In 
+order to shoot in HDR one has to find the setting inside the Manual 
+mode.The pictures captured by the 8-megapixel rear camera look 
+good. The Xperia T3 captures a lot of detail, which is evident in the 
+picture of leaves on a tree. The colours are natural too. The only 
+problem is that it doesn't let in adequate light, making photos look 
+slightly duller than they should be. While photos captured in the HDR 
+mode have a few muted details, the results are stunning and HDR photos 
+are great for uploading to social networking websites. The camera
+ struggles in low light conditions and we ended up capturing images with
+ a lot of blur. 1080p video has a weird problem - despite holding the 
+phone steady, captured video looked like a waving flag. We suspect it 
+could be Sony's over-enthusiastic vibration reduction at play. The 
+1.1-megapixel front camera is okay and can work for those times when you
+ desperately need to take a selfie. (Click for full size)PerformanceQualcomm's 
+Snapdragon 400 is a capable processor and it showed in our experience 
+with the Xperia T3. In daily use, the phone was usually zippy with nary a
+ lag. Apps opened and closed quickly, and we could browse through the 
+app drawer with ease. The numbers are slightly higher than with what we 
+have seen with other devices powered by the same processor. The Xperia 
+T3 scored 19,924 and 10,324 respectively in our AnTuTu and Quadrant 
+benchmarks. Gaming on a big screen is something the target 
+audience would want to do but the Adreno 305 GPU can only handle casual 
+games such as Temple Run and Angry Birds. We tried Shadowgun: Deadzone 
+and it stuttered during gunfights. The numbers also prove this - the 
+smartphone scored only 5,823 and 11fps respectively in 3DMark Ice Storm 
+and GFXbench.We threw a bunch of test videos at the Xperia T3 and
+ it played all of them, including the most heavily encoded 1080p clip 
+without any hassle. The Xperia T3's speaker is one of the loudest we've 
+tested and it was quite clear too. The bundled earphones are not the 
+in-ear kind but they get the job done by being adequately loud and 
+reproducing the low-end decently. Although, the sound was much better 
+with our reference headphones.The earpiece volume is good and during our testing we didn't experience call drops.The Xperia T3 also performed 
+admirably in our battery test. It lasted us 11 hours and 6 minutes, 
+which is really good. The Stamina mode is even more wonderful because in
+ two separate instances the phone lost only one percent of its charge in
+ nine hours of inactivity.VerdictOne area where Sony fails
+ miserably is with the pricing of the Xperia T3. At Rs. 27,990, even the
+ limited period offer of a bundled SmartBand and premium case is not 
+enticing enough. The two things going for the Sony Xperia T3 are its 
+great battery life and decent camera performance, but nothing else about
+ this phone's price-to-performance ratio works out. It just isn't
+ compelling enough for us to recommend it whole-heartedly. In fact one 
+could buy two Xiaomi Mi 3s (review | pictures), Moto Gs (review | pictures) or Zenfone 5s (review | pictures) at this price. You'd 
+be better off with any of these phones and a portable battery pack.
+Sony Xperia T3 in pictures
+
+The
+ advent of new players in the Indian Android smartphone market has 
+changed its dynamics a lot. Well-entrenched brands such as Sony, Samsung
+ and HTC have had to innovate rapidly. Sony's latest is a slim 
+smartphone which has a decent set of specifications on paper - the Sony 
+Xperia T3. 
+
+The only problem we anticipate is the pricing of this 
+phone, compared to others with similar specifications. We put it to the 
+test to find out if the Xperia T3 is worth its rather high price tag.
+
+Look and FeelSony
+ seems to be bullish on its Omnibalance design for smartphones, which 
+was introduced with the Xperia Z. The Xperia T3 follows the same 
+principles but tweaks them slightly to accommodate a matte plastic back.
+ A stainless steel strip runs along the edges of the phone and makes it 
+look premium. The back attracts a lot of grime and we think the glass 
+back on Sony's more premium smartphones looks better. The Xperia T3 is 
+available in Sony's usual three colours - black, white and purple. 
+
+The
+ Xperia T3 is possibly the slimmest Sony smartphone yet, at 7mm thick. 
+Its weight of 148g is distributed evenly. It has a width of 77mm and a 
+height of 150.7mm. The bezels around the 5.3-inch screen are quite 
+thick, making the Xperia T3 look large. Sony could have trimmed it 
+little bit more but we are nit-picking here because the Xperia T3 is 
+actually pretty comfortable to use. Unlike its more expensive siblings, 
+the Xperia T3 is neither waterproof nor shockproof.
+
+Sony has 
+decided to place the Micro-USB port on the left edge of the device. The 
+right is crowded with a dedicated camera shutter button, volume rocker, 
+power button and a flap that conceals the SIM card and microSD card 
+slots. A 3.5mm jack sits on the top while a lanyard eyelet and 
+microphone are present on the bottom. The non-removable rear of the smartphone has the
+ camera with flash and the loudspeaker. 
+
+Specifications and SoftwareThe
+ Xperia T3 runs on a 1.4GHz quad-core Qualcomm Snapdragon 400 processor 
+with Adreno 305 graphics, and has 1GB of RAM. The phone has 8GB of 
+internal storage and accepts microSD cards up to 32GB, which is low 
+considering even cheaper phones support up to 128GB cards.
+
+There 
+is an 8-megapixel rear camera with a flash and a 1.1-megapixel front 
+camera. The rear camera can shoot 1080p videos while the one in front 
+can capture videos at up to 720p. The Indian variant of the Xperia T3 
+does not support 4G but can connect to 3G networks. Apart from Wi-Fi and
+ Bluetooth 4.0, the Xperia T3 also supports NFC. Inside the phone is a 
+large 2,500mAh battery.
+
+The 5.3-inch screen has a 720p resolution,
+ which translates to a pixel density of 277ppi. The screen is adequately
+ sharp and the colours are saturated nicely thanks to the Mobile Bravia 
+Engine 2, but viewing angles are not that good as the glass is very 
+reflective. Moreover, the screen was too dim and we had to crank up the 
+brightness most of the time.
+
+The phone runs Android 4.4.2 KitKat, 
+which is great. Sony slaps its usual skin on top of it, which is nothing
+ we haven't seen before in other Sony smartphones. Annoyingly, 
+long-pressing one of the quick toggles in the notifications shade 
+doesn't take you to the relevant settings page, though we like the fact 
+that the shade is transparent. 
+
+Sony bundles a ton of apps which 
+include NeoReader, Facebook, Sony Select, What's New, Walkman, Socialife
+ News, Video Unlimited, TrackID, Smart Connect, Support, TrackID TV, 
+Update Centre, Office Suite, File Commander, Navigation by Garmin, 
+Xperia Lounge, Sketch and Pixlr Express. It is definitely a long list.`
+
+What's
+ New is basically a curated content board which offers information about
+ new apps, games, music, TV shows and movies on the Play Store. It is 
+present on the home screen by default and looks good. 
+
+CameraSony's
+ custom camera software has a ton of modes including Superior Auto, 
+Manual, AR Effect, Creative Effect, Timeshift Burst, Social Live, Sweep 
+Panorama and Portrait Retouch. As we mentioned in the review of the Sony
+ Xperia T2 Ultra, the AR Effect mode is gimmicky and looks cheap. In 
+order to shoot in HDR one has to find the setting inside the Manual 
+mode.
+
+The pictures captured by the 8-megapixel rear camera look 
+good. The Xperia T3 captures a lot of detail, which is evident in the 
+picture of leaves on a tree. The colours are natural too. The only 
+problem is that it doesn't let in adequate light, making photos look 
+slightly duller than they should be. While photos captured in the HDR 
+mode have a few muted details, the results are stunning and HDR photos 
+are great for uploading to social networking websites. 
+
+The camera
+ struggles in low light conditions and we ended up capturing images with
+ a lot of blur. 1080p video has a weird problem - despite holding the 
+phone steady, captured video looked like a waving flag. We suspect it 
+could be Sony's over-enthusiastic vibration reduction at play. The 
+1.1-megapixel front camera is okay and can work for those times when you
+ desperately need to take a selfie. 
+
+(Click for full size)PerformanceQualcomm's 
+Snapdragon 400 is a capable processor and it showed in our experience 
+with the Xperia T3. In daily use, the phone was usually zippy with nary a
+ lag. Apps opened and closed quickly, and we could browse through the 
+app drawer with ease. The numbers are slightly higher than with what we 
+have seen with other devices powered by the same processor. The Xperia 
+T3 scored 19,924 and 10,324 respectively in our AnTuTu and Quadrant 
+benchmarks. 
+
+Gaming on a big screen is something the target 
+audience would want to do but the Adreno 305 GPU can only handle casual 
+games such as Temple Run and Angry Birds. We tried Shadowgun: Deadzone 
+and it stuttered during gunfights. The numbers also prove this - the 
+smartphone scored only 5,823 and 11fps respectively in 3DMark Ice Storm 
+and GFXbench.
+
+We threw a bunch of test videos at the Xperia T3 and
+ it played all of them, including the most heavily encoded 1080p clip 
+without any hassle. The Xperia T3's speaker is one of the loudest we've 
+tested and it was quite clear too. The bundled earphones are not the 
+in-ear kind but they get the job done by being adequately loud and 
+reproducing the low-end decently. Although, the sound was much better 
+with our reference headphones.The earpiece volume is good and during our testing we didn't experience call drops.
+
+The Xperia T3 also performed 
+admirably in our battery test. It lasted us 11 hours and 6 minutes, 
+which is really good. The Stamina mode is even more wonderful because in
+ two separate instances the phone lost only one percent of its charge in
+ nine hours of inactivity.
+
+VerdictOne area where Sony fails
+ miserably is with the pricing of the Xperia T3. At Rs. 27,990, even the
+ limited period offer of a bundled SmartBand and premium case is not 
+enticing enough. The two things going for the Sony Xperia T3 are its 
+great battery life and decent camera performance, but nothing else about
+ this phone's price-to-performance ratio works out. 
+
+It just isn't
+ compelling enough for us to recommend it whole-heartedly. In fact one 
+could buy two Xiaomi Mi 3s (review | pictures), Moto Gs (review | pictures) or Zenfone 5s (review | pictures) at this price. You'd 
+be better off with any of these phones and a portable battery pack.
+

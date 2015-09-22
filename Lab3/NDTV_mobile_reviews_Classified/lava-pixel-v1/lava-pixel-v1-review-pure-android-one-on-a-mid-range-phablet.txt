@@ -1,0 +1,293 @@
+Lava Pixel V1 Review: Pure Android One on a Mid-Range Phablet
+
+Android One, Google's ambitious effort to clean 
+up the mess of devices and vendors cluttering up its mobile platform 
+ecosystem, has been a bit of a letdown. In the year since its launch, 
+we've seen only a handful of devices; none of which were particularly 
+appealing. With nearly identical specifications and pricing, the first 
+batch of Android One devices became sort of a marker for the minimum 
+acceptable spec we should allow a smartphone manufacturer to get away 
+with.However, there was always the problem of having far more 
+appealing phones in the market for just a small additional amount of 
+money. Those who would benefit most from Android One - first-time users 
+in non-saturated markets - didn't seem to have much access to them. Now,
+ the strategy of promoting only bare-basic entry-level devices has now 
+been modified a bit. The Lava Pixel V1 costs a lot more than its 
+predecessors did and doesn't bill itself as a basic phone. It could be 
+the first of a new wave of devices similarly blessed by Google, but with
+ more mainstream appeal.Low-cost 5.5-inch phones are a huge 
+category today and there is no shortage of models. What makes things 
+interesting is that this particular segment has been the most recent 
+frontier in our ongoing price-and-specifications war. Lenovo's K3 Note (Review | Pictures) 
+and Micromax's Yu Yureka Plus (Review) stand out in particular as recent examples
+ of phones that have not only pushed costs down, but have delivered 
+shockingly good features, specifications and performance. In taking on 
+such competitors, both Lava and Google have their work cut out for them.Look and feelThe
+ Lava Pixel V1's silver-on-white combination has been done countless 
+times before, but at least this phone doesn't look like dozens of 
+others. The metallic-looking ring around the sides is clearly plastic, 
+but don't look too cheap. Only the rear panel finish looks like it will 
+rub off after the phone has been handled for a long time.This is a
+ pretty hefty phone thanks to its 5.5-inch screen, and you'll definitely
+ feel its width when you hold it. The rear has a subtle curve towards 
+the edges, but the front is entirely flat. In fact there's a raised 
+ridge around the front in order to protect the screen when the phone is 
+lying face down, but it's really hard and feels scratchy when holding 
+the phone in hand or against an ear.There isn't much plastic 
+around the screen, and only the earpiece, sensor cutout and front camera
+ are placed above it. The Pixel V1 uses on-screen Android buttons so you
+ don't have to reach down too far. Even so, you won't be able to 
+comfortably reach all corners of the screen with one thumb.The 
+power and volume buttons are on the right, and the Micro-USB port and 
+the 3.5mm audio socket are on top. That leaves the left and bottom 
+totally blank. The camera lens protrudes a fair bit from the rear, and 
+there's an LED flash right under it. There are only two subtle 
+things printed on the rear; a Lava logo in the centre and an Android One
+ logo right above the speaker grille. Beneath the peel-off plastic 
+panel, you'll see the rather large 2,650mAh battery, one SIM card slot, 
+one Micro-SIM card slot, and a microSD slot as well. SoftwareThe
+ most interesting thing about about the Pixel V1 is that it is part of 
+the Android One programme. Lava advertises guaranteed upgrades for two 
+years, which isn't actually all that impressive considering Android's 
+fragmentation problem. Still, this isn't a phone many people would want 
+to keep for more than two years so that might just work out fine.Pure
+ Android 5.1 has its appeal, and the Pixel V1 is not bogged down with 
+heavy third-party skins (but Lava obviously couldn't resist making some 
+money off preloads - we saw unwanted Flipkart and Myntra apps after 
+first boot). Using this phone is a mostly refreshing experience but not 
+without its downsides - while it's easy to complain about the obvious 
+problems with manufacturers' skins, the improvements don't stand out as 
+much. When confronted with stock Android, we're reminded that there are 
+UIs that offer more settings shortcuts, more customisation options and 
+more conveniences. You don't have several features that are now common, 
+such as being able to double-tap the screen to wake the phone.SpecificationsLava
+ claims that the Pixel V1 is built using "Google certified hardware". In
+ this case, that includes the rather aged quad-core 1.3GHz MediaTek 
+MT6582 SoC with integrated Mali-400 MP2 graphics. Predictably, the 
+screen has a resolution of 720x1280 pixels, but it is protected by Asahi
+ Dragontrail glass. There's 2GB of RAM and a surprisingly generous 32GB 
+of onboard storage. Lava even specifies that 25.47GB is available to 
+users. This is one of the phone's standout features and will make a lot 
+of users happy - especially since microSD support is capped at 32GB.Connectivity
+ comes in the form of Wi-Fi b/g/n, Bluetooth 4.0, A-GPS and 3G but no 4G which is now commonplace enough to be a major omission. There's 
+an ambient light sensor and a proximity sensor. The rear 8-megapixel 
+camera supports 1080p HD video recording, and there's a 5-megapixel 
+camera in front as well. The 2.650mAh battery is rated for over 20 hours
+ of 2G talktime.PerformanceWe had a generally pleasant 
+time with the Lava Pixel V1 apart from one persistent, aggravating 
+problem: the proximity sensor on our review unit just did not work. That
+ meant the screen did not go off when we raised the phone to our ear to 
+talk, and we wound up touching random things on screen with our cheeks. 
+This kind of problem is absolutely unbelievable for a smartphone today, 
+and we hope it's just our review unit that had a problem. Otherwise,
+ performance was snappy. We liked what we saw of Lava and Google's 
+collaboration. The screen isn't all that impressive considering we've 
+just reviewed the Lenovo K3 Note and Yu Yureka Plus. However viewing 
+angles are still decent, and the 720p resolution is still crisp. Movies
+ looked decent, but not all of our clips played perfectly. There was 
+some artefacting in the heavily encoded 1080p sample.  Audio from the 
+speaker was quite loud, but awfully tinny and distorted. We didn't enjoy
+ any of the music or videos we tried playing until we used our own pair 
+of earphones.Benchmark numbers weren't impressive considering 
+what we've seen from other phones at and even below this price point. 
+The Pixel V1 scored 19,565 in AnTuTu and only 5,395 overall in Quadrant.
+ Graphics scores were well below expectations, with only 1,879 in 3DMark
+ Ice Storm Extreme and 7.1fps in GFXBench. Sunspider ran in 1580.8ms and
+ Mozilla Kraken took 16,268.2ms.Lava promises great camera 
+performance but image output quality isn't the whole story. We found the
+ stock Android camera app to be short of features. Settings weren't easy
+ to find, and there wasn't much flexibility. Photos are taken in the 4:3
+ format by default though you can change this at the cost of resolution.
+ There's a "Lens blur" mode for artificial depth of field, and basic 
+controls for the flash, timer, and HDR. Image quality wasn't 
+terrible, but we were expecting better. There was considerable shutter 
+lag when shooting - sometimes several seconds - and autofocus wasn't 
+quick enough either. Photos taken in daylight looked decent, but zooming
+ in revealed a lot of artificial-looking texture compression and dull 
+colours. Results at night were pretty awful, bordering on completely 
+useless. We were barely able to make out subjects that were reasonably 
+well lit by streetlamps or other ambient sources.(Click to see full size)The battery 
+lasted for 8 hours, 36 minutes in our video loop test which was one 
+relatively bright spot on the scoresheet. However, realistically, performance did 
+not match up to what we've seen from other recent launches which are in 
+fact priced significantly lower. Lava will have to work on its appeal 
+because the competition is not what it used to be even a few months ago.VerdictThe
+ Lava Pixel V1 is a solid but clunky phone. Even though it's brand new, 
+it feels just a little outdated and overpriced. With other recent 
+launches such as the Lenovo K3 Note and Yu Yureka Plus outshining it 
+considerably in terms of features and performance, the appeal of the 
+Lava Pixel V1 is a little uncertain.We like the 32GB of storage, 
+but that's offset by the weak processor and lack of 4G. Ultimately, the best thing that
+ this phone has going for it is its Android One status. The guarantee of
+ software updates, patches and security fixes is hugely appealing, 
+considering how little support many Android phones get after they're 
+launched and out the door. Android Purists and those sick of bloat will 
+be thrilled to have a pure Android option that sits somewhere between 
+the low-end Android One lineup we've had so far, and the flagship Nexus 
+devices. Update: Lava states "The Pixel V1 takes great 13MP BSI Rear Camera Images (Software enhanced 
+8MP sensor) and 8MP BSI front camera Images (software enhanced 5MP 
+sensor)". Many sources, including the exclusive online retailer, list the Pixel V1 as having a 13-megapixel front camera and 8-megapixel rear camera. We tested the device using the default image size and quality settings which result in interpolated images.  Lava Pixel V1 in pictures
+
+However, there was always the problem of having far more 
+appealing phones in the market for just a small additional amount of 
+money. Those who would benefit most from Android One - first-time users 
+in non-saturated markets - didn't seem to have much access to them. Now,
+ the strategy of promoting only bare-basic entry-level devices has now 
+been modified a bit. The Lava Pixel V1 costs a lot more than its 
+predecessors did and doesn't bill itself as a basic phone. It could be 
+the first of a new wave of devices similarly blessed by Google, but with
+ more mainstream appeal.
+
+Low-cost 5.5-inch phones are a huge 
+category today and there is no shortage of models. What makes things 
+interesting is that this particular segment has been the most recent 
+frontier in our ongoing price-and-specifications war. Lenovo's K3 Note (Review | Pictures) 
+and Micromax's Yu Yureka Plus (Review) stand out in particular as recent examples
+ of phones that have not only pushed costs down, but have delivered 
+shockingly good features, specifications and performance. In taking on 
+such competitors, both Lava and Google have their work cut out for them.
+
+Look and feelThe
+ Lava Pixel V1's silver-on-white combination has been done countless 
+times before, but at least this phone doesn't look like dozens of 
+others. The metallic-looking ring around the sides is clearly plastic, 
+but don't look too cheap. Only the rear panel finish looks like it will 
+rub off after the phone has been handled for a long time.
+
+This is a
+ pretty hefty phone thanks to its 5.5-inch screen, and you'll definitely
+ feel its width when you hold it. The rear has a subtle curve towards 
+the edges, but the front is entirely flat. In fact there's a raised 
+ridge around the front in order to protect the screen when the phone is 
+lying face down, but it's really hard and feels scratchy when holding 
+the phone in hand or against an ear.
+
+There isn't much plastic 
+around the screen, and only the earpiece, sensor cutout and front camera
+ are placed above it. The Pixel V1 uses on-screen Android buttons so you
+ don't have to reach down too far. Even so, you won't be able to 
+comfortably reach all corners of the screen with one thumb.
+
+The 
+power and volume buttons are on the right, and the Micro-USB port and 
+the 3.5mm audio socket are on top. That leaves the left and bottom 
+totally blank. The camera lens protrudes a fair bit from the rear, and 
+there's an LED flash right under it. 
+
+There are only two subtle 
+things printed on the rear; a Lava logo in the centre and an Android One
+ logo right above the speaker grille. Beneath the peel-off plastic 
+panel, you'll see the rather large 2,650mAh battery, one SIM card slot, 
+one Micro-SIM card slot, and a microSD slot as well. 
+
+SoftwareThe
+ most interesting thing about about the Pixel V1 is that it is part of 
+the Android One programme. Lava advertises guaranteed upgrades for two 
+years, which isn't actually all that impressive considering Android's 
+fragmentation problem. Still, this isn't a phone many people would want 
+to keep for more than two years so that might just work out fine.
+
+Pure
+ Android 5.1 has its appeal, and the Pixel V1 is not bogged down with 
+heavy third-party skins (but Lava obviously couldn't resist making some 
+money off preloads - we saw unwanted Flipkart and Myntra apps after 
+first boot). Using this phone is a mostly refreshing experience but not 
+without its downsides - while it's easy to complain about the obvious 
+problems with manufacturers' skins, the improvements don't stand out as 
+much. When confronted with stock Android, we're reminded that there are 
+UIs that offer more settings shortcuts, more customisation options and 
+more conveniences. You don't have several features that are now common, 
+such as being able to double-tap the screen to wake the phone.
+
+SpecificationsLava
+ claims that the Pixel V1 is built using "Google certified hardware". In
+ this case, that includes the rather aged quad-core 1.3GHz MediaTek 
+MT6582 SoC with integrated Mali-400 MP2 graphics. Predictably, the 
+screen has a resolution of 720x1280 pixels, but it is protected by Asahi
+ Dragontrail glass. There's 2GB of RAM and a surprisingly generous 32GB 
+of onboard storage. Lava even specifies that 25.47GB is available to 
+users. This is one of the phone's standout features and will make a lot 
+of users happy - especially since microSD support is capped at 32GB.
+
+Connectivity
+ comes in the form of Wi-Fi b/g/n, Bluetooth 4.0, A-GPS and 3G but no 4G which is now commonplace enough to be a major omission. There's 
+an ambient light sensor and a proximity sensor. The rear 8-megapixel 
+camera supports 1080p HD video recording, and there's a 5-megapixel 
+camera in front as well. The 2.650mAh battery is rated for over 20 hours
+ of 2G talktime.
+
+PerformanceWe had a generally pleasant 
+time with the Lava Pixel V1 apart from one persistent, aggravating 
+problem: the proximity sensor on our review unit just did not work. That
+ meant the screen did not go off when we raised the phone to our ear to 
+talk, and we wound up touching random things on screen with our cheeks. 
+This kind of problem is absolutely unbelievable for a smartphone today, 
+and we hope it's just our review unit that had a problem. 
+
+Otherwise,
+ performance was snappy. We liked what we saw of Lava and Google's 
+collaboration. The screen isn't all that impressive considering we've 
+just reviewed the Lenovo K3 Note and Yu Yureka Plus. However viewing 
+angles are still decent, and the 720p resolution is still crisp. 
+
+Movies
+ looked decent, but not all of our clips played perfectly. There was 
+some artefacting in the heavily encoded 1080p sample.  Audio from the 
+speaker was quite loud, but awfully tinny and distorted. We didn't enjoy
+ any of the music or videos we tried playing until we used our own pair 
+of earphones.
+
+Benchmark numbers weren't impressive considering 
+what we've seen from other phones at and even below this price point. 
+The Pixel V1 scored 19,565 in AnTuTu and only 5,395 overall in Quadrant.
+ Graphics scores were well below expectations, with only 1,879 in 3DMark
+ Ice Storm Extreme and 7.1fps in GFXBench. Sunspider ran in 1580.8ms and
+ Mozilla Kraken took 16,268.2ms.
+
+Lava promises great camera 
+performance but image output quality isn't the whole story. We found the
+ stock Android camera app to be short of features. Settings weren't easy
+ to find, and there wasn't much flexibility. Photos are taken in the 4:3
+ format by default though you can change this at the cost of resolution.
+ There's a "Lens blur" mode for artificial depth of field, and basic 
+controls for the flash, timer, and HDR. 
+
+Image quality wasn't 
+terrible, but we were expecting better. There was considerable shutter 
+lag when shooting - sometimes several seconds - and autofocus wasn't 
+quick enough either. Photos taken in daylight looked decent, but zooming
+ in revealed a lot of artificial-looking texture compression and dull 
+colours. Results at night were pretty awful, bordering on completely 
+useless. We were barely able to make out subjects that were reasonably 
+well lit by streetlamps or other ambient sources.
+
+(Click to see full size)
+
+The battery 
+lasted for 8 hours, 36 minutes in our video loop test which was one 
+relatively bright spot on the scoresheet. However, realistically, performance did 
+not match up to what we've seen from other recent launches which are in 
+fact priced significantly lower. Lava will have to work on its appeal 
+because the competition is not what it used to be even a few months ago.
+
+VerdictThe
+ Lava Pixel V1 is a solid but clunky phone. Even though it's brand new, 
+it feels just a little outdated and overpriced. With other recent 
+launches such as the Lenovo K3 Note and Yu Yureka Plus outshining it 
+considerably in terms of features and performance, the appeal of the 
+Lava Pixel V1 is a little uncertain.
+
+We like the 32GB of storage, 
+but that's offset by the weak processor and lack of 4G. Ultimately, the best thing that
+ this phone has going for it is its Android One status. The guarantee of
+ software updates, patches and security fixes is hugely appealing, 
+considering how little support many Android phones get after they're 
+launched and out the door. Android Purists and those sick of bloat will 
+be thrilled to have a pure Android option that sits somewhere between 
+the low-end Android One lineup we've had so far, and the flagship Nexus 
+devices. 
+
+Update: Lava states "The Pixel V1 takes great 13MP BSI Rear Camera Images (Software enhanced 
+8MP sensor) and 8MP BSI front camera Images (software enhanced 5MP 
+sensor)". Many sources, including the exclusive online retailer, list the Pixel V1 as having a 13-megapixel front camera and 8-megapixel rear camera. We tested the device using the default image size and quality settings which result in interpolated images. 
+

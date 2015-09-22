@@ -1,0 +1,220 @@
+Lenovo A7000 Review: Multimedia Phablet on a Budget
+
+As
+ phones started becoming smart, people discovered they could do much more than just make calls. Today, there are many who use a phone to surf the Web, chat with people
+using messenger apps, listen to music, watch movies, and play games. These capabilities don't require high-end hardware anymore. Lenovo understands there
+ is a huge market for affordable multimedia smartphones, and has engineered the 
+Lenovo A7000 for precisely this reason.With a big screen, meaty 
+battery and powerful processor, the A7000 ticks all the 
+right boxes for a smartphone. This 5.5-inch phablet is 
+pretty affordable and has another interesting trick - it's the world's first phone to 
+feature Dolby Atmos. Let's see if the A7000 is 
+worth its salt and can overcome the intense competition in this price range.  Look and feelIf we have to put it
+ bluntly, the Lenovo A7000 looks like someone stretched the Lenovo A6000 (Review | Pictures) 
+from its corners and flattened it, which is to say it looks strikingly 
+similar to its smaller sibling. In our review of the A6000, we said we really didn't mind its utilitarian design, and we stand by that for the A7000 as well. The phone has an unassuming
+ design with rounded edges and a matte-finished rear. It is only 8mm thick
+ and weighs 140g. The A7000 is quite possibly one of the most ergonomic budget
+smartphones with a 5.5-inch screen.The entire
+ phone is made of plastic but it doesn't feel cheap. We found it  to be adequately sturdy and it should be able to withstand some amount of rough usage. The right
+ edge of the phone houses the volume rocker and the power button. These 
+are made of metal and have great tactile feedback. There is
+ a microphone at the bottom. The top edge, on the other hand, has 
+the 3.5mm audio port and the Micro-USB port. There is a row
+ of capacitive buttons below the screen, which aren't backlit, so finding them in the dark will be a hassle. The 
+earpiece, front-facing camera, and ambient light sensor are all above the screen. The primary camera and its dual-LED flash
+ sit in the top left corner of the rear. The speaker grille is towards the right of the rear and is out of the reach of your fingers when holding the phone, thus not blocking any sound. However, sound is somewhat blocked when the phone is placed flat on
+ its rear. The rear cover is removable and underneath it lie the 
+battery, two Micro-SIM card slots and a microSD card slot. Specifications and softwareUnder the hood,
+ the A7000 uses an octa-core  MediaTek MT6752m SoC clocked at 1.5GHz; an entry-level version of the MT6752. This SoC has integrated 
+Mali-T760MP2 graphics. Lenovo has gone with a generous 2GB of RAM but a 
+not-so-generous 8GB of internal storage. The storage space can be 
+expanded by up to 32GB using a microSD card, and there is 
+also support for USB OTG. The USB OTG feature can also be used to charge 
+other devices, which might come in handy in emergencies. The
+ A7000 has an 8-megapixel camera with a dual-LED flash, and there is also a 
+5-megapixel front-facing camera. One of the SIM cards can 
+be used to connect to 4G networks even on the 2300MHz frequency band used in India. The other 
+connectivity options are Wi-Fi a/b/g/n and Bluetooth 4.0. The 
+battery has a rated capacity of 2,900mAh.The 5.5-inch IPS LCD 
+screen has a resolution of 720p, which translates to a pixel density of 
+267ppi. The screen is protected by Asahi's Dragontrail glass. The 
+saturation levels of the display are a not too high and it looks 
+decently crisp as well. The brightness and viewing angles are not too 
+bad either. The phone runs Android 5.0 Lollipop with Lenovo's Vibe UI 3.0 skin on top of it. This skin does not use an app drawer.
+ It provides users with a good number of customisation options and there
+ is a separate theme app which makes the whole process easier. The 
+notification slider and multitasking cards are lifted from Lollipop 
+with one tiny exception: Lenovo has added its own quick settings to the 
+ones that are present by default. Other than Lenovo's own Shareit and 
+Syncit apps, most of the other preinstalled apps can be uninstalled, which you 
+might actually want to do because there are a number of them. Performance and cameraThe
+ A7000 is pretty powerful and we really didn't see it choke or stutter 
+at any point during our time with it. Opening multiple apps 
+wasn't a problem either. Even the graphically taxing Asphalt 8 ran 
+without dropping frames.In the AnTuTu and Quadrant benchmark 
+tests we achieved scores of 30,159 and 14,714 respectively. The graphics 
+benchmarks, 3DMark Ice Storm Extreme and GFXbench, returned scores of 22fps and 5,990 points respectively, which show that the A7000 could be a great 
+phone for gaming. While the phone did play all our sample videos 
+without stuttering, we noticed some strange artefacting in our heavily encoded 40Mbps sample. Videos in other formats and at other resolutions played just fine. We 
+were really eager to test Dolby Atmos functionality on the A7000, but unfortunately it
+ was a bit of a letdown. Dolby Atmos on the phone is basically an app 
+that can be used to tweak its sound handling according to the content that is 
+being played - such as music or movies. Frankly, it looks like a 
+sophisticated equaliser app that just lets you play around with the sound 
+frequency levels to create a sense of space. We tried a ton of content 
+ranging from music to movies to games, and the difference between 
+regular stereo and Dolby Atmos was nothing to write home about. In fact,
+ the phone failed to play Dolby's own lossless demo. Even
+ at its maximum volume level the sound is not very loud through either the speakers or the headset. It is not all bad though - the quality of sound 
+is really good, which should come as a relief for people who are willing
+ to live with the low decibel levels. The phone handles calls without any issues - we didn't face any call drops whatsoever and 
+the quality of sound was pretty good too. We were really impressed with 
+the battery life on the A6000, which lasted 10 hours and 12 minutes in our video loop test. 
+With the A7000, Lenovo actually betters that: the 2900mAh battery lasted 10 hours and 58 minutes this time. If used moderately, users should easily be 
+able to get one and a half days' worth of usage with the A7000, which 
+is really good. (Click for full size)The camera app in the A7000 is minimalistic and 
+we really had fun using it. The 8-megapixel camera is a really fast 
+shooter for a budget phone but it takes average photos at best. Our 
+daylight samples were underexposed and some of the details looked 
+smudged. However, colours were natural and there was no pixellation 
+at full resolution. Low-light shots were almost unusable because the 
+software obfuscates a lot of detail. The 
+front camera can capture some really good selfies, though. Even with continuous autofocus, the camera struggled with holding focus while
+ capturing videos. VerdictAt Rs. 8,999 for the A7000, 
+Lenovo has once again played the pricing card right. It is at least Rs. 
+1,000 cheaper than competing phones such as Micromax's Yu Yureka (Review | Pictures), the Xiaomi Redmi 
+Note 4G (Review | Pictures), the Huawei Honor 4X (Review | Pictures) and the Infocus M330 (Review), which definitely gives it an advantage.
+ The Lenovo A7000 is a great phone for gaming and for general usage. 
+Unfortunately, the multimedia features that were played up during the launch didn't live 
+up to our expectations. This doesn't mean that 
+the Lenovo A7000 cannot do multimedia at all, it just doesn't do anything extraordinary as 
+advertised. All in all, the A7000 is a great phone and its price
+ is its biggest advantage. 
+Lenovo A7000 in pictures
+
+
+As
+ phones started becoming smart, people discovered they could do much more than just make calls. Today, there are many who use a phone to surf the Web, chat with people
+using messenger apps, listen to music, watch movies, and play games. These capabilities don't require high-end hardware anymore. Lenovo understands there
+ is a huge market for affordable multimedia smartphones, and has engineered the 
+Lenovo A7000 for precisely this reason.
+
+With a big screen, meaty 
+battery and powerful processor, the A7000 ticks all the 
+right boxes for a smartphone. This 5.5-inch phablet is 
+pretty affordable and has another interesting trick - it's the world's first phone to 
+feature Dolby Atmos. Let's see if the A7000 is 
+worth its salt and can overcome the intense competition in this price range. 
+
+ 
+
+Look and feelIf we have to put it
+ bluntly, the Lenovo A7000 looks like someone stretched the Lenovo A6000 (Review | Pictures) 
+from its corners and flattened it, which is to say it looks strikingly 
+similar to its smaller sibling. In our review of the A6000, we said we really didn't mind its utilitarian design, and we stand by that for the A7000 as well. The phone has an unassuming
+ design with rounded edges and a matte-finished rear. It is only 8mm thick
+ and weighs 140g. The A7000 is quite possibly one of the most ergonomic budget
+smartphones with a 5.5-inch screen.
+
+The entire
+ phone is made of plastic but it doesn't feel cheap. We found it  to be adequately sturdy and it should be able to withstand some amount of rough usage. The right
+ edge of the phone houses the volume rocker and the power button. These 
+are made of metal and have great tactile feedback. There is
+ a microphone at the bottom. The top edge, on the other hand, has 
+the 3.5mm audio port and the Micro-USB port. There is a row
+ of capacitive buttons below the screen, which aren't backlit, so finding them in the dark will be a hassle. 
+
+The 
+earpiece, front-facing camera, and ambient light sensor are all above the screen. The primary camera and its dual-LED flash
+ sit in the top left corner of the rear. The speaker grille is towards the right of the rear and is out of the reach of your fingers when holding the phone, thus not blocking any sound. However, sound is somewhat blocked when the phone is placed flat on
+ its rear. The rear cover is removable and underneath it lie the 
+battery, two Micro-SIM card slots and a microSD card slot. 
+
+Specifications and softwareUnder the hood,
+ the A7000 uses an octa-core  MediaTek MT6752m SoC clocked at 1.5GHz; an entry-level version of the MT6752. This SoC has integrated 
+Mali-T760MP2 graphics. Lenovo has gone with a generous 2GB of RAM but a 
+not-so-generous 8GB of internal storage. The storage space can be 
+expanded by up to 32GB using a microSD card, and there is 
+also support for USB OTG. The USB OTG feature can also be used to charge 
+other devices, which might come in handy in emergencies. 
+
+The
+ A7000 has an 8-megapixel camera with a dual-LED flash, and there is also a 
+5-megapixel front-facing camera. One of the SIM cards can 
+be used to connect to 4G networks even on the 2300MHz frequency band used in India. The other 
+connectivity options are Wi-Fi a/b/g/n and Bluetooth 4.0. The 
+battery has a rated capacity of 2,900mAh.
+
+The 5.5-inch IPS LCD 
+screen has a resolution of 720p, which translates to a pixel density of 
+267ppi. The screen is protected by Asahi's Dragontrail glass. The 
+saturation levels of the display are a not too high and it looks 
+decently crisp as well. The brightness and viewing angles are not too 
+bad either. 
+
+The phone runs Android 5.0 Lollipop with Lenovo's Vibe UI 3.0 skin on top of it. This skin does not use an app drawer.
+ It provides users with a good number of customisation options and there
+ is a separate theme app which makes the whole process easier. The 
+notification slider and multitasking cards are lifted from Lollipop 
+with one tiny exception: Lenovo has added its own quick settings to the 
+ones that are present by default. Other than Lenovo's own Shareit and 
+Syncit apps, most of the other preinstalled apps can be uninstalled, which you 
+might actually want to do because there are a number of them. 
+
+Performance and cameraThe
+ A7000 is pretty powerful and we really didn't see it choke or stutter 
+at any point during our time with it. Opening multiple apps 
+wasn't a problem either. Even the graphically taxing Asphalt 8 ran 
+without dropping frames.
+
+In the AnTuTu and Quadrant benchmark 
+tests we achieved scores of 30,159 and 14,714 respectively. The graphics 
+benchmarks, 3DMark Ice Storm Extreme and GFXbench, returned scores of 22fps and 5,990 points respectively, which show that the A7000 could be a great 
+phone for gaming. 
+
+While the phone did play all our sample videos 
+without stuttering, we noticed some strange artefacting in our heavily encoded 40Mbps sample. Videos in other formats and at other resolutions played just fine. We 
+were really eager to test Dolby Atmos functionality on the A7000, but unfortunately it
+ was a bit of a letdown. Dolby Atmos on the phone is basically an app 
+that can be used to tweak its sound handling according to the content that is 
+being played - such as music or movies. Frankly, it looks like a 
+sophisticated equaliser app that just lets you play around with the sound 
+frequency levels to create a sense of space. We tried a ton of content 
+ranging from music to movies to games, and the difference between 
+regular stereo and Dolby Atmos was nothing to write home about. In fact,
+ the phone failed to play Dolby's own lossless demo. 
+
+Even
+ at its maximum volume level the sound is not very loud through either the speakers or the headset. It is not all bad though - the quality of sound 
+is really good, which should come as a relief for people who are willing
+ to live with the low decibel levels. 
+
+The phone handles calls without any issues - we didn't face any call drops whatsoever and 
+the quality of sound was pretty good too. We were really impressed with 
+the battery life on the A6000, which lasted 10 hours and 12 minutes in our video loop test. 
+With the A7000, Lenovo actually betters that: the 2900mAh battery lasted 10 hours and 58 minutes this time. If used moderately, users should easily be 
+able to get one and a half days' worth of usage with the A7000, which 
+is really good. 
+
+(Click for full size)The camera app in the A7000 is minimalistic and 
+we really had fun using it. The 8-megapixel camera is a really fast 
+shooter for a budget phone but it takes average photos at best. Our 
+daylight samples were underexposed and some of the details looked 
+smudged. However, colours were natural and there was no pixellation 
+at full resolution. Low-light shots were almost unusable because the 
+software obfuscates a lot of detail. The 
+front camera can capture some really good selfies, though. Even with continuous autofocus, the camera struggled with holding focus while
+ capturing videos. 
+
+VerdictAt Rs. 8,999 for the A7000, 
+Lenovo has once again played the pricing card right. It is at least Rs. 
+1,000 cheaper than competing phones such as Micromax's Yu Yureka (Review | Pictures), the Xiaomi Redmi 
+Note 4G (Review | Pictures), the Huawei Honor 4X (Review | Pictures) and the Infocus M330 (Review), which definitely gives it an advantage.
+ The Lenovo A7000 is a great phone for gaming and for general usage. 
+Unfortunately, the multimedia features that were played up during the launch didn't live 
+up to our expectations. This doesn't mean that 
+the Lenovo A7000 cannot do multimedia at all, it just doesn't do anything extraordinary as 
+advertised. All in all, the A7000 is a great phone and its price
+ is its biggest advantage. 
+

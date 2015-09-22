@@ -1,0 +1,434 @@
+Intex Aqua Octa review
+
+Intex is not a name usually associated with high-end, high quality 
+phones. In fact, it's almost exclusively associated with cheap assembled
+ PCs - Intex has been churning out budget-friendly keyboards, mice, 
+cabinets and power supplies since the beginning of the PC revolution in 
+India. Over the years, the company has branched out into accessories 
+such as headphones, routers, webcams, speakers, and MP3 players. Of
+ late, with the PC industry declining, it should come as no surprise 
+that Intex has jumped into the mobile market. Its strategy seems to be 
+the same as ever: capture the low-end and undercut better known brands 
+with a flood of products that might not look or feel premium, but are 
+cheap enough to make people give them a chance. Intex has over 80 phone 
+models listed on its website; most of them priced below Rs. 7,000. The 
+Aqua Octa is one of only a few models priced above Rs. 12,000 and is 
+second only to the full-HD Intex Aqua i7 model.Intex launched the Aqua 
+Octa at Rs. 19,999 and it is currently selling online for only a few 
+hundred rupees less than that. Its defining feature is a "true octa-core
+ processor", which the company claims is a first. While there are 
+already several phones with eight physical CPU cores on the market, 
+these are generally built with a cluster of four high-powered cores and 
+another cluster of four low-powered ones, which do not operate 
+simultaneously. ARM calls this arrangement big.Little, and it 
+allows phones designed around its Cortex architecture to switch between 
+the two quad-core clusters based on what the user currently requires. 
+When the phone is idle, there's no need for the beefier cores to be 
+sucking up power, so the weaker, more efficient ones take over.Intex,
+ on the other hand, has found an ARM design in which all eight cores can
+ operate at the same time. While "octa-core" is certainly an impressive 
+advertising line, we didn't have to dig deep to discover that these are 
+not particularly powerful cores, and thus having eight of them is not 
+necessarily going to be a whole lot better than current quad-core 
+processors. Still, we're intrigued about what this will mean for 
+performance and for battery life.Look and feelAs with most
+ Android phones, the Intex Aqua Octa is a large rectangular slab with 
+rounded corners. The front face is all black with a metallic rim. The 
+screen stretches pretty much from edge to edge on the sides, but there's
+ space for the speaker grille and camera on top and the standard row of 
+capacitive buttons on the bottom. The rear is flat except for a slight 
+bump in the upper left corner where the camera lens protrudes. There are
+ two speaker grilles in opposite corners and an ugly grey and red logo 
+right in the middle. The Aqua Octa is available in black and 
+white. Our white review unit had a silver back cover with white strips 
+above and below it. The colour combinations might be a bit inspired, but
+ there's no mistaking this for an iPhone. The construction quality is 
+pretty good, but there are a few areas where things could be improved. 
+The phone looks good from the front and feels hefty in the hand, but on 
+closer examination, it's apparent that the plastic is cheap. The 
+buttons, especially the power button, feel crude and flimsy. There's a 
+bit of misalignment where the Micro-USB port is placed, forcing us to 
+wiggle the plug to seat it properly each time. Even the bundled charger,
+ headset and cover feel cheap.  Some phones have thin plastic 
+back covers that peel off, and others have metal ones that require a 
+clasp. The Aqua Octa has both - you need to peel off the bottom plastic 
+strip and then the large metal plate slides out. Beneath it, you see the
+ large battery cavity and slots for the two SIM cards and a microSD 
+card. The primary SIM card slot accepts standard SIMs, but the 
+secondary one needs a Micro-SIM. All three slots are positioned such 
+that you have to take the battery out to get to them.Bucking the 
+current trend, the Aqua Octa's power/standby button is on the top edge. 
+It isn't too difficult to get to, but its shallowness combined with the 
+general blocky design of the phone make it difficult to wake the phone 
+one hand when it is lying on a table.Features and specificationsIntex
+ might be happy to use the phrase "true octa core processor" all over 
+its press and advertising materials, but the name of the chip in 
+question is somewhat downplayed. It's a Mediatek MT6592, which was 
+launched in late November 2013. Bumping up the number of cores should 
+have an immediate effect on multitasking, since individual software 
+threads don't have to compete for CPU time. However that's going to put a
+ huge strain on the battery unless power consumption can be throttled 
+extremely efficiently. The processor is a complete 
+System-on-a-Chip (SoC). The CPU cores run at 1.7GHz and there's also an 
+integrated Mali 450-MP graphics GPU. Mediatek lists a number of other 
+integrated units, such as 802.11n Wi-Fi, Bluetooth, GPS, FM radio, 
+Miracast, and logic for the phone's sensors and cameras. The cellular 
+modem is also built in, and supports two GSM SIM cards with 3G data.Considering
+ the flagship CPU and price, we were expecting a full-HD 1080p screen, 
+but the Aqua Octa takes a big step backwards for this current 
+generation, and comes with a 720x1280-pixel screen instead. This is the 
+kind of configuration decision that keeps costs down and helps regulate 
+battery life, but it's disappointing. The 720p screen is fairly crisp, but at 6 inches, 1080p would have made a noticeable difference. The main problem we have with the screen is that Intex hasn't 
+figured out how to scale that resolution to that screen size, which 
+means every part of the Android interface is highly magnified. Icons, 
+buttons, menu entries and even the status bar on top are way too large. 
+In fact it feels like a special interface created for elderly people or 
+those with mobility impairments. In apps such as the messaging app, you 
+can barely see one or two messages on screen and the keyboard is simply 
+massive. It's a huge waste of potential.The rest of the 
+specifications are pretty normal for phones in this price range. There's
+ 2GB of RAM and 16GB of built-in storage. microSD cards up to 32GB in 
+capacity are supported. The battery is rated at 2300mAh, which Intex 
+says is good enough for six hours of talktime or 180 hours on standby.SoftwareNone
+ of the current crop of budget Android phones seems to run anything 
+newer than version 4.2.2 of the operating system, and the Aqua Octa is 
+no exception. Intex has undertaken a fair amount of cosmetic 
+customisation, and you'll notice that the icons are all brightly 
+coloured squares with their top-right corners rounded off.  The built-in
+ apps all have their own icons, but anything you download will have its 
+own icon displayed inside a grey square with a matching rounded corner, 
+which is not only visually distracting but adds to the feeling that 
+visual elements are far too large. A few apps are bundled 
+with the Aqua Octa: NQ Vault, NQ Security, Intex Play, Intex Cloud, Auto
+ Call Record, and several others. NQ Vault lets you password-protect 
+your SMS app, call logs, contacts, photos and videos. NQ Security 
+includes a virus scanner (which pops up offering to scan your device 
+every  time you plug it into a PC), a call and message blocker, contacts
+ backup, and anti-theft module which lets you pinpoint your phone's GPS 
+location (but not the usual remote alarm and wipe features, which you 
+have to pay to unlock). There's yet another call blocking app called 
+Firewall, for no apparent reason.Intex Cloud offers 5GB of free 
+online storage, and there doesn't seem to be any time limit on it. Intex
+ Zone is a simple screen with a few links to Intex's website after sales
+ service line, and shortcuts to a few other apps which for some reason 
+aren't available through the main menu. The first of these is Auto Call 
+Record, which does what its name suggests with zero indication to the 
+person on the other end of the link. The second is Intex Play, a rather 
+crude app store clone which has a number of mediocre-looking titles and 
+no search function. Then there's Intex Lifebox, which is nothing but a 
+list of premium SMS services for things like astrology predictions and 
+sports updates.If all of that wasn't enough, there are quite a 
+few other bundled apps as well. These include Zapak, Hungama, 
+Getit, Bigflix, GreetZAP, OLX, Newshunt, and WeChat. Opera Mini makes an
+ appearance instead of Google Chrome, and there are a few games that you
+ can play five times before being asked to pay Rs. 50 to purchase. Overall,
+ we were disappointed to see so much software bloat. While the security 
+apps are conceivably useful, very few of the other preloaded ones are. 
+What's worse is that not all of them are removable. CameraThere
+ isn't much to say about the camera app, which should be familiar to any
+ Android user. You get a panorama mode, motion tracking mode, smile 
+shot, voice-triggered capture, a self timer, and 30-shot burst mode. 
+Photos taken in bright daylight are actually pretty great. Details are 
+sharp and colours are vivid. There is a bit of noise when you look at 
+the full-sized images on a big screen, but these pictures are totally 
+fine for sharing and posting online. Even the front camera is 
+surprisingly good. Fans of selfie-style portraits will appreciate this 
+the most.(Click to see full size)Where the camera falters is in low light. Images are grainy and it really isn't possible to make out any detail at all. Videos
+ are also surprisingly sharp, although we detected heavy compression in 
+the clips we recorded. The default video resolution is 720p but you can 
+shoot at 1080p after diving into the settings.PerformancePhones
+ like the Aqua Octa cost only about half as much as the latest and 
+greatest phones from international brands, and so our expectations are 
+tempered when we test them, no matter which buzzwords get thrown about 
+in their ads and on their spec sheets.  In addition, Mediatek processors
+ are generally considered to be less powerful than those from prominent 
+names in the ARM world such as Qualcomm. In terms of day-to-day 
+use, we did notice that getting around Android's various screens and 
+menus was consistently zippy, and there wasn't much lag when opening 
+apps such as the camera. We tried going beyond our usual test processes 
+to stress out this CPU, by running loads of apps in the background, 
+playing a few games, and loading up Opera Mini with over 20 tabs open. 
+Even with all that going on, there was barely any hint of a slowdown 
+when switching apps or cycling through browser tabs. It isn't possible 
+to attribute this solely to the fact that the CPU has eight cores, but 
+it does mean that the phone is a strong overall performer and has a 
+decent balance of hardware components - especially considering its 
+price. The Aqua Octa therefore surprised us all with its test 
+results. This is one fast phone! It scored 27,691 in AnTuTu and 12,289 
+in Quadrant. The Quadrant CPU sub-score of 48,729 was particularly 
+noteworthy. On the other hand, our graphics tests proved disappointing. 
+The phone scored only 6,641 in 3DMark's 720p Ice Storm runthrough and 
+managed to push out only 13 frames per second in our GFXbench test.Most
+ of our audio and video playback tests went well. The phone had no 
+problem with 1080p videos except our highest quality H.264 sample clip. 
+Audio from the twin speakers on the rear was loud, but not particularly 
+high quality. All kinds of music sounded harsh and lower frequencies 
+were almost entirely cut off. Voices in video clips weren't too bad. 
+Speaking of sound quality, the bundled headset is one of the worst we've
+ ever had to endure.Call quality wasn't all that great. In our limited testing both indoors and out, voices seemed to sound muffled on both ends. The
+ battery lasted for just a shade over five hours in our video loop test,
+ which isn't all that much compared to most of today's higher end 
+handsets.  VerdictThere is a lot to like about the 
+Mediatek MT6592 processor, but the product that Intex has created around
+ it is a mixed bag. The step down to a 720x1280 screen might have been 
+necessary because of the battery life or the weak graphics subsystem, 
+but the fact is that it does not do justice to the rest of the hardware.
+ We wish this phone had come with a smaller screen, perhaps something 
+around the 4.7-inch mark. That would have set it apart in its own 
+category, instead of making it look weak next to a wide selection of 
+full-HD phones available from various manufacturers, such as the Xolo Q3000, Micromax Canvas Turbo, and Intex's own Aqua i7. If you're not concerned with large full-HD screens, alternatives at this price point also include the Sony Xperia C and Lenovo Ideaphone S920.If you want a phone that seriously doesn't lag even under
+ heavy load, you might want to consider this one. It's a relatively 
+affordable phone with a big screen, which is what a lot of people seem 
+to want these days. However its most noteworthy feature isn't one that's
+ really tangible, and so if faced with the choice of an eight-core 
+processor or a full-HD screen at this price point, a lot of people will 
+choose the latter.
+Intex Aqua Octa in pictures
+ 
+
+Intex is not a name usually associated with high-end, high quality 
+phones. In fact, it's almost exclusively associated with cheap assembled
+ PCs - Intex has been churning out budget-friendly keyboards, mice, 
+cabinets and power supplies since the beginning of the PC revolution in 
+India. Over the years, the company has branched out into accessories 
+such as headphones, routers, webcams, speakers, and MP3 players. 
+
+Of
+ late, with the PC industry declining, it should come as no surprise 
+that Intex has jumped into the mobile market. Its strategy seems to be 
+the same as ever: capture the low-end and undercut better known brands 
+with a flood of products that might not look or feel premium, but are 
+cheap enough to make people give them a chance. Intex has over 80 phone 
+models listed on its website; most of them priced below Rs. 7,000. The 
+Aqua Octa is one of only a few models priced above Rs. 12,000 and is 
+second only to the full-HD Intex Aqua i7 model.
+
+Intex launched the Aqua 
+Octa at Rs. 19,999 and it is currently selling online for only a few 
+hundred rupees less than that. Its defining feature is a "true octa-core
+ processor", which the company claims is a first. While there are 
+already several phones with eight physical CPU cores on the market, 
+these are generally built with a cluster of four high-powered cores and 
+another cluster of four low-powered ones, which do not operate 
+simultaneously. 
+
+ARM calls this arrangement big.Little, and it 
+allows phones designed around its Cortex architecture to switch between 
+the two quad-core clusters based on what the user currently requires. 
+When the phone is idle, there's no need for the beefier cores to be 
+sucking up power, so the weaker, more efficient ones take over.
+
+Intex,
+ on the other hand, has found an ARM design in which all eight cores can
+ operate at the same time. While "octa-core" is certainly an impressive 
+advertising line, we didn't have to dig deep to discover that these are 
+not particularly powerful cores, and thus having eight of them is not 
+necessarily going to be a whole lot better than current quad-core 
+processors. Still, we're intrigued about what this will mean for 
+performance and for battery life.
+
+Look and feelAs with most
+ Android phones, the Intex Aqua Octa is a large rectangular slab with 
+rounded corners. The front face is all black with a metallic rim. The 
+screen stretches pretty much from edge to edge on the sides, but there's
+ space for the speaker grille and camera on top and the standard row of 
+capacitive buttons on the bottom. The rear is flat except for a slight 
+bump in the upper left corner where the camera lens protrudes. There are
+ two speaker grilles in opposite corners and an ugly grey and red logo 
+right in the middle. 
+
+The Aqua Octa is available in black and 
+white. Our white review unit had a silver back cover with white strips 
+above and below it. The colour combinations might be a bit inspired, but
+ there's no mistaking this for an iPhone. The construction quality is 
+pretty good, but there are a few areas where things could be improved. 
+The phone looks good from the front and feels hefty in the hand, but on 
+closer examination, it's apparent that the plastic is cheap. The 
+buttons, especially the power button, feel crude and flimsy. There's a 
+bit of misalignment where the Micro-USB port is placed, forcing us to 
+wiggle the plug to seat it properly each time. Even the bundled charger,
+ headset and cover feel cheap.  
+
+Some phones have thin plastic 
+back covers that peel off, and others have metal ones that require a 
+clasp. The Aqua Octa has both - you need to peel off the bottom plastic 
+strip and then the large metal plate slides out. Beneath it, you see the
+ large battery cavity and slots for the two SIM cards and a microSD 
+card. The primary SIM card slot accepts standard SIMs, but the 
+secondary one needs a Micro-SIM. All three slots are positioned such 
+that you have to take the battery out to get to them.
+
+Bucking the 
+current trend, the Aqua Octa's power/standby button is on the top edge. 
+It isn't too difficult to get to, but its shallowness combined with the 
+general blocky design of the phone make it difficult to wake the phone 
+one hand when it is lying on a table.
+
+Features and specificationsIntex
+ might be happy to use the phrase "true octa core processor" all over 
+its press and advertising materials, but the name of the chip in 
+question is somewhat downplayed. It's a Mediatek MT6592, which was 
+launched in late November 2013. Bumping up the number of cores should 
+have an immediate effect on multitasking, since individual software 
+threads don't have to compete for CPU time. However that's going to put a
+ huge strain on the battery unless power consumption can be throttled 
+extremely efficiently. 
+
+The processor is a complete 
+System-on-a-Chip (SoC). The CPU cores run at 1.7GHz and there's also an 
+integrated Mali 450-MP graphics GPU. Mediatek lists a number of other 
+integrated units, such as 802.11n Wi-Fi, Bluetooth, GPS, FM radio, 
+Miracast, and logic for the phone's sensors and cameras. The cellular 
+modem is also built in, and supports two GSM SIM cards with 3G data.
+
+Considering
+ the flagship CPU and price, we were expecting a full-HD 1080p screen, 
+but the Aqua Octa takes a big step backwards for this current 
+generation, and comes with a 720x1280-pixel screen instead. This is the 
+kind of configuration decision that keeps costs down and helps regulate 
+battery life, but it's disappointing. 
+
+The 720p screen is fairly crisp, but at 6 inches, 1080p would have made a noticeable difference. The main problem we have with the screen is that Intex hasn't 
+figured out how to scale that resolution to that screen size, which 
+means every part of the Android interface is highly magnified. Icons, 
+buttons, menu entries and even the status bar on top are way too large. 
+In fact it feels like a special interface created for elderly people or 
+those with mobility impairments. In apps such as the messaging app, you 
+can barely see one or two messages on screen and the keyboard is simply 
+massive. It's a huge waste of potential.
+
+The rest of the 
+specifications are pretty normal for phones in this price range. There's
+ 2GB of RAM and 16GB of built-in storage. microSD cards up to 32GB in 
+capacity are supported. The battery is rated at 2300mAh, which Intex 
+says is good enough for six hours of talktime or 180 hours on standby.
+
+SoftwareNone
+ of the current crop of budget Android phones seems to run anything 
+newer than version 4.2.2 of the operating system, and the Aqua Octa is 
+no exception. Intex has undertaken a fair amount of cosmetic 
+customisation, and you'll notice that the icons are all brightly 
+coloured squares with their top-right corners rounded off.  The built-in
+ apps all have their own icons, but anything you download will have its 
+own icon displayed inside a grey square with a matching rounded corner, 
+which is not only visually distracting but adds to the feeling that 
+visual elements are far too large. 
+
+A few apps are bundled 
+with the Aqua Octa: NQ Vault, NQ Security, Intex Play, Intex Cloud, Auto
+ Call Record, and several others. NQ Vault lets you password-protect 
+your SMS app, call logs, contacts, photos and videos. NQ Security 
+includes a virus scanner (which pops up offering to scan your device 
+every  time you plug it into a PC), a call and message blocker, contacts
+ backup, and anti-theft module which lets you pinpoint your phone's GPS 
+location (but not the usual remote alarm and wipe features, which you 
+have to pay to unlock). There's yet another call blocking app called 
+Firewall, for no apparent reason.
+
+Intex Cloud offers 5GB of free 
+online storage, and there doesn't seem to be any time limit on it. Intex
+ Zone is a simple screen with a few links to Intex's website after sales
+ service line, and shortcuts to a few other apps which for some reason 
+aren't available through the main menu. The first of these is Auto Call 
+Record, which does what its name suggests with zero indication to the 
+person on the other end of the link. The second is Intex Play, a rather 
+crude app store clone which has a number of mediocre-looking titles and 
+no search function. Then there's Intex Lifebox, which is nothing but a 
+list of premium SMS services for things like astrology predictions and 
+sports updates.
+
+If all of that wasn't enough, there are quite a 
+few other bundled apps as well. These include Zapak, Hungama, 
+Getit, Bigflix, GreetZAP, OLX, Newshunt, and WeChat. Opera Mini makes an
+ appearance instead of Google Chrome, and there are a few games that you
+ can play five times before being asked to pay Rs. 50 to purchase. 
+
+Overall,
+ we were disappointed to see so much software bloat. While the security 
+apps are conceivably useful, very few of the other preloaded ones are. 
+What's worse is that not all of them are removable. 
+
+CameraThere
+ isn't much to say about the camera app, which should be familiar to any
+ Android user. You get a panorama mode, motion tracking mode, smile 
+shot, voice-triggered capture, a self timer, and 30-shot burst mode. 
+Photos taken in bright daylight are actually pretty great. Details are 
+sharp and colours are vivid. There is a bit of noise when you look at 
+the full-sized images on a big screen, but these pictures are totally 
+fine for sharing and posting online. Even the front camera is 
+surprisingly good. Fans of selfie-style portraits will appreciate this 
+the most.
+
+(Click to see full size)
+
+Where the camera falters is in low light. Images are grainy and it really isn't possible to make out any detail at all. 
+
+Videos
+ are also surprisingly sharp, although we detected heavy compression in 
+the clips we recorded. The default video resolution is 720p but you can 
+shoot at 1080p after diving into the settings.
+
+PerformancePhones
+ like the Aqua Octa cost only about half as much as the latest and 
+greatest phones from international brands, and so our expectations are 
+tempered when we test them, no matter which buzzwords get thrown about 
+in their ads and on their spec sheets.  In addition, Mediatek processors
+ are generally considered to be less powerful than those from prominent 
+names in the ARM world such as Qualcomm. 
+
+In terms of day-to-day 
+use, we did notice that getting around Android's various screens and 
+menus was consistently zippy, and there wasn't much lag when opening 
+apps such as the camera. We tried going beyond our usual test processes 
+to stress out this CPU, by running loads of apps in the background, 
+playing a few games, and loading up Opera Mini with over 20 tabs open. 
+Even with all that going on, there was barely any hint of a slowdown 
+when switching apps or cycling through browser tabs. It isn't possible 
+to attribute this solely to the fact that the CPU has eight cores, but 
+it does mean that the phone is a strong overall performer and has a 
+decent balance of hardware components - especially considering its 
+price. 
+
+The Aqua Octa therefore surprised us all with its test 
+results. This is one fast phone! It scored 27,691 in AnTuTu and 12,289 
+in Quadrant. The Quadrant CPU sub-score of 48,729 was particularly 
+noteworthy. On the other hand, our graphics tests proved disappointing. 
+The phone scored only 6,641 in 3DMark's 720p Ice Storm runthrough and 
+managed to push out only 13 frames per second in our GFXbench test.
+
+Most
+ of our audio and video playback tests went well. The phone had no 
+problem with 1080p videos except our highest quality H.264 sample clip. 
+Audio from the twin speakers on the rear was loud, but not particularly 
+high quality. All kinds of music sounded harsh and lower frequencies 
+were almost entirely cut off. Voices in video clips weren't too bad. 
+Speaking of sound quality, the bundled headset is one of the worst we've
+ ever had to endure.
+
+Call quality wasn't all that great. In our limited testing both indoors and out, voices seemed to sound muffled on both ends. 
+
+The
+ battery lasted for just a shade over five hours in our video loop test,
+ which isn't all that much compared to most of today's higher end 
+handsets. 
+
+ VerdictThere is a lot to like about the 
+Mediatek MT6592 processor, but the product that Intex has created around
+ it is a mixed bag. The step down to a 720x1280 screen might have been 
+necessary because of the battery life or the weak graphics subsystem, 
+but the fact is that it does not do justice to the rest of the hardware.
+ We wish this phone had come with a smaller screen, perhaps something 
+around the 4.7-inch mark. That would have set it apart in its own 
+category, instead of making it look weak next to a wide selection of 
+full-HD phones available from various manufacturers, such as the Xolo Q3000, Micromax Canvas Turbo, and Intex's own Aqua i7. If you're not concerned with large full-HD screens, alternatives at this price point also include the Sony Xperia C and Lenovo Ideaphone S920.
+
+If you want a phone that seriously doesn't lag even under
+ heavy load, you might want to consider this one. It's a relatively 
+affordable phone with a big screen, which is what a lot of people seem 
+to want these days. However its most noteworthy feature isn't one that's
+ really tangible, and so if faced with the choice of an eight-core 
+processor or a full-HD screen at this price point, a lot of people will 
+choose the latter.
+
+
+

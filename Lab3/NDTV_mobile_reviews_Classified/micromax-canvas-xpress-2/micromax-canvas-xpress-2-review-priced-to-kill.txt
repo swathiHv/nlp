@@ -1,0 +1,247 @@
+Micromax Canvas Xpress 2 Review: Priced to Kill
+
+Smartphone prices are dropping rapidly, and it's now possible to get a 
+well-specced device for well under Rs. 10,000. A lot of major smartphone
+ brands are taking this segment seriously, and there are some impressive
+ options available, giving budget buyers serious value for their money. 
+Naturally, the segment would not be complete without Micromax, one of 
+India's top smartphone makers.The latest budget smartphone from 
+Micromax is the Canvas Xpress 2, which is 
+available exclusively through Flipkart. At Rs. 5,999, it's one of 
+Micromax's cheapest offerings, and has an impressive 
+spec sheet. It also competes directly with the Karbonn 
+Titanium Mach Five (Review | 
+Pictures). We 
+go into detail and find out everything there is to know about the Xpress
+ 2 in our review.Look and feelThe Micromax Canvas Xpress 2
+ may be a budget device, but at first glance it appears to be anything 
+but that. Although the device is entirely plastic, the gold strip along 
+the sides appears metallic and gives the phone a premium feel. 
+The 5-inch screen, thin bezels and slimness keep the phone compact and 
+easy to handle, while the use of plastic keeps the weight down as well. The
+ back of the Xpress 2 features a matte finish, with the camera, flash 
+and logo in a line down the middle from top to bottom. The Micromax logo is gold 
+and designed to match with the gold finish on the sides. This looks 
+great, and adds to the premium vibe that the phone is going for. The 
+volume rocker and power key are on the right edge, the MicroUSB port is on the 
+bottom along with the speakers, and the 3.5mm socket is at the top. On the
+ whole, it's a simple, elegant and classy design that works for the 
+Xpress 2.The screen of the Micromax Canvas Xpress 2 measures 5 inches 
+from corner to corner, and has a 720x1280 pixel resolution. This makes 
+for a density of 294 pixels per inch, which keeps things sharp and 
+detailed. The screen itself has good colour reproduction, brightness and
+ sunlight legibility. What really stands out is the motion-handling 
+ability of the Xpress 2, which makes for smooth, flowing video, even at 
+high encoding rates. It's an excellent display for the price.Specifications and softwareFor
+ a budget device, the Micromax Canvas Xpress 2 has a decent spec sheet. Apart from the previously mentioned 5-inch 720p screen, 
+the device features a 2,500mAh user-replaceable battery, a 1.4GHz 
+octa-core MediaTek MT6592M SoC, 1GB of RAM, 8GB of internal storage 
+(expandable by 32GB with a microSD card), and dual-SIM connectivity with 3G support on the primary SIM slot.It's important to note that while
+ the internal storage is claimed to be 8GB, the actual amount of space listed 
+by the device is just shy of 5GB. This makes for just slightly 
+over 4GB of actual user-accessible storage. While media can be stored on
+ a microSD card, you might have space issues when downloading and 
+installing games and apps.The Micromax Canvas Xpress 2 runs 
+Android 4.4.2 (KitKat), at a time when the vast majority of sub-Rs. 
+10,000 Android smartphones come with Android 5.0 (Lollipop). A sticker on 
+the box states that the Canvas Xpress 2 is upgradeable to 
+Android Lollipop, but a quick check on the system update screen shows that no such update is available yet.The user interface is minimalistic and closely resembles 
+the stock UI of Android KitKat. There's very little in the way of 
+customisation, but all the basic settings and controls are present. With the price in mind, we found the user interface to be efficient and comfortable, and the audience for this device isn't likely to be disappointed.The Micromax Canvas Xpress 2 
+comes with a large bouquet of pre-installed apps and services. The 
+system also pushes advertisements onto your phone, which can be 
+extremely irritating. Fortunately, most of these apps can be 
+uninstalled. The apps that cannot be uninstalled are App Center, an 
+app marketplace full of apps pushed by Micromax; and M!Live, a shortcut which essentially only opens Micromax's website on your smartphone.CameraThe
+ Canvas Xpress 2 features a 13-megapixel primary camera and a 
+2-megapixel secondary camera. While this makes for very high-resolution 
+pictures, the sensor seems to have serious issues 
+with detail and sharpness. While pictures appear great at first, zooming
+ in reveals serious flaws the ability of the sensor to accurately 
+capture pictures.However, colour and lighting are handled well. Open-environment images are usually free of noise and have 
+excellent white levels, so colours don't appear to be 
+washed out and oversaturated. Low-light shots are satisfactory at best,
+ but it's unfair to expect more than this of a device in this price 
+range.(Click to see full-size image)The camera application is almost identical to Google's 
+popular Camera app, and as a result has all settings and modes 
+conveniently placed around the screen. Easy settings for flash, camera 
+switching and various modes, as well as quick access to video and 
+gallery are the highlights here. The only complaint is a slightly small 
+viewfinder area, due to the presence of large black bars at the edges of
+ the screen.PerformanceThe Micromax Canvas Xpress 2 is a 
+bit of a mixed bag when it comes to performance. While the device 
+performed admirably with our test videos and in our usual suite of 
+benchmarks, it was less satisfactory with day-to-day performance and 
+gaming. Issues with the device included sluggishness with the user 
+interface, considerable delay when opening apps, and lag issues while 
+gaming. Graphics- and processor-intensive games such as Angry Birds 2 and 
+Dead Trigger 2 did not work smoothly, with lag often interfering with 
+the gameplay. Both games also heavily drained the battery of 
+the device and caused slight heating issues.Benchmark scores 
+were higher than we expected from a phone in this price range. AnTuTu 
+and Quadrant returned scores of 28,560 and 10,864 respectively, while 
+GFXBench and 3DMark produced scores of 16fps and 6,365 each. Although 
+the device was usually satisfactory in terms of benchmark scores, real-world performance issues cropped up too often to ignore.The phone's basic 
+functions worked without any trouble. Call quality, signal strength and
+ Wi-Fi strength were all decent. Sound output from the speaker was 
+slightly below par, however. A big disappointment was the Xpress 2's 
+performance in our battery test. The phone ran for only 6 hours, 5 minutes in
+ our video loop test, and general battery consumption seemed to be much higher 
+than it should be. The phone had trouble lasting even a whole day with ordinary
+ usage, and needed to be plugged into a charger by evening.VerdictThe
+ entry-level smartphone segment is an important place to be for 
+manufacturers, and Micromax is trying to make its presence felt with the Canvas Xpress 2. The device looks good, is compact and easy to 
+handle, and has all of the basics firmly in place. It offers 
+specifications that you'd expect to see on phones that cost a lot more, which makes it an attractive option for budget buyers.However,
+ when compared to the identically-priced Karbonn Titanium Mach Five, it 
+has some flaws. Sub-par performance with graphically 
+intensive tasks and general sluggishness with running apps and games are
+ its biggest weaknesses. The camera, while better on paper, is 
+actually poor in capturing detail and definition. RAM and internal 
+storage are both on the low side, which will affect general usability of the 
+device. Above all, the device has no standout features or USPs. If 
+you're looking for a simple entry-level smartphone that looks good, the 
+Micromax Canvas Xpress 2 is a viable option. It will serve you well if you stick to 
+basic tasks and use only it for occasional photography. However if you're looking for a bit more, we suggest you either 
+consider the Karbonn Titanium Mach Five, or spend a bit more and pick up
+ a Yu Yuphoria.  Micromax Canvas Xpress 2 in pictures
+
+
+
+The latest budget smartphone from 
+Micromax is the Canvas Xpress 2, which is 
+available exclusively through Flipkart. At Rs. 5,999, it's one of 
+Micromax's cheapest offerings, and has an impressive 
+spec sheet. It also competes directly with the Karbonn 
+Titanium Mach Five (Review | 
+Pictures). We 
+go into detail and find out everything there is to know about the Xpress
+ 2 in our review.
+
+Look and feelThe Micromax Canvas Xpress 2
+ may be a budget device, but at first glance it appears to be anything 
+but that. Although the device is entirely plastic, the gold strip along 
+the sides appears metallic and gives the phone a premium feel. 
+The 5-inch screen, thin bezels and slimness keep the phone compact and 
+easy to handle, while the use of plastic keeps the weight down as well. 
+
+The
+ back of the Xpress 2 features a matte finish, with the camera, flash 
+and logo in a line down the middle from top to bottom. The Micromax logo is gold 
+and designed to match with the gold finish on the sides. This looks 
+great, and adds to the premium vibe that the phone is going for. The 
+volume rocker and power key are on the right edge, the MicroUSB port is on the 
+bottom along with the speakers, and the 3.5mm socket is at the top. On the
+ whole, it's a simple, elegant and classy design that works for the 
+Xpress 2.
+
+The screen of the Micromax Canvas Xpress 2 measures 5 inches 
+from corner to corner, and has a 720x1280 pixel resolution. This makes 
+for a density of 294 pixels per inch, which keeps things sharp and 
+detailed. The screen itself has good colour reproduction, brightness and
+ sunlight legibility. What really stands out is the motion-handling 
+ability of the Xpress 2, which makes for smooth, flowing video, even at 
+high encoding rates. It's an excellent display for the price.
+
+Specifications and softwareFor
+ a budget device, the Micromax Canvas Xpress 2 has a decent spec sheet. Apart from the previously mentioned 5-inch 720p screen, 
+the device features a 2,500mAh user-replaceable battery, a 1.4GHz 
+octa-core MediaTek MT6592M SoC, 1GB of RAM, 8GB of internal storage 
+(expandable by 32GB with a microSD card), and dual-SIM connectivity with 3G support on the primary SIM slot.
+
+It's important to note that while
+ the internal storage is claimed to be 8GB, the actual amount of space listed 
+by the device is just shy of 5GB. This makes for just slightly 
+over 4GB of actual user-accessible storage. While media can be stored on
+ a microSD card, you might have space issues when downloading and 
+installing games and apps.
+
+The Micromax Canvas Xpress 2 runs 
+Android 4.4.2 (KitKat), at a time when the vast majority of sub-Rs. 
+10,000 Android smartphones come with Android 5.0 (Lollipop). A sticker on 
+the box states that the Canvas Xpress 2 is upgradeable to 
+Android Lollipop, but a quick check on the system update screen shows that no such update is available yet.
+
+The user interface is minimalistic and closely resembles 
+the stock UI of Android KitKat. There's very little in the way of 
+customisation, but all the basic settings and controls are present. With the price in mind, we found the user interface to be efficient and comfortable, and the audience for this device isn't likely to be disappointed.
+
+The Micromax Canvas Xpress 2 
+comes with a large bouquet of pre-installed apps and services. The 
+system also pushes advertisements onto your phone, which can be 
+extremely irritating. Fortunately, most of these apps can be 
+uninstalled. The apps that cannot be uninstalled are App Center, an 
+app marketplace full of apps pushed by Micromax; and M!Live, a shortcut which essentially only opens Micromax's website on your smartphone.
+
+CameraThe
+ Canvas Xpress 2 features a 13-megapixel primary camera and a 
+2-megapixel secondary camera. While this makes for very high-resolution 
+pictures, the sensor seems to have serious issues 
+with detail and sharpness. While pictures appear great at first, zooming
+ in reveals serious flaws the ability of the sensor to accurately 
+capture pictures.
+
+However, colour and lighting are handled well. Open-environment images are usually free of noise and have 
+excellent white levels, so colours don't appear to be 
+washed out and oversaturated. Low-light shots are satisfactory at best,
+ but it's unfair to expect more than this of a device in this price 
+range.
+
+(Click to see full-size image)
+
+The camera application is almost identical to Google's 
+popular Camera app, and as a result has all settings and modes 
+conveniently placed around the screen. Easy settings for flash, camera 
+switching and various modes, as well as quick access to video and 
+gallery are the highlights here. The only complaint is a slightly small 
+viewfinder area, due to the presence of large black bars at the edges of
+ the screen.
+
+PerformanceThe Micromax Canvas Xpress 2 is a 
+bit of a mixed bag when it comes to performance. While the device 
+performed admirably with our test videos and in our usual suite of 
+benchmarks, it was less satisfactory with day-to-day performance and 
+gaming. Issues with the device included sluggishness with the user 
+interface, considerable delay when opening apps, and lag issues while 
+gaming. Graphics- and processor-intensive games such as Angry Birds 2 and 
+Dead Trigger 2 did not work smoothly, with lag often interfering with 
+the gameplay. Both games also heavily drained the battery of 
+the device and caused slight heating issues.
+
+Benchmark scores 
+were higher than we expected from a phone in this price range. AnTuTu 
+and Quadrant returned scores of 28,560 and 10,864 respectively, while 
+GFXBench and 3DMark produced scores of 16fps and 6,365 each. Although 
+the device was usually satisfactory in terms of benchmark scores, real-world performance issues cropped up too often to ignore.
+
+The phone's basic 
+functions worked without any trouble. Call quality, signal strength and
+ Wi-Fi strength were all decent. Sound output from the speaker was 
+slightly below par, however. A big disappointment was the Xpress 2's 
+performance in our battery test. The phone ran for only 6 hours, 5 minutes in
+ our video loop test, and general battery consumption seemed to be much higher 
+than it should be. The phone had trouble lasting even a whole day with ordinary
+ usage, and needed to be plugged into a charger by evening.
+
+VerdictThe
+ entry-level smartphone segment is an important place to be for 
+manufacturers, and Micromax is trying to make its presence felt with the Canvas Xpress 2. The device looks good, is compact and easy to 
+handle, and has all of the basics firmly in place. It offers 
+specifications that you'd expect to see on phones that cost a lot more, which makes it an attractive option for budget buyers.
+
+However,
+ when compared to the identically-priced Karbonn Titanium Mach Five, it 
+has some flaws. Sub-par performance with graphically 
+intensive tasks and general sluggishness with running apps and games are
+ its biggest weaknesses. The camera, while better on paper, is 
+actually poor in capturing detail and definition. RAM and internal 
+storage are both on the low side, which will affect general usability of the 
+device. Above all, the device has no standout features or USPs. 
+
+If 
+you're looking for a simple entry-level smartphone that looks good, the 
+Micromax Canvas Xpress 2 is a viable option. It will serve you well if you stick to 
+basic tasks and use only it for occasional photography. However if you're looking for a bit more, we suggest you either 
+consider the Karbonn Titanium Mach Five, or spend a bit more and pick up
+ a Yu Yuphoria. 
+

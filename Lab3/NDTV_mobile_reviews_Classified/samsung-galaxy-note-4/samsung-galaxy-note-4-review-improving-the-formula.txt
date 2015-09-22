@@ -1,0 +1,538 @@
+Samsung Galaxy Note 4 Review: Improving the Formula
+
+Samsung pioneered the big-screen phone 
+movement and though the original Galaxy Note was met with quite a bit of
+ doubt and even some ridicule, it's clear that the Korean giant had a 
+huge role to play in shaping the current state of the industry. Over the
+ years, mainstream phones have also grown in terms of screen size, so 
+there isn't much separating the current crop of phablets from their 
+siblings - except, of course in Samsung's case, there's the S Pen.It's
+ this stylus that sets the Galaxy Note series apart from the 
+competition. Samsung's unique approach to hardware and software 
+integration has really paid off, with people not only replacing their 
+phones but in many cases, also their tablets with a Galaxy Note device.The
+ latest in the series, the Galaxy Note 4, is a refinement over its 
+predecessors in every way. It looks better, brings more features to the 
+table, and has a whole lot more power at its disposal. Read on to see if
+ it's the right device for you.Look and feelThe Samsung 
+Galaxy Note 4 is a chunky phone and you'll definitely be aware of its 
+weight in your pocket or bag. Far from the super-svelte flagship phones 
+that seem to be the norm, there's plenty of room here for a fat battery,
+ stylus, and top-end hardware.  The most notable design element 
+here is the metal rim. Reminiscent of the styling of the Galaxy Alpha (Review | Photos), 
+the new Galaxy Note 4 looks sedate and feels solid. The edges are a 
+little too pronounced though, and we often grazed our hands and ears. 
+There are also four ugly plastic breaks for antenna insulation on the 
+top and bottom - we wish these had been incorporated less obtrusively.Samsung's
+ latest phones have had dotted rear panels but the Galaxy Note 4 goes 
+back to the faux-leather texture that older models had. We usually 
+considered it tacky, but it's much improved now and most thankfully, 
+there's no awful fake stitching around the edges. The rear looks good 
+and feels great. The Note 4 isn't waterproof, which allows the battery 
+and card slots to be more easily accessible beneath the rear panel. Samsung
+ also continues to use a physical Home button flanked by capacitive Back
+ and Recents buttons. Just like the on the Galaxy S5 (Review | Photos), there is a fingerprint
+ reader on the Home button. You'll need to swipe a finger across it 
+which is a little less convenient than the tap that Apple's 
+implementation requires. Also inherited from the S5 is the heart rate 
+monitor on the rear, right below the camera bulge. All buttons 
+and ports are in their usual places - the headset socket and Infrared 
+LED on top; power button on the upper right edge; volume rocker on the 
+left; Micro-USB port and stylus silo on the bottom. The Micro-SIM and 
+microSD card slots are beneath the rear panel, next to the surprisingly 
+compact 3,220mAh battery.Comparisons to the iPhone 6 Plus (Review | Photos) are 
+inevitable - while Apple's rounded edges and flat back make the 
+extra-large iPhone easier and more comfortable to handle, we usually 
+felt more confident about our grip on the Galaxy Note 4 thanks to the 
+curved and textured back. The iPhone 6 Plus is still somewhat possible 
+to use with a single hand, but the Galaxy Note 4 usually requires both 
+hands whether or not you're using the stylus.Speaking of which, 
+the S Pen itself is quite neat. It's surprisingly long, which makes it 
+comfortable to hold, though the ribbed texture made our fingers sore 
+after a while. Samsung claims improved pressure sensitivity and 
+handwriting recognition which we will have to test for ourselves. SpecificationsThe
+ Galaxy Note series represents the top of the line for Samsung; even 
+more so than the Galaxy S series. The Note 4 is no exception - Samsung 
+has gone with the highest-end screen and SoC currently possible. It's 
+important to note that Samsung offers many significantly different 
+products under the Galaxy Note 4 name due to regional differences and 
+LTE band support requirements.  The company has usually launched 
+variants based on its own Exynos processors in India, but this time we 
+get the full-spec Qualcomm Snapdragon 805 version.The Snapdragon 
+805 has four Krait 450 CPU cores running at up to 2.7GHz and an Adreno 
+420 GPU. 4G LTE, 802.11ac Wi-Fi n/ac, GPS, NFC and 4K video 
+encoding/decoding are all handled by the SoC. According to Qualcomm, its
+ new processor can handle all of this and more while delivering 
+outstanding performance and battery life - we couldn't wait to get 
+started on our benchmarks to test these claims.The ongoing 
+smartphone spec war means Samsung would have looked pretty weak if it 
+had gone with anything less than a 1440x2560-pixel screen, which is 
+exactly what we have here. At 5.7 inches, the Galaxy Note 4's Super 
+AMOLED screen is the same size as the 1080x1920-pixel one on the Note 3,
+ but its increased pixel density makes for a much sharper display. It 
+looks absolutely fantastic, but there's no doubt that it will put a 
+strain on the Snapdragon 805 SoC and the battery. Samsung also touts the
+ Note 4's "Adaptive Display" software tweaks, which adjust the colour 
+profile when you launch specific apps such as the gallery, Google Play 
+Books reader, stock browser and video player.There's 3GB of RAM 
+and 32GB of internal storage, along with a microSD slot. Cards of up to 
+128GB are supported so you shouldn't ever have to worry about running 
+out of space. This is a critical advantage of the Note 4 over the iPhone
+ 6 Plus, which is capped at 16GB at the same price.Pretty much 
+every feature you could think of in a high-end smartphone is present and
+ accounted for, with the exception of wireless charging. In addition to 
+the aforementioned Bluetooth 4.0 and Wi-Fi ac support, there's a full 
+complement of environmental sensors and of course the heart rate sensor.
+ Interestingly, Samsung has reverted to USB 2.0 on the Galaxy Note 4 
+rather than USB 3.0 which was introduced on the Note 3 - evidently the 
+unwieldy connector was more trouble than it was worth, even though 
+backward compatibility was fully supported.SoftwareThe 
+Galaxy Note 4 runs Android 4.4.4 though it's unrecognisable beneath 
+Samsung's extensive custom UI. After years of overdoing it with ugly 
+graphics, bloatware and features that no one could ever find or use, 
+Samsung seems to have found its footing. The Galaxy Note 4 benefits from
+ loads of usability improvements and a very slick style.A lot of 
+the appeal of the Galaxy Note series stems from the S Pen stylus, which 
+is tightly integrated with the software. As soon as you pull it out of 
+its silo, a ring-shaped menu appears on screen, allowing you to trigger 
+the Action Memo, Smart Select, Image Clip and Screen Write tools, which 
+are not all useful to everyone. You can also click the S Pen's button to
+ call up the menu anytime. When the stylus tip is near the 
+screen, you'll see a cursor in the shape of a dot. If you hover over 
+icons or tool buttons in some apps, little labels, previews or quick 
+action dialogs will pop up. It's really easy to draw a lasso to select 
+parts of a screen or drag to select text, which you can then share or 
+file away as you please.There are also a few apps which tie in to
+ the S Pen's functionality. Pen.Up lets you share sketches with the 
+world, S Note lets you scribble information and sync it all with 
+Evernote. Scrapbook lets you collect and organise snippets from 
+anywhere. S Note in particular lets you play with various pen styles 
+including a fountain pen and calligraphic pen. Sensitivity and lag have 
+really been improved, and stylus input feels a lot more natural now. You
+ can select text just as easily as you would with a mouse - hover over 
+any text screen and hold down the S Pen button, and then just drag and 
+release to select text. This is probably one of the most useful things 
+about the S Pen, and power users will love it.The rest of 
+Samsung's software features are pretty much the same as what we've seen 
+on earlier Note series devices and the Galaxy S5. To the left of the 
+first homescreen is a Flipboard-powered news reader view which can be 
+customised with your own preferred news categories. The usual kitschy 
+animations and sound effects can be found throughout, including a few 
+new ones on the lockscreen. Multi Window lets you run apps in floating 
+windows or in a split-screen view. This includes quite a few third-party
+ apps, not just Samsung's own. You can also tap an icon in the upper 
+right corner of each thumbnail in the task switcher to pop an app into 
+its own floating window.The Galaxy Note 4 incorporates Samsung's 
+now-familiar settings and tweaks, including Smart Stay, which keeps the 
+screen on as long as your face is in front of it; Power Saving and Ultra
+ Power Saving modes; Private mode; Car Mode; options to make one-handed 
+use easier, and lots more. Samsung includes S Health, which is 
+much the same as it is on the Galaxy S5, although it's even more 
+unwieldy to use the Galaxy Note 4 as a fitness tracker. You'll get much 
+more use out of it if you also own one of Samsung's many smartwatches. 
+The bloatware is surprisingly constrained, with only Flipboard, 
+Evernote, Dropbox, Whatsapp, Instagram, Facebook, Facebook Messenger and
+ the Facebook Pages Manager apps preloaded (other than the usual raft of
+ Google apps). Smart Remote by Peel lets you use the Galaxy Note 4 as a 
+universal remote control, thanks to its Infrared LED. You can "disable" 
+many of these apps, though they cannot actually be uninstalled. There's
+  a Galaxy Essentials widget pointing you to several Samsung apps that 
+aren't preloaded, and also a Galaxy Apps browser that shows curated 
+lists of apps that work well on the Galaxy Note 4, such as those 
+optimised for the S Pen. Buyers also get access to the Galaxy Gifts 
+programme which includes a three-month Magzter subscription, 25 percent 
+discount in the ShoppingnMore app, free photo prints form Zoomin worth 
+Rs. 1,000, and a few other offers.CameraSamsung's camera 
+app is powerful and does a good job keeping things uncluttered yet 
+accessible. It's a good idea to poke around and discover all the 
+features that are hidden away in the submenus. We were impressed with 
+the Galaxy Note 4's hardware and software - it seemed to focus very 
+quickly and produce good results.However we were in for a shock -
+ our test unit seemed to have a serious defect. At random times, the 
+entire image preview on screen would suddenly begin to wobble and roll, 
+and videos we captured exhibited the same effect. On further probing, we
+ managed to trigger this behaviour deliberately by rapidly shifting 
+focus, and we found it was much more likely to happen with HDR enabled 
+or while shooting 4K video. The issue persisted with multiple 
+third-party apps and after restoring the phone to factory settings and 
+installing all available updates. We also felt a constant though mild 
+vibration, all of which led to the conclusion that the OIS mechanism was
+ malfunctioning. Samsung was quick to send us a second unit and we 
+tested both side by side. We're happy to report that the second phone 
+was perfectly fine - our experience was thus not indicative of any 
+manufacturing defect, but most likely a fault with one specific device.Photos
+ and videos taken with our replacement test device came out very well 
+indeed. The camera excelled in daylight shots, capturing fine details 
+even in distant subjects. OIS definitely has a part to play in this, but
+ the near-16-megapixel resolution doesn't hurt either. Low light 
+performance was good, but not as strong. HDR results were very nice, 
+with rich colours, though it's a mystery why HDR isn't automatically 
+detected. 4K Ultra high-def videos came out beautifully. You'll 
+definitely want to invest in a high-capacity microSD card if you're 
+planning to take a lot of UHD video. Certain functions, such as 
+simultaneous still captures and continuous autofocus are not available 
+while shooting in UHD. We also quite liked the results we were able to 
+achieve with the front camera, including 1080p video. One very neat 
+touch is the ability to use the heart rate sensor on the rear to trigger
+ a shutter release, which is far easier than reaching for the on-screen 
+button.PerformanceWe were curious to see how well the new 
+Snapdragon 805 performed, and our initial impressions were very 
+positive. In our first few days with the Galaxy Note 4, we were mostly 
+pleased with its overall performance but were very pleasantly surprised 
+to see how slowly the battery was draining. The phone's interface was 
+mostly smooth but there was a little bit of lag in some spots, such as 
+calling up the app switcher and shuffling multiple windowed apps around 
+on screen. These things might have more to do with Samsung's heavy UI 
+skin than hardware.Another thing we noticed was that the Galaxy 
+Note 4 tended to get hot when doing anything intensive, like running a 
+heavy game or recording 4K video. This had a measurable impact on our 
+benchmark tests - AnTuTu gave us a surprisingly low score of 26,606 on 
+its first run, but that improved to 46,678 in subsequent rounds of 
+testing.Other benchmarks revealed predictably strong scores when 
+it came to CPU-based tasks, and weak graphics performance thanks to the 
+enormous load placed on the Snapdragon 805 by the Quad-HD screen. The 
+GFXbench score of 27.7fps was well below par for a flagship device, and 
+3DMark's Ice Storm Extreme test which should have maxed out delivered 
+9422 points (which is still quite high). Quadrant blazed through its run
+ with a score of 23,259 points, and Sunspider also impressed us with a 
+low time of just 378.9ms.So while the Galaxy Note 4 looks and 
+feels great, and is certainly impressive when shown off to friends and 
+colleagues, it falls a bit short in the power department. You won't be 
+able to enjoy intense games to their fullest potential on the big 
+screen, and even heavy multitasking can be a bit of a mixed bag.Videos
+ are rendered beautifully, including all our high-definition samples and
+ UHD clips shot with the phone itself. Sound from the mono speaker on 
+the rear is surprisingly deep, loud and rich. Everything from intricate 
+classical music to modern EDM sounded quite good, even at full volume. Battery
+ life proved to be one of the Galaxy Note 4's best features. Despite its
+ massive power-hungry screen, this phone lasted 15 hours, 11 minutes in 
+our video loop test. You should easily be able to get two full days of 
+usage out of each charge. Another nice touch is that Samsung ships a 
+bulky 2,000mAh charger with the Note 4, which allows it to juice up 
+remarkably quickly.VerdictSamsung has broken its long-held
+ tradition of producing cheap-looking plastic phones and has managed to 
+make its latest Note flagship look rather refined. With all its 
+competitors moving to metal bodies, it couldn't have done anything else.
+ Compared to its predecessors, this phone radiates power. On the other 
+hand, those same market forces have potentially compelled Samsung to 
+overreach in terms of specifications - honestly, Full HD was pretty 
+impressive on last year's model and we wouldn't have minded sticking 
+with that screen resolution considering it would have meant drastic 
+improvements in terms of graphics performance.Ultimately, the 
+Note series is focused on enabling productivity and creativity, which is
+ what Samsung delivers in spades. This phone certainly has the chops to 
+back up its aspirations. Samsung has honed its software skills over the 
+years, and though the Galaxy Note 4 UI still isn't as visually or 
+functionally efficient as we'd like, it does deliver an experience that 
+goes above and beyond what stock Android can achieve. Particularly, the S
+ Pen has multiple very clear purposes and feels like a perfectly natural
+ part of the usage experience - it's there when you want it but isn't 
+forced upon you when you don't.If you like the idea of using a 
+smartphone with a stylus, this is currently the only game in town. Even 
+if that doesn't particularly appeal to you, you'll find things you can 
+do and enjoy doing with it. Pretty much every manufacturer now has a 
+large-screen flagship phone, but none can match the versatility of the 
+Galaxy Note 4. In that sense, its strongest competitor is the Galaxy 
+Note 3 (Review | Photos), thanks to recent price cuts which have made it surprisingly good
+ value for money. Samsung Galaxy Note 4 in pictures
+
+It's
+ this stylus that sets the Galaxy Note series apart from the 
+competition. Samsung's unique approach to hardware and software 
+integration has really paid off, with people not only replacing their 
+phones but in many cases, also their tablets with a Galaxy Note device.
+
+The
+ latest in the series, the Galaxy Note 4, is a refinement over its 
+predecessors in every way. It looks better, brings more features to the 
+table, and has a whole lot more power at its disposal. Read on to see if
+ it's the right device for you.
+
+Look and feelThe Samsung 
+Galaxy Note 4 is a chunky phone and you'll definitely be aware of its 
+weight in your pocket or bag. Far from the super-svelte flagship phones 
+that seem to be the norm, there's plenty of room here for a fat battery,
+ stylus, and top-end hardware.  
+
+The most notable design element 
+here is the metal rim. Reminiscent of the styling of the Galaxy Alpha (Review | Photos), 
+the new Galaxy Note 4 looks sedate and feels solid. The edges are a 
+little too pronounced though, and we often grazed our hands and ears. 
+There are also four ugly plastic breaks for antenna insulation on the 
+top and bottom - we wish these had been incorporated less obtrusively.
+
+Samsung's
+ latest phones have had dotted rear panels but the Galaxy Note 4 goes 
+back to the faux-leather texture that older models had. We usually 
+considered it tacky, but it's much improved now and most thankfully, 
+there's no awful fake stitching around the edges. The rear looks good 
+and feels great. The Note 4 isn't waterproof, which allows the battery 
+and card slots to be more easily accessible beneath the rear panel. 
+
+Samsung
+ also continues to use a physical Home button flanked by capacitive Back
+ and Recents buttons. Just like the on the Galaxy S5 (Review | Photos), there is a fingerprint
+ reader on the Home button. You'll need to swipe a finger across it 
+which is a little less convenient than the tap that Apple's 
+implementation requires. Also inherited from the S5 is the heart rate 
+monitor on the rear, right below the camera bulge. 
+
+All buttons 
+and ports are in their usual places - the headset socket and Infrared 
+LED on top; power button on the upper right edge; volume rocker on the 
+left; Micro-USB port and stylus silo on the bottom. The Micro-SIM and 
+microSD card slots are beneath the rear panel, next to the surprisingly 
+compact 3,220mAh battery.
+
+Comparisons to the iPhone 6 Plus (Review | Photos) are 
+inevitable - while Apple's rounded edges and flat back make the 
+extra-large iPhone easier and more comfortable to handle, we usually 
+felt more confident about our grip on the Galaxy Note 4 thanks to the 
+curved and textured back. The iPhone 6 Plus is still somewhat possible 
+to use with a single hand, but the Galaxy Note 4 usually requires both 
+hands whether or not you're using the stylus.
+
+Speaking of which, 
+the S Pen itself is quite neat. It's surprisingly long, which makes it 
+comfortable to hold, though the ribbed texture made our fingers sore 
+after a while. Samsung claims improved pressure sensitivity and 
+handwriting recognition which we will have to test for ourselves. 
+
+SpecificationsThe
+ Galaxy Note series represents the top of the line for Samsung; even 
+more so than the Galaxy S series. The Note 4 is no exception - Samsung 
+has gone with the highest-end screen and SoC currently possible. It's 
+important to note that Samsung offers many significantly different 
+products under the Galaxy Note 4 name due to regional differences and 
+LTE band support requirements.  The company has usually launched 
+variants based on its own Exynos processors in India, but this time we 
+get the full-spec Qualcomm Snapdragon 805 version.
+
+The Snapdragon 
+805 has four Krait 450 CPU cores running at up to 2.7GHz and an Adreno 
+420 GPU. 4G LTE, 802.11ac Wi-Fi n/ac, GPS, NFC and 4K video 
+encoding/decoding are all handled by the SoC. According to Qualcomm, its
+ new processor can handle all of this and more while delivering 
+outstanding performance and battery life - we couldn't wait to get 
+started on our benchmarks to test these claims.
+
+The ongoing 
+smartphone spec war means Samsung would have looked pretty weak if it 
+had gone with anything less than a 1440x2560-pixel screen, which is 
+exactly what we have here. At 5.7 inches, the Galaxy Note 4's Super 
+AMOLED screen is the same size as the 1080x1920-pixel one on the Note 3,
+ but its increased pixel density makes for a much sharper display. It 
+looks absolutely fantastic, but there's no doubt that it will put a 
+strain on the Snapdragon 805 SoC and the battery. Samsung also touts the
+ Note 4's "Adaptive Display" software tweaks, which adjust the colour 
+profile when you launch specific apps such as the gallery, Google Play 
+Books reader, stock browser and video player.
+
+There's 3GB of RAM 
+and 32GB of internal storage, along with a microSD slot. Cards of up to 
+128GB are supported so you shouldn't ever have to worry about running 
+out of space. This is a critical advantage of the Note 4 over the iPhone
+ 6 Plus, which is capped at 16GB at the same price.
+
+Pretty much 
+every feature you could think of in a high-end smartphone is present and
+ accounted for, with the exception of wireless charging. In addition to 
+the aforementioned Bluetooth 4.0 and Wi-Fi ac support, there's a full 
+complement of environmental sensors and of course the heart rate sensor.
+ Interestingly, Samsung has reverted to USB 2.0 on the Galaxy Note 4 
+rather than USB 3.0 which was introduced on the Note 3 - evidently the 
+unwieldy connector was more trouble than it was worth, even though 
+backward compatibility was fully supported.
+
+SoftwareThe 
+Galaxy Note 4 runs Android 4.4.4 though it's unrecognisable beneath 
+Samsung's extensive custom UI. After years of overdoing it with ugly 
+graphics, bloatware and features that no one could ever find or use, 
+Samsung seems to have found its footing. The Galaxy Note 4 benefits from
+ loads of usability improvements and a very slick style.
+
+A lot of 
+the appeal of the Galaxy Note series stems from the S Pen stylus, which 
+is tightly integrated with the software. As soon as you pull it out of 
+its silo, a ring-shaped menu appears on screen, allowing you to trigger 
+the Action Memo, Smart Select, Image Clip and Screen Write tools, which 
+are not all useful to everyone. You can also click the S Pen's button to
+ call up the menu anytime. 
+
+When the stylus tip is near the 
+screen, you'll see a cursor in the shape of a dot. If you hover over 
+icons or tool buttons in some apps, little labels, previews or quick 
+action dialogs will pop up. It's really easy to draw a lasso to select 
+parts of a screen or drag to select text, which you can then share or 
+file away as you please.
+
+There are also a few apps which tie in to
+ the S Pen's functionality. Pen.Up lets you share sketches with the 
+world, S Note lets you scribble information and sync it all with 
+Evernote. Scrapbook lets you collect and organise snippets from 
+anywhere. S Note in particular lets you play with various pen styles 
+including a fountain pen and calligraphic pen. Sensitivity and lag have 
+really been improved, and stylus input feels a lot more natural now. 
+
+You
+ can select text just as easily as you would with a mouse - hover over 
+any text screen and hold down the S Pen button, and then just drag and 
+release to select text. This is probably one of the most useful things 
+about the S Pen, and power users will love it.
+
+The rest of 
+Samsung's software features are pretty much the same as what we've seen 
+on earlier Note series devices and the Galaxy S5. To the left of the 
+first homescreen is a Flipboard-powered news reader view which can be 
+customised with your own preferred news categories. The usual kitschy 
+animations and sound effects can be found throughout, including a few 
+new ones on the lockscreen. Multi Window lets you run apps in floating 
+windows or in a split-screen view. This includes quite a few third-party
+ apps, not just Samsung's own. You can also tap an icon in the upper 
+right corner of each thumbnail in the task switcher to pop an app into 
+its own floating window.
+
+The Galaxy Note 4 incorporates Samsung's 
+now-familiar settings and tweaks, including Smart Stay, which keeps the 
+screen on as long as your face is in front of it; Power Saving and Ultra
+ Power Saving modes; Private mode; Car Mode; options to make one-handed 
+use easier, and lots more. 
+
+Samsung includes S Health, which is 
+much the same as it is on the Galaxy S5, although it's even more 
+unwieldy to use the Galaxy Note 4 as a fitness tracker. You'll get much 
+more use out of it if you also own one of Samsung's many smartwatches. 
+The bloatware is surprisingly constrained, with only Flipboard, 
+Evernote, Dropbox, Whatsapp, Instagram, Facebook, Facebook Messenger and
+ the Facebook Pages Manager apps preloaded (other than the usual raft of
+ Google apps). Smart Remote by Peel lets you use the Galaxy Note 4 as a 
+universal remote control, thanks to its Infrared LED. You can "disable" 
+many of these apps, though they cannot actually be uninstalled. 
+
+There's
+  a Galaxy Essentials widget pointing you to several Samsung apps that 
+aren't preloaded, and also a Galaxy Apps browser that shows curated 
+lists of apps that work well on the Galaxy Note 4, such as those 
+optimised for the S Pen. Buyers also get access to the Galaxy Gifts 
+programme which includes a three-month Magzter subscription, 25 percent 
+discount in the ShoppingnMore app, free photo prints form Zoomin worth 
+Rs. 1,000, and a few other offers.
+
+CameraSamsung's camera 
+app is powerful and does a good job keeping things uncluttered yet 
+accessible. It's a good idea to poke around and discover all the 
+features that are hidden away in the submenus. We were impressed with 
+the Galaxy Note 4's hardware and software - it seemed to focus very 
+quickly and produce good results.
+
+However we were in for a shock -
+ our test unit seemed to have a serious defect. At random times, the 
+entire image preview on screen would suddenly begin to wobble and roll, 
+and videos we captured exhibited the same effect. On further probing, we
+ managed to trigger this behaviour deliberately by rapidly shifting 
+focus, and we found it was much more likely to happen with HDR enabled 
+or while shooting 4K video. The issue persisted with multiple 
+third-party apps and after restoring the phone to factory settings and 
+installing all available updates. We also felt a constant though mild 
+vibration, all of which led to the conclusion that the OIS mechanism was
+ malfunctioning. Samsung was quick to send us a second unit and we 
+tested both side by side. We're happy to report that the second phone 
+was perfectly fine - our experience was thus not indicative of any 
+manufacturing defect, but most likely a fault with one specific device.
+
+Photos
+ and videos taken with our replacement test device came out very well 
+indeed. The camera excelled in daylight shots, capturing fine details 
+even in distant subjects. OIS definitely has a part to play in this, but
+ the near-16-megapixel resolution doesn't hurt either. Low light 
+performance was good, but not as strong. HDR results were very nice, 
+with rich colours, though it's a mystery why HDR isn't automatically 
+detected. 
+
+4K Ultra high-def videos came out beautifully. You'll 
+definitely want to invest in a high-capacity microSD card if you're 
+planning to take a lot of UHD video. Certain functions, such as 
+simultaneous still captures and continuous autofocus are not available 
+while shooting in UHD. We also quite liked the results we were able to 
+achieve with the front camera, including 1080p video. One very neat 
+touch is the ability to use the heart rate sensor on the rear to trigger
+ a shutter release, which is far easier than reaching for the on-screen 
+button.
+
+PerformanceWe were curious to see how well the new 
+Snapdragon 805 performed, and our initial impressions were very 
+positive. In our first few days with the Galaxy Note 4, we were mostly 
+pleased with its overall performance but were very pleasantly surprised 
+to see how slowly the battery was draining. The phone's interface was 
+mostly smooth but there was a little bit of lag in some spots, such as 
+calling up the app switcher and shuffling multiple windowed apps around 
+on screen. These things might have more to do with Samsung's heavy UI 
+skin than hardware.
+
+Another thing we noticed was that the Galaxy 
+Note 4 tended to get hot when doing anything intensive, like running a 
+heavy game or recording 4K video. This had a measurable impact on our 
+benchmark tests - AnTuTu gave us a surprisingly low score of 26,606 on 
+its first run, but that improved to 46,678 in subsequent rounds of 
+testing.
+
+Other benchmarks revealed predictably strong scores when 
+it came to CPU-based tasks, and weak graphics performance thanks to the 
+enormous load placed on the Snapdragon 805 by the Quad-HD screen. The 
+GFXbench score of 27.7fps was well below par for a flagship device, and 
+3DMark's Ice Storm Extreme test which should have maxed out delivered 
+9422 points (which is still quite high). Quadrant blazed through its run
+ with a score of 23,259 points, and Sunspider also impressed us with a 
+low time of just 378.9ms.
+
+So while the Galaxy Note 4 looks and 
+feels great, and is certainly impressive when shown off to friends and 
+colleagues, it falls a bit short in the power department. You won't be 
+able to enjoy intense games to their fullest potential on the big 
+screen, and even heavy multitasking can be a bit of a mixed bag.
+
+Videos
+ are rendered beautifully, including all our high-definition samples and
+ UHD clips shot with the phone itself. Sound from the mono speaker on 
+the rear is surprisingly deep, loud and rich. Everything from intricate 
+classical music to modern EDM sounded quite good, even at full volume. 
+
+Battery
+ life proved to be one of the Galaxy Note 4's best features. Despite its
+ massive power-hungry screen, this phone lasted 15 hours, 11 minutes in 
+our video loop test. You should easily be able to get two full days of 
+usage out of each charge. Another nice touch is that Samsung ships a 
+bulky 2,000mAh charger with the Note 4, which allows it to juice up 
+remarkably quickly.
+
+VerdictSamsung has broken its long-held
+ tradition of producing cheap-looking plastic phones and has managed to 
+make its latest Note flagship look rather refined. With all its 
+competitors moving to metal bodies, it couldn't have done anything else.
+ Compared to its predecessors, this phone radiates power. On the other 
+hand, those same market forces have potentially compelled Samsung to 
+overreach in terms of specifications - honestly, Full HD was pretty 
+impressive on last year's model and we wouldn't have minded sticking 
+with that screen resolution considering it would have meant drastic 
+improvements in terms of graphics performance.
+
+Ultimately, the 
+Note series is focused on enabling productivity and creativity, which is
+ what Samsung delivers in spades. This phone certainly has the chops to 
+back up its aspirations. Samsung has honed its software skills over the 
+years, and though the Galaxy Note 4 UI still isn't as visually or 
+functionally efficient as we'd like, it does deliver an experience that 
+goes above and beyond what stock Android can achieve. Particularly, the S
+ Pen has multiple very clear purposes and feels like a perfectly natural
+ part of the usage experience - it's there when you want it but isn't 
+forced upon you when you don't.
+
+If you like the idea of using a 
+smartphone with a stylus, this is currently the only game in town. Even 
+if that doesn't particularly appeal to you, you'll find things you can 
+do and enjoy doing with it. Pretty much every manufacturer now has a 
+large-screen flagship phone, but none can match the versatility of the 
+Galaxy Note 4. In that sense, its strongest competitor is the Galaxy 
+Note 3 (Review | Photos), thanks to recent price cuts which have made it surprisingly good
+ value for money.
+

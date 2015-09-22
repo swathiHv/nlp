@@ -1,0 +1,344 @@
+Micromax's Yu Yureka Review: It's Mi Against Yu
+
+Micromax is India's top domestic smartphone
+ vendor and has plenty of popular products on offer. Even so, it has a 
+bit of a reputation for selling low-quality products and it knows that 
+there are people who would simply never consider a Micromax phone over, 
+say, a Samsung or a Sony. There are also dozens of other companies with 
+very similar products, and any of them could easily become as 
+successful. The company now wants products that will stand out 
+and have strong individual identities - and that means making some bold 
+moves. The result is Yu Televentures, an all-new subsidiary company 
+which will develop and sell smartphones aimed at the youth market. Yu 
+will target tech-savvy but budget-conscious buyers, and is banking on 
+catchy names and slogans with "attitude". Interestingly, these phones 
+will only be available online. The company also talks up an "ecosystem 
+of connected devices" and a "differentiated user experience". Yu's
+ primary means of achieving this is an exclusive tieup with Cyanogen Inc. to preload Cyanogen 11, a popular Android fork, onto its devices. 
+Few Indian companies have bothered really tweaking the software 
+experience on the phones they sell (Xolo being a notable exception with 
+its Hive UI) and Micromax itself has been known to load devices with 
+useless bloat. Cyanogen is polished and powerful, and will help these 
+devices stand out.Yu's first product, the Yureka, is a pretty 
+important phone. Cheesy name aside, Yu seems to be gunning for the slot 
+formerly occupied by the 3G Xiaomi Redmi Note (Review | Photos). The Yureka's size, 
+appearance and specifications are pretty evenly matched with those of 
+Xiaomi's big-screen offering, which means they're impressive considering
+ both devices' low price tags. Look and feelThere's no 
+sign of Micromax anywhere on the product or its packaging despite that 
+brand's popularity, which means Yu really doesn't want to be associated 
+with its parent company. The box is very plain; just brown cardboard 
+with Yu and Cyanogen logos printed on all sides. It's almost as 
+minimalist as Xiaomi's boxes, but nowhere near as slick.The Yu 
+Yureka itself is not especially slim or light but it does appear better 
+constructed than most Micromax phones we've seen before. The front is 
+smooth and free of markings other than an outline of the Home button 
+printed beneath the screen. The Back and Menu buttons don't have printed
+ icons but all three light up when the screen is active. There isn't 
+much room around the screen, and the edges are slightly raised to help 
+prevent scratching. The "moonstone grey" rear has an interesting 
+texture - at first glance, it looks exactly like the rough sandpapery 
+finish of the OnePlus One's rear, though in this case it's smooth and 
+pleasant to hold. For some reason, Yu decided to go with a light blue 
+printed logo which looks very odd and cheapens the entire device. The 
+camera and flash are tucked away in one corner and the only other thing 
+to be seen is a small speaker grille running across the bottom.The
+ power and volume buttons are easily reachable on the sides, and the 
+Micro-USB and headset sockets are on the bottom and top respectively. 
+Beneath the rear shell you'll find the removable battery, two Micro-SIM 
+card slots and a microSD slot. One of the SIMs is hot swappable, but the
+ other two slots can only be used if you pop the battery out.Specifications and softwareThere's
+ a lot to like about the Yu Yureka. For starters, there's the brand new 
+Qualcomm Snapdragon 615, an octa-core SoC with 64-bit support. Lower 
+cost octa-core processors from MediaTek have been around for quite a 
+while, but this is a first for Qualcomm. Cyanogen 11 just happens to be 
+64-bit capable, which makes that feature worthwhile too. There's 2GB of 
+RAM, which is good for a phone in this price bracket. There's 16GB of 
+internal storage space and up to 32GB can be added using a microSD card.
+ We're also happy with the screen's 720x1280-pixel resolution. At
+ 5.5 inches, it's just a little grainy - but again we're reminded that 
+we could be doing a lot worse when it comes to sub-Rs. 10,000 
+smartphones. The standard wireless protocols are covered: Bluetooth 4.0 
+and Wi-Fi b/g/n. LTE is supported on the 2300MHz TDD band currently used
+ by Indian service providers as well as the less common 1800MHz FDD 
+band.The Yureka isn't the first device in India to come running 
+Cyanogen OS - that distinction goes to the OnePlus One (Review | Photos). For now, it 
+looks as though OnePlus won't be able to sell devices running Cyanogen 
+anymore, thanks to a rather contentious  legal dispute between all three 
+companies. Cyanogen OS looks good, and one of its strengths is 
+that you can customise many aspects of its appearance. We weren't too 
+happy with Yu's rather vanilla lockscreen, but it can be disabled in the
+ settings and the default lockscreen with shortcuts and widgets replaced
+ it. There is a row of settings shortcuts in the notifications shade, 
+but there's also a button that takes you to another panel with more 
+shortcuts (including some duplicates).There are loads of settings
+ for lots of tiny little things, such as the appearance of the power 
+level indicator in the status bar, how long the capacitive button 
+backlight should stay on, and what each of the device's buttons should 
+do. You can disable the capacitive buttons altogether and display soft 
+buttons on screen, if you would like to for any reason. There are also 
+lots of shortcuts, such as double-tapping the status bar to lock the 
+phone, or sliding a finger along it to adjust brightness. One of our 
+favourite features is sound profiles - just like on old Nokia phones, 
+you can set profiles such as Home, Work, Night and Silent.The 
+look and feel of the UI is highly customisable. Just like we saw on the 
+OnePlus One, you can mix and match elements from different themes. We 
+eventually settled on a custom mix of elements from the Android Holo 
+theme and Yu's own defaults. Creating a Cyanogen account gives you 
+access to more downloadable themes - we could see only five in the app, 
+but presumably there will be more in due course.Yu has kept the 
+bloatware to a minimum. In addition to all the common Google apps, 
+there's a browser called  Yuniverse (which is nothing more than Opera 
+with a skin and custom icon), an audio equaliser and effects app called 
+AudioFX, a souped-up calculator, and something called Baton that claims 
+to "cloudify" any app of your choosing, which means they'll be able to 
+sync content across devices even if they don't have that capability on 
+their own. The Baton app didn't work at all for us - it forced us to 
+download an update from the Play store, which threw up an error stating 
+no such app exists. PerformanceWe were eager to see how 
+Qualcomm's new CPU performs, and the results were quite positive. The 
+Yureka seems to be able to match the Xiaomi Redmi Note in most 
+situations - 3DMark gave the Redmi Note a slight advantage in the 720p 
+Ice Storm test, but the Yureka stole the lead in the high-resolution Ice
+ Storm Extreme test. Quadrant favoured the Yureka, with a score of 
+17,586 overall compared to the Redmi Note's 16,083. The Yureka scored 
+31,014 in AnTuTu 5.5, while the Redmi Note scored 31,969 in AnTuTu 5.0. 
+Keep in mind that these scores apply to the original 3G-only version of 
+the Redmi Note, which uses an octa-core MediaTek MT6592 processor and is
+ not available anymore.Day-to-day usage was perfectly fine. The 
+Yureka is highly polished, and honestly, it felt a lot better to hold 
+and use than most Micromax phones that have come our way in the past 
+year or even more. The screen was fairly legible in sunlight and though 
+it isn't perfectly crisp, it's one of the better ones we've seen on such
+ a low-priced phone. Our 1080p 40Mbps MKV sample clip just did 
+not play, but other file formats seemed fine. The phone's built-in 
+speaker was reasonably loud but we found it to be above par in terms of 
+sound quality. On the other hand, the bundled headset isn't very 
+comfortable and is no good for music though it should do for making and 
+receiving calls.(Click to see full size)Call quality is decent, and we had no complaints.
+ The battery lasted 7 hours, 26 minutes in our video loop test, which is
+ a little underwhelming by today's standards.What really stood 
+out for us was the camera. We were really impressed with the quality of 
+images taken by the Yureka. Close-ups were quite brilliant, and in 
+daylight, images were perfectly sharp at the focus point even at 100 
+percent zoom on a desktop monitor. The phone did take an unusually long 
+time to autofocus and it was often simpler to tap the screen and force 
+it. This also meant that subjects in motion were challenging to capture.
+ On the other hand, we were able to create some surprisingly good 
+depth-of-field effects with zero effort.Low-light situations 
+definitely challenged the Yureka, and a lot depended on the amount of 
+ambient light the sensor was able to pick up in each shot. For that 
+reason, wider frames worked better than tight close-ups. The flash 
+worked quite well too. Videos came out pretty shaky but otherwise just 
+as good as photos.  (Click to see full size)VerdictMicromax appears to have made a
+ smart move. Indian buyers seem to be comfortable enough with 
+online-only sales now, and if this device is available in sufficient 
+quantities without the rigmarole of weekly registrations and flash 
+sales, it will be a very solid alternative to the Xiaomi Redmi Note. The
+ fact that the 4G version of the Redmi Note costs Rs. 1,000 more than 
+the Yureka will also help Micromax win points over its Chinese cousin. The
+ Yu Yureka has a lot going for it, and even its minor flaws can be 
+overlooked considering the amazingly low price. Yu has identified its 
+target audience well and has delivered a very, very attractive product. Cyanogen
+ OS is a huge plus - we're just a tiny bit miffed with Micromax for 
+throwing a wrench into the OnePlus One launch, but if the Yureka is 
+anything to go by, we can probably expect a range of Yu devices that 
+live up to the same promise. In 2014, we were repeatedly forced to 
+recalibrate our expectations of phones in all price categories thanks to
+ disruptive new launches nearly every month. Buyers will be most happy 
+to know that there seems to be no sign of this trend slowing down - 2015
+ is off to a cracking start indeed.  Micromax Yu Yureka in pictures
+
+The company now wants products that will stand out 
+and have strong individual identities - and that means making some bold 
+moves. The result is Yu Televentures, an all-new subsidiary company 
+which will develop and sell smartphones aimed at the youth market. Yu 
+will target tech-savvy but budget-conscious buyers, and is banking on 
+catchy names and slogans with "attitude". Interestingly, these phones 
+will only be available online. The company also talks up an "ecosystem 
+of connected devices" and a "differentiated user experience". 
+
+Yu's
+ primary means of achieving this is an exclusive tieup with Cyanogen Inc. to preload Cyanogen 11, a popular Android fork, onto its devices. 
+Few Indian companies have bothered really tweaking the software 
+experience on the phones they sell (Xolo being a notable exception with 
+its Hive UI) and Micromax itself has been known to load devices with 
+useless bloat. Cyanogen is polished and powerful, and will help these 
+devices stand out.
+
+Yu's first product, the Yureka, is a pretty 
+important phone. Cheesy name aside, Yu seems to be gunning for the slot 
+formerly occupied by the 3G Xiaomi Redmi Note (Review | Photos). The Yureka's size, 
+appearance and specifications are pretty evenly matched with those of 
+Xiaomi's big-screen offering, which means they're impressive considering
+ both devices' low price tags. 
+
+Look and feelThere's no 
+sign of Micromax anywhere on the product or its packaging despite that 
+brand's popularity, which means Yu really doesn't want to be associated 
+with its parent company. The box is very plain; just brown cardboard 
+with Yu and Cyanogen logos printed on all sides. It's almost as 
+minimalist as Xiaomi's boxes, but nowhere near as slick.
+
+The Yu 
+Yureka itself is not especially slim or light but it does appear better 
+constructed than most Micromax phones we've seen before. The front is 
+smooth and free of markings other than an outline of the Home button 
+printed beneath the screen. The Back and Menu buttons don't have printed
+ icons but all three light up when the screen is active. There isn't 
+much room around the screen, and the edges are slightly raised to help 
+prevent scratching. 
+
+The "moonstone grey" rear has an interesting 
+texture - at first glance, it looks exactly like the rough sandpapery 
+finish of the OnePlus One's rear, though in this case it's smooth and 
+pleasant to hold. For some reason, Yu decided to go with a light blue 
+printed logo which looks very odd and cheapens the entire device. The 
+camera and flash are tucked away in one corner and the only other thing 
+to be seen is a small speaker grille running across the bottom.
+
+The
+ power and volume buttons are easily reachable on the sides, and the 
+Micro-USB and headset sockets are on the bottom and top respectively. 
+Beneath the rear shell you'll find the removable battery, two Micro-SIM 
+card slots and a microSD slot. One of the SIMs is hot swappable, but the
+ other two slots can only be used if you pop the battery out.
+
+Specifications and softwareThere's
+ a lot to like about the Yu Yureka. For starters, there's the brand new 
+Qualcomm Snapdragon 615, an octa-core SoC with 64-bit support. Lower 
+cost octa-core processors from MediaTek have been around for quite a 
+while, but this is a first for Qualcomm. Cyanogen 11 just happens to be 
+64-bit capable, which makes that feature worthwhile too. There's 2GB of 
+RAM, which is good for a phone in this price bracket. There's 16GB of 
+internal storage space and up to 32GB can be added using a microSD card.
+ 
+
+We're also happy with the screen's 720x1280-pixel resolution. At
+ 5.5 inches, it's just a little grainy - but again we're reminded that 
+we could be doing a lot worse when it comes to sub-Rs. 10,000 
+smartphones. The standard wireless protocols are covered: Bluetooth 4.0 
+and Wi-Fi b/g/n. LTE is supported on the 2300MHz TDD band currently used
+ by Indian service providers as well as the less common 1800MHz FDD 
+band.
+
+The Yureka isn't the first device in India to come running 
+Cyanogen OS - that distinction goes to the OnePlus One (Review | Photos). For now, it 
+looks as though OnePlus won't be able to sell devices running Cyanogen 
+anymore, thanks to a rather contentious  legal dispute between all three 
+companies. 
+
+Cyanogen OS looks good, and one of its strengths is 
+that you can customise many aspects of its appearance. We weren't too 
+happy with Yu's rather vanilla lockscreen, but it can be disabled in the
+ settings and the default lockscreen with shortcuts and widgets replaced
+ it. There is a row of settings shortcuts in the notifications shade, 
+but there's also a button that takes you to another panel with more 
+shortcuts (including some duplicates).
+
+There are loads of settings
+ for lots of tiny little things, such as the appearance of the power 
+level indicator in the status bar, how long the capacitive button 
+backlight should stay on, and what each of the device's buttons should 
+do. You can disable the capacitive buttons altogether and display soft 
+buttons on screen, if you would like to for any reason. There are also 
+lots of shortcuts, such as double-tapping the status bar to lock the 
+phone, or sliding a finger along it to adjust brightness. One of our 
+favourite features is sound profiles - just like on old Nokia phones, 
+you can set profiles such as Home, Work, Night and Silent.
+
+The 
+look and feel of the UI is highly customisable. Just like we saw on the 
+OnePlus One, you can mix and match elements from different themes. We 
+eventually settled on a custom mix of elements from the Android Holo 
+theme and Yu's own defaults. Creating a Cyanogen account gives you 
+access to more downloadable themes - we could see only five in the app, 
+but presumably there will be more in due course.
+
+Yu has kept the 
+bloatware to a minimum. In addition to all the common Google apps, 
+there's a browser called  Yuniverse (which is nothing more than Opera 
+with a skin and custom icon), an audio equaliser and effects app called 
+AudioFX, a souped-up calculator, and something called Baton that claims 
+to "cloudify" any app of your choosing, which means they'll be able to 
+sync content across devices even if they don't have that capability on 
+their own. The Baton app didn't work at all for us - it forced us to 
+download an update from the Play store, which threw up an error stating 
+no such app exists. 
+
+PerformanceWe were eager to see how 
+Qualcomm's new CPU performs, and the results were quite positive. The 
+Yureka seems to be able to match the Xiaomi Redmi Note in most 
+situations - 3DMark gave the Redmi Note a slight advantage in the 720p 
+Ice Storm test, but the Yureka stole the lead in the high-resolution Ice
+ Storm Extreme test. Quadrant favoured the Yureka, with a score of 
+17,586 overall compared to the Redmi Note's 16,083. The Yureka scored 
+31,014 in AnTuTu 5.5, while the Redmi Note scored 31,969 in AnTuTu 5.0. 
+Keep in mind that these scores apply to the original 3G-only version of 
+the Redmi Note, which uses an octa-core MediaTek MT6592 processor and is
+ not available anymore.
+
+Day-to-day usage was perfectly fine. The 
+Yureka is highly polished, and honestly, it felt a lot better to hold 
+and use than most Micromax phones that have come our way in the past 
+year or even more. The screen was fairly legible in sunlight and though 
+it isn't perfectly crisp, it's one of the better ones we've seen on such
+ a low-priced phone. 
+
+Our 1080p 40Mbps MKV sample clip just did 
+not play, but other file formats seemed fine. The phone's built-in 
+speaker was reasonably loud but we found it to be above par in terms of 
+sound quality. On the other hand, the bundled headset isn't very 
+comfortable and is no good for music though it should do for making and 
+receiving calls.
+
+(Click to see full size)
+
+Call quality is decent, and we had no complaints.
+ The battery lasted 7 hours, 26 minutes in our video loop test, which is
+ a little underwhelming by today's standards.
+
+What really stood 
+out for us was the camera. We were really impressed with the quality of 
+images taken by the Yureka. Close-ups were quite brilliant, and in 
+daylight, images were perfectly sharp at the focus point even at 100 
+percent zoom on a desktop monitor. The phone did take an unusually long 
+time to autofocus and it was often simpler to tap the screen and force 
+it. This also meant that subjects in motion were challenging to capture.
+ On the other hand, we were able to create some surprisingly good 
+depth-of-field effects with zero effort.
+
+Low-light situations 
+definitely challenged the Yureka, and a lot depended on the amount of 
+ambient light the sensor was able to pick up in each shot. For that 
+reason, wider frames worked better than tight close-ups. The flash 
+worked quite well too. Videos came out pretty shaky but otherwise just 
+as good as photos.  
+
+(Click to see full size)
+
+VerdictMicromax appears to have made a
+ smart move. Indian buyers seem to be comfortable enough with 
+online-only sales now, and if this device is available in sufficient 
+quantities without the rigmarole of weekly registrations and flash 
+sales, it will be a very solid alternative to the Xiaomi Redmi Note. The
+ fact that the 4G version of the Redmi Note costs Rs. 1,000 more than 
+the Yureka will also help Micromax win points over its Chinese cousin. 
+
+The
+ Yu Yureka has a lot going for it, and even its minor flaws can be 
+overlooked considering the amazingly low price. Yu has identified its 
+target audience well and has delivered a very, very attractive product. 
+
+Cyanogen
+ OS is a huge plus - we're just a tiny bit miffed with Micromax for 
+throwing a wrench into the OnePlus One launch, but if the Yureka is 
+anything to go by, we can probably expect a range of Yu devices that 
+live up to the same promise. 
+
+In 2014, we were repeatedly forced to 
+recalibrate our expectations of phones in all price categories thanks to
+ disruptive new launches nearly every month. Buyers will be most happy 
+to know that there seems to be no sign of this trend slowing down - 2015
+ is off to a cracking start indeed. 
+

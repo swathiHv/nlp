@@ -1,0 +1,198 @@
+Kingston DataTraveler microDuo review: Easy file sharing between PCs and Android devices
+
+When the USB standard was first devised, the world was largely 
+PC-centric, and the people responsible for standards and compatibility 
+only imagined PCs as "hosts", and everything else as "targets", which 
+would be controlled by a host. Plugs were shaped differently to make 
+sure people didn't plug hosts into hosts and targets into targets, and 
+for a while, people used their printers, hard drives, and various 
+peripherals without any trouble. In the years since then, things 
+have become more complicated. Millions of USB devices have been sold, 
+many of which work both ways. Phones and tablets can be plugged into PCs
+ for transferring data, but they can also control peripherals of their 
+own.Android-based smartphones and tablets have been able to 
+address USB storage devices for a while now, thanks to an 
+often-overlooked feature called USB On The Go. Since there's no space 
+for a USB Type A host port (the common rectangular socket), the existing
+ USB Type B target port must play a double role. Typical USB-OTG 
+adapters have a Micro-USB plug on one end and a full size Type A socket 
+on the other, allowing various devices to be plugged into them.Not
+ all devices support USB-OTG, and not all come with such adapters, so 
+the feature has somewhat flown under the radar. If you ever wanted to 
+use USB-OTG, you'd have to remember the adapter and let it dangle from 
+your device. We'll soon have a common USB plug standard for all devices,
+ eliminating the old host-target relationship, but until then, USB-OTG 
+is going to remain inconvenient.There is, however, an 
+alternative. Manufacturers have been showing off pen drives with the 
+"wrong" type of USB plug, which can be plugged directly into a device's 
+Micro-USB port. Some of these even have both types of plug, so you can 
+use them on PCs as well as portable devices. Look and feelKingston's microDuo 
+is exactly that. It lets you fill it up by plugging it into a PC like 
+any other drive, and then access its contents on a smartphone or tablet.
+ Kingston has published a list of devices on its website, and it is 
+rather bare, so hopefully it will expand over time. The drive is 
+thankfully quite tiny, so it won't stick out too much when plugged into a
+ portable device.The DataTraveler microDuo is
+ available in 8, 16 and 32GB capacities, with a 64GB variant coming 
+soon. We have a 32GB unit in for review today, and it does look rather 
+attractive, with a champagne gold body and brown plastic cover. The 
+microDuo is well crafted, and doesn't feel like the cheap throwaway USB 
+drives that have become common today.The plastic shroud covers 
+the Micro-USB plug, while the full sized one is left exposed. It swivels
+ a little over 90 degrees, which means it will stick out sideways when 
+the drive is plugged into a Micro-USB port. You can pop the plastic off 
+altogether, if you like.There's also a little loop on the metal 
+body for attaching a lanyard. Kingston includes a flimsy-looking thread 
+loop with the microDuo, which most buyers will probably end up ignoring.As
+ far as pen drive size goes, the microDuo is quite tiny, which means 
+it's unobtrusive when plugged into most devices, but also that it would 
+be pretty easy to lose.PerformanceUsing the microDuo is as easy as plugging 
+it in. Different phones react differently to OTG devices, so while some 
+might pop up helpful dialogs offering to play music or videos, others 
+will require you to have a file manager app. In most cases, the drive 
+shows up just like a microSD card would, and there's no difference in 
+how you can copy files to and from it, save content, and play media.We
+ tested the Kingston DataTraveler microDuo using both its interfaces, 
+using a Windows 8 laptop for the regular USB interface and a Windows 8 
+tablet with a native Micro-USB interface. We also tried it on a handful 
+of Android smartphones.We had absolutely no trouble on the 
+Windows machines. The total formatted capacity of our 32GB test unit was
+ reported as 29.2GB. Speeds were just about average by USB 2.0 
+standards, when we tried copying multiple files of various sizes to and 
+from the microDuo. We also ran SiSoft SANDRA 2014 to get some hard 
+numbers, and found that speeds were very slightly lower when used via 
+Micro-USB, though that could also be attributed to differences between 
+the two test devices.SANDRA's drive index score was 27.86MBps 
+over USB, and 27.0 over Micro-USB. Sequential read speeds scaled 
+equally, with 25.2 and 22MBps over USB and Micro-USB respectively, while
+ random read speeds were nearly the same, at 25 and 22.12MBps 
+respectively. There was a larger gulf between the two when it came to 
+write speeds, though, with sequential speeds clearly faster than random.VerdictThe
+ Kingston DataTraveler microDuo is a fantastically handy little device, 
+especially in this day and age where data tends to get fragmented across
+ devices. If your phone or tablet is running out of space and doesn't 
+have a microSD slot, a USB-OTG drive could be a lifesaver. It might 
+stick out of your device awkwardly, but it's definitely better than 
+nothing. We expect to see many more such drives on the market 
+soon, in interesting shapes and sizes that work well with smartphones 
+and tablets. At street prices of around Rs. 850 for 16GB and Rs. 1,500 
+for 32GB, there's definitely a price premium over standard pen drives, 
+but the versatility is well worth the cost.Price (MRP): Rs. 1,200 (16GB); Rs. 2,100 (32GB) ProsExtremely versatileSmall and portablePotential for multiple usesConsAverage performanceMore expensive than regular pen drivesRatings (Out of 5)Design: 4Performance: 3Value for Money: 4Overall: 4
+
+When the USB standard was first devised, the world was largely 
+PC-centric, and the people responsible for standards and compatibility 
+only imagined PCs as "hosts", and everything else as "targets", which 
+would be controlled by a host. Plugs were shaped differently to make 
+sure people didn't plug hosts into hosts and targets into targets, and 
+for a while, people used their printers, hard drives, and various 
+peripherals without any trouble. 
+
+In the years since then, things 
+have become more complicated. Millions of USB devices have been sold, 
+many of which work both ways. Phones and tablets can be plugged into PCs
+ for transferring data, but they can also control peripherals of their 
+own.
+
+Android-based smartphones and tablets have been able to 
+address USB storage devices for a while now, thanks to an 
+often-overlooked feature called USB On The Go. Since there's no space 
+for a USB Type A host port (the common rectangular socket), the existing
+ USB Type B target port must play a double role. Typical USB-OTG 
+adapters have a Micro-USB plug on one end and a full size Type A socket 
+on the other, allowing various devices to be plugged into them.
+
+Not
+ all devices support USB-OTG, and not all come with such adapters, so 
+the feature has somewhat flown under the radar. If you ever wanted to 
+use USB-OTG, you'd have to remember the adapter and let it dangle from 
+your device. We'll soon have a common USB plug standard for all devices,
+ eliminating the old host-target relationship, but until then, USB-OTG 
+is going to remain inconvenient.
+
+There is, however, an 
+alternative. Manufacturers have been showing off pen drives with the 
+"wrong" type of USB plug, which can be plugged directly into a device's 
+Micro-USB port. Some of these even have both types of plug, so you can 
+use them on PCs as well as portable devices. 
+
+Look and feelKingston's microDuo 
+is exactly that. It lets you fill it up by plugging it into a PC like 
+any other drive, and then access its contents on a smartphone or tablet.
+ Kingston has published a list of devices on its website, and it is 
+rather bare, so hopefully it will expand over time. The drive is 
+thankfully quite tiny, so it won't stick out too much when plugged into a
+ portable device.
+
+The DataTraveler microDuo is
+ available in 8, 16 and 32GB capacities, with a 64GB variant coming 
+soon. We have a 32GB unit in for review today, and it does look rather 
+attractive, with a champagne gold body and brown plastic cover. The 
+microDuo is well crafted, and doesn't feel like the cheap throwaway USB 
+drives that have become common today.
+
+The plastic shroud covers 
+the Micro-USB plug, while the full sized one is left exposed. It swivels
+ a little over 90 degrees, which means it will stick out sideways when 
+the drive is plugged into a Micro-USB port. You can pop the plastic off 
+altogether, if you like.
+
+There's also a little loop on the metal 
+body for attaching a lanyard. Kingston includes a flimsy-looking thread 
+loop with the microDuo, which most buyers will probably end up ignoring.
+
+As
+ far as pen drive size goes, the microDuo is quite tiny, which means 
+it's unobtrusive when plugged into most devices, but also that it would 
+be pretty easy to lose.
+
+PerformanceUsing the microDuo is as easy as plugging 
+it in. Different phones react differently to OTG devices, so while some 
+might pop up helpful dialogs offering to play music or videos, others 
+will require you to have a file manager app. In most cases, the drive 
+shows up just like a microSD card would, and there's no difference in 
+how you can copy files to and from it, save content, and play media.
+
+We
+ tested the Kingston DataTraveler microDuo using both its interfaces, 
+using a Windows 8 laptop for the regular USB interface and a Windows 8 
+tablet with a native Micro-USB interface. We also tried it on a handful 
+of Android smartphones.
+
+We had absolutely no trouble on the 
+Windows machines. The total formatted capacity of our 32GB test unit was
+ reported as 29.2GB. Speeds were just about average by USB 2.0 
+standards, when we tried copying multiple files of various sizes to and 
+from the microDuo. We also ran SiSoft SANDRA 2014 to get some hard 
+numbers, and found that speeds were very slightly lower when used via 
+Micro-USB, though that could also be attributed to differences between 
+the two test devices.
+
+SANDRA's drive index score was 27.86MBps 
+over USB, and 27.0 over Micro-USB. Sequential read speeds scaled 
+equally, with 25.2 and 22MBps over USB and Micro-USB respectively, while
+ random read speeds were nearly the same, at 25 and 22.12MBps 
+respectively. There was a larger gulf between the two when it came to 
+write speeds, though, with sequential speeds clearly faster than random.
+
+VerdictThe
+ Kingston DataTraveler microDuo is a fantastically handy little device, 
+especially in this day and age where data tends to get fragmented across
+ devices. If your phone or tablet is running out of space and doesn't 
+have a microSD slot, a USB-OTG drive could be a lifesaver. It might 
+stick out of your device awkwardly, but it's definitely better than 
+nothing. 
+
+We expect to see many more such drives on the market 
+soon, in interesting shapes and sizes that work well with smartphones 
+and tablets. At street prices of around Rs. 850 for 16GB and Rs. 1,500 
+for 32GB, there's definitely a price premium over standard pen drives, 
+but the versatility is well worth the cost.
+
+Price (MRP): Rs. 1,200 (16GB); Rs. 2,100 (32GB)
+
+
+
+Cons
+
+Ratings (Out of 5)
+

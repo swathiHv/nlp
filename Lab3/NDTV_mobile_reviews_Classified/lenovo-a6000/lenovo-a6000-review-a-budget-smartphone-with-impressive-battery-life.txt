@@ -1,0 +1,273 @@
+Lenovo A6000 Review: A Budget Smartphone With Impressive Battery Life
+
+Even
+ before major telecom players such as Reliance Jio and Vodafone roll
+ out their 4G networks on a nation-wide scale, brands including Xiaomi, Micromax (Yu 
+Televentures) and Lenovo are looking to introduce budget 
+4G-enabled smartphones in the Indian market. Looking at the enthusiasm of these 
+companies we can be assured of one thing - at least someone is 
+optimistic that 4G will be adopted rapidly.China-based 
+Lenovo introduced the 4G-enabled A6000 at CES, Las Vegas, this year and 
+soon after, it introduced the phone in India - the market it probably 
+intended to target in the first place. The Lenovo A6000 is packed with features that are not common to budget smartphones. Moreover, the 
+competition is strong too. Let's find out if Lenovo has managed to bring
+ its A-game with the A6000. Look and feelLenovo
+ has decided to play safe with the design of the A6000. The phone has a 
+regular candybar shape that is a staple feature of Android 
+smartphones now. The A6000's utilitarian design is not necessarily a bad
+ thing considering Lenovo has done a good job of creating nice rounded 
+edges and restricting the thickness to 8.2mm. An added advantage is the 
+phone's low weight of 128g, which makes it comfortable for single-handed
+ usage. Our only gripe is with the build quality of the rear cover - it 
+felt flimsy, and it is quite possible that the plastic
+ will give way after prolonged use.Talking about rear covers, buyers will get the 
+black one by default. Lenovo has promised replaceable rear covers in 
+three different colours - red, yellow and white - which should be 
+available in the near future. The black rear cover has a smooth matte 
+finish which feels good to touch. The volume rocker and the power button are on 
+the right edge of the phone. A lone microphone for phone calls sits at 
+the bottom whereas the top houses the Micro-USB port and the 3.5mm audio
+ jack. The front camera and the earpiece are located above the display. 
+Lenovo includes a row of buttons below the screen for navigation through the OS. The rear camera, flash, and microphone for video capture 
+lie on the top right corner of the A6000. Also present on the rear are 
+two speakers with a Dolby logo sandwiched in between them. Removing 
+the rear cover reveals the battery, two slots for Micro-SIM cards, and the microSD card slot. The 5-inch IPS LCD screen has a 
+resolution of 720x1280, which is the maximum one can find on budget 
+smartphones. At first glance, the screen does look vibrant but that is 
+mainly due to the colourful Vibe UI Android skin. We noticed that 
+increasing the brightness caused the colours to look slightly washed 
+out, which in turn affected sunlight legibility. The viewing angles 
+are passable. The 294ppi density of the display means images 
+and text look crisp. Lenovo hasn't used protective glass on the
+ display of the A6000 which is a bit of a letdown. Instead, the company 
+provides a screen guard in the box, which is not really a substitute but is better than nothing. Overall, we still think the Redmi 1S has a better 
+screen, but the A6000 comes a close second. Specifications and softwareLenovo
+ has packed the latest 64-bit Snapdragon 410 SoC inside the A6000. It 
+is a 1.2GHz quad-core processor with integrated Adreno 306 GPU. The phone has 1GB 
+of RAM and 8GB of internal storage space. In case the 8GB space doesn't 
+suffice, one can add up to 32GB more using a microSD card. The 
+A6000 is the lowest-cost phone in India to support 4G networks. The dual-SIM setup works in dual-standby mode. Wi-Fi a/b/g/n and Bluetooth 
+v4.0 round out the connectivity options available on the phone. The 
+primary camera can shoot 8-megapixel stills and the front camera can 
+take 2-megapixel selfies. A 2,300mAh battery provides the juice for the 
+phone.Lenovo uses its Vibe UI skin on top of Android 4.4.4 
+(KitKat). Vibe UI is similar to skins used by other Chinese 
+manufacturers and one of the major features is the absence of an app 
+drawer. All the icons for apps are lined up on the home screen just like
+ in Apple's iOS. Vibe UI has rather colourful icons and we still think 
+that it looks cartoonish. One can change the theme, but it really 
+doesn't make too much of a difference. The homescreen wallpapers 
+can be cycled by swiping left or right on the top of the 
+screen. It works well most of the time but there were occasions when we 
+ended up opening an app instead of changing the wallpaper. The 
+notification shade has a lot of quick settings available for easy 
+access. Lenovo bundles a Dolby app which allows users to play around 
+with the sound settings according to their preference. Lenovo's own apps 
+such as SYNCit and SHAREit do a decent job of backing up data to the cloud
+and sharing files with other Lenovo users without worrying about 
+connectivity protocols. Unfortunately, the apps cannot be uninstalled if
+ one has no use for them. There are other third-party apps including Guvera 
+for music streaming, txtr for ebooks, and Facebook, Twitter, WhatsApp, 
+and Skype for social networking needs. Tap the Frog HD, Green
+ Farm 3, Asphalt 8, Real Football 2015 and Spider-Man: Ultimate Power 
+are also preloaded with the phone. All the third-party apps and games 
+can thankfully be uninstalled.CameraThe camera app looks 
+deceptively minimal in design but a single button hides all the 
+settings. The number of settings available is actually overwhelming, but 
+they are useful. We quite like the app's approach to photo capture and feel that it is unobtrusive. 
+The camera app also allows users to capture a photo in the midst of video 
+recording.(Click for full size)In our testing, we noticed that images captured by the 
+8-megapixel camera were hit-and-miss. Firstly, it is a slow 
+shooter compared to other budget smartphones we've used. The captured 
+images had a reddish hue to them and in daylight the camera struggled with over-exposure. However, the HDR mode somewhat managed to 
+solve that problem. Noise levels are low but the camera has a 
+problem in outlining shadows accurately. This problem was reflected 
+in our low light shots as well. In low light, the captured images were practically unusable.The camera can only shoot videos at up to 720p. The captured videos lack punch and have 
+screen tear issues as well. There is a timelapse mode but it 
+doesn't work too well. The 2-megapixel front camera gets its job done 
+and captures decent selfies considering this is a budget smartphone.(Click for full size)PerformanceIn
+ day-to-day operation, the Lenovo A6000 doesn't present any problems. The UI is smooth and opening multiple apps is a 
+seamless experience. The performance is as good as what we've seen with 
+great budget smartphones such as the Motorola Moto E and the Xiaomi Redmi 
+1S. This is the first time we have benchmarked Qualcomm's budget 
+64-bit Snapdragon 410 SoC. The numbers are only slightly better than those of its predecessor, the Snapdragon 400. This phone scored 20,331 and 11,496 in the AnTuTu and Quadrant benchmarks. In 3DMark Ice Storm and GFXbench, the A6000 notched up 5,259 points and 9.4fps respectively. This 
+indicates that the Adreno 306 GPU is not much more powerful than the Adreno 
+305. We tried playing Asphalt 8 and it ran fine but the graphics had to 
+be toned down for decent performance. The Lenovo A6000 struggled a 
+bit with the playback of our heavily encoded 40mbps 1080p sample video 
+but it played all the other test videos just fine. The speakers emit
+ really loud sound but they don't sound full or open. The Dolby effect does a decent 
+job of adjusting the sound according to the type of media. In any 
+case, the fact that there is a Dolby-branded set of speakers itself is a
+ big deal. The bundled earphones are not the in-ear-kind and are 
+really uncomfortable to use for long periods owing to their awkward fit.  We have no reason to complain about the call quality of the 
+device, which was great. Since 4G is yet to roll out in Mumbai, we couldn't test performance on 4G networks.One area
+ where Lenovo hits a home run is battery life. 
+The A6000 phone lasted 10 hours 12 minutes, which is great. It should easily last a day
+ and half with moderate usage. We faced one minor niggle though - the 
+bundled charger took a long time to charge the phone. VerdictWe
+ believe Lenovo has pulled out all the stops to assemble an impressive 
+budget smartphone. The A6000 succeeds in many aspects and we are 
+particularly pleased with its battery life, Dolby speakers, 
+future-proofing in the form of a 64-bit processor, and support for 4G 
+networks. This is not to say the A6000 is without flaws; the display 
+could have had protective glass and the cameras could 
+have been better. The 
+discontinued Xiaomi Redmi 1S (Review | Pictures), Motorola Moto E (Review | Pictures) and the Huawei Honor Holly (Review | Pictures) are its closest competitors. The recently discounted Asus Zenfone 5 (Review | Pictures) is also a good alternative to consider, especially since Lenovo is selling the A6000 only through flash sales 
+on Flipkart. 
+Lenovo A6000 in pictures
+
+Even
+ before major telecom players such as Reliance Jio and Vodafone roll
+ out their 4G networks on a nation-wide scale, brands including Xiaomi, Micromax (Yu 
+Televentures) and Lenovo are looking to introduce budget 
+4G-enabled smartphones in the Indian market. Looking at the enthusiasm of these 
+companies we can be assured of one thing - at least someone is 
+optimistic that 4G will be adopted rapidly.
+
+China-based 
+Lenovo introduced the 4G-enabled A6000 at CES, Las Vegas, this year and 
+soon after, it introduced the phone in India - the market it probably 
+intended to target in the first place. The Lenovo A6000 is packed with features that are not common to budget smartphones. Moreover, the 
+competition is strong too. Let's find out if Lenovo has managed to bring
+ its A-game with the A6000. 
+
+Look and feelLenovo
+ has decided to play safe with the design of the A6000. The phone has a 
+regular candybar shape that is a staple feature of Android 
+smartphones now. The A6000's utilitarian design is not necessarily a bad
+ thing considering Lenovo has done a good job of creating nice rounded 
+edges and restricting the thickness to 8.2mm. An added advantage is the 
+phone's low weight of 128g, which makes it comfortable for single-handed
+ usage. Our only gripe is with the build quality of the rear cover - it 
+felt flimsy, and it is quite possible that the plastic
+ will give way after prolonged use.
+
+Talking about rear covers, buyers will get the 
+black one by default. Lenovo has promised replaceable rear covers in 
+three different colours - red, yellow and white - which should be 
+available in the near future. The black rear cover has a smooth matte 
+finish which feels good to touch. 
+
+The volume rocker and the power button are on 
+the right edge of the phone. A lone microphone for phone calls sits at 
+the bottom whereas the top houses the Micro-USB port and the 3.5mm audio
+ jack. The front camera and the earpiece are located above the display. 
+Lenovo includes a row of buttons below the screen for navigation through the OS. The rear camera, flash, and microphone for video capture 
+lie on the top right corner of the A6000. Also present on the rear are 
+two speakers with a Dolby logo sandwiched in between them. Removing 
+the rear cover reveals the battery, two slots for Micro-SIM cards, and the microSD card slot. 
+
+The 5-inch IPS LCD screen has a 
+resolution of 720x1280, which is the maximum one can find on budget 
+smartphones. At first glance, the screen does look vibrant but that is 
+mainly due to the colourful Vibe UI Android skin. We noticed that 
+increasing the brightness caused the colours to look slightly washed 
+out, which in turn affected sunlight legibility. The viewing angles 
+are passable. The 294ppi density of the display means images 
+and text look crisp. Lenovo hasn't used protective glass on the
+ display of the A6000 which is a bit of a letdown. Instead, the company 
+provides a screen guard in the box, which is not really a substitute but is better than nothing. Overall, we still think the Redmi 1S has a better 
+screen, but the A6000 comes a close second. 
+
+Specifications and softwareLenovo
+ has packed the latest 64-bit Snapdragon 410 SoC inside the A6000. It 
+is a 1.2GHz quad-core processor with integrated Adreno 306 GPU. The phone has 1GB 
+of RAM and 8GB of internal storage space. In case the 8GB space doesn't 
+suffice, one can add up to 32GB more using a microSD card. 
+
+The 
+A6000 is the lowest-cost phone in India to support 4G networks. The dual-SIM setup works in dual-standby mode. Wi-Fi a/b/g/n and Bluetooth 
+v4.0 round out the connectivity options available on the phone. The 
+primary camera can shoot 8-megapixel stills and the front camera can 
+take 2-megapixel selfies. A 2,300mAh battery provides the juice for the 
+phone.
+
+Lenovo uses its Vibe UI skin on top of Android 4.4.4 
+(KitKat). Vibe UI is similar to skins used by other Chinese 
+manufacturers and one of the major features is the absence of an app 
+drawer. All the icons for apps are lined up on the home screen just like
+ in Apple's iOS. Vibe UI has rather colourful icons and we still think 
+that it looks cartoonish. One can change the theme, but it really 
+doesn't make too much of a difference. 
+
+The homescreen wallpapers 
+can be cycled by swiping left or right on the top of the 
+screen. It works well most of the time but there were occasions when we 
+ended up opening an app instead of changing the wallpaper. The 
+notification shade has a lot of quick settings available for easy 
+access. Lenovo bundles a Dolby app which allows users to play around 
+with the sound settings according to their preference. 
+
+Lenovo's own apps 
+such as SYNCit and SHAREit do a decent job of backing up data to the cloud
+and sharing files with other Lenovo users without worrying about 
+connectivity protocols. Unfortunately, the apps cannot be uninstalled if
+ one has no use for them. There are other third-party apps including Guvera 
+for music streaming, txtr for ebooks, and Facebook, Twitter, WhatsApp, 
+and Skype for social networking needs. Tap the Frog HD, Green
+ Farm 3, Asphalt 8, Real Football 2015 and Spider-Man: Ultimate Power 
+are also preloaded with the phone. All the third-party apps and games 
+can thankfully be uninstalled.
+
+CameraThe camera app looks 
+deceptively minimal in design but a single button hides all the 
+settings. The number of settings available is actually overwhelming, but 
+they are useful. We quite like the app's approach to photo capture and feel that it is unobtrusive. 
+The camera app also allows users to capture a photo in the midst of video 
+recording.
+
+(Click for full size)In our testing, we noticed that images captured by the 
+8-megapixel camera were hit-and-miss. Firstly, it is a slow 
+shooter compared to other budget smartphones we've used. The captured 
+images had a reddish hue to them and in daylight the camera struggled with over-exposure. However, the HDR mode somewhat managed to 
+solve that problem. Noise levels are low but the camera has a 
+problem in outlining shadows accurately. This problem was reflected 
+in our low light shots as well. In low light, the captured images were practically unusable.
+
+The camera can only shoot videos at up to 720p. The captured videos lack punch and have 
+screen tear issues as well. There is a timelapse mode but it 
+doesn't work too well. The 2-megapixel front camera gets its job done 
+and captures decent selfies considering this is a budget smartphone.
+
+(Click for full size)PerformanceIn
+ day-to-day operation, the Lenovo A6000 doesn't present any problems. The UI is smooth and opening multiple apps is a 
+seamless experience. The performance is as good as what we've seen with 
+great budget smartphones such as the Motorola Moto E and the Xiaomi Redmi 
+1S. 
+
+This is the first time we have benchmarked Qualcomm's budget 
+64-bit Snapdragon 410 SoC. The numbers are only slightly better than those of its predecessor, the Snapdragon 400. This phone scored 20,331 and 11,496 in the AnTuTu and Quadrant benchmarks. In 3DMark Ice Storm and GFXbench, the A6000 notched up 5,259 points and 9.4fps respectively. This 
+indicates that the Adreno 306 GPU is not much more powerful than the Adreno 
+305. We tried playing Asphalt 8 and it ran fine but the graphics had to 
+be toned down for decent performance. 
+
+The Lenovo A6000 struggled a 
+bit with the playback of our heavily encoded 40mbps 1080p sample video 
+but it played all the other test videos just fine. The speakers emit
+ really loud sound but they don't sound full or open. The Dolby effect does a decent 
+job of adjusting the sound according to the type of media. In any 
+case, the fact that there is a Dolby-branded set of speakers itself is a
+ big deal. The bundled earphones are not the in-ear-kind and are 
+really uncomfortable to use for long periods owing to their awkward fit. 
+
+ We have no reason to complain about the call quality of the 
+device, which was great. Since 4G is yet to roll out in Mumbai, we couldn't test performance on 4G networks.
+
+One area
+ where Lenovo hits a home run is battery life. 
+The A6000 phone lasted 10 hours 12 minutes, which is great. It should easily last a day
+ and half with moderate usage. We faced one minor niggle though - the 
+bundled charger took a long time to charge the phone. 
+
+VerdictWe
+ believe Lenovo has pulled out all the stops to assemble an impressive 
+budget smartphone. The A6000 succeeds in many aspects and we are 
+particularly pleased with its battery life, Dolby speakers, 
+future-proofing in the form of a 64-bit processor, and support for 4G 
+networks. This is not to say the A6000 is without flaws; the display 
+could have had protective glass and the cameras could 
+have been better. The 
+discontinued Xiaomi Redmi 1S (Review | Pictures), Motorola Moto E (Review | Pictures) and the Huawei Honor Holly (Review | Pictures) are its closest competitors. The recently discounted Asus Zenfone 5 (Review | Pictures) is also a good alternative to consider, especially since Lenovo is selling the A6000 only through flash sales 
+on Flipkart. 
+

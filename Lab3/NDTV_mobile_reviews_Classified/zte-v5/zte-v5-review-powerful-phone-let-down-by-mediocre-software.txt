@@ -1,0 +1,247 @@
+ZTE V5 Review: Powerful Phone Let Down by Mediocre Software
+
+All
+ smartphone manufacturers seem to be concentrating their efforts on the 
+burgeoning Indian market. Joining the fray are a flurry of Chinese 
+smartphone manufacturers including Gionee, Oppo and Xiaomi. ZTE 
+is trying to turn the spotlight to itself with the ZTE V5, a smartphone 
+priced directly against the formidable Moto G (Gen 2) (Review | Pictures). The ZTE V5 has 
+slightly better specifications when compared to its opponent, with a 
+13-megapixel rear camera and 5-megapixel front-facing camera. ZTE's 
+phone runs Android 4.4.2 KitKat but there is a custom skin on top of it 
+called Nubia v2.5.1, which we haven't seen before. Let's see how the ZTE V5 spices things up with this premise.  Look and feelIn
+ this day and age when smartphone manufacturers are clamouring to make 
+the thinnest and lightest smartphone, the ZTE V5 feels like an anomaly. 
+At 165g and 8.9mm thick, the phone is definitely chunky. This is not 
+necessarily a bad thing since holding it is reassuring and the build 
+quality of the phone is actually pretty good. The two-tone black and 
+white exterior looks sedate, but once the rear cover is popped open, you
+ can see that the ZTE V5 has a bright blue interior.This blue 
+theme extends to the backlight of the capacitive navigation buttons 
+which are located below the 5-inch screen. The home button is a hollow 
+circle, while the back and menu buttons are just dots. This setup is 
+similar to the Xolo Win Q900s (Review) phone we reviewed recently. In Xolo's 
+case, the buttons are designed this way so that either Android or WP8.1 
+can be shipped on the same hardware. We think that it is a confusing 
+setup, which ZTE could have avoided.Above the display, there is 
+the front-facing camera and the earpiece. There is a thick bezel 
+surrounding the screen. On the right is the power/wake button, which is 
+easily accessible, and the volume rocker is on the left. Both these 
+hardware buttons have good travel. The primary camera on the rear juts 
+out slightly. The lower half of the rear has two grilles which house the
+ loudspeaker.Specifications and softwareJust like the Moto
+ G (Gen 2), the ZTE V5 has a Qualcomm Snapdragon 400 SoC under the hood.
+ The quad-core processor is clocked at 1.2GHz and there is an integrated
+ Adreno 305 GPU. There is 1GB of RAM and 4GB of internal storage space. 
+The internal storage can be further expanded by up to 32GB using a 
+microSD card.The primary 13-megapixel camera has a Sony Exmor RS 
+sensor, and an LED flash for low-light situations. There is also a 
+5-megapixel front-facing camera. To provide the power for running the 
+phone ZTE uses a 2400mAh battery. It can connect to the 
+850/900/1800/1900/2100MHz frequency bands. There is Wi-Fi and Bluetooth 
+version 4.0 for wireless connectivity options. The 5-inch screen 
+has a display resolution of 720x1280 which translates to a pixel density
+ of 294ppi. It is a nice, rich display with vibrant colours. The viewing
+ angles are pretty good as the screen doesn't wash out. However, since 
+the screen is extremely reflective sunlight legibility takes a hit. The 
+OGS display has Dragontrail glass for protection. While the ZTE 
+V5 runs Android 4.4.2, the company has added its Nubia v2.5.1 skin on 
+top of it. The problem with this skin is that it is laden with 
+animations, which slow down the device considerably during daily use. 
+Moreover, there are a few inconsistencies such as spelling errors that 
+can be seen in some places. Most important of all, there is no multitasking option whatsoever, which we believe is a blunder by the developers.  There
+ is no app drawer and all the icons are stacked on the homescreen 
+itself. While a few icons are rounded, most of the others are square. 
+It's not all bad; we liked the fact that all the quick settings toggles 
+are on the bottom of the notification shade, making them very convenient
+ to use. For the purpose of reviews, we capture a lot of screenshots but
+ with the ZTE V5 we just couldn't do it with the default power+volume 
+down button combination.  Later we noticed that a certain 'capture' 
+quick setting toggle was turned off by default. This is a totally weird 
+thing to do and we have no clue why the developers might have thought 
+this was a good idea. On the other hand, long-pressing the back button 
+brings up the option to draw any shape on screen to capture a screenshot
+ of that area. Coming to the apps, the stock music player took us
+ back to the days of using the music player on Nokia phones since it 
+scanned the device to add music to the library. Preloaded apps include 
+Snapdeal, Screen Projector and My File. CameraThe camera 
+app has also been overhauled completely. The circular buttons on-screen 
+are superimposed on top of the viewfinder area. There are three primary 
+modes: Auto, Fun and Pro. In auto mode, the user can only change the HDR
+ toggle. The filters are present in the fun mode whereas the Pro mode 
+adds a ton of controls.  However, some of the options in Fun mode, such 
+as Alpha, Background and Combination are plain useless because getting 
+good shots is next to impossible. All three modes demand the use of a 
+tripod.(Click for full size)Thanks to the Sony Exmor RS sensor, the 13-megapixel 
+primary camera captures really good details with noise levels kept to a 
+minimum. These images have warm, natural colours provided they are 
+captured from a distance. The lens cannot easily focus on subjects close
+ to the camera, and as a result we ended up with an out-of-focus subject
+ more often than not. In low-light conditions though, the camera is not 
+that great and that was a bit of a disappointment for us. The 
+5-megapixel front-facing camera takes soft-focussed images and smoothens
+ out most of the details which results in a water-colour effect. The 
+captured 1080p video looked good with details mostly intact but the 
+exposure was off for most part and so our recorded clips looked very 
+dim.PerformanceThe software is the culprit with respect to
+ the V5's sluggish daily performance. Moving through the screens, 
+opening web pages and apps are all exercises in frustration. In general,
+ we faced slowdowns and a couple of times even the launcher force closed
+ on us. The numbers are a different story, however.In our 
+GFXbench test the phone managed to score 10.6fps and in 3DMark Ice Storm
+ Extreme it scored 5,545. In our CPU tests AnTuTu and Quadrant, the ZTE 
+V5 managed to score 16,549 and 8,433 respectively. The in-built video 
+player managed to play all our full-HD videos without any problem, even 
+the most heavily encoded 40mbps one. The loudspeaker is 
+adequately loud but at high volume the sound distorts. The phone has SRS
+ TruSurround HD which enhances the music listening experience slightly. 
+The bundled earphones are serviceable. The quality of sound during calls
+ was good and we didn't face any drop in network where there was 
+congestion.In our battery life test, the phone lasted us 11 hours
+ and 42 minutes which is really, really good. This sort of battery 
+performance indicates that users should be able to squeeze in a day and 
+half worth of usage.VerdictThe ZTE V5 is available 
+exclusively on Snapdeal for Rs. 10,999 and this undercuts the price of 
+the Moto G (Gen 2) by Rs. 2,000. However, the middling software 
+performance is a big letdown for the phone and other options such as the
+ Asus Zenfone 5 (Review | Pictures) and Lumia 630 (Review | Pictures) look better in comparison. Buy this phone 
+only if you want great battery life and a decent camera, and do not 
+really care about slowdowns during daily usage.  
+ZTE V5 in pictures
+
+
+All
+ smartphone manufacturers seem to be concentrating their efforts on the 
+burgeoning Indian market. Joining the fray are a flurry of Chinese 
+smartphone manufacturers including Gionee, Oppo and Xiaomi. 
+
+ZTE 
+is trying to turn the spotlight to itself with the ZTE V5, a smartphone 
+priced directly against the formidable Moto G (Gen 2) (Review | Pictures). The ZTE V5 has 
+slightly better specifications when compared to its opponent, with a 
+13-megapixel rear camera and 5-megapixel front-facing camera. ZTE's 
+phone runs Android 4.4.2 KitKat but there is a custom skin on top of it 
+called Nubia v2.5.1, which we haven't seen before. 
+
+Let's see how the ZTE V5 spices things up with this premise.  
+
+Look and feelIn
+ this day and age when smartphone manufacturers are clamouring to make 
+the thinnest and lightest smartphone, the ZTE V5 feels like an anomaly. 
+At 165g and 8.9mm thick, the phone is definitely chunky. This is not 
+necessarily a bad thing since holding it is reassuring and the build 
+quality of the phone is actually pretty good. The two-tone black and 
+white exterior looks sedate, but once the rear cover is popped open, you
+ can see that the ZTE V5 has a bright blue interior.
+
+This blue 
+theme extends to the backlight of the capacitive navigation buttons 
+which are located below the 5-inch screen. The home button is a hollow 
+circle, while the back and menu buttons are just dots. This setup is 
+similar to the Xolo Win Q900s (Review) phone we reviewed recently. In Xolo's 
+case, the buttons are designed this way so that either Android or WP8.1 
+can be shipped on the same hardware. We think that it is a confusing 
+setup, which ZTE could have avoided.
+
+Above the display, there is 
+the front-facing camera and the earpiece. There is a thick bezel 
+surrounding the screen. On the right is the power/wake button, which is 
+easily accessible, and the volume rocker is on the left. Both these 
+hardware buttons have good travel. The primary camera on the rear juts 
+out slightly. The lower half of the rear has two grilles which house the
+ loudspeaker.
+
+Specifications and softwareJust like the Moto
+ G (Gen 2), the ZTE V5 has a Qualcomm Snapdragon 400 SoC under the hood.
+ The quad-core processor is clocked at 1.2GHz and there is an integrated
+ Adreno 305 GPU. There is 1GB of RAM and 4GB of internal storage space. 
+The internal storage can be further expanded by up to 32GB using a 
+microSD card.
+
+The primary 13-megapixel camera has a Sony Exmor RS 
+sensor, and an LED flash for low-light situations. There is also a 
+5-megapixel front-facing camera. To provide the power for running the 
+phone ZTE uses a 2400mAh battery. It can connect to the 
+850/900/1800/1900/2100MHz frequency bands. There is Wi-Fi and Bluetooth 
+version 4.0 for wireless connectivity options. 
+
+The 5-inch screen 
+has a display resolution of 720x1280 which translates to a pixel density
+ of 294ppi. It is a nice, rich display with vibrant colours. The viewing
+ angles are pretty good as the screen doesn't wash out. However, since 
+the screen is extremely reflective sunlight legibility takes a hit. The 
+OGS display has Dragontrail glass for protection. 
+
+While the ZTE 
+V5 runs Android 4.4.2, the company has added its Nubia v2.5.1 skin on 
+top of it. The problem with this skin is that it is laden with 
+animations, which slow down the device considerably during daily use. 
+Moreover, there are a few inconsistencies such as spelling errors that 
+can be seen in some places. 
+
+Most important of all, there is no multitasking option whatsoever, which we believe is a blunder by the developers.  
+
+There
+ is no app drawer and all the icons are stacked on the homescreen 
+itself. While a few icons are rounded, most of the others are square. 
+It's not all bad; we liked the fact that all the quick settings toggles 
+are on the bottom of the notification shade, making them very convenient
+ to use. For the purpose of reviews, we capture a lot of screenshots but
+ with the ZTE V5 we just couldn't do it with the default power+volume 
+down button combination.  Later we noticed that a certain 'capture' 
+quick setting toggle was turned off by default. This is a totally weird 
+thing to do and we have no clue why the developers might have thought 
+this was a good idea. On the other hand, long-pressing the back button 
+brings up the option to draw any shape on screen to capture a screenshot
+ of that area. 
+
+Coming to the apps, the stock music player took us
+ back to the days of using the music player on Nokia phones since it 
+scanned the device to add music to the library. Preloaded apps include 
+Snapdeal, Screen Projector and My File. 
+
+CameraThe camera 
+app has also been overhauled completely. The circular buttons on-screen 
+are superimposed on top of the viewfinder area. There are three primary 
+modes: Auto, Fun and Pro. In auto mode, the user can only change the HDR
+ toggle. The filters are present in the fun mode whereas the Pro mode 
+adds a ton of controls.  However, some of the options in Fun mode, such 
+as Alpha, Background and Combination are plain useless because getting 
+good shots is next to impossible. All three modes demand the use of a 
+tripod.
+
+
+
+PerformanceThe software is the culprit with respect to
+ the V5's sluggish daily performance. Moving through the screens, 
+opening web pages and apps are all exercises in frustration. In general,
+ we faced slowdowns and a couple of times even the launcher force closed
+ on us. The numbers are a different story, however.
+
+In our 
+GFXbench test the phone managed to score 10.6fps and in 3DMark Ice Storm
+ Extreme it scored 5,545. In our CPU tests AnTuTu and Quadrant, the ZTE 
+V5 managed to score 16,549 and 8,433 respectively. The in-built video 
+player managed to play all our full-HD videos without any problem, even 
+the most heavily encoded 40mbps one. 
+
+The loudspeaker is 
+adequately loud but at high volume the sound distorts. The phone has SRS
+ TruSurround HD which enhances the music listening experience slightly. 
+The bundled earphones are serviceable. The quality of sound during calls
+ was good and we didn't face any drop in network where there was 
+congestion.
+
+In our battery life test, the phone lasted us 11 hours
+ and 42 minutes which is really, really good. This sort of battery 
+performance indicates that users should be able to squeeze in a day and 
+half worth of usage.
+
+VerdictThe ZTE V5 is available 
+exclusively on Snapdeal for Rs. 10,999 and this undercuts the price of 
+the Moto G (Gen 2) by Rs. 2,000. However, the middling software 
+performance is a big letdown for the phone and other options such as the
+ Asus Zenfone 5 (Review | Pictures) and Lumia 630 (Review | Pictures) look better in comparison. Buy this phone 
+only if you want great battery life and a decent camera, and do not 
+really care about slowdowns during daily usage.  
+

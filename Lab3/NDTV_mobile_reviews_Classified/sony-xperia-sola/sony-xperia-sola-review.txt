@@ -1,0 +1,296 @@
+Sony Xperia sola review
+
+Sony Ericsson released some nice mid-range Android smartphones last year
+ in the form of Xperia neo, Xperia Ray and neo V and now Sony (sans 
+Ericsson) is trying to achieve the same this year.The Japanese 
+manufacturer launched three mid-range devices this year at Mobile World 
+Congress to cater to almost every consumer in the price-segment.Sony
+ Xperia sola is one of the three devices to be launched in India 
+recently. Priced at Rs 20,449, it brings 1GHz dual-core processor, 
+3.7-inch Floating Touch display (more on this later), 5MP camera and 
+Android 2.3 to the table, but is this enough to make the consumers go 
+for it over the competition in the market? We will find out in this 
+review.HardwareSony has followed a fixed design style for 
+all of its 2012 smartphone launches apart from Xperia sola, which offers
+ a distinct basic design that might not win design awards but is pretty 
+decent.There is no transparent bar or curved back, but Xperia 
+sola comes with an all square design. Another differentiating factor is 
+the thin bottom, which is a change from Xperia NXT series, but doesn't 
+really add anything and is more of a design decision from the company.For
+ those, who don't like huge smartphones and prefer the pocketable ones, 
+Xperia sola is perfect. It offers 3.7-inch display, which is in no way 
+small, a sufficiently thin body at 9.9mm and weighs just 107 grams.Overall,
+ Sony Xperia sola features a plastic body with soft touch finish applied
+ to the better cover. The phone feels nice in hand and gives the premium
+ feel.Talking about the hardware specifications, Xperia sola has a
+ trio of capacitive buttons located below the display, and they work 
+fine. There is a volume rocker, two-stage dedicated camera and Micro-USB
+ port on the right and the power button on the left. The top and bottom 
+are pretty much clean apart from the 3.5mm audio jack on the top. All
+ buttons are usable and offer no issues apart from two-stage dedicated 
+camera button, which required more than normal effort to click an image.
+ The back of the smartphone houses a 5MP camera, LED flash, 
+Xperia branding and speaker. Remove the battery cover and consumers will
+ find the microSD card and SIM card slots. The battery is not 
+users-replaceable, which might be a bit of let down for some.DisplaySony
+ has gone for a 3.7-inch display for Xperia sola with 854x480p 
+resolution. The display size is perfect for basic web-browsing, playing 
+casual games and other daily chores, but multimedia junkies and heavy 
+gamers might find it a little small for their taste.Xperia sola 
+comes with a decent PPI count, thus you will hardly notice any 
+individual pixels. The colour reproduction is fine, but white and black 
+colours are a little dull.  The smartphone also offers decent viewing 
+angles and visibility under sunlight.CameraAs we've come 
+to expect from Sony smartphones, the Xperia sola's 5MP camera performs 
+quite well.  Thanks to the dedicated camera button, you don't even have 
+to unlock the device to click an image.While the outdoor and 
+indoor shots with proper lighting taken with the smartphone's camera 
+lived up to our expectations, we were disappointed with the shots taken 
+using the smartphone's built-in flash. The shots were washed out and had
+ a white layer on them.Another downside for the smartphone is the
+ missing front camera. Secondary camera has increasingly become a 
+standard for smartphones and even the entry-level models have started 
+coming with one, and we are not sure why Sony has decided to give it a 
+miss in Xperia sola.The smartphone camera supports up to 720p video recording and the results were fairly decent. The
+ camera app on the smartphone isn't very comprehensive but gives decent 
+number of options to play around. You can choose scene, white balance, 
+exposure value, ISO, Metering or the focus mode.Software/ InterfaceSony
+ is shipping Xperia sola with Gingerbread on-board, which isn't 
+surprising because company is yet to release an Ice Cream Sandwich (ICS)
+ smartphone. Company has also included its custom interface on top of 
+the Android 2.3, similar to other 2012 Sony launches; it is minimal and 
+does not hog much processing power.The interface is beautiful with subtle animations and effects. The
+ smartphone also comes with ability to create folders and take 
+screenshots, both of which were introduced in Ice Cream Sandwich 
+release, giving you some respite before the actual update reaches the 
+smartphone.In terms of the pre-loaded apps, company has included 
+Timescape, which is like a hub of your social network feeds, along with 
+TrackID, Timer, Stop Watch, Recommender, World Clock, WisePilot, Neo 
+Reader, and Office Suite apps. Most of the pre-loaded apps actually add 
+value to the consumer experience.Floating TouchXperia sola
+ is the first smartphone to come with Sony's all new Floating Touch 
+technology, which allows you to browse the web by hovering your finger 
+above the screen so it acts like a moving curser, without actually 
+having to touch the display. Floating Touch works as advertised but 
+there is hardly any actual usability of the feature right now. However, 
+the company plans release its API to developers and we can anticipate 
+some cool uses of Floating Touch after that.Performance/ Battery LifeIn
+ the world of smartphones filled with Qualcomm and NVIDIA chips, Sony 
+Xperia sola runs on ST-Ericsson NovaThor U8500 dual-core processor. 
+Don't worry, it performs quite well, and we did not experience any 
+hiccups during our time with the smartphone.The dual-core 
+processor ensures smooth functioning of the phone and there is no lag in
+ switching homescreens, multitasking or even playing casual games.Games like Temple Run, BackStab, Deer Hunter Pro ran without any problems.On
+ the connectivity front, Xperia sola includes Wi-Fi, Bluetooth, NFC, and
+ DLNA. Both Wi-Fi and Bluetooth work as expected, but NFC isn't much use
+ right now apart from when you try Smart Tags from the company. The NFC 
+functionality should be improved after the ICS update.  The call quality
+ is decent and so is the network reception.In terms of the 
+multimedia usage, the smartphone played 720p videos flawlessly, however 
+stock player wasn't so great with 1080p videos.  It also includes a 
+fancy music player on-board, which worked quite nicely and when clubbed 
+with the xLoud feature gave decent audio output.After the 
+pricing, battery life is increasingly becoming a key deciding factor in 
+smartphone purchases, and traditionally Androids are not the champions 
+in the category. Xperia sola includes a 1,320mAh battery, which is 
+non-user-removable.The battery backup is just ok and we would 
+have surely liked a bigger battery. Moderate users will able to get 
+through the day without charging, but heavy users won't be so lucky.VerdictSony
+ had some nice mid-rangers last year and Xperia sola isn't different. 
+The Japanese manufacturer has continued to impress us with a stable and 
+value for money Xperia sola. However, it is important to point out that 
+absence of ICS and front camera surely goes against the smartphone. An 
+Xperia sola with pre-loaded ICS and front camera would have been a 
+no-brainer.If you want Android 4.0 today, you might want to look 
+at HTC One V, which although misses the dual-core power but offers better
+ camera and ICS at a slightly less price. To check out more images of Xperia sola, visit our picture gallery.Price: Rs. 20,499ProsDecent performanceSolid buildDual-core processorConsNo front cameraNo Ice Cream SandwichRatings (Out of 5)Design: 3.5Display: 3.5Camera: 3Performance: 3.5Software: 3Battery Life: 3Value for Money: 3.5Ecosystem: 4Overall: 3.5 
+
+The Japanese 
+manufacturer launched three mid-range devices this year at Mobile World 
+Congress to cater to almost every consumer in the price-segment.
+
+Sony
+ Xperia sola is one of the three devices to be launched in India 
+recently. Priced at Rs 20,449, it brings 1GHz dual-core processor, 
+3.7-inch Floating Touch display (more on this later), 5MP camera and 
+Android 2.3 to the table, but is this enough to make the consumers go 
+for it over the competition in the market? We will find out in this 
+review.
+
+HardwareSony has followed a fixed design style for 
+all of its 2012 smartphone launches apart from Xperia sola, which offers
+ a distinct basic design that might not win design awards but is pretty 
+decent.
+
+There is no transparent bar or curved back, but Xperia 
+sola comes with an all square design. Another differentiating factor is 
+the thin bottom, which is a change from Xperia NXT series, but doesn't 
+really add anything and is more of a design decision from the company.
+
+For
+ those, who don't like huge smartphones and prefer the pocketable ones, 
+Xperia sola is perfect. It offers 3.7-inch display, which is in no way 
+small, a sufficiently thin body at 9.9mm and weighs just 107 grams.
+
+Overall,
+ Sony Xperia sola features a plastic body with soft touch finish applied
+ to the better cover. The phone feels nice in hand and gives the premium
+ feel.
+
+Talking about the hardware specifications, Xperia sola has a
+ trio of capacitive buttons located below the display, and they work 
+fine. There is a volume rocker, two-stage dedicated camera and Micro-USB
+ port on the right and the power button on the left. The top and bottom 
+are pretty much clean apart from the 3.5mm audio jack on the top. 
+
+All
+ buttons are usable and offer no issues apart from two-stage dedicated 
+camera button, which required more than normal effort to click an image.
+ 
+
+The back of the smartphone houses a 5MP camera, LED flash, 
+Xperia branding and speaker. Remove the battery cover and consumers will
+ find the microSD card and SIM card slots. The battery is not 
+users-replaceable, which might be a bit of let down for some.
+
+DisplaySony
+ has gone for a 3.7-inch display for Xperia sola with 854x480p 
+resolution. The display size is perfect for basic web-browsing, playing 
+casual games and other daily chores, but multimedia junkies and heavy 
+gamers might find it a little small for their taste.
+
+Xperia sola 
+comes with a decent PPI count, thus you will hardly notice any 
+individual pixels. The colour reproduction is fine, but white and black 
+colours are a little dull.  The smartphone also offers decent viewing 
+angles and visibility under sunlight.
+
+CameraAs we've come 
+to expect from Sony smartphones, the Xperia sola's 5MP camera performs 
+quite well.  Thanks to the dedicated camera button, you don't even have 
+to unlock the device to click an image.
+
+While the outdoor and 
+indoor shots with proper lighting taken with the smartphone's camera 
+lived up to our expectations, we were disappointed with the shots taken 
+using the smartphone's built-in flash. The shots were washed out and had
+ a white layer on them.
+
+Another downside for the smartphone is the
+ missing front camera. Secondary camera has increasingly become a 
+standard for smartphones and even the entry-level models have started 
+coming with one, and we are not sure why Sony has decided to give it a 
+miss in Xperia sola.
+
+The smartphone camera supports up to 720p video recording and the results were fairly decent. 
+
+The
+ camera app on the smartphone isn't very comprehensive but gives decent 
+number of options to play around. You can choose scene, white balance, 
+exposure value, ISO, Metering or the focus mode.
+
+Software/ InterfaceSony
+ is shipping Xperia sola with Gingerbread on-board, which isn't 
+surprising because company is yet to release an Ice Cream Sandwich (ICS)
+ smartphone. Company has also included its custom interface on top of 
+the Android 2.3, similar to other 2012 Sony launches; it is minimal and 
+does not hog much processing power.
+
+The interface is beautiful with subtle animations and effects. 
+
+The
+ smartphone also comes with ability to create folders and take 
+screenshots, both of which were introduced in Ice Cream Sandwich 
+release, giving you some respite before the actual update reaches the 
+smartphone.
+
+In terms of the pre-loaded apps, company has included 
+Timescape, which is like a hub of your social network feeds, along with 
+TrackID, Timer, Stop Watch, Recommender, World Clock, WisePilot, Neo 
+Reader, and Office Suite apps. Most of the pre-loaded apps actually add 
+value to the consumer experience.
+
+Floating TouchXperia sola
+ is the first smartphone to come with Sony's all new Floating Touch 
+technology, which allows you to browse the web by hovering your finger 
+above the screen so it acts like a moving curser, without actually 
+having to touch the display. Floating Touch works as advertised but 
+there is hardly any actual usability of the feature right now. However, 
+the company plans release its API to developers and we can anticipate 
+some cool uses of Floating Touch after that.
+
+Performance/ Battery LifeIn
+ the world of smartphones filled with Qualcomm and NVIDIA chips, Sony 
+Xperia sola runs on ST-Ericsson NovaThor U8500 dual-core processor. 
+Don't worry, it performs quite well, and we did not experience any 
+hiccups during our time with the smartphone.
+
+The dual-core 
+processor ensures smooth functioning of the phone and there is no lag in
+ switching homescreens, multitasking or even playing casual games.
+
+Games like Temple Run, BackStab, Deer Hunter Pro ran without any problems.
+
+On
+ the connectivity front, Xperia sola includes Wi-Fi, Bluetooth, NFC, and
+ DLNA. Both Wi-Fi and Bluetooth work as expected, but NFC isn't much use
+ right now apart from when you try Smart Tags from the company. The NFC 
+functionality should be improved after the ICS update.  The call quality
+ is decent and so is the network reception.
+
+In terms of the 
+multimedia usage, the smartphone played 720p videos flawlessly, however 
+stock player wasn't so great with 1080p videos.  It also includes a 
+fancy music player on-board, which worked quite nicely and when clubbed 
+with the xLoud feature gave decent audio output.
+
+After the 
+pricing, battery life is increasingly becoming a key deciding factor in 
+smartphone purchases, and traditionally Androids are not the champions 
+in the category. Xperia sola includes a 1,320mAh battery, which is 
+non-user-removable.
+
+The battery backup is just ok and we would 
+have surely liked a bigger battery. Moderate users will able to get 
+through the day without charging, but heavy users won't be so lucky.
+
+VerdictSony
+ had some nice mid-rangers last year and Xperia sola isn't different. 
+The Japanese manufacturer has continued to impress us with a stable and 
+value for money Xperia sola. However, it is important to point out that 
+absence of ICS and front camera surely goes against the smartphone. An 
+Xperia sola with pre-loaded ICS and front camera would have been a 
+no-brainer.
+
+If you want Android 4.0 today, you might want to look 
+at HTC One V, which although misses the dual-core power but offers better
+ camera and ICS at a slightly less price. 
+
+To check out more images of Xperia sola, visit our picture gallery.
+
+Price: Rs. 20,499
+
+Pros
+
+Cons
+
+Ratings (Out of 5)
+
+Design: 3.5
+
+Display: 3.5
+
+Camera: 3
+
+Performance: 3.5
+
+Software: 3
+
+Battery Life: 3
+
+Value for Money: 3.5
+
+Ecosystem: 4
+
+Overall: 3.5
+

@@ -1,0 +1,177 @@
+Pebble v2.0 and App Store: First impressions
+
+Pebble has finally released version 2.0 of its smartwatch app, firmware 
+and development framework. The tiny company, which rose to prominence 
+following a record-setting Kickstarter campaign, has been testing its 
+v2.0 framework for several months. The release makes it possible for 
+developers to create more powerful and versatile watch apps. For Pebble 
+users, the refreshed iPhone app includes a new Pebble App Store, which 
+gives them a simple, cohesive way to discover and install new watch apps
+ and faces. The update applies to the original Pebble as well as to the 
+recently launched Pebble Steel.The update is fairly straightforward: 
+iPhone users can simply update their Pebble apps via the App Store 
+(sorry Android users, you'll have to wait a little while). The app will 
+communicate with your Pebble watch via Bluetooth and update its 
+firmware. Your existing watch apps and faces will also be updated 
+automatically if the Pebble app recognises them, and you'll be warned 
+that incompatible ones won't be available anymore.At this point 
+you'll have to sign in or create a new account. If you're a member of 
+the Pebble forums, the same account will work. You'll be prompted to 
+enable notifications and allow GPS positioning. For new users, there's 
+also a walkthrough of making sure that Notification Center is set up to 
+allow your Pebble to receive alerts. Finally, you'll see a screen 
+offering you a few new apps, and then you're done with the setup 
+process!Immediately, you'll see that the Pebble app has been 
+completely redesigned. It's a massive improvement over the old one. Gone
+ is the odd navigation scheme with panels to the left, right and bottom 
+of the home screen. Instead, there's a slick new front page that tells 
+you how many of your eight app slots are occupied, and a "locker" area 
+that lets you store additional apps for later retrieval.This 
+fixes a huge shortcoming of the Pebble v1.0-series software. You could 
+either have apps on the watch, or not at all. You needed a third-party 
+tool to help you store apps temporarily. All that's in the past now, and
+ you can swap apps in and out of the eight slots at will. If all eight 
+are full, any new apps you try to download will be sent to the locker.This
+ is also where you can configure each watch app or face's individual 
+settings. In version 2.0, app developers can account for all kinds of 
+variables such as animation, vibration, text translations and 
+international date/time formats. Developers used to have to offer 
+multiple versions of their apps if they wanted to allow such 
+customizations, but now all these things can be configured on the phone.
+ In essence, your phone will generate the app on the fly with the 
+variables you select, and send it to your Pebble. Changing settings 
+later will mean you've actually swapped the app out for a fresh one, but
+ this is completely transparent to end users.Giving users control
+ like this means that new kinds of apps can be developed. Pebble Cards, 
+for instance, is one such app that uses half the Pebble's screen as a 
+regular watch and the other half as space for a series of "cards" for 
+things such as weather updates, traffic alerts, stock tickers, RSS 
+feeds, or just plain text. It isn't exactly user friendly yet; for 
+example setting up a card for a world clock involves manually typing in 
+the city name and selecting a GMT offset. You can't simply select 
+locations from a list.One particular watch face called Timely, 
+which lets users display the Pebble's battery and Bluetooth status along
+ with a customisable calendar, includes a simple message to users on its
+ Settings page: "This will improve, form follows function".The App StoreOf
+ course, the main appeal of v2.0 to users is the App Store. While it was
+ possible to find watch apps and faces through various websites, forums 
+and third-party apps, there was never a central place for users, 
+especially non-tech-savvy ones, to find them. Now, the Pebble app's menu
+ has two very important new sections: Get Watchfaces and Get Apps.The
+ Watchfaces section is fairly simple in its layout. With only a handful 
+of options available, there is no need for multiple categories. A large 
+space at the top highlights a few interesting options, and below that 
+there are subheadings for All, Most Loved, and Pebble Picks. Some of the
+ faces are elaborate affairs with animations and unique layouts, while 
+others are simple digital clocks with static background images. We hope 
+that Pebble takes more of a curatorial approach in the future.On 
+the other hand, the Apps section is broken down into six categories: 
+Daily, Tools and Utilities, Notifications, Remotes, Fitness, and Games. 
+Each category is fairly well populated and there's an indication if a 
+companion phone app is necessary. You'll find everything from social 
+network companions to Bluetooth controllers, reminders and public 
+transport vehicle trackers. As of now, all the apps listed in the Pebble
+ store are free. If Pebble wants to sell anything through its app, it's 
+going to have to pay Apple 30 percent of all transactions, so we'll see 
+whether they choose to go down that road at all.Of course, 
+there's more to come. Pebble's new SDK allows the creation of apps that 
+can process JavaScript, access the accelerometer, store settings 
+persistently, and communicate with Web services via the phone's Internet
+ connection. We're sure to see a flood of new apps in the very near 
+future.
+Pebble is on a high after its recent launch of the Pebble Steel, a sleeker, more professional looking version of last year's Pebble. Now with the app store in place, it has what it needs to attract a mainstream consumer base. The competition for wearable technology is heating up, and Pebble is doing everything it can to strengthen its position while industry giants like Samsung and Sony are still finding their feet.
+
+The update is fairly straightforward: 
+iPhone users can simply update their Pebble apps via the App Store 
+(sorry Android users, you'll have to wait a little while). The app will 
+communicate with your Pebble watch via Bluetooth and update its 
+firmware. Your existing watch apps and faces will also be updated 
+automatically if the Pebble app recognises them, and you'll be warned 
+that incompatible ones won't be available anymore.
+
+At this point 
+you'll have to sign in or create a new account. If you're a member of 
+the Pebble forums, the same account will work. You'll be prompted to 
+enable notifications and allow GPS positioning. For new users, there's 
+also a walkthrough of making sure that Notification Center is set up to 
+allow your Pebble to receive alerts. Finally, you'll see a screen 
+offering you a few new apps, and then you're done with the setup 
+process!
+
+Immediately, you'll see that the Pebble app has been 
+completely redesigned. It's a massive improvement over the old one. Gone
+ is the odd navigation scheme with panels to the left, right and bottom 
+of the home screen. Instead, there's a slick new front page that tells 
+you how many of your eight app slots are occupied, and a "locker" area 
+that lets you store additional apps for later retrieval.
+
+This 
+fixes a huge shortcoming of the Pebble v1.0-series software. You could 
+either have apps on the watch, or not at all. You needed a third-party 
+tool to help you store apps temporarily. All that's in the past now, and
+ you can swap apps in and out of the eight slots at will. If all eight 
+are full, any new apps you try to download will be sent to the locker.
+
+This
+ is also where you can configure each watch app or face's individual 
+settings. In version 2.0, app developers can account for all kinds of 
+variables such as animation, vibration, text translations and 
+international date/time formats. Developers used to have to offer 
+multiple versions of their apps if they wanted to allow such 
+customizations, but now all these things can be configured on the phone.
+ In essence, your phone will generate the app on the fly with the 
+variables you select, and send it to your Pebble. Changing settings 
+later will mean you've actually swapped the app out for a fresh one, but
+ this is completely transparent to end users.
+
+Giving users control
+ like this means that new kinds of apps can be developed. Pebble Cards, 
+for instance, is one such app that uses half the Pebble's screen as a 
+regular watch and the other half as space for a series of "cards" for 
+things such as weather updates, traffic alerts, stock tickers, RSS 
+feeds, or just plain text. It isn't exactly user friendly yet; for 
+example setting up a card for a world clock involves manually typing in 
+the city name and selecting a GMT offset. You can't simply select 
+locations from a list.
+
+One particular watch face called Timely, 
+which lets users display the Pebble's battery and Bluetooth status along
+ with a customisable calendar, includes a simple message to users on its
+ Settings page: "This will improve, form follows function".
+
+The App StoreOf
+ course, the main appeal of v2.0 to users is the App Store. While it was
+ possible to find watch apps and faces through various websites, forums 
+and third-party apps, there was never a central place for users, 
+especially non-tech-savvy ones, to find them. Now, the Pebble app's menu
+ has two very important new sections: Get Watchfaces and Get Apps.
+
+The
+ Watchfaces section is fairly simple in its layout. With only a handful 
+of options available, there is no need for multiple categories. A large 
+space at the top highlights a few interesting options, and below that 
+there are subheadings for All, Most Loved, and Pebble Picks. Some of the
+ faces are elaborate affairs with animations and unique layouts, while 
+others are simple digital clocks with static background images. We hope 
+that Pebble takes more of a curatorial approach in the future.
+
+On 
+the other hand, the Apps section is broken down into six categories: 
+Daily, Tools and Utilities, Notifications, Remotes, Fitness, and Games. 
+Each category is fairly well populated and there's an indication if a 
+companion phone app is necessary. You'll find everything from social 
+network companions to Bluetooth controllers, reminders and public 
+transport vehicle trackers. As of now, all the apps listed in the Pebble
+ store are free. If Pebble wants to sell anything through its app, it's 
+going to have to pay Apple 30 percent of all transactions, so we'll see 
+whether they choose to go down that road at all.
+
+Of course, 
+there's more to come. Pebble's new SDK allows the creation of apps that 
+can process JavaScript, access the accelerometer, store settings 
+persistently, and communicate with Web services via the phone's Internet
+ connection. We're sure to see a flood of new apps in the very near 
+future.
+
+Pebble is on a high after its recent launch of the Pebble Steel, a sleeker, more professional looking version of last year's Pebble. Now with the app store in place, it has what it needs to attract a mainstream consumer base. The competition for wearable technology is heating up, and Pebble is doing everything it can to strengthen its position while industry giants like Samsung and Sony are still finding their feet.
+

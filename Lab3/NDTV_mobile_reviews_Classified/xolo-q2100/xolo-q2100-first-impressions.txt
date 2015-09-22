@@ -1,0 +1,141 @@
+Xolo Q2100: First Impressions
+
+Xolo is an Indian manufacturer that's not afraid of trying something 
+different. Recently, the company experimented with launching Hive UI, 
+its radical skinning on top of Android. We quite liked the new 
+approach,
+ though fans of stock Android may not understand what the fuss is all 
+about.Earlier this week, we learnt that the company is planning to 
+launch the Xolo 2100 and shared the information with our 
+readers.
+ Later that day, we got a call from a company representative confirming 
+the existence of the device, and asked if we would like to test a unit 
+before launch. We agreed, and for the last two days we've been using the
+ Xolo 2100. With the company having officially announced the 
+phone
+ on Wednesday, here's a summary of our experience so far.Xolo 
+Q2100 is a phone that is solid, if unspectacular, in terms of design. 
+The volume rocker and the power button are on the right, the Micro-USB 
+port's on the bottom, while the top has the  3.5mm jack and IR blaster. 
+The back has the 8-megapixel camera module, dual LED flash, and perhaps 
+the highlight of the device, a fingerprint scanner. Most of our testing 
+in the last couple of days has centred around the fingerprint scanner, 
+and we'll restrict the scope of this article to our experience with this
+ component. To get a closer look at the Xolo Q2100 visit our gallery, 
+and for our final verdict on the device, wait for our detailed review.Setting
+ up the fingerprint scanner is simple using the pre-installed 
+Fingerprint app, which finds a prominent place on the home screen. You 
+can register a new fingerprint within the app (up to 3 prints can be 
+added), by swiping from top to bottom multiple times, as the app learns 
+about your print from various angles. It's important to be as natural as
+ possible during the registration process, so the app can learn 
+different ways in which you might swipe during day to day usage. If you 
+are extra careful during setup, and swipe your finger only in straight 
+lines, which can be a tendency, then you will end up getting frustrated 
+later when your natural swipes cannot be recognised.While recent 
+launches like the Swipe Sense and iberry Auxus Note 5.5 come with 
+fingerprint scanner on the back, we've not personally used those devices
+ yet, and our last experience was with the HTC One Max (Review | Pictures) - and that was a 
+bag of hurt! Our lasting memory of the time spent with the HTC phablet's
+ fingerprint scanner is swiping our finger unsuccessfully multiple times
+ before giving up and using PIN to unlock the device.It's not 
+clear if fingerprint scanning technology has improved since - the One 
+Max was seen by many as a hurried response to the iPhone 5s, which had a
+ fingerprint scanner - or Xolo has done a particularly good job of 
+implementing the existing tech, but our experience with the Q2100 so far
+ has been much better. The first half-a-dozen times the phone unlocked 
+at the first attempt, and during the entire time we spent with the 
+device, we'd guess we got a success rate of about 80 percent, which is 
+quite acceptable. Of course scanners integrated on the home button like 
+the ones seen on the iPhone 5s and Samsung Galaxy S5 (Review | Pictures) have near 100 
+percent success rate, so we believe that's the best way of implementing 
+fingerprint scanner in a device, instead of having it at the back where 
+the users are usually reaching without looking, increasing the 
+possibility of failure.Xolo has tried to make failed matches a 
+little bit less painful by offering helpful messages like "Finger was 
+offset to the left of the sensor" when you fail to unlock the device. 
+While every failed attempt is painful when you're trying to use the 
+phone in a hurry, this way you at least know what you are doing wrong; 
+unlike the One Max when we had no clue why our nth attempt didn't 
+register when we thought we were doing everything right.There was
+ another attempt when the unlocking process probably crashed in the 
+background, because the lock screen said the software was unavailable. 
+Thankfully, you can simply use the PIN to enter the device in such 
+cases. All in all though, our experience with the Xolo Q2100's 
+fingerprint scanner has helped heal some of the scars left behind by the
+ HTC One Max.Stay tuned for a detailed review of the Xolo 2100 on NDTV Gadgets. Xolo Q2100 in pictures
+
+Earlier this week, we learnt that the company is planning to 
+launch the Xolo 2100 and shared the information with our 
+readers.
+ Later that day, we got a call from a company representative confirming 
+the existence of the device, and asked if we would like to test a unit 
+before launch. We agreed, and for the last two days we've been using the
+ Xolo 2100. With the company having officially announced the 
+phone
+ on Wednesday, here's a summary of our experience so far.
+
+Xolo 
+Q2100 is a phone that is solid, if unspectacular, in terms of design. 
+The volume rocker and the power button are on the right, the Micro-USB 
+port's on the bottom, while the top has the  3.5mm jack and IR blaster. 
+The back has the 8-megapixel camera module, dual LED flash, and perhaps 
+the highlight of the device, a fingerprint scanner. Most of our testing 
+in the last couple of days has centred around the fingerprint scanner, 
+and we'll restrict the scope of this article to our experience with this
+ component. To get a closer look at the Xolo Q2100 visit our gallery, 
+and for our final verdict on the device, wait for our detailed review.
+
+Setting
+ up the fingerprint scanner is simple using the pre-installed 
+Fingerprint app, which finds a prominent place on the home screen. You 
+can register a new fingerprint within the app (up to 3 prints can be 
+added), by swiping from top to bottom multiple times, as the app learns 
+about your print from various angles. It's important to be as natural as
+ possible during the registration process, so the app can learn 
+different ways in which you might swipe during day to day usage. If you 
+are extra careful during setup, and swipe your finger only in straight 
+lines, which can be a tendency, then you will end up getting frustrated 
+later when your natural swipes cannot be recognised.
+
+While recent 
+launches like the Swipe Sense and iberry Auxus Note 5.5 come with 
+fingerprint scanner on the back, we've not personally used those devices
+ yet, and our last experience was with the HTC One Max (Review | Pictures) - and that was a 
+bag of hurt! Our lasting memory of the time spent with the HTC phablet's
+ fingerprint scanner is swiping our finger unsuccessfully multiple times
+ before giving up and using PIN to unlock the device.
+
+It's not 
+clear if fingerprint scanning technology has improved since - the One 
+Max was seen by many as a hurried response to the iPhone 5s, which had a
+ fingerprint scanner - or Xolo has done a particularly good job of 
+implementing the existing tech, but our experience with the Q2100 so far
+ has been much better. The first half-a-dozen times the phone unlocked 
+at the first attempt, and during the entire time we spent with the 
+device, we'd guess we got a success rate of about 80 percent, which is 
+quite acceptable. Of course scanners integrated on the home button like 
+the ones seen on the iPhone 5s and Samsung Galaxy S5 (Review | Pictures) have near 100 
+percent success rate, so we believe that's the best way of implementing 
+fingerprint scanner in a device, instead of having it at the back where 
+the users are usually reaching without looking, increasing the 
+possibility of failure.
+
+Xolo has tried to make failed matches a 
+little bit less painful by offering helpful messages like "Finger was 
+offset to the left of the sensor" when you fail to unlock the device. 
+While every failed attempt is painful when you're trying to use the 
+phone in a hurry, this way you at least know what you are doing wrong; 
+unlike the One Max when we had no clue why our nth attempt didn't 
+register when we thought we were doing everything right.
+
+There was
+ another attempt when the unlocking process probably crashed in the 
+background, because the lock screen said the software was unavailable. 
+Thankfully, you can simply use the PIN to enter the device in such 
+cases. All in all though, our experience with the Xolo Q2100's 
+fingerprint scanner has helped heal some of the scars left behind by the
+ HTC One Max.
+
+Stay tuned for a detailed review of the Xolo 2100 on NDTV Gadgets.
+

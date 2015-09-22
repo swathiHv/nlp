@@ -1,0 +1,241 @@
+Micromax Canvas Selfie Review: Looks Good and Makes You Look Good 
+
+HTC,
+ Microsoft, and Sony already have phones with powerful front cameras to 
+cater to the selfie craze sweeping across the globe. The latest to join this 
+bandwagon is Micromax, with its Canvas Selfie. The Micromax 
+Canvas Selfie has a 13-megapixel front camera with flash and an app 
+which is embellished with a ton of beautification features. The 
+marketing campaign quite clearly indicates that Micromax is targeting women with this phone, but we'd say quite a few men would also be interested in 
+the Canvas Selfie because apart from the powerful front camera it also has a good list of specifications. Let's find out how it 
+performs. Look and feelThe Canvas Selfie is by far 
+Micromax's most unique design yet and probably its best one too. The 
+phone is quite unlike other candybar smartphones we've seen in the past -
+ the top and bottom are curved in a way that reminds us
+ of the aptly-named Sony Ericsson Xperia Arc. Available in two colours - Pearl White and Sapphire Blue -
+ the Canvas Selfie tries really heard to steer clear of the monotony 
+of black smartphones. The Pearl White edition has 
+gold metallic edges and the buttons are also made of metal. 
+The rear of the phone has a faux leather finish with stitches running 
+along the edges which we first saw in the Samsung Galaxy Note 3 (Review | Pictures). 
+The Canvas Selfie feels light to hold and is a great device for 
+one-handed usage, even if slightly bulky. The right side has a 
+dedicated camera button and the SIM card tray, whereas the 
+left edge holds the volume rocker. The Micro-USB port sits on the 
+bottom. The 3.5mm jack and the power button are on the top of the phone.
+ Below the screen is a row of backlit capacitive buttons for 
+navigating through the operating system. For some reason, the home 
+button keeps on blinking and there is no way to turn this off, which is 
+rather annoying. The front camera and flash are placed right in the 
+centre above the display. The primary camera on the 
+rear has a large golden ring around it and two LED-flash 
+modules peeking from either side. A metallic Micromax logo sits below 
+this camera. A small vertical vent on the bottom of the rear houses the 
+speaker and top of it one can find the word 'selfie'.The phone has a 4.7-inch 720p IPS LCD screen with 
+Corning's Gorilla Glass 3 for protection. This is one of the better displays we've seen on a Micromax phone - it is crisp,
+ the colours are vibrant, viewing angles are good, and spotting pixels 
+with the naked eye is nigh impossible. That said, the 
+screen doesn't get too bright, which in turn affects its sunlight 
+legibility.  Specifications and softwareAs is common
+ with a lot of phones in the mid-range segment, the Micromax Canvas 
+Selfie has an octa-core MediaTek MT6592 processor clocked at 1.7GHz. We'd have ideally wished for the newer 64-bit 
+MT6595 SoC inside the phone but this will do for the moment. There is 2GB of 
+RAM and 16GB of internal storage space. The storage space can be 
+expanded by up to 32GB using a microSD card. However, there is a catch 
+here - the SIM card tray accepts one Micro-SIM card and one Nano-SIM, but the cutout for the latter doubles up as the microSD slot, which means that if 
+you choose to add more storage space you will have to forego the 
+Dual-SIM capability of the phone. The phone has a 2,300mAh battery 
+providing it the juice to work. It has two cameras as well, and both can 
+shoot 13-megapixel images. The front one has only a single-LED
+ flash while the rear one has a dual-LED flash. Wireless 
+connectivity is taken care of by Wi-Fi a/b/g/n and Bluetooth 
+v4.0. Micromax has decided to go with its own interpretation of 
+Android on the Canvas Selfie, which by the way is the 
+same implementation we saw on the Canvas Hue (Review | Pictures). The 
+unnamed skin on top of Android 4.4.2 (KitKat), upgradeable to 
+Lollipop, is bereft of an app drawer akin to what we've seen on phones 
+by Chinese brands like Xiaomi and Gionee. This iOS-inspired skinning is a
+ hit-or-miss depending on the number of apps and widgets that are lined 
+up on the multiple homescreens. Most of the default apps have rounded 
+icons. There are a lot of apps bundled with the phone and thankfully most of them 
+can be deleted. M!Live and 
+M!Games are two annoying apps bundled with the phone, and do nothing but open up an ugly webpage which displays a list of
+ apps and games, most of which are useless and are already available in the Google Play store. CameraThe 
+13-megapixel selfie camera can capture some really good details and at 
+the same time remove all the blemishes from your face while capturing an image or in post processing. The default camera app has options that
+ allow users to tweak each part of their face, for example, teeth can be whitened, dark circles can be reduced, and oil can be removed. There are varying
+ degrees to which these particular settings can be tweaked. The 
+autofocus of this camera works really well in well-lit environments and 
+has no problem tracking a face, in near realtime, as it moves. Our test 
+samples had warm colours and great amount of details with absolutely no 
+noise. We'd go as far as to say that some of the images looked as good 
+as the ones captured by the 13-megapixel front camera of the 
+significantly more expensive HTC Desire Eye (Review | Pictures). The 
+low-light performance is not so great, but the LED flash manages 
+to take care of that by throwing bright artificial light. (Click for full size)The primary 13-megapixel camera can also take some good 
+images with decent amount of light and the dual-LED flash also does a good job in low-light. The camera struggled in less ideal 
+lighting conditions and you would want to stick to using it only under 
+daylight conditions.(Click for full size)PerformanceIn our time with the Canvas Selfie, we faced absolutely no hiccups and the phone was up to any task 
+we threw at it. It played games with gusto, opened apps 
+without complaining, and surfed the web like any other capable mid-range
+ phone. We ran our regular suite of benchmarks. In AnTuTu and 
+Quadrant the phone scored a healthy 31,119 and 13,836 points 
+respectively. Even the graphics benchmark tests returned good scores. The 
+Canvas Selfie logged 17fps in the GFXbench test and 7,148 points in the 
+intensive 3D Mark Ice Storm benchmark cycle.All our test videos 
+including the heavily encoded 1080p 40Mbps one played without any 
+hiccups. The bundled headset sounded pretty decent too, so you don't really need a replacement. The speakers are loud and crisp but
+ we noticed that the sound can get muffled when the phone is held in 
+landscape orientation while playing games or watching movies. The 
+quality of the sound in calls was not too bad but the person on the 
+other end complained of hearing crackling more than once. In
+ our battery test, the phone lasted 7 hours and 31 minutes, which is 
+average at best. With moderate usage we expect it to last just about a day before
+ one needs to pick up a charger.VerdictIf you are someone
+ who likes taking a lot of selfies and doesn't want to spend a lot of 
+money, the Micromax Canvas Selfie is right up your alley with its price 
+tag of Rs. 15,999. Having said that, the phone is a good buy in the 
+mid-range segment even if you do not intend to take a lot of selfies, because it 
+is has dependable performance overall. The only thing you will need to put up with is the colourful skin on top of Android. In the same 
+price range, the Motorola Moto G (Gen 2) (Review | Pictures), Yu Yureka
+ (Review | Pictures), and the Nokia Lumia 730 Dual SIM (Review | 
+Pictures) are all great alternatives.
+Micromax Canvas Selfie in pictures
+
+HTC,
+ Microsoft, and Sony already have phones with powerful front cameras to 
+cater to the selfie craze sweeping across the globe. The latest to join this 
+bandwagon is Micromax, with its Canvas Selfie. 
+
+The Micromax 
+Canvas Selfie has a 13-megapixel front camera with flash and an app 
+which is embellished with a ton of beautification features. The 
+marketing campaign quite clearly indicates that Micromax is targeting women with this phone, but we'd say quite a few men would also be interested in 
+the Canvas Selfie because apart from the powerful front camera it also has a good list of specifications. Let's find out how it 
+performs. 
+
+Look and feelThe Canvas Selfie is by far 
+Micromax's most unique design yet and probably its best one too. The 
+phone is quite unlike other candybar smartphones we've seen in the past -
+ the top and bottom are curved in a way that reminds us
+ of the aptly-named Sony Ericsson Xperia Arc. 
+
+Available in two colours - Pearl White and Sapphire Blue -
+ the Canvas Selfie tries really heard to steer clear of the monotony 
+of black smartphones. The Pearl White edition has 
+gold metallic edges and the buttons are also made of metal. 
+The rear of the phone has a faux leather finish with stitches running 
+along the edges which we first saw in the Samsung Galaxy Note 3 (Review | Pictures). 
+The Canvas Selfie feels light to hold and is a great device for 
+one-handed usage, even if slightly bulky. 
+
+The right side has a 
+dedicated camera button and the SIM card tray, whereas the 
+left edge holds the volume rocker. The Micro-USB port sits on the 
+bottom. The 3.5mm jack and the power button are on the top of the phone.
+ Below the screen is a row of backlit capacitive buttons for 
+navigating through the operating system. For some reason, the home 
+button keeps on blinking and there is no way to turn this off, which is 
+rather annoying. The front camera and flash are placed right in the 
+centre above the display. 
+
+The primary camera on the 
+rear has a large golden ring around it and two LED-flash 
+modules peeking from either side. A metallic Micromax logo sits below 
+this camera. A small vertical vent on the bottom of the rear houses the 
+speaker and top of it one can find the word 'selfie'.
+
+The phone has a 4.7-inch 720p IPS LCD screen with 
+Corning's Gorilla Glass 3 for protection. This is one of the better displays we've seen on a Micromax phone - it is crisp,
+ the colours are vibrant, viewing angles are good, and spotting pixels 
+with the naked eye is nigh impossible. That said, the 
+screen doesn't get too bright, which in turn affects its sunlight 
+legibility. 
+
+ 
+
+Specifications and softwareAs is common
+ with a lot of phones in the mid-range segment, the Micromax Canvas 
+Selfie has an octa-core MediaTek MT6592 processor clocked at 1.7GHz. We'd have ideally wished for the newer 64-bit 
+MT6595 SoC inside the phone but this will do for the moment. There is 2GB of 
+RAM and 16GB of internal storage space. The storage space can be 
+expanded by up to 32GB using a microSD card. However, there is a catch 
+here - the SIM card tray accepts one Micro-SIM card and one Nano-SIM, but the cutout for the latter doubles up as the microSD slot, which means that if 
+you choose to add more storage space you will have to forego the 
+Dual-SIM capability of the phone. 
+
+The phone has a 2,300mAh battery 
+providing it the juice to work. It has two cameras as well, and both can 
+shoot 13-megapixel images. The front one has only a single-LED
+ flash while the rear one has a dual-LED flash. Wireless 
+connectivity is taken care of by Wi-Fi a/b/g/n and Bluetooth 
+v4.0. 
+
+Micromax has decided to go with its own interpretation of 
+Android on the Canvas Selfie, which by the way is the 
+same implementation we saw on the Canvas Hue (Review | Pictures). The 
+unnamed skin on top of Android 4.4.2 (KitKat), upgradeable to 
+Lollipop, is bereft of an app drawer akin to what we've seen on phones 
+by Chinese brands like Xiaomi and Gionee. This iOS-inspired skinning is a
+ hit-or-miss depending on the number of apps and widgets that are lined 
+up on the multiple homescreens. 
+
+Most of the default apps have rounded 
+icons. There are a lot of apps bundled with the phone and thankfully most of them 
+can be deleted. M!Live and 
+M!Games are two annoying apps bundled with the phone, and do nothing but open up an ugly webpage which displays a list of
+ apps and games, most of which are useless and are already available in the Google Play store. 
+
+CameraThe 
+13-megapixel selfie camera can capture some really good details and at 
+the same time remove all the blemishes from your face while capturing an image or in post processing. The default camera app has options that
+ allow users to tweak each part of their face, for example, teeth can be whitened, dark circles can be reduced, and oil can be removed. There are varying
+ degrees to which these particular settings can be tweaked. 
+
+The 
+autofocus of this camera works really well in well-lit environments and 
+has no problem tracking a face, in near realtime, as it moves. Our test 
+samples had warm colours and great amount of details with absolutely no 
+noise. We'd go as far as to say that some of the images looked as good 
+as the ones captured by the 13-megapixel front camera of the 
+significantly more expensive HTC Desire Eye (Review | Pictures). The 
+low-light performance is not so great, but the LED flash manages 
+to take care of that by throwing bright artificial light. 
+
+(Click for full size)The primary 13-megapixel camera can also take some good 
+images with decent amount of light and the dual-LED flash also does a good job in low-light. The camera struggled in less ideal 
+lighting conditions and you would want to stick to using it only under 
+daylight conditions.
+
+(Click for full size)PerformanceIn our time with the Canvas Selfie, we faced absolutely no hiccups and the phone was up to any task 
+we threw at it. It played games with gusto, opened apps 
+without complaining, and surfed the web like any other capable mid-range
+ phone. 
+
+We ran our regular suite of benchmarks. In AnTuTu and 
+Quadrant the phone scored a healthy 31,119 and 13,836 points 
+respectively. Even the graphics benchmark tests returned good scores. The 
+Canvas Selfie logged 17fps in the GFXbench test and 7,148 points in the 
+intensive 3D Mark Ice Storm benchmark cycle.
+
+All our test videos 
+including the heavily encoded 1080p 40Mbps one played without any 
+hiccups. The bundled headset sounded pretty decent too, so you don't really need a replacement. The speakers are loud and crisp but
+ we noticed that the sound can get muffled when the phone is held in 
+landscape orientation while playing games or watching movies. The 
+quality of the sound in calls was not too bad but the person on the 
+other end complained of hearing crackling more than once. In
+ our battery test, the phone lasted 7 hours and 31 minutes, which is 
+average at best. With moderate usage we expect it to last just about a day before
+ one needs to pick up a charger.
+
+VerdictIf you are someone
+ who likes taking a lot of selfies and doesn't want to spend a lot of 
+money, the Micromax Canvas Selfie is right up your alley with its price 
+tag of Rs. 15,999. Having said that, the phone is a good buy in the 
+mid-range segment even if you do not intend to take a lot of selfies, because it 
+is has dependable performance overall. The only thing you will need to put up with is the colourful skin on top of Android. In the same 
+price range, the Motorola Moto G (Gen 2) (Review | Pictures), Yu Yureka
+ (Review | Pictures), and the Nokia Lumia 730 Dual SIM (Review | 
+Pictures) are all great alternatives.
+

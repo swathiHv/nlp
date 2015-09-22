@@ -1,0 +1,264 @@
+BlackBerry Leap Review: For Some, a Leap of Faith
+
+It seemed for a long
+ time as though this day might never come, but we're finally able to 
+write about BlackBerry's recovery. After years of battling irrelevance, 
+making bad decisions and watching its market evaporate, the company 
+seems to have found a stable path. It has pivoted from being primarily a
+ handset maker to a provider of services for all platforms, and the 
+strategy seems to be working. In terms of hardware BlackBerry has
+ narrowed its focus to business users and the enterprise, and is committed to staying out of the sub-Rs. 10,000 consumer market which it 
+clearly cannot compete in. Each product it now releases is crafted for a 
+specific audience and delivers exactly what is demanded of it - the 
+innovative BlackBerry Passport (Review | Pictures) is for those who demand top-notch quality and want 
+to stand out; the BlackBerry Classic (Review | Pictures) is for QWERTY loyalists who could never let 
+go, and now the BlackBerry Leap is for touchscreen natives who feel that there 
+might be something better out there than the current status quo. In
+ identifying specific niches and refusing to play the price and 
+popularity games, BlackBerry is missing out on the mainstream. However, 
+it knows that there are a lot of people who want to be better and more 
+responsive at work, and there are companies that are willing to pay good
+ money to ensure their communications are secure. So with full 
+knowledge that the brand new BlackBerry Leap is not meant for 
+value-conscious mainstream buyers, we embark on our review.Look and feelThe
+ BlackBerry Leap is an elegant phone, with a slick black front face and 
+strong lines. There's nothing to see with the screen off except a bright
+ silver company logo on the bottom. The sides and back have a very 
+grippy rubber finish which contributes to the overall premium feel. You 
+can't take the back off, so the battery is inaccessible. The only part 
+of it that we didn't like was the huge "8 MP auto focus" label printed 
+near the rear camera which seemed out of place on an otherwise sober, 
+professional-looking device. The Leap is strikingly similar to 
+last year's BlackBerry Z3 (Review | Pictures) model, and if you didn't know exactly where to
+ look you wouldn't be able to tell the two apart. The Leap is only a few
+ millimetres wider and a few grams heavier, but little things are 
+different, such as the power button being on top rather than the side, 
+and the SIM and microSD card flap swapping places with the volume 
+controls, which are now on the left and right sides respectively. 
+There's still a 3.5mm audio jack on top and a Micro-USB port on the 
+bottom.The Leap will be available in dark grey and white, and we 
+much prefer the former. It feels solid and reliable, though it is a bit 
+too large to use comfortably with one hand. Considering the Z3 was 
+launched only in a few Asian markets but was well received for its build
+ quality and style, it makes sense for the company to recycle the look. 
+What's surprising is that the Leap is not built by Foxconn as the Z3 
+was.Specifications and softwareThe two phones have more in common than 
+just looks. While the Z3 was meant to be as affordable as possible (and,
+ in our opinion, cut too many corners to justify its price) the Leap is 
+not quite so constrained. The first thing we noticed was that the 
+display was much improved. The 720x1280 resolution isn't groundbreaking 
+for a 5-inch screen, but it's far better than the atrocious 540x960 
+screen of the Z3. Text is crisp enough and colours pop nicely without 
+being too harsh, which makes for a pleasant overall experience. Sunlight
+ legibility could have been a bit better, but things are okay as they 
+are.Unfortunately that's pretty much where the improvements end. 
+We are truly amazed that BlackBerry continues to use the now-ancient dual-core 1.5GHz 
+Qualcomm Snapdragon S4 Plus processor - MSM8960 to be precise - which 
+has been in use since the BlackBerry Z10 launched over two years ago. No
+ other company on the planet has such a long lifecycle, and if 
+BlackBerry wants to compete with similarly priced phones in terms of 
+performance, this is not the way to go.The rest of the 
+specifications are somewhat modern, but definitely not high-end. There's
+ 2GB of RAM, 16GB of internal storage, support for microSD cards of up 
+to 128GB, Wi-Fi b/g/n, and Bluetooth 4.0. Unfortunately, LTE is not 
+supported the 2300MHz Indian band. The non-removable battery has a rated
+ capacity of 2,800mAh. You get only a proximity sensor and a basic 
+accelerometer. Overall, we're unimpressed with BlackBerry's warmed-over 
+offering.The company claims that the value of its platform lies 
+in software and services. As the only mobile handset player other than 
+Apple to control its hardware and operating system, BlackBerry hopes 
+that people will buy the Leap for its ability to help them get work 
+done. BlackBerry OS 10.3.1 has a lot of neat tricks including the 
+ability to run most Android apps and a central communications hub that 
+lets you quickly see your messages across services and react to them 
+quickly. We still aren't convinced that gestures are the most natural 
+way to get around a smartphone OS, but on the other hand the touch 
+keyboard is one of the best we've ever used. Not much has changed
+ in terms of features since the Z3 was launched, so you can read all 
+about the platform in our review of that phone. One difference is that 
+the limit of four app tiles on the first menu page has been raised to 
+eight, most likely thanks to the increase in available RAM.PerformancePredictably,
+ the BlackBerry Leap lagged a little in day-to-day use. There were 
+noticeable pauses when launching and switching between apps, and some of
+ the OS animations seemed to drag on just a bit too long. Flipping 
+around through the interface and using the Hub or other simple apps 
+didn't present any problem though. Android benchmarks might run, 
+but wouldn't paint a true picture of this phone's capabilities. The 
+cross-platform browser-based SunSpider and Mozilla Kraken tests gave us 
+scores of 1284.8ms and 26889.7ms respectively, which are roughly what we
+ see from ultra-budget Android phones today. (Click to see full size)The battery lasted 7
+ hours, 19 minutes in our video loop test which is respectable but not 
+spectacular. That result represents about a full day's worth of 
+non-intensive usage, but the phone did seem to last longer than that in 
+the real world. Call quality was excellent.  (Click to see full size)The camera is 
+surprisingly competent - not great, but definitely good enough for 
+casual shots now and then. Textures come out nicely and there's very 
+little noise and compression. The only thing it can't seem to handle 
+well is frames with subjects in motion. Even at night, we were pleased 
+with the photos we were able to take. Video is taken at 720p by default 
+and is sharp but a bit shaky.VerdictIn terms of price 
+alone, the BlackBerry Leap is up against illustrious Android devices 
+such as the OnePlus One (Review | Pictures). Even Android phones at half 
+this price or less offer a competitive experience. You would really have
+ to be committed to the BlackBerry platform in order to justify a 
+purchase, and BlackBerry's biggest challenge will be to convince people 
+to give it a try.Thankfully, there definitely are people who are 
+that committed and even more who could be. The target audience is young, 
+non-QWERTY-bound professionals who see value in paying for a hardcore 
+business tool that could give them an edge, and this might be the right 
+smartphone for the job. There's also the chance that corporations 
+attracted by the prospect of secure communications and manageability 
+will buy them in large numbers for employees.Even if the Leap is 
+only ever considered a secondary phone and only ever used for work, 
+BlackBerry still wins. That's enough to sell products, and is enough to 
+keep BlackBerry relevant. Sure, we would like to see the company get 
+aggressive and go for competitive mainstream pricing, but this is the 
+path it's chosen and at least it's still alive. 
+
+In terms of hardware BlackBerry has
+ narrowed its focus to business users and the enterprise, and is committed to staying out of the sub-Rs. 10,000 consumer market which it 
+clearly cannot compete in. Each product it now releases is crafted for a 
+specific audience and delivers exactly what is demanded of it - the 
+innovative BlackBerry Passport (Review | Pictures) is for those who demand top-notch quality and want 
+to stand out; the BlackBerry Classic (Review | Pictures) is for QWERTY loyalists who could never let 
+go, and now the BlackBerry Leap is for touchscreen natives who feel that there 
+might be something better out there than the current status quo. 
+
+In
+ identifying specific niches and refusing to play the price and 
+popularity games, BlackBerry is missing out on the mainstream. However, 
+it knows that there are a lot of people who want to be better and more 
+responsive at work, and there are companies that are willing to pay good
+ money to ensure their communications are secure. 
+
+So with full 
+knowledge that the brand new BlackBerry Leap is not meant for 
+value-conscious mainstream buyers, we embark on our review.
+
+Look and feelThe
+ BlackBerry Leap is an elegant phone, with a slick black front face and 
+strong lines. There's nothing to see with the screen off except a bright
+ silver company logo on the bottom. The sides and back have a very 
+grippy rubber finish which contributes to the overall premium feel. You 
+can't take the back off, so the battery is inaccessible. The only part 
+of it that we didn't like was the huge "8 MP auto focus" label printed 
+near the rear camera which seemed out of place on an otherwise sober, 
+professional-looking device. 
+
+The Leap is strikingly similar to 
+last year's BlackBerry Z3 (Review | Pictures) model, and if you didn't know exactly where to
+ look you wouldn't be able to tell the two apart. The Leap is only a few
+ millimetres wider and a few grams heavier, but little things are 
+different, such as the power button being on top rather than the side, 
+and the SIM and microSD card flap swapping places with the volume 
+controls, which are now on the left and right sides respectively. 
+There's still a 3.5mm audio jack on top and a Micro-USB port on the 
+bottom.
+
+The Leap will be available in dark grey and white, and we 
+much prefer the former. It feels solid and reliable, though it is a bit 
+too large to use comfortably with one hand. Considering the Z3 was 
+launched only in a few Asian markets but was well received for its build
+ quality and style, it makes sense for the company to recycle the look. 
+What's surprising is that the Leap is not built by Foxconn as the Z3 
+was.
+
+Specifications and softwareThe two phones have more in common than 
+just looks. While the Z3 was meant to be as affordable as possible (and,
+ in our opinion, cut too many corners to justify its price) the Leap is 
+not quite so constrained. The first thing we noticed was that the 
+display was much improved. The 720x1280 resolution isn't groundbreaking 
+for a 5-inch screen, but it's far better than the atrocious 540x960 
+screen of the Z3. Text is crisp enough and colours pop nicely without 
+being too harsh, which makes for a pleasant overall experience. Sunlight
+ legibility could have been a bit better, but things are okay as they 
+are.
+
+Unfortunately that's pretty much where the improvements end. 
+We are truly amazed that BlackBerry continues to use the now-ancient dual-core 1.5GHz 
+Qualcomm Snapdragon S4 Plus processor - MSM8960 to be precise - which 
+has been in use since the BlackBerry Z10 launched over two years ago. No
+ other company on the planet has such a long lifecycle, and if 
+BlackBerry wants to compete with similarly priced phones in terms of 
+performance, this is not the way to go.
+
+The rest of the 
+specifications are somewhat modern, but definitely not high-end. There's
+ 2GB of RAM, 16GB of internal storage, support for microSD cards of up 
+to 128GB, Wi-Fi b/g/n, and Bluetooth 4.0. Unfortunately, LTE is not 
+supported the 2300MHz Indian band. The non-removable battery has a rated
+ capacity of 2,800mAh. You get only a proximity sensor and a basic 
+accelerometer. Overall, we're unimpressed with BlackBerry's warmed-over 
+offering.
+
+The company claims that the value of its platform lies 
+in software and services. As the only mobile handset player other than 
+Apple to control its hardware and operating system, BlackBerry hopes 
+that people will buy the Leap for its ability to help them get work 
+done. BlackBerry OS 10.3.1 has a lot of neat tricks including the 
+ability to run most Android apps and a central communications hub that 
+lets you quickly see your messages across services and react to them 
+quickly. We still aren't convinced that gestures are the most natural 
+way to get around a smartphone OS, but on the other hand the touch 
+keyboard is one of the best we've ever used. 
+
+Not much has changed
+ in terms of features since the Z3 was launched, so you can read all 
+about the platform in our review of that phone. One difference is that 
+the limit of four app tiles on the first menu page has been raised to 
+eight, most likely thanks to the increase in available RAM.
+
+PerformancePredictably,
+ the BlackBerry Leap lagged a little in day-to-day use. There were 
+noticeable pauses when launching and switching between apps, and some of
+ the OS animations seemed to drag on just a bit too long. Flipping 
+around through the interface and using the Hub or other simple apps 
+didn't present any problem though. 
+
+Android benchmarks might run, 
+but wouldn't paint a true picture of this phone's capabilities. The 
+cross-platform browser-based SunSpider and Mozilla Kraken tests gave us 
+scores of 1284.8ms and 26889.7ms respectively, which are roughly what we
+ see from ultra-budget Android phones today. 
+
+(Click to see full size)
+
+The battery lasted 7
+ hours, 19 minutes in our video loop test which is respectable but not 
+spectacular. That result represents about a full day's worth of 
+non-intensive usage, but the phone did seem to last longer than that in 
+the real world. Call quality was excellent.  
+
+(Click to see full size)
+
+The camera is 
+surprisingly competent - not great, but definitely good enough for 
+casual shots now and then. Textures come out nicely and there's very 
+little noise and compression. The only thing it can't seem to handle 
+well is frames with subjects in motion. Even at night, we were pleased 
+with the photos we were able to take. Video is taken at 720p by default 
+and is sharp but a bit shaky.
+
+VerdictIn terms of price 
+alone, the BlackBerry Leap is up against illustrious Android devices 
+such as the OnePlus One (Review | Pictures). Even Android phones at half 
+this price or less offer a competitive experience. You would really have
+ to be committed to the BlackBerry platform in order to justify a 
+purchase, and BlackBerry's biggest challenge will be to convince people 
+to give it a try.
+
+Thankfully, there definitely are people who are 
+that committed and even more who could be. The target audience is young, 
+non-QWERTY-bound professionals who see value in paying for a hardcore 
+business tool that could give them an edge, and this might be the right 
+smartphone for the job. There's also the chance that corporations 
+attracted by the prospect of secure communications and manageability 
+will buy them in large numbers for employees.
+
+Even if the Leap is 
+only ever considered a secondary phone and only ever used for work, 
+BlackBerry still wins. That's enough to sell products, and is enough to 
+keep BlackBerry relevant. Sure, we would like to see the company get 
+aggressive and go for competitive mainstream pricing, but this is the 
+path it's chosen and at least it's still alive.
+

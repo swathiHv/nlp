@@ -1,0 +1,416 @@
+Samsung Galaxy Grand Duos review
+
+Samsung pioneered the trend of a new breed of devices, now more commonly
+ known as 'phablets', smartphones that are (almost) nearing tablets in 
+size. After the company's successful Galaxy Note device, many followed 
+suit including homegrown manufacturers like Micromax and Karbonn who are
+ offering devices in the under-15k, and even under 10K price point.To
+ compete with these, Samsung has launched the Galaxy Grand Duos, though 
+it has been priced at Rs. 21,500. Is it the 'Samsung' brand value or 
+does the device really live up to user expectations? We take a look.Design/ HardwareOn
+ first impressions, the Galaxy Grand Duos bears striking resemblance to 
+the Note II mainly due to its huge display. But Samsung has managed to keep
+ the Galaxy S III essence alive in the device. We reviewed the Elegant 
+White unit, and the device is also available in Metallic Blue.At 
+9.6mm, the Galaxy Grand Duos is pretty thick and feels quite bulky as 
+well weighing 162 grams. Those blessed with little hands will find it 
+tiring to carry the device around. But the overall build quality of the 
+device is quite sturdy, though the back does feel cheap, just like the 
+Galaxy S III. The back has a miniscule-chequered pattern that manages to
+ cover your fingerprints very well. It is prone to attract scratches 
+very fast and we'd suggest you to be careful while using it. A chromium 
+strip runs along the device's perimeter that is sure to wear off 
+overtime. The 5-inch display takes up most of the space in the 
+front with a thin bezel on either side and like the other Galaxy 
+handsets, we have the sensors lined up on top alongside the earpiece and
+ the front-facing 2-megapixel camera. The bottom has the physical home 
+button in the centre with the capacitive menu and back buttons on either
+ side. The rear of the device features an 8-megapixel camera with LED 
+flash and the loudspeaker sitting adjacent to it. Samsung has 
+allocated a port/button on each side of the device. The right side 
+houses the power/wake button, the left has the volume rocker, the bottom
+ has the Micro-USB/charging port and the headphone jack is situated at 
+the top. Some users may find it difficult to open the rear cover 
+at first, since the trick is to open from the top left side, as opposed 
+to most devices that need to be opened either from the top or the 
+bottom, including the Galaxy S III. Once you're through, you'll 
+find the 2,100mAh battery, two GSM SIM card slots (one on the top left 
+and other on the bottom right) and a microSD card slot adjacent to the 
+bottom SIM slot. A scratch guard for the Galaxy Grand Duos isn't 
+available in the market yet, but our retail box came with a white 
+navigator flip cover. Not just that, the company has also thrown in a 
+spare rear cover for the device.DisplayThe display of a 
+smartphone is one of the key elements that users consider when making a 
+purchase decision, and companies are setting higher benchmarks each year
+ based on new innovations. The Galaxy Grand Duos has been 
+criticised quite a bit for its poor resolution and we thought that this 
+would be the biggest disadvantage for the device. We weren't wrong. The 
+480 x 800 pixel resolution translating into 187 ppi, is way lower than 
+the company's Note devices and it is quite poor.The Galaxy Grand 
+Duos has a 5-inch TFT LCD display with decent viewing angles and colour 
+reproduction, that isn't the best in the industry, but gets the job 
+done. Reading text, playing games or watching videos offer a pleasant 
+experience. The icons do appear slightly larger than normal, but we 
+aren't complaining.However, it is difficult to view content on 
+the screen under bright outdoor conditions even at full brightness 
+levels. You'll find yourself constantly using  your palms to cover the 
+screen and attempt to see what's on it. CameraThe Galaxy 
+Grand Duos comes with an 8-megapixel auto focus rear camera with LED 
+flash and has the same sensor as seen in the Galaxy S II. Outdoor stills
+ produced are detailed and crisp with almost accurate colours. Pictures 
+clicked indoors don't disappoint either, though background noise does 
+tend to creep in. The device also handles macro shots pretty well.Software
+ wise, the Galaxy Grand Duos offers an array of camera options as seen 
+in the Galaxy S III or the Note II. Users can choose from a host of 
+camera settings like Panorama, Face detection, Flash, Exposure value, 
+Scene mode, ISO, White balance and so on. You can also GPS tag photos, 
+set a timer ranging from 2-10 seconds or use grid lines to capture a 
+well-balanced picture. The Share Shot feature allows you to share
+ photos with other users via Wi-Fi Direct. The Buddy photo share option 
+lets click and share photos with friends via face detection.Burst
+ shot mode, however is a miss, possibly due to the processing 
+capabilities of the device. It is capable of full-HD video recording and
+ you have the option of adding filters as well. The front facing 
+2-megapixel camera is pretty average and offers 480p video recording.It would have been easier to click pictures with a dedicated camera key owing to the sheer size and bulk of the device.Software/UIThe
+ Galaxy Grand Duos ships with Android 4.1.2 on-board skinned with 
+Samsung's TouchWiz UI atop. The amalgamation of both, especially Jelly 
+Bean's Project Butter, offers a pleasant and smooth user experience. The
+ interface is pretty fluid that can be attributed to the ARM Cortex-A9 
+MPCore SoC powering the beast. Though many would like to see 
+Samsung get rid of the TouchWiz UI from its devices, the skinned UI does
+ offer deeper social integration and various options compared to the 
+stock Android apps. There are seven customisable home screens 
+that can be populated with apps and widgets as per your convenience and 
+preferences.  You can take screenshots by holding down the power and 
+home buttons. The Gallery app quickly stores these and imports other 
+pictures via your Facebook and Google accounts.Apart from the 
+stock Android browser, the device also has the Chrome browser that 
+offers a refreshing experience. You can choose from a variety of options
+ when it comes to sharing, saving or just adjusting your reading 
+preferences.The device inherits most of the nifty Premium Suite 
+features such as Multi Window, Facebook Lock Ticker, Contextual Menu and
+ Tag, Page Buddy and Sound Balance amongst others. In order for these to
+ work, you'll need to head over to the Settings menu and accordingly 
+change them for the features you wish to access.Contextual Menu 
+lets you choose to view the most frequently used ones first and comes in
+ handy especially when you're looking through apps to find files to 
+attach. Contextual Tag lets you tag the weather, date and place 
+immediately when you take a picture on the phone.With Page Buddy,
+ your phone will smartly predict what you intend to do according to your
+ actions, while Facebook Lock Ticker allows quick access to your 
+Facebook News Feeds on your lock screen. Sound Balance allows you to 
+adjust the balance of volume on each side of the earphones.A host
+ of other proprietary applications include Smart Stay, S Planner, S 
+Memo, S Voice, S Suggest, Chat On, Games Hub and myServices along with 
+an array of motion based gestures. The standard Google apps including 
+Gmail, Youtube, Maps, Chrome, are present as well. As a Jelly Bean user,
+ you can enjoy the benefits and convenience of Google Now, that gets 
+better and better on device usage overtime.PerformanceThe 
+Galaxy Grand Duos is powered by a 1.2GHz dual core processor coupled 
+with 1GB RAM. It offers 8GB of internal storage with additional 
+expansion support up to 64GB. As part of the company offer, users can 
+also avail 50GB of free Dropbox storage along with Rs. 8,000 worth of 
+movies and music from the myServices app. The device runs pretty 
+smoothly without any lags, especially while playing games like Temple 
+Run 2, Jetpack Joyride or even multi-tasking for that matter. The 
+browsing experience on the device was pleasant as image heavy websites 
+rendered flawlessly with panning and zooming being smooth and lag free. The
+ stock keyboard works well and offers a "floating keyboard" in 
+split-screen mode that can be positioned anywhere on the screen while 
+using two opened apps simultaneously. That said, typing messages 
+on the device could be tedious for someone with small hands, especially 
+in the landscape mode due to the device's size and weight. It does get 
+tiring after a while. An alternate solution is to use the handwriting 
+prediction mode, where you can write the words with your finger. This 
+works pretty well.Apart from display, the other feature that is 
+really disappointing is the battery life. The device has standard Li-ion
+ 2,100mAh battery that has just enough juice to last about 6 hours or so
+ on a single charge. Wi-Fi connectivity, web browsing, playing games or 
+watching videos at decent brightness levels, totally take a toll on the 
+device's health and you'll find yourself reaching for the charger in no 
+time. The smartphone performs well over both Wi-Fi and 3G 
+cellular networks. The device offers quad-band GSM support and tri-band 
+3G support, dual-band Wi-Fi with hotspot capabilities and Wi-Fi Direct, 
+Bluetooth 4.0 and GLONASS. Samsung has tied up with Vodafone and is 
+offering 2GB of data download free per month for the first two months. 
+You can choose to configure which SIM should use 3G packet data.Samsung
+ Galaxy Grand offers dual-SIM (dual-standby) functionality, though it 
+claims to use software to forward calls from one number to the other if 
+users have call-forwarding on one SIM and call-waiting on the other. 
+However, it didn't work for us with default settings, with users calling
+ SIM 2 getting the 'unreachable' message typical of dual-standby phones.
+ The phone also makes use of the 'Smart Dual SIM' feature that allows 
+the flexibility of selecting different mobile billing plans for either 
+SIM to enable switching between them and make the most of competitive 
+call and data plans. The call quality is pretty good too, even in low 
+network areas. The audio quality of the device is pretty 
+good with the bundled headphones as well as the rear speaker. Higher 
+volume levels aren't jarring and movies and music are enjoyable on the 
+big screen. The video watching experience is a bit disappointing, 
+especially YouTube videos that get pixelated even when watching in High 
+Quality (HQ).The video player supports most formats including AVI
+ and MKV and offers a decent experience and 1080p playback also seemed 
+flawless. You even get a screenshot feature along with the option to tag
+ your friends in the video, edit and also set a timer to switch it off 
+automatically.VerdictThe Galaxy Grand Duos looks like the 
+Galaxy S III and is as big as the Note, which is being offered at a 
+cheaper price. As an all rounder device, this is the best you get from 
+Samsung at a price of Rs. 21,500. The device does offer a good overall 
+performance with a smooth Android 4.1.2 Jelly Bean experience.The
+ device has great media capabilities, dual-SIM functionality, a good 
+camera with 1080p recording and most of the features of the Note II such
+ as multi-window and a few other Premium Suite features along with a 
+good build quality.If you are brand conscious and can stand the 
+poor battery life and the low resolution display that aren't in its 
+favour, then you wouldn't mind flaunting the Galaxy Grand Duos amongst 
+friends and family. But if you don't want to go over budget and 
+are looking for an HD experience, you'd definitely want to consider the 
+Micromax A116 Canvas HD priced under 15k, that is the hottest selling 
+budget Android phone right now boasting impressive specs such as a 
+5-inch IPS LCD 720p display, a 2,000mAh battery, 8-megapixel rear and 
+2-megapixel front cameras, a quad-core 1.2GHz MediaTek MT6589 processor 
+coupled with the PowerVR Series5XT GPU and 1GB RAM. Samsung Galaxy Grand Duos in picsPrice: Rs. 21,500
+
+To
+ compete with these, Samsung has launched the Galaxy Grand Duos, though 
+it has been priced at Rs. 21,500. Is it the 'Samsung' brand value or 
+does the device really live up to user expectations? We take a look.
+
+
+
+At 
+9.6mm, the Galaxy Grand Duos is pretty thick and feels quite bulky as 
+well weighing 162 grams. Those blessed with little hands will find it 
+tiring to carry the device around. But the overall build quality of the 
+device is quite sturdy, though the back does feel cheap, just like the 
+Galaxy S III. The back has a miniscule-chequered pattern that manages to
+ cover your fingerprints very well. It is prone to attract scratches 
+very fast and we'd suggest you to be careful while using it. A chromium 
+strip runs along the device's perimeter that is sure to wear off 
+overtime. 
+
+The 5-inch display takes up most of the space in the 
+front with a thin bezel on either side and like the other Galaxy 
+handsets, we have the sensors lined up on top alongside the earpiece and
+ the front-facing 2-megapixel camera. The bottom has the physical home 
+button in the centre with the capacitive menu and back buttons on either
+ side. The rear of the device features an 8-megapixel camera with LED 
+flash and the loudspeaker sitting adjacent to it.
+
+ 
+
+Samsung has 
+allocated a port/button on each side of the device. The right side 
+houses the power/wake button, the left has the volume rocker, the bottom
+ has the Micro-USB/charging port and the headphone jack is situated at 
+the top. 
+
+Some users may find it difficult to open the rear cover 
+at first, since the trick is to open from the top left side, as opposed 
+to most devices that need to be opened either from the top or the 
+bottom, including the Galaxy S III. 
+
+Once you're through, you'll 
+find the 2,100mAh battery, two GSM SIM card slots (one on the top left 
+and other on the bottom right) and a microSD card slot adjacent to the 
+bottom SIM slot. 
+
+A scratch guard for the Galaxy Grand Duos isn't 
+available in the market yet, but our retail box came with a white 
+navigator flip cover. Not just that, the company has also thrown in a 
+spare rear cover for the device.
+
+DisplayThe display of a 
+smartphone is one of the key elements that users consider when making a 
+purchase decision, and companies are setting higher benchmarks each year
+ based on new innovations. 
+
+The Galaxy Grand Duos has been 
+criticised quite a bit for its poor resolution and we thought that this 
+would be the biggest disadvantage for the device. We weren't wrong. The 
+480 x 800 pixel resolution translating into 187 ppi, is way lower than 
+the company's Note devices and it is quite poor.
+
+The Galaxy Grand 
+Duos has a 5-inch TFT LCD display with decent viewing angles and colour 
+reproduction, that isn't the best in the industry, but gets the job 
+done. Reading text, playing games or watching videos offer a pleasant 
+experience. The icons do appear slightly larger than normal, but we 
+aren't complaining.
+
+However, it is difficult to view content on 
+the screen under bright outdoor conditions even at full brightness 
+levels. You'll find yourself constantly using  your palms to cover the 
+screen and attempt to see what's on it. 
+
+CameraThe Galaxy 
+Grand Duos comes with an 8-megapixel auto focus rear camera with LED 
+flash and has the same sensor as seen in the Galaxy S II. Outdoor stills
+ produced are detailed and crisp with almost accurate colours. Pictures 
+clicked indoors don't disappoint either, though background noise does 
+tend to creep in. The device also handles macro shots pretty well.
+
+Software
+ wise, the Galaxy Grand Duos offers an array of camera options as seen 
+in the Galaxy S III or the Note II. Users can choose from a host of 
+camera settings like Panorama, Face detection, Flash, Exposure value, 
+Scene mode, ISO, White balance and so on. You can also GPS tag photos, 
+set a timer ranging from 2-10 seconds or use grid lines to capture a 
+well-balanced picture. 
+
+The Share Shot feature allows you to share
+ photos with other users via Wi-Fi Direct. The Buddy photo share option 
+lets click and share photos with friends via face detection.
+
+Burst
+ shot mode, however is a miss, possibly due to the processing 
+capabilities of the device. It is capable of full-HD video recording and
+ you have the option of adding filters as well. The front facing 
+2-megapixel camera is pretty average and offers 480p video recording.
+
+It would have been easier to click pictures with a dedicated camera key owing to the sheer size and bulk of the device.
+
+Software/UIThe
+ Galaxy Grand Duos ships with Android 4.1.2 on-board skinned with 
+Samsung's TouchWiz UI atop. The amalgamation of both, especially Jelly 
+Bean's Project Butter, offers a pleasant and smooth user experience. The
+ interface is pretty fluid that can be attributed to the ARM Cortex-A9 
+MPCore SoC powering the beast. 
+
+Though many would like to see 
+Samsung get rid of the TouchWiz UI from its devices, the skinned UI does
+ offer deeper social integration and various options compared to the 
+stock Android apps. 
+
+There are seven customisable home screens 
+that can be populated with apps and widgets as per your convenience and 
+preferences.  You can take screenshots by holding down the power and 
+home buttons. The Gallery app quickly stores these and imports other 
+pictures via your Facebook and Google accounts.
+
+Apart from the 
+stock Android browser, the device also has the Chrome browser that 
+offers a refreshing experience. You can choose from a variety of options
+ when it comes to sharing, saving or just adjusting your reading 
+preferences.
+
+The device inherits most of the nifty Premium Suite 
+features such as Multi Window, Facebook Lock Ticker, Contextual Menu and
+ Tag, Page Buddy and Sound Balance amongst others. In order for these to
+ work, you'll need to head over to the Settings menu and accordingly 
+change them for the features you wish to access.
+
+Contextual Menu 
+lets you choose to view the most frequently used ones first and comes in
+ handy especially when you're looking through apps to find files to 
+attach. Contextual Tag lets you tag the weather, date and place 
+immediately when you take a picture on the phone.
+
+With Page Buddy,
+ your phone will smartly predict what you intend to do according to your
+ actions, while Facebook Lock Ticker allows quick access to your 
+Facebook News Feeds on your lock screen. Sound Balance allows you to 
+adjust the balance of volume on each side of the earphones.
+
+A host
+ of other proprietary applications include Smart Stay, S Planner, S 
+Memo, S Voice, S Suggest, Chat On, Games Hub and myServices along with 
+an array of motion based gestures. The standard Google apps including 
+Gmail, Youtube, Maps, Chrome, are present as well. As a Jelly Bean user,
+ you can enjoy the benefits and convenience of Google Now, that gets 
+better and better on device usage overtime.
+
+PerformanceThe 
+Galaxy Grand Duos is powered by a 1.2GHz dual core processor coupled 
+with 1GB RAM. It offers 8GB of internal storage with additional 
+expansion support up to 64GB. As part of the company offer, users can 
+also avail 50GB of free Dropbox storage along with Rs. 8,000 worth of 
+movies and music from the myServices app. 
+
+The device runs pretty 
+smoothly without any lags, especially while playing games like Temple 
+Run 2, Jetpack Joyride or even multi-tasking for that matter. The 
+browsing experience on the device was pleasant as image heavy websites 
+rendered flawlessly with panning and zooming being smooth and lag free. 
+
+The
+ stock keyboard works well and offers a "floating keyboard" in 
+split-screen mode that can be positioned anywhere on the screen while 
+using two opened apps simultaneously. 
+
+That said, typing messages 
+on the device could be tedious for someone with small hands, especially 
+in the landscape mode due to the device's size and weight. It does get 
+tiring after a while. An alternate solution is to use the handwriting 
+prediction mode, where you can write the words with your finger. This 
+works pretty well.
+
+Apart from display, the other feature that is 
+really disappointing is the battery life. The device has standard Li-ion
+ 2,100mAh battery that has just enough juice to last about 6 hours or so
+ on a single charge. Wi-Fi connectivity, web browsing, playing games or 
+watching videos at decent brightness levels, totally take a toll on the 
+device's health and you'll find yourself reaching for the charger in no 
+time. 
+
+The smartphone performs well over both Wi-Fi and 3G 
+cellular networks. The device offers quad-band GSM support and tri-band 
+3G support, dual-band Wi-Fi with hotspot capabilities and Wi-Fi Direct, 
+Bluetooth 4.0 and GLONASS. Samsung has tied up with Vodafone and is 
+offering 2GB of data download free per month for the first two months. 
+You can choose to configure which SIM should use 3G packet data.
+
+Samsung
+ Galaxy Grand offers dual-SIM (dual-standby) functionality, though it 
+claims to use software to forward calls from one number to the other if 
+users have call-forwarding on one SIM and call-waiting on the other. 
+However, it didn't work for us with default settings, with users calling
+ SIM 2 getting the 'unreachable' message typical of dual-standby phones.
+ The phone also makes use of the 'Smart Dual SIM' feature that allows 
+the flexibility of selecting different mobile billing plans for either 
+SIM to enable switching between them and make the most of competitive 
+call and data plans. The call quality is pretty good too, even in low 
+network areas.
+
+ 
+
+The audio quality of the device is pretty 
+good with the bundled headphones as well as the rear speaker. Higher 
+volume levels aren't jarring and movies and music are enjoyable on the 
+big screen. The video watching experience is a bit disappointing, 
+especially YouTube videos that get pixelated even when watching in High 
+Quality (HQ).
+
+The video player supports most formats including AVI
+ and MKV and offers a decent experience and 1080p playback also seemed 
+flawless. You even get a screenshot feature along with the option to tag
+ your friends in the video, edit and also set a timer to switch it off 
+automatically.
+
+VerdictThe Galaxy Grand Duos looks like the 
+Galaxy S III and is as big as the Note, which is being offered at a 
+cheaper price. As an all rounder device, this is the best you get from 
+Samsung at a price of Rs. 21,500. The device does offer a good overall 
+performance with a smooth Android 4.1.2 Jelly Bean experience.
+
+The
+ device has great media capabilities, dual-SIM functionality, a good 
+camera with 1080p recording and most of the features of the Note II such
+ as multi-window and a few other Premium Suite features along with a 
+good build quality.
+
+If you are brand conscious and can stand the 
+poor battery life and the low resolution display that aren't in its 
+favour, then you wouldn't mind flaunting the Galaxy Grand Duos amongst 
+friends and family. 
+
+But if you don't want to go over budget and 
+are looking for an HD experience, you'd definitely want to consider the 
+Micromax A116 Canvas HD priced under 15k, that is the hottest selling 
+budget Android phone right now boasting impressive specs such as a 
+5-inch IPS LCD 720p display, a 2,000mAh battery, 8-megapixel rear and 
+2-megapixel front cameras, a quad-core 1.2GHz MediaTek MT6589 processor 
+coupled with the PowerVR Series5XT GPU and 1GB RAM.
+
+Price: Rs. 21,500
+

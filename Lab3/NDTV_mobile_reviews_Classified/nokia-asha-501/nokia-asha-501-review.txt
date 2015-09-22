@@ -1,0 +1,330 @@
+Nokia Asha 501 review
+
+he Nokia Lumia range might be making headlines, but Nokia's feature 
+phones including its relatively new Asha series phones are the ones 
+making cash registers ring for the company across India. The latest to 
+join the bandwagon is the Asha 501, which was unveiled a few months back
+ by Nokia chief Stephen Elop at an event in India. Nokia has 
+been known to come out with solid, sturdy devices rather than flashy, glitzy 
+ones when it comes to its budget phones. However, we think that the 
+Nokia Asha 501 is here to change that and reveals the brand's playful 
+side in the feature phone segment. The much hyped Nokia Asha 501 has 
+finally made it to the Indian market. But does it live up to 
+expectations? We take a close look.Build/ DesignAt a time 
+when phones seem to be getting bigger, the Nokia Asha 501 goes the 
+opposite direction, opting for a compact build with dimensions of 
+99.2x58x12.1mm. When we got the device in our hands the first time, the word that came to our mind was 'cute'. The Asha 501 easily reminded
+ us of the Lumia smartphones and though it is a bit chunky, thanks to 
+its design, it fits in one hand easily. It is pretty light in weight at 
+just 91 grams.Be it an entry-level feature phone or a Lumia 
+smartphone, the one thing that remains consistent in a Nokia phone is 
+its style and design, which generally exudes quality and matches 
+international design standards. The Nokia Asha 501 lives up to this 
+legacy. The front panel is dominated by a 3-inch display that is 
+surrounded by a black bezel with a physical 'Back' key placed at the 
+bottom of the panel and the Nokia logo on top of the screen just below 
+the earpiece. Nokia has followed the same Lumia design language, placing
+ the physical keys for volume controls and power buttons on the right. 
+We did miss a camera hardware key, though. The top panel houses a 2.5mm 
+charging port, a Micro-USB port and a 3.5mm audio port.The back 
+of the device includes a 3.2-megapixel camera placed at the centre 
+towards the top, with a vertical Nokia branding just below the camera. 
+At the bottom of the rear panel, there's a button that can be pressed to remove the back panel. This sounds simple, though it took some time to get
+ used to. The back panel is an exchangeable shell which can be 
+replaced with other bright coloured panels that include Red, Cyan 
+Yellow, Green, White and Black colours. The battery is removable and a Micro-SIM card slot hides behind it in the same compartment. The second Micro-SIM can be changed without switching off the device and same is 
+the case with the memory card. Overall, the Nokia Asha 501 is 
+impressive in design and, definitely a looker. The handset, despite its 
+relatively low price, feels solid and is comfortable to use. DisplayThe
+ Nokia Asha 501 includes a 3-inch capacitive display, a huge advantage 
+for a device in the price segment. The 3-inch TFT capacitive display 
+comes with a resolution of 240x320 pixels and boasts a pixel density of 
+133PPI. It includes options like brightness control, RGB Stripe,
+ and support for the double tap to wake up gesture. The display 
+is responsive to touch, though at times it has a bit of a lag. It supports
+ two-point touch and includes a 
+proximity sensor. The display has good viewing angles and is readable 
+under the sun.Software/ InterfaceWith the Asha 501,
+ Nokia has introduced a new platform, which it calls the Nokia Asha 
+software platform 1.0 instead of S40 (Series 40) which powers other Asha 
+devices. However, the user-interface is similar to that of the S40 
+operating system found in previous versions of the Asha series of touch 
+phones, based on the Nokia N9's swipe concept. Nokia Asha 501 comes with a UI that is easy to use and largely dominated by gesture controls 
+like swiping. The Back 
+hardware key proves to be handy when stuck 
+in app or for closing an app.Nokia unveiled the Fastlane feature 
+for the Asha 501. It collectively shows all the recent apps in a list 
+form according to dates. The feature gives a quick overview yout activity. For instance, if you played a game or used an app on the
+ device it will automatically be featured on the Fastlane as a log. It 
+is also the default homescreen when one unlocks the phone, and doubles up as a task-switcher of sorts. Swiping the 
+screen from either side, from any app or game takes you directly to the 
+Fastlane. While using an app, you can access options by swiping up from 
+the bottom and these appear. It worked well for us. If you want 
+to change the location of an app or even delete it, just long press and 
+hold the app icon on the menu list. There are not many personalisation 
+options on the Asha 501, which is a bit of a let down and one can only 
+change the wallpaper and sound profiles. The phone comes with the 
+default standby screen with a digital clock, and you can change it in 
+the Settings through the 'Glance screen' option. There is a notification
+ bar at the top, similar to what we have already seen in previous Asha 
+phones. You can pull it down to see SIM information and adjust Wi-Fi, 
+Bluetooth, mobile data and sound profile settings.The Nokia Asha 
+501 comes with the company's proprietary Xpress Browser, which was 
+introduced for the Asha range of phones. The browser compresses the 
+data, much like the Opera Mini. We had no complaints browsing the web on
+ the phone. One can open up to 6 web pages on the device at once and can
+ switch between them. The phone comes with some preloaded apps 
+and games. The games are Java-based but the experience was great for a phone at this price point. Some popular apps that come 
+pre-installed include Facebook, Twitter, Nokia Chat, twist Music and 
+NewsHunt. The Asha 501 comes with 40 free EA games that can be 
+downloaded using Wi-Fi. WhatsApp is said to be available on the platform shortly. One 
+can browse and download apps through the Store. We downloaded the Here 
+Maps Beta version on our Asha 501 and it worked well with Wi-Fi.CameraThe
+ Nokia Asha 501 comes with a 3.2-megapixel camera without flash and 
+auto-focus options. The camera comes with some basic features and offers
+ toggles for timer settings, white balance, effects and photo resolution
+ adjustment. The resolution can be changed to 2048x1536, 1600x1200, 
+1280x960 and 640x480. The camera can take decent shots in 
+daylight with good colours but lacks details, and we found that night 
+shots were not that great. Same was the case with indoor photos which were rather grainy. The Nokia Asha 501 is not a device 
+to click close-up shots because of the camera's fixed-focus nature. The camera comes with digital zoom up to 3X.The
+ pictures miss out on detail but considering the price and the audience 
+that Nokia is targeting, we can say it doesn't disappoint completely.PerformanceThe
+ Nokia Asha 501 handled swiping well and was smooth and responsive for 
+most part. Some apps did freeze at times, but we were able to exit to the 
+home screen through the back key. The phone offered good call clarity 
+with both the SIM slots and the FM radio reception was decent. The phone
+ can be unlocked either by using the power key or by double-tapping the 
+screen, which is a cool feature.Sadly the music player of the 
+Asha 501 misses out on basic options like adjustable equalisers and 
+pre-set music profiles. The music player interface does show the artwork
+ related to the song and the album. The speaker was good and loud.We
+ had no complaints watching some of our favourite videos on the device 
+through YouTube, though the video playing experience was limited with no support for MP4, MOV, MKV or AVI file formats. It was unable to play 720p (or higher) video either.We would 
+have loved if Nokia included a notification light as it would have enhanced the overall experience of using the handset.The Gallery app supports pinch to zoom and gives options to share images 
+through Bluetooth and email. The pinch to zoom feature worked well 
+during our time with the phone.The Nokia Asha 501 comes with 
+128MB of internal storage and 64MB of RAM. It also supports expandable 
+memory cards up to 32GB thanks to microSD card slot. Connectivity 
+features include like Wi-Fi, Bluetooth and Micro-USB. However, we did 
+miss 3G on the device. The device packs a 1200mAh battery that 
+the company claims, delivers 624 hours of standby time and a talk time of
+ 17 hours. However, we were not very happy with the back-up. When
+ we used the device (with Wi-Fi) for Web browsing, chatting, 
+playing games like Litle Big City, Bubble Bash, Wolverine and others, we
+ found that the battery just about lasted a day, which is less than what you expect from phones in this category.However, when not using Wi-Fi or data on the phone and 
+using it for just normal calling, messaging, occasionally clicking 
+photos and playing some games, the device lasted a couple of days with 
+just one full charge.Verdict The Nokia Asha 501 is 
+definitely good in some departments but disappoints in some. If we 
+consider the price of the device and the features that it brings, it is overall a very good deal. For those looking to buy a feature 
+phone that delivers a smartphone-like experience, the Nokia Asha 501 is a
+ decent package. One thing that surprised us was that both the 
+SIM slots supported Micro-SIM, which may be an inconvenience for some. Overall, the Asha 501 scores well in terms of design, 
+user-interface and build quality.Those looking for alternatives 
+can go for a Samsung's Galaxy Star that comes at a price of Rs. 4,900. 
+Another Android option is the Micromax Bolt A35, which comes at a price 
+of Rs. 4,400.If you want a Nokia alternative then you can also opt for Nokia Asha 305.Nokia Asha 501: In picturesPrice: Rs. 5,199
+
+Nokia has 
+been known to come out with solid, sturdy devices rather than flashy, glitzy 
+ones when it comes to its budget phones. However, we think that the 
+Nokia Asha 501 is here to change that and reveals the brand's playful 
+side in the feature phone segment. The much hyped Nokia Asha 501 has 
+finally made it to the Indian market. But does it live up to 
+expectations? We take a close look.
+
+Build/ Design
+
+At a time 
+when phones seem to be getting bigger, the Nokia Asha 501 goes the 
+opposite direction, opting for a compact build with dimensions of 
+99.2x58x12.1mm. When we got the device in our hands the first time, the word that came to our mind was 'cute'. 
+
+The Asha 501 easily reminded
+ us of the Lumia smartphones and though it is a bit chunky, thanks to 
+its design, it fits in one hand easily. It is pretty light in weight at 
+just 91 grams.
+
+Be it an entry-level feature phone or a Lumia 
+smartphone, the one thing that remains consistent in a Nokia phone is 
+its style and design, which generally exudes quality and matches 
+international design standards. The Nokia Asha 501 lives up to this 
+legacy. 
+
+The front panel is dominated by a 3-inch display that is 
+surrounded by a black bezel with a physical 'Back' key placed at the 
+bottom of the panel and the Nokia logo on top of the screen just below 
+the earpiece. Nokia has followed the same Lumia design language, placing
+ the physical keys for volume controls and power buttons on the right. 
+We did miss a camera hardware key, though. The top panel houses a 2.5mm 
+charging port, a Micro-USB port and a 3.5mm audio port.
+
+The back 
+of the device includes a 3.2-megapixel camera placed at the centre 
+towards the top, with a vertical Nokia branding just below the camera. 
+At the bottom of the rear panel, there's a button that can be pressed to remove the back panel. This sounds simple, though it took some time to get
+ used to. 
+
+The back panel is an exchangeable shell which can be 
+replaced with other bright coloured panels that include Red, Cyan 
+Yellow, Green, White and Black colours. The battery is removable and a Micro-SIM card slot hides behind it in the same compartment. The second Micro-SIM can be changed without switching off the device and same is 
+the case with the memory card. Overall, the Nokia Asha 501 is 
+impressive in design and, definitely a looker. The handset, despite its 
+relatively low price, feels solid and is comfortable to use.
+
+ 
+
+Display
+
+The
+ Nokia Asha 501 includes a 3-inch capacitive display, a huge advantage 
+for a device in the price segment. The 3-inch TFT capacitive display 
+comes with a resolution of 240x320 pixels and boasts a pixel density of 
+133PPI. It includes options like brightness control, RGB Stripe,
+ and support for the double tap to wake up gesture. The display 
+is responsive to touch, though at times it has a bit of a lag. It supports
+ two-point touch and includes a 
+proximity sensor. The display has good viewing angles and is readable 
+under the sun.
+
+Software/ Interface
+
+With the Asha 501,
+ Nokia has introduced a new platform, which it calls the Nokia Asha 
+software platform 1.0 instead of S40 (Series 40) which powers other Asha 
+devices. However, the user-interface is similar to that of the S40 
+operating system found in previous versions of the Asha series of touch 
+phones, based on the Nokia N9's swipe concept. 
+
+Nokia Asha 501 comes with a UI that is easy to use and largely dominated by gesture controls 
+like swiping. The Back 
+hardware key proves to be handy when stuck 
+in app or for closing an app.
+
+Nokia unveiled the Fastlane feature 
+for the Asha 501. It collectively shows all the recent apps in a list 
+form according to dates. The feature gives a quick overview yout activity. For instance, if you played a game or used an app on the
+ device it will automatically be featured on the Fastlane as a log. It 
+is also the default homescreen when one unlocks the phone, and doubles up as a task-switcher of sorts. Swiping the 
+screen from either side, from any app or game takes you directly to the 
+Fastlane. While using an app, you can access options by swiping up from 
+the bottom and these appear. It worked well for us. 
+
+If you want 
+to change the location of an app or even delete it, just long press and 
+hold the app icon on the menu list. There are not many personalisation 
+options on the Asha 501, which is a bit of a let down and one can only 
+change the wallpaper and sound profiles. The phone comes with the 
+default standby screen with a digital clock, and you can change it in 
+the Settings through the 'Glance screen' option. There is a notification
+ bar at the top, similar to what we have already seen in previous Asha 
+phones. You can pull it down to see SIM information and adjust Wi-Fi, 
+Bluetooth, mobile data and sound profile settings.
+
+The Nokia Asha 
+501 comes with the company's proprietary Xpress Browser, which was 
+introduced for the Asha range of phones. The browser compresses the 
+data, much like the Opera Mini. We had no complaints browsing the web on
+ the phone. One can open up to 6 web pages on the device at once and can
+ switch between them. 
+
+The phone comes with some preloaded apps 
+and games. The games are Java-based but the experience was great for a phone at this price point. Some popular apps that come 
+pre-installed include Facebook, Twitter, Nokia Chat, twist Music and 
+NewsHunt. The Asha 501 comes with 40 free EA games that can be 
+downloaded using Wi-Fi. WhatsApp is said to be available on the platform shortly. One 
+can browse and download apps through the Store. We downloaded the Here 
+Maps Beta version on our Asha 501 and it worked well with Wi-Fi.
+
+Camera
+
+The
+ Nokia Asha 501 comes with a 3.2-megapixel camera without flash and 
+auto-focus options. The camera comes with some basic features and offers
+ toggles for timer settings, white balance, effects and photo resolution
+ adjustment. The resolution can be changed to 2048x1536, 1600x1200, 
+1280x960 and 640x480. 
+
+The camera can take decent shots in 
+daylight with good colours but lacks details, and we found that night 
+shots were not that great. Same was the case with indoor photos which were rather grainy. The Nokia Asha 501 is not a device 
+to click close-up shots because of the camera's fixed-focus nature. The camera comes with digital zoom up to 3X.
+
+The
+ pictures miss out on detail but considering the price and the audience 
+that Nokia is targeting, we can say it doesn't disappoint completely.
+
+Performance
+
+The
+ Nokia Asha 501 handled swiping well and was smooth and responsive for 
+most part. 
+
+Some apps did freeze at times, but we were able to exit to the 
+home screen through the back key. The phone offered good call clarity 
+with both the SIM slots and the FM radio reception was decent. The phone
+ can be unlocked either by using the power key or by double-tapping the 
+screen, which is a cool feature.
+
+Sadly the music player of the 
+Asha 501 misses out on basic options like adjustable equalisers and 
+pre-set music profiles. The music player interface does show the artwork
+ related to the song and the album. The speaker was good and loud.
+
+We
+ had no complaints watching some of our favourite videos on the device 
+through YouTube, though the video playing experience was limited with no support for MP4, MOV, MKV or AVI file formats. It was unable to play 720p (or higher) video either.
+
+We would 
+have loved if Nokia included a notification light as it would have enhanced the overall experience of using the handset.
+
+The Gallery app supports pinch to zoom and gives options to share images 
+through Bluetooth and email. The pinch to zoom feature worked well 
+during our time with the phone.
+
+The Nokia Asha 501 comes with 
+128MB of internal storage and 64MB of RAM. It also supports expandable 
+memory cards up to 32GB thanks to microSD card slot. Connectivity 
+features include like Wi-Fi, Bluetooth and Micro-USB. However, we did 
+miss 3G on the device. 
+
+The device packs a 1200mAh battery that 
+the company claims, delivers 624 hours of standby time and a talk time of
+ 17 hours. However, we were not very happy with the back-up. 
+
+When
+ we used the device (with Wi-Fi) for Web browsing, chatting, 
+playing games like Litle Big City, Bubble Bash, Wolverine and others, we
+ found that the battery just about lasted a day, which is less than what you expect from phones in this category.
+
+However, when not using Wi-Fi or data on the phone and 
+using it for just normal calling, messaging, occasionally clicking 
+photos and playing some games, the device lasted a couple of days with 
+just one full charge.
+
+Verdict
+
+ The Nokia Asha 501 is 
+definitely good in some departments but disappoints in some. If we 
+consider the price of the device and the features that it brings, it is overall a very good deal. 
+
+For those looking to buy a feature 
+phone that delivers a smartphone-like experience, the Nokia Asha 501 is a
+ decent package. One thing that surprised us was that both the 
+SIM slots supported Micro-SIM, which may be an inconvenience for some. Overall, the Asha 501 scores well in terms of design, 
+user-interface and build quality.
+
+Those looking for alternatives 
+can go for a Samsung's Galaxy Star that comes at a price of Rs. 4,900. 
+Another Android option is the Micromax Bolt A35, which comes at a price 
+of Rs. 4,400.
+
+If you want a Nokia alternative then you can also opt for Nokia Asha 305.
+
+
+
+
+
+Price: Rs. 5,199
+

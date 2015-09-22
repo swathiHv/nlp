@@ -1,0 +1,425 @@
+Micromax Canvas Turbo Mini review
+
+Micromax is currently sitting pretty in the number two slot as far as
+ total shipments go in the Indian smartphone market, which goes to show 
+that the company has managed to make a name for itself in a relatively 
+short period of time despite being up against major established brands 
+such as Samsung and Nokia. That in itself reveals that Indian smartphone
+ buyers are motivated by price, looks and features, and are willing to 
+spend reasonable amounts of money on a smartphone even if it doesn't 
+come with the assurance of a huge international conglomerate behind it.When
+ compared to devices from major manufacturers, Micromax products haven't
+ always come out looking good. They're undeniably aimed at budget-minded
+ buyers, and thus things like construction quality and raw performance 
+tend to suffer. That said, things have been improving slowly over time 
+and the company has begun to move more into the mainstream, shedding its
+ "China-made" image along the way.Micromax plays in the sub-Rs. 
+20,000 category, and offers quite a diverse range of smartphones. The 
+Canvas Turbo Mini is comfortably priced at Rs. 12,000 (street price) which clearly positions 
+it below the company's (relatively) premium offerings. Several manufacturers have 
+come out with "mini" versions of their flagship products, offering 
+smaller screen sizes and more modest specifications for a little less 
+money. Micromax has matched the trend with this device.Interestingly,
+ while Indian brands are slowly experimenting with more expensive 
+products, Motorola has attacked the Rs. 12,000 - 15,000 space that these
+ companies have done so well in of late. The Canvas Turbo Mini is priced
+ in line with the recently launched Moto G. Given how happy we were with
+ that phone's price, performance and features, the Canvas Turbo Mini 
+will have to put up a very strong fight.Look and feelThe Turbo Mini is meant to complement last year's Canvas Turbo, which
+ had a 5-inch full-HD screen and 1.5GHz quad-core processor. Even though
+ 4.65 inches isn't exactly a huge step down, we found this phone earns its "Mini" tag by being light and small enough to be comfortable in one hand, while still 
+offering a decent-sized screen.There is definitely a family 
+resemblance between the Canvas Turbo Mini and its bigger sibling. They 
+both share the same overall shape and very similar front faces. Little 
+touches such as the front and rear speaker grilles and the ring around 
+the rear camera lens also feel familiar on the Turbo Mini.Still, 
+even though these two models feel like part of a family, Micromax on the
+ whole doesn't seem to have its own design style. This phone isn't an 
+outright copy of a major manufacturer's design, but there are definite 
+cues from Samsung's style on the front panel, while the rear echoes of 
+some of HTC's older products. Just for good measure, the Canvas Turbo 
+Mini also comes in a rounded plastic box that seems directly inspired by
+ Apple's iPhone 5c and iPod touch packaging.In fact the front and
+ back aren't alike at all. While the front panel is all white, the rear 
+is made of a grey plastic that might be supposed to look like metal. The
+ unit we received for review was quite badly scuffed and scratched, and 
+even though we don't know how it was treated before it got to us, this 
+doesn't bode well for the long-term life of this phone.The rear 
+panel is made of a large central panel with smaller strips along the top
+ and bottom. Of these, only the top one is meant to come off, but we 
+found that the lower one wasn't very well fastened and didn't line up 
+with the rest of the body properly. You won't see any branding in the 
+front, but Micromax evidently deemed it necessary to put two logos on 
+the rear panel. While the company's punching-fist M! logotype is a very 
+clever bit of design, we would have been happy enough with just one copy
+ of it. For some reason, the primary (Micro-) SIM card goes into a
+ tray on the phone's left edge while the secondary (regular) SIM and 
+microSD cards fit into slots under the upper back panel, flanking the 
+raised rear camera. You can pop the SIM tray out using a neat-looking 
+eject pin with Micromax's logo embossed on it that you'll find packed in
+ the box. There's nothing on the bottom, and you'll find both the 
+Micro-USB charging port and 3.5mm headset jack on the top edge. The 
+power and volume rocker buttons are on the right edge, but we weren't 
+happy with the fact that they're quite sharp-edged and also raised from 
+the phone's surface, making it the phone a little uncomfortable to hold.All
+ in all, we're not entirely happy with the Canvas Turbo Mini's 
+construction quality. Comparisons to the Moto G are inevitable, and 
+there's just no doubt about which one we'd consider the better of the two. When we said the Moto G had 
+rewritten the rules of this price band, we weren't kidding. Micromax has
+ a lot to learn if it wants to catch up.Features and specificationsAs
+ with most budget Android phones that boast of "quad-core" processors, 
+this one is built around a Mediatek CPU. The MT6582 is not exactly a 
+speed demon, even with four cores running at up to 1.3GHz. The GPU core 
+is a Mali-400MP which is also commonly found in low-end devices. There's
+ 1GB of RAM and a paltry 4GB of built-in storage, less than half of 
+which is available to the user for apps and data. You'll need to invest 
+in at least a 16GB microSD card if you want to use this phone for pretty
+ much anything other than making calls and sending text messages.Luckily,
+ the screen isn't bad at all. You won't get the widest viewing angles or
+ most accurate colour reproduction, but 720x1280 at 4.65 inches comes to
+ a crisp, sharp 320dpi. Text is easy to read and the Android interface 
+looks great.The battery is non-removable, and at 1800mAh is 
+definitely not on the higher capacity side. The rear camera takes 
+8-megapixel shots while the front camera is good enough for 5-megapixel 
+selfies. Beyond this, there isn't much to say about the Canvas Turbo 
+Mini.SoftwareIt comes as no surprise that this phone runs 
+Android 4.2.2, but we're going to point out that the Moto G runs the 
+latest version, 4.4. Micromax has customised the interface a little bit,
+ but nowhere near as much as Samsung and HTC do, for example. The icons 
+in the main menu are all different, and certain screens, such as the 
+notification flyout and settings app have been given white backgrounds 
+instead of black. Rather than a button for quick settings at the top of 
+the screen, Micromax has used two buttons at the bottom to divide the 
+flyout into two sections, "Notification" and "Switch". Beyond that, it's
+ pretty much vanilla stock Android.Micromax has thrown in a few 
+apps and games, which you might or might not find useful. The three 
+games are all rather basic and allow you to play only a few times before
+ you're asked to pay Rs. 99 to "unlock" them. M! Live is a link to an 
+online app store that opens in your Web browser. The apps look rather 
+spammy and even though there are a few big names such as The Sims 3 and 
+Plants vs Zombies, clicking them led nowhere. When we tried clicking on 
+the name of a free game for more information, an APK file download began
+ automatically. This is a bit of a security risk, since there's no 
+information about where it came from or what it might want to do with 
+your phone. Luckily, the Canvas Turbo Mini is set to block 
+installation of apps obtained from outside the Google Play store by default. If 
+Micromax wants users to use their own M! Live website, it makes no sense
+ for them to block APK installations. On the other hand, we're glad that
+ this basic security measure is in place and have no problem ignoring 
+the existence of M! Live altogether.Micromax also advertises Rs. 
+99 worth of free content from its store to users. You have to sign up 
+with your phone number, and you'll receive an SMS with a code. From 
+there, you're prompted to fill out a survey or download a promotional 
+app, which is the height of spammy behaviour and totally belies 
+Micromax's promise of free content. You can apply for a credit card, 
+download a branded promotional app (which is otherwise totally free in 
+the Play store) or part with your personal information - none of which 
+are appealing options. The screen of options claims you don't have to 
+register for anything, you only have to provide information - which 
+means giving your personal details to unknown telemarketers who will 
+then pester you to sign up for a credit card or insurance policy. We're highly 
+disappointed to see Micromax putting its name on such a shady 
+money-making scheme and even worse, trying to pass it off as a benefit for 
+customers.Micromax continues its intrusive behaviour by preloaded
+ custom branded versions of Spuul, a video streaming service, Hike, a 
+messaging app, the Opera Mini web browser, and Kingsoft Office. Of 
+these, only Opera and Kingsoft are genuinely useful. Kingsoft in 
+particular deserves a mention for its excellent handling of heavily 
+formatted Word and Excel documents, along with PDFs, plain text files, 
+and a variety of other formats. CameraThe camera app has 
+also been customized, and we liked the way controls such as the panorama
+ mode and ISO settings are easily accessible. The custom app also has 
+two little tricks built in, both of which sound good on paper but are 
+utterly useless in practice. The first is GIF animation. It sounds 
+simple enough, but the app tries to go for a cinemagraph effect where 
+you can make part of a frame move while the rest stays static. The effect is extremely crude, and the resultant GIF file itself is grainy and 
+low-quality. We'd be much happier trimming clips from a video.The
+ second trick is called Remove Object, and it tries to take multiple 
+shots in order to track objects moving between them, and then remove them 
+from a frame. On the rare occasion that something moving was actually 
+detected, we were left with poorly defined blurs instead of clear 
+background. We quickly dispensed with the special effects and 
+found that for all its other shortcomings, the Canvas Turbo Mini 
+actually has a pretty decent camera. We were pleasantly surprised to see
+ that images taken in all sorts of lighting conditions were clear and 
+detailed. In daylight, colours were vibrant and textures on things like 
+tree bark were captured decently well. There definitely is noise and 
+compression, but for this price, we aren't complaining.(Click to see full size)The rear 
+camera does fairly well at night too, both with and without the flash.
+ Videos were more than adequate at 720p, though you don't get any sort 
+of stabilisation. However it was the front camera that most impressed 
+us. We found shots of people were a bit washed out and overexposed, but 
+even then the quality is better than many other phones' front-facing 
+cameras.PerformanceThere isn't much good news as far as 
+performance goes. There were regular slight but noticeable lags 
+throughout our time with this phone, especially when switching between 
+apps and jumping in and out of menus. HD video playback was a mixed bag -
+ some of our 720p test files played just fine, but in most cases the 
+phone stuttered badly during intensive scenes and when we tried jumping 
+up and down the timeline. 1080p video playback depended entirely on the 
+codec and bitrate used.In terms of benchmark tests, we ran our 
+usual suite of CPU and GPU tests. While general processing tasks weren't
+ too terrible, the Canvas Turbo Mini fell quite short in the graphics 
+department. We saw scores of 16,786 in AnTuTu and 5,737 in Quadrant, but
+ only 6.5fps in GFXbench's gaming simulation and 2,001 in 3DMark's Ice 
+Storm Extreme graphics runthrough.Simple games such as Temple Run
+ 2 worked perfectly well and we had no complaints. If you like this type
+ of game to while away the time while commuting, you won't have any 
+problem with this phone.The battery lasted for 5 hours, 41 
+minutes in our video loop test, which was less than we would have liked.
+ Even with casual usage, the percentage meter seemed to drop awfully 
+quickly. We're not confident of getting a full day's work done on a 
+single charge.VerdictWith an MRP of Rs. 14,490 (but a 
+street price closer to Rs. 12,000), the Canvas Turbo Mini goes right up 
+against the Motorola Moto G in the market. We had only two issues with 
+the Moto G; its camera and non-expandable storage. These are two areas 
+in which the Canvas Turbo Mini has the advantage, but in every other 
+aspect, the Moto G is hands down the superior product. It isn't just 
+about performance: the Moto G is built better, looks better, and feels 
+like it will last much longer.The Canvas Turbo Mini is a nice 
+enough phone, but like we said in our Moto G review, that product has 
+changed the game. Micromax, which struck fear into the hearts of the 
+world's biggest brands by selling good-enough products at low enough prices, 
+now finds itself on the other side of that coin.
+Micromax Canvas Turbo Mini in pictures
+
+Micromax is currently sitting pretty in the number two slot as far as
+ total shipments go in the Indian smartphone market, which goes to show 
+that the company has managed to make a name for itself in a relatively 
+short period of time despite being up against major established brands 
+such as Samsung and Nokia. That in itself reveals that Indian smartphone
+ buyers are motivated by price, looks and features, and are willing to 
+spend reasonable amounts of money on a smartphone even if it doesn't 
+come with the assurance of a huge international conglomerate behind it.
+
+When
+ compared to devices from major manufacturers, Micromax products haven't
+ always come out looking good. They're undeniably aimed at budget-minded
+ buyers, and thus things like construction quality and raw performance 
+tend to suffer. That said, things have been improving slowly over time 
+and the company has begun to move more into the mainstream, shedding its
+ "China-made" image along the way.
+
+Micromax plays in the sub-Rs. 
+20,000 category, and offers quite a diverse range of smartphones. The 
+Canvas Turbo Mini is comfortably priced at Rs. 12,000 (street price) which clearly positions 
+it below the company's (relatively) premium offerings. Several manufacturers have 
+come out with "mini" versions of their flagship products, offering 
+smaller screen sizes and more modest specifications for a little less 
+money. Micromax has matched the trend with this device.
+
+Interestingly,
+ while Indian brands are slowly experimenting with more expensive 
+products, Motorola has attacked the Rs. 12,000 - 15,000 space that these
+ companies have done so well in of late. The Canvas Turbo Mini is priced
+ in line with the recently launched Moto G. Given how happy we were with
+ that phone's price, performance and features, the Canvas Turbo Mini 
+will have to put up a very strong fight.
+
+Look and feelThe Turbo Mini is meant to complement last year's Canvas Turbo, which
+ had a 5-inch full-HD screen and 1.5GHz quad-core processor. Even though
+ 4.65 inches isn't exactly a huge step down, we found this phone earns its "Mini" tag by being light and small enough to be comfortable in one hand, while still 
+offering a decent-sized screen.
+
+There is definitely a family 
+resemblance between the Canvas Turbo Mini and its bigger sibling. They 
+both share the same overall shape and very similar front faces. Little 
+touches such as the front and rear speaker grilles and the ring around 
+the rear camera lens also feel familiar on the Turbo Mini.
+
+Still, 
+even though these two models feel like part of a family, Micromax on the
+ whole doesn't seem to have its own design style. This phone isn't an 
+outright copy of a major manufacturer's design, but there are definite 
+cues from Samsung's style on the front panel, while the rear echoes of 
+some of HTC's older products. Just for good measure, the Canvas Turbo 
+Mini also comes in a rounded plastic box that seems directly inspired by
+ Apple's iPhone 5c and iPod touch packaging.
+
+In fact the front and
+ back aren't alike at all. While the front panel is all white, the rear 
+is made of a grey plastic that might be supposed to look like metal. The
+ unit we received for review was quite badly scuffed and scratched, and 
+even though we don't know how it was treated before it got to us, this 
+doesn't bode well for the long-term life of this phone.
+
+The rear 
+panel is made of a large central panel with smaller strips along the top
+ and bottom. Of these, only the top one is meant to come off, but we 
+found that the lower one wasn't very well fastened and didn't line up 
+with the rest of the body properly. You won't see any branding in the 
+front, but Micromax evidently deemed it necessary to put two logos on 
+the rear panel. While the company's punching-fist M! logotype is a very 
+clever bit of design, we would have been happy enough with just one copy
+ of it. 
+
+For some reason, the primary (Micro-) SIM card goes into a
+ tray on the phone's left edge while the secondary (regular) SIM and 
+microSD cards fit into slots under the upper back panel, flanking the 
+raised rear camera. You can pop the SIM tray out using a neat-looking 
+eject pin with Micromax's logo embossed on it that you'll find packed in
+ the box. There's nothing on the bottom, and you'll find both the 
+Micro-USB charging port and 3.5mm headset jack on the top edge. The 
+power and volume rocker buttons are on the right edge, but we weren't 
+happy with the fact that they're quite sharp-edged and also raised from 
+the phone's surface, making it the phone a little uncomfortable to hold.
+
+All
+ in all, we're not entirely happy with the Canvas Turbo Mini's 
+construction quality. Comparisons to the Moto G are inevitable, and 
+there's just no doubt about which one we'd consider the better of the two. When we said the Moto G had 
+rewritten the rules of this price band, we weren't kidding. Micromax has
+ a lot to learn if it wants to catch up.
+
+Features and specificationsAs
+ with most budget Android phones that boast of "quad-core" processors, 
+this one is built around a Mediatek CPU. The MT6582 is not exactly a 
+speed demon, even with four cores running at up to 1.3GHz. The GPU core 
+is a Mali-400MP which is also commonly found in low-end devices. There's
+ 1GB of RAM and a paltry 4GB of built-in storage, less than half of 
+which is available to the user for apps and data. You'll need to invest 
+in at least a 16GB microSD card if you want to use this phone for pretty
+ much anything other than making calls and sending text messages.
+
+Luckily,
+ the screen isn't bad at all. You won't get the widest viewing angles or
+ most accurate colour reproduction, but 720x1280 at 4.65 inches comes to
+ a crisp, sharp 320dpi. Text is easy to read and the Android interface 
+looks great.
+
+The battery is non-removable, and at 1800mAh is 
+definitely not on the higher capacity side. The rear camera takes 
+8-megapixel shots while the front camera is good enough for 5-megapixel 
+selfies. Beyond this, there isn't much to say about the Canvas Turbo 
+Mini.
+
+SoftwareIt comes as no surprise that this phone runs 
+Android 4.2.2, but we're going to point out that the Moto G runs the 
+latest version, 4.4. Micromax has customised the interface a little bit,
+ but nowhere near as much as Samsung and HTC do, for example. The icons 
+in the main menu are all different, and certain screens, such as the 
+notification flyout and settings app have been given white backgrounds 
+instead of black. Rather than a button for quick settings at the top of 
+the screen, Micromax has used two buttons at the bottom to divide the 
+flyout into two sections, "Notification" and "Switch". Beyond that, it's
+ pretty much vanilla stock Android.
+
+Micromax has thrown in a few 
+apps and games, which you might or might not find useful. The three 
+games are all rather basic and allow you to play only a few times before
+ you're asked to pay Rs. 99 to "unlock" them. M! Live is a link to an 
+online app store that opens in your Web browser. The apps look rather 
+spammy and even though there are a few big names such as The Sims 3 and 
+Plants vs Zombies, clicking them led nowhere. When we tried clicking on 
+the name of a free game for more information, an APK file download began
+ automatically. This is a bit of a security risk, since there's no 
+information about where it came from or what it might want to do with 
+your phone. 
+
+Luckily, the Canvas Turbo Mini is set to block 
+installation of apps obtained from outside the Google Play store by default. If 
+Micromax wants users to use their own M! Live website, it makes no sense
+ for them to block APK installations. On the other hand, we're glad that
+ this basic security measure is in place and have no problem ignoring 
+the existence of M! Live altogether.
+
+Micromax also advertises Rs. 
+99 worth of free content from its store to users. You have to sign up 
+with your phone number, and you'll receive an SMS with a code. From 
+there, you're prompted to fill out a survey or download a promotional 
+app, which is the height of spammy behaviour and totally belies 
+Micromax's promise of free content. You can apply for a credit card, 
+download a branded promotional app (which is otherwise totally free in 
+the Play store) or part with your personal information - none of which 
+are appealing options. The screen of options claims you don't have to 
+register for anything, you only have to provide information - which 
+means giving your personal details to unknown telemarketers who will 
+then pester you to sign up for a credit card or insurance policy. We're highly 
+disappointed to see Micromax putting its name on such a shady 
+money-making scheme and even worse, trying to pass it off as a benefit for 
+customers.
+
+Micromax continues its intrusive behaviour by preloaded
+ custom branded versions of Spuul, a video streaming service, Hike, a 
+messaging app, the Opera Mini web browser, and Kingsoft Office. Of 
+these, only Opera and Kingsoft are genuinely useful. Kingsoft in 
+particular deserves a mention for its excellent handling of heavily 
+formatted Word and Excel documents, along with PDFs, plain text files, 
+and a variety of other formats. 
+
+CameraThe camera app has 
+also been customized, and we liked the way controls such as the panorama
+ mode and ISO settings are easily accessible. The custom app also has 
+two little tricks built in, both of which sound good on paper but are 
+utterly useless in practice. The first is GIF animation. It sounds 
+simple enough, but the app tries to go for a cinemagraph effect where 
+you can make part of a frame move while the rest stays static. The effect is extremely crude, and the resultant GIF file itself is grainy and 
+low-quality. We'd be much happier trimming clips from a video.
+
+The
+ second trick is called Remove Object, and it tries to take multiple 
+shots in order to track objects moving between them, and then remove them 
+from a frame. On the rare occasion that something moving was actually 
+detected, we were left with poorly defined blurs instead of clear 
+background. 
+
+We quickly dispensed with the special effects and 
+found that for all its other shortcomings, the Canvas Turbo Mini 
+actually has a pretty decent camera. We were pleasantly surprised to see
+ that images taken in all sorts of lighting conditions were clear and 
+detailed. In daylight, colours were vibrant and textures on things like 
+tree bark were captured decently well. There definitely is noise and 
+compression, but for this price, we aren't complaining.
+
+(Click to see full size)
+
+The rear 
+camera does fairly well at night too, both with and without the flash.
+ Videos were more than adequate at 720p, though you don't get any sort 
+of stabilisation. However it was the front camera that most impressed 
+us. We found shots of people were a bit washed out and overexposed, but 
+even then the quality is better than many other phones' front-facing 
+cameras.
+
+PerformanceThere isn't much good news as far as 
+performance goes. There were regular slight but noticeable lags 
+throughout our time with this phone, especially when switching between 
+apps and jumping in and out of menus. HD video playback was a mixed bag -
+ some of our 720p test files played just fine, but in most cases the 
+phone stuttered badly during intensive scenes and when we tried jumping 
+up and down the timeline. 1080p video playback depended entirely on the 
+codec and bitrate used.
+
+In terms of benchmark tests, we ran our 
+usual suite of CPU and GPU tests. While general processing tasks weren't
+ too terrible, the Canvas Turbo Mini fell quite short in the graphics 
+department. We saw scores of 16,786 in AnTuTu and 5,737 in Quadrant, but
+ only 6.5fps in GFXbench's gaming simulation and 2,001 in 3DMark's Ice 
+Storm Extreme graphics runthrough.
+
+Simple games such as Temple Run
+ 2 worked perfectly well and we had no complaints. If you like this type
+ of game to while away the time while commuting, you won't have any 
+problem with this phone.
+
+The battery lasted for 5 hours, 41 
+minutes in our video loop test, which was less than we would have liked.
+ Even with casual usage, the percentage meter seemed to drop awfully 
+quickly. We're not confident of getting a full day's work done on a 
+single charge.
+
+VerdictWith an MRP of Rs. 14,490 (but a 
+street price closer to Rs. 12,000), the Canvas Turbo Mini goes right up 
+against the Motorola Moto G in the market. We had only two issues with 
+the Moto G; its camera and non-expandable storage. These are two areas 
+in which the Canvas Turbo Mini has the advantage, but in every other 
+aspect, the Moto G is hands down the superior product. It isn't just 
+about performance: the Moto G is built better, looks better, and feels 
+like it will last much longer.
+
+The Canvas Turbo Mini is a nice 
+enough phone, but like we said in our Moto G review, that product has 
+changed the game. Micromax, which struck fear into the hearts of the 
+world's biggest brands by selling good-enough products at low enough prices, 
+now finds itself on the other side of that coin.
+

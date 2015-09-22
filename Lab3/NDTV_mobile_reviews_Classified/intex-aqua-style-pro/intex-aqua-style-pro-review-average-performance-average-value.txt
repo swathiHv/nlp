@@ -1,0 +1,186 @@
+ Intex Aqua Style Pro Review: Average Performance, Average Value
+
+For
+ a company known for making computer accessories, Intex's transformation 
+into a mobile-first company is a sign of the times, where smartphones are the most important product category. Competition is fierce and price wars are constantly being fought. The entry of 
+Xiaomi's Redmi 1S in the sub-Rs. 8,000 price segment has heated things up even more. Intex's new offering, the 
+Aqua Style Pro, touts the latest version of Android, KitKat, and costs a shade below Rs. 7,000. Let's see if it can tread these waters 
+without drowning.Look and feelIt feels like yet another day when yet 
+another candybar phone from a local brand hits the retail market. There is absolutely nothing distinctive about 
+the Intex Aqua Style Pro with respect to its design. It is bland 
+and looks like just about every other Android phone out there. The Aqua Style Pro is made of plastic and when
+ we first picked it up, our impression was that it is 
+pretty light. The phone weighs 120g and has a girth of 8.8mm 
+making it comfortable to hold as well. The primary camera sticks out of the rear which looks odd. The rear has a slimy matte black 
+finish. The rear panel comes off rather easily to reveal the 1800mAh battery, two
+ SIM card slots and a memory card slot. The front is taken up 
+mostly by the 4.5-inch screen which is surrounded by a thick, ungainly border. Below the screen are the three three capacitive navigation buttons - back, home and menu. Along 
+with a front-facing camera above the display, there is an earpiece. The 
+power button is on the right edge and the volume rocker is on the left. Specifications and softwareThe
+ hardware components inside the Intex Aqua Style Pro can't hold a candle
+ to some of the competing phones in the same price range. However, we 
+are only talking about the specifications on paper and not the real-life
+ performance, which may vary.The phone has a quad-core Broadcom 
+BCM23550M processor clocked at 1.2GHz and 1GB of RAM for 
+applications and services. For graphics, there is a relatively uncommon
+Videocore IV GPU. Intex provides 8GB of internal storage, which 
+is further expandable by up to 32GB using microSD cards. The 
+8-megapixel rear camera is supported by a dual-LED flash for low-light 
+situations. There is also a front-facing 2-megapixel rear camera for 
+selfies. The dual-SIM phone can communicate via 3G, Wi-Fi b/g/n and 
+Bluetooth. The 4.7-inch screen has a resolution of 
+480x854 pixels. This translates to a density of around 218ppi. Colours are slightly oversaturated but the viewing angles are fine. Sunlight legibility is not too great, though. As we mentioned earlier,
+ the phone runs Android 4.4.2 (KitKat).There is absolutely nothing new 
+or noteworthy here since most of the design is 
+stock Android. A few third-party apps are pre-installed. 
+They include Clean Master, File Manager, Intex Games Club, Intex Zone, 
+OLX, Quickoffice and Real Football 2014. Clean Master does exactly what 
+its name suggests: clear up RAM space. Similarly, File Manager can be used to view all the files on your phone. Intex 
+Games Club is a shortcut to a Web page selling (what seem like) Java games. OLX is an app for a marketplace where 
+people can sell and buy anything. Quickoffice lets users read/edit 
+documents on the go. The most annoying inclusion is Real 
+Football 2014 which isn't the full-fledged 3D game we expected but 
+rather a Java replica.  Thankfully, it can be uninstalled.CameraThe
+ 8-megapixel rear camera on the phone is slow and the app is tedious to 
+use. The camera app is a mashup of the older Gingerbread app and 
+the current app. Manual settings are in the form of options for contrast and sharpness, which we think is totally pointless.Images captured in daylight look really good on the screen of the phone. We zoomed in a 
+little and immediately noticed that something was amiss. The entire 
+picture looked like someone had painted on top of the screen using watercolours. The details were completely missing. Noise was kept to a 
+minimum but it was at the cost of smudging all the details. Take a look 
+at the leaves on the trees in the image below.(click for full size)In low light, the 
+image quality deteriorates even further. The colours are off and there 
+are no details whatsoever. At its highest setting the camera can capture
+ 480p videos, which is essentially Standard Definition (SD) from the 
+Nokia N95 era. Video quality on the Intex Aqua Style Pro is really 
+bad. The N95 took better videos. The front camera is not up to the mark 
+either. PerformanceWe were hopeful of the phone's 
+performance considering the unexciting specifications list. 
+However, the Aqua Style Pro started lagging from the start. Browsing 
+through the app drawer is a slow process, and apps take time to open and
+ close. This is backed up by our benchmark numbers. In the AnTuTu and
+ Quadrant tests, the phone managed to log scores of 12,643 and 3,424; 
+well below the level of competing phones in this price range. The graphics tests 
+scores were worse. In GFXbench and 3D Mark Ice Storm, the phone
+ scored 6.8fps and 4,368 respectively. The Videocore IV GPU is not up to
+ task here. In our video playback test, the phone couldn't play 
+720p videos, let alone 1080p ones. In fact, even the SD video stuttered 
+during playback. In our video loop test, the battery lasted us 6 hours 
+and 7 minutes, which is above the class average. The speaker is 
+adequately loud but distorts at high volume. The bundled earphones sound
+ really hollow and those looking for better sounds should replace them. 
+The call quality was good. The phone didn't drop network even once. VerdictAt
+ the time of writing this review, the Intex Aqua Style Pro is available 
+for Rs. 6,990. While this makes it cheaper than a lot of other devices, the below-average performance makes it seem like a very good idea to spend a little more for a better device. We think the Asus Zenfone 4 (review | pictures), Motorola 
+Moto E (review | pictures), Micromax Unite 2 (review | pictures) and Xiaomi Redmi 1S (review | pictures) are much better 
+options. Take your pick from one of them instead.
+Intex Aqua Style Pro in pictures
+
+
+For
+ a company known for making computer accessories, Intex's transformation 
+into a mobile-first company is a sign of the times, where smartphones are the most important product category. Competition is fierce and price wars are constantly being fought. The entry of 
+Xiaomi's Redmi 1S in the sub-Rs. 8,000 price segment has heated things up even more. 
+
+Intex's new offering, the 
+Aqua Style Pro, touts the latest version of Android, KitKat, and costs a shade below Rs. 7,000. Let's see if it can tread these waters 
+without drowning.
+
+Look and feelIt feels like yet another day when yet 
+another candybar phone from a local brand hits the retail market. There is absolutely nothing distinctive about 
+the Intex Aqua Style Pro with respect to its design. It is bland 
+and looks like just about every other Android phone out there. 
+
+The Aqua Style Pro is made of plastic and when
+ we first picked it up, our impression was that it is 
+pretty light. The phone weighs 120g and has a girth of 8.8mm 
+making it comfortable to hold as well. The primary camera sticks out of the rear which looks odd. The rear has a slimy matte black 
+finish. The rear panel comes off rather easily to reveal the 1800mAh battery, two
+ SIM card slots and a memory card slot. 
+
+The front is taken up 
+mostly by the 4.5-inch screen which is surrounded by a thick, ungainly border. Below the screen are the three three capacitive navigation buttons - back, home and menu. Along 
+with a front-facing camera above the display, there is an earpiece. The 
+power button is on the right edge and the volume rocker is on the left. 
+
+Specifications and softwareThe
+ hardware components inside the Intex Aqua Style Pro can't hold a candle
+ to some of the competing phones in the same price range. However, we 
+are only talking about the specifications on paper and not the real-life
+ performance, which may vary.
+
+The phone has a quad-core Broadcom 
+BCM23550M processor clocked at 1.2GHz and 1GB of RAM for 
+applications and services. For graphics, there is a relatively uncommon
+Videocore IV GPU. Intex provides 8GB of internal storage, which 
+is further expandable by up to 32GB using microSD cards. 
+
+The 
+8-megapixel rear camera is supported by a dual-LED flash for low-light 
+situations. There is also a front-facing 2-megapixel rear camera for 
+selfies. The dual-SIM phone can communicate via 3G, Wi-Fi b/g/n and 
+Bluetooth. 
+
+The 4.7-inch screen has a resolution of 
+480x854 pixels. This translates to a density of around 218ppi. Colours are slightly oversaturated but the viewing angles are fine. Sunlight legibility is not too great, though. 
+
+As we mentioned earlier,
+ the phone runs Android 4.4.2 (KitKat).There is absolutely nothing new 
+or noteworthy here since most of the design is 
+stock Android. A few third-party apps are pre-installed. 
+They include Clean Master, File Manager, Intex Games Club, Intex Zone, 
+OLX, Quickoffice and Real Football 2014. Clean Master does exactly what 
+its name suggests: clear up RAM space. Similarly, File Manager can be used to view all the files on your phone. 
+
+Intex 
+Games Club is a shortcut to a Web page selling (what seem like) Java games. OLX is an app for a marketplace where 
+people can sell and buy anything. Quickoffice lets users read/edit 
+documents on the go. The most annoying inclusion is Real 
+Football 2014 which isn't the full-fledged 3D game we expected but 
+rather a Java replica.  Thankfully, it can be uninstalled.
+
+CameraThe
+ 8-megapixel rear camera on the phone is slow and the app is tedious to 
+use. The camera app is a mashup of the older Gingerbread app and 
+the current app. Manual settings are in the form of options for contrast and sharpness, which we think is totally pointless.
+
+Images captured in daylight look really good on the screen of the phone. We zoomed in a 
+little and immediately noticed that something was amiss. The entire 
+picture looked like someone had painted on top of the screen using watercolours. The details were completely missing. Noise was kept to a 
+minimum but it was at the cost of smudging all the details. Take a look 
+at the leaves on the trees in the image below.
+
+(click for full size)In low light, the 
+image quality deteriorates even further. The colours are off and there 
+are no details whatsoever. At its highest setting the camera can capture
+ 480p videos, which is essentially Standard Definition (SD) from the 
+Nokia N95 era. Video quality on the Intex Aqua Style Pro is really 
+bad. The N95 took better videos. The front camera is not up to the mark 
+either. 
+
+PerformanceWe were hopeful of the phone's 
+performance considering the unexciting specifications list. 
+However, the Aqua Style Pro started lagging from the start. Browsing 
+through the app drawer is a slow process, and apps take time to open and
+ close. This is backed up by our benchmark numbers. 
+
+In the AnTuTu and
+ Quadrant tests, the phone managed to log scores of 12,643 and 3,424; 
+well below the level of competing phones in this price range. The graphics tests 
+scores were worse. In GFXbench and 3D Mark Ice Storm, the phone
+ scored 6.8fps and 4,368 respectively. The Videocore IV GPU is not up to
+ task here. 
+
+In our video playback test, the phone couldn't play 
+720p videos, let alone 1080p ones. In fact, even the SD video stuttered 
+during playback. In our video loop test, the battery lasted us 6 hours 
+and 7 minutes, which is above the class average. The speaker is 
+adequately loud but distorts at high volume. The bundled earphones sound
+ really hollow and those looking for better sounds should replace them. 
+The call quality was good. The phone didn't drop network even once. 
+
+VerdictAt
+ the time of writing this review, the Intex Aqua Style Pro is available 
+for Rs. 6,990. While this makes it cheaper than a lot of other devices, the below-average performance makes it seem like a very good idea to spend a little more for a better device. We think the Asus Zenfone 4 (review | pictures), Motorola 
+Moto E (review | pictures), Micromax Unite 2 (review | pictures) and Xiaomi Redmi 1S (review | pictures) are much better 
+options. Take your pick from one of them instead.
+

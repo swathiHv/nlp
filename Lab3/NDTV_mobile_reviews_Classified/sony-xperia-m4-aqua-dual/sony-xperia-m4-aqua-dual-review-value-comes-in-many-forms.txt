@@ -1,0 +1,291 @@
+Sony Xperia M4 Aqua Dual Review: Value Comes in Many Forms
+
+The fact that Chinese brands have come into India and displaced 
+everyone else is indisputable and inescapable. We've said it so often 
+that it's becoming fatiguing. Yet it's the truth, and it shapes the 
+landscape against which every company, from tiny Indian import houses to
+ giant multinational conglomerates, must now operate.While some 
+have thrown themselves into this race to the bottom, Sony seems adamant 
+about its products' specs and prices - don't expect a half-priced 
+flagship from the Japanese superbrand anytime soon. For this reason, the
+ brand new Sony Xperia M4 Aqua Dual would seem at first glance to be 
+woefully outclassed by phones that cost less. We dug deep below the 
+surface to see how - or for that matter if - Sony could hope to stay in 
+the game, and we reached a surprising conclusion.Look and feelThe
+ Xperia M4 Aqua Dual is all plastic and glass, with a completely flat 
+back and curved sides. The white and coral pink versions look good but 
+the black version, which we received for review, is especially striking 
+because of how stealthy it looks. Its sheer body is broken only by 
+silver brand logos, a ring around the rear camera lens, and the power 
+button on the side. With the screen off, it's like shiny black slab.The
+ sides are curved and have a non-slip matte finish, but the flat back 
+doesn't lend itself to a very comfortable grip. There's a scratchy seam 
+all the way around, where the edges curve inwards to meet the rear. The 
+unit is completely sealed so all ports and slots are externally 
+accessible. The MicroSD slot is on the upper left while the two Nano-SIM
+ slots are on the upper right, all behind rubber-lined flaps. This
+ is because one of the Xperia M4 Aqua's biggest selling points is that 
+it is waterproof. The IP65 and IP68 ratings mean it is supposed to be 
+able to withstand a 30-minute soak in up to 1.5m-deep freshwater, and is
+ also resistant to damage from exposure to dust. Interestingly, Sony 
+managed to achieve this without flaps over the 3.5mm audio port, which 
+is on top, and the Micro-USB port, which is in the upper left corner. 
+The latter is most important since fiddling with flaps every time you 
+need to charge your phone gets aggravating very quickly.The power
+ button is an exceptionally tiny nub and is placed awkwardly in the 
+centre of the right side where it isn't ever easy to reach. The volume 
+buttons are even more inconveniently located below it, and right on the 
+bottom there's a two-stage camera shortcut and shutter button. The 
+camera button is a nice touch and its position works fine when holding 
+the phone up to use as a camera. Sony is one of the only companies that 
+goes to the effort of including such a button, which we like. Specifications and softwareThe
+ Snapdragon 615 SoC powering this phone is now common in phones that 
+cost less than this one, but it isn't by any means a slouch. With four 
+1.5GHz cores and four more 1GHz ones, the SoC can handle heavy tasks and
+ save power when needed. There's 2GB of RAM and 16GB of internal 
+storage, though support for microSD cards is oddly limited to those 32GB
+ or under.The screen measures 5 inches diagonally and has a 
+resolution of 720x1280 which again is less sharp than the full-HD 
+screens you'll get on other phones in this range, but there's no real 
+loss in practical terms. Everything is still sharp and the screen is 
+actually quite good in terms of colour reproduction and viewing angles. There's
+ Wi-Fi b/g/n, Bluetooth 4.1, A-GPS, FM radio and NFC. Indian 4G networks
+ using the 2300MHz band can be used accessed using SIM cards in both 
+slots. Interestingly, USB-OTG storage does not seem to be supported. The
+ battery has a capacity of 2,400mAh which is pretty good for such a slim
+ device. You get Android 5.0 with Sony's proprietary overlay, 
+which we quite like. Themes are available, though most of these are 
+designed as Sony-branded movie or music tie-ins. This is totally 
+consistent with the company's unfortunate tendency to overload its 
+software with advertising for its own media products. You'll find a Sony
+ Liv icon in the homescreen dock as well as a row for Sony's Music, 
+Album, Movies and PlayStation apps. There's also a huge What's New 
+widget advertising the company's media. Some of the preloaded 
+apps such as Line, Movie Creator, File Commander, Sketch, MobiSystems 
+OfficeSuite, AVG Protection and TrackID are useful, whereas others such 
+as Xperia Lounge and News from SociaLife are somewhat more spammy. Only 
+very few of them can be uninstalled. TV SideView is a neat app 
+that shows local TV guides and lets you control a compatible Sony TV if 
+it's on the same network. You can browse DLNA network shares for media, 
+and also "throw" content playing through Sony's apps to compatible TVs, 
+Bluetooth headsets and speakers. One of the neatest software 
+features is support for "small apps". These are little windows that you 
+can have floating above whatever's currently on screen. They're launched
+ from a bar running across the bottom of the task switcher view. Eight 
+small apps, including a calculator, timer and screenshot controller are 
+available by default, but you can download more. Sony says developers 
+have to add this functionality to their apps, but anyone can do it and 
+so more will be available soon. This is a feature we've seen from other 
+brands, but it has typically been limited to a small set of apps.Sony's
+ camera app allows third-party integrations, so along with the default 
+Superior Auto, Manual, AR Effect, Creative Effect and Sweep Panorama 
+modes, you can download add-ons for a time lapse mode or more filters, 
+and also directly launch well-known apps such as  Vine, CamScanner Phone
+ PDF and Evernote.PerformanceWe enjoyed our time with the 
+Sony Xperia M4 Aqua Dual and did not have any complaints about its speed
+ or responsiveness. It's easy to hold and use with one hand, apart from 
+the awkward button placement. Call quality was great, and LTE worked 
+well. The only issue we had was that the upper half of the rear of the 
+phone became noticeably hot after just a few minutes of even ordinary 
+use.Benchmark scores were strong, but obviously not the strongest
+ in this price bracket. We saw scores of 33,097 in AnTuTu and 16,108 
+overall in Quadrant. GFXbench gave us a decent 22fps while 3DMark Ice 
+Storm Extreme managed 4,345 points. Video playback ability was good, and
+ we had no problem with heaviest 1080p clips. Sound was clear and well 
+balanced, but surprisingly soft even at the maximum volume level. Battery
+ life was especially impressive, at 9 hours, 58 minutes in our video 
+loop test. Sony claims that you can get two days' worth of usage between
+ charges which will be accurate if you go really light on games and Web 
+browsing. Even so, you'll easily last through a day of very heavy usage 
+so you won't have to worry about carrying a battery or charger around.The
+ camera turned out to be one of this phone's strongest points. It 
+handled complex exposures really well and our photos came out with a 
+fair amount of detail intact. We were happy to see that compression and 
+noise artefacts were well under control. Even in low light, the camera 
+managed to reproduce better details than we usually see.Finally, 
+we had to test Sony's claims about how waterproof the Xperia M4 Aqua is,
+ and so we left it for 10 minutes in a shallow basin of tap water. Not 
+only did it continue to run while submerged, but it showed no signs of 
+trouble whatsoever after being patted dry with a towel. The touchscreen 
+doesn't work underwater but you can use the camera thanks to the 
+physical button. Waterproofing is a fantastic feature at this price 
+level, and you won't have to worry about getting wet in the rain or 
+about any accidental liquid damage.(Click to see full size)VerdictWhile clearly 
+not competing with the formidable Oneplus One (Review | Pictures) and the like in terms of 
+specs alone, Sony has packed enough features and usability into the 
+Xperia M4 Aqua Dual to justify its price tag. Sure, you aren't getting 
+the fastest processor or the crispest screen, but there's a world of 
+difference in terms of polish. You also get a more-than-decent camera, 
+excellent battery life and waterproofing without the inconvenience of 
+flaps over every port. Of course, it wouldn't hurt this phone's 
+chances if it was priced a little lower. Already, it's selling for 
+slightly less than its launch price, so keep an eye out for deals. Sony 
+has proven that it can put together a compelling package without jumping
+ into the price war. Sony Xperia M4 Aqua Dual in pictures
+
+
+The fact that Chinese brands have come into India and displaced 
+everyone else is indisputable and inescapable. We've said it so often 
+that it's becoming fatiguing. Yet it's the truth, and it shapes the 
+landscape against which every company, from tiny Indian import houses to
+ giant multinational conglomerates, must now operate.
+
+While some 
+have thrown themselves into this race to the bottom, Sony seems adamant 
+about its products' specs and prices - don't expect a half-priced 
+flagship from the Japanese superbrand anytime soon. For this reason, the
+ brand new Sony Xperia M4 Aqua Dual would seem at first glance to be 
+woefully outclassed by phones that cost less. We dug deep below the 
+surface to see how - or for that matter if - Sony could hope to stay in 
+the game, and we reached a surprising conclusion.
+
+Look and feelThe
+ Xperia M4 Aqua Dual is all plastic and glass, with a completely flat 
+back and curved sides. The white and coral pink versions look good but 
+the black version, which we received for review, is especially striking 
+because of how stealthy it looks. Its sheer body is broken only by 
+silver brand logos, a ring around the rear camera lens, and the power 
+button on the side. With the screen off, it's like shiny black slab.
+
+The
+ sides are curved and have a non-slip matte finish, but the flat back 
+doesn't lend itself to a very comfortable grip. There's a scratchy seam 
+all the way around, where the edges curve inwards to meet the rear. The 
+unit is completely sealed so all ports and slots are externally 
+accessible. The MicroSD slot is on the upper left while the two Nano-SIM
+ slots are on the upper right, all behind rubber-lined flaps. 
+
+This
+ is because one of the Xperia M4 Aqua's biggest selling points is that 
+it is waterproof. The IP65 and IP68 ratings mean it is supposed to be 
+able to withstand a 30-minute soak in up to 1.5m-deep freshwater, and is
+ also resistant to damage from exposure to dust. Interestingly, Sony 
+managed to achieve this without flaps over the 3.5mm audio port, which 
+is on top, and the Micro-USB port, which is in the upper left corner. 
+The latter is most important since fiddling with flaps every time you 
+need to charge your phone gets aggravating very quickly.
+
+The power
+ button is an exceptionally tiny nub and is placed awkwardly in the 
+centre of the right side where it isn't ever easy to reach. The volume 
+buttons are even more inconveniently located below it, and right on the 
+bottom there's a two-stage camera shortcut and shutter button. The 
+camera button is a nice touch and its position works fine when holding 
+the phone up to use as a camera. Sony is one of the only companies that 
+goes to the effort of including such a button, which we like. 
+
+Specifications and softwareThe
+ Snapdragon 615 SoC powering this phone is now common in phones that 
+cost less than this one, but it isn't by any means a slouch. With four 
+1.5GHz cores and four more 1GHz ones, the SoC can handle heavy tasks and
+ save power when needed. There's 2GB of RAM and 16GB of internal 
+storage, though support for microSD cards is oddly limited to those 32GB
+ or under.
+
+The screen measures 5 inches diagonally and has a 
+resolution of 720x1280 which again is less sharp than the full-HD 
+screens you'll get on other phones in this range, but there's no real 
+loss in practical terms. Everything is still sharp and the screen is 
+actually quite good in terms of colour reproduction and viewing angles. 
+
+There's
+ Wi-Fi b/g/n, Bluetooth 4.1, A-GPS, FM radio and NFC. Indian 4G networks
+ using the 2300MHz band can be used accessed using SIM cards in both 
+slots. Interestingly, USB-OTG storage does not seem to be supported. The
+ battery has a capacity of 2,400mAh which is pretty good for such a slim
+ device. 
+
+You get Android 5.0 with Sony's proprietary overlay, 
+which we quite like. Themes are available, though most of these are 
+designed as Sony-branded movie or music tie-ins. This is totally 
+consistent with the company's unfortunate tendency to overload its 
+software with advertising for its own media products. You'll find a Sony
+ Liv icon in the homescreen dock as well as a row for Sony's Music, 
+Album, Movies and PlayStation apps. There's also a huge What's New 
+widget advertising the company's media. 
+
+Some of the preloaded 
+apps such as Line, Movie Creator, File Commander, Sketch, MobiSystems 
+OfficeSuite, AVG Protection and TrackID are useful, whereas others such 
+as Xperia Lounge and News from SociaLife are somewhat more spammy. Only 
+very few of them can be uninstalled. 
+
+TV SideView is a neat app 
+that shows local TV guides and lets you control a compatible Sony TV if 
+it's on the same network. You can browse DLNA network shares for media, 
+and also "throw" content playing through Sony's apps to compatible TVs, 
+Bluetooth headsets and speakers. 
+
+One of the neatest software 
+features is support for "small apps". These are little windows that you 
+can have floating above whatever's currently on screen. They're launched
+ from a bar running across the bottom of the task switcher view. Eight 
+small apps, including a calculator, timer and screenshot controller are 
+available by default, but you can download more. Sony says developers 
+have to add this functionality to their apps, but anyone can do it and 
+so more will be available soon. This is a feature we've seen from other 
+brands, but it has typically been limited to a small set of apps.
+
+Sony's
+ camera app allows third-party integrations, so along with the default 
+Superior Auto, Manual, AR Effect, Creative Effect and Sweep Panorama 
+modes, you can download add-ons for a time lapse mode or more filters, 
+and also directly launch well-known apps such as  Vine, CamScanner Phone
+ PDF and Evernote.
+
+PerformanceWe enjoyed our time with the 
+Sony Xperia M4 Aqua Dual and did not have any complaints about its speed
+ or responsiveness. It's easy to hold and use with one hand, apart from 
+the awkward button placement. Call quality was great, and LTE worked 
+well. The only issue we had was that the upper half of the rear of the 
+phone became noticeably hot after just a few minutes of even ordinary 
+use.
+
+Benchmark scores were strong, but obviously not the strongest
+ in this price bracket. We saw scores of 33,097 in AnTuTu and 16,108 
+overall in Quadrant. GFXbench gave us a decent 22fps while 3DMark Ice 
+Storm Extreme managed 4,345 points. Video playback ability was good, and
+ we had no problem with heaviest 1080p clips. Sound was clear and well 
+balanced, but surprisingly soft even at the maximum volume level. 
+
+Battery
+ life was especially impressive, at 9 hours, 58 minutes in our video 
+loop test. Sony claims that you can get two days' worth of usage between
+ charges which will be accurate if you go really light on games and Web 
+browsing. Even so, you'll easily last through a day of very heavy usage 
+so you won't have to worry about carrying a battery or charger around.
+
+The
+ camera turned out to be one of this phone's strongest points. It 
+handled complex exposures really well and our photos came out with a 
+fair amount of detail intact. We were happy to see that compression and 
+noise artefacts were well under control. Even in low light, the camera 
+managed to reproduce better details than we usually see.
+
+Finally, 
+we had to test Sony's claims about how waterproof the Xperia M4 Aqua is,
+ and so we left it for 10 minutes in a shallow basin of tap water. Not 
+only did it continue to run while submerged, but it showed no signs of 
+trouble whatsoever after being patted dry with a towel. The touchscreen 
+doesn't work underwater but you can use the camera thanks to the 
+physical button. Waterproofing is a fantastic feature at this price 
+level, and you won't have to worry about getting wet in the rain or 
+about any accidental liquid damage.
+
+(Click to see full size)
+
+VerdictWhile clearly 
+not competing with the formidable Oneplus One (Review | Pictures) and the like in terms of 
+specs alone, Sony has packed enough features and usability into the 
+Xperia M4 Aqua Dual to justify its price tag. Sure, you aren't getting 
+the fastest processor or the crispest screen, but there's a world of 
+difference in terms of polish. You also get a more-than-decent camera, 
+excellent battery life and waterproofing without the inconvenience of 
+flaps over every port. 
+
+Of course, it wouldn't hurt this phone's 
+chances if it was priced a little lower. Already, it's selling for 
+slightly less than its launch price, so keep an eye out for deals. Sony 
+has proven that it can put together a compelling package without jumping
+ into the price war.
+

@@ -1,0 +1,283 @@
+Karbonn Titanium Octane Plus Review: Specifications Aren't Everything
+
+Karbonn is one of the better-known Indian brands and has enjoyed 
+quite a bit of success. The combination of low prices and reasonably 
+good features definitely has some appeal. Now, with plenty of experience
+ at the value end of the market, Karbonn is trying to go a little more 
+high-end. The Titanium Octane Plus boasts of an octa-core processor and 
+full-HD screen, so it's certainly got our attention. The past few
+ months have been tumultuous for the Indian smartphone market, and so 
+Karbonn faces tough competition not only from other local brands, but 
+also multinationals and now a whole new wave of Chinese companies. Will 
+the old formula still work, or will Karbonn now find itself on the wrong
+ side of the same equation it has taken advantage of for so long? Read 
+on.Look and feelThe Titanium Octane Plus has a unique look, with a 
+rear panel that appears to curve around the bottom to overlap the bottom
+ front. The plastic is shiny and smooth; so much so that it's hard to 
+get a good grip on the phone.  The bottom corners also dug into our 
+palms a bit. Our review unit came with a screen protection film 
+already attached, but not very well. This somewhat detracted from the 
+phone's looks. The three capacitive buttons are located between the 
+screen and the white lip, and are invisible when not lit up. Strangely, 
+they only light up after you hit them and not when the screen is active,
+ which makes them easy to miss.There's a slight bulge at the back
+ for the camera lens, but the Octane Plus is still quite slim overall 
+and slips easily into any pocket. The only visible Karbonn logo is a 
+subtle grey one just below the camera lens and flash. The power button 
+is on the upper right edge while the volume buttons are opposite it on 
+the left. The Micro-USB charging port is on the bottom and the headset 
+socket is on top. It takes a bit of effort to pry the rear cover 
+off, and you have to slip a fingernail into the Micro-USB port opening 
+to do so. The microSD card slot is next to the camera lens, making it 
+easy to access, but you'll have to take the battery out in order to use 
+either of the SIM slots. The primary slot requires a Micro-SIM but the 
+secondary slot is full-sized. Overall, this is a reasonably good-looking device which doesn't come off as cheap.Specifications and softwareAs
+ its name suggests, the Octane Plus is powered by our old friend, the 
+MediaTek MTK6592 - the same SoC inside every other octa-core phone on 
+the market. It runs at 1.7GHz and has an integrated Mali-450 MP4 GPU. 
+The rest of the specifications are impressive considering this phone's 
+price. There's 2GB of RAM and 16GB of integrated storage, along with 
+Bluetooth 4.0, Wi-Fi b/g/n, and A-GPS.Another highlight is the 
+screen - a crisp, 5-inch full-HD 1080x1920-pixel panel. The rear camera 
+has a 16-megapixel sensor and there's a whopping 8-megapixel camera in 
+front. The Octane Plus runs Android 4.4.2 and Karbonn's 
+customisations are thankfully quite mild. The button layout is 
+old-school Android though, which means there's a redundant Menu button 
+and you still have to double-tap the Home button to get to the app 
+switcher. You have five homescreens by default, and there is no easy way
+ to add more or get rid of unused ones - you can only create them by 
+dragging an app icon or widget to a blank space, and delete them by 
+emptying them of all content.There is loads of unnecessary bloat 
+on this phone - apps that you might never want to use are preloaded and 
+there's no way to get rid of them. Right on the home screen, you'll see 
+pinned icons for Amazon, Saavn, OLX and Firstpost. If that isn't spammy 
+enough, there's even more in the app drawer: you'll find Sony LIV, 
+Moneycontrol, Vodafone TV and for some reason a link to download 
+Whatsapp from the Play store. Karbonn also saw the need to preinstall no
+ fewer than four Web browsers - there's the Android browser, Chrome, 
+Opera and Maxthon. Gameloft's Modern Combat and The Avengers 
+might have been welcome, but they're trials that can only be played five
+ times each, for 120 seconds each time - that's barely enough to get 
+through the initial menus and cutscenes (and the games aren't even all 
+that good).Then there's the Karbonn Ebazaar, a crude and barely 
+usable catalog of the company's products which for no known reason also 
+lists the company's press mentions, promotional vidos, a few common 
+apps, and "third-party e-commerce" in the form of two movie DVDs and two
+ items of jewellery. KLive is an equally pointless app which only 
+contains links to expensive SMS update services for health tips, news, 
+jokes, astrology, etc.As you might have guessed, none of this 
+preloaded detritus can be uninstalled. We have no idea whether Karbonn 
+makes money by preloading third-party apps, but they're pretty useless 
+for most people and we're annoyed that we can't even reclaim the space 
+they waste.CameraThe camera on the Octane Plus might be 
+able to capture 16-megapixel photos, but the camera app only offers 
+options up to 12 megapixels. Either way, quality is a severe 
+disappointment. No matter how much light we threw at it, the Octane Plus
+ gave us dull, grainy results. Shots were below par even outdoors in the
+ middle of the day - only close-ups seemed to come out relatively okay.(Click to see full size)We
+ tried a variety of settings and conditions, but could not compensate 
+for the weak camera. Even the front camera, which should have been 
+extremely impressive, wound up being a complete waste. Photos might look
+ decent if drastically scaled down, but you'd never want to use them at 
+their original size. Videos taken by both cameras were also just about 
+usable. The camera app is quite basic but there are a few 
+creative modes - multi angle, panorama, beauty shot, burst, and live 
+photo (which actually creates short video clips). (Click to see full size)PerformanceIn
+ another example of awful software choices, the Karbonn Titanium Octane 
+Plus plays a ridiculously long and loud electric guitar clip each time 
+it boots up and shuts down. Despite its specifications, we found 
+mild stuttering when we used the Octane Plus in ordinary situations. 
+Taps on the screen were sometimes not recognised, and dragging things on
+ screen didn't quite work - very possibly because of the screen 
+protector. HD videos played, but our most heavily encoded sample 
+clip was significantly distorted. The screen itself is pretty sharp though, and viewing angles are good. The built-in speaker was surprisingly 
+loud and clear at the highest volume level but totally inaudible at any 
+setting below the 75-percent point on the slider. Benchmark 
+scores were pretty consistent with those of other MT6592-based phones. 
+We got 26,765 in AnTuTu and 16,282 in Quadrant overall, reflecting the 
+eight ARM cores, but only 11.1fps in GFXbench and 4,728 in 3DMark's Ice 
+Storm Extreme run reflecting the relatively weak Mali-450 MP GPU.The
+ battery disappointed us, considering its decent capacity. We managed 
+only 4 hours, 53 minutes of continuous video in our test before the 
+phone died. Call quality was acceptable.VerdictThe Karbonn
+ Titanium Octane Plus competes with some fairly heavy-hitting 
+competitors including the new Asus Zenfone 6, HTC Desire 616, Xiaomi Mi 
+3, Panasonic P81 and many more. On paper, its specifications and 
+benchmark scores might seem superior, but we aren't convinced when it 
+comes to real-world utility and usability.The Xiaomi Mi 3 is a 
+superior product on all counts, including price, although actually 
+getting your hands on one has become a major problem. If you don't mind a
+ HD 720x1280 screen, the Zenfone 6 and even the Zenfone 5 are worth 
+considering seriously.The Octane Plus has all the makings of a 
+good phone, but it falls short. Karbonn's products could be a lot 
+stronger if the company paid more attention to the user experience than 
+the price tag and spec sheet. Karbonn Titanium Octane Plus in pictures
+
+
+Karbonn is one of the better-known Indian brands and has enjoyed 
+quite a bit of success. The combination of low prices and reasonably 
+good features definitely has some appeal. Now, with plenty of experience
+ at the value end of the market, Karbonn is trying to go a little more 
+high-end. The Titanium Octane Plus boasts of an octa-core processor and 
+full-HD screen, so it's certainly got our attention. 
+
+The past few
+ months have been tumultuous for the Indian smartphone market, and so 
+Karbonn faces tough competition not only from other local brands, but 
+also multinationals and now a whole new wave of Chinese companies. Will 
+the old formula still work, or will Karbonn now find itself on the wrong
+ side of the same equation it has taken advantage of for so long? Read 
+on.
+
+Look and feelThe Titanium Octane Plus has a unique look, with a 
+rear panel that appears to curve around the bottom to overlap the bottom
+ front. The plastic is shiny and smooth; so much so that it's hard to 
+get a good grip on the phone.  The bottom corners also dug into our 
+palms a bit. 
+
+Our review unit came with a screen protection film 
+already attached, but not very well. This somewhat detracted from the 
+phone's looks. The three capacitive buttons are located between the 
+screen and the white lip, and are invisible when not lit up. Strangely, 
+they only light up after you hit them and not when the screen is active,
+ which makes them easy to miss.
+
+There's a slight bulge at the back
+ for the camera lens, but the Octane Plus is still quite slim overall 
+and slips easily into any pocket. The only visible Karbonn logo is a 
+subtle grey one just below the camera lens and flash. The power button 
+is on the upper right edge while the volume buttons are opposite it on 
+the left. The Micro-USB charging port is on the bottom and the headset 
+socket is on top. 
+
+It takes a bit of effort to pry the rear cover 
+off, and you have to slip a fingernail into the Micro-USB port opening 
+to do so. The microSD card slot is next to the camera lens, making it 
+easy to access, but you'll have to take the battery out in order to use 
+either of the SIM slots. The primary slot requires a Micro-SIM but the 
+secondary slot is full-sized. 
+
+Overall, this is a reasonably good-looking device which doesn't come off as cheap.
+
+Specifications and softwareAs
+ its name suggests, the Octane Plus is powered by our old friend, the 
+MediaTek MTK6592 - the same SoC inside every other octa-core phone on 
+the market. It runs at 1.7GHz and has an integrated Mali-450 MP4 GPU. 
+The rest of the specifications are impressive considering this phone's 
+price. There's 2GB of RAM and 16GB of integrated storage, along with 
+Bluetooth 4.0, Wi-Fi b/g/n, and A-GPS.
+
+Another highlight is the 
+screen - a crisp, 5-inch full-HD 1080x1920-pixel panel. The rear camera 
+has a 16-megapixel sensor and there's a whopping 8-megapixel camera in 
+front. 
+
+The Octane Plus runs Android 4.4.2 and Karbonn's 
+customisations are thankfully quite mild. The button layout is 
+old-school Android though, which means there's a redundant Menu button 
+and you still have to double-tap the Home button to get to the app 
+switcher. You have five homescreens by default, and there is no easy way
+ to add more or get rid of unused ones - you can only create them by 
+dragging an app icon or widget to a blank space, and delete them by 
+emptying them of all content.
+
+There is loads of unnecessary bloat 
+on this phone - apps that you might never want to use are preloaded and 
+there's no way to get rid of them. Right on the home screen, you'll see 
+pinned icons for Amazon, Saavn, OLX and Firstpost. If that isn't spammy 
+enough, there's even more in the app drawer: you'll find Sony LIV, 
+Moneycontrol, Vodafone TV and for some reason a link to download 
+Whatsapp from the Play store. Karbonn also saw the need to preinstall no
+ fewer than four Web browsers - there's the Android browser, Chrome, 
+Opera and Maxthon.
+
+ 
+
+Gameloft's Modern Combat and The Avengers 
+might have been welcome, but they're trials that can only be played five
+ times each, for 120 seconds each time - that's barely enough to get 
+through the initial menus and cutscenes (and the games aren't even all 
+that good).
+
+Then there's the Karbonn Ebazaar, a crude and barely 
+usable catalog of the company's products which for no known reason also 
+lists the company's press mentions, promotional vidos, a few common 
+apps, and "third-party e-commerce" in the form of two movie DVDs and two
+ items of jewellery. KLive is an equally pointless app which only 
+contains links to expensive SMS update services for health tips, news, 
+jokes, astrology, etc.
+
+As you might have guessed, none of this 
+preloaded detritus can be uninstalled. We have no idea whether Karbonn 
+makes money by preloading third-party apps, but they're pretty useless 
+for most people and we're annoyed that we can't even reclaim the space 
+they waste.
+
+CameraThe camera on the Octane Plus might be 
+able to capture 16-megapixel photos, but the camera app only offers 
+options up to 12 megapixels. Either way, quality is a severe 
+disappointment. No matter how much light we threw at it, the Octane Plus
+ gave us dull, grainy results. Shots were below par even outdoors in the
+ middle of the day - only close-ups seemed to come out relatively okay.
+
+(Click to see full size)
+
+We
+ tried a variety of settings and conditions, but could not compensate 
+for the weak camera. Even the front camera, which should have been 
+extremely impressive, wound up being a complete waste. Photos might look
+ decent if drastically scaled down, but you'd never want to use them at 
+their original size. Videos taken by both cameras were also just about 
+usable. 
+
+The camera app is quite basic but there are a few 
+creative modes - multi angle, panorama, beauty shot, burst, and live 
+photo (which actually creates short video clips). 
+
+(Click to see full size)
+
+PerformanceIn
+ another example of awful software choices, the Karbonn Titanium Octane 
+Plus plays a ridiculously long and loud electric guitar clip each time 
+it boots up and shuts down. 
+
+Despite its specifications, we found 
+mild stuttering when we used the Octane Plus in ordinary situations. 
+Taps on the screen were sometimes not recognised, and dragging things on
+ screen didn't quite work - very possibly because of the screen 
+protector. 
+
+HD videos played, but our most heavily encoded sample 
+clip was significantly distorted. The screen itself is pretty sharp though, and viewing angles are good. The built-in speaker was surprisingly 
+loud and clear at the highest volume level but totally inaudible at any 
+setting below the 75-percent point on the slider. 
+
+Benchmark 
+scores were pretty consistent with those of other MT6592-based phones. 
+We got 26,765 in AnTuTu and 16,282 in Quadrant overall, reflecting the 
+eight ARM cores, but only 11.1fps in GFXbench and 4,728 in 3DMark's Ice 
+Storm Extreme run reflecting the relatively weak Mali-450 MP GPU.
+
+The
+ battery disappointed us, considering its decent capacity. We managed 
+only 4 hours, 53 minutes of continuous video in our test before the 
+phone died. Call quality was acceptable.
+
+VerdictThe Karbonn
+ Titanium Octane Plus competes with some fairly heavy-hitting 
+competitors including the new Asus Zenfone 6, HTC Desire 616, Xiaomi Mi 
+3, Panasonic P81 and many more. On paper, its specifications and 
+benchmark scores might seem superior, but we aren't convinced when it 
+comes to real-world utility and usability.
+
+The Xiaomi Mi 3 is a 
+superior product on all counts, including price, although actually 
+getting your hands on one has become a major problem. If you don't mind a
+ HD 720x1280 screen, the Zenfone 6 and even the Zenfone 5 are worth 
+considering seriously.
+
+The Octane Plus has all the makings of a 
+good phone, but it falls short. Karbonn's products could be a lot 
+stronger if the company paid more attention to the user experience than 
+the price tag and spec sheet.
+

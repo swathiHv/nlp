@@ -1,0 +1,591 @@
+Nokia Lumia 1520 review
+
+The Lumia 1520 has two big things working against it, neither of 
+which is a deal-breaker on its own, but when combined, make it a very 
+interesting product to review. First, it's a Windows Phone. While the 
+platform certainly does have its fans, there's no denying that it isn't 
+as versatile as iOS and Android yet. As a person buying this phone, you 
+will have to put up with a number of limitations and frustrations 
+because of its software. Second, it's huge. So-called "phablets" are big
+ business, but not everybody wants a phone that can't fit in a pocket 
+and be held in one hand. With that said, it's time to examine this phone
+ on its own merits and see whether Nokia has managed to distinguish 
+itself with a winner.Look and feelNokia's first 
+big-screened Lumia seems like a "me-too" product. Sensing that Android 
+manufacturers have been making huge profits with such devices, they want
+ in on the action. Luckily, both Microsoft and Nokia have been able to 
+tweak their software and hardware manufacturing well in time to catch 
+this wave. The Lumia 1520 isn't just a stretched-out version of any other 
+model, although its bright polycarbonate shell fits right in with the 
+rest of the Lumia lineup. We had the glossy red model in for review, and
+ while we were impressed with the quality of materials and construction,
+ we found it a bit too flashy. Other manufacturers' flagship devices use
+ metal or more subtle coloured plastic, and it seems Nokia is 
+specifically going after a young, outgoing sort of customer with its 
+current design direction. The subtler matte finish of the white and 
+black variants will have a much broader appeal.The 1520 is a 
+near-perfect rectangular slab with rounded edges and blunt pointy 
+corners. The back is flat except for a roughly 1mm tall circular bump 
+housing the rear camera's optics. On the whole, the body is impressively
+ thin and still manages to be reassuringly strong when bent or flexed. 
+The front face is made of toughened Gorilla Glass 2, which should be 
+able to withstand a fair bit of abuse. The back is mostly blank, with 
+only the camera lens, dual-LED flash, speaker grille and microphone 
+array visible. Nokia's own branding and PureView logos are printed in a 
+surprisingly subtle, light ink. On the right edge you'll find a volume 
+control rocker, power button and camera button, while a Micro-USB port 
+sits on the bottom and a standard 3.5mm headset jack is the only thing 
+on top. The left edge has slots for your Nano-SIM and microSD cards, 
+both covered by flaps that can be released with a pin or the included 
+eject tool.At 209g, the Lumia 1520 is the heftiest of its 
+siblings. Its size and weight make it rather cumbersome to carry around 
+and you won't be comfortable holding it in one hand for very long. For 
+the purpose of comparison, Samsung's Galaxy Note 3 and HTC's One Max 
+weigh in at 168g and 217g respectively. The weight and smooth glossy 
+body make it very easy for this phone to slip out of a trouser pocket 
+when you sit down, although you're unlikely to want to keep it in a 
+pocket at all. Unless you wear a jacket or carry a bag every day, you'll
+ probably end up carrying it in your hand.Features and specificationsOn
+ the inside, Nokia hasn't skimped on anything. The 1520 is powered by a 
+top-of-the-line Qualcomm Snapdragon 800 SoC (system-on-a-chip), which 
+consists of a Krait 400 CPU running at 2.2GHz and Adreno 330 graphics 
+processor along with integrated LTE, Wi-Fi, GPS and Bluetooth 
+communications modules. Pretty much every flagship smartphone on the 
+market today and even a few tablets use this particular SoC, so the 1520
+ is in good company. 2GB of RAM should be more than enough for even the 
+most demanding tasks, including recording continuous HD video and 
+capturing 20-megapixel photos. The battery is non-removable, as is the 
+norm these days. Nokia's ClearBlack IPS LCD is vivid and sharp, with a 
+highly reflective surface. Colours don't pop as much as they do on some 
+of the AMOLED screens used by competitors, which is a matter of personal
+ preference.The Lumia 1520's PureView camera is one of its 
+biggest selling points, but it isn't the same record-setting 
+41-megapixel unit that first debuted with the Symbian-powered Nokia 808 
+and later re-emerged on the Lumia 1020. The 1020 thus remains Nokia's 
+current flagship camera phone, which creates an odd division in their 
+product lineup. The 1520 has better specifications all around, 
+especially the screen and processor, but it doesn't get the benefit of 
+what is easily Nokia's best innovation in the entire series. 
+Nevertheless, this camera still bears the "PureView" tag, and with the 
+combination of hardware and software used, you still get optical image 
+stabilisation, the ability to record in RAW format, manual focus, ISO 
+and shutter speed control, advanced post-capture editing options, and of
+ course full-HD video recording at 30 frames per second.SoftwareThe
+ Windows Phone environment is what truly sets the Lumia 1520 apart from 
+all its big-screened rivals. Microsoft has managed to update the OS to 
+work with large, pixel-dense screens, so everything looks crisp and 
+slick. There's room for an extra column of medium-sized tiles on the 
+home screen, and you can have a maximum of six small ones in a row. Most
+ apps look great, especially ebook apps and games, but surfing the Web 
+is a mixed bag since some sites default to a mobile layout, which just 
+looks ridiculous on such a device. The high resolution and pixel 
+density help make Windows Phone's various pages full of thin typography 
+feel less sparse, but the sheer size of the screen also amplifies the 
+OS's annoyances, such as the excessive animations that accompany every 
+screen transition and menu fly-out. Other little things matter too: 
+menus roll up from the bottom of the screen but confirmation dialogs are
+ displayed right on top, well beyond the reach of your thumb. You'll 
+find yourself adjusting your grip on the 1520 every time you encounter 
+things like this that just weren't designed with such a large screen in 
+mind.That brings us to the software's biggest flaw: Nokia and 
+Microsoft haven't managed to figure out how to make a soft keyboard work
+ on such a large device. The standard keyboard has simply been stretched
+ to fill the screen's width, but it also retains its original 
+proportions, resulting in keys that are too large and widely spaced for 
+quick two-thumbed typing. This also means that when active, the keyboard
+ obstructs well over half of the available vertical screen space, so 
+while reading documents is a total pleasure, typing and editing are far 
+more frustrating than they should be on such an otherwise capable 
+device. The only people who would actually benefit from this are those 
+who prefer hunt-and-peck typing with a single finger.One of the 
+platform's flagship features is MS Office integration. Apart from the 
+keyboard issue, working with documents is a fantastic experience, and 
+this is one of the best reasons to choose a big-screened phone. You can 
+view Word, Excel and PowerPoint documents, but creation is limited to 
+Word and Excel. You can type out text documents just like notes, with a 
+few limited formatting options, and create spreadsheets with formulas 
+and even graphs. Again, we ran into limitations in the way that Windows 
+Phone apps are designed: there's a lot of untapped potential given the 
+1520's screen and processor. Just to prove this point, we loaded the 
+desktop version of SkyDrive in Internet Explorer. The integrated Office 
+Online version of Word loaded perfectly, giving us a much fuller, more 
+powerful tool on exactly the same hardware (although, to be fair, it 
+involved a lot of pinching and zooming to actually make use of).Microsoft
+ includes a voice command feature that's far more basic than Siri on iOS
+ and Android's integrated functions. You can basically only open apps 
+and dial saved numbers, although third-party apps can also add their own
+ commands. The feature is only notable because, at least with the 
+default setting on our review unit, the phone responds to commands in an
+ Indianised voice with overdone inflections. This might have been 
+intended to make users here feel more comfortable, but it really does 
+come across as cartoonish and patronising.Nokia-specific tweaksMicrosoft's
+ efforts have also been supplemented by Nokia in the form of several 
+apps and tweaks, and the Lumia 1520 is the first device to ship with 
+Nokia's latest "Black" software update preinstalled. The most useful of 
+these is the Glance screen, which basically displays the time, phone 
+status and notifications on the phone's lock screen persistently, even 
+after the screen times out. Users of older Nokia Series 60 smartphones 
+will find this familiar: it's exactly the same as the old "screensaver" 
+feature, but now it's done by keeping the screen backlight very slightly
+ illuminated. This might impact battery life to a very small extent, but
+ Glance uses the phone's proximity sensor to turn itself off when it 
+detects it's in a case or pocket. Similarly, since the power button 
+won't always be easy to reach, you can wake the phone by double-tapping 
+anywhere on the screen when it's asleep. Last but not least, Nokia has 
+also decided to cater (or pander) to Indian buyers with a small 
+collection of Indian ringtones, all of which sound like the background 
+scores of incredibly cheesy tourism ads.
+CameraNokia's 
+historical strength in imaging has resulted in the truly excellent 
+PureView series of camera phones, but it isn't only hardware that sets 
+the company apart. Nokia knows perfectly well that a phone's camera is 
+only as good as its interface. After having released a number of 
+well-received camera apps, Nokia has decided to coalesce them all into a
+ single one called -- what else -- Nokia Camera. This app replaces the default
+ Windows Phone camera app, which is truly a blessing. In the default 
+Still mode, you can quickly adjust settings for the flash, white 
+balance, ISO, shutter speed and brightness. You can even manually focus 
+an image as you'd like it. Nudging the shutter release icon inward makes
+ a semi-transparent overlay appear over the display with crescent-shaped
+ sliders for all these settings, and you can see how changing one value 
+affects the others. If you push one too far, you'll see a red highlight 
+and some of the others might become unavailable. This helps you use the 
+best settings for normal shots, but also experiment with artistic ideas.
+ By default, the app is set to capture 16:9 photos at 16 
+megapixel resolution, but changing this to standard 4:3 actually nets 
+you 19megapixel images, since these are essentially uncropped versions 
+of the same frames. Smaller 5-megapixel versions of all shots are saved 
+in addition to the full size, which are easier to email and upload via 
+various apps. In fact the only way to get the original high-res versions
+ of photos off the phone is to connect it to a PC via USB. In addition 
+to JPG, you can choose to record files in the DNG RAW format, which is 
+uncompressed and allows for much more flexible editing later on a PC (at
+ the cost of enormous file sizes).We were very pleased with the 
+quality of shots captured with the Lumia 1520, both in daylight and at 
+night. Zooming in to the full-resolution version of photos, we were able
+ to expose minor imperfections such as JPEG artefacts and noise, but 
+you'll rarely ever see these on screen. The luxury of having such a 
+large image is that imperfections vanish when you scale downwards. It's 
+possible to capture gorgeous macro shots, and of course being able to 
+manually adjust focus is quite a thrill. (Click to see full size)In video mode, you only 
+have white balance and focus controls, and can use the flash for 
+constant illumination. There is one neat feature, though: That array of 
+microphones on the rear panel allows the phone to detect where the 
+subjects you're filming are, and boost audio from them while diminishing
+ background noise. Video is captured at 1080p, which can be stepped down
+ to 720p, and 30 frames per second which can be changed to 25 and 24 fps
+ if you prefer. Videos are just as crisp and clear as we expected, and 
+the optical image stabilisation feature really does make a difference.(Click to see full size)
+Finally,
+ the third mode is what used to be Nokia's standalone Smart Camera app. 
+In this mode, holding down the shutter button for a few seconds captures
+ a series of frames in rapid succession. The phone then runs through a 
+few processing algorithms and comes up with what it considers the best 
+shot. You can swipe up and down to perform other tricks, such as 
+superimposing multiple copies of a moving subject against a static 
+background, blurring the background with only the subject in focus, and 
+choosing the best combination of smiles from different frames. The 
+Action Shot and Remove Moving Object modes only really work well when 
+you can ensure that only one thing in the frame is moving, and that too 
+at a particular speed. Playing with Smart Camera is a lot of fun, but it
+ will take a bit of practice to get results that are as good as the ones
+ in Nokia's tutorial and advertising materials. There's one more 
+photography feature in the form of a standalone app, or a "lens" that 
+can be launched from within the camera app's menu, called Nokia Refocus.
+ This app captures images while also saving information about the scene 
+at multiple different focal lengths. After taking the photo, you can tap
+ different parts of the frame to decide whether the foreground or 
+background should be blurred or focussed. For no apparent reason, 
+there's a trick within a trick here: you can also tap any object in the 
+frame to preserve its colour, while everything else turns to black and 
+white. It's a neat effect, but it's best when used sparingly and subtly.
+ Other appsNokia's other big software selling point is the
+ Here maps app with Drive+ global navigation directions. At least as far
+ as larger cities go, we found the maps to be accurate and useful. 
+Although the maps aren't as detailed as Google's, Nokia should get more 
+credit than it does for its mapping features, especially the directions 
+that include options for walking, driving, and public transport. You can
+ check for updated maps and also save them to the device so you aren't 
+dependent on an Internet connection, which frequent travellers will 
+appreciate. The My Commute feature lets your phone learn where you 
+travel from and to frequently, and it will calculate the best route for 
+you and alert you to bad traffic conditions on any given day. You can 
+pin a special My Commute live tile to the phone's Start screen to stay 
+informed of traffic conditions on the way.	Nokia Beamer is a 
+hidden gem that links your phone to a service that you can access in any
+ Web browser on any other device, and simply mirrors the contents of 
+your screen to it. You can pair the phone by pointing its camera at a QR
+ code displayed on the target machine's screen, after which pairing is 
+effortless. Visuals are transmitted through the Internet, so don't 
+expect perfectly clear video unless you have superfast Internet 
+connections for both the phone and the target device.Performance and ratingsAs
+ expected, the Lumia 1520 sailed through our synthetic benchmarks. We 
+don't anticipate any problem running current or future apps, even 
+graphically intensive ones. Games look incredible on the full-HD screen,
+ which wasn't a surprise either. We noticed a few issues, such as a 
+portion of the screen being cut off in one game, and visible tearing in 
+another. We hope this is just a matter of developers optimising their 
+titles for the new hardware, because the Lumia 1520 certainly has the 
+potential to be a gaming powerhouse.In our subjective analysis, 
+the points that stood out were the device's build quality, overall 
+screen quality, and the performance of the camera hardware and software.
+ We gave it lower marks for UI design, ergonomics, and the quality of 
+its app ecosystem. The Lumia 1520 is ultimately an unbalanced device, 
+with extremely powerful hardware and software that doesn't yet take 
+advantage of it. Battery life is solid, and we had no problems 
+with normal day-to-day usage, which consisted of receiving calls plus a 
+few hours of watching videos, playing games, and browsing the Web over 
+Wi-Fi. We did notice that the enormous 3400mAh battery takes a really 
+long time to charge up to 100 percent. Our formal video loop test 
+returned a result of 10 hours and 20 minutes, which is  quite 
+respectable.VerdictIf you want a Windows Phone with a 
+supersized high-resolution screen, this is currently the only game in 
+town. Nokia is the only manufacturer truly committed to Windows Phone, 
+and with its acquisition by Microsoft now complete, it's unlikely that 
+any other company will bother developing such a device. The Lumia 1520 
+retails for roughly the same street price as the Lumia 1020, and both 
+could be described as flagships of the line, depending on your 
+priorities. The 1020's camera is simply unbeatable, and is the only 
+thing keeping the 1520 from dominating the specifications charts in 
+every category. However, the 1520's screen and nearly all its internal 
+components are a generation ahead of the 1020's. Incidentally, 
+most of the things we loved about the software such as the Glance 
+screen, integrated camera app and Beamer app are contained in Nokia's 
+"Black" update, which means they'll be rolling out to other Lumias 
+shortly. It's also worth noting that Windows Phone 8.1 is expected in 
+the second quarter of this year. While we don't have any clear 
+indications as to what features and improvements it will bring, it's 
+also likely that a new generation of phones will launch alongside it. 
+The Lumia 1520 will almost certainly receive this update too, but we're 
+not convinced it will have a very long shelf life, and that makes it 
+even harder to recommend. So this is easily the most powerful 
+Windows Phone we've ever used, but does that make it a great phone? 
+We're hesitant to make a recommendation. If you love giant phones, there
+ are quite a few Android options with screens and hardware that match 
+the Lumia 1520, and they have the benefit of better optimised software 
+and a far more substantial library of apps. If you love Windows Phone, 
+there are cheaper options. The Lumia 1520 does stand out when it comes 
+to its camera and looks, but you'd have to be pretty passionate about 
+either of those things to spend close to Rs. 50,000 on this phone. Nokia Lumia 1520
+
+
+The Lumia 1520 has two big things working against it, neither of 
+which is a deal-breaker on its own, but when combined, make it a very 
+interesting product to review. First, it's a Windows Phone. While the 
+platform certainly does have its fans, there's no denying that it isn't 
+as versatile as iOS and Android yet. As a person buying this phone, you 
+will have to put up with a number of limitations and frustrations 
+because of its software. Second, it's huge. So-called "phablets" are big
+ business, but not everybody wants a phone that can't fit in a pocket 
+and be held in one hand. With that said, it's time to examine this phone
+ on its own merits and see whether Nokia has managed to distinguish 
+itself with a winner.
+
+Look and feelNokia's first 
+big-screened Lumia seems like a "me-too" product. Sensing that Android 
+manufacturers have been making huge profits with such devices, they want
+ in on the action. Luckily, both Microsoft and Nokia have been able to 
+tweak their software and hardware manufacturing well in time to catch 
+this wave. The Lumia 1520 isn't just a stretched-out version of any other 
+model, although its bright polycarbonate shell fits right in with the 
+rest of the Lumia lineup. We had the glossy red model in for review, and
+ while we were impressed with the quality of materials and construction,
+ we found it a bit too flashy. Other manufacturers' flagship devices use
+ metal or more subtle coloured plastic, and it seems Nokia is 
+specifically going after a young, outgoing sort of customer with its 
+current design direction. The subtler matte finish of the white and 
+black variants will have a much broader appeal.
+
+The 1520 is a 
+near-perfect rectangular slab with rounded edges and blunt pointy 
+corners. The back is flat except for a roughly 1mm tall circular bump 
+housing the rear camera's optics. On the whole, the body is impressively
+ thin and still manages to be reassuringly strong when bent or flexed. 
+The front face is made of toughened Gorilla Glass 2, which should be 
+able to withstand a fair bit of abuse. The back is mostly blank, with 
+only the camera lens, dual-LED flash, speaker grille and microphone 
+array visible. Nokia's own branding and PureView logos are printed in a 
+surprisingly subtle, light ink. On the right edge you'll find a volume 
+control rocker, power button and camera button, while a Micro-USB port 
+sits on the bottom and a standard 3.5mm headset jack is the only thing 
+on top. The left edge has slots for your Nano-SIM and microSD cards, 
+both covered by flaps that can be released with a pin or the included 
+eject tool.
+
+At 209g, the Lumia 1520 is the heftiest of its 
+siblings. Its size and weight make it rather cumbersome to carry around 
+and you won't be comfortable holding it in one hand for very long. For 
+the purpose of comparison, Samsung's Galaxy Note 3 and HTC's One Max 
+weigh in at 168g and 217g respectively. The weight and smooth glossy 
+body make it very easy for this phone to slip out of a trouser pocket 
+when you sit down, although you're unlikely to want to keep it in a 
+pocket at all. Unless you wear a jacket or carry a bag every day, you'll
+ probably end up carrying it in your hand.
+
+Features and specificationsOn
+ the inside, Nokia hasn't skimped on anything. The 1520 is powered by a 
+top-of-the-line Qualcomm Snapdragon 800 SoC (system-on-a-chip), which 
+consists of a Krait 400 CPU running at 2.2GHz and Adreno 330 graphics 
+processor along with integrated LTE, Wi-Fi, GPS and Bluetooth 
+communications modules. Pretty much every flagship smartphone on the 
+market today and even a few tablets use this particular SoC, so the 1520
+ is in good company. 2GB of RAM should be more than enough for even the 
+most demanding tasks, including recording continuous HD video and 
+capturing 20-megapixel photos. The battery is non-removable, as is the 
+norm these days. Nokia's ClearBlack IPS LCD is vivid and sharp, with a 
+highly reflective surface. Colours don't pop as much as they do on some 
+of the AMOLED screens used by competitors, which is a matter of personal
+ preference.
+
+The Lumia 1520's PureView camera is one of its 
+biggest selling points, but it isn't the same record-setting 
+41-megapixel unit that first debuted with the Symbian-powered Nokia 808 
+and later re-emerged on the Lumia 1020. The 1020 thus remains Nokia's 
+current flagship camera phone, which creates an odd division in their 
+product lineup. The 1520 has better specifications all around, 
+especially the screen and processor, but it doesn't get the benefit of 
+what is easily Nokia's best innovation in the entire series. 
+Nevertheless, this camera still bears the "PureView" tag, and with the 
+combination of hardware and software used, you still get optical image 
+stabilisation, the ability to record in RAW format, manual focus, ISO 
+and shutter speed control, advanced post-capture editing options, and of
+ course full-HD video recording at 30 frames per second.
+
+SoftwareThe
+ Windows Phone environment is what truly sets the Lumia 1520 apart from 
+all its big-screened rivals. Microsoft has managed to update the OS to 
+work with large, pixel-dense screens, so everything looks crisp and 
+slick. There's room for an extra column of medium-sized tiles on the 
+home screen, and you can have a maximum of six small ones in a row. Most
+ apps look great, especially ebook apps and games, but surfing the Web 
+is a mixed bag since some sites default to a mobile layout, which just 
+looks ridiculous on such a device. 
+
+The high resolution and pixel 
+density help make Windows Phone's various pages full of thin typography 
+feel less sparse, but the sheer size of the screen also amplifies the 
+OS's annoyances, such as the excessive animations that accompany every 
+screen transition and menu fly-out. Other little things matter too: 
+menus roll up from the bottom of the screen but confirmation dialogs are
+ displayed right on top, well beyond the reach of your thumb. You'll 
+find yourself adjusting your grip on the 1520 every time you encounter 
+things like this that just weren't designed with such a large screen in 
+mind.
+
+That brings us to the software's biggest flaw: Nokia and 
+Microsoft haven't managed to figure out how to make a soft keyboard work
+ on such a large device. The standard keyboard has simply been stretched
+ to fill the screen's width, but it also retains its original 
+proportions, resulting in keys that are too large and widely spaced for 
+quick two-thumbed typing. This also means that when active, the keyboard
+ obstructs well over half of the available vertical screen space, so 
+while reading documents is a total pleasure, typing and editing are far 
+more frustrating than they should be on such an otherwise capable 
+device. The only people who would actually benefit from this are those 
+who prefer hunt-and-peck typing with a single finger.
+
+One of the 
+platform's flagship features is MS Office integration. Apart from the 
+keyboard issue, working with documents is a fantastic experience, and 
+this is one of the best reasons to choose a big-screened phone. You can 
+view Word, Excel and PowerPoint documents, but creation is limited to 
+Word and Excel. You can type out text documents just like notes, with a 
+few limited formatting options, and create spreadsheets with formulas 
+and even graphs. Again, we ran into limitations in the way that Windows 
+Phone apps are designed: there's a lot of untapped potential given the 
+1520's screen and processor. Just to prove this point, we loaded the 
+desktop version of SkyDrive in Internet Explorer. The integrated Office 
+Online version of Word loaded perfectly, giving us a much fuller, more 
+powerful tool on exactly the same hardware (although, to be fair, it 
+involved a lot of pinching and zooming to actually make use of).
+
+Microsoft
+ includes a voice command feature that's far more basic than Siri on iOS
+ and Android's integrated functions. You can basically only open apps 
+and dial saved numbers, although third-party apps can also add their own
+ commands. The feature is only notable because, at least with the 
+default setting on our review unit, the phone responds to commands in an
+ Indianised voice with overdone inflections. This might have been 
+intended to make users here feel more comfortable, but it really does 
+come across as cartoonish and patronising.
+
+Nokia-specific tweaksMicrosoft's
+ efforts have also been supplemented by Nokia in the form of several 
+apps and tweaks, and the Lumia 1520 is the first device to ship with 
+Nokia's latest "Black" software update preinstalled. The most useful of 
+these is the Glance screen, which basically displays the time, phone 
+status and notifications on the phone's lock screen persistently, even 
+after the screen times out. Users of older Nokia Series 60 smartphones 
+will find this familiar: it's exactly the same as the old "screensaver" 
+feature, but now it's done by keeping the screen backlight very slightly
+ illuminated. This might impact battery life to a very small extent, but
+ Glance uses the phone's proximity sensor to turn itself off when it 
+detects it's in a case or pocket. Similarly, since the power button 
+won't always be easy to reach, you can wake the phone by double-tapping 
+anywhere on the screen when it's asleep. Last but not least, Nokia has 
+also decided to cater (or pander) to Indian buyers with a small 
+collection of Indian ringtones, all of which sound like the background 
+scores of incredibly cheesy tourism ads.
+
+CameraNokia's 
+historical strength in imaging has resulted in the truly excellent 
+PureView series of camera phones, but it isn't only hardware that sets 
+the company apart. Nokia knows perfectly well that a phone's camera is 
+only as good as its interface. After having released a number of 
+well-received camera apps, Nokia has decided to coalesce them all into a
+ single one called -- what else -- Nokia Camera. This app replaces the default
+ Windows Phone camera app, which is truly a blessing. In the default 
+Still mode, you can quickly adjust settings for the flash, white 
+balance, ISO, shutter speed and brightness. You can even manually focus 
+an image as you'd like it. Nudging the shutter release icon inward makes
+ a semi-transparent overlay appear over the display with crescent-shaped
+ sliders for all these settings, and you can see how changing one value 
+affects the others. If you push one too far, you'll see a red highlight 
+and some of the others might become unavailable. This helps you use the 
+best settings for normal shots, but also experiment with artistic ideas.
+ 
+
+By default, the app is set to capture 16:9 photos at 16 
+megapixel resolution, but changing this to standard 4:3 actually nets 
+you 19megapixel images, since these are essentially uncropped versions 
+of the same frames. Smaller 5-megapixel versions of all shots are saved 
+in addition to the full size, which are easier to email and upload via 
+various apps. In fact the only way to get the original high-res versions
+ of photos off the phone is to connect it to a PC via USB. In addition 
+to JPG, you can choose to record files in the DNG RAW format, which is 
+uncompressed and allows for much more flexible editing later on a PC (at
+ the cost of enormous file sizes).
+
+We were very pleased with the 
+quality of shots captured with the Lumia 1520, both in daylight and at 
+night. Zooming in to the full-resolution version of photos, we were able
+ to expose minor imperfections such as JPEG artefacts and noise, but 
+you'll rarely ever see these on screen. The luxury of having such a 
+large image is that imperfections vanish when you scale downwards. It's 
+possible to capture gorgeous macro shots, and of course being able to 
+manually adjust focus is quite a thrill. 
+
+(Click to see full size)
+
+In video mode, you only 
+have white balance and focus controls, and can use the flash for 
+constant illumination. There is one neat feature, though: That array of 
+microphones on the rear panel allows the phone to detect where the 
+subjects you're filming are, and boost audio from them while diminishing
+ background noise. Video is captured at 1080p, which can be stepped down
+ to 720p, and 30 frames per second which can be changed to 25 and 24 fps
+ if you prefer. Videos are just as crisp and clear as we expected, and 
+the optical image stabilisation feature really does make a difference.
+
+(Click to see full size)
+
+Finally,
+ the third mode is what used to be Nokia's standalone Smart Camera app. 
+In this mode, holding down the shutter button for a few seconds captures
+ a series of frames in rapid succession. The phone then runs through a 
+few processing algorithms and comes up with what it considers the best 
+shot. You can swipe up and down to perform other tricks, such as 
+superimposing multiple copies of a moving subject against a static 
+background, blurring the background with only the subject in focus, and 
+choosing the best combination of smiles from different frames. The 
+Action Shot and Remove Moving Object modes only really work well when 
+you can ensure that only one thing in the frame is moving, and that too 
+at a particular speed. Playing with Smart Camera is a lot of fun, but it
+ will take a bit of practice to get results that are as good as the ones
+ in Nokia's tutorial and advertising materials. 
+
+There's one more 
+photography feature in the form of a standalone app, or a "lens" that 
+can be launched from within the camera app's menu, called Nokia Refocus.
+ This app captures images while also saving information about the scene 
+at multiple different focal lengths. After taking the photo, you can tap
+ different parts of the frame to decide whether the foreground or 
+background should be blurred or focussed. For no apparent reason, 
+there's a trick within a trick here: you can also tap any object in the 
+frame to preserve its colour, while everything else turns to black and 
+white. It's a neat effect, but it's best when used sparingly and subtly.
+ 
+
+Other appsNokia's other big software selling point is the
+ Here maps app with Drive+ global navigation directions. At least as far
+ as larger cities go, we found the maps to be accurate and useful. 
+Although the maps aren't as detailed as Google's, Nokia should get more 
+credit than it does for its mapping features, especially the directions 
+that include options for walking, driving, and public transport. You can
+ check for updated maps and also save them to the device so you aren't 
+dependent on an Internet connection, which frequent travellers will 
+appreciate. The My Commute feature lets your phone learn where you 
+travel from and to frequently, and it will calculate the best route for 
+you and alert you to bad traffic conditions on any given day. You can 
+pin a special My Commute live tile to the phone's Start screen to stay 
+informed of traffic conditions on the way.	
+
+Nokia Beamer is a 
+hidden gem that links your phone to a service that you can access in any
+ Web browser on any other device, and simply mirrors the contents of 
+your screen to it. You can pair the phone by pointing its camera at a QR
+ code displayed on the target machine's screen, after which pairing is 
+effortless. Visuals are transmitted through the Internet, so don't 
+expect perfectly clear video unless you have superfast Internet 
+connections for both the phone and the target device.
+
+Performance and ratingsAs
+ expected, the Lumia 1520 sailed through our synthetic benchmarks. We 
+don't anticipate any problem running current or future apps, even 
+graphically intensive ones. Games look incredible on the full-HD screen,
+ which wasn't a surprise either. We noticed a few issues, such as a 
+portion of the screen being cut off in one game, and visible tearing in 
+another. We hope this is just a matter of developers optimising their 
+titles for the new hardware, because the Lumia 1520 certainly has the 
+potential to be a gaming powerhouse.
+
+In our subjective analysis, 
+the points that stood out were the device's build quality, overall 
+screen quality, and the performance of the camera hardware and software.
+ We gave it lower marks for UI design, ergonomics, and the quality of 
+its app ecosystem. The Lumia 1520 is ultimately an unbalanced device, 
+with extremely powerful hardware and software that doesn't yet take 
+advantage of it. 
+
+Battery life is solid, and we had no problems 
+with normal day-to-day usage, which consisted of receiving calls plus a 
+few hours of watching videos, playing games, and browsing the Web over 
+Wi-Fi. We did notice that the enormous 3400mAh battery takes a really 
+long time to charge up to 100 percent. Our formal video loop test 
+returned a result of 10 hours and 20 minutes, which is  quite 
+respectable.
+
+VerdictIf you want a Windows Phone with a 
+supersized high-resolution screen, this is currently the only game in 
+town. Nokia is the only manufacturer truly committed to Windows Phone, 
+and with its acquisition by Microsoft now complete, it's unlikely that 
+any other company will bother developing such a device. The Lumia 1520 
+retails for roughly the same street price as the Lumia 1020, and both 
+could be described as flagships of the line, depending on your 
+priorities. The 1020's camera is simply unbeatable, and is the only 
+thing keeping the 1520 from dominating the specifications charts in 
+every category. However, the 1520's screen and nearly all its internal 
+components are a generation ahead of the 1020's. 
+
+Incidentally, 
+most of the things we loved about the software such as the Glance 
+screen, integrated camera app and Beamer app are contained in Nokia's 
+"Black" update, which means they'll be rolling out to other Lumias 
+shortly. It's also worth noting that Windows Phone 8.1 is expected in 
+the second quarter of this year. While we don't have any clear 
+indications as to what features and improvements it will bring, it's 
+also likely that a new generation of phones will launch alongside it. 
+The Lumia 1520 will almost certainly receive this update too, but we're 
+not convinced it will have a very long shelf life, and that makes it 
+even harder to recommend. 
+
+So this is easily the most powerful 
+Windows Phone we've ever used, but does that make it a great phone? 
+We're hesitant to make a recommendation. If you love giant phones, there
+ are quite a few Android options with screens and hardware that match 
+the Lumia 1520, and they have the benefit of better optimised software 
+and a far more substantial library of apps. If you love Windows Phone, 
+there are cheaper options. The Lumia 1520 does stand out when it comes 
+to its camera and looks, but you'd have to be pretty passionate about 
+either of those things to spend close to Rs. 50,000 on this phone. 
+

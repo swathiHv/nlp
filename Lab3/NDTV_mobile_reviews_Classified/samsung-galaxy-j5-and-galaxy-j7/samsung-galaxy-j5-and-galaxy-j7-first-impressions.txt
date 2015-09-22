@@ -1,0 +1,260 @@
+Samsung Galaxy J5 and Galaxy J7: First Impressions
+
+Samsung, as most of us guessed already, introduced its new J Series in 
+India with the launch of Galaxy J5 and Galaxy J7 on Thursday. The 
+smartphones, which have been available in China since last month, fit 
+into the mid-range segment based on their low prices, but offer 
+impressive specifications and features. While the smaller Samsung Galaxy
+ J5 is priced at Rs. 11,999, its larger sibling, the Galaxy J7, will set
+ you back by Rs. 14,999. Both are Flipkart exclusives for now and are 
+available to pre-order, but will ship on July 24. The two new phones are
+ also positioned by Samsung as affordable devices for gamers as they can
+ potentially deliver smooth online gaming experiences using 4G LTE 
+connectivity. Notably however, the models launched do not support TDD-LTE Band 40 (2300MHz) for 4G
+ LTE in India, and only the FDD-LTE Band 3 (1800MHz) that has yet to see
+ a rollout in the country.Update: While the specifications initially provided by Samsung India did not 
+mention support for 2300MHz TDD-LTE Band 40, Samsung has confirmed to 
+NDTV Gadgets that the Galaxy J5 and Galaxy J7 smartphones do indeed 
+support this band as well as 1800MHz FDD-LTE Band 3. Airtel uses Band 40
+ for its 4G services in India right now, and other operators are lining 
+up to launch 4G services using Band 3. Talking about 4G LTE, which is still being 
+tested in some places and is yet to reach many others, Samsung has not 
+only partnered with Flipkart for as an exclusive retailer, but has also 
+teamed-up with Airtel. As a part of the collaboration, Galaxy J5 and 
+Galaxy J7 users would receive double Airtel 4G LTE data along with 
+unlimited music downloads worth Rs. 549 for six months using the Wynk 
+Music app. Early buyers can also grab the flip wallet cover worth Rs. 
+999 for Rs. 199. The company has also collaborated with the popular 
+video game company Gameloft to offer Rs. 3,200 worth of in-game credits 
+for Galaxy J users.With the introduction of its Galaxy J5 and 
+Galaxy J7, Samsung has in a way replied to some of the heavy hitters in 
+the market which are dominating the mid-range today. The two phones go 
+up against the Xiaomi Mi 4i, Motorola Moto G (Gen 2), Sony Xperia E 4G
+ and many others. Looking at the specifications, the Galaxy J handsets 
+seem to have raised the bar.  The two 
+new Samsung smartphones both run Android 5.1.1 but have a few 
+differences. The Samsung Galaxy J5 features a 5-inch Super Amoled HD 
+display; a 1.2GHz quad-core Snapdragon 410 SoC; 1.5GB of RAM; 8GB of 
+built-in storage; a 13-megapixel rear autofocus camera; a 5-megapixel 
+front camera, and a 2,600mAh battery. As for the Samsung Galaxy J7, it 
+features a 5.5-inch screen; 16GB of inbuilt storage, a 1.5GHz octa-core 
+Exynos 7580 SoC, and a 3,000mAh battery. Both handsets' inbuilt storage 
+can be expanded via microSD card (up to 128GB). It is 
+worth noting that the China versions of the two Galaxy J smartphones 
+differ slightly from those launched in India. The China versions have 
+TFT screens instead of Super Amoled. The Galaxy J5 features 16GB of 
+inbuilt storage instead of 8GB and the Galaxy J7 is powered by a 
+Qualcomm Snapdragon 615 rather than the Exynos 7580.  Don't
+ get your hopes up too high in terms of appearances, as these two new 
+phones look more or less like every other Galaxy smartphone in the 
+market. Both sport anodised bodies, shiny cheap-looking faux-metal side 
+bezels, and the same monotonous overall design profile. The Galaxy J7 in
+ particular felt a lot like the Samsung Galaxy Mega 6.3, which launched 
+back in 2013. The handset slipped out of our hands twice in a short 
+period, but we managed to catch it. The Galaxy J5 on the other hand was 
+easier to hold due to its compact size, which gives a better grip and 
+makes it easier to reach all corners of the screen. Nonetheless, the 
+gold versions of both looked pretty good.  Users
+ who own a recent Samsung smartphone won't find much that is new in the 
+user interfaces of the Galaxy J5 and Galaxy J7. What might appeal to 
+them are the minor changes that come natively with Android 5.1.1 
+Lollipop and would be present in other handsets as well that are running
+ the same OS version. For pure Android users, the TouchWiz UI might feel
+ more cluttered. The overall interface, however, is snappy and doesn't 
+make the smartphones feel slow.Looking
+ at the prices, the use of HD (720x1280-pixel) resolution screens was 
+pretty much expected from Samsung. Both, the 5-inch screen of the Galaxy
+ J5 and the 5.5-inch screen of the Galaxy J7 looked saturated and more 
+vibrant than the screens of smartphones from other brands in the same 
+segment. While the processors in the two models are different, the end 
+users will probably not perceive any difference between the two while 
+using the phones. However, theoretically, the 64-bit octa-core Exynos 
+7580 in the Galaxy J7 should edge out the 64-bit quad-core Snapdragon 410 in 
+the Galaxy J5. As for storage, the Galaxy J5 on display at
+ the event reported around 4.6GB free out of 8GB, and the Galaxy J7 
+showed roughly 11.5GB of 16GB free for users. MicroSD cards of up to 
+128GB can be used, so customers might not need to consider the Galaxy 
+J5's lower amount of inbuilt storage a limitation. The main differences 
+between the two models are the larger display and the slightly better 
+battery life of the Galaxy J7.  The 
+cameras of both phones impressed us. The 13-megapixel rear camera with 
+f/1.9 aperture seemed to work well in our limited time at the launch 
+event. The camera app opens within a second of double-tapping the home 
+button. Menus and options don't clutter up the screen when capturing 
+images, but are easily accessible with a couple of taps. While the 
+Galaxy J5 offers seven modes, namely Auto, Pro, Panorama, Continuous 
+Shot, Beauty Face, Sound & Shot, and Sports; the Galaxy J7 comes 
+with one additional mode: HDR. Switching to the front-facing camera, the
+ handsets show another set of modes including a Wide-Selfie Shot. There 
+are also front-facing flashes on both phones. Only the Continuous Mode 
+and Pro mode seemed to perform poorly. Continuous mode didn't actually 
+capture images as fast as expected, and the Pro mode (manual mode) had 
+fewer options than some other phones in this price range commonly offer.
+ Nonetheless, the cameras overall seemed to be one of the new Galaxy J 
+devices' best features.  In our short 
+time with the Galaxy J5 and Galaxy J7, we were not able to test their 
+battery life. However, both should give a decent amount of life as they 
+don't have any power-hungry features such as motion sensors and 
+high-resolution screens. All said and done, the duo might prove to be 
+serious competitors in their respective price brackets when it comes to 
+camera quality. The Galaxy J5 is snappy, runs the latest version of 
+Android, has expandable storage, supports 4G, and features a decent 
+battery - all the things users care about, for under Rs. 12,000. For Rs.
+ 3,000 more, you can get a larger display, better processor, and better 
+battery. Stay tuned for in-depth reviews of both smartphones, coming up 
+soon. 
+
+Samsung, as most of us guessed already, introduced its new J Series in 
+India with the launch of Galaxy J5 and Galaxy J7 on Thursday. The 
+smartphones, which have been available in China since last month, fit 
+into the mid-range segment based on their low prices, but offer 
+impressive specifications and features. While the smaller Samsung Galaxy
+ J5 is priced at Rs. 11,999, its larger sibling, the Galaxy J7, will set
+ you back by Rs. 14,999. 
+
+Both are Flipkart exclusives for now and are 
+available to pre-order, but will ship on July 24. The two new phones are
+ also positioned by Samsung as affordable devices for gamers as they can
+ potentially deliver smooth online gaming experiences using 4G LTE 
+connectivity. Notably however, the models launched do not support TDD-LTE Band 40 (2300MHz) for 4G
+ LTE in India, and only the FDD-LTE Band 3 (1800MHz) that has yet to see
+ a rollout in the country.
+
+Update: While the specifications initially provided by Samsung India did not 
+mention support for 2300MHz TDD-LTE Band 40, Samsung has confirmed to 
+NDTV Gadgets that the Galaxy J5 and Galaxy J7 smartphones do indeed 
+support this band as well as 1800MHz FDD-LTE Band 3. Airtel uses Band 40
+ for its 4G services in India right now, and other operators are lining 
+up to launch 4G services using Band 3.
+
+ 
+
+Talking about 4G LTE, which is still being 
+tested in some places and is yet to reach many others, Samsung has not 
+only partnered with Flipkart for as an exclusive retailer, but has also 
+teamed-up with Airtel. As a part of the collaboration, Galaxy J5 and 
+Galaxy J7 users would receive double Airtel 4G LTE data along with 
+unlimited music downloads worth Rs. 549 for six months using the Wynk 
+Music app. Early buyers can also grab the flip wallet cover worth Rs. 
+999 for Rs. 199. The company has also collaborated with the popular 
+video game company Gameloft to offer Rs. 3,200 worth of in-game credits 
+for Galaxy J users.
+
+With the introduction of its Galaxy J5 and 
+Galaxy J7, Samsung has in a way replied to some of the heavy hitters in 
+the market which are dominating the mid-range today. The two phones go 
+up against the Xiaomi Mi 4i, Motorola Moto G (Gen 2), Sony Xperia E 4G
+ and many others. Looking at the specifications, the Galaxy J handsets 
+seem to have raised the bar.
+
+ 
+
+ 
+
+The two 
+new Samsung smartphones both run Android 5.1.1 but have a few 
+differences. The Samsung Galaxy J5 features a 5-inch Super Amoled HD 
+display; a 1.2GHz quad-core Snapdragon 410 SoC; 1.5GB of RAM; 8GB of 
+built-in storage; a 13-megapixel rear autofocus camera; a 5-megapixel 
+front camera, and a 2,600mAh battery. As for the Samsung Galaxy J7, it 
+features a 5.5-inch screen; 16GB of inbuilt storage, a 1.5GHz octa-core 
+Exynos 7580 SoC, and a 3,000mAh battery. Both handsets' inbuilt storage 
+can be expanded via microSD card (up to 128GB).
+
+ 
+
+It is 
+worth noting that the China versions of the two Galaxy J smartphones 
+differ slightly from those launched in India. The China versions have 
+TFT screens instead of Super Amoled. The Galaxy J5 features 16GB of 
+inbuilt storage instead of 8GB and the Galaxy J7 is powered by a 
+Qualcomm Snapdragon 615 rather than the Exynos 7580.
+
+ 
+
+ 
+
+Don't
+ get your hopes up too high in terms of appearances, as these two new 
+phones look more or less like every other Galaxy smartphone in the 
+market. Both sport anodised bodies, shiny cheap-looking faux-metal side 
+bezels, and the same monotonous overall design profile. The Galaxy J7 in
+ particular felt a lot like the Samsung Galaxy Mega 6.3, which launched 
+back in 2013. The handset slipped out of our hands twice in a short 
+period, but we managed to catch it. The Galaxy J5 on the other hand was 
+easier to hold due to its compact size, which gives a better grip and 
+makes it easier to reach all corners of the screen. Nonetheless, the 
+gold versions of both looked pretty good.
+
+ 
+
+ 
+
+Users
+ who own a recent Samsung smartphone won't find much that is new in the 
+user interfaces of the Galaxy J5 and Galaxy J7. What might appeal to 
+them are the minor changes that come natively with Android 5.1.1 
+Lollipop and would be present in other handsets as well that are running
+ the same OS version. For pure Android users, the TouchWiz UI might feel
+ more cluttered. The overall interface, however, is snappy and doesn't 
+make the smartphones feel slow.
+
+Looking
+ at the prices, the use of HD (720x1280-pixel) resolution screens was 
+pretty much expected from Samsung. Both, the 5-inch screen of the Galaxy
+ J5 and the 5.5-inch screen of the Galaxy J7 looked saturated and more 
+vibrant than the screens of smartphones from other brands in the same 
+segment. While the processors in the two models are different, the end 
+users will probably not perceive any difference between the two while 
+using the phones. However, theoretically, the 64-bit octa-core Exynos 
+7580 in the Galaxy J7 should edge out the 64-bit quad-core Snapdragon 410 in 
+the Galaxy J5.
+
+ 
+
+As for storage, the Galaxy J5 on display at
+ the event reported around 4.6GB free out of 8GB, and the Galaxy J7 
+showed roughly 11.5GB of 16GB free for users. MicroSD cards of up to 
+128GB can be used, so customers might not need to consider the Galaxy 
+J5's lower amount of inbuilt storage a limitation. The main differences 
+between the two models are the larger display and the slightly better 
+battery life of the Galaxy J7.
+
+ 
+
+ 
+
+The 
+cameras of both phones impressed us. The 13-megapixel rear camera with 
+f/1.9 aperture seemed to work well in our limited time at the launch 
+event. The camera app opens within a second of double-tapping the home 
+button. Menus and options don't clutter up the screen when capturing 
+images, but are easily accessible with a couple of taps. While the 
+Galaxy J5 offers seven modes, namely Auto, Pro, Panorama, Continuous 
+Shot, Beauty Face, Sound & Shot, and Sports; the Galaxy J7 comes 
+with one additional mode: HDR. Switching to the front-facing camera, the
+ handsets show another set of modes including a Wide-Selfie Shot. There 
+are also front-facing flashes on both phones. Only the Continuous Mode 
+and Pro mode seemed to perform poorly. Continuous mode didn't actually 
+capture images as fast as expected, and the Pro mode (manual mode) had 
+fewer options than some other phones in this price range commonly offer.
+ Nonetheless, the cameras overall seemed to be one of the new Galaxy J 
+devices' best features.
+
+ 
+
+ 
+
+In our short 
+time with the Galaxy J5 and Galaxy J7, we were not able to test their 
+battery life. However, both should give a decent amount of life as they 
+don't have any power-hungry features such as motion sensors and 
+high-resolution screens. All said and done, the duo might prove to be 
+serious competitors in their respective price brackets when it comes to 
+camera quality. The Galaxy J5 is snappy, runs the latest version of 
+Android, has expandable storage, supports 4G, and features a decent 
+battery - all the things users care about, for under Rs. 12,000. For Rs.
+ 3,000 more, you can get a larger display, better processor, and better 
+battery. Stay tuned for in-depth reviews of both smartphones, coming up 
+soon.
+

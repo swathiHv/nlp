@@ -1,0 +1,595 @@
+Moto G review
+
+Budget smartphones might not attract as much attention as their 
+high-end counterparts, but there is no denying that these devices are in
+ massive demand, especially in markets like India. Motorola's Moto G is 
+an attempt to grab buyers' attention by offering a number of features at
+ an extremely reasonable price. After a brief sabbatical, 
+Motorola has returned to the Indian market with its Moto G smartphone, 
+which is an affordable device for cost-conscious consumers worldwide. 
+This phone was designed as part of Google's plan to focus on creating a 
+distinctive lineup of devices for different markets. Now, with Lenovo 
+recently acquiring Google's stake in Motorola Mobility,
+ we don't know whether or not the company will stick with the same 
+strategy. Motorola underscored its plan to focus on emerging 
+markets by unveiling the Moto G at a huge event in Sao Paulo, Brazil in 
+November last year.
+ The budget-friendly smartphone was supposed to have reached Indian 
+shores by January 2014, and it's here after only a short delay. As 
+promised, it comes at a decent price. We got our hands on the black version of the Moto G (single-SIM). Does this low price come at the cost of performance?Look and feelThe
+ first thing that struck us about the Motorola Moto G was its novel 
+packaging. When it came to our doorstep, we didn't realise that the 
+sleek box hid a mobile phone inside. Amazingly everything from the 
+device to the charger fits within this slim box. The Moto G is a 
+candybar phone. It doesn't have any contours - the design is very basic 
+yet modern. When we first looked at the Moto G, we mistook it for the 
+company's flagship Moto X. The G looks like a replica of the Moto X (except for its 
+size), which is not really a bad thing considering the premium look of 
+its elder sibling. However, the Moto G is different in a few ways. It's 
+definitely thicker, measuring 129.9x65.9x11.6mm compared to 
+129.3x65.3x10.4mm for the X. At 143 grams, the Moto G is also heavier 
+than the Moto X (130 grams). However, we assume that for an average 
+buyer in this price segment, thickness and weight of a smartphone are 
+not the biggest concerns. The Moto G features curved edges that offer a 
+good grip. The Moto G's front panel is dominated by a 4.5-inch 
+screen, which is only marginally smaller than 4.7-inch display found on 
+the Moto X. The front panel features a black strip of glass around the 
+screen that visually differentiates the plastic front and rear panels. 
+Notably, the Moto G does not have any logo or branding on the front.There's
+ a 1.3-megapixel front-facing camera which to the left of the chrome 
+earpiece. There are no soft-touch capacitive buttons on the front panel,
+ a design touch that is commonly seen on the Nexus range of devices. 
+It's worth pointing out that Google's Nexus 7 (2013) tablet's front 
+panel also bears a lot of similarities to the Moto G. The new Nexus 7 
+features a glass strip around the screen, identical to the Moto G. It
+ seems Google wanted to align the industrial design of its hardware 
+products. The Nexus line and Motorola's two recent phones do have a 
+family resemblance that sets them apart from Samsung's and HTC's phones.Motorola
+ has also used a nano-coating on the Moto G that acts as light water 
+repellent. This does not make the Moto water resistant, but it can 
+protect the smartphone from light splashes of water, which is still an 
+interesting touch for a smartphone at this price point. The 
+curved rear panel is made of a soft-touch polycarbonate, and is 
+comfortable to hold. Yes, it sometimes gets badly smudged by 
+fingerprints, but this is nothing that cannot be cleaned. The panel is 
+removable even though the battery isn't. Motorola has announced that 
+there will be accessories including rear shells and flip covers (both in
+ seven colour options) and Grip Shells (in five colour options). This 
+means that customers will have a choice of colours, something we 
+generally see on Nokia's Lumia range. The power and volume rocker
+ buttons are placed on the right side of the Moto G, while the 3.5mm 
+audio jack is on the top and the Micro-USB port is on the bottom panel. 
+The placement of the physical buttons is fine and we had no problem 
+reaching them even when we were not looking at the device. The Moto G's 
+back houses a 5-megapixel camera with an LED flash with a speaker grille
+ to its left. The Motorola logo is embossed just below the LED flash and
+ is identical to the one found on the Moto X. Peel off the back panel 
+and you can get to the SIM slot, which accepts a Micro-SIM. The unit we 
+received was a single-SIM device, though Motorola has introduced a 
+dual-SIM Moto G variant in India. The Motorola Moto G has an 
+overall solid build, though it does feel bit plasticky. Yes, it follows a
+ tried and tested design rather than a radically new one, but it 
+certainly has its own identity and there's no mistaking it for any other
+ phone from any other company.ScreenOne of the biggest 
+highlights of the Moto G is its 4.5-inch 720x1280-pixel IPS LCD, which 
+works out to a density of 329 pixels per inch. Notably, the Moto G's 
+screen is a bit sharper than Apple's iPhone 5s, which offers 326ppi. Motorola
+ has also used Corning Gorilla Glass 3 on the Moto G to protect it from 
+scratches. It's worth pointing out that Gorilla Glass is usually found 
+on premium devices priced at Rs. 30,000 and above. The IPS LCD 
+screen doesn't have the fullest colour reproduction like the HTC One and LG G2 
+or the deepest blacks like 
+Samsung's high-end Galaxy smartphones (Galaxy S4 or Galaxy Note 3) with AMOLED screens do, 
+but it is bright and colours are consistently vibrant. Thankfully the 
+viewing angles are never a problem. The screen is not very reflective 
+and visibility in bright sunlight was also acceptable. Further, the Moto
+ G's 4.5-inch screen is fine for video playback and gaming.Text on the Moto G is always crisp and clear. There
+ is no denying that many brands have launched smartphones with full-HD 
+screens of late, but after using the Moto G for some time we felt that 
+329ppi is more than enough for a screen of this size. Motorola has 
+definitely upped the ante for phones in this price bracket.CameraThe
+ Moto G sports a 5-megapixel rear camera accompanied by an LED flash, 
+and also has a 1.3-megapixel front-facing camera. At this price point, 
+we didn't expect a higher megapixel count. The camera delivers decent 
+but uninspiring shots in good lighting conditions. We tested the 
+Moto G's rear camera both outdoors and indoors in a variety of lighting 
+conditions and found that images taken outdoors during daylight came out
+ well, though they were a little over-saturated and we could detect a 
+little bit of noise at the edges. You can notice that detail is lacking 
+if you zoom in to a photo taken with a Moto G. Other than that, we found
+ the quality of images taken in sufficient light to be satisfactory. 
+However, the same could not be said for indoor and low-light shots. 
+Photos taken in artificial light (without using the LED flash) are not 
+very impressive, as background noise does tend to creep in.The 
+Moto G's rear camera can be set to take 5-megapixel shots in the 4:3 
+aspect ratio, while 16:9 shots will come out at 3.8 megapixels.The
+ Moto G's camera app is not stock and adds a bit of flavour the 
+otherwise vanilla OS. Motorola's camera app has a circular control bar 
+that pops out from the left of the screen when tapped. Additional 
+features include 4X digital zoom, slow motion video, burst mode, auto 
+HDR mode, Panorama and tap to focus. The Moto G's burst mode allows 
+users to take up to 99 shots at once; users just need to long-press the 
+camera soft key on the screen to start shooting. Notably, there are no 
+ISO and exposure control settings on the Moto G.The 1.3-megapixel
+ front facing camera can be used for selfies and video chats. We found 
+that videos and images captured indoors or even outdoors with this 
+camera were a bit grainy.We would have liked a physical button for the camera as one has to rely on the soft key on the screen to click images.Software/ InterfaceWhen
+ the Moto G reached our office, the device was running Android 4.3 out 
+of the box. However, we soon encountered an alert that said "Please 
+update your Moto G to Android's latest version (4.4.2)." Motorola had 
+rolled out the Android 4.4.2 KitKat update for the Moto G ahead of 
+schedule in December last year. The Moto G with Android 4.4.2 KitKat is most updated smartphone in its price segment and offers a stock Android experience. The
+ Nexus 5 was the platform 
+lead for Android 4.4 (KitKat) and the Moto G bears a lot of similarities
+ to it in terms of software. Android 4.4 has a number of visual changes 
+compared to Android 4.3 (Jelly Bean), including a new launcher that 
+makes the interface even more minimalistic. The Moto G also has flatter 
+design elements, more muted colours in the status icons, more 
+transparency, and smoother transition animations.We noticed a 
+smooth flyaway animation on the Moto G, similar to the one seen on the 
+Nexus 5, while moving between the app launcher and homescreen. The Moto 
+G's app launcher features app icons and widgets; now due to the icons 
+being larger, you'll see a grid of 4x5 instead of a 5x5.The Moto G
+ offers five customizable homescreens, and lots of widgets and apps 
+classified into preloaded and downloadable categories. Notably, you 
+cannot go beyond five homescreens, unlike with the Nexus 5.Shortcuts
+ for the dialler, Chrome browser, main menu, Messages and camera app 
+remain visible when you swipe between homescreens. Notifications in the 
+tray can be expanded with a two-finger pull gesture, and there are 
+buttons for clearing all notifications and showing the quick settings 
+shortcuts. These include toggles for Brightness, Settings, Wi-Fi, 
+Network, Battery, Airplane Mode, Bluetooth, and Location settings. 
+Unlike the Nexus 5, the Moto G does not have a quick Alarm clock 
+shortcut.Long-pressing on the Moto G's homescreen brings up 
+options to change the wallpaper. A choice of still, live and custom 
+wallpapers are now available under a single menu.Another feature 
+that gives the Moto G a clear advantage in the affordable smartphone 
+segment is the voice guided search feature. This was also first seen on 
+the Nexus 5. A user can initiate a voice search on the Moto G when it's 
+unlocked by simply saying, 'OK Google.' However, it is only available 
+when the language is set to US English. The Moto G also includes a
+ revamped Phone app that now automatically prioritises contacts based on
+ who you talk to most often. The app includes a search bar, space for 
+the most frequently called contacts and favourites, and shortcuts to the
+ contact list, dialling pad, call history and settings. The Moto G
+ also features a new Photos app that allows viewing and editing of 
+locally stored and Google+ images. The new Photos app features deeper 
+integration with Google+ and can be used to tag photos.The Email 
+app on the Moto G has also been revamped, and it now displays pictures 
+of contacts for emails. Navigation has been made identical to the Gmail 
+app and you can swipe messages to delete them.The Moto G also 
+includes Google Drive, Keep, Play Games, Play Movies, Play Movies, Play 
+Books, Play Newsstand and Quickoffice for creating and editing 
+documents, spreadsheets and presentations. You can print documents 
+through the Google Cloud Print plugin, or apps made by printer 
+manufacturers.Motorola preloads two other major apps on the Moto 
+G. Motorola Migrate can help move the contents of an old Android phone 
+to your new Moto G. Motorola Assist allows users to silence the device 
+while you're sleeping or driving. We tried it out, and noted that the 
+app automatically sent a text message to callers in the time we told it 
+we were busy.Performance/ Battery LifeThe Moto G is 
+powered by 1.2GHz quad-core Qualcomm Snapdragon 400 processor with 
+Adreno 305 graphics and 1GB of RAM onboard. The Moto G comes in two 
+storage capacities: 8GB and 16GB, and does not support expandable 
+storage. We received an 8GB unit, of which only 5.5GB was 
+user-accessible. Even though the Moto G falls in the budget 
+smartphone segment, the limited storage on the device is definitely a 
+limiting factor. Google is offering 50GB of free Google Drive storage 
+for two years for every Moto G buyer, which is additional to the 
+standard 15GB available to every Google account user. However, cloud 
+storage is no substitute for physical storage, especially since budget 
+users won't have very expensive data plans.The Moto G definitely 
+ups the ante in terms of innards. Brands such as Micromax and Xolo, 
+which have come to dominate the sub-Rs. 15,000 segment, usually use 
+MediaTek chipsets.The overall experience of navigating through 
+the Moto G's interface was extremely impressive, thanks to all the power
+ under its hood, and the fact that the UI is devoid of unnecessary bells
+ and whistles such as transition effects. We did not experience any lag 
+at all while launching apps, playing light games, scrolling through web 
+pages and switching between apps on the Moto G.With its quad-core
+ processor running under the hood, the Moto G manages to chug along just
+ fine. We multi-tasked all day, which included chatting via WhatsApp and
+ Hangouts, browsing the Web and playing games like Temple Run 2 and 
+Plants vs. Zombies 2 without any trouble. In day to day activities the 
+Moto G worked smoothly and we were never left wanting for more power - 
+that is until we tried a few heavy games like Shadow Gun and Dead 
+Trigger. The clarity of the Moto G's loudspeaker is good, but 
+isn't too loud and breaks at its highest volume. Motorola does not 
+supply any headphones in the Moto G box, which is a surprising omission.The
+ Moto G's 4.5-inch IPS LCD HD screen is good for movies and videos. We 
+were impressed with the colour reproduction and viewing angles on the 
+Moto G. Call quality on the Moto G was impressive and the device 
+was able to latch on to cellular networks even in weak signal areas, 
+which came in handy at times. Our tests were performed on a single-SIM 
+model, although Motorola will be selling the dual-SIM version here.The
+ Moto G scored well in our benchmark tests. We recorded a score of 
+11,874 in AnTuTu, which was right behind the Nexus 4 and Samsung Galaxy S
+ III. Quadrant gave us a score of 8,569 which is ahead of HTC's flagship
+ smartphone from two years ago, the One X. On the graphics front, the 
+Moto G remarkably reached 11 frames per second in the GFXbench test, and
+ 5629 in the 3DMark Ice Storm Extreme run-through. The Moto G 
+packs a 2070mAh battery which is non-removable and can deliver a mixed 
+usage time of up to 24 hours, according to Motorola. We were able to get
+ about a day (22 hours) of normal usage on the Moto G, which consisted 
+of Web browsing and watching videos on YouTube, a few calls lasting for 
+about an hour, with Wi-Fi switched on, the display set to auto 
+brightness, and the usual notifications for the messages, emails, 
+Facebook, Hike and WhatsApp enabled. With heavy usage, which 
+included calls lasting for about two hours, 3G turned on all the time, 
+casual photography and watching a movie for around two hours, an hour of
+ casual gaming (Temple Run 2 and Dead Trigger), and notifications 
+enabled, the device lasted for about 12-13 hours, which was not bad. In our video loop rundown test, the Moto G was able to able to deliver 8 hours and 30 minutes of battery life.VerdictWhat makes the Moto G special is the fact that it is 
+one of a very small number of devices running the latest version of 
+Android, and one of the only ones priced this low to be doing so. The
+ Moto G scores heavily in terms of style and substance, and our only 
+major quibbles are the non-expandable storage and below-par camera 
+performance. The 4.5-inch HD screen is wide, and yet the phone is small 
+enough to hold in one hand and type easily with a thumb. Most of all, 
+praise be, the Moto G is also extremely affordable. This 
+phone is definitely aimed at price-conscious Indian smartphone buyers, 
+and its array of colourful back shells will attract the style-conscious 
+as well. Yes, it isn't perfect, but it isn't meant to compete against 
+the likes of the Samsung Galaxy S4, HTC One or LG G2. At its price, 
+we're willing to overlook its faults. The Moto G is 
+available in two variants: 8GB for Rs. 12,499 and 16GB for Rs. 13,999. 
+At this price point, no other phones offer an experience that is as 
+good, so in that sense the Moto G is a game changer. If you have your 
+eyes set on the Moto G, we recommend you spend the extra bucks and get 
+the 16GB version, given the limited user accessible storage available in
+ the 8GB version. Our only other complaint with the Moto G is the 
+average camera, but the only phone that offers a better camera in the 
+same price bracket is the Nokia Lumia 720, so the newest Motorola 
+smartphone is a winner overall. Moto G in pictures
+
+
+Budget smartphones might not attract as much attention as their 
+high-end counterparts, but there is no denying that these devices are in
+ massive demand, especially in markets like India. Motorola's Moto G is 
+an attempt to grab buyers' attention by offering a number of features at
+ an extremely reasonable price. 
+
+After a brief sabbatical, 
+Motorola has returned to the Indian market with its Moto G smartphone, 
+which is an affordable device for cost-conscious consumers worldwide. 
+This phone was designed as part of Google's plan to focus on creating a 
+distinctive lineup of devices for different markets. Now, with Lenovo 
+recently acquiring Google's stake in Motorola Mobility,
+ we don't know whether or not the company will stick with the same 
+strategy. 
+
+Motorola underscored its plan to focus on emerging 
+markets by unveiling the Moto G at a huge event in Sao Paulo, Brazil in 
+November last year.
+ The budget-friendly smartphone was supposed to have reached Indian 
+shores by January 2014, and it's here after only a short delay. As 
+promised, it comes at a decent price. 
+
+We got our hands on the black version of the Moto G (single-SIM). Does this low price come at the cost of performance?
+
+Look and feelThe
+ first thing that struck us about the Motorola Moto G was its novel 
+packaging. When it came to our doorstep, we didn't realise that the 
+sleek box hid a mobile phone inside. Amazingly everything from the 
+device to the charger fits within this slim box. 
+
+The Moto G is a 
+candybar phone. It doesn't have any contours - the design is very basic 
+yet modern. When we first looked at the Moto G, we mistook it for the 
+company's flagship Moto X. 
+
+The G looks like a replica of the Moto X (except for its 
+size), which is not really a bad thing considering the premium look of 
+its elder sibling. However, the Moto G is different in a few ways. It's 
+definitely thicker, measuring 129.9x65.9x11.6mm compared to 
+129.3x65.3x10.4mm for the X. At 143 grams, the Moto G is also heavier 
+than the Moto X (130 grams). However, we assume that for an average 
+buyer in this price segment, thickness and weight of a smartphone are 
+not the biggest concerns. The Moto G features curved edges that offer a 
+good grip. 
+
+The Moto G's front panel is dominated by a 4.5-inch 
+screen, which is only marginally smaller than 4.7-inch display found on 
+the Moto X. The front panel features a black strip of glass around the 
+screen that visually differentiates the plastic front and rear panels. 
+Notably, the Moto G does not have any logo or branding on the front.
+
+There's
+ a 1.3-megapixel front-facing camera which to the left of the chrome 
+earpiece. There are no soft-touch capacitive buttons on the front panel,
+ a design touch that is commonly seen on the Nexus range of devices. 
+It's worth pointing out that Google's Nexus 7 (2013) tablet's front 
+panel also bears a lot of similarities to the Moto G. The new Nexus 7 
+features a glass strip around the screen, identical to the Moto G. 
+
+It
+ seems Google wanted to align the industrial design of its hardware 
+products. The Nexus line and Motorola's two recent phones do have a 
+family resemblance that sets them apart from Samsung's and HTC's phones.
+
+Motorola
+ has also used a nano-coating on the Moto G that acts as light water 
+repellent. This does not make the Moto water resistant, but it can 
+protect the smartphone from light splashes of water, which is still an 
+interesting touch for a smartphone at this price point. 
+
+The 
+curved rear panel is made of a soft-touch polycarbonate, and is 
+comfortable to hold. Yes, it sometimes gets badly smudged by 
+fingerprints, but this is nothing that cannot be cleaned. The panel is 
+removable even though the battery isn't. Motorola has announced that 
+there will be accessories including rear shells and flip covers (both in
+ seven colour options) and Grip Shells (in five colour options). This 
+means that customers will have a choice of colours, something we 
+generally see on Nokia's Lumia range. 
+
+The power and volume rocker
+ buttons are placed on the right side of the Moto G, while the 3.5mm 
+audio jack is on the top and the Micro-USB port is on the bottom panel. 
+The placement of the physical buttons is fine and we had no problem 
+reaching them even when we were not looking at the device. The Moto G's 
+back houses a 5-megapixel camera with an LED flash with a speaker grille
+ to its left. The Motorola logo is embossed just below the LED flash and
+ is identical to the one found on the Moto X. Peel off the back panel 
+and you can get to the SIM slot, which accepts a Micro-SIM. The unit we 
+received was a single-SIM device, though Motorola has introduced a 
+dual-SIM Moto G variant in India. 
+
+The Motorola Moto G has an 
+overall solid build, though it does feel bit plasticky. Yes, it follows a
+ tried and tested design rather than a radically new one, but it 
+certainly has its own identity and there's no mistaking it for any other
+ phone from any other company.
+
+ScreenOne of the biggest 
+highlights of the Moto G is its 4.5-inch 720x1280-pixel IPS LCD, which 
+works out to a density of 329 pixels per inch. Notably, the Moto G's 
+screen is a bit sharper than Apple's iPhone 5s, which offers 326ppi. 
+
+Motorola
+ has also used Corning Gorilla Glass 3 on the Moto G to protect it from 
+scratches. It's worth pointing out that Gorilla Glass is usually found 
+on premium devices priced at Rs. 30,000 and above. 
+
+The IPS LCD 
+screen doesn't have the fullest colour reproduction like the HTC One and LG G2 
+or the deepest blacks like 
+Samsung's high-end Galaxy smartphones (Galaxy S4 or Galaxy Note 3) with AMOLED screens do, 
+but it is bright and colours are consistently vibrant. Thankfully the 
+viewing angles are never a problem. The screen is not very reflective 
+and visibility in bright sunlight was also acceptable. Further, the Moto
+ G's 4.5-inch screen is fine for video playback and gaming.
+
+Text on the Moto G is always crisp and clear. 
+
+There
+ is no denying that many brands have launched smartphones with full-HD 
+screens of late, but after using the Moto G for some time we felt that 
+329ppi is more than enough for a screen of this size. Motorola has 
+definitely upped the ante for phones in this price bracket.
+
+CameraThe
+ Moto G sports a 5-megapixel rear camera accompanied by an LED flash, 
+and also has a 1.3-megapixel front-facing camera. At this price point, 
+we didn't expect a higher megapixel count. The camera delivers decent 
+but uninspiring shots in good lighting conditions. 
+
+We tested the 
+Moto G's rear camera both outdoors and indoors in a variety of lighting 
+conditions and found that images taken outdoors during daylight came out
+ well, though they were a little over-saturated and we could detect a 
+little bit of noise at the edges. You can notice that detail is lacking 
+if you zoom in to a photo taken with a Moto G. Other than that, we found
+ the quality of images taken in sufficient light to be satisfactory. 
+However, the same could not be said for indoor and low-light shots. 
+Photos taken in artificial light (without using the LED flash) are not 
+very impressive, as background noise does tend to creep in.
+
+The 
+Moto G's rear camera can be set to take 5-megapixel shots in the 4:3 
+aspect ratio, while 16:9 shots will come out at 3.8 megapixels.
+
+The
+ Moto G's camera app is not stock and adds a bit of flavour the 
+otherwise vanilla OS. Motorola's camera app has a circular control bar 
+that pops out from the left of the screen when tapped. Additional 
+features include 4X digital zoom, slow motion video, burst mode, auto 
+HDR mode, Panorama and tap to focus. The Moto G's burst mode allows 
+users to take up to 99 shots at once; users just need to long-press the 
+camera soft key on the screen to start shooting. Notably, there are no 
+ISO and exposure control settings on the Moto G.
+
+The 1.3-megapixel
+ front facing camera can be used for selfies and video chats. We found 
+that videos and images captured indoors or even outdoors with this 
+camera were a bit grainy.
+
+We would have liked a physical button for the camera as one has to rely on the soft key on the screen to click images.
+
+Software/ InterfaceWhen
+ the Moto G reached our office, the device was running Android 4.3 out 
+of the box. However, we soon encountered an alert that said "Please 
+update your Moto G to Android's latest version (4.4.2)." Motorola had 
+rolled out the Android 4.4.2 KitKat update for the Moto G ahead of 
+schedule in December last year. 
+
+The Moto G with Android 4.4.2 KitKat is most updated smartphone in its price segment and offers a stock Android experience. 
+
+The
+ Nexus 5 was the platform 
+lead for Android 4.4 (KitKat) and the Moto G bears a lot of similarities
+ to it in terms of software. Android 4.4 has a number of visual changes 
+compared to Android 4.3 (Jelly Bean), including a new launcher that 
+makes the interface even more minimalistic. The Moto G also has flatter 
+design elements, more muted colours in the status icons, more 
+transparency, and smoother transition animations.
+
+We noticed a 
+smooth flyaway animation on the Moto G, similar to the one seen on the 
+Nexus 5, while moving between the app launcher and homescreen. The Moto 
+G's app launcher features app icons and widgets; now due to the icons 
+being larger, you'll see a grid of 4x5 instead of a 5x5.
+
+The Moto G
+ offers five customizable homescreens, and lots of widgets and apps 
+classified into preloaded and downloadable categories. Notably, you 
+cannot go beyond five homescreens, unlike with the Nexus 5.
+
+Shortcuts
+ for the dialler, Chrome browser, main menu, Messages and camera app 
+remain visible when you swipe between homescreens. Notifications in the 
+tray can be expanded with a two-finger pull gesture, and there are 
+buttons for clearing all notifications and showing the quick settings 
+shortcuts. These include toggles for Brightness, Settings, Wi-Fi, 
+Network, Battery, Airplane Mode, Bluetooth, and Location settings. 
+Unlike the Nexus 5, the Moto G does not have a quick Alarm clock 
+shortcut.
+
+Long-pressing on the Moto G's homescreen brings up 
+options to change the wallpaper. A choice of still, live and custom 
+wallpapers are now available under a single menu.
+
+Another feature 
+that gives the Moto G a clear advantage in the affordable smartphone 
+segment is the voice guided search feature. This was also first seen on 
+the Nexus 5. A user can initiate a voice search on the Moto G when it's 
+unlocked by simply saying, 'OK Google.' However, it is only available 
+when the language is set to US English. 
+
+The Moto G also includes a
+ revamped Phone app that now automatically prioritises contacts based on
+ who you talk to most often. The app includes a search bar, space for 
+the most frequently called contacts and favourites, and shortcuts to the
+ contact list, dialling pad, call history and settings. 
+
+The Moto G
+ also features a new Photos app that allows viewing and editing of 
+locally stored and Google+ images. The new Photos app features deeper 
+integration with Google+ and can be used to tag photos.
+
+The Email 
+app on the Moto G has also been revamped, and it now displays pictures 
+of contacts for emails. Navigation has been made identical to the Gmail 
+app and you can swipe messages to delete them.
+
+The Moto G also 
+includes Google Drive, Keep, Play Games, Play Movies, Play Movies, Play 
+Books, Play Newsstand and Quickoffice for creating and editing 
+documents, spreadsheets and presentations. You can print documents 
+through the Google Cloud Print plugin, or apps made by printer 
+manufacturers.
+
+Motorola preloads two other major apps on the Moto 
+G. Motorola Migrate can help move the contents of an old Android phone 
+to your new Moto G. Motorola Assist allows users to silence the device 
+while you're sleeping or driving. We tried it out, and noted that the 
+app automatically sent a text message to callers in the time we told it 
+we were busy.
+
+Performance/ Battery LifeThe Moto G is 
+powered by 1.2GHz quad-core Qualcomm Snapdragon 400 processor with 
+Adreno 305 graphics and 1GB of RAM onboard. The Moto G comes in two 
+storage capacities: 8GB and 16GB, and does not support expandable 
+storage. We received an 8GB unit, of which only 5.5GB was 
+user-accessible. 
+
+Even though the Moto G falls in the budget 
+smartphone segment, the limited storage on the device is definitely a 
+limiting factor. Google is offering 50GB of free Google Drive storage 
+for two years for every Moto G buyer, which is additional to the 
+standard 15GB available to every Google account user. However, cloud 
+storage is no substitute for physical storage, especially since budget 
+users won't have very expensive data plans.
+
+The Moto G definitely 
+ups the ante in terms of innards. Brands such as Micromax and Xolo, 
+which have come to dominate the sub-Rs. 15,000 segment, usually use 
+MediaTek chipsets.
+
+The overall experience of navigating through 
+the Moto G's interface was extremely impressive, thanks to all the power
+ under its hood, and the fact that the UI is devoid of unnecessary bells
+ and whistles such as transition effects. We did not experience any lag 
+at all while launching apps, playing light games, scrolling through web 
+pages and switching between apps on the Moto G.
+
+With its quad-core
+ processor running under the hood, the Moto G manages to chug along just
+ fine. We multi-tasked all day, which included chatting via WhatsApp and
+ Hangouts, browsing the Web and playing games like Temple Run 2 and 
+Plants vs. Zombies 2 without any trouble. In day to day activities the 
+Moto G worked smoothly and we were never left wanting for more power - 
+that is until we tried a few heavy games like Shadow Gun and Dead 
+Trigger. 
+
+The clarity of the Moto G's loudspeaker is good, but 
+isn't too loud and breaks at its highest volume. Motorola does not 
+supply any headphones in the Moto G box, which is a surprising omission.
+
+The
+ Moto G's 4.5-inch IPS LCD HD screen is good for movies and videos. We 
+were impressed with the colour reproduction and viewing angles on the 
+Moto G. 
+
+Call quality on the Moto G was impressive and the device 
+was able to latch on to cellular networks even in weak signal areas, 
+which came in handy at times. Our tests were performed on a single-SIM 
+model, although Motorola will be selling the dual-SIM version here.
+
+The
+ Moto G scored well in our benchmark tests. We recorded a score of 
+11,874 in AnTuTu, which was right behind the Nexus 4 and Samsung Galaxy S
+ III. Quadrant gave us a score of 8,569 which is ahead of HTC's flagship
+ smartphone from two years ago, the One X. On the graphics front, the 
+Moto G remarkably reached 11 frames per second in the GFXbench test, and
+ 5629 in the 3DMark Ice Storm Extreme run-through. 
+
+The Moto G 
+packs a 2070mAh battery which is non-removable and can deliver a mixed 
+usage time of up to 24 hours, according to Motorola. We were able to get
+ about a day (22 hours) of normal usage on the Moto G, which consisted 
+of Web browsing and watching videos on YouTube, a few calls lasting for 
+about an hour, with Wi-Fi switched on, the display set to auto 
+brightness, and the usual notifications for the messages, emails, 
+Facebook, Hike and WhatsApp enabled. 
+
+With heavy usage, which 
+included calls lasting for about two hours, 3G turned on all the time, 
+casual photography and watching a movie for around two hours, an hour of
+ casual gaming (Temple Run 2 and Dead Trigger), and notifications 
+enabled, the device lasted for about 12-13 hours, which was not bad. 
+
+In our video loop rundown test, the Moto G was able to able to deliver 8 hours and 30 minutes of battery life.
+
+VerdictWhat makes the Moto G special is the fact that it is 
+one of a very small number of devices running the latest version of 
+Android, and one of the only ones priced this low to be doing so. 
+
+The
+ Moto G scores heavily in terms of style and substance, and our only 
+major quibbles are the non-expandable storage and below-par camera 
+performance. The 4.5-inch HD screen is wide, and yet the phone is small 
+enough to hold in one hand and type easily with a thumb. Most of all, 
+praise be, the Moto G is also extremely affordable.
+
+ 
+
+This 
+phone is definitely aimed at price-conscious Indian smartphone buyers, 
+and its array of colourful back shells will attract the style-conscious 
+as well. Yes, it isn't perfect, but it isn't meant to compete against 
+the likes of the Samsung Galaxy S4, HTC One or LG G2. At its price, 
+we're willing to overlook its faults.
+
+ 
+
+The Moto G is 
+available in two variants: 8GB for Rs. 12,499 and 16GB for Rs. 13,999. 
+At this price point, no other phones offer an experience that is as 
+good, so in that sense the Moto G is a game changer. If you have your 
+eyes set on the Moto G, we recommend you spend the extra bucks and get 
+the 16GB version, given the limited user accessible storage available in
+ the 8GB version. Our only other complaint with the Moto G is the 
+average camera, but the only phone that offers a better camera in the 
+same price bracket is the Nokia Lumia 720, so the newest Motorola 
+smartphone is a winner overall.
+

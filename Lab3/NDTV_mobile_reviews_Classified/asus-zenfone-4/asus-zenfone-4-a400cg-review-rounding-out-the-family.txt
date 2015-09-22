@@ -1,0 +1,346 @@
+Asus Zenfone 4 A400CG Review: Rounding Out the Family
+
+Asus made quite a splash by launching three new phones this month, 
+the Zenfone 4, Zenfone 5 and Zenfone 6. Despite the naming scheme, these
+ are not the same device with different screen sizes.  The sizes 
+correspond to significant differences in price and capabilities.Each
+ of the three has its niche, and the Zenfone 4 is aimed squarely at 
+capturing the bottom end of the smartphone market. Asus has its sights 
+on first-time Android buyers who represent a massive opportunity for 
+smartphone vendors. There are two versions of the Zenfone 4 - the 
+A400CG model which we have in for review today has a 4-inch screen and a
+ 5-megapixel camera, whereas the A450CG, which hasn't launched here yet,
+ has a 4.5-inch screen and 8-megapixel camera. Most other specifications
+ are the same.We were pretty impressed by the Zenfone 5 and 
+Zenfone 6, which both provide excellent value at their price points. Now
+ it's time to put the smallest sibling through our review process. Look and feelThe
+ Zenfone 4 is pretty small by today's standards, which means it's very 
+easy to hold and use. It's very slightly shorter and wider than an 
+iPhone 5, but quite a bit thicker. The bulging back in fact makes it 
+more comfortable in the hand.Our Zenfone 4 test unit came with a 
+striking satiny blue rear panel, though black, white and red are also 
+available. It's a high-quality finish, but we really wonder why Asus 
+printed its own logo in red, right beneath the camera lens and speaker 
+grille. There are also prominent white Intel Inside and Zenfone logos on
+ the bottom rear. The front is pretty consistent with the larger 
+two Zenfones - there are three capacitive buttons below the screen and a
+ speaker and camera above it. The lower lip and buttons have the 
+distinct concentric circle texture that all Asus's Zen products have, 
+but in this case it's all plastic and much less apparent. The 
+power and volume buttons are on the right edge, while the Micro-USB port
+ is on the right and headset socket is on the top. There are two SIM 
+card slots on the left edge, beneath the removable cover. The microSD 
+card slot is to the left of the camera lens, right above the battery 
+cavity. Unlike its bigger siblings, the Zenfone 4 has a removable 
+battery. Specifications and SoftwareWith reduced prices 
+come reduced specifications. The screen is a 4-inch 480x800-pixel panel 
+which really isn't very bright and has poor viewing angles.  The 
+processor is a relatively low-end Intel Atom Z2520, which is a dual-core
+ 1.2GHz model with Hyper-Threading and integrated PowerVR SGX544MP2 
+graphics. The 1GB of RAM and 8GB of internal storage space are both on 
+the higher side for phones in this price range, and will help keep 
+things fresh and snappy for a while. You also get Wi-Fi b/g/n, Bluetooth
+ 4.0, A-GPS, an accelerometer and proximity sensor. The essentials are 
+all accounted for, except maybe an ambient light sensor for automatic 
+brightness control.Asus ships the Zenfone 4 with Android 4.3, and
+ there's quite a heavy skin on it called ZenUI. For the most part, we 
+like Asus' work. The lock screen is clean and simple with all the 
+required functionality - a big clock, weather information, 
+notifications, alarm time, and shortcuts to the phone, messaging and 
+camera apps. The shortcut icons also show the number of missed 
+notifications, but strangely, you can't see who called or messaged. You
+ can have up to nine homescreens. Asus includes a widget called What's 
+Next that shows upcoming appointments and important events. The app 
+drawer has tabs which let you show only your downloaded or frequently 
+used apps. The notifications shade and quick settings panel are 
+customised. They're both crisp and clear, which is all the more 
+necessary on the Zenfone 4's low-resolution screen. You'll also see 
+visual tweaks in the Settings, Messaging, Music, Email and other apps.  We
+ weren't too happy with the default Asus keyboard - the layout is a bit 
+odd with keys stacked perfectly in a grid rather than the more natural 
+layout with each row offset - but there's no shortage of replacements in
+ the Play store. Also, the decision to stick with capacitive buttons 
+means you won't accidentally hit them while typing.Asus includes
+ a few interesting apps. SuperNote lets you create multi-page notes, on 
+which you can type or sketch in multiple colours and styles. You can 
+also embed photos, videos, audio clips, shape stamps and more. Do It 
+Later is a reminders app that integrates with cloud services including 
+Google and Exchange accounts. What's Next is the app counterpart of the 
+homescreen widget of the same name.The Splendid app lets you 
+tweak screen parameters such as colour temperature and saturation. You 
+can tweak each of the options by a few steps, but avoid the extremes 
+(unless you want a monochrome screen, which is totally possible). The 
+AudioWizard app only presents six audio EQ presets for different 
+scenarios, including one for saving power. Share Link lets you easily 
+set up a Wi-Fi Direct connection between two devices for file exchanges.
+ Power Saver lets you define a custom profile or use a preset one to 
+make the battery last longer.Finally, there's the Kindle app, 
+Movie Studio, Omlet Chat, Mirror, and of course assorted Google apps. 
+Since most of the choices are actually quite useful, it doesn't feel 
+like the Zenfone 4 comes with too much bloat.CameraAsus 
+has packed quite a few filters and effects into its camera app. There 
+are twelve modes to play with, including Time Rewind, Night, Selfie, 
+Miniature, Smart Remove, All Smiles and GIF Animation. A Time Lapse mode
+ is available when recording video. These work to varying degrees, but 
+it takes quite a while to process some effects such as fake depth of 
+field. There are also assorted filters which are applied before taking 
+shots - Pencil, Cartoon, Lomo, Sepia, and more.Party Link is a 
+feature that uses Wi-Fi to sync photos between Asus phones as soon as 
+they're taken. One person creates a group, and then others in the 
+vicinity can join it. Other options you can adjust include image size, 
+burst, anti-shake, face detection, auto focus mode, face detection, ISO,
+ white balance and EV. It's a pretty broad range of capabilities for 
+such an inexpensive device.(Click to see full size)Images measure only 2560x1440 (16:9) by default, but you can choose the larger 2560x1920 (4:3) if you prefer. Despite the low resolution, our test photos came out surprisingly sharp and clear. Other phones in this price range have 
+fixed-focus lenses, but the Zenfone 4 has full autofocus and you can tap
+ anywhere on the screen to change focus and metering. Close-up shots are
+ far better than landscapes, but even so, the amount of detail in shots 
+is remarkable. Even in low light, quality isn't bad at all - there's no 
+flash, but we've seen far worse photos from phones which are twice as 
+expensive or more. Even the front camera does an admirable job - another
+ area in which budget phones typically don't do well at all.(Click to see full size)Video
+ was also much better than we had expected. Full HD 1920x1080 clips look
+ surprisingly good. They're definitely not crystal clear, but detail in 
+things such as rustling leaves and curtains flapping in the wind is very
+ good. These are videos that can be shown off and shared anywhere.PerformanceThe
+ Zenfone 4 might be cheap, but it's no slouch when it comes to 
+performance. It managed to edge out the more expensive Motorola Moto E 
+and Sony Xperia E1 Dual in pretty much every test. The score of 15,096 in 
+AnTuTu was significantly better than the 12,546 and 13,200 points 
+achieved by the Moto E and Xperia E1 respectively.  Similarly, the 
+Quadrant scores for all three phones were 6,395, 5,234 and 5,109 
+respectively. Graphics scores were also higher - we recorded 
+16.4fps in GFXbench as opposed to 10.7 and 12.8 for the Moto E and 
+Xperia E1 respectively. The three phones traded blows evenly in the more
+ CPU-intensive SunSpider and Mozilla Kraken tests, though.As far 
+as subjective usage goes, we did find ourselves waiting for apps to 
+load, but at least ZenUI transitions are quick and fluid. Basic games 
+such as Temple Run were good enough - we wouldn't try anything heavier 
+than that.Battery life was also good, at 5 hours, 14 minutes in 
+our video loop test. We would have liked to see a better score here, but
+ it's at par with the competition. This should just about get you 
+through a full day of calls, messages and a little bit of 3G Web usage. 
+We had no complaints about call quality either, but were surprised to see an integrated option to record calls right in the phone app.The built-in 
+speaker is decently loud. Sound is thin, but it can get pretty loud and 
+at least it doesn't distort. It came as a pleasant surprise that even 
+our heaviest 1080p video sample played flawlessly on the Zenfone 4. 
+However, as stated earlier, the phone's screen itself is pretty awful. 
+We had to push the brightness up to its highest setting and even then, 
+it wasn't always easy to see what was going on. Viewing angles are 
+terrible and reflections on the glass make things that much worse.VerdictIt
+ seems that Asus is really on to something here - the Zenfone 4 is a 
+fantastically capable device, considering its price. A lot of that has 
+to do with the choice of an Intel processor - could the company finally 
+be about to crack the mobile market, after struggling to do so for 
+years?The Zenfone 4's screen is pretty bad but nearly everything 
+else is outstanding. We're particularly impressed with the device's 
+camera capabilities. Full HD video recording is pretty neat, and it's 
+nice to have a front camera - more so one that isn't terrible! We're 
+looking forward to the A450CG revision which has a totally different 
+screen and have high hopes that Asus will improve on this phone's one 
+weakness. It isn't hard at all to recommend the Zenfone 4. You 
+can weigh your options between this phone, the Moto E and the Sony 
+Xperia E1, but we think a lot of people who are shopping in this price 
+range would be more than happy to save around Rs. 1,000-1,500.  Asus Zenfone 4 in pictures
+
+Asus made quite a splash by launching three new phones this month, 
+the Zenfone 4, Zenfone 5 and Zenfone 6. Despite the naming scheme, these
+ are not the same device with different screen sizes.  The sizes 
+correspond to significant differences in price and capabilities.
+
+Each
+ of the three has its niche, and the Zenfone 4 is aimed squarely at 
+capturing the bottom end of the smartphone market. Asus has its sights 
+on first-time Android buyers who represent a massive opportunity for 
+smartphone vendors. 
+
+There are two versions of the Zenfone 4 - the 
+A400CG model which we have in for review today has a 4-inch screen and a
+ 5-megapixel camera, whereas the A450CG, which hasn't launched here yet,
+ has a 4.5-inch screen and 8-megapixel camera. Most other specifications
+ are the same.
+
+We were pretty impressed by the Zenfone 5 and 
+Zenfone 6, which both provide excellent value at their price points. Now
+ it's time to put the smallest sibling through our review process. 
+
+Look and feelThe
+ Zenfone 4 is pretty small by today's standards, which means it's very 
+easy to hold and use. It's very slightly shorter and wider than an 
+iPhone 5, but quite a bit thicker. The bulging back in fact makes it 
+more comfortable in the hand.
+
+Our Zenfone 4 test unit came with a 
+striking satiny blue rear panel, though black, white and red are also 
+available. It's a high-quality finish, but we really wonder why Asus 
+printed its own logo in red, right beneath the camera lens and speaker 
+grille. There are also prominent white Intel Inside and Zenfone logos on
+ the bottom rear. 
+
+The front is pretty consistent with the larger 
+two Zenfones - there are three capacitive buttons below the screen and a
+ speaker and camera above it. The lower lip and buttons have the 
+distinct concentric circle texture that all Asus's Zen products have, 
+but in this case it's all plastic and much less apparent. 
+
+The 
+power and volume buttons are on the right edge, while the Micro-USB port
+ is on the right and headset socket is on the top. There are two SIM 
+card slots on the left edge, beneath the removable cover. The microSD 
+card slot is to the left of the camera lens, right above the battery 
+cavity. Unlike its bigger siblings, the Zenfone 4 has a removable 
+battery. 
+
+Specifications and SoftwareWith reduced prices 
+come reduced specifications. The screen is a 4-inch 480x800-pixel panel 
+which really isn't very bright and has poor viewing angles.  The 
+processor is a relatively low-end Intel Atom Z2520, which is a dual-core
+ 1.2GHz model with Hyper-Threading and integrated PowerVR SGX544MP2 
+graphics. The 1GB of RAM and 8GB of internal storage space are both on 
+the higher side for phones in this price range, and will help keep 
+things fresh and snappy for a while. You also get Wi-Fi b/g/n, Bluetooth
+ 4.0, A-GPS, an accelerometer and proximity sensor. The essentials are 
+all accounted for, except maybe an ambient light sensor for automatic 
+brightness control.
+
+Asus ships the Zenfone 4 with Android 4.3, and
+ there's quite a heavy skin on it called ZenUI. For the most part, we 
+like Asus' work. The lock screen is clean and simple with all the 
+required functionality - a big clock, weather information, 
+notifications, alarm time, and shortcuts to the phone, messaging and 
+camera apps. The shortcut icons also show the number of missed 
+notifications, but strangely, you can't see who called or messaged. 
+
+You
+ can have up to nine homescreens. Asus includes a widget called What's 
+Next that shows upcoming appointments and important events. The app 
+drawer has tabs which let you show only your downloaded or frequently 
+used apps. 
+
+The notifications shade and quick settings panel are 
+customised. They're both crisp and clear, which is all the more 
+necessary on the Zenfone 4's low-resolution screen. You'll also see 
+visual tweaks in the Settings, Messaging, Music, Email and other apps. 
+
+ 
+
+We
+ weren't too happy with the default Asus keyboard - the layout is a bit 
+odd with keys stacked perfectly in a grid rather than the more natural 
+layout with each row offset - but there's no shortage of replacements in
+ the Play store. Also, the decision to stick with capacitive buttons 
+means you won't accidentally hit them while typing.
+
+Asus includes
+ a few interesting apps. SuperNote lets you create multi-page notes, on 
+which you can type or sketch in multiple colours and styles. You can 
+also embed photos, videos, audio clips, shape stamps and more. Do It 
+Later is a reminders app that integrates with cloud services including 
+Google and Exchange accounts. What's Next is the app counterpart of the 
+homescreen widget of the same name.
+
+The Splendid app lets you 
+tweak screen parameters such as colour temperature and saturation. You 
+can tweak each of the options by a few steps, but avoid the extremes 
+(unless you want a monochrome screen, which is totally possible). The 
+AudioWizard app only presents six audio EQ presets for different 
+scenarios, including one for saving power. Share Link lets you easily 
+set up a Wi-Fi Direct connection between two devices for file exchanges.
+ Power Saver lets you define a custom profile or use a preset one to 
+make the battery last longer.
+
+Finally, there's the Kindle app, 
+Movie Studio, Omlet Chat, Mirror, and of course assorted Google apps. 
+Since most of the choices are actually quite useful, it doesn't feel 
+like the Zenfone 4 comes with too much bloat.
+
+CameraAsus 
+has packed quite a few filters and effects into its camera app. There 
+are twelve modes to play with, including Time Rewind, Night, Selfie, 
+Miniature, Smart Remove, All Smiles and GIF Animation. A Time Lapse mode
+ is available when recording video. These work to varying degrees, but 
+it takes quite a while to process some effects such as fake depth of 
+field. There are also assorted filters which are applied before taking 
+shots - Pencil, Cartoon, Lomo, Sepia, and more.
+
+Party Link is a 
+feature that uses Wi-Fi to sync photos between Asus phones as soon as 
+they're taken. One person creates a group, and then others in the 
+vicinity can join it. Other options you can adjust include image size, 
+burst, anti-shake, face detection, auto focus mode, face detection, ISO,
+ white balance and EV. It's a pretty broad range of capabilities for 
+such an inexpensive device.
+
+(Click to see full size)
+
+Images measure only 2560x1440 (16:9) by default, but you can choose the larger 2560x1920 (4:3) if you prefer. Despite the low resolution, our test photos came out surprisingly sharp and clear. Other phones in this price range have 
+fixed-focus lenses, but the Zenfone 4 has full autofocus and you can tap
+ anywhere on the screen to change focus and metering. Close-up shots are
+ far better than landscapes, but even so, the amount of detail in shots 
+is remarkable. Even in low light, quality isn't bad at all - there's no 
+flash, but we've seen far worse photos from phones which are twice as 
+expensive or more. Even the front camera does an admirable job - another
+ area in which budget phones typically don't do well at all.
+
+(Click to see full size)
+
+Video
+ was also much better than we had expected. Full HD 1920x1080 clips look
+ surprisingly good. They're definitely not crystal clear, but detail in 
+things such as rustling leaves and curtains flapping in the wind is very
+ good. These are videos that can be shown off and shared anywhere.
+
+PerformanceThe
+ Zenfone 4 might be cheap, but it's no slouch when it comes to 
+performance. It managed to edge out the more expensive Motorola Moto E 
+and Sony Xperia E1 Dual in pretty much every test. The score of 15,096 in 
+AnTuTu was significantly better than the 12,546 and 13,200 points 
+achieved by the Moto E and Xperia E1 respectively.  Similarly, the 
+Quadrant scores for all three phones were 6,395, 5,234 and 5,109 
+respectively. 
+
+Graphics scores were also higher - we recorded 
+16.4fps in GFXbench as opposed to 10.7 and 12.8 for the Moto E and 
+Xperia E1 respectively. The three phones traded blows evenly in the more
+ CPU-intensive SunSpider and Mozilla Kraken tests, though.
+
+As far 
+as subjective usage goes, we did find ourselves waiting for apps to 
+load, but at least ZenUI transitions are quick and fluid. Basic games 
+such as Temple Run were good enough - we wouldn't try anything heavier 
+than that.
+
+Battery life was also good, at 5 hours, 14 minutes in 
+our video loop test. We would have liked to see a better score here, but
+ it's at par with the competition. This should just about get you 
+through a full day of calls, messages and a little bit of 3G Web usage. 
+We had no complaints about call quality either, but were surprised to see an integrated option to record calls right in the phone app.
+
+The built-in 
+speaker is decently loud. Sound is thin, but it can get pretty loud and 
+at least it doesn't distort. It came as a pleasant surprise that even 
+our heaviest 1080p video sample played flawlessly on the Zenfone 4. 
+However, as stated earlier, the phone's screen itself is pretty awful. 
+We had to push the brightness up to its highest setting and even then, 
+it wasn't always easy to see what was going on. Viewing angles are 
+terrible and reflections on the glass make things that much worse.
+
+VerdictIt
+ seems that Asus is really on to something here - the Zenfone 4 is a 
+fantastically capable device, considering its price. A lot of that has 
+to do with the choice of an Intel processor - could the company finally 
+be about to crack the mobile market, after struggling to do so for 
+years?
+
+The Zenfone 4's screen is pretty bad but nearly everything 
+else is outstanding. We're particularly impressed with the device's 
+camera capabilities. Full HD video recording is pretty neat, and it's 
+nice to have a front camera - more so one that isn't terrible! We're 
+looking forward to the A450CG revision which has a totally different 
+screen and have high hopes that Asus will improve on this phone's one 
+weakness. 
+
+It isn't hard at all to recommend the Zenfone 4. You 
+can weigh your options between this phone, the Moto E and the Sony 
+Xperia E1, but we think a lot of people who are shopping in this price 
+range would be more than happy to save around Rs. 1,000-1,500. 
+

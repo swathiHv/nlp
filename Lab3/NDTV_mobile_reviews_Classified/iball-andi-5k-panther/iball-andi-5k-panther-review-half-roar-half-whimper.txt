@@ -1,0 +1,302 @@
+iBall Andi 5K Panther Review: Half Roar, Half Whimper
+
+The name iBall will be familiar to pretty much any Indian who has bought
+ or used a PC in the last decade or so. The company's keyboards, mice, 
+webcams and speakers are extremely popular thanks to their low prices, 
+even if they aren't exactly known for the highest standards of quality. 
+The number of product categories offered by the company has grown over 
+the years, and it has of course jumped into the Android smartphone and 
+tablet space.iBall's phones are much like the rest of its products - 
+blinged out and budget-friendly. The Andi 5K Panther is priced pretty 
+low and has quite a few interesting features to boast of. Can it find a 
+place for itself in the market, or will it be drowned out by 
+its competition?Look and feelThe Panther stands out thanks
+ to its thick silver rim and accents. The three capacitive buttons 
+aren't backlit, and are thus always visible. The earpiece is like the 
+one on any Samsung phone, but other than that, the Panther has the 
+unmistakable vibe of the iPhone 3G when seen head-on.The 
+Micro-USB port and 3.5mm socket are both on top, along with the power 
+button. It isn't common to find the power button here on larger phones 
+these days, and in this case it's a bit too shallow and inset to be 
+comfortable. The volume buttons are on the upper left edge.The 
+rear panel is an uncommon burgundy colour with a metallic finish, which 
+actually looks quite unique (iBall calls the colour "wine", and the Panther is also available in "milky silver").  There's a large round protrusion to house 
+the camera, but the phone is otherwise quite unremarkable. The rear shell pops
+ off to reveal a removable battery, two regular-sized SIM card slots and
+ a Micro-SD card tray. You'll need to remove the battery in order to 
+swap SIM cards, but the Micro-SD tray is accessible either way.The
+ Panther is a bit bulky and isn't very easy to use with just one hand, 
+thanks to its blunt corners and thick frame. The rear panel is also a 
+bit slippery. The capacitive buttons do not produce a vibration when 
+touched, which is something we now take for granted on all devices. Specifications and softwareThe
+ iBall Andi 5K Panther might be one of the cheapest phones with an 
+octa-core processor. It's our old friend, the MediaTek MT6592, but in 
+this case it runs at only 1.4GHz. Graphics are handled by an integrated 
+Mali -450MP GPU, and there's 1GB of RAM alongside. The phone claims to 
+have 8GB of internal storage, but this is awkwardly partitioned, and 
+barely 2GB is available to the user. Thankfully, microSD cards up to 
+32GB in capacity are supported.The screen is a lowly qHD 
+(960x540-pixel) panel, which is disappointing for a 5-incher. Still, 
+considering this phone's price and the rest of its configuration, this 
+seems like the tradeoff we have to make. The screen is definitely below 
+par - it's blurry, and colours seem to shift when you look at it from 
+different angles. Basic connectivity standards are up to date, so
+ you get Wi-Fi b/g/n and Bluetooth 4.0. The handset supports USB-OTG, 
+tethering, and Wi-Fi direct. However, don't expect anything beyond that.You
+ get a flimsy headset, charger and USB cable in the box with the 
+Panther. The charger that came with our test unit appeared to have a 
+grounding problem which made the touchscreen digitiser go haywire when 
+the phone was plugged in. One of the Panther's biggest draws is 
+the fact that it comes running Android 4.4.2. We aren't fans of iBall's 
+implementation though. The first customisation you'll notice is that the
+ unlock control on the lock screen has been replaced with an iBall logo.
+ There are no shortcuts at all - not even to the camera - which is a bit
+ surprising. We have to make a special mention of the truly awful 
+default wallpaper, which features a crudely drawn cheetah - a species 
+not related at all to any kind of panther. iBall didn't bother 
+updating its hardware design for Kitkat, so there's still a useless Menu
+ button where the Recents button should be. The homescreens are all 
+blank - there isn't a single widget other than the compulsory Google 
+search field - not even a clock. The app drawer shortcut on the 
+homescreens has also been replaced by a logo, and there aren't even any 
+shortcuts other than the most basic ones in the dock. Anyone who 
+knows his or her way around Android will be able to fix these little 
+annoyances, but considering the device's target market, we wish iBall 
+had paid more attention to detail.There are quite a few preloaded
+ apps in addition to the regular Google selection - Bookmyshow, Trend 
+Micro Dr Safety, Facebook, Flipkart, Hungama, OLX, Opera Mini, Quickr, 
+WeChat and Whatsapp are the more recognisable names. There's also a 
+shortcut labelled 'Kamaal Dhamaal' which is nothing but a link to a 
+website which offers assorted wallpapers, ringtones and video clips for 
+download. Finally, there's also Eyewatch Basic, a crude-looking app 
+which stores emergency contacts and lets you call them, deliver your GPS
+ coordinates and record audio and video in case of an emergency.CameraWe
+ were pleasantly surprised by the Panther's camera. Shots were generally
+ grainy and noisy when seen at full size, but they're actually quite 
+good on any normal screen. Even in low light, the Panther managed to 
+produce decent enough results for a quick Facebook post now and then. You'll
+ have to deal with considerable shutter lag and autofocus delays, but 
+then again, this is a very affordable phone. We were mostly happy with 
+the colour reproduction and levels of detail in our test shots. Videos 
+were okay, but nothing special.(Click to see full size)The phone's camera interface is 
+just bare-basic Android. There is an HDR mode, a self timer, continuous 
+shooting, and face detection. For some reason, all our test photos had 
+hideous blue timestamps in their upper left corners - we noticed only 
+too late that this option is enabled by default. (Click to see full size)PerformanceThe
+ Andi 5K Panther is pretty snappy in day-to-day use. We didn't face any 
+stuttering or slowdowns in our time using it. There were other usability
+ issues though. For example, several apps which are perfectly well 
+behaved on hundreds of other phones kept on asking for the same 
+permissions over and over again. Checking the 'Do not remind again' box 
+didn't seem to matter.Benchmark scores were pretty high all 
+around - we had to remind ourselves how low this phone is priced, 
+because its scores were only poorer than those of the Karbonn Titanium 
+Octane Plus (review|photos) another octa-core phone with a slightly higher price and 
+beefier specifications. We achieved 23,819 and 14,347 in AnTuTu 
+and Quadrant, respectively. These numbers mean the Panther edges out 
+even our current favourite budget offering, the Asus Zenfone 5 (review|photos). Graphics
+ scores weren't too exciting, with 15.5fps in GFXbench and 6,379 in 
+3DMark Ice Storm. These numbers were probably boosted by the fact that 
+the screen has such a low resolution - the Zenfone comes out ahead even 
+with its 720p screen. We had trouble playing heavily encoded 
+video clips, but our lighter 1080p clips did work. Sound wasn't lound 
+enough, and there was another strange problem: whenever any sound was 
+played, an odd hiss started coming from the phone's speaker or any 
+headphones we used. This happened even when volume was all the way down,
+ and persisted until the app playing the sound was quit. Needless to 
+say, this was incredibly annoying. By the way, the bundled headset is 
+probably the worst we've ever had to endure and we would never 
+voluntarily use it for listening to music.The battery lasted a 
+relatively decent 5 hours, 32 minutes in our video loop test. We weren't
+ expecting this much, but again, the low-resolution screen allowed for 
+considerable power savings. On the other hand, the phone seemed to take 
+forever to charge. Call quality was just about okay. VerdictThe
+ iBall Andi 5K Panther is an impressive and surprising phone considering
+ its price, but its features and specifications are highly unbalanced. 
+The processor is strong, but the screen is weak, which means you never 
+get to really enjoy what this phone might be capable of, other than 
+really smooth menu navigation. Overall, the number and variety of 
+usability issues we encountered prevent us from being enthusiastic about
+ it - the cons just outweigh the pros.As we've said dozens of 
+times in the recent past, it's a crowded and fiercely competitive 
+market with no dearth of options for buyers at any price point. The 
+Asus Zenfone 5 is a better choice at the same price, and is much more 
+polished and therefore easier to use. If you can invest a little more 
+money (and have enough patience to deal with Flipkart's lottery 
+process), the Xiaomi Mi 3 (review|photos) is better on every count. 
+
+The name iBall will be familiar to pretty much any Indian who has bought
+ or used a PC in the last decade or so. The company's keyboards, mice, 
+webcams and speakers are extremely popular thanks to their low prices, 
+even if they aren't exactly known for the highest standards of quality. 
+The number of product categories offered by the company has grown over 
+the years, and it has of course jumped into the Android smartphone and 
+tablet space.
+
+iBall's phones are much like the rest of its products - 
+blinged out and budget-friendly. The Andi 5K Panther is priced pretty 
+low and has quite a few interesting features to boast of. Can it find a 
+place for itself in the market, or will it be drowned out by 
+its competition?
+
+Look and feelThe Panther stands out thanks
+ to its thick silver rim and accents. The three capacitive buttons 
+aren't backlit, and are thus always visible. The earpiece is like the 
+one on any Samsung phone, but other than that, the Panther has the 
+unmistakable vibe of the iPhone 3G when seen head-on.
+
+The 
+Micro-USB port and 3.5mm socket are both on top, along with the power 
+button. It isn't common to find the power button here on larger phones 
+these days, and in this case it's a bit too shallow and inset to be 
+comfortable. The volume buttons are on the upper left edge.
+
+The 
+rear panel is an uncommon burgundy colour with a metallic finish, which 
+actually looks quite unique (iBall calls the colour "wine", and the Panther is also available in "milky silver").  There's a large round protrusion to house 
+the camera, but the phone is otherwise quite unremarkable. The rear shell pops
+ off to reveal a removable battery, two regular-sized SIM card slots and
+ a Micro-SD card tray. You'll need to remove the battery in order to 
+swap SIM cards, but the Micro-SD tray is accessible either way.
+
+The
+ Panther is a bit bulky and isn't very easy to use with just one hand, 
+thanks to its blunt corners and thick frame. The rear panel is also a 
+bit slippery. The capacitive buttons do not produce a vibration when 
+touched, which is something we now take for granted on all devices. 
+
+Specifications and softwareThe
+ iBall Andi 5K Panther might be one of the cheapest phones with an 
+octa-core processor. It's our old friend, the MediaTek MT6592, but in 
+this case it runs at only 1.4GHz. Graphics are handled by an integrated 
+Mali -450MP GPU, and there's 1GB of RAM alongside. The phone claims to 
+have 8GB of internal storage, but this is awkwardly partitioned, and 
+barely 2GB is available to the user. Thankfully, microSD cards up to 
+32GB in capacity are supported.
+
+The screen is a lowly qHD 
+(960x540-pixel) panel, which is disappointing for a 5-incher. Still, 
+considering this phone's price and the rest of its configuration, this 
+seems like the tradeoff we have to make. The screen is definitely below 
+par - it's blurry, and colours seem to shift when you look at it from 
+different angles. 
+
+Basic connectivity standards are up to date, so
+ you get Wi-Fi b/g/n and Bluetooth 4.0. The handset supports USB-OTG, 
+tethering, and Wi-Fi direct. However, don't expect anything beyond that.
+
+You
+ get a flimsy headset, charger and USB cable in the box with the 
+Panther. The charger that came with our test unit appeared to have a 
+grounding problem which made the touchscreen digitiser go haywire when 
+the phone was plugged in. 
+
+One of the Panther's biggest draws is 
+the fact that it comes running Android 4.4.2. We aren't fans of iBall's 
+implementation though. The first customisation you'll notice is that the
+ unlock control on the lock screen has been replaced with an iBall logo.
+ There are no shortcuts at all - not even to the camera - which is a bit
+ surprising. We have to make a special mention of the truly awful 
+default wallpaper, which features a crudely drawn cheetah - a species 
+not related at all to any kind of panther. 
+
+iBall didn't bother 
+updating its hardware design for Kitkat, so there's still a useless Menu
+ button where the Recents button should be. The homescreens are all 
+blank - there isn't a single widget other than the compulsory Google 
+search field - not even a clock. The app drawer shortcut on the 
+homescreens has also been replaced by a logo, and there aren't even any 
+shortcuts other than the most basic ones in the dock. 
+
+Anyone who 
+knows his or her way around Android will be able to fix these little 
+annoyances, but considering the device's target market, we wish iBall 
+had paid more attention to detail.
+
+There are quite a few preloaded
+ apps in addition to the regular Google selection - Bookmyshow, Trend 
+Micro Dr Safety, Facebook, Flipkart, Hungama, OLX, Opera Mini, Quickr, 
+WeChat and Whatsapp are the more recognisable names. There's also a 
+shortcut labelled 'Kamaal Dhamaal' which is nothing but a link to a 
+website which offers assorted wallpapers, ringtones and video clips for 
+download. Finally, there's also Eyewatch Basic, a crude-looking app 
+which stores emergency contacts and lets you call them, deliver your GPS
+ coordinates and record audio and video in case of an emergency.
+
+CameraWe
+ were pleasantly surprised by the Panther's camera. Shots were generally
+ grainy and noisy when seen at full size, but they're actually quite 
+good on any normal screen. Even in low light, the Panther managed to 
+produce decent enough results for a quick Facebook post now and then. 
+
+You'll
+ have to deal with considerable shutter lag and autofocus delays, but 
+then again, this is a very affordable phone. We were mostly happy with 
+the colour reproduction and levels of detail in our test shots. Videos 
+were okay, but nothing special.
+
+(Click to see full size)
+
+The phone's camera interface is 
+just bare-basic Android. There is an HDR mode, a self timer, continuous 
+shooting, and face detection. For some reason, all our test photos had 
+hideous blue timestamps in their upper left corners - we noticed only 
+too late that this option is enabled by default. 
+
+(Click to see full size)
+
+PerformanceThe
+ Andi 5K Panther is pretty snappy in day-to-day use. We didn't face any 
+stuttering or slowdowns in our time using it. There were other usability
+ issues though. For example, several apps which are perfectly well 
+behaved on hundreds of other phones kept on asking for the same 
+permissions over and over again. Checking the 'Do not remind again' box 
+didn't seem to matter.
+
+Benchmark scores were pretty high all 
+around - we had to remind ourselves how low this phone is priced, 
+because its scores were only poorer than those of the Karbonn Titanium 
+Octane Plus (review|photos) another octa-core phone with a slightly higher price and 
+beefier specifications. 
+
+We achieved 23,819 and 14,347 in AnTuTu 
+and Quadrant, respectively. These numbers mean the Panther edges out 
+even our current favourite budget offering, the Asus Zenfone 5 (review|photos). Graphics
+ scores weren't too exciting, with 15.5fps in GFXbench and 6,379 in 
+3DMark Ice Storm. These numbers were probably boosted by the fact that 
+the screen has such a low resolution - the Zenfone comes out ahead even 
+with its 720p screen. 
+
+We had trouble playing heavily encoded 
+video clips, but our lighter 1080p clips did work. Sound wasn't lound 
+enough, and there was another strange problem: whenever any sound was 
+played, an odd hiss started coming from the phone's speaker or any 
+headphones we used. This happened even when volume was all the way down,
+ and persisted until the app playing the sound was quit. Needless to 
+say, this was incredibly annoying. By the way, the bundled headset is 
+probably the worst we've ever had to endure and we would never 
+voluntarily use it for listening to music.
+
+The battery lasted a 
+relatively decent 5 hours, 32 minutes in our video loop test. We weren't
+ expecting this much, but again, the low-resolution screen allowed for 
+considerable power savings. On the other hand, the phone seemed to take 
+forever to charge. Call quality was just about okay. 
+
+VerdictThe
+ iBall Andi 5K Panther is an impressive and surprising phone considering
+ its price, but its features and specifications are highly unbalanced. 
+The processor is strong, but the screen is weak, which means you never 
+get to really enjoy what this phone might be capable of, other than 
+really smooth menu navigation. Overall, the number and variety of 
+usability issues we encountered prevent us from being enthusiastic about
+ it - the cons just outweigh the pros.
+
+As we've said dozens of 
+times in the recent past, it's a crowded and fiercely competitive 
+market with no dearth of options for buyers at any price point. The 
+Asus Zenfone 5 is a better choice at the same price, and is much more 
+polished and therefore easier to use. If you can invest a little more 
+money (and have enough patience to deal with Flipkart's lottery 
+process), the Xiaomi Mi 3 (review|photos) is better on every count.
+

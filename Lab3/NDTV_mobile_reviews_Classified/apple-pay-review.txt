@@ -1,0 +1,169 @@
+Apple Pay Review
+
+If
+ there ever comes a day I can ditch my wallet and use my phone to pay 
+for everything, I'll look back to my first purchase through Apple Pay: a
+ Big Mac and medium fries for $5.44. That wallet-free day won't be 
+coming for a while, if ever, but Apple's new payments system brings us 
+much closer.There were a few unexpected steps setting up Apple 
+Pay on Monday, and the employee at a local McDonald's looked befuddled 
+as I stood there after waving an iPhone 6 over the wireless reader in 
+front of the cash register. The transaction hadn't gone through, so she 
+was waiting for me to pay. I thought I had, but I had pressed the 
+phone's fingerprint ID sensor too hard, getting me out of the 
+transaction instead of authorizing it.Apple Pay will take getting
+ used to - for consumers and merchants alike. These aren't 
+insurmountable hurdles. The biggest difficulty is general acceptance, 
+and Apple has managed to boost interest in mobile payments in a way 
+Google and other rivals haven't been able to for years.Easy to set upApple
+ Inc. has the advantage of having millions of credit cards on file for 
+its iTunes and app stores. Getting started was a matter of going to the 
+Passbook app or "Passbook & Apple Pay" in the phone's settings. 
+After choosing the option to add a card, I tapped "Use Card on File with
+ iTunes." I then entered the three-digit security code from the back of 
+my card.You can have multiple cards on file. You can manually 
+type in the details, but that's boring. Instead, just use the phone's 
+camera to scan the card. I tried it with six different cards, and Apple 
+Pay got the number right each time. In a few cases, it got the 
+expiration date, too.The scanning doesn't work as well in dark 
+settings. Unfortunately, the phone's flashlight turns off when you try 
+to scan the card with the camera. So wait for good lighting - and know 
+you have to do this just once for each card.Once scanned, the 
+image is deleted, as is your card number. Instead, for increased 
+security, you get a substitute number that's unique to the device. A 
+hacker who gets that number won't be able to use it without physical 
+possession of your phone.One warning: It's possible your card 
+won't work with Apple Pay. Not all banks support it, and even if the 
+bank does, it might exclude some types of cards such as corporate or 
+prepaid accounts. But Apple Pay works with most cards from leading U.S. 
+banks. The broad acceptance is one reason many people believe mobile 
+payment is for real this time.Using it in storesAbout two dozen retail chains are accepting Apple Pay at launch, and others are planning to do so by the end of the year.I
+ was able to buy lunch at McDonald's on the third attempt. I tapped on 
+the sensor too hard the first time. The second time, I moved the phone 
+away from the reader as I was still authenticating the transaction. The 
+phone told me to bring it closer.All I really needed to do was 
+tap on the fingerprint sensor lightly, while leaving the phone near the 
+reader for about a second or two until the phone vibrates. That's not a 
+difficult thing to learn. Once I did it right, I got a notification that
+ the transaction went through. I can see a list of recent transactions 
+in the Passbook app.On Monday evening, I paid for dinner at Whole Foods using the phone I already had out for Facebook while waiting in line.The
+ bigger question is whether I can use Apple Pay with my regular 
+merchants, such as pizzerias, bars or the dry cleaner across the street.
+ As I bought a bottle of Riesling from the corner wine shop, I had to 
+pull out plastic.The wine was good, nonetheless.Using it onlineApple
+ Pay also enables online transactions from within apps, so you don't 
+have to keep typing - and mistyping - your card number. The new iPad Air
+ 2 and iPad Mini 3 will let you do this, but not the in-store 
+transactions, while the new iPhone 6 and 6 Plus let you do both if you 
+upgrade to iOS 8.1.You first add billing and shipping addresses 
+and contact information by going to "Passbook & Apple Pay" in the 
+device's settings. You can type that in manually or grab information 
+from your contacts app. I was surprised Apple didn't grab all that 
+automatically from iTunes, when it got my card information. Fortunately,
+ this needs to be set up only once.I experimented with buying $27
+ worth of toilet paper through Target's app. At checkout, I tapped the 
+Apple Pay button on the lower right corner and saw the shipping and 
+contact information I had entered. I was then prompted to authorize the 
+transaction with my fingerprint. (I didn't because I already have enough
+ toilet paper.)In a sense, Apple Pay might be even more helpful 
+for in-app purchases than those at retail stores. It's currently not 
+difficult to pull out a plastic credit card, but it is annoying to type 
+in transaction information with the phone's keyboard.Apple Pay makes it easy to shop online - perhaps too easy. 
+
+There were a few unexpected steps setting up Apple 
+Pay on Monday, and the employee at a local McDonald's looked befuddled 
+as I stood there after waving an iPhone 6 over the wireless reader in 
+front of the cash register. The transaction hadn't gone through, so she 
+was waiting for me to pay. I thought I had, but I had pressed the 
+phone's fingerprint ID sensor too hard, getting me out of the 
+transaction instead of authorizing it.
+
+Apple Pay will take getting
+ used to - for consumers and merchants alike. These aren't 
+insurmountable hurdles. The biggest difficulty is general acceptance, 
+and Apple has managed to boost interest in mobile payments in a way 
+Google and other rivals haven't been able to for years.
+
+Easy to set upApple
+ Inc. has the advantage of having millions of credit cards on file for 
+its iTunes and app stores. Getting started was a matter of going to the 
+Passbook app or "Passbook & Apple Pay" in the phone's settings. 
+After choosing the option to add a card, I tapped "Use Card on File with
+ iTunes." I then entered the three-digit security code from the back of 
+my card.
+
+You can have multiple cards on file. You can manually 
+type in the details, but that's boring. Instead, just use the phone's 
+camera to scan the card. I tried it with six different cards, and Apple 
+Pay got the number right each time. In a few cases, it got the 
+expiration date, too.
+
+The scanning doesn't work as well in dark 
+settings. Unfortunately, the phone's flashlight turns off when you try 
+to scan the card with the camera. So wait for good lighting - and know 
+you have to do this just once for each card.
+
+Once scanned, the 
+image is deleted, as is your card number. Instead, for increased 
+security, you get a substitute number that's unique to the device. A 
+hacker who gets that number won't be able to use it without physical 
+possession of your phone.
+
+One warning: It's possible your card 
+won't work with Apple Pay. Not all banks support it, and even if the 
+bank does, it might exclude some types of cards such as corporate or 
+prepaid accounts. But Apple Pay works with most cards from leading U.S. 
+banks. The broad acceptance is one reason many people believe mobile 
+payment is for real this time.
+
+Using it in storesAbout two dozen retail chains are accepting Apple Pay at launch, and others are planning to do so by the end of the year.
+
+I
+ was able to buy lunch at McDonald's on the third attempt. I tapped on 
+the sensor too hard the first time. The second time, I moved the phone 
+away from the reader as I was still authenticating the transaction. The 
+phone told me to bring it closer.
+
+All I really needed to do was 
+tap on the fingerprint sensor lightly, while leaving the phone near the 
+reader for about a second or two until the phone vibrates. That's not a 
+difficult thing to learn. Once I did it right, I got a notification that
+ the transaction went through. I can see a list of recent transactions 
+in the Passbook app.
+
+On Monday evening, I paid for dinner at Whole Foods using the phone I already had out for Facebook while waiting in line.
+
+The
+ bigger question is whether I can use Apple Pay with my regular 
+merchants, such as pizzerias, bars or the dry cleaner across the street.
+ As I bought a bottle of Riesling from the corner wine shop, I had to 
+pull out plastic.
+
+The wine was good, nonetheless.
+
+Using it onlineApple
+ Pay also enables online transactions from within apps, so you don't 
+have to keep typing - and mistyping - your card number. The new iPad Air
+ 2 and iPad Mini 3 will let you do this, but not the in-store 
+transactions, while the new iPhone 6 and 6 Plus let you do both if you 
+upgrade to iOS 8.1.
+
+You first add billing and shipping addresses 
+and contact information by going to "Passbook & Apple Pay" in the 
+device's settings. You can type that in manually or grab information 
+from your contacts app. I was surprised Apple didn't grab all that 
+automatically from iTunes, when it got my card information. Fortunately,
+ this needs to be set up only once.
+
+I experimented with buying $27
+ worth of toilet paper through Target's app. At checkout, I tapped the 
+Apple Pay button on the lower right corner and saw the shipping and 
+contact information I had entered. I was then prompted to authorize the 
+transaction with my fingerprint. (I didn't because I already have enough
+ toilet paper.)
+
+In a sense, Apple Pay might be even more helpful 
+for in-app purchases than those at retail stores. It's currently not 
+difficult to pull out a plastic credit card, but it is annoying to type 
+in transaction information with the phone's keyboard.
+

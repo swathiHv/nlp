@@ -1,0 +1,261 @@
+HTC Desire 816 Review: The Big Picture
+
+HTC's
+ Desire series of smartphones had a decent run during the Android 2.3 
+(Gingerbread) era. These mid-range devices catered to people who wanted a phone that would perform well and was reasonably priced. In the Rs. 20,000 - 30,000 range, these phones stood up well to competition from Samsung and LG, amongst others. With the new HTC Desire 816, the company intends to rekindle interest in this segment and hopefully reverse its run of bad fortune. This phone has a large 5.5-inch screen - a crowd 
+favourite - and the twin promises of great camera performance and great battery life. 
+There is no doubt that this phone will be very popular if those promises are kept.We review the phone to find out if the Desire 816 can actually live up to our expectations.Look and FeelHTC has
+ adapted the design it developed for the One (M7), which means thinner bezels on the left and right, and more space on the top and 
+bottom to accommodate dual front-firing speakers. The Desire 816 
+is more or less consistent with this tall, elongated design, but differentiates itself with a large 5.5-inch display. This makes it wider and taller than 
+the rest of the new crop of HTC smartphones. Coupled with a thickness 
+of 8mm and weight of 165g, the HTC Desire 816 is solid
+ to hold. On the whole, this is a sturdily constructed 
+smartphone. One problem with the polycarbonate body is that it 
+involves both glossy and matte textures. As a result, you'll have to deal with issues inherent to both types of finish. In our white 
+variant, we noticed that the glossy back attracted loads of smudges while the matte 
+edges and front were dust magnets. HTC decided to move all the physical buttons to 
+the left edge, probably to make room for a flap on the 
+right edge which houses the two Nano-SIM slots and the microSD card slot. The power button and volume rocker on the left edge 
+are made of metal - a stark departure from the predominantly plastic 
+body. The placement of the buttons is unusual, but not too difficult to get used to. The Micro-USB port for charging is on the bottom, and the 3.5mm 
+audio jack is on the top alongside an additional microphone.  Features and SpecificationsOn
+ paper, the HTC Desire 816's specifications are on par with those of the Moto G (review) which
+ retails at almost half the price. With a Qualcomm Snapdragon 400 
+processor clocked at 1.6GHz, it is evident that the HTC Desire 816 is 
+not aiming for top-of-the-line specifications. We wish HTC had chosen at 
+least the Snapdragon 600, which is more suitable for mid-range smartphones. Graphics are handled by an integrated Adreno 305 GPU. The phone has 1.5GB of RAM and 8GB 
+of internal storage, of which only around 4GB is available for use. This is disappointing, but thankfully HTC allows expansion up to 128GB 
+using a microSD card.The HTC Desire 816 has a 
+13-megapixel rear camera with a flash, and can record 1080p videos. It 
+also has a 5-megapixel front camera that can be used to capture even the pimples 
+on your face with great clarity in the Selfie mode. The phone accepts 
+two Nano-SIM cards, both of which can connect to 3G networks. The
+ 5.5-inch screen has a resolution of 720x1280, which means a pixel density of 267ppi. Many of the current crop of 5.5-inch 
+smartphones have the same specifications. The screen is crisp enough, but is dull even at maximum 
+brightness. This in turn amplifies reflections and affects sunlight legibility and viewing 
+angles. We think the Samsung Note
+ 3 Neo's (review) screen is marginally better. SoftwareWe are glad 
+that HTC has decided to ship the Desire 816 with the latest version of 
+Android - version 4.4.2 (Kitkat) - and the new HTC Sense 6 skin. It 
+looks identical to the software running on the new HTC One (M8) (review). This 
+skin has the same Blinkfeed news reader on the extreme left homescreen, and a 
+vertically scrolling app drawer. Blinkfeed 
+trumps Samsung's Magazine app by a long shot. HTC also provides users with 
+two other interfaces that can be used for specific purposes - Car Mode and Kid Mode. In 
+the Car mode, there are a few often-used icons for easy access, and
+ the Kid Mode lets parents lock down settings and available apps. HTC bundles 
+the Polaris Office 5 suite and an app called Scribble, which allows users to
+ take notes. The HTC Setup Mode is available whenever you want it, and is 
+probably the best way to customise the phone. HTC
+ has pre-installed Zoe, a special camera app that it claims can "capture
+ life like no other smartphone can" on the Desire 816. Unfortunately, 
+it is not available, and you'll only see a "coming soon" message when you launch it. Till that happens, we'll just have to settle for capturing life with the default camera app.CameraUnlike
+ the Ultrapixel camera on the HTC One series, the Desire 816 has a standard 
+13-megapixel camera and it is surprisingly good. We give full marks to 
+HTC for advertising it right. (Click to see full size)Pictures shot in broad daylight 
+are crystal clear, and have very little noise. 
+There is very minimal loss of detail, though on closer inspection, we 
+noticed different shades of green were slightly mismatched. The camera 
+tries hard to latch on to any source of light in low-light shots and the
+ captured images, after struggling with the focus, have a watercoloured 
+effect to them. Then again, the results are definitely much better than what's possible with all 
+the other phones in this price range. In fact, at times, it performs 
+better in low light than some higher priced phones too. The only negative point is that recorded 1080p video loses some details. (Click to see full size)If
+ the rear camera was surprisingly good, the 5-megapixel front camera came as a
+ revelation. We did not dare to upload the selfies captured by this 
+camera on a social network as all the pores and pimples on our oily skin were captured perfectly. Images are well detailed and better than those taken with
+some phones' primary cameras. It would have been great if the 
+lens had been a bit wider for group shots taken at arm's length. The
+ camera software is mostly minimalistic with a lot of manual settings, but HTC goes bonkers when it comes to offering different picture modes to shoot in. 
+There are 16 modes in total, some of which are quite unnecessary. For 
+example, the Mono mode lets users choose a colour cast, which makes the dedicated grayscale and aqua modes redundant. All said 
+and done, we had the most fun with the Depth of Field mode where the 
+camera artificially creates an illusion of depth by blurring those parts
+ of the image which are not within the focus area. Despite this 
+artificial illusion, images looked stunning with only a slight 
+loss of detail. With all this power to play with, we don't think users will miss Zoe. PerformanceDuring
+ the testing process, we got so caught up with the great camera performance
+ that we almost failed to notice how buttery
+ smooth the Desire 816 was to use, and how little lag we encountered. This is mostly due to the 1.5GB of RAM 
+under the hood. It is almost as fast as the Moto G, if not faster. After
+ playing around with the phone, we were confident that the benchmark numbers would be pretty good. Here are 
+some of them for your consideration: In Antutu and Quadrant, the phone scored 
+21,182 and 13,332 points respectively. Graphics performance wasn't as impressive,  with scores of 11 fps in GFXbench and a total of 5087 in multiple 3DMark Ice Storm tests. These scores might not compare well to those of other phones in this segment with Mediatek's octa-core processor under 
+the hood, but they are still workable. 
+The Desire 816 is not ideal for playing intensive games like Asphalt or Shadowgun 
+which require better graphics capabilities. Media playback on the Desire 
+816 was a breeze. It played all the video files we threw at it without any skipping or drop in 
+frame rates. Also, watching videos is great fun on the huge screen. The dual front-firing speakers are not as loud as the BoomSound 
+speakers on the HTC One series, but channel separation is good. The music quality on our reference headphones was 
+top-notch and the driver inside the phone works overtime to enhance the 
+quality of sound. During calls, the phone performs admirably in latching
+ on to network but the person on the other end couldn't hear our voice clearly. On the 
+battery performance front, the 2600mAh battery lasted us 11 hours and 7 
+minutes before it needed to be charged. We expect it to easily last for a
+ day and a half of regular usage, which is more than what normal 
+smartphones can manage. VerdictAfter playing with the HTC 
+Desire 816, we really wanted to head outdoors, 
+headphones on,  and take photos of all the scenic beauty surrounding us.
+ The best part is that we wouldn't have to worry too much about battery 
+life either. Priced at Rs. 23,990, it is very easy to recommend 
+this phone. It feels premium, and has a far superior camera, 
+battery life, higher internal memory capacity and better performance compared to the Moto G, which feels worth the price difference. If raw performance is the need, we 
+suggest taking a look at the Gionee Elife E7 (review) instead. Any which way, it looks 
+like HTC's efforts are not going completely unnoticed since some reports suggest that the company is 
+forecasting a profitable quarter based on the sales of 
+the One (M8) and the Desire 816. 
+HTC Desire 816 in pictures
+
+HTC's
+ Desire series of smartphones had a decent run during the Android 2.3 
+(Gingerbread) era. These mid-range devices catered to people who wanted a phone that would perform well and was reasonably priced. In the Rs. 20,000 - 30,000 range, these phones stood up well to competition from Samsung and LG, amongst others. 
+
+With the new HTC Desire 816, the company intends to rekindle interest in this segment and hopefully reverse its run of bad fortune. This phone has a large 5.5-inch screen - a crowd 
+favourite - and the twin promises of great camera performance and great battery life. 
+There is no doubt that this phone will be very popular if those promises are kept.
+
+We review the phone to find out if the Desire 816 can actually live up to our expectations.
+
+Look and FeelHTC has
+ adapted the design it developed for the One (M7), which means thinner bezels on the left and right, and more space on the top and 
+bottom to accommodate dual front-firing speakers. The Desire 816 
+is more or less consistent with this tall, elongated design, but differentiates itself with a large 5.5-inch display. This makes it wider and taller than 
+the rest of the new crop of HTC smartphones. Coupled with a thickness 
+of 8mm and weight of 165g, the HTC Desire 816 is solid
+ to hold. On the whole, this is a sturdily constructed 
+smartphone. 
+
+One problem with the polycarbonate body is that it 
+involves both glossy and matte textures. As a result, you'll have to deal with issues inherent to both types of finish. In our white 
+variant, we noticed that the glossy back attracted loads of smudges while the matte 
+edges and front were dust magnets. 
+
+HTC decided to move all the physical buttons to 
+the left edge, probably to make room for a flap on the 
+right edge which houses the two Nano-SIM slots and the microSD card slot. The power button and volume rocker on the left edge 
+are made of metal - a stark departure from the predominantly plastic 
+body. The placement of the buttons is unusual, but not too difficult to get used to. The Micro-USB port for charging is on the bottom, and the 3.5mm 
+audio jack is on the top alongside an additional microphone.  
+
+Features and SpecificationsOn
+ paper, the HTC Desire 816's specifications are on par with those of the Moto G (review) which
+ retails at almost half the price. With a Qualcomm Snapdragon 400 
+processor clocked at 1.6GHz, it is evident that the HTC Desire 816 is 
+not aiming for top-of-the-line specifications. We wish HTC had chosen at 
+least the Snapdragon 600, which is more suitable for mid-range smartphones. Graphics are handled by an integrated Adreno 305 GPU. The phone has 1.5GB of RAM and 8GB 
+of internal storage, of which only around 4GB is available for use. This is disappointing, but thankfully HTC allows expansion up to 128GB 
+using a microSD card.
+
+The HTC Desire 816 has a 
+13-megapixel rear camera with a flash, and can record 1080p videos. It 
+also has a 5-megapixel front camera that can be used to capture even the pimples 
+on your face with great clarity in the Selfie mode. The phone accepts 
+two Nano-SIM cards, both of which can connect to 3G networks. 
+
+The
+ 5.5-inch screen has a resolution of 720x1280, which means a pixel density of 267ppi. Many of the current crop of 5.5-inch 
+smartphones have the same specifications. The screen is crisp enough, but is dull even at maximum 
+brightness. This in turn amplifies reflections and affects sunlight legibility and viewing 
+angles. We think the Samsung Note
+ 3 Neo's (review) screen is marginally better. 
+
+SoftwareWe are glad 
+that HTC has decided to ship the Desire 816 with the latest version of 
+Android - version 4.4.2 (Kitkat) - and the new HTC Sense 6 skin. It 
+looks identical to the software running on the new HTC One (M8) (review). This 
+skin has the same Blinkfeed news reader on the extreme left homescreen, and a 
+vertically scrolling app drawer. 
+
+Blinkfeed 
+trumps Samsung's Magazine app by a long shot. HTC also provides users with 
+two other interfaces that can be used for specific purposes - Car Mode and Kid Mode. In 
+the Car mode, there are a few often-used icons for easy access, and
+ the Kid Mode lets parents lock down settings and available apps. HTC bundles 
+the Polaris Office 5 suite and an app called Scribble, which allows users to
+ take notes. The HTC Setup Mode is available whenever you want it, and is 
+probably the best way to customise the phone. 
+
+HTC
+ has pre-installed Zoe, a special camera app that it claims can "capture
+ life like no other smartphone can" on the Desire 816. Unfortunately, 
+it is not available, and you'll only see a "coming soon" message when you launch it. Till that happens, we'll just have to settle for capturing life with the default camera app.
+
+CameraUnlike
+ the Ultrapixel camera on the HTC One series, the Desire 816 has a standard 
+13-megapixel camera and it is surprisingly good. We give full marks to 
+HTC for advertising it right. 
+
+(Click to see full size)
+
+Pictures shot in broad daylight 
+are crystal clear, and have very little noise. 
+There is very minimal loss of detail, though on closer inspection, we 
+noticed different shades of green were slightly mismatched. The camera 
+tries hard to latch on to any source of light in low-light shots and the
+ captured images, after struggling with the focus, have a watercoloured 
+effect to them. Then again, the results are definitely much better than what's possible with all 
+the other phones in this price range. In fact, at times, it performs 
+better in low light than some higher priced phones too. The only negative point is that recorded 1080p video loses some details. 
+
+(Click to see full size)
+
+If
+ the rear camera was surprisingly good, the 5-megapixel front camera came as a
+ revelation. We did not dare to upload the selfies captured by this 
+camera on a social network as all the pores and pimples on our oily skin were captured perfectly. Images are well detailed and better than those taken with
+some phones' primary cameras. It would have been great if the 
+lens had been a bit wider for group shots taken at arm's length. 
+
+The
+ camera software is mostly minimalistic with a lot of manual settings, but HTC goes bonkers when it comes to offering different picture modes to shoot in. 
+There are 16 modes in total, some of which are quite unnecessary. For 
+example, the Mono mode lets users choose a colour cast, which makes the dedicated grayscale and aqua modes redundant. All said 
+and done, we had the most fun with the Depth of Field mode where the 
+camera artificially creates an illusion of depth by blurring those parts
+ of the image which are not within the focus area. Despite this 
+artificial illusion, images looked stunning with only a slight 
+loss of detail. 
+
+With all this power to play with, we don't think users will miss Zoe. 
+
+PerformanceDuring
+ the testing process, we got so caught up with the great camera performance
+ that we almost failed to notice how buttery
+ smooth the Desire 816 was to use, and how little lag we encountered. This is mostly due to the 1.5GB of RAM 
+under the hood. It is almost as fast as the Moto G, if not faster. 
+
+After
+ playing around with the phone, we were confident that the benchmark numbers would be pretty good. Here are 
+some of them for your consideration: In Antutu and Quadrant, the phone scored 
+21,182 and 13,332 points respectively. Graphics performance wasn't as impressive,  with scores of 11 fps in GFXbench and a total of 5087 in multiple 3DMark Ice Storm tests. These scores might not compare well to those of other phones in this segment with Mediatek's octa-core processor under 
+the hood, but they are still workable. 
+The Desire 816 is not ideal for playing intensive games like Asphalt or Shadowgun 
+which require better graphics capabilities. 
+
+Media playback on the Desire 
+816 was a breeze. It played all the video files we threw at it without any skipping or drop in 
+frame rates. Also, watching videos is great fun on the huge screen. The dual front-firing speakers are not as loud as the BoomSound 
+speakers on the HTC One series, but channel separation is good. The music quality on our reference headphones was 
+top-notch and the driver inside the phone works overtime to enhance the 
+quality of sound. During calls, the phone performs admirably in latching
+ on to network but the person on the other end couldn't hear our voice clearly. On the 
+battery performance front, the 2600mAh battery lasted us 11 hours and 7 
+minutes before it needed to be charged. We expect it to easily last for a
+ day and a half of regular usage, which is more than what normal 
+smartphones can manage. 
+
+VerdictAfter playing with the HTC 
+Desire 816, we really wanted to head outdoors, 
+headphones on,  and take photos of all the scenic beauty surrounding us.
+ The best part is that we wouldn't have to worry too much about battery 
+life either. 
+
+Priced at Rs. 23,990, it is very easy to recommend 
+this phone. It feels premium, and has a far superior camera, 
+battery life, higher internal memory capacity and better performance compared to the Moto G, which feels worth the price difference. If raw performance is the need, we 
+suggest taking a look at the Gionee Elife E7 (review) instead. Any which way, it looks 
+like HTC's efforts are not going completely unnoticed since some reports suggest that the company is 
+forecasting a profitable quarter based on the sales of 
+the One (M8) and the Desire 816. 
+

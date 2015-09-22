@@ -1,0 +1,421 @@
+iPhone 6 Review: The Most Appealing iPhone Ever
+
+Apple finally gave the iPhone a much-needed rethink, 
+and the result is a product that is more like its competition than ever 
+before, but also stands out just as well, if not better, in a seriously 
+overcrowded market. The big talking point is its screen size - months of
+ leaks told us nearly everything we needed to know long before the 
+actual launch happened - but there's also plenty more to explore. As 
+always, Apple has managed to deliver more power, better aesthetics, 
+improved cameras, and all-new software.The iPhone 6 shares a lot 
+with its larger sibling, the iPhone 6 Plus (Review | Photos), which we reviewed a little 
+while ago. They're obviously designed to look similar, but Apple has 
+also made sure they're very similar to use. The iPhone 6 is still just 
+as much of a premium device as ever; not a lower-end version of a new 
+flagship. A lot of what we've said in that exhaustive review of the 6 
+Plus will apply to the iPhone 6 as well.Apple's unique position 
+lets it control and tightly integrate the hardware and software 
+experiences of its products. We see all of this and more in this year's 
+new iPhones. Look and feelGone are the flat edges and 
+sharp angles of the iPhone 5s. The iPhone 6 feels smooth and slick, with
+ a lovely dark glass front that looks like a pool of ink. The glass is 
+raised above its rim and is curved at the edges so that it meets the 
+metal in a smooth curve. It seems as though the glass could shatter very
+ easily if this phone is dropped and lands on a corner, which is just 
+one of many reasons to invest in a case of some sort.Another good
+ reason is that the rear of the iPhone 6 is one of the least attractive 
+designs we've ever seen coming out of Apple. The plastic antenna lines 
+intersecting the metal body are just too prominent. There's a bunch of 
+regulatory text and logos which we wish could have been less prominent, 
+and then of course there's the infamous camera bulge. The little nubbin 
+really does stick out prominently, and we couldn't help fidgeting with 
+it when holding the iPhone 6 in our hands.The top is blank, 
+because the power button has now been moved to the upper right side, 
+just above the Nano-SIM card tray. This will be disconcerting for 
+long-time iPhone users. The move was probably not necessary, given this 
+phone's still-manageable size, but it keeps things consistent with the 
+design of the iPhone 6 Plus. The ringer mute switch and volume buttons 
+are on the left edge per usual, and the Lightning port and headset 
+socket are on the bottom. We cannot overstate the quality of Apple's 
+fabrication and machining processes; all the buttons have just the right
+ feel, and even the charger's Lightning connector slips into its port 
+with a satisfying thunk.This is a very satisfying phone to hold 
+and to use. We didn't think Apple needed to make its iPhones any 
+slimmer, but we really like the iPhone 6 when we hold it in our hands. 
+The weight and balance are also just right, so we're glad Apple finally 
+embraced the idea of producing a bigger phone.SpecificationsThe
+ iPhone 6 uses Apple's new A8 processor, designed in-house but based on 
+the industry-standard ARM architecture. There's a separate co-processor 
+called the M8 for sensor input, which helps save battery life by 
+allowing the A8 to go to sleep while physical activity is constantly 
+detected and processed in the background.The screen is of course 
+larger than those on the iPhone 5 generation models but still a lot 
+smaller than the one on the iPhone 6 Plus. The resolution isn't a huge 
+bump up from that of the iPhone 5 series, and the pixel density is 
+exactly the same. We liked the crisp, bright display on the 6 Plus, and 
+while the one on the iPhone 6 is just as good in terms of quality, it 
+doesn't feel very exciting. Competitors have long surpassed Apple in 
+terms of resolution, and the difference between some of the current 
+Android flagships and the iPhone 6 is definitely noticeable, if 
+ultimately unimportant. There's 1GB of RAM which seems stingy 
+compared to Android devices today, though we didn't find this to be much
+ of a problem on the iPhone 6 Plus when we reviewed it. The fact that 
+storage is not expandable is a constant frustration for us - iPhones are
+ already expensive and it just hurts to have to pay a ridiculous amount 
+over and above the starting price just to have enough space to actually 
+use these devices to their full potential.The relatively new 
+high-speed Wi-Fi ac standard is supported, as is Bluetooth 4.0. LTE is 
+supported on the Indian 2300MHz band and NFC is new to this iPhone 
+generation, but only works with Apple Pay which isn't available outside 
+the USA yet.SoftwareA large part of the iPhone 6's appeal 
+lies in iOS - more specifically, iOS 8. Not all features work as well on
+ older iPhones, so software alone is not a strong enough reason to 
+upgrade from a device that's less than three years old. iOS 8 has
+ lots of new features, big and small. Little things such as 
+much-improved photo editing tools, Notification Centre widgets, tweaks 
+in Safari and voice messages over iMessage all contribute to making the 
+iPhone 6 a pleasure to use. App extensions are usually subtle, but this 
+feature represents one of the best new things about iOS, and developers 
+will surely take better advantage of it over time. Custom keyboards will
+ be a game-changer for Apple, and some truly innovative apps have sprung
+ up letting you do all kinds of things with messages. Improvements to 
+mail handling and iTunes content management area also much appreciated. One
+ of the most visible new iOS 8 features is the Health app. This is a 
+little unintuitive to use - you can see an activity dashboard and 
+entries for dozens of trackable metrics, but things only really take off
+ when you download additional apps that use the Healthkit framework and 
+populate all that information. The combination of Healthkit and the M8 
+coprocessor allow for some very detailed and impressive information 
+gathering. There's still a lot that could be improved. It's very 
+un-Apple to have so many things to track - things such as Molybdenum, 
+Peripheral Perfusion Index and Selenium are not within the consciousness
+ of the average user, but there are still ways to track all of them so 
+it seems pointless to present them all right at the beginning.The
+ Reachability shortcut, ie double-tapping the Home button to make the 
+screen's contents slide down towards your fingers, is pretty handy but 
+you have to develop a habit of using it or you might forget it's there. 
+It's going to take a long time for apps to be updated with the correct 
+screen resolution and scaling factor, but those that have been optimised
+ look great.iPhone owners who also use a Mac and/or an iPad might
+ also want to try out the new Continuity features. Some have limited 
+appeal, such as being able to make voice calls from a Mac through an 
+iPhone, whereas the ability to begin composing an email on one device 
+and then just continue from anywhere on another could really improve the
+ way people work. CameraThe rear camera is still 8 
+megapixels, but the lens and sensor have been improved to allow for 
+better low-light shots and colour accuracy. Videos can now be taken with
+ continuous autofocus and improved stabilisation. 120fps slow-motion, 
+which was introduced with the iPhone 5s now coexists with 240fps 
+slow-motion, and there's a new time-lapse mode in iOS 8 that older 
+phones can also use.(Click to see full size)Apple's camera app is mostly barebones - 
+there are no fancy special effects or multi-page menus of options. The 
+new capabilities of the iPhone 6 and iOS 8 are thus easy to discover, 
+but it's beginning to feel as though Apple can't decide whether to offer
+ more options or keep its interface minimalist.(Click to see full size)4K video recording
+ is missing, and the iPhone 6 falls behind its competitors in this 
+regard. Even if you don't plan on shooting all your videos at such a 
+high resolution, it's nice to have the option to do so. The cap on 
+storage space would also make it very difficult to store 4K videos.(Click to see full size)We
+ were very happy with the iPhone 6's camera. Images taken during the day
+ were crisp with accurate colours and superb levels of detail. Closeups 
+were brilliant, and even distant objects were captured very well. 
+Low-light performance was also admirable - the iPhone 6 works very well 
+indoors as well as outdoors, even with minimal artificial or ambient 
+lighting. We were constantly surprised by how well shots came out - 
+there was noticeable noise but details were still well defined when seen
+ at reduced size on a screen. Photos came out looking as though they had
+ been taken in far better light. (Click to see full size)PerformanceOnce again, 
+we're reminded that numbers and acronyms on a specifications sheet can't
+ always be used to judge a device. The dual-core Apple A8 processor and 
+its integrated graphics capabilities are more than capable of holding 
+their own against quad- and octa-core products from leading competitors.
+ We had no problems with the iPhone 6, whether we were playing 
+heavy games, recording high-speed video, multitasking, or just relaxing 
+while browsing the Web. The phone is super-responsive, and unique 
+features such as Apple's Touch ID sensor just make the whole experience 
+of using an iPhone butter-smooth. There are of course things that aren't
+ as flexible or functional as they are in Android, but overall, the iOS 
+platform is a joy to use.Benchmark scores were very, very good. 
+Largely due to the fact that the powerful A8 processor doesn't have to 
+push itself to drive a very high-res screen, we managed to achieve some 
+superb scores in graphics-intensive benchmarks. GFXBench produced a 
+record high of 50.1fps, while 3DMark Ice Storm was maxed out in the 
+regular and Extreme modes, but posted a score of 17,302 in the Unlimited
+ mode. HD videos also played without a hitch.AnTuTu for iOS gave 
+us a phenomenal score of 49,319 points which is practically the same as 
+the 49,353 points the iPhone 6 Plus managed. The test still detects a 
+resolution of 640x1136 though, which explains the similar scores and 
+means they aren't representative of either device at its native 
+resolution.Battery life was pretty good, but we were hoping for 
+spectacular. Our video loop test ran for 7 hours, 40 minutes. This is a 
+clear point in favour of the much larger iPhone 6 Plus. Call quality was
+ superb, but we do with Apple could work on better speakers for its 
+iPhones - the single mono speaker on the bottom isn't very loud or rich,
+ and competitors do much better.VerdictAs we stated in our
+ review of the iPhone 6 Plus, Apple's two new devices are very similar 
+in terms of the experience they deliver, with only the screen size 
+setting them apart. Thus, users can choose the screen size (and physical
+ size) that suits them better, without feeling as though they've 
+compromised by picking a lesser device either way. In the Android world,
+ larger phones tend to hog all the best features, and "mini" versions 
+are almost always cut down.That said, the iPhone 6's relatively 
+smaller body means that the battery is smaller, and the camera has to 
+make do without optical image stabilisation. On the other hand, each 
+iPhone 6 model comes in at Rs. 9,000 less expensive than the equivalent 
+iPhone 6 Plus. We think most people would be better off with a 64GB 
+iPhone 6 than a 16GB iPhone 6 Plus at the same price. Specifications
+ shouldn't fool you into thinking this phone is any less powerful than 
+an Android flagship. If you've been waiting for a reason to ditch an old
+ phone and jump onto the Apple bandwagon, the iPhone 6 is one of the 
+best reasons to do so. If you're thinking of upgrading from an iPhone 4S
+ or earlier, you'll absolutely love what the iPhone 6 has to offer. 
+Naturally, the difference won't be as stark for iPhone 5 or 5s owners 
+running iOS 8, and they can easily stick with their current phones for 
+another year or so unless they really feel like splurging.If you aren't sure whether you want to choose Android or an iPhone, there are quite a few options to choose from. This generation's flagships, the Sony Xperia Z3 (Review | Photos) Samsung Galaxy S5 (Review | Photos) HTC One (M8) (Review | Photos) and LG G3 (Review | Photos) are all larger but most of them are quite a bit less expensive and also offer value in the form of features such as expandable storage and 4K video recording.One 
+final note: when reviewing new flagship phones, we usually consider 
+whether their own predecessors offer good value, considering how prices 
+tend to fall. Amazingly, the iPhone 5s (16GB) is still officially sold 
+for Rs. 53,500 which is the same price as the iPhone 6! If you can find a
+ 5s in retail for less than Rs. 40,000 today, it's still a great deal. 
+An official 5s price cut is long overdue, at which point the 32GB model 
+will be cheaper than the 16GB iPhone 6 - this will be a very tempting 
+option indeed. iPhone 6 in pictures
+
+The iPhone 6 shares a lot 
+with its larger sibling, the iPhone 6 Plus (Review | Photos), which we reviewed a little 
+while ago. They're obviously designed to look similar, but Apple has 
+also made sure they're very similar to use. The iPhone 6 is still just 
+as much of a premium device as ever; not a lower-end version of a new 
+flagship. A lot of what we've said in that exhaustive review of the 6 
+Plus will apply to the iPhone 6 as well.
+
+Apple's unique position 
+lets it control and tightly integrate the hardware and software 
+experiences of its products. We see all of this and more in this year's 
+new iPhones. 
+
+Look and feelGone are the flat edges and 
+sharp angles of the iPhone 5s. The iPhone 6 feels smooth and slick, with
+ a lovely dark glass front that looks like a pool of ink. The glass is 
+raised above its rim and is curved at the edges so that it meets the 
+metal in a smooth curve. It seems as though the glass could shatter very
+ easily if this phone is dropped and lands on a corner, which is just 
+one of many reasons to invest in a case of some sort.
+
+Another good
+ reason is that the rear of the iPhone 6 is one of the least attractive 
+designs we've ever seen coming out of Apple. The plastic antenna lines 
+intersecting the metal body are just too prominent. There's a bunch of 
+regulatory text and logos which we wish could have been less prominent, 
+and then of course there's the infamous camera bulge. The little nubbin 
+really does stick out prominently, and we couldn't help fidgeting with 
+it when holding the iPhone 6 in our hands.
+
+The top is blank, 
+because the power button has now been moved to the upper right side, 
+just above the Nano-SIM card tray. This will be disconcerting for 
+long-time iPhone users. The move was probably not necessary, given this 
+phone's still-manageable size, but it keeps things consistent with the 
+design of the iPhone 6 Plus. The ringer mute switch and volume buttons 
+are on the left edge per usual, and the Lightning port and headset 
+socket are on the bottom. We cannot overstate the quality of Apple's 
+fabrication and machining processes; all the buttons have just the right
+ feel, and even the charger's Lightning connector slips into its port 
+with a satisfying thunk.
+
+This is a very satisfying phone to hold 
+and to use. We didn't think Apple needed to make its iPhones any 
+slimmer, but we really like the iPhone 6 when we hold it in our hands. 
+The weight and balance are also just right, so we're glad Apple finally 
+embraced the idea of producing a bigger phone.
+
+SpecificationsThe
+ iPhone 6 uses Apple's new A8 processor, designed in-house but based on 
+the industry-standard ARM architecture. There's a separate co-processor 
+called the M8 for sensor input, which helps save battery life by 
+allowing the A8 to go to sleep while physical activity is constantly 
+detected and processed in the background.
+
+The screen is of course 
+larger than those on the iPhone 5 generation models but still a lot 
+smaller than the one on the iPhone 6 Plus. The resolution isn't a huge 
+bump up from that of the iPhone 5 series, and the pixel density is 
+exactly the same. We liked the crisp, bright display on the 6 Plus, and 
+while the one on the iPhone 6 is just as good in terms of quality, it 
+doesn't feel very exciting. Competitors have long surpassed Apple in 
+terms of resolution, and the difference between some of the current 
+Android flagships and the iPhone 6 is definitely noticeable, if 
+ultimately unimportant. 
+
+There's 1GB of RAM which seems stingy 
+compared to Android devices today, though we didn't find this to be much
+ of a problem on the iPhone 6 Plus when we reviewed it. The fact that 
+storage is not expandable is a constant frustration for us - iPhones are
+ already expensive and it just hurts to have to pay a ridiculous amount 
+over and above the starting price just to have enough space to actually 
+use these devices to their full potential.
+
+The relatively new 
+high-speed Wi-Fi ac standard is supported, as is Bluetooth 4.0. LTE is 
+supported on the Indian 2300MHz band and NFC is new to this iPhone 
+generation, but only works with Apple Pay which isn't available outside 
+the USA yet.
+
+SoftwareA large part of the iPhone 6's appeal 
+lies in iOS - more specifically, iOS 8. Not all features work as well on
+ older iPhones, so software alone is not a strong enough reason to 
+upgrade from a device that's less than three years old. 
+
+iOS 8 has
+ lots of new features, big and small. Little things such as 
+much-improved photo editing tools, Notification Centre widgets, tweaks 
+in Safari and voice messages over iMessage all contribute to making the 
+iPhone 6 a pleasure to use. App extensions are usually subtle, but this 
+feature represents one of the best new things about iOS, and developers 
+will surely take better advantage of it over time. Custom keyboards will
+ be a game-changer for Apple, and some truly innovative apps have sprung
+ up letting you do all kinds of things with messages. Improvements to 
+mail handling and iTunes content management area also much appreciated. 
+
+One
+ of the most visible new iOS 8 features is the Health app. This is a 
+little unintuitive to use - you can see an activity dashboard and 
+entries for dozens of trackable metrics, but things only really take off
+ when you download additional apps that use the Healthkit framework and 
+populate all that information. The combination of Healthkit and the M8 
+coprocessor allow for some very detailed and impressive information 
+gathering. There's still a lot that could be improved. It's very 
+un-Apple to have so many things to track - things such as Molybdenum, 
+Peripheral Perfusion Index and Selenium are not within the consciousness
+ of the average user, but there are still ways to track all of them so 
+it seems pointless to present them all right at the beginning.
+
+The
+ Reachability shortcut, ie double-tapping the Home button to make the 
+screen's contents slide down towards your fingers, is pretty handy but 
+you have to develop a habit of using it or you might forget it's there. 
+It's going to take a long time for apps to be updated with the correct 
+screen resolution and scaling factor, but those that have been optimised
+ look great.
+
+iPhone owners who also use a Mac and/or an iPad might
+ also want to try out the new Continuity features. Some have limited 
+appeal, such as being able to make voice calls from a Mac through an 
+iPhone, whereas the ability to begin composing an email on one device 
+and then just continue from anywhere on another could really improve the
+ way people work. 
+
+CameraThe rear camera is still 8 
+megapixels, but the lens and sensor have been improved to allow for 
+better low-light shots and colour accuracy. Videos can now be taken with
+ continuous autofocus and improved stabilisation. 120fps slow-motion, 
+which was introduced with the iPhone 5s now coexists with 240fps 
+slow-motion, and there's a new time-lapse mode in iOS 8 that older 
+phones can also use.
+
+(Click to see full size)
+
+Apple's camera app is mostly barebones - 
+there are no fancy special effects or multi-page menus of options. The 
+new capabilities of the iPhone 6 and iOS 8 are thus easy to discover, 
+but it's beginning to feel as though Apple can't decide whether to offer
+ more options or keep its interface minimalist.
+
+(Click to see full size)
+
+4K video recording
+ is missing, and the iPhone 6 falls behind its competitors in this 
+regard. Even if you don't plan on shooting all your videos at such a 
+high resolution, it's nice to have the option to do so. The cap on 
+storage space would also make it very difficult to store 4K videos.
+
+(Click to see full size)
+
+We
+ were very happy with the iPhone 6's camera. Images taken during the day
+ were crisp with accurate colours and superb levels of detail. Closeups 
+were brilliant, and even distant objects were captured very well. 
+Low-light performance was also admirable - the iPhone 6 works very well 
+indoors as well as outdoors, even with minimal artificial or ambient 
+lighting. We were constantly surprised by how well shots came out - 
+there was noticeable noise but details were still well defined when seen
+ at reduced size on a screen. Photos came out looking as though they had
+ been taken in far better light. 
+
+(Click to see full size)
+
+PerformanceOnce again, 
+we're reminded that numbers and acronyms on a specifications sheet can't
+ always be used to judge a device. The dual-core Apple A8 processor and 
+its integrated graphics capabilities are more than capable of holding 
+their own against quad- and octa-core products from leading competitors.
+ 
+
+We had no problems with the iPhone 6, whether we were playing 
+heavy games, recording high-speed video, multitasking, or just relaxing 
+while browsing the Web. The phone is super-responsive, and unique 
+features such as Apple's Touch ID sensor just make the whole experience 
+of using an iPhone butter-smooth. There are of course things that aren't
+ as flexible or functional as they are in Android, but overall, the iOS 
+platform is a joy to use.
+
+Benchmark scores were very, very good. 
+Largely due to the fact that the powerful A8 processor doesn't have to 
+push itself to drive a very high-res screen, we managed to achieve some 
+superb scores in graphics-intensive benchmarks. GFXBench produced a 
+record high of 50.1fps, while 3DMark Ice Storm was maxed out in the 
+regular and Extreme modes, but posted a score of 17,302 in the Unlimited
+ mode. HD videos also played without a hitch.
+
+AnTuTu for iOS gave 
+us a phenomenal score of 49,319 points which is practically the same as 
+the 49,353 points the iPhone 6 Plus managed. The test still detects a 
+resolution of 640x1136 though, which explains the similar scores and 
+means they aren't representative of either device at its native 
+resolution.
+
+Battery life was pretty good, but we were hoping for 
+spectacular. Our video loop test ran for 7 hours, 40 minutes. This is a 
+clear point in favour of the much larger iPhone 6 Plus. Call quality was
+ superb, but we do with Apple could work on better speakers for its 
+iPhones - the single mono speaker on the bottom isn't very loud or rich,
+ and competitors do much better.
+
+VerdictAs we stated in our
+ review of the iPhone 6 Plus, Apple's two new devices are very similar 
+in terms of the experience they deliver, with only the screen size 
+setting them apart. Thus, users can choose the screen size (and physical
+ size) that suits them better, without feeling as though they've 
+compromised by picking a lesser device either way. In the Android world,
+ larger phones tend to hog all the best features, and "mini" versions 
+are almost always cut down.
+
+That said, the iPhone 6's relatively 
+smaller body means that the battery is smaller, and the camera has to 
+make do without optical image stabilisation. On the other hand, each 
+iPhone 6 model comes in at Rs. 9,000 less expensive than the equivalent 
+iPhone 6 Plus. We think most people would be better off with a 64GB 
+iPhone 6 than a 16GB iPhone 6 Plus at the same price. 
+
+Specifications
+ shouldn't fool you into thinking this phone is any less powerful than 
+an Android flagship. If you've been waiting for a reason to ditch an old
+ phone and jump onto the Apple bandwagon, the iPhone 6 is one of the 
+best reasons to do so. If you're thinking of upgrading from an iPhone 4S
+ or earlier, you'll absolutely love what the iPhone 6 has to offer. 
+Naturally, the difference won't be as stark for iPhone 5 or 5s owners 
+running iOS 8, and they can easily stick with their current phones for 
+another year or so unless they really feel like splurging.
+
+If you aren't sure whether you want to choose Android or an iPhone, there are quite a few options to choose from. This generation's flagships, the Sony Xperia Z3 (Review | Photos) Samsung Galaxy S5 (Review | Photos) HTC One (M8) (Review | Photos) and LG G3 (Review | Photos) are all larger but most of them are quite a bit less expensive and also offer value in the form of features such as expandable storage and 4K video recording.
+
+One 
+final note: when reviewing new flagship phones, we usually consider 
+whether their own predecessors offer good value, considering how prices 
+tend to fall. Amazingly, the iPhone 5s (16GB) is still officially sold 
+for Rs. 53,500 which is the same price as the iPhone 6! If you can find a
+ 5s in retail for less than Rs. 40,000 today, it's still a great deal. 
+An official 5s price cut is long overdue, at which point the 32GB model 
+will be cheaper than the 16GB iPhone 6 - this will be a very tempting 
+option indeed.
+

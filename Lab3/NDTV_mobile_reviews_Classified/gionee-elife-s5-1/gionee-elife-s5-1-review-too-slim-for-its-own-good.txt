@@ -1,0 +1,269 @@
+Gionee Elife S5.1 Review: Too Slim for Its Own Good
+
+In March this year, the 5.5mm thin Gionee Elife S5.5 held the crown for
+ being the slimmest smartphone in India. It is surprising how things
+ change so quickly. The Chinese company has already announced its next model, the Gionee Elife S5.1, which is a 0.4mm slimmer. (Also see: Gionee Elife S5.1 the World's Slimmest Smartphone: Guinness World Records) While competing Chinese brand Oppo has also announced an even slimmer smartphone, the R5, which is 4.85mm thick, 
+there is no official word on its availability yet. At least until then the crown 
+for the slimmest smartphone available in India will be held by the Elife S5.1.We
+ got to play around with a review unit of the Elife S5.1 and put this 
+anorexic device through its paces to find out if Gionee's engineering 
+feat is worth the effort. Look and feelIn our review of 
+the Gionee Elife S5.5 (Review | Pictures) we stated that it could actually give professional supermodels a run for their money 
+thanks to its physical attributes. Now with the Elife S5.1, Gionee has taken things further by shaving off a few more 
+millimetres. At approximately 5.15mm, the Elife S5.1 is pushing the 
+boundaries of smartphone slimness. And now, we are getting slightly 
+worried about this obsession. The phone feels delicate at 97g
+ and in our time with it we had to handle it with the utmost care. The front and the rear of the phone are reinforced with Corning Gorilla Glass 3, which is a relief. However, when coupled 
+with the metal edges, gripping the phone is a problem. Issues with 
+the ergonomics aside, the phone does look really pretty; especially, the
+ white variant with a gold rim. The finish of the phone is exemplary and we won't 
+blame you for mistaking it for an Apple device. The Elife S5.1 is also
+ available in black, mint green and pink.The Elife S5.1 has a 
+4.8-inch screen which is surrounded by fairly narrow bezels. Below the 
+screen is a row of capacitive buttons, which are not backlit. Above it lie an earpiece, a front camera and an array of sensors. The 
+power button and volume rocker are on the left edge. These raised 
+buttons have great tactile feedback. The tray that accepts a Micro-SIM 
+card is on the right edge of the phone. On the bottom one can find a 
+Micro-USB port and a 3.5mm socket. The primary camera along with the flash
+ are in the top left corner whereas the loudspeaker is in the bottom 
+right corner. Specifications and softwareUnder the hood is
+ a Mediatek MT6592 octa-core SoC clocked at 1.7GHz with a Mali-450MP4 GPU. 
+The Elife S5.1 has 1GB of RAM and 16GB of internal storage with no 
+option for expansion. Of this 16GB of storage, 6.33GB is 
+partitioned as 'system capacity' and the rest is 'phone storage'. With such a slim phone, certain conveniences have to be cut out, and a memory card slot is one of them. However, Gionee foes support USB On-The-Go (OTG) which allows users to plug in pen drives. To top it off, 
+an OTG dongle is included in the box. The phone has an 
+8-megapixel auto-focus rear camera with LED flash and the front camera 
+can shoot at 5-megapixel resolution. With respect to connectivity there 
+are your regular suspects like 3G, Bluetooth 4.0 and Wi-Fi a/b/g/n. 
+There is a 2,050mAh battery providing the juice to run the device.The
+ 4.8-inch AMOLED screen has a resolution of 720x1280, which 
+translates to a pixel density of 306ppi. It is an over-saturated screen 
+but not to the extent that it looks bad. Quite a few users might actually
+ prefer this over the neutral colours of an LCD display. The viewing 
+angles are pretty good and the sunlight legibility is decent for an 
+AMOLED screen. The Elife S5.1 runs Android 4.4.2 with Gionee's 
+proprietary Amigo UI 2.0 slapped on top of it. We still think the skin 
+is garish and is a far cry from the clean UI of vanilla Android. The 
+absence of an app drawer might be confusing for users who've used other 
+Android devices before. Amigo UI 2.0 is so stubborn that
+ even after updating all the Google apps bundled with the device the themed app
+ icons didn't change. Also, open folders appear as semi-transparent panes, and the icons inside and outside overlap to create a distracting visual. The 
+icons in the dock are not labelled, which makes the UI design 
+inconsistent.Gionee bundles a ton of apps with the phone and the 
+NQ Mobile Security app is quite intrusive since it asks for permission 
+to perform a check on any new app that is installed. 
+Thankfully, all the additional bloatware can be uninstalled and we would
+ suggest users do this the moment they get the phone. We'll explain why 
+in the performance section of the review. For folks who like playing 
+around with their phones, Amigo UI 2.0 offers a 
+lot of customisation options in the form of themes and animations. There
+ are a few smart gestures and some of them, like the double-click to 
+wake up the phone, are pretty useful. CameraGionee bundles
+ a CharmCam app apart from the proprietary camera app. The CharmCam 
+app has five mode options at the bottom - Face Beauty, Make Up, Live 
+Filters, Stamps and PPT. After toying with it for a bit we went back to 
+the default camera app, which by itself is not too great. For some reason, the settings pane doesn't scale when the phone is held 
+horizontally, which is how most users will hold the phone to capture 
+images. Also, it takes up more than 75 percent of the screen meaning one
+ has very little on-screen space to go back to the picture capture 
+screen. (Click for full size)Looking past the foibles of the camera app, lets get down
+ to business - image quality. The 8-megapixel camera is not a fast 
+shooter by any stretch of the imagination. While the 
+photos look incredible on the phone's display, viewing them on a larger 
+screen brings out their issues. The captured 
+photos had exposure issues and weren't as detailed as we would have 
+expected. Moreover, we noticed some purple fringing too. The lens blows 
+out the highlights really badly. Thankfully, the HDR mode works overtime and does more than
+ a decent job of fixing this. In fact, we started shooting in HDR mode 
+by default. The only drawback was that it takes even more time to capture HDR 
+images, which is normal. In low-light conditions the situation gets much
+ worse and we think it would be a good idea to avoid using this camera in
+ the night. Click on the images to see the samples at full size, which will show the flaws clearly.The 5-megapixel front-camera does a good job of 
+taking selfies. It doesn't go too wide but the captured images are 
+serviceable for social networking websites. The 1080p video captured by 
+the camera also lacks a lot of details and at times we even noticed some
+ screen tearing. (Click to see full size)PerformanceOwing to all the bloatware and
+ the custom fork of Android OS, the performance of the Elife S5.1 is not
+ that great. The Gionee Elife S5.1 chokes and stutters when multiple 
+apps are opened. At any given point of time, you get somewhere close to a
+ maximum of 350MB out of the 1GB of RAM for your use, which is very low.
+ This is the reason we suggested deleting some of the bloatware present. This ensures that you don't have to worry all the 
+time about killing apps that run in the background by default.For
+ folks who want to view benchmark numbers, we have them for you. In
+the AnTuTu and Quadrant benchmarks the phone scored 32,224 and 13,776 
+respectively. It also scored 16.5fps and 7,092 respectively in the GFXbench and 3DMark Ice 
+Storm tests. The phone played all the videos we threw at it
+ just fine and thanks to the highly saturated display the visuals looked
+ really vibrant. The bundled earphones have great bass and we thought they sounded pretty decent overall. The loudspeaker on the other hand sounds
+ tinny but can get adequately loud. The phone managed to hold on to network even in areas notorious for congestion but sometimes the person 
+on the other end of the call couldn't hear us properly. We were worried 
+about the battery life of the phone but surprisingly it lasted 6 hours
+ and 53 minutes in our intensive battery test. It easily 
+lasted a day with normal usage, which is great for a phone as slim as the Elife
+ S5.1.VerdictGionee may have created a device that sheds 
+a lot of weight and boasts of a svelte figure but with that comes a few 
+quirks in ergonomics, low camera quality and performance issues. However, the Elife
+ S5.1 is a great option for media consumption since it has a decent 
+screen, is lightweight and the bundled earphones sound good too. At the
+ moment, the phone is available for a price of Rs. 18,999, which is not 
+too bad, but the software is something that is keeping us from 
+recommending it whole-heartedly. Also, there are much better phones such as the Nokia Lumia 730 Dual SIM (Review | Pictures), Huawei Honor 6 (Review | 
+Pictures) and Lenovo Vibe X2 (Review | Pictures) in the same price 
+range. If you are willing to spend a little more, the "flagship killer" 
+OnePlus One (Review | Pictures) is a brilliant option for you to 
+consider as well.
+Gionee Elife S5.1 in pictures
+
+In March this year, the 5.5mm thin Gionee Elife S5.5 held the crown for
+ being the slimmest smartphone in India. It is surprising how things
+ change so quickly. The Chinese company has already announced its next model, the Gionee Elife S5.1, which is a 0.4mm slimmer. 
+
+(Also see: Gionee Elife S5.1 the World's Slimmest Smartphone: Guinness World Records) 
+
+While competing Chinese brand Oppo has also announced an even slimmer smartphone, the R5, which is 4.85mm thick, 
+there is no official word on its availability yet. At least until then the crown 
+for the slimmest smartphone available in India will be held by the Elife S5.1.
+
+We
+ got to play around with a review unit of the Elife S5.1 and put this 
+anorexic device through its paces to find out if Gionee's engineering 
+feat is worth the effort. 
+
+Look and feelIn our review of 
+the Gionee Elife S5.5 (Review | Pictures) we stated that it could actually give professional supermodels a run for their money 
+thanks to its physical attributes. Now with the Elife S5.1, Gionee has taken things further by shaving off a few more 
+millimetres. At approximately 5.15mm, the Elife S5.1 is pushing the 
+boundaries of smartphone slimness. And now, we are getting slightly 
+worried about this obsession. The phone feels delicate at 97g
+ and in our time with it we had to handle it with the utmost care. The front and the rear of the phone are reinforced with Corning Gorilla Glass 3, which is a relief. However, when coupled 
+with the metal edges, gripping the phone is a problem. 
+
+Issues with 
+the ergonomics aside, the phone does look really pretty; especially, the
+ white variant with a gold rim. The finish of the phone is exemplary and we won't 
+blame you for mistaking it for an Apple device. The Elife S5.1 is also
+ available in black, mint green and pink.
+
+The Elife S5.1 has a 
+4.8-inch screen which is surrounded by fairly narrow bezels. Below the 
+screen is a row of capacitive buttons, which are not backlit. Above it lie an earpiece, a front camera and an array of sensors. The 
+power button and volume rocker are on the left edge. These raised 
+buttons have great tactile feedback. The tray that accepts a Micro-SIM 
+card is on the right edge of the phone. On the bottom one can find a 
+Micro-USB port and a 3.5mm socket. The primary camera along with the flash
+ are in the top left corner whereas the loudspeaker is in the bottom 
+right corner. 
+
+Specifications and softwareUnder the hood is
+ a Mediatek MT6592 octa-core SoC clocked at 1.7GHz with a Mali-450MP4 GPU. 
+The Elife S5.1 has 1GB of RAM and 16GB of internal storage with no 
+option for expansion. Of this 16GB of storage, 6.33GB is 
+partitioned as 'system capacity' and the rest is 'phone storage'. With such a slim phone, certain conveniences have to be cut out, and a memory card slot is one of them. However, Gionee foes support USB On-The-Go (OTG) which allows users to plug in pen drives. To top it off, 
+an OTG dongle is included in the box. 
+
+The phone has an 
+8-megapixel auto-focus rear camera with LED flash and the front camera 
+can shoot at 5-megapixel resolution. With respect to connectivity there 
+are your regular suspects like 3G, Bluetooth 4.0 and Wi-Fi a/b/g/n. 
+There is a 2,050mAh battery providing the juice to run the device.
+
+The
+ 4.8-inch AMOLED screen has a resolution of 720x1280, which 
+translates to a pixel density of 306ppi. It is an over-saturated screen 
+but not to the extent that it looks bad. Quite a few users might actually
+ prefer this over the neutral colours of an LCD display. The viewing 
+angles are pretty good and the sunlight legibility is decent for an 
+AMOLED screen. 
+
+The Elife S5.1 runs Android 4.4.2 with Gionee's 
+proprietary Amigo UI 2.0 slapped on top of it. We still think the skin 
+is garish and is a far cry from the clean UI of vanilla Android. The 
+absence of an app drawer might be confusing for users who've used other 
+Android devices before. Amigo UI 2.0 is so stubborn that
+ even after updating all the Google apps bundled with the device the themed app
+ icons didn't change. Also, open folders appear as semi-transparent panes, and the icons inside and outside overlap to create a distracting visual. The 
+icons in the dock are not labelled, which makes the UI design 
+inconsistent.
+
+Gionee bundles a ton of apps with the phone and the 
+NQ Mobile Security app is quite intrusive since it asks for permission 
+to perform a check on any new app that is installed. 
+Thankfully, all the additional bloatware can be uninstalled and we would
+ suggest users do this the moment they get the phone. We'll explain why 
+in the performance section of the review. For folks who like playing 
+around with their phones, Amigo UI 2.0 offers a 
+lot of customisation options in the form of themes and animations. There
+ are a few smart gestures and some of them, like the double-click to 
+wake up the phone, are pretty useful. 
+
+CameraGionee bundles
+ a CharmCam app apart from the proprietary camera app. The CharmCam 
+app has five mode options at the bottom - Face Beauty, Make Up, Live 
+Filters, Stamps and PPT. After toying with it for a bit we went back to 
+the default camera app, which by itself is not too great. For some reason, the settings pane doesn't scale when the phone is held 
+horizontally, which is how most users will hold the phone to capture 
+images. Also, it takes up more than 75 percent of the screen meaning one
+ has very little on-screen space to go back to the picture capture 
+screen. 
+
+(Click for full size)Looking past the foibles of the camera app, lets get down
+ to business - image quality. The 8-megapixel camera is not a fast 
+shooter by any stretch of the imagination. While the 
+photos look incredible on the phone's display, viewing them on a larger 
+screen brings out their issues. The captured 
+photos had exposure issues and weren't as detailed as we would have 
+expected. Moreover, we noticed some purple fringing too. The lens blows 
+out the highlights really badly. Thankfully, the HDR mode works overtime and does more than
+ a decent job of fixing this. In fact, we started shooting in HDR mode 
+by default. The only drawback was that it takes even more time to capture HDR 
+images, which is normal. 
+
+In low-light conditions the situation gets much
+ worse and we think it would be a good idea to avoid using this camera in
+ the night. Click on the images to see the samples at full size, which will show the flaws clearly.
+
+The 5-megapixel front-camera does a good job of 
+taking selfies. It doesn't go too wide but the captured images are 
+serviceable for social networking websites. The 1080p video captured by 
+the camera also lacks a lot of details and at times we even noticed some
+ screen tearing. 
+
+(Click to see full size)PerformanceOwing to all the bloatware and
+ the custom fork of Android OS, the performance of the Elife S5.1 is not
+ that great. The Gionee Elife S5.1 chokes and stutters when multiple 
+apps are opened. At any given point of time, you get somewhere close to a
+ maximum of 350MB out of the 1GB of RAM for your use, which is very low.
+ This is the reason we suggested deleting some of the bloatware present. This ensures that you don't have to worry all the 
+time about killing apps that run in the background by default.
+
+For
+ folks who want to view benchmark numbers, we have them for you. In
+the AnTuTu and Quadrant benchmarks the phone scored 32,224 and 13,776 
+respectively. It also scored 16.5fps and 7,092 respectively in the GFXbench and 3DMark Ice 
+Storm tests. 
+
+The phone played all the videos we threw at it
+ just fine and thanks to the highly saturated display the visuals looked
+ really vibrant. The bundled earphones have great bass and we thought they sounded pretty decent overall. The loudspeaker on the other hand sounds
+ tinny but can get adequately loud. 
+
+The phone managed to hold on to network even in areas notorious for congestion but sometimes the person 
+on the other end of the call couldn't hear us properly. We were worried 
+about the battery life of the phone but surprisingly it lasted 6 hours
+ and 53 minutes in our intensive battery test. It easily 
+lasted a day with normal usage, which is great for a phone as slim as the Elife
+ S5.1.
+
+VerdictGionee may have created a device that sheds 
+a lot of weight and boasts of a svelte figure but with that comes a few 
+quirks in ergonomics, low camera quality and performance issues. However, the Elife
+ S5.1 is a great option for media consumption since it has a decent 
+screen, is lightweight and the bundled earphones sound good too. At the
+ moment, the phone is available for a price of Rs. 18,999, which is not 
+too bad, but the software is something that is keeping us from 
+recommending it whole-heartedly. Also, there are much better phones such as the Nokia Lumia 730 Dual SIM (Review | Pictures), Huawei Honor 6 (Review | 
+Pictures) and Lenovo Vibe X2 (Review | Pictures) in the same price 
+range. If you are willing to spend a little more, the "flagship killer" 
+OnePlus One (Review | Pictures) is a brilliant option for you to 
+consider as well.
+

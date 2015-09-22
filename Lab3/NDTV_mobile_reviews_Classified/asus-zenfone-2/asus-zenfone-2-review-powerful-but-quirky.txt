@@ -1,0 +1,301 @@
+Asus ZenFone 2 Review: Powerful But Quirky
+
+Way back in 1989, Asus started out as a consultancy service for motherboard
+ manufacturers. According to industry legend, Asus got a leg up in the industry after designing a motherboard for Intel's 486 CPU without access to a processor, even fixing problems that Intel's own engineers had had.Today, the two are still close partners, and Asus uses Intel's mobile processors in its smartphones and tablets. Last year's 
+ZenFone 4 (Review | Pictures), ZenFone 5, and ZenFone 6 were runaway successes 
+for Asus in India thanks primary to cutthroat pricing and dependable 
+performance. Now, Asus has just launched a new series called ZenFone 2, and 
+the company has been from shouting from the rooftops that the top-end variant has 4GB of RAM. At the moment, Asus is selling the ZenFone 2 in four 
+different variants in India: the ZE551ML (with 4GB of RAM, 64GB ROM and 
+a 5.5-inch full-HD screen); the ZE551ML (with 4GB of RAM, 32GB ROM and a 5.5-inch full-HD screen); the ZenFone 2 ZE551ML (with 2GB of RAM, 16GB ROM and 
+5.5-inch full-HD screen), and the ZenFone 2 ZE550ML (with 2GB RAM, 16GB ROM
+ and 5.5-inch HD screen). To add to the confusion, both ZE551ML (4GB) models use the 2.3GHz 
+quad-core Intel Atom Z3580 SoC whereas the ZE551ML (2GB) and the 
+ZE550ML are powered by the 1.8GHz quad-core Intel Atom Z3560. Prices range from Rs. 12,999 to Rs. 22,999.There are more variants of the ZenFone 2 which the 
+company might launch later. This naming scheme will be really confusing for buyers, because the model number alone does not mean anything. The 
+folks at Asus could easily have avoided this hotchpotch of variants.  Nomenclatures aside, Asus sent us a review unit of the ZenFone 2 
+ZE551ML with 4GB of RAM and 32GB of storage space. We 
+put the phone through its paces to find out if 4GB RAM actually makes any
+ difference in real-world usage. Look and feelWith
+ the ZenFone 2, Asus has engineered a radical design change that is 
+bound to invite differing opinions. The curve on the rear of the ZenFone
+ 2 is slightly more pronounced, compared to its predecessor, the ZenFone 5 (Review | Pictures). Couple this with the brushed metal 
+finish of the removable plastic back, and the phone reminds us of the HTC 
+One (M8) (Review | Pictures), especially since our review unit was the 
+Glacier Gray variant. All said and done, in our opinion, the phone does 
+look premium.The ZenFone 2's size falls somewhere in between that of the ZenFone 5 and the ZenFone 6 (Review | Pictures). The dimensions need to accomodate a 5.5-inch screen, and the weight has also increased as a result. The phone has dimensions of 
+152.5x77.2x10.9mm and weighs 170g. Despite these numbers, the ZenFone 2 
+doesn't feel chunky because of the curved rear. The phone can be gripped nicely but don't expect it to be comfortable to use with one
+ hand. The most noticeable change is that the volume rocker 
+has been moved to the rear of the device. We saw such an 
+implementation for the first time on the LG G2, and it then continued through LG's subsequent releases. In LG's
+ phones, the power button is wedged in between the volume buttons, whereas on the ZenFone 2, the power button is on the top of 
+the phone. The problem with this placement is that it is 
+difficult to reach while using the phone with one hand. The 
+button is flush with the top edge, as a result of which usability takes a hit. Thankfully, you might never need to use this 
+button because the software allows you to double-tap the screen to wake the phone or
+ to put it to sleep. The volume rocker has a slightly ribbed texture and really 
+good tactile feedback. It doesn't matter if you are right-handed or 
+left-handed; your index finger naturally reaches for it. The placement of the physical buttons means the left and right edges of the phone are naked. The 
+Micro-USB port and microphone are at the bottom of the phone. A 3.5mm 
+jack and microphone are present on the top on either sides of the power 
+button. Apart from the volume rocker, the rear side of the phone also 
+houses the camera and the speaker grille.The display takes up 
+close to 70 percent of the front of the ZenFone 2, and the bezel is fairly slim on all sides. The earpiece, front camera, ambient light sensor and notification LED are lined up above the screen. The phone has a
+ row of capacitive buttons below the display, which aren't 
+backlit. Below them is metal "chin" which continues to use Asus' trademark concentric circle finish. It adds a 
+dash of character to the design of the phone.Specifications and softwareOur
+ review unit is the top-end ZE551ML variant of the ZenFone 2, which has
+ the most high-end components of the lineup. The phone has 4GB of RAM, which is the first for any smartphone we've reviewed. It also has a 2.3GHz quad-core Intel Atom Z3580 processor 
+with an integrated PowerVR G6430 GPU. Incidentally, the same graphics 
+chip is also used in the iPhone 5s. The phone has 32GB of internal 
+storage space and there is a microSD card slot which can be used to add 64GB 
+more space. Furthermore, the Micro-USB port can be used to plug external USB drives in. The phone accepts two Micro-SIM 
+cards. The primary SIM card can connect to 4G networks including the 2300MHz Indian 4G frequency band. Both SIM cards can connect to 3G networks.
+Other
+ connectivity options include Bluetooth v4.0, Wi-Fi a/b/g/n/ac and NFC. 
+The ZenFone 2 has a 13-megapixel primary camera with dual-LED flash and a
+ 5-megapixel front-facing secondary camera.  The phone also has a fairly large 3000mAh battery under the hood. The 5.5-inch IPS LCD 
+screen has a resolution of 1080x1920, which translates to a 
+pixel density of 403ppi. Images look crisp and the colours are also 
+accurately reproduced. Even the viewing angles are pretty good. The
+ only weakness of this screen is that even at maximum brightness it looks a bit dull, which in turn affects the sunlight legibility. Asus
+ ships the ZenFone 2 with Android Lollipop out-of-the-box, coated 
+with Asus' custom ZenUI skin on top. ZenUI is quite a departure from stock 
+Android but adds a few neat tweaks that could be useful for quite a few 
+users, and is as zippy as ever. For example, the Smart Group functionality in the app 
+drawer bunches similar apps together into folders, which comes in handy 
+when you don't want to go through the trouble of sorting 
+apps one by one. Similarly, the App Lock feature lets you add a password to any app, preventing others from opening things you don't want them to. Zen UI 
+also allows for a lot of customisation, and you can change themes, 
+icon packs and the homepage scrolling animation. The one-handed operation 
+function has been tweaked slightly to allow more control to the user - you can 
+now manually drag from the corner of the screen to set the 
+screen size without having to make do with preset screen sizes. ZenMotion 
+is another software feature that gives users the ability to 
+draw gestures on screen when the phone is asleep, to open any 
+particular app. Asus also adds a in-house apps: Asus ZenCircle, a social networking tool for creators; PhotoCollage; WebStorage, a cloud-based storage solution; and 
+Mirror, which lets you use the front camera and screen as a mirror. CameraThe primary camera on the Asus ZenFone 5 was a competent performer. Unfortunately, Asus 
+has failed to recreate that on the ZenFone 2. We consistently saw mediocre results with the 13-megapixel shooter, which should have been more powerful than the
+ 8-megapixel one on the ZenFone 5. The average image quality of the ZenFone 
+2's primary camera is yet another reason for us to reiterate that the megapixel count doesn't directly correlate to camera quality. (Click for full size)The
+ sample shots from our daylight testing sessions were laden with over-exposed areas 
+around the edges and colour burning as well. The sensor needs shade to
+ capture even half-decent images. We also noticed a fair amount of noise
+ and barrel distortion around the edges in some daylight shots. Performance aside, Asus' 
+camera app is feature-rich and has a ton of shooting modes. The 
+coolest feature of this app is that the Low Light mode pops up automatically the 
+moment it detects that the light is not enough for the sensor to capture
+ all details. Shots are restricted to 
+3-megapixels (or lower) in this mode, but the tradeoff is worth it. Shots taken in this mode looked significantly more detailed and were better lit too. This is a better alternative to using the dual-LED flash for capturing pictures because they look artificial.(Click for full size)As
+ expected, the 1080p videos captured with the primary camera were not great 
+either. In what is becoming the norm these days, the camera app has beautification 
+options for the front camera. Anyway, the front camera captures warped images which could be a direct result of making the lens wider 
+than the one on the ZenFone 5. The details are pretty decent, though.PerformanceIf
+ there is one area where the ZenFone 2 shines it is core 
+performance. We zipped through general operations like opening apps and 
+games. The speed is comparable to that of Snapdragon-toting flagship devices. 
+The performance of the ZenFone 2 is so good that at one point we had more than 20 apps and games running in the background and only 1.5GB of the available 4GB RAM was being utilised. In the AnTuTu and Quadrant benchmark 
+tests, the phone scored a healthy 32,086 and 20,523 respectively. We 
+installed Asphalt 8 and noticed that it displayed the full range of 
+special effects while running pretty smoothly. The
+ gaming performance of the phone is corroborated by the benchmark 
+results. 3DMark Ice Storm's basic and extreme tests maxed out, whereas 
+the Ultimate benchmark returned a score of 17,654. Similarly, the phone 
+scored a healthy 30fps in GFXbench.All our test 
+videos played without any glitches but the sound quality of the 
+loudspeaker is not too great. Thankfully, our reference earphones 
+sounded great when connected to the 3.5mm headphone jack. Asus doesn't provide a headset with this device. The sound quality 
+in calls was average; we noticed some hiss on our end and the connection
+ dropped at least twice. The battery life, although better than its 
+predecessor, is still not that great. It lasted 7 hours and 52 
+minutes in our video loop battery test, and in daily use we had to connect it to a charger at the end of the day. Asus implements a fast charging tech that manages to charge the phone pretty fast and could somewhat make up for this performance.VerdictWith the ZenFone 2, Asus improves on most aspects of the Zenfone 5 
+except for the camera. The 4GB of RAM could come in handy if you often have multiple browser tabs open at the same time. Also, the PowerVR graphics chip is a solid performer and that is
+ a boon for Android gamers.The ZenFone 2 ZE551ML with 64GB of 
+internal storage is priced at Rs. 22,999 whereas the 32GB variant will 
+set you back by Rs. 19,999. This means that Asus is now competing with 
+the Xiaomi Mi4 (Review | Pictures), OnePlus One (Review | Pictures), and HTC Desire 820 (Review | Pictures) - all of which have 
+better cameras than the ZenFone 2's 13-megapixel shooter. If 
+you can live without 4GB of RAM, then the ZenFone 2 ZE551ML 
+with 2GB of RAM and 16GB of storage space is available for much less 
+at Rs. 14,999. The ZenFone 2 ZE550ML is available at the 
+even lower cost of Rs. 12,999, which puts it in a different category altogether. All
+ said and done, our advice to potential buyers is to carefully 
+choose the right variant of the ZenFone 2 according to their requirements. We understand that having so many SKUs of the same phone will be confusing, but at the same time we appreciate Asus for providing 
+choices.
+Asus ZenFone 2 in pictures
+
+Way back in 1989, Asus started out as a consultancy service for motherboard
+ manufacturers. According to industry legend, Asus got a leg up in the industry after designing a motherboard for Intel's 486 CPU without access to a processor, even fixing problems that Intel's own engineers had had.
+
+Today, the two are still close partners, and Asus uses Intel's mobile processors in its smartphones and tablets. Last year's 
+ZenFone 4 (Review | Pictures), ZenFone 5, and ZenFone 6 were runaway successes 
+for Asus in India thanks primary to cutthroat pricing and dependable 
+performance. Now, Asus has just launched a new series called ZenFone 2, and 
+the company has been from shouting from the rooftops that the top-end variant has 4GB of RAM. 
+
+At the moment, Asus is selling the ZenFone 2 in four 
+different variants in India: the ZE551ML (with 4GB of RAM, 64GB ROM and 
+a 5.5-inch full-HD screen); the ZE551ML (with 4GB of RAM, 32GB ROM and a 5.5-inch full-HD screen); the ZenFone 2 ZE551ML (with 2GB of RAM, 16GB ROM and 
+5.5-inch full-HD screen), and the ZenFone 2 ZE550ML (with 2GB RAM, 16GB ROM
+ and 5.5-inch HD screen). To add to the confusion, both ZE551ML (4GB) models use the 2.3GHz 
+quad-core Intel Atom Z3580 SoC whereas the ZE551ML (2GB) and the 
+ZE550ML are powered by the 1.8GHz quad-core Intel Atom Z3560. Prices range from Rs. 12,999 to Rs. 22,999.
+
+There are more variants of the ZenFone 2 which the 
+company might launch later. This naming scheme will be really confusing for buyers, because the model number alone does not mean anything. The 
+folks at Asus could easily have avoided this hotchpotch of variants.  
+
+Nomenclatures aside, Asus sent us a review unit of the ZenFone 2 
+ZE551ML with 4GB of RAM and 32GB of storage space. We 
+put the phone through its paces to find out if 4GB RAM actually makes any
+ difference in real-world usage. 
+
+Look and feelWith
+ the ZenFone 2, Asus has engineered a radical design change that is 
+bound to invite differing opinions. The curve on the rear of the ZenFone
+ 2 is slightly more pronounced, compared to its predecessor, the ZenFone 5 (Review | Pictures). Couple this with the brushed metal 
+finish of the removable plastic back, and the phone reminds us of the HTC 
+One (M8) (Review | Pictures), especially since our review unit was the 
+Glacier Gray variant. All said and done, in our opinion, the phone does 
+look premium.
+
+The ZenFone 2's size falls somewhere in between that of the ZenFone 5 and the ZenFone 6 (Review | Pictures). The dimensions need to accomodate a 5.5-inch screen, and the weight has also increased as a result. The phone has dimensions of 
+152.5x77.2x10.9mm and weighs 170g. Despite these numbers, the ZenFone 2 
+doesn't feel chunky because of the curved rear. The phone can be gripped nicely but don't expect it to be comfortable to use with one
+ hand. 
+
+The most noticeable change is that the volume rocker 
+has been moved to the rear of the device. We saw such an 
+implementation for the first time on the LG G2, and it then continued through LG's subsequent releases. In LG's
+ phones, the power button is wedged in between the volume buttons, whereas on the ZenFone 2, the power button is on the top of 
+the phone. 
+
+The problem with this placement is that it is 
+difficult to reach while using the phone with one hand. The 
+button is flush with the top edge, as a result of which usability takes a hit. Thankfully, you might never need to use this 
+button because the software allows you to double-tap the screen to wake the phone or
+ to put it to sleep. The volume rocker has a slightly ribbed texture and really 
+good tactile feedback. It doesn't matter if you are right-handed or 
+left-handed; your index finger naturally reaches for it. 
+
+The placement of the physical buttons means the left and right edges of the phone are naked. The 
+Micro-USB port and microphone are at the bottom of the phone. A 3.5mm 
+jack and microphone are present on the top on either sides of the power 
+button. Apart from the volume rocker, the rear side of the phone also 
+houses the camera and the speaker grille.
+
+The display takes up 
+close to 70 percent of the front of the ZenFone 2, and the bezel is fairly slim on all sides. The earpiece, front camera, ambient light sensor and notification LED are lined up above the screen. The phone has a
+ row of capacitive buttons below the display, which aren't 
+backlit. Below them is metal "chin" which continues to use Asus' trademark concentric circle finish. It adds a 
+dash of character to the design of the phone.
+
+Specifications and softwareOur
+ review unit is the top-end ZE551ML variant of the ZenFone 2, which has
+ the most high-end components of the lineup. The phone has 4GB of RAM, which is the first for any smartphone we've reviewed. It also has a 2.3GHz quad-core Intel Atom Z3580 processor 
+with an integrated PowerVR G6430 GPU. Incidentally, the same graphics 
+chip is also used in the iPhone 5s. The phone has 32GB of internal 
+storage space and there is a microSD card slot which can be used to add 64GB 
+more space. Furthermore, the Micro-USB port can be used to plug external USB drives in. 
+
+The phone accepts two Micro-SIM 
+cards. The primary SIM card can connect to 4G networks including the 2300MHz Indian 4G frequency band. Both SIM cards can connect to 3G networks.
+Other
+ connectivity options include Bluetooth v4.0, Wi-Fi a/b/g/n/ac and NFC. 
+The ZenFone 2 has a 13-megapixel primary camera with dual-LED flash and a
+ 5-megapixel front-facing secondary camera.  The phone also has a fairly large 3000mAh battery under the hood. 
+
+The 5.5-inch IPS LCD 
+screen has a resolution of 1080x1920, which translates to a 
+pixel density of 403ppi. Images look crisp and the colours are also 
+accurately reproduced. Even the viewing angles are pretty good. The
+ only weakness of this screen is that even at maximum brightness it looks a bit dull, which in turn affects the sunlight legibility. 
+
+Asus
+ ships the ZenFone 2 with Android Lollipop out-of-the-box, coated 
+with Asus' custom ZenUI skin on top. ZenUI is quite a departure from stock 
+Android but adds a few neat tweaks that could be useful for quite a few 
+users, and is as zippy as ever. For example, the Smart Group functionality in the app 
+drawer bunches similar apps together into folders, which comes in handy 
+when you don't want to go through the trouble of sorting 
+apps one by one. Similarly, the App Lock feature lets you add a password to any app, preventing others from opening things you don't want them to. 
+
+Zen UI 
+also allows for a lot of customisation, and you can change themes, 
+icon packs and the homepage scrolling animation. The one-handed operation 
+function has been tweaked slightly to allow more control to the user - you can 
+now manually drag from the corner of the screen to set the 
+screen size without having to make do with preset screen sizes. ZenMotion 
+is another software feature that gives users the ability to 
+draw gestures on screen when the phone is asleep, to open any 
+particular app. Asus also adds a in-house apps: Asus ZenCircle, a social networking tool for creators; PhotoCollage; WebStorage, a cloud-based storage solution; and 
+Mirror, which lets you use the front camera and screen as a mirror. 
+
+CameraThe primary camera on the Asus ZenFone 5 was a competent performer. Unfortunately, Asus 
+has failed to recreate that on the ZenFone 2. We consistently saw mediocre results with the 13-megapixel shooter, which should have been more powerful than the
+ 8-megapixel one on the ZenFone 5. The average image quality of the ZenFone 
+2's primary camera is yet another reason for us to reiterate that the megapixel count doesn't directly correlate to camera quality. 
+
+(Click for full size)The
+ sample shots from our daylight testing sessions were laden with over-exposed areas 
+around the edges and colour burning as well. The sensor needs shade to
+ capture even half-decent images. We also noticed a fair amount of noise
+ and barrel distortion around the edges in some daylight shots. Performance aside, Asus' 
+camera app is feature-rich and has a ton of shooting modes. The 
+coolest feature of this app is that the Low Light mode pops up automatically the 
+moment it detects that the light is not enough for the sensor to capture
+ all details. Shots are restricted to 
+3-megapixels (or lower) in this mode, but the tradeoff is worth it. Shots taken in this mode looked significantly more detailed and were better lit too. This is a better alternative to using the dual-LED flash for capturing pictures because they look artificial.
+
+(Click for full size)As
+ expected, the 1080p videos captured with the primary camera were not great 
+either. In what is becoming the norm these days, the camera app has beautification 
+options for the front camera. Anyway, the front camera captures warped images which could be a direct result of making the lens wider 
+than the one on the ZenFone 5. The details are pretty decent, though.
+
+PerformanceIf
+ there is one area where the ZenFone 2 shines it is core 
+performance. We zipped through general operations like opening apps and 
+games. The speed is comparable to that of Snapdragon-toting flagship devices. 
+The performance of the ZenFone 2 is so good that at one point we had more than 20 apps and games running in the background and only 1.5GB of the available 4GB RAM was being utilised. 
+
+In the AnTuTu and Quadrant benchmark 
+tests, the phone scored a healthy 32,086 and 20,523 respectively. We 
+installed Asphalt 8 and noticed that it displayed the full range of 
+special effects while running pretty smoothly. The
+ gaming performance of the phone is corroborated by the benchmark 
+results. 3DMark Ice Storm's basic and extreme tests maxed out, whereas 
+the Ultimate benchmark returned a score of 17,654. Similarly, the phone 
+scored a healthy 30fps in GFXbench.
+
+All our test 
+videos played without any glitches but the sound quality of the 
+loudspeaker is not too great. Thankfully, our reference earphones 
+sounded great when connected to the 3.5mm headphone jack. Asus doesn't provide a headset with this device. The sound quality 
+in calls was average; we noticed some hiss on our end and the connection
+ dropped at least twice. The battery life, although better than its 
+predecessor, is still not that great. It lasted 7 hours and 52 
+minutes in our video loop battery test, and in daily use we had to connect it to a charger at the end of the day. Asus implements a fast charging tech that manages to charge the phone pretty fast and could somewhat make up for this performance.
+
+VerdictWith the ZenFone 2, Asus improves on most aspects of the Zenfone 5 
+except for the camera. The 4GB of RAM could come in handy if you often have multiple browser tabs open at the same time. Also, the PowerVR graphics chip is a solid performer and that is
+ a boon for Android gamers.
+
+The ZenFone 2 ZE551ML with 64GB of 
+internal storage is priced at Rs. 22,999 whereas the 32GB variant will 
+set you back by Rs. 19,999. This means that Asus is now competing with 
+the Xiaomi Mi4 (Review | Pictures), OnePlus One (Review | Pictures), and HTC Desire 820 (Review | Pictures) - all of which have 
+better cameras than the ZenFone 2's 13-megapixel shooter. 
+
+If 
+you can live without 4GB of RAM, then the ZenFone 2 ZE551ML 
+with 2GB of RAM and 16GB of storage space is available for much less 
+at Rs. 14,999. The ZenFone 2 ZE550ML is available at the 
+even lower cost of Rs. 12,999, which puts it in a different category altogether. 
+
+All
+ said and done, our advice to potential buyers is to carefully 
+choose the right variant of the ZenFone 2 according to their requirements. We understand that having so many SKUs of the same phone will be confusing, but at the same time we appreciate Asus for providing 
+choices.
+

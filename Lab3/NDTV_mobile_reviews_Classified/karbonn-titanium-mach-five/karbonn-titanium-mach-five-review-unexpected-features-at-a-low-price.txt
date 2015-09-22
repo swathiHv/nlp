@@ -1,0 +1,228 @@
+Karbonn Titanium Mach Five Review: Unexpected Features at a Low Price
+
+Karbonn 
+has come a long way since its inception in 2009. The Bengaluru-based company has launched a steady stream of new products since then, and has proven to be a
+ strong competitor in the budget smartphone segment.Karbonn's latest launch is the 
+Titanium Mach Five. At Rs. 5,999,
+ it's definitely on the cheaper side of things, and it offers an impressive 
+list of specifications for a phone at this price. Apart from flash for the 
+5-megapixel front camera, the device also features an IR blaster and a 
+5-inch HD screen. Can these features help the Mach Five stand out in the
+ budget segment? We find out in our review.Look and feelDespite
+ being an entry-level device, The Karbonn Titanium Mach Five looks 
+interesting and has enough going for it aesthetically to stand out among 
+similarly priced competititors. The phone is available in three colours: 
+champagne, silver, and blue-white. The screen is surrounded by a 
+thick black strip, while the rest of the front is glossy and retains the 
+main colour of the device. The three soft keys sit on the chin and have 
+faint backlighting which can't really be seen except in absolute 
+darkness.The detachable rear panel has a criss-cross texture 
+which we didn't much care for. However, this is subjective, and the 
+unique pattern might appeal to some buyers. The power and volume keys sit on the detachable panel. The top of the device has the 3.5mm 
+audio port and IR blaster, while the Micro-USB port is on the bottom. At 
+7.3mm, the device is not too thick, but also not quite as slim as some of the other options available. 
+It feels comfortable enough to hold, although unevenness on the 
+sides is a bit bothersome in the hand. Considering its price, however, there are
+ no serious complaints. This phone has enough appeal to keep potential 
+buyers happy.Specifications and softwareThe Karbonn 
+Titanium Mach Five features a 5-inch 720x1280-pixel screen, 16GB 
+of internal storage (expandable by up to 32GB), and 2GB RAM. The device runs
+ on the 1.3GHz quad-core MediaTek MT6582 SoC, which is popular among 
+low-end devices such as this. The phone also has a 2,200mAh battery and 
+runs on Android 5.0.The most noteworthy competitor to the Mach Five is the Motorola Moto E (Gen 2) (Review | Pictures). The Mach
+ Five exceeds the Moto E in respect to many specifications, such as RAM, internal storage, 
+display size and resolution, and megapixel count on the cameras. On 
+paper, when compared to the Moto E (Gen 2), the Mach Five is definitely the more appealing device at 
+this price, but specifications alone rarely tell the whole story in such cases.The user interface is refreshingly light and similar to
+stock Lollipop. A lot of apps and games come preinstalled, but most of them can be removed. Furthermore, the Titanium Mach Five has the excellent SwiftKey keyboard preinstalled and set as the default
+ keyboard for the system. Peel Smart Remote is included as well, to take 
+advantage of the IR blaster. After some initial trouble, we were able to get the remote app and IR blaster working with the LG and Videocon TVs in our office. It worked well and as efficiently as a normal remote. A couple of popular 
+shopping apps cannot be uninstalled, but the system is still light 
+enough to use comfortably.Despite the close resemblance to stock 
+Android, the interface on the Karbonn Titanium Mach Five doesn't have 
+quite as much control and customisability. Major options 
+that are missing are the ability to display the battery percentage in the 
+status bar (this can be fixed with third party apps), customisation for the three soft keys, and the ability to change the lock
+ screen widgets and shortcuts. Although it's a functional interface, there's very little you can do to tweak it to your personal 
+requirements, which is a bit disappointing.CameraThe 
+Karbonn Titanium Mach Five features an 8-megapixel rear camera and a 
+5-megapixel front camera. Both have flashes, 
+although the light in the front is small and not quite as bright as the 
+one at the rear. The front camera is fairly decent, and makes for good selfies and low-light shots. Colours and sharpness are at par for a 5-megapixel sensor.The camera software is good 
+for the most part, with a couple of useful features. The app uses the 
+phone's accelerometer to give you
+ a level indicator on screen that helps keep shots straight. Shooting modes, 
+filters, flash and the camera switcher are all easily accessible from 
+the default view, and focusing is quick and efficient. (Click for full-size image)However, 
+every time we opened the camera, we were subjected to a tutorial 
+screen. A tap of the back button closes the tutorial and gets you where you want to be. This is extremely bothersome as it interferes with your ability to take 
+pictures quickly, and adds an unnecessary extra step to the process of 
+using the camera. We later found that completing the tutorial once disabled it permanently, which took about 30 seconds and was not as obvious as it seems.The camera itself is surprisingly good for a 
+budget device. The 8-megapixel sensor delivers sharp, detailed pictures 
+in regular light, and loses only a little bit of sharpness and colour in
+ low light. The images are a bit dull and colours could be more vibrant,
+ but keeping the price in mind there's very little to complain about here. For
+ a Rs. 6,000 device, the Karbonn Titanium Mach Five is an impressive 
+performer in the camera department.PerformanceDay-to-day performance 
+of the Karbonn Titanium Mach Five was acceptable, with the interface 
+and most apps usually running smoothly. Benchmark figures for 
+the Mach Five were 20,084 and 9,380 on AnTuTu and Quadrant respectively,
+ both of which are higher than the scores we recorded on the Snapdragon 
+410-powered Moto E (Gen 2). GFXBench and 3DMark returned scores of 
+6.9fps and 2867 respectively, which are on the lower side and are beaten
+ by the Moto E (Gen 2). Our heavily encoded test videos had 
+trouble running on the Karbonn Titanium Mach Five, with some of them stuttering uneasily. The lighter videos were handled well
+ by the phone, as were basic casual games such as 2048 and the original Angry 
+Birds. Although the Mach Five has a 720p screen, its GPU makes it less 
+than ideal for graphics-intensive tasks.Basic phone functions such
+ as speaker volume, call quality, reception and Wi-Fi strength were all 
+about par for a budget phone. We experienced some issues with the 
+sensitivity of the touch screen, which would often read swipes as 
+touches and vice versa. The soft keys also occasionally did not register
+taps, and this definitely affected our ability to use the device 
+comfortably. Battery life was a bit on the weak side as well. The Karbonn Titanium Mach Five lasted 7
+ hours, 36 minutes in our video loop test, which is considerably less than the Moto E (Gen 2) managed. VerdictThe Karbonn Titanium Mach 
+Five has an impressive list of specifications despite its low price tag. Not too many phones under Rs. 6,000 come with 2GB RAM, a near-stock 
+Android experience, and a decent camera. The Titanium Mach Five goes further in 
+adding a front flash and an IR blaster to the equation, along with 
+out-of-the-box looks and an HD screen.Flaws in the performance 
+and software unfortunately bring the phone down. There is too little 
+customisability, and too many little touches that Android users take for 
+granted are missing altogether. Some of these 
+software-related issues could potentially be fixed via firmware updates, but if or when 
+those might come cannot be stated with any certainty. This 
+is a phone which is good in some ways and bad in others. However, at Rs.
+ 5,999, the Mach Five can appeal to budget users looking for a good 
+camera and decent display. It's definitely worth considering if you're 
+shopping for a budget device. Karbonn Titanium Mach Five in pictures
+
+
+
+Karbonn's latest launch is the 
+Titanium Mach Five. At Rs. 5,999,
+ it's definitely on the cheaper side of things, and it offers an impressive 
+list of specifications for a phone at this price. Apart from flash for the 
+5-megapixel front camera, the device also features an IR blaster and a 
+5-inch HD screen. Can these features help the Mach Five stand out in the
+ budget segment? We find out in our review.
+
+Look and feelDespite
+ being an entry-level device, The Karbonn Titanium Mach Five looks 
+interesting and has enough going for it aesthetically to stand out among 
+similarly priced competititors. The phone is available in three colours: 
+champagne, silver, and blue-white. The screen is surrounded by a 
+thick black strip, while the rest of the front is glossy and retains the 
+main colour of the device. The three soft keys sit on the chin and have 
+faint backlighting which can't really be seen except in absolute 
+darkness.
+
+The detachable rear panel has a criss-cross texture 
+which we didn't much care for. However, this is subjective, and the 
+unique pattern might appeal to some buyers. The power and volume keys sit on the detachable panel. The top of the device has the 3.5mm 
+audio port and IR blaster, while the Micro-USB port is on the bottom. At 
+7.3mm, the device is not too thick, but also not quite as slim as some of the other options available. 
+It feels comfortable enough to hold, although unevenness on the 
+sides is a bit bothersome in the hand. Considering its price, however, there are
+ no serious complaints. This phone has enough appeal to keep potential 
+buyers happy.
+
+Specifications and softwareThe Karbonn 
+Titanium Mach Five features a 5-inch 720x1280-pixel screen, 16GB 
+of internal storage (expandable by up to 32GB), and 2GB RAM. The device runs
+ on the 1.3GHz quad-core MediaTek MT6582 SoC, which is popular among 
+low-end devices such as this. The phone also has a 2,200mAh battery and 
+runs on Android 5.0.
+
+The most noteworthy competitor to the Mach Five is the Motorola Moto E (Gen 2) (Review | Pictures). The Mach
+ Five exceeds the Moto E in respect to many specifications, such as RAM, internal storage, 
+display size and resolution, and megapixel count on the cameras. On 
+paper, when compared to the Moto E (Gen 2), the Mach Five is definitely the more appealing device at 
+this price, but specifications alone rarely tell the whole story in such cases.
+
+The user interface is refreshingly light and similar to
+stock Lollipop. A lot of apps and games come preinstalled, but most of them can be removed. Furthermore, the Titanium Mach Five has the excellent SwiftKey keyboard preinstalled and set as the default
+ keyboard for the system. Peel Smart Remote is included as well, to take 
+advantage of the IR blaster. After some initial trouble, we were able to get the remote app and IR blaster working with the LG and Videocon TVs in our office. It worked well and as efficiently as a normal remote. A couple of popular 
+shopping apps cannot be uninstalled, but the system is still light 
+enough to use comfortably.
+
+Despite the close resemblance to stock 
+Android, the interface on the Karbonn Titanium Mach Five doesn't have 
+quite as much control and customisability. Major options 
+that are missing are the ability to display the battery percentage in the 
+status bar (this can be fixed with third party apps), customisation for the three soft keys, and the ability to change the lock
+ screen widgets and shortcuts. Although it's a functional interface, there's very little you can do to tweak it to your personal 
+requirements, which is a bit disappointing.
+
+CameraThe 
+Karbonn Titanium Mach Five features an 8-megapixel rear camera and a 
+5-megapixel front camera. Both have flashes, 
+although the light in the front is small and not quite as bright as the 
+one at the rear. The front camera is fairly decent, and makes for good selfies and low-light shots. Colours and sharpness are at par for a 5-megapixel sensor.
+
+The camera software is good 
+for the most part, with a couple of useful features. The app uses the 
+phone's accelerometer to give you
+ a level indicator on screen that helps keep shots straight. Shooting modes, 
+filters, flash and the camera switcher are all easily accessible from 
+the default view, and focusing is quick and efficient. 
+
+(Click for full-size image)
+
+However, 
+every time we opened the camera, we were subjected to a tutorial 
+screen. A tap of the back button closes the tutorial and gets you where you want to be. This is extremely bothersome as it interferes with your ability to take 
+pictures quickly, and adds an unnecessary extra step to the process of 
+using the camera. We later found that completing the tutorial once disabled it permanently, which took about 30 seconds and was not as obvious as it seems.
+
+The camera itself is surprisingly good for a 
+budget device. The 8-megapixel sensor delivers sharp, detailed pictures 
+in regular light, and loses only a little bit of sharpness and colour in
+ low light. The images are a bit dull and colours could be more vibrant,
+ but keeping the price in mind there's very little to complain about here. For
+ a Rs. 6,000 device, the Karbonn Titanium Mach Five is an impressive 
+performer in the camera department.
+
+PerformanceDay-to-day performance 
+of the Karbonn Titanium Mach Five was acceptable, with the interface 
+and most apps usually running smoothly. Benchmark figures for 
+the Mach Five were 20,084 and 9,380 on AnTuTu and Quadrant respectively,
+ both of which are higher than the scores we recorded on the Snapdragon 
+410-powered Moto E (Gen 2). GFXBench and 3DMark returned scores of 
+6.9fps and 2867 respectively, which are on the lower side and are beaten
+ by the Moto E (Gen 2). 
+
+Our heavily encoded test videos had 
+trouble running on the Karbonn Titanium Mach Five, with some of them stuttering uneasily. The lighter videos were handled well
+ by the phone, as were basic casual games such as 2048 and the original Angry 
+Birds. Although the Mach Five has a 720p screen, its GPU makes it less 
+than ideal for graphics-intensive tasks.
+
+Basic phone functions such
+ as speaker volume, call quality, reception and Wi-Fi strength were all 
+about par for a budget phone. We experienced some issues with the 
+sensitivity of the touch screen, which would often read swipes as 
+touches and vice versa. The soft keys also occasionally did not register
+taps, and this definitely affected our ability to use the device 
+comfortably. Battery life was a bit on the weak side as well. The Karbonn Titanium Mach Five lasted 7
+ hours, 36 minutes in our video loop test, which is considerably less than the Moto E (Gen 2) managed. 
+
+VerdictThe Karbonn Titanium Mach 
+Five has an impressive list of specifications despite its low price tag. Not too many phones under Rs. 6,000 come with 2GB RAM, a near-stock 
+Android experience, and a decent camera. The Titanium Mach Five goes further in 
+adding a front flash and an IR blaster to the equation, along with 
+out-of-the-box looks and an HD screen.
+
+Flaws in the performance 
+and software unfortunately bring the phone down. There is too little 
+customisability, and too many little touches that Android users take for 
+granted are missing altogether. Some of these 
+software-related issues could potentially be fixed via firmware updates, but if or when 
+those might come cannot be stated with any certainty. 
+
+This 
+is a phone which is good in some ways and bad in others. However, at Rs.
+ 5,999, the Mach Five can appeal to budget users looking for a good 
+camera and decent display. It's definitely worth considering if you're 
+shopping for a budget device.
+

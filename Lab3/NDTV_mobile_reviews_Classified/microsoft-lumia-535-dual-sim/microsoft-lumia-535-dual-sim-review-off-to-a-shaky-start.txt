@@ -1,0 +1,203 @@
+Microsoft Lumia 535 Dual SIM Review: Off to a Shaky Start
+
+The Lumia 535 Dual SIM is an 
+important phone for Microsoft, as its first 
+Windows Phone that has been announced globally sans the iconic Nokia branding. Will
+ the first Microsoft Lumia phone manage to uphold the legacy of 
+Nokia's great designs, build quality, 
+performance and cameras? We 
+investigate all this and more in our full review of the Microsoft Lumia 535 Dual 
+SIM.Look and feelNot much is new in the design department,
+ as the Microsoft Lumia 535 Dual SIM carries forward the same trend of 
+colourful plastic rear shells that we are accustomed to seeing with Lumia 
+phones. However, the build quality leaves a lot to 
+be desired. We were thoroughly unimpressed with the rear shell flexing when pressed, and the popping sound it makes because it doesn't fit very well. This makes us believe that the plastic used for the rear shell is not of a very high 
+quality. Our glossy orange review unit was too bright for our 
+liking. The phone is also available in cyan, bright green, white and 
+black.The phone has 
+dimensions of 140.2x72.4x8.8mm and weighs 146g. Despite its fairly large 
+body, Microsoft has fitted a 5-inch screen. As a result, there are thick bezels around the screen and the phone is wider than most other 5-inch 
+phones these days. Gripping it might be a problem for people with small hands. Microsoft uses on-screen buttons for navigation. Above the screen lie the front camera and the earpiece. There is a tiny speaker 
+grille at the bottom on the rear. The primary camera is on a slight 
+bump on the rear. The Micro-USB port is on the bottom of the phone 
+whereas the 3.5mm audio jack sits on the top. The power button and volume rocker are on 
+the right edge of the phone and they have great tactile feedback.  Beneath
+ the rear shell one can find the battery compartment, two slots for
+Micro-SIM cards, and the microSD card slot. Specifications and softwareThe
+ Lumia 535 Dual SIM rocks a Qualcomm Snapdragon 200 quad-core SoC 
+clocked at 1.2GHz. It also has 1GB of RAM and 8GB of internal storage which 
+can be expanded by up to 128GB using a microSD card. The phone 
+has 5-megapixel cameras on both the rear and the front. The primary 
+camera on the rear has a 1/4-inch sensor and a flash. The front camera on the other hand has the same 
+24mm wide angle lens as its elder sibling, the Lumia 730 Dual SIM. On the 
+connectivity front, the phone supports 3G, Wi-Fi a/b/g/n and 
+Bluetooth 4.0. It has a relatively small 1,905mAh battery. The 
+5-inch IPS LCD screen has a resolution of 540x960 (qHD) which 
+translates to a pixel density of approximately 220ppi. While this 
+screen is much better than the one on the Lumia 530 Dual SIM which had a
+ resolution of 480x800, it still doesn't cut it compared to other phones in the same price range which have much 
+better 720p panels. We could see pixellation in text. Everything looked dull, and when viewed at an angle we noticed discolouration. The 
+screen is adequately legible under direct sunlight, though. The Lumia 535
+ Dual SIM runs Windows Phone 8.1 with the latest Denim update, which adds a
+ ton of Lumia camera features. All the other usual features of Windows Phone 8.1 are present here as well. We are growing to like this operating system despite its 
+barren app store. Microsoft preloads a few quality third-party apps such as Hike, Jabong, BoxTV, Flipkart eBooks, FoodPanda, TimesCity, Twitter and
+ Facebook. Thankfully, you can uninstall them if you 
+wish to.  CameraThe Denim update adds a tonne of self-branded camera apps: Lumia Camera, Lumia Cinemagraph, 
+Lumia Creative Studio, Lumia Selfie and Lumia Storyteller. We repeat 
+what we stated in our review of the Lumia 730 Dual SIM: all this borders on overkill, but some users might actually find them all 
+useful. Lumia Camera works well for most purposes and offers loads of manual settings. (Click for full size)The 
+5-megapixel primary camera captures decent details in favourable lighting
+ conditions. We did notice a pinkish hue in some images but happened too rarely to be a major cause of concern. The camera 
+handled the contrast between shadows and light accurately. In low-light 
+situations, the camera did a decent job of letting in adequate light, but failed to manage noise. The 854x480 resolution 
+video captured by the camera is devoid of detail and not what we 
+expected from a camera of a Lumia smartphone. That said, Microsoft 
+had to cut corners somewhere. (Click for full size)The 5-megapixel front camera, on 
+the other hand, is an absolute revelation. It is as good as the one on 
+the Lumia 730 Dual SIM and we strongly believe that you cannot get a 
+better camera in this price range. The selfies we captured had a great 
+amount of detail and depth. The 24mm wide angle also helps. PerformanceOne
+ thing that annoyed us to no end was the poor response of the 
+touchscreen. Every single tap and swipe took some time to be recognised. This 
+problem was aggravated when we tried multi-touch gestures such as zooming in to
+ a photograph. This is completely unlike what we've come to expect from 
+the Lumia series of phones. Thankfully, Microsoft has acknowledged this issue 
+and has a software update in the works which will purportedly fix it. We ran a few benchmarks and the Snapdragon 200's 
+performance was close to the performance of the Snapdragon 400 in both, the Lumia 730 Dual SIM and the Lumia 830. This phone scored 11,676 points in AnTuTu and 246.26 in WPBench. For some reason, GFXBench failed to work. We tried Asphalt 8 and the gameplay was marred by 
+lags. The default video player doesn't recognise 1080p videos but
+our 720p test files worked just fine. The speaker is tinny but loud. 
+The quality of the bundled headphones is decent but they get 
+uncomfortable to wear after a while. As is typical of all Lumia phones, 
+the sound quality in calls is excellent. We didn't lose network either. 
+The battery lasted 9 hours and 25 minutes in our video loop test, 
+which is great. You can expect to squeeze at least a day and half's 
+worth of moderate usage from the Lumia 535 Dual SIM. VerdictMicrosoft's
+ first Lumia smartphone is a bit of a mixed bag. It has small flaws in 
+basic areas such as the plastic quality and the touchscreen 
+experience. This doesn't bode well for the future of a range of phones that has always been known for stellar construction quality. Moreover, 
+the price tag of Rs. 9,199 is on the high side considering 
+phones like the Motorola Moto E (Review | Pictures), Micromax Unite 2 
+(Review | Pictures), Xiaomi Redmi Note (Review | Pictures), Xiaomi Redmi
+ 1S (Review | Pictures) and Asus ZenFone 5 (Review | Pictures) all 
+perform better than the Lumia 535 Dual SIM. One department where the Microsoft phone 
+beats the pants off its competition is the camera performance. However, even if that convinces you, it would be a good idea to wait until the touchscreen issues are 
+sorted out. 
+Microsoft Lumia 535 Dual SIM in pictures
+
+The Lumia 535 Dual SIM is an 
+important phone for Microsoft, as its first 
+Windows Phone that has been announced globally sans the iconic Nokia branding. Will
+ the first Microsoft Lumia phone manage to uphold the legacy of 
+Nokia's great designs, build quality, 
+performance and cameras? We 
+investigate all this and more in our full review of the Microsoft Lumia 535 Dual 
+SIM.
+
+Look and feelNot much is new in the design department,
+ as the Microsoft Lumia 535 Dual SIM carries forward the same trend of 
+colourful plastic rear shells that we are accustomed to seeing with Lumia 
+phones. However, the build quality leaves a lot to 
+be desired. We were thoroughly unimpressed with the rear shell flexing when pressed, and the popping sound it makes because it doesn't fit very well. This makes us believe that the plastic used for the rear shell is not of a very high 
+quality. Our glossy orange review unit was too bright for our 
+liking. The phone is also available in cyan, bright green, white and 
+black.
+
+The phone has 
+dimensions of 140.2x72.4x8.8mm and weighs 146g. Despite its fairly large 
+body, Microsoft has fitted a 5-inch screen. As a result, there are thick bezels around the screen and the phone is wider than most other 5-inch 
+phones these days. Gripping it might be a problem for people with small hands. 
+
+Microsoft uses on-screen buttons for navigation. Above the screen lie the front camera and the earpiece. There is a tiny speaker 
+grille at the bottom on the rear. The primary camera is on a slight 
+bump on the rear. The Micro-USB port is on the bottom of the phone 
+whereas the 3.5mm audio jack sits on the top. The power button and volume rocker are on 
+the right edge of the phone and they have great tactile feedback.  Beneath
+ the rear shell one can find the battery compartment, two slots for
+Micro-SIM cards, and the microSD card slot. 
+
+Specifications and softwareThe
+ Lumia 535 Dual SIM rocks a Qualcomm Snapdragon 200 quad-core SoC 
+clocked at 1.2GHz. It also has 1GB of RAM and 8GB of internal storage which 
+can be expanded by up to 128GB using a microSD card. 
+
+The phone 
+has 5-megapixel cameras on both the rear and the front. The primary 
+camera on the rear has a 1/4-inch sensor and a flash. The front camera on the other hand has the same 
+24mm wide angle lens as its elder sibling, the Lumia 730 Dual SIM. On the 
+connectivity front, the phone supports 3G, Wi-Fi a/b/g/n and 
+Bluetooth 4.0. It has a relatively small 1,905mAh battery. 
+
+The 
+5-inch IPS LCD screen has a resolution of 540x960 (qHD) which 
+translates to a pixel density of approximately 220ppi. While this 
+screen is much better than the one on the Lumia 530 Dual SIM which had a
+ resolution of 480x800, it still doesn't cut it compared to other phones in the same price range which have much 
+better 720p panels. We could see pixellation in text. Everything looked dull, and when viewed at an angle we noticed discolouration. The 
+screen is adequately legible under direct sunlight, though. 
+
+The Lumia 535
+ Dual SIM runs Windows Phone 8.1 with the latest Denim update, which adds a
+ ton of Lumia camera features. All the other usual features of Windows Phone 8.1 are present here as well. We are growing to like this operating system despite its 
+barren app store. Microsoft preloads a few quality third-party apps such as Hike, Jabong, BoxTV, Flipkart eBooks, FoodPanda, TimesCity, Twitter and
+ Facebook. Thankfully, you can uninstall them if you 
+wish to.  
+
+CameraThe Denim update adds a tonne of self-branded camera apps: Lumia Camera, Lumia Cinemagraph, 
+Lumia Creative Studio, Lumia Selfie and Lumia Storyteller. We repeat 
+what we stated in our review of the Lumia 730 Dual SIM: all this borders on overkill, but some users might actually find them all 
+useful. Lumia Camera works well for most purposes and offers loads of manual settings. 
+
+(Click for full size)The 
+5-megapixel primary camera captures decent details in favourable lighting
+ conditions. We did notice a pinkish hue in some images but happened too rarely to be a major cause of concern. The camera 
+handled the contrast between shadows and light accurately. In low-light 
+situations, the camera did a decent job of letting in adequate light, but failed to manage noise. The 854x480 resolution 
+video captured by the camera is devoid of detail and not what we 
+expected from a camera of a Lumia smartphone. That said, Microsoft 
+had to cut corners somewhere. 
+
+(Click for full size)The 5-megapixel front camera, on 
+the other hand, is an absolute revelation. It is as good as the one on 
+the Lumia 730 Dual SIM and we strongly believe that you cannot get a 
+better camera in this price range. The selfies we captured had a great 
+amount of detail and depth. The 24mm wide angle also helps. 
+
+PerformanceOne
+ thing that annoyed us to no end was the poor response of the 
+touchscreen. Every single tap and swipe took some time to be recognised. This 
+problem was aggravated when we tried multi-touch gestures such as zooming in to
+ a photograph. This is completely unlike what we've come to expect from 
+the Lumia series of phones. Thankfully, Microsoft has acknowledged this issue 
+and has a software update in the works which will purportedly fix it. 
+
+We ran a few benchmarks and the Snapdragon 200's 
+performance was close to the performance of the Snapdragon 400 in both, the Lumia 730 Dual SIM and the Lumia 830. This phone scored 11,676 points in AnTuTu and 246.26 in WPBench. For some reason, GFXBench failed to work. We tried Asphalt 8 and the gameplay was marred by 
+lags. 
+
+The default video player doesn't recognise 1080p videos but
+our 720p test files worked just fine. The speaker is tinny but loud. 
+The quality of the bundled headphones is decent but they get 
+uncomfortable to wear after a while. As is typical of all Lumia phones, 
+the sound quality in calls is excellent. We didn't lose network either. 
+
+
+The battery lasted 9 hours and 25 minutes in our video loop test, 
+which is great. You can expect to squeeze at least a day and half's 
+worth of moderate usage from the Lumia 535 Dual SIM. 
+
+VerdictMicrosoft's
+ first Lumia smartphone is a bit of a mixed bag. It has small flaws in 
+basic areas such as the plastic quality and the touchscreen 
+experience. This doesn't bode well for the future of a range of phones that has always been known for stellar construction quality. 
+
+Moreover, 
+the price tag of Rs. 9,199 is on the high side considering 
+phones like the Motorola Moto E (Review | Pictures), Micromax Unite 2 
+(Review | Pictures), Xiaomi Redmi Note (Review | Pictures), Xiaomi Redmi
+ 1S (Review | Pictures) and Asus ZenFone 5 (Review | Pictures) all 
+perform better than the Lumia 535 Dual SIM. 
+
+One department where the Microsoft phone 
+beats the pants off its competition is the camera performance. However, even if that convinces you, it would be a good idea to wait until the touchscreen issues are 
+sorted out. 
+

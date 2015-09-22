@@ -1,0 +1,238 @@
+Micromax Unite 2 Review: Master of Languages
+
+The
+ Moto E runs Android 4.4.2 (Kitkat), has decent specs, and most 
+importantly, is dirt cheap. It set a new standard for phones of its 
+price, and many Indian OEMs sat up to take notice. We now have a good 
+number of phones launching with Android Kitkat, and many more are on 
+their way.One such phone is the Micromax Unite 2. Micromax tries 
+to set itself apart from the competition by providing support for 21 
+Indian languages. We review the phone and try to find out if it can be a
+ worthy competitor to the Moto E, or if it fits into a niche of its own.
+ Design, Features and SpecificationsThe Micromax Unite 2 
+is just another slab. There is absolutely nothing in the design that 
+distinguishes it from the competition. Frankly, it is unassuming and 
+boring. This might be the reason Micromax has tried multiple colour 
+options. We received the Mystic Grey edition for review, but the rear 
+cover can be swapped out, and you can get replacements in other colours 
+such as Balmy Green, Raging Red and Pristine White. The 4.7-inch device 
+is also heavier than its competition, but that actually makes it 
+reassuring to hold. The Micromax Unite 2's left edge is bare, 
+while the right edge has the volume rocker and power button. On the 
+bottom edge is a microphone, and on the top edge are the 3.5mm audio 
+jack and Micro-USB port. The rear cover is rather easy to pry open, but 
+is rather flimsy and felt like it would snap if we used even a little 
+too much pressure. On opening the rear cover, we found one regular-sized
+ SIM card slot and one Micro-SIM card slot, apart from the microSD card 
+slot.Under the hood of the Micromax Unite 2 is a Mediatek MT6582 
+quad-core processor clocked at 1.3GHz, with an integrated Mali 400MP2 
+graphics processing unit. The phone has 1GB of RAM and 4GB of internal 
+storage, of which only around 890MB is free for users. The phone also 
+has a 5-megapixel rear camera with flash which can shoot 720p videos, 
+and a 2-megapixel front camera. The 4.7-inch screen has a WVGA 
+display, which translates to a resolution of 800x480 and a pixel density of 
+approximately 199ppi. It becomes immediately apparent that the screen is
+ of low quality since jagged edges are immediately visible on icons and 
+text. Sunlight legibility and viewing angles are also not up to the 
+mark. The screen is definitely not a patch on that of the Moto E's.SoftwareIt
+ is quite heartening to see that Moto E started a trend - low-end 
+smartphones with the latest and best version of Android. Let's hope that
+ this will increase the install base of Android 4.4.2 (Kitkat). The 
+Micromax Unite 2 runs Android Kitkat and surprisingly the company 
+doesn't customise its look and feel too much. The translucent app tray 
+icon and slightly enlarged icon set make it look very similar to Android
+ Kitkat on the Nexus 5, which is very good.Despite all the 
+compliments that we could shower upon the software, Micromax's 
+insistence on adding its very own appalling bloatware is a pain, mainly 
+because most of these apps redirects to Web pages. Apps called 
+Gamesclub, M!Games and M!Live are guilty of this behaviour. The Mad app,
+ which pays users to watch advertisements after registering their phone 
+number, is also preloaded. There are trial versions of games including 
+Burn the Rope and Smash It. Coming to the most important bit, the
+ support for 21 Indian languages, Micromax claims that the Unite 2 is 
+the first phone to support so many languages. Basically, what we get is a
+ keyboard and a phonebook app called Reverie Phonebook that can be used 
+in any of these Indian languages. In the default mode, the keyboard is 
+in English and Micromax has changed the layout slightly. The caps lock 
+key is in the lower left corner and the number pad shortcut is above it,
+ instead of the other way around. Users who are accustomed to the usual 
+Android or iOS keyboard layout are bound to find this frustrating. Apart
+ from this small niggle, the keyboard is alright. Long pressing the 
+spacebar brings up the multiple language options and it is fairly easy 
+to type. However, we found that the matras in Hindi were difficult to 
+distinguish since the fonts were really small. All in all, we appreciate
+ Micromax's attempt and this feature does mean that the Unite 2 is in a 
+niche all by itself.CameraNotwithstanding the modern 
+version of Android, the camera app takes us back to the days of Android 
+2.3 (Gingerbread). It has three extra modes: Panorama, Live Shot and 
+Beauty Shot. The camera allows for basic manual settings such as 
+changing the exposure value and white balance. Fourteen scene modes are 
+buried inside the settings menu. The 5-megapixel camera is a 
+competent shooter in daylight conditions. Colours are natural and 
+details aren't bad either. There is a slight problem with focusing 
+correctly, and sometimes the background in captured images tends to get 
+overexposed. In low light, the camera falters. Also, captured 720p 
+videos are jerky and don't have very good detail. The 2-megapixel front 
+camera isn't very sensitive, and what we got was mostly underexposed 
+images. Compared to the fixed focus camera on the Moto E, the Micromax 
+Unite 2 does a fairly decent job and is definitely better. (Click for larger size)PerformanceThe
+ Moto E has a smoother UI and feels more user-friendly in daily usage, 
+but surprisingly, the Micromax Unite 2's benchmark scores are much 
+better.In our AnTuTu and Quadrant benchmarks, the Unite 2 
+returned scores of 17,643 and 8,817 which are significantly better than 
+the Moto E's numbers. However, Motorola's budget model trumps the Unite 2
+ in graphics performance, with the latter registering 9.8 fps in the 
+GFXbench test compared to the Moto E's 10.7 fps. The Unite 2 
+managed to play 720p videos without any hiccups but 1080p videos 
+stuttered occasionally. Once again, the Moto E comes out on top here. In
+ our battery test, the phone lasted six hours and 27 minutes before it 
+died. We think it should last around a day with normal use. We found 
+that the speaker's volume was low, which hampered the call quality a 
+bit. VerdictThe Micromax Unite 2 was priced at Rs. 6,999 
+at launch, the same as the Moto E, but it has come to our notice that 
+prices are higher right now with several e-commerce sellers quoting as 
+much as Rs. 7,799. Also just like the Moto E, this phone is generally 
+out of stock. Even with that inflated price, the Micromax Unite 2
+ doesn't seem like a bad deal. At this price, you'll have to settle for 
+compromises in the display quality, very little internal storage, and 
+Micromax's bloatware. The Unite 2 does have a better camera than the 
+Moto E, and the support for 21 languages will be attractive for many 
+users. We are glad that Indian brands are stepping up their efforts to 
+create competent budget phones. The under-10k segment is heating up, and
+ this makes us glad.
+Micromax Unite 2 in pictures
+
+
+The
+ Moto E runs Android 4.4.2 (Kitkat), has decent specs, and most 
+importantly, is dirt cheap. It set a new standard for phones of its 
+price, and many Indian OEMs sat up to take notice. We now have a good 
+number of phones launching with Android Kitkat, and many more are on 
+their way.
+
+One such phone is the Micromax Unite 2. Micromax tries 
+to set itself apart from the competition by providing support for 21 
+Indian languages. We review the phone and try to find out if it can be a
+ worthy competitor to the Moto E, or if it fits into a niche of its own.
+ 
+
+Design, Features and SpecificationsThe Micromax Unite 2 
+is just another slab. There is absolutely nothing in the design that 
+distinguishes it from the competition. Frankly, it is unassuming and 
+boring. This might be the reason Micromax has tried multiple colour 
+options. We received the Mystic Grey edition for review, but the rear 
+cover can be swapped out, and you can get replacements in other colours 
+such as Balmy Green, Raging Red and Pristine White. The 4.7-inch device 
+is also heavier than its competition, but that actually makes it 
+reassuring to hold. 
+
+The Micromax Unite 2's left edge is bare, 
+while the right edge has the volume rocker and power button. On the 
+bottom edge is a microphone, and on the top edge are the 3.5mm audio 
+jack and Micro-USB port. The rear cover is rather easy to pry open, but 
+is rather flimsy and felt like it would snap if we used even a little 
+too much pressure. On opening the rear cover, we found one regular-sized
+ SIM card slot and one Micro-SIM card slot, apart from the microSD card 
+slot.
+
+Under the hood of the Micromax Unite 2 is a Mediatek MT6582 
+quad-core processor clocked at 1.3GHz, with an integrated Mali 400MP2 
+graphics processing unit. The phone has 1GB of RAM and 4GB of internal 
+storage, of which only around 890MB is free for users. The phone also 
+has a 5-megapixel rear camera with flash which can shoot 720p videos, 
+and a 2-megapixel front camera. 
+
+The 4.7-inch screen has a WVGA 
+display, which translates to a resolution of 800x480 and a pixel density of 
+approximately 199ppi. It becomes immediately apparent that the screen is
+ of low quality since jagged edges are immediately visible on icons and 
+text. Sunlight legibility and viewing angles are also not up to the 
+mark. The screen is definitely not a patch on that of the Moto E's.
+
+SoftwareIt
+ is quite heartening to see that Moto E started a trend - low-end 
+smartphones with the latest and best version of Android. Let's hope that
+ this will increase the install base of Android 4.4.2 (Kitkat). The 
+Micromax Unite 2 runs Android Kitkat and surprisingly the company 
+doesn't customise its look and feel too much. The translucent app tray 
+icon and slightly enlarged icon set make it look very similar to Android
+ Kitkat on the Nexus 5, which is very good.
+
+Despite all the 
+compliments that we could shower upon the software, Micromax's 
+insistence on adding its very own appalling bloatware is a pain, mainly 
+because most of these apps redirects to Web pages. Apps called 
+Gamesclub, M!Games and M!Live are guilty of this behaviour. The Mad app,
+ which pays users to watch advertisements after registering their phone 
+number, is also preloaded. There are trial versions of games including 
+Burn the Rope and Smash It. 
+
+Coming to the most important bit, the
+ support for 21 Indian languages, Micromax claims that the Unite 2 is 
+the first phone to support so many languages. Basically, what we get is a
+ keyboard and a phonebook app called Reverie Phonebook that can be used 
+in any of these Indian languages. In the default mode, the keyboard is 
+in English and Micromax has changed the layout slightly. The caps lock 
+key is in the lower left corner and the number pad shortcut is above it,
+ instead of the other way around. Users who are accustomed to the usual 
+Android or iOS keyboard layout are bound to find this frustrating. Apart
+ from this small niggle, the keyboard is alright. Long pressing the 
+spacebar brings up the multiple language options and it is fairly easy 
+to type. However, we found that the matras in Hindi were difficult to 
+distinguish since the fonts were really small. All in all, we appreciate
+ Micromax's attempt and this feature does mean that the Unite 2 is in a 
+niche all by itself.
+
+CameraNotwithstanding the modern 
+version of Android, the camera app takes us back to the days of Android 
+2.3 (Gingerbread). It has three extra modes: Panorama, Live Shot and 
+Beauty Shot. The camera allows for basic manual settings such as 
+changing the exposure value and white balance. Fourteen scene modes are 
+buried inside the settings menu. 
+
+The 5-megapixel camera is a 
+competent shooter in daylight conditions. Colours are natural and 
+details aren't bad either. There is a slight problem with focusing 
+correctly, and sometimes the background in captured images tends to get 
+overexposed. In low light, the camera falters. Also, captured 720p 
+videos are jerky and don't have very good detail. The 2-megapixel front 
+camera isn't very sensitive, and what we got was mostly underexposed 
+images. Compared to the fixed focus camera on the Moto E, the Micromax 
+Unite 2 does a fairly decent job and is definitely better. 
+
+(Click for larger size)
+
+PerformanceThe
+ Moto E has a smoother UI and feels more user-friendly in daily usage, 
+but surprisingly, the Micromax Unite 2's benchmark scores are much 
+better.
+
+In our AnTuTu and Quadrant benchmarks, the Unite 2 
+returned scores of 17,643 and 8,817 which are significantly better than 
+the Moto E's numbers. However, Motorola's budget model trumps the Unite 2
+ in graphics performance, with the latter registering 9.8 fps in the 
+GFXbench test compared to the Moto E's 10.7 fps. 
+
+The Unite 2 
+managed to play 720p videos without any hiccups but 1080p videos 
+stuttered occasionally. Once again, the Moto E comes out on top here. In
+ our battery test, the phone lasted six hours and 27 minutes before it 
+died. We think it should last around a day with normal use. We found 
+that the speaker's volume was low, which hampered the call quality a 
+bit. 
+
+VerdictThe Micromax Unite 2 was priced at Rs. 6,999 
+at launch, the same as the Moto E, but it has come to our notice that 
+prices are higher right now with several e-commerce sellers quoting as 
+much as Rs. 7,799. Also just like the Moto E, this phone is generally 
+out of stock. 
+
+Even with that inflated price, the Micromax Unite 2
+ doesn't seem like a bad deal. At this price, you'll have to settle for 
+compromises in the display quality, very little internal storage, and 
+Micromax's bloatware. The Unite 2 does have a better camera than the 
+Moto E, and the support for 21 languages will be attractive for many 
+users. We are glad that Indian brands are stepping up their efforts to 
+create competent budget phones. The under-10k segment is heating up, and
+ this makes us glad.
+

@@ -1,0 +1,217 @@
+Asus Fonepad 7 Dual SIM Review: A Blast From the Recent Past
+
+The 7-inch tablet category has lately been seeing an influx of 
+options with voice-calling capabilities. Buyers seem to be toying with 
+the idea of screens bigger than phablets, even if such devices make them look 
+ridiculous while making calls. We've seen
+ quite a few people in the wild using Samsung Galaxy Tab 2s and 3s stuck to 
+their faces. We are trying to recollect if we actually got to see their faces, 
+though. Thankfully, others use wired/Bluetooth headsets for 
+making calls. Asus is making the most of this trend by launching 
+Fonepad variants left, right and centre. In a little more than a year, the 
+Taiwanese technology major has launched three Fonepad tablets - all of 
+them featuring SIM card support and voice calling. The latest one is the Fonepad 7 Dual SIM. Now, buyers can make phone calls on 
+two networks instead of one. The updated Fonepad 7 Dual SIM has the 
+same specs as its single-SIM sibling. Read our review to find 
+out what's changed, and if the changes are good. Look and FeelThe
+ Fonepad 7 Dual SIM has quite a few differences in the design department
+ when compared to the Fonepad 7. It is slightly heavier, at 340g, and slightly wider and thicker too. The dual 
+front-firing speakers have been replaced by a single speaker grille on the lower back of 
+the device. The back features the same white plastic panel which is 
+really glossy, reflective and attracts smudges easily. The camera is, 
+however, not protruding this time. The bare front of the 
+Asus Fonepad 7 makes way for an Asus logo below the screen on this 
+device.  The right edge features the volume rocker and power button -
+ both made of plastic. On the top, we have the Micro-USB port and 3.5mm headset jack. The plastic is slippery and we were forced to use two hands 
+for operating it most of the time. Features and specificationsThe
+ Fonepad 7 Dual SIM has a 1.2GHz dual-core Intel Atom Z2520 
+dual-core processor under the hood. Apart from this it has 8GB of internal storage of which
+ approximately 5GB is available for the users to install apps and copy 
+content. We have to make a mention of the fact that unlike other companies, Asus specifies this explicitly on the back of the box. Furthermore, users
+ can expand the storage up to 64GB by inserting a microSD card, and Asus 
+also provides 16GB of cloud storage for a year on its own 
+cloud platform. The 5-megapixel rear camera can shoot 
+videos at 1080p, and for users who like taking selfies the Fonepad Dual 
+SIM has a 1.2-megapixel front-facing camera which can capture videos at 
+720p resolution. Both the SIMs can operate on the 850/900/1800/1900 bands. The 
+device also has Bluetooth 4.0, a gyroscope and proximity sensor. The
+ 7-inch screen has a resolution of 1280x800 which is the same as
+ both the Fonepad 7 and the original Fonepad. The screen is highly 
+reflective and susceptible to smudges just like the back. Viewing 
+angles are okay but legibility is not great under sunlight. On the 
+whole, we actually liked the crispness of the screen despite its low density of 216 
+ppi.SoftwareOne look at the software and we were 
+immediately transported back to November 2013 when we reviewed the 
+Fonepad 7. Despite running Android 4.3 as opposed to Android 4.2.2 on 
+the Fonepad 7, the skin is exactly the same. The only difference is that some third-party apps have been been dropped, which is good.
+ We love it when manufacturers reduce bloatware. Asus adds a
+ fourth button to the standard three-button Android setup, which opens 
+'floating apps'. Floating apps or widgets are nothing but apps that can 
+be opened in a smaller window size to to allow multitasking across all the real estate that a 7-inch screen offers. Audiowizard is a 
+barebones app that lets users choose from a set of modes 
+which we presume are equaliser presets. Asus calls its screen enhancement tech Splendid, and there's an app of the same name that
+ lets users tweak colour settings to their liking. The rest of the apps bundled with the Fonepad 7 Dual SIM are Amazon Kindle, Zinio and a few other Asus branded apps. CameraAsus
+ has a proprietary camera app that allows users to change manual 
+settings such as ISO, exposure value and white balance. It also has a 
+severely limited set of four effects that one can apply. The 
+5-megapixel camera on the Asus Fonepad 7 Dual SIM is a mixed bag. 
+Focusing is slightly erratic but once focused, the camera manages to 
+capture images really quickly. The details captured by the camera are great but 
+the colour seems to be slightly off. The camera has a problem with the 
+auto white balance feature. We suggest changing the white balance 
+manually to suit conditions. If used with patience, the Fonepad 7 
+Dual SIM can indeed capture some good images, especially close-ups. (click to view full size)The
+quality of captured video is not that great despite the 1080p resolution. 
+The front camera takes just about serviceable photographs. PerformanceThe
+ Asus Fonepad 7 Dual SIM is one of the few Android tablets in the market to feature a 
+hyper-threaded Intel processor under the hood. In day-to-day usage, the 
+tablet performed really well and felt extremely snappy to use with nary a
+ lag. We want to present a few numbers confirming the claims. The
+ AnTuTu and Quadrant benchmarks returned scores of 15,127 and 5,940 
+respectively, which are respectable results. The GFXbech test threw up a
+ result of 9.9 fps which is neither good nor bad, and similarly, the 3DMark 
+Ice Storm scenario had a final score of 4,994. The Fonepad 7 
+played video files encoded at any resolution without any hiccups. 
+Complementing this great video performance is the audio performance. We 
+tested the audio playback on our reference earphones considering Asus 
+doesn't bundle any in the box, and we found the sound quality to be 
+really good. The only blot on the otherwise good scoresheet of the
+ Asus Fonepad 7 Dual SIM is the average sounding speaker. This is a 
+setback considering the front-firing speakers were really good on theolder model . In our battery tests, the tablet lasted us a good 9 hours, 23 minutes before we had to charge it. This bodes well for the
+ battery life of the device and we expect it to last at least two full 
+days with heavy usage. The call quality on the device is great too (yes, 
+we used a wired headset for phone calls) with absolutely no problem in 
+latching on to networks. VerdictSurprisingly, with a price of Rs.
+ 12,999, the Asus Fonepad 7 Dual SIM is in fact cheaper than its elder 
+sibling. The increased girth notwithstanding, it has all the features 
+that you would expect from a tablet in this price range - a good screen, great media playback, respectable battery life, lag-free performance 
+and a decent camera too. We can't find much fault with the device and Asus 
+seems to have hit the bullseye with this one. Other options 
+available in this price range are the Samsung Galaxy Tab 3, HP Slate 7, and Lenovo IdeaTab A3000. Asus Fonepad 7 Dual SIM in pictures
+
+
+The 7-inch tablet category has lately been seeing an influx of 
+options with voice-calling capabilities. Buyers seem to be toying with 
+the idea of screens bigger than phablets, even if such devices make them look 
+ridiculous while making calls. We've seen
+ quite a few people in the wild using Samsung Galaxy Tab 2s and 3s stuck to 
+their faces. We are trying to recollect if we actually got to see their faces, 
+though. Thankfully, others use wired/Bluetooth headsets for 
+making calls. 
+
+Asus is making the most of this trend by launching 
+Fonepad variants left, right and centre. In a little more than a year, the 
+Taiwanese technology major has launched three Fonepad tablets - all of 
+them featuring SIM card support and voice calling. The latest one is the Fonepad 7 Dual SIM. Now, buyers can make phone calls on 
+two networks instead of one. 
+
+The updated Fonepad 7 Dual SIM has the 
+same specs as its single-SIM sibling. Read our review to find 
+out what's changed, and if the changes are good. 
+
+Look and FeelThe
+ Fonepad 7 Dual SIM has quite a few differences in the design department
+ when compared to the Fonepad 7. It is slightly heavier, at 340g, and slightly wider and thicker too. The dual 
+front-firing speakers have been replaced by a single speaker grille on the lower back of 
+the device. The back features the same white plastic panel which is 
+really glossy, reflective and attracts smudges easily. The camera is, 
+however, not protruding this time. 
+
+The bare front of the 
+Asus Fonepad 7 makes way for an Asus logo below the screen on this 
+device.  The right edge features the volume rocker and power button -
+ both made of plastic. On the top, we have the Micro-USB port and 3.5mm headset jack. The plastic is slippery and we were forced to use two hands 
+for operating it most of the time. 
+
+Features and specificationsThe
+ Fonepad 7 Dual SIM has a 1.2GHz dual-core Intel Atom Z2520 
+dual-core processor under the hood. Apart from this it has 8GB of internal storage of which
+ approximately 5GB is available for the users to install apps and copy 
+content. We have to make a mention of the fact that unlike other companies, Asus specifies this explicitly on the back of the box. Furthermore, users
+ can expand the storage up to 64GB by inserting a microSD card, and Asus 
+also provides 16GB of cloud storage for a year on its own 
+cloud platform. 
+
+The 5-megapixel rear camera can shoot 
+videos at 1080p, and for users who like taking selfies the Fonepad Dual 
+SIM has a 1.2-megapixel front-facing camera which can capture videos at 
+720p resolution. Both the SIMs can operate on the 850/900/1800/1900 bands. The 
+device also has Bluetooth 4.0, a gyroscope and proximity sensor. 
+
+The
+ 7-inch screen has a resolution of 1280x800 which is the same as
+ both the Fonepad 7 and the original Fonepad. The screen is highly 
+reflective and susceptible to smudges just like the back. Viewing 
+angles are okay but legibility is not great under sunlight. On the 
+whole, we actually liked the crispness of the screen despite its low density of 216 
+ppi.
+
+SoftwareOne look at the software and we were 
+immediately transported back to November 2013 when we reviewed the 
+Fonepad 7. Despite running Android 4.3 as opposed to Android 4.2.2 on 
+the Fonepad 7, the skin is exactly the same. The only difference is that some third-party apps have been been dropped, which is good.
+ We love it when manufacturers reduce bloatware. 
+
+Asus adds a
+ fourth button to the standard three-button Android setup, which opens 
+'floating apps'. Floating apps or widgets are nothing but apps that can 
+be opened in a smaller window size to to allow multitasking across all the real estate that a 7-inch screen offers. Audiowizard is a 
+barebones app that lets users choose from a set of modes 
+which we presume are equaliser presets. Asus calls its screen enhancement tech Splendid, and there's an app of the same name that
+ lets users tweak colour settings to their liking. 
+
+The rest of the apps bundled with the Fonepad 7 Dual SIM are Amazon Kindle, Zinio and a few other Asus branded apps. 
+
+CameraAsus
+ has a proprietary camera app that allows users to change manual 
+settings such as ISO, exposure value and white balance. It also has a 
+severely limited set of four effects that one can apply. 
+
+The 
+5-megapixel camera on the Asus Fonepad 7 Dual SIM is a mixed bag. 
+Focusing is slightly erratic but once focused, the camera manages to 
+capture images really quickly. The details captured by the camera are great but 
+the colour seems to be slightly off. The camera has a problem with the 
+auto white balance feature. We suggest changing the white balance 
+manually to suit conditions. If used with patience, the Fonepad 7 
+Dual SIM can indeed capture some good images, especially close-ups. 
+
+(click to view full size)The
+quality of captured video is not that great despite the 1080p resolution. 
+The front camera takes just about serviceable photographs. 
+
+PerformanceThe
+ Asus Fonepad 7 Dual SIM is one of the few Android tablets in the market to feature a 
+hyper-threaded Intel processor under the hood. In day-to-day usage, the 
+tablet performed really well and felt extremely snappy to use with nary a
+ lag. 
+
+We want to present a few numbers confirming the claims. The
+ AnTuTu and Quadrant benchmarks returned scores of 15,127 and 5,940 
+respectively, which are respectable results. The GFXbech test threw up a
+ result of 9.9 fps which is neither good nor bad, and similarly, the 3DMark 
+Ice Storm scenario had a final score of 4,994. 
+
+The Fonepad 7 
+played video files encoded at any resolution without any hiccups. 
+Complementing this great video performance is the audio performance. We 
+tested the audio playback on our reference earphones considering Asus 
+doesn't bundle any in the box, and we found the sound quality to be 
+really good. The only blot on the otherwise good scoresheet of the
+ Asus Fonepad 7 Dual SIM is the average sounding speaker. This is a 
+setback considering the front-firing speakers were really good on theolder model . 
+
+In our battery tests, the tablet lasted us a good 9 hours, 23 minutes before we had to charge it. This bodes well for the
+ battery life of the device and we expect it to last at least two full 
+days with heavy usage. The call quality on the device is great too (yes, 
+we used a wired headset for phone calls) with absolutely no problem in 
+latching on to networks. 
+
+VerdictSurprisingly, with a price of Rs.
+ 12,999, the Asus Fonepad 7 Dual SIM is in fact cheaper than its elder 
+sibling. The increased girth notwithstanding, it has all the features 
+that you would expect from a tablet in this price range - a good screen, great media playback, respectable battery life, lag-free performance 
+and a decent camera too. We can't find much fault with the device and Asus 
+seems to have hit the bullseye with this one. Other options 
+available in this price range are the Samsung Galaxy Tab 3, HP Slate 7, and Lenovo IdeaTab A3000.
+

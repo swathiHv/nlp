@@ -1,0 +1,340 @@
+Lenovo S860 Review: Bucking Trends and Breaking Rules
+
+Some phones boast about being the slimmest in the world. Some aim to 
+be the lightest. Not the Lenovo S860. Next to any of today's waif-like 
+smartphones, this one looks like a military tank. It's unapologetically 
+hefty, but promises one massive feature that many other companies have 
+chosen to let slide over the years: multiple-day battery life. As
+ competition intensifies, every manufacturer in the world has raced to 
+shave every possible bit of weight and thickness while still cramming 
+more and more features in. Huge high-resolution screens, powerful 
+processors, always-on sensors and high-speed data connections all take a
+ toll on battery life, but few people would be willing to sacrifice 
+style in order to make room for a bigger, heavier battery.Lenovo at least seems to be willing to take a chance, and we welcome the break from convention.Look and feelSo,
+ the Lenovo S860 isn't concerned with being slim or light, but just how 
+far does it go in the opposite direction? The answer, it seems, is a bit
+ too far. The S860 is a hulking beast of a phone by today's standards. 
+At 10.3mm and 190g, it's the thickest and heaviest handset we've seen in
+ a very long time. It also looks too plain to make up for this. Despite 
+the promise of a phenomenal battery, a lot of people will be put off.This
+ is definitely not the most comfortable phone to hold or use with one 
+hand. In addition to its weight, it's difficult to reach all corners of 
+the relatively large screen thanks to the phone's thickness. The 
+S860 is a very unassuming brick with no real distinguishing features on 
+the front. You can just about discern the earpiece, front camera and 
+notification LED above the screen. The capacitive buttons are hidden and
+ don't light up until they're touched, which makes it a bit difficult to
+ find them when needed. The sides and back have a metallic 
+finish, though only the back looks brushed. Lenovo calls its colour 
+Titanium but it's more like a very subtle purple. The cutouts for the 
+camera lens and flash are centred on the back and chamfered to give them
+ a silver-ringed look. Right below them is a huge Lenovo logo embossed 
+in a mirror-finish metal. The rear panel isn't removable, and the
+ two Micro-SIM cards sit side-by-side in a single tray on the phone's 
+left side. The power button and volume rocker are on the right. There's 
+only a standard 3.5mm headset socket on the top, but the Micro-USB port 
+on the bottom is flanked by twin speaker grilles. Hopefully, the phone's
+ large body will allow for decent speakers.Specifications and softwareThe
+ S860 also isn't very exciting when it comes to its specifications. It 
+has a decidedly mid-range quad-core MediaTek MT6582 SoC running at 
+1.3GHz but there's a healthy 2GB of RAM. Storage is limited to the 16GB 
+of onboard flash memory, since there's no microSD card slot.The 
+screen measures 5.3 inches diagonally but its resolution is only 
+720x1280. Considering the number of 1080p phones now available at 
+mid-range prices, this isn't all that impressive. You get Wi-Fi b/g/n, 
+but the older Bluetooth 3.0 standard which means popular low-energy 
+accessories aren't supported. The most interesting feature of the
+ Lenovo S860 is its 4,000mAh battery which is around twice as large as 
+most phones offer these days. There's also an additional trick: using 
+the included USB OTG adapter, you can plug other devices into the S860 
+to charge them. This could come in handy in a pinch, but only as long as
+ you have an OTG adapter handy (which, honestly, isn't ever likely to be
+ the case). Unsurprisingly, the phone comes with a rather hefty 2-Ampere
+ charger.Even though it was launched relatively recently, 
+everything about the S860 already feels about one generation too old - 
+that's how fast things move in this industry.The S860 
+comes running Android 4.2 but an update to version 4.4.2 is already 
+available and you can download it as soon as you take the phone out of 
+its box. Lenovo has stuck with the same skin and suite of apps we've 
+already seen on the Lenovo S660 and Vibe Z this year, but it's a little 
+brighter, with more colourful icons. We would prefer to have separate 
+homescreens for widgets and an app drawer for shortcuts, but these are 
+all mixed together. Once you fill up your menu pages, rearranging icons 
+and widgets becomes quite painful.The notifications shade is well
+ designed, with a row of five shortcut icons that can be pulled 
+downwards to show 11 more shortcuts. You can lock apps in the task 
+switcher so you don't shut them down accidentally. There's a tab in the 
+Settings app called Feature Settings which shows the controls for 
+Lenovo's own Android enhancements. You can enable a floating one-touch 
+shortcuts panel, unlock the screen with a swipe even when it's off, and 
+make the phone keypad (but nothing else) stick to one side of the screen
+ for easy one-thumb dialling. There are also that let you lock the phone
+ by shaking it, delay locking if your face is in front of the phone, 
+increase the ringtone volume when the phone is in a pocket, and 
+automatically dial numbers when you raise the phone to your face.Smart
+ Scenes lets you define a Wi-Fi network preference and ringing profile 
+during a fixed time interval on weekdays and/or weekends, but this is 
+not the same as geofencing which actually detects where you are using 
+GPS.Lenovo's SYNCit and SHAREit apps are preinstalled, and 
+they're fairly useful. The former lets you back up and restore your 
+contacts, messages and call log while the latter requires both the 
+sender and recipient to have it in order to exchange files.SECUREit
+ appears to have been renamed to just plain Security, but it still 
+includes antivirus, privacy, data usage, anti-spam, anti-theft, cleanup,
+ parental control and private storage features. The comprehensive Power 
+Manager app gives you detailed battery usage stats and helps you gauge 
+how much time you have till the battery runs down. It also lets you 
+recalibrate the battery usage meter and switch into a power saving mode 
+which prevents apps from running and using data in the background, and 
+an emergency mode which shuts down all functions other than calling and 
+messaging.Chrome and UC Browser are both preinstalled, along with
+ AccuWeather, Kingsoft Office, Evernote, Facebook, Twitter, Skype, and a
+ few "freemium" Ubisoft games.CameraThe Lenovo S860's 
+camera performance came as a pleasant surprise. Photos were mostly clean
+ and subtle details were visible across shots taken in a variety of 
+lighting conditions. There tended to be a little fuzziness at medium to 
+long distances and colours were just a little too muted for our liking, 
+but the overall quality was highly impressive. Close-up shots 
+were outstanding, and photos taken in the right light were adequately 
+sharp even when viewed on a big screen at 100 percent. Photos taken 
+indoors were a bit grainy but still perfectly usable when scaled down to
+ normal proportions. (Click to see full size)Low-light performance was mixed - many of 
+our test shots came out fuzzy and with poor detail when there was really
+ no illumination at all, but the flash was quite powerful and quality 
+improved with every little bit of added light.Video was fine, for
+ the most part. The default recording resolution is 720p but it can be 
+bumped up to 1080p. Detail levels were just about okay and we had 
+trouble with light and dark areas within the same frame, but videos came
+ out smooth and sound was captured quite well.(Click to see full size)Lenovo's camera app
+ is clean and minimal. You have controls for the flash, HDR mode, 
+creative filters and timer right on screen, while other settings such as
+ exposure, white balance, ISO and focus mode are in a menu. There are 
+dedicated modes for picture-in-picture, panorama, macro, face beauty and
+ EV bracketing.PerformanceWe were pretty disappointed with
+ the benchmark results posted by the Lenovo S860. Mediatek's MT6582 just
+ isn't a great performer, especially in the graphics department, and it 
+shows. The GFXbench result was a substandard 7.1fps, and 3DMark's 
+low-spec Ice Storm test for 720p devices returned only 3141 points. 
+AnTuTu and Quadrant scored 17,096 and 8,667 points respectively. Some of
+ these scores are lower than or at par with those of recently released 
+sub-Rs. 10,000 phones such as the Asus Zenfone 4 and Zenfone 5. The 
+perpetually-sold-out Xiaomi Mi 3 (Review | Pictures) of course blows them all away.The
+ S860 handled our 1080p test videos quite well, except for a bit of 
+artefacting in our most heavily encoded file. Casual games ran 
+reasonably well. Only one of the two symmetrical grilles on the phone's 
+bottom is a speaker. The sound it produced was loud and rich, but 
+distorted at high volume.Of course we were most excited to see 
+how well the battery would hold up. With a capacity of 4,000mAh, we were
+ expecting the S860's battery to power it through 14 or more hours in 
+our video loop test (and were fully geared up to monitor it for that 
+long) but we were disappointed yet again. The S860 ran for 9 hours and 2
+ minutes - which is still fantastic by any standard - but isn't quite as
+ much as we would have really liked.  VerdictThe Lenovo 
+S860 does not perform as well as the current crop of popular mid-range 
+Android phones such as the Xiaomi Mi 3 and Asus Zenfone 5 (Review | Pictures). Considering 
+it's priced higher than either of those two devices, things really don't
+ look good for it.The battery is of course a compelling argument 
+in favour of the S860. You should be able to get at least a day and a 
+half worth of uninterrupted usage including a reasonable amount of time 
+spent on calls, messaging, Web surfing, gaming and watching videos - but
+ as tempting as that sounds, you'll have to decide whether it's worth 
+putting up with this phone's bulk, weight, and average performance.  Lenovo S860 in pictures
+
+Some phones boast about being the slimmest in the world. Some aim to 
+be the lightest. Not the Lenovo S860. Next to any of today's waif-like 
+smartphones, this one looks like a military tank. It's unapologetically 
+hefty, but promises one massive feature that many other companies have 
+chosen to let slide over the years: multiple-day battery life. 
+
+As
+ competition intensifies, every manufacturer in the world has raced to 
+shave every possible bit of weight and thickness while still cramming 
+more and more features in. Huge high-resolution screens, powerful 
+processors, always-on sensors and high-speed data connections all take a
+ toll on battery life, but few people would be willing to sacrifice 
+style in order to make room for a bigger, heavier battery.
+
+Lenovo at least seems to be willing to take a chance, and we welcome the break from convention.
+
+Look and feelSo,
+ the Lenovo S860 isn't concerned with being slim or light, but just how 
+far does it go in the opposite direction? The answer, it seems, is a bit
+ too far. The S860 is a hulking beast of a phone by today's standards. 
+At 10.3mm and 190g, it's the thickest and heaviest handset we've seen in
+ a very long time. It also looks too plain to make up for this. Despite 
+the promise of a phenomenal battery, a lot of people will be put off.
+
+This
+ is definitely not the most comfortable phone to hold or use with one 
+hand. In addition to its weight, it's difficult to reach all corners of 
+the relatively large screen thanks to the phone's thickness. 
+
+The 
+S860 is a very unassuming brick with no real distinguishing features on 
+the front. You can just about discern the earpiece, front camera and 
+notification LED above the screen. The capacitive buttons are hidden and
+ don't light up until they're touched, which makes it a bit difficult to
+ find them when needed. 
+
+The sides and back have a metallic 
+finish, though only the back looks brushed. Lenovo calls its colour 
+Titanium but it's more like a very subtle purple. The cutouts for the 
+camera lens and flash are centred on the back and chamfered to give them
+ a silver-ringed look. Right below them is a huge Lenovo logo embossed 
+in a mirror-finish metal. 
+
+The rear panel isn't removable, and the
+ two Micro-SIM cards sit side-by-side in a single tray on the phone's 
+left side. The power button and volume rocker are on the right. There's 
+only a standard 3.5mm headset socket on the top, but the Micro-USB port 
+on the bottom is flanked by twin speaker grilles. Hopefully, the phone's
+ large body will allow for decent speakers.
+
+Specifications and softwareThe
+ S860 also isn't very exciting when it comes to its specifications. It 
+has a decidedly mid-range quad-core MediaTek MT6582 SoC running at 
+1.3GHz but there's a healthy 2GB of RAM. Storage is limited to the 16GB 
+of onboard flash memory, since there's no microSD card slot.
+
+The 
+screen measures 5.3 inches diagonally but its resolution is only 
+720x1280. Considering the number of 1080p phones now available at 
+mid-range prices, this isn't all that impressive. You get Wi-Fi b/g/n, 
+but the older Bluetooth 3.0 standard which means popular low-energy 
+accessories aren't supported. 
+
+The most interesting feature of the
+ Lenovo S860 is its 4,000mAh battery which is around twice as large as 
+most phones offer these days. There's also an additional trick: using 
+the included USB OTG adapter, you can plug other devices into the S860 
+to charge them. This could come in handy in a pinch, but only as long as
+ you have an OTG adapter handy (which, honestly, isn't ever likely to be
+ the case). Unsurprisingly, the phone comes with a rather hefty 2-Ampere
+ charger.
+
+Even though it was launched relatively recently, 
+everything about the S860 already feels about one generation too old - 
+that's how fast things move in this industry.
+
+The S860 
+comes running Android 4.2 but an update to version 4.4.2 is already 
+available and you can download it as soon as you take the phone out of 
+its box. Lenovo has stuck with the same skin and suite of apps we've 
+already seen on the Lenovo S660 and Vibe Z this year, but it's a little 
+brighter, with more colourful icons. We would prefer to have separate 
+homescreens for widgets and an app drawer for shortcuts, but these are 
+all mixed together. Once you fill up your menu pages, rearranging icons 
+and widgets becomes quite painful.
+
+The notifications shade is well
+ designed, with a row of five shortcut icons that can be pulled 
+downwards to show 11 more shortcuts. You can lock apps in the task 
+switcher so you don't shut them down accidentally. There's a tab in the 
+Settings app called Feature Settings which shows the controls for 
+Lenovo's own Android enhancements. You can enable a floating one-touch 
+shortcuts panel, unlock the screen with a swipe even when it's off, and 
+make the phone keypad (but nothing else) stick to one side of the screen
+ for easy one-thumb dialling. There are also that let you lock the phone
+ by shaking it, delay locking if your face is in front of the phone, 
+increase the ringtone volume when the phone is in a pocket, and 
+automatically dial numbers when you raise the phone to your face.
+
+Smart
+ Scenes lets you define a Wi-Fi network preference and ringing profile 
+during a fixed time interval on weekdays and/or weekends, but this is 
+not the same as geofencing which actually detects where you are using 
+GPS.
+
+Lenovo's SYNCit and SHAREit apps are preinstalled, and 
+they're fairly useful. The former lets you back up and restore your 
+contacts, messages and call log while the latter requires both the 
+sender and recipient to have it in order to exchange files.
+
+SECUREit
+ appears to have been renamed to just plain Security, but it still 
+includes antivirus, privacy, data usage, anti-spam, anti-theft, cleanup,
+ parental control and private storage features. The comprehensive Power 
+Manager app gives you detailed battery usage stats and helps you gauge 
+how much time you have till the battery runs down. It also lets you 
+recalibrate the battery usage meter and switch into a power saving mode 
+which prevents apps from running and using data in the background, and 
+an emergency mode which shuts down all functions other than calling and 
+messaging.
+
+Chrome and UC Browser are both preinstalled, along with
+ AccuWeather, Kingsoft Office, Evernote, Facebook, Twitter, Skype, and a
+ few "freemium" Ubisoft games.
+
+CameraThe Lenovo S860's 
+camera performance came as a pleasant surprise. Photos were mostly clean
+ and subtle details were visible across shots taken in a variety of 
+lighting conditions. There tended to be a little fuzziness at medium to 
+long distances and colours were just a little too muted for our liking, 
+but the overall quality was highly impressive. 
+
+Close-up shots 
+were outstanding, and photos taken in the right light were adequately 
+sharp even when viewed on a big screen at 100 percent. Photos taken 
+indoors were a bit grainy but still perfectly usable when scaled down to
+ normal proportions. 
+
+(Click to see full size)
+
+Low-light performance was mixed - many of 
+our test shots came out fuzzy and with poor detail when there was really
+ no illumination at all, but the flash was quite powerful and quality 
+improved with every little bit of added light.
+
+Video was fine, for
+ the most part. The default recording resolution is 720p but it can be 
+bumped up to 1080p. Detail levels were just about okay and we had 
+trouble with light and dark areas within the same frame, but videos came
+ out smooth and sound was captured quite well.
+
+(Click to see full size)
+
+Lenovo's camera app
+ is clean and minimal. You have controls for the flash, HDR mode, 
+creative filters and timer right on screen, while other settings such as
+ exposure, white balance, ISO and focus mode are in a menu. There are 
+dedicated modes for picture-in-picture, panorama, macro, face beauty and
+ EV bracketing.
+
+PerformanceWe were pretty disappointed with
+ the benchmark results posted by the Lenovo S860. Mediatek's MT6582 just
+ isn't a great performer, especially in the graphics department, and it 
+shows. The GFXbench result was a substandard 7.1fps, and 3DMark's 
+low-spec Ice Storm test for 720p devices returned only 3141 points. 
+AnTuTu and Quadrant scored 17,096 and 8,667 points respectively. Some of
+ these scores are lower than or at par with those of recently released 
+sub-Rs. 10,000 phones such as the Asus Zenfone 4 and Zenfone 5. The 
+perpetually-sold-out Xiaomi Mi 3 (Review | Pictures) of course blows them all away.
+
+The
+ S860 handled our 1080p test videos quite well, except for a bit of 
+artefacting in our most heavily encoded file. Casual games ran 
+reasonably well. Only one of the two symmetrical grilles on the phone's 
+bottom is a speaker. The sound it produced was loud and rich, but 
+distorted at high volume.
+
+Of course we were most excited to see 
+how well the battery would hold up. With a capacity of 4,000mAh, we were
+ expecting the S860's battery to power it through 14 or more hours in 
+our video loop test (and were fully geared up to monitor it for that 
+long) but we were disappointed yet again. The S860 ran for 9 hours and 2
+ minutes - which is still fantastic by any standard - but isn't quite as
+ much as we would have really liked.  
+
+VerdictThe Lenovo 
+S860 does not perform as well as the current crop of popular mid-range 
+Android phones such as the Xiaomi Mi 3 and Asus Zenfone 5 (Review | Pictures). Considering 
+it's priced higher than either of those two devices, things really don't
+ look good for it.
+
+The battery is of course a compelling argument 
+in favour of the S860. You should be able to get at least a day and a 
+half worth of uninterrupted usage including a reasonable amount of time 
+spent on calls, messaging, Web surfing, gaming and watching videos - but
+ as tempting as that sounds, you'll have to decide whether it's worth 
+putting up with this phone's bulk, weight, and average performance. 
+

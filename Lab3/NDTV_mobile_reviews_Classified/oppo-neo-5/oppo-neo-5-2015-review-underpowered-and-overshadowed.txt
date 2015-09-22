@@ -1,0 +1,255 @@
+Oppo Neo 5 (2015) Review: Underpowered and Overshadowed
+
+Oppo made quite a splash 
+when it debuted in India, being one of the first value-minded brands to 
+compete with the likes of Samsung and Sony. Since then, things have 
+slowed down a bit with newer launches from Xiaomi, Coolpad and other 
+smaller Chinese brands stealing Oppo's thunder. Value charts have been 
+rewritten countless times in the past year and we've now come to a point
+ where some truly remarkable devices are available for less than Rs. 
+10,000 - devices that would have cost twice as much not too long ago.The
+ company's latest launch is the Oppo Neo 5 (2015), which replaces an 
+older model also named Oppo Neo 5 but looks nothing like it. Priced at 
+Rs. 9,990, it will have to fend off the horde of capable budget devices 
+currently available in the market, several of which are priced 
+significantly lower, at Rs. 5,999 or even less. This will be an 
+interesting competition.Look and feelWhen we look at the 
+Oppo Neo 5 (2015), we can't help but feel we've seen it before. That's 
+because the design formula of a flat front and back with a metallic band
+ around the sides has been done to death by multiple companies, all 
+trying to ape the iconic iPhone 4/4S look. Lava's Iris Pro models, in 
+particular, stand out as examples of this.Our review unit was 
+made of white plastic with a dull gold band. The capacitive button icons
+ below the screen and the rings around the camera lens and flash on the 
+rear are also metallic, but for some reason, silver. The phone is tall 
+and narrow, with quite a lot of white space above and below the screen 
+but relatively thin borders on the sides. The only real flash of 
+personality this phone has is the patterned speaker grille on the lower 
+rear.The power button is on the left and the volume rocker on the
+ right, which took some getting used to. There's only a 3.5mm audio jack
+ on top and the Micro-USB port and a mic hole on the bottom. The rear 
+panel is removable but the battery is sealed in - you'll find only one 
+Micro-SIM slot, one Nano-SIM slot and a microSD slot.The 
+construction quality of the phone as well as its bundled accessories 
+seems good. In terms of grip, we definitely prefer curves over hard 
+edges like the ones the Neo 5 (2015) has, and it dug into our palms with
+ prolonged usage. The top edge also felt scratchy against our ears.Specifications and softwareConsidering
+ its price, the Oppo Neo 5 (2015) comes across as a phone that's out of 
+touch with the current market scenario. While 720p screens have become 
+common at much lower price points, this phone has a lowly resolution of 
+480x854, which translates to a density of just 218ppi at 4.5 inches 
+diagonally. The difference is immediately apparent, and we were 
+underwhelmed from the moment we turned this phone on. The 
+processor is a MediaTek MT6582, which was quite common in last year's 
+bargain-basement phones. It has four cores running at 1.3GHz, and 
+integrated Mali-400MP2 graphics. The 1GB of RAM is also disappointing. 
+8GB of storage is not too bad, but you can bump that up by only 32GB 
+using a microSD card. Thankfully there's USB-OTG support. You 
+also get Wi-Fi b/g/n, Bluetooth 4.0, FM radio and A-GPS, but no 4G. 
+There's an accelerometer, compass, ambient light sensor and proximity 
+sensor. The non-removable battery is rated at 2,000mAh. The primary 
+camera has an 8-megapixel sensor but is limited to 720p video recording,
+ and the secondary camera comes in at 2 megapixels.Oppo's custom 
+skin is called Color OS, and we've used it before. Unfortunately the Neo
+ 5 (2015) is still based on Android 4.4.2. You can choose from a handful
+ of widgets, wallpapers, effects and themes, which give you some 
+cosmetic control over the interface. The task switcher is called up by 
+long-tapping the capacitive Menu button. Oppo bundles a Security Centre 
+app that, despite its name, also includes a power manager, notifications
+ disabler, data monitor and memory cleanup tool. Guest Mode lets 
+you designate contacts, photos and apps that are hidden from prying 
+eyes, and Permission Monitor lets you see what your apps are doing 
+behind your back. We aren't really fans of Oppo's custom keyboard and 
+icons, and the photos app felt sluggish. On the other hand, it was nice 
+to have lots of quick toggles in the notifications shade, and the 
+Settings app is neatly organised.Overall, the spec sheet reads 
+like one we should have come across a year or more ago. The Oppo Neo 5 
+(2015) is thoroughly outmatched by its competition today. It almost 
+feels as though the company designed this model last year but only just 
+found a few crates full of them sitting forgotten in a warehouse 
+somewhere and decided to sell them anyway (we checked, though, and our 
+review unit's date of manufacturing was June 2015). Oppo knows this but 
+points to its camera quality and other intangible features that make up 
+for it, which we will have to see for ourselves.PerformanceWe
+ went into the benchmarking phase of our review with low expectations, 
+and were not surprised by what we found. The Neo 5 (2015) seemed to do 
+okay with day-to-day usage, but struggled with our tests indicating that
+ heavy games and apps wouldn't run. If you like bouncing between lots of
+ apps and browser tabs, you might run into bottlenecks that other phones
+ in the market today do not face.Despite the low-resolution 
+screen, graphics scores were terrible. The phone was only able to push 
+out 9.6fps in GFXbench, and the scores of 3,228 and 2,090 respectively 
+in 3DMark Ice Storm and Ice Storm Extreme were well below current 
+averages. AnTuTu and Quadrant's scores came in at 18,703 and 7,269 
+respectively. Contrary to Oppo's hopes, we were disappointed with
+ the camera. Shots taken on a slightly cloudy day in Mumbai came out 
+overexposed and full of noise. There was no pop to the colours we 
+captured, and detailing and texture were completely lost. Things 
+deteriorated even further when inspected at full size on a desktop 
+monitor. Shots taken at night were completely unusable unless there was a
+ lot of incident light. The flash worked to light subjects up, but 
+robbed them of whatever little detail they might have had. We've seen a 
+lot better from phones that cost a lot less.(Click to see full size)The Oppo Neo 5 (2015)
+ had trouble with our heavier 1080p video files, but 720p ones played 
+without artefacts or stuttering. The speaker on the back proved to be 
+pretty loud and sound was clear at high volumes, though not very rich or
+ warm. Battery life was the biggest silver lining to this phone's dark 
+cloud; we were able to get a respectable 8 hours, 19 minutes of runtime 
+in our video loop test. We were also pleased to see that the battery 
+level didn't dip much when the phone was left idle. We'd expect users to
+ get at least a full day out of each charge.VerdictIt is 
+clear that this phone is overpriced and thus cannot hope to compete in 
+terms of features and specifications alone. Therefore, we spent quite a 
+bit of time looking for evidence of any redeeming factor, including the 
+camera, which Oppo itself pointed out to us. Our findings show that it 
+will take a lot to remain competitive in the low-cost smartphone market,
+ and even those who disrupted the market at one time can have the carpet
+ pulled out from under then. We'd advise anyone interested in 
+this phone to do a quick scan of the market and compare prices, 
+specifications and benchmark numbers. The Xiaomi Redmi 2 (Review | Pictures) Coolpad Dazen 1
+ (Review | Pictures) and Lenovo A6000 Plus (Review | Pictures) are just a few of the lower-priced choices that 
+perform just as well as or better than this phone. At the same price 
+level, you could also consider the Infocus M330 (Review) and Lenovo K3 Note, or 
+for just a little more there's the Motorola Moto G (Gen 2) (Review | Pictures). 
+
+The
+ company's latest launch is the Oppo Neo 5 (2015), which replaces an 
+older model also named Oppo Neo 5 but looks nothing like it. Priced at 
+Rs. 9,990, it will have to fend off the horde of capable budget devices 
+currently available in the market, several of which are priced 
+significantly lower, at Rs. 5,999 or even less. This will be an 
+interesting competition.
+
+Look and feelWhen we look at the 
+Oppo Neo 5 (2015), we can't help but feel we've seen it before. That's 
+because the design formula of a flat front and back with a metallic band
+ around the sides has been done to death by multiple companies, all 
+trying to ape the iconic iPhone 4/4S look. Lava's Iris Pro models, in 
+particular, stand out as examples of this.
+
+Our review unit was 
+made of white plastic with a dull gold band. The capacitive button icons
+ below the screen and the rings around the camera lens and flash on the 
+rear are also metallic, but for some reason, silver. The phone is tall 
+and narrow, with quite a lot of white space above and below the screen 
+but relatively thin borders on the sides. The only real flash of 
+personality this phone has is the patterned speaker grille on the lower 
+rear.
+
+The power button is on the left and the volume rocker on the
+ right, which took some getting used to. There's only a 3.5mm audio jack
+ on top and the Micro-USB port and a mic hole on the bottom. The rear 
+panel is removable but the battery is sealed in - you'll find only one 
+Micro-SIM slot, one Nano-SIM slot and a microSD slot.
+
+The 
+construction quality of the phone as well as its bundled accessories 
+seems good. In terms of grip, we definitely prefer curves over hard 
+edges like the ones the Neo 5 (2015) has, and it dug into our palms with
+ prolonged usage. The top edge also felt scratchy against our ears.
+
+Specifications and softwareConsidering
+ its price, the Oppo Neo 5 (2015) comes across as a phone that's out of 
+touch with the current market scenario. While 720p screens have become 
+common at much lower price points, this phone has a lowly resolution of 
+480x854, which translates to a density of just 218ppi at 4.5 inches 
+diagonally. The difference is immediately apparent, and we were 
+underwhelmed from the moment we turned this phone on. 
+
+The 
+processor is a MediaTek MT6582, which was quite common in last year's 
+bargain-basement phones. It has four cores running at 1.3GHz, and 
+integrated Mali-400MP2 graphics. The 1GB of RAM is also disappointing. 
+8GB of storage is not too bad, but you can bump that up by only 32GB 
+using a microSD card. Thankfully there's USB-OTG support. 
+
+You 
+also get Wi-Fi b/g/n, Bluetooth 4.0, FM radio and A-GPS, but no 4G. 
+There's an accelerometer, compass, ambient light sensor and proximity 
+sensor. The non-removable battery is rated at 2,000mAh. The primary 
+camera has an 8-megapixel sensor but is limited to 720p video recording,
+ and the secondary camera comes in at 2 megapixels.
+
+Oppo's custom 
+skin is called Color OS, and we've used it before. Unfortunately the Neo
+ 5 (2015) is still based on Android 4.4.2. You can choose from a handful
+ of widgets, wallpapers, effects and themes, which give you some 
+cosmetic control over the interface. The task switcher is called up by 
+long-tapping the capacitive Menu button. Oppo bundles a Security Centre 
+app that, despite its name, also includes a power manager, notifications
+ disabler, data monitor and memory cleanup tool. 
+
+Guest Mode lets 
+you designate contacts, photos and apps that are hidden from prying 
+eyes, and Permission Monitor lets you see what your apps are doing 
+behind your back. We aren't really fans of Oppo's custom keyboard and 
+icons, and the photos app felt sluggish. On the other hand, it was nice 
+to have lots of quick toggles in the notifications shade, and the 
+Settings app is neatly organised.
+
+Overall, the spec sheet reads 
+like one we should have come across a year or more ago. The Oppo Neo 5 
+(2015) is thoroughly outmatched by its competition today. It almost 
+feels as though the company designed this model last year but only just 
+found a few crates full of them sitting forgotten in a warehouse 
+somewhere and decided to sell them anyway (we checked, though, and our 
+review unit's date of manufacturing was June 2015). Oppo knows this but 
+points to its camera quality and other intangible features that make up 
+for it, which we will have to see for ourselves.
+
+PerformanceWe
+ went into the benchmarking phase of our review with low expectations, 
+and were not surprised by what we found. The Neo 5 (2015) seemed to do 
+okay with day-to-day usage, but struggled with our tests indicating that
+ heavy games and apps wouldn't run. If you like bouncing between lots of
+ apps and browser tabs, you might run into bottlenecks that other phones
+ in the market today do not face.
+
+Despite the low-resolution 
+screen, graphics scores were terrible. The phone was only able to push 
+out 9.6fps in GFXbench, and the scores of 3,228 and 2,090 respectively 
+in 3DMark Ice Storm and Ice Storm Extreme were well below current 
+averages. AnTuTu and Quadrant's scores came in at 18,703 and 7,269 
+respectively. 
+
+Contrary to Oppo's hopes, we were disappointed with
+ the camera. Shots taken on a slightly cloudy day in Mumbai came out 
+overexposed and full of noise. There was no pop to the colours we 
+captured, and detailing and texture were completely lost. Things 
+deteriorated even further when inspected at full size on a desktop 
+monitor. Shots taken at night were completely unusable unless there was a
+ lot of incident light. The flash worked to light subjects up, but 
+robbed them of whatever little detail they might have had. We've seen a 
+lot better from phones that cost a lot less.
+
+(Click to see full size)
+
+The Oppo Neo 5 (2015)
+ had trouble with our heavier 1080p video files, but 720p ones played 
+without artefacts or stuttering. The speaker on the back proved to be 
+pretty loud and sound was clear at high volumes, though not very rich or
+ warm. Battery life was the biggest silver lining to this phone's dark 
+cloud; we were able to get a respectable 8 hours, 19 minutes of runtime 
+in our video loop test. We were also pleased to see that the battery 
+level didn't dip much when the phone was left idle. We'd expect users to
+ get at least a full day out of each charge.
+
+VerdictIt is 
+clear that this phone is overpriced and thus cannot hope to compete in 
+terms of features and specifications alone. Therefore, we spent quite a 
+bit of time looking for evidence of any redeeming factor, including the 
+camera, which Oppo itself pointed out to us. Our findings show that it 
+will take a lot to remain competitive in the low-cost smartphone market,
+ and even those who disrupted the market at one time can have the carpet
+ pulled out from under then. 
+
+We'd advise anyone interested in 
+this phone to do a quick scan of the market and compare prices, 
+specifications and benchmark numbers. The Xiaomi Redmi 2 (Review | Pictures) Coolpad Dazen 1
+ (Review | Pictures) and Lenovo A6000 Plus (Review | Pictures) are just a few of the lower-priced choices that 
+perform just as well as or better than this phone. At the same price 
+level, you could also consider the Infocus M330 (Review) and Lenovo K3 Note, or 
+for just a little more there's the Motorola Moto G (Gen 2) (Review | Pictures).
+
+
+

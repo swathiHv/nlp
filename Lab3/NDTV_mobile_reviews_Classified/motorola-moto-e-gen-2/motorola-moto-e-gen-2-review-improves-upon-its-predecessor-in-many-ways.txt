@@ -1,0 +1,270 @@
+Motorola Moto E (Gen 2) Review: Improves Upon its Predecessor in Many Ways
+
+2014
+ was the year when we saw smartphone brands change market dynamics by introducing powerful phones with 
+disruptive pricing and exclusive e-commerce deals. Even before Xiaomi, 
+Lenovo, Huawei and OnePlus introduced their value-for-money devices, there was one company that started this trend - Motorola. With the introduction of the 
+Moto E (Review | Pictures) last year, we had a smartphone 
+in the sub-Rs, 10,000 range that was a decent performer and completely worth 
+the money. However, a year has passed and it is time for an 
+upgrade. Motorola's latest budget offering is the new Moto E (Gen 2), which has a slightly tweaked design and upgraded specs in the form of a 
+bigger screen, a higher capacity battery, a front camera, and a
+ faster processor. On paper, all these changes might seem like incremental updates but we are expecting the overall 
+experience to tell a different story. Let's find out how this smartphone fares in 
+our performance tests and in daily usage. Look and feelThe 
+Moto E (Gen 2) is by far the sturdiest and best looking device in this 
+price range. At first glance, you notice that the phone is modelled 
+around the much more expensive Moto X (Gen 2) (Review | 
+Pictures), which actually works in its favour. Its body is made 
+of tough plastic and the soft-touch matte finish on the rear makes it 
+very easy to grip. That said, there is no denying that the Moto E 
+(Gen 2) is bulky and heavy, with its thickness of 12.3mm and 
+weight of 145g, when compared to the competition. The 
+phone is available in two colours, black and white, but Motorola 
+adds a dash of fun to the design with the concept of 
+'bands'. As the name suggests, a band runs around the edges of the 
+phone and is cleverly utilised by Motorola to hide the SIM and microSD card slots. The band is available in a variety of funky colours such as Golden Yellow, Turquoise, Blue, Raspberry, Purple and Red. Moreover, the
+ ribbed texture of the band also aids in gripping the phone. While this 
+is no Moto Maker customisation tool, we still appreciate Motorola trying
+ to introduce some differentiation in a segment otherwise filled
+ with the same old boring candybar designs. A 4.5-inch
+screen now dominates the front of the device, which is slightly bigger than its predecessor's screen. Above it lies a metal 
+strip that hides the speaker, a new front camera, and an ambient light 
+sensor. Motorola implements on-screen buttons for navigation, which pop up as and when required. We really appreciate Motorola's acumen to 
+use a textured metal surface on the power button and a regular glazed 
+surface on the volume rocker, both of which lie on the right edge. This 
+ensures that users don't hit the wrong button accidentally. The 
+Micro-USB port is on the bottom of the phone and a standard 3.5mm 
+audio jack lies on the top. The trademark dimple with the Motorola 
+logo imprinted inside it can be found on the rear. The primary camera 
+and a microphone are also present on the rear of the phone. Once 
+the band is removed, you'll see that there are two Micro-SIM card 
+slots and a microSD card slot on the right side of the phone.The 
+4.5-inch screen has a resolution of 540x960. This 
+means that the pixel density is now a slightly lower 245 ppi, which 
+might not satisfy a few potential buyers, but we could rarely discern individual 
+pixels anyway. In fact, the screen is crisp and does a decent job under 
+bright sunlight as well. Even the viewing angles are quite good. An 
+added advantage is that the Moto E (Gen 2) is protected by Corning's 
+Gorilla Glass 3 - a rarity in this price range. The screen also has an 
+oleophobic coating that supposedly prevents it from attracting 
+smudges, which it actually does to some extent. Specifications, software and cameraThere is a Snapdragon 410-toting 4G LTE edition of the Moto E (Gen 
+2), which Motorola is yet to launch in India. Until then users will have to make do with a Snapdragon 200
+ processor. However, Motorola has gone ahead and 
+bumped up the number of cores to four from two inside the previous 
+generation Moto E. The quad-core Snapdragon 200 is clocked at 1.2GHz and
+ has an Adreno 302 GPU for apps that demand graphics processing. The Moto E
+ (Gen 2) continues to make do with 1GB of RAM but the internal storage has now 
+been bumped up to a sufficient 8GB. Storage can be further 
+expanded by up to 32GB using a microSD card. The new 5-megapixel rear
+ camera now includes a tap-to-focus function, which is a huge upgrade from 
+the fixed focus lens on the previous Moto E. Additionally, Motorola adds a VGA front camera for selfies and Skype calls. The version 
+released in India can connect to 3G networks here and accepts two 
+Micro-SIM cards. Motorola has also gone with a bigger 2,390mAh battery to 
+power the phone. The Motorola Moto E (Gen 2) comes with Android 
+Lollipop (5.0.2) out of the box, which is superb considering a lot of 
+phones are yet to receive updates to even Android 5.0. 
+Once again Motorola has added a few personal touches to the otherwise vanilla
+ software. Just like on the Moto X (Gen 2), one can 
+open the camera app from any screen with just a flick of the wrist. It 
+works flawlessly and we actually used it to quickly open the app on a
+ few occasions. Similarly, Motorola has also added a useful glance 
+notifications feature to this phone, which shows recently received 
+notifications without waking up the screen. The Moto Assist app allows users to create customised 
+'sleeping' and 'meeting' modes. The Moto Alert app can share your location with family and friends making it useful in case of an 
+emergency. The camera app still has the same minimalistic design 
+that aims to let users capture photographs without worrying too much 
+about settings. Power users might want to download an alternative app to play around with manual settings. However, that might not be worthwhile because the camera itself shoots only average images. There is no denying 
+that the 5-megapixel shooter is an upgrade over the camera 
+of the original Moto E, but in our sample images we still noticed a lot of bloom 
+and some over-exposure as well. Even the HDR mode with 
+automatic settings could not solve the issue. Colours are warm but 
+noise levels are high even in bright daylight. Thankfully, now one 
+can tap to focus on a specific subject. The quality of our 720p 
+test video was not too great either; in fact we'd say it was quite 
+unusable. The new front camera feels like a forced addition because it 
+really takes very low-quality self-portraits.(Click for full size)(Click for full size)PerformanceCarrying 
+forward the legacy of its predecessor's fuss-free performance, the Moto E (Gen 2) 
+also does admirably well. In our time with the device we rarely noticed 
+any lags, and Lollipop seems to scale really well on such low-end 
+hardware. The phone responded with gusto every single time we asked it 
+to do something. While games did take some time to open, they ran well.The benchmark numbers are much higher this time 
+around thanks to the quad-core processor. In AnTuTu and Quadrant, the 
+phone scored 17,571 and 8,730 points respectively, which are pretty 
+healthy scores compared to the 12,546 and 5,734 points respectively scored by the original Moto E. In
+GFXbench and 3DMark, the phone scored 11 fps and 4,547 points - once again better than its predecessor. In comparison, the Lenovo A6000 scores better in CPU benchmarks but not as well in graphics tests.One
+ concern we had with the phone is that it couldn't play 1080p videos, 
+especially our heavily encoded 40Mbps one, without stuttering or skipping 
+frames. The loudspeaker gets really loud, so much so that we had to 
+reduce the volume, and it does so without the sound breaking. The bundled earphones are of average quality and are 
+really uncomfortable to wear for long periods of time. Staying true to 
+Motorola's legacy, the Moto E (Gen 2) also boasts of great voice quality
+ in calls. One area where the Moto E (Gen 2) shows most improvement is battery life. In our video loop battery test, the 
+2,390mAh battery lasted a good 8 hours, 53 minutes, which is superb
+ and should easily translate to a day and half of moderate 
+usage. VerdictThe Moto E (Gen 2) improves upon its 
+predecessor in more ways than one. We love the new design tweak in the 
+form of 'bands' and the better battery performance. The price tag of Rs.
+ 6,999 puts it directly in competition with the newly launched Xiaomi 
+Redmi 2 and Lenovo A6000 (Review | Pictures). We recently reviewed 
+the Lenovo A6000 and except for underwhelming cameras we thought it was a great
+ device. If the Xiaomi Redmi 1S (Review | Pictures) is any indication, 
+the Redmi 2 should be also be a good phone. The inclusion of 4G connectivity on both these phones is a point in their favour, considering the 4G variant of the Motorola Moto E (Gen 2) will probably cost more when it launches. However, we really think 
+that the Moto E (Gen 2) has a better design than the A6000 
+and the Redmi 2. If not
+ for the poor cameras and low-resolution screen, we would easily recommend the Moto E (Gen 2) without batting an eyelid. If these factors are very important to you, 
+there are other budget phones such as the two mentioned above to choose from. 
+Motorola Moto E (Gen 2) in pictures
+
+
+2014
+ was the year when we saw smartphone brands change market dynamics by introducing powerful phones with 
+disruptive pricing and exclusive e-commerce deals. Even before Xiaomi, 
+Lenovo, Huawei and OnePlus introduced their value-for-money devices, there was one company that started this trend - Motorola. With the introduction of the 
+Moto E (Review | Pictures) last year, we had a smartphone 
+in the sub-Rs, 10,000 range that was a decent performer and completely worth 
+the money. 
+
+However, a year has passed and it is time for an 
+upgrade. Motorola's latest budget offering is the new Moto E (Gen 2), which has a slightly tweaked design and upgraded specs in the form of a 
+bigger screen, a higher capacity battery, a front camera, and a
+ faster processor. On paper, all these changes might seem like incremental updates but we are expecting the overall 
+experience to tell a different story. Let's find out how this smartphone fares in 
+our performance tests and in daily usage. 
+
+Look and feelThe 
+Moto E (Gen 2) is by far the sturdiest and best looking device in this 
+price range. At first glance, you notice that the phone is modelled 
+around the much more expensive Moto X (Gen 2) (Review | 
+Pictures), which actually works in its favour. Its body is made 
+of tough plastic and the soft-touch matte finish on the rear makes it 
+very easy to grip. That said, there is no denying that the Moto E 
+(Gen 2) is bulky and heavy, with its thickness of 12.3mm and 
+weight of 145g, when compared to the competition. 
+
+The 
+phone is available in two colours, black and white, but Motorola 
+adds a dash of fun to the design with the concept of 
+'bands'. As the name suggests, a band runs around the edges of the 
+phone and is cleverly utilised by Motorola to hide the SIM and microSD card slots. The band is available in a variety of funky colours such as Golden Yellow, Turquoise, Blue, Raspberry, Purple and Red. Moreover, the
+ ribbed texture of the band also aids in gripping the phone. While this 
+is no Moto Maker customisation tool, we still appreciate Motorola trying
+ to introduce some differentiation in a segment otherwise filled
+ with the same old boring candybar designs. 
+
+A 4.5-inch
+screen now dominates the front of the device, which is slightly bigger than its predecessor's screen. Above it lies a metal 
+strip that hides the speaker, a new front camera, and an ambient light 
+sensor. Motorola implements on-screen buttons for navigation, which pop up as and when required. We really appreciate Motorola's acumen to 
+use a textured metal surface on the power button and a regular glazed 
+surface on the volume rocker, both of which lie on the right edge. This 
+ensures that users don't hit the wrong button accidentally. 
+
+The 
+Micro-USB port is on the bottom of the phone and a standard 3.5mm 
+audio jack lies on the top. The trademark dimple with the Motorola 
+logo imprinted inside it can be found on the rear. The primary camera 
+and a microphone are also present on the rear of the phone. Once 
+the band is removed, you'll see that there are two Micro-SIM card 
+slots and a microSD card slot on the right side of the phone.
+
+The 
+4.5-inch screen has a resolution of 540x960. This 
+means that the pixel density is now a slightly lower 245 ppi, which 
+might not satisfy a few potential buyers, but we could rarely discern individual 
+pixels anyway. In fact, the screen is crisp and does a decent job under 
+bright sunlight as well. Even the viewing angles are quite good. An 
+added advantage is that the Moto E (Gen 2) is protected by Corning's 
+Gorilla Glass 3 - a rarity in this price range. The screen also has an 
+oleophobic coating that supposedly prevents it from attracting 
+smudges, which it actually does to some extent. 
+
+Specifications, software and cameraThere is a Snapdragon 410-toting 4G LTE edition of the Moto E (Gen 
+2), which Motorola is yet to launch in India. Until then users will have to make do with a Snapdragon 200
+ processor. However, Motorola has gone ahead and 
+bumped up the number of cores to four from two inside the previous 
+generation Moto E. The quad-core Snapdragon 200 is clocked at 1.2GHz and
+ has an Adreno 302 GPU for apps that demand graphics processing. The Moto E
+ (Gen 2) continues to make do with 1GB of RAM but the internal storage has now 
+been bumped up to a sufficient 8GB. Storage can be further 
+expanded by up to 32GB using a microSD card. 
+
+The new 5-megapixel rear
+ camera now includes a tap-to-focus function, which is a huge upgrade from 
+the fixed focus lens on the previous Moto E. Additionally, Motorola adds a VGA front camera for selfies and Skype calls. The version 
+released in India can connect to 3G networks here and accepts two 
+Micro-SIM cards. Motorola has also gone with a bigger 2,390mAh battery to 
+power the phone. 
+
+The Motorola Moto E (Gen 2) comes with Android 
+Lollipop (5.0.2) out of the box, which is superb considering a lot of 
+phones are yet to receive updates to even Android 5.0. 
+Once again Motorola has added a few personal touches to the otherwise vanilla
+ software. Just like on the Moto X (Gen 2), one can 
+open the camera app from any screen with just a flick of the wrist. It 
+works flawlessly and we actually used it to quickly open the app on a
+ few occasions. 
+
+Similarly, Motorola has also added a useful glance 
+notifications feature to this phone, which shows recently received 
+notifications without waking up the screen. The Moto Assist app allows users to create customised 
+'sleeping' and 'meeting' modes. The Moto Alert app can share your location with family and friends making it useful in case of an 
+emergency. 
+
+The camera app still has the same minimalistic design 
+that aims to let users capture photographs without worrying too much 
+about settings. Power users might want to download an alternative app to play around with manual settings. However, that might not be worthwhile because the camera itself shoots only average images. There is no denying 
+that the 5-megapixel shooter is an upgrade over the camera 
+of the original Moto E, but in our sample images we still noticed a lot of bloom 
+and some over-exposure as well. 
+
+Even the HDR mode with 
+automatic settings could not solve the issue. Colours are warm but 
+noise levels are high even in bright daylight. Thankfully, now one 
+can tap to focus on a specific subject. The quality of our 720p 
+test video was not too great either; in fact we'd say it was quite 
+unusable. The new front camera feels like a forced addition because it 
+really takes very low-quality self-portraits.
+
+(Click for full size)
+
+(Click for full size)PerformanceCarrying 
+forward the legacy of its predecessor's fuss-free performance, the Moto E (Gen 2) 
+also does admirably well. In our time with the device we rarely noticed 
+any lags, and Lollipop seems to scale really well on such low-end 
+hardware. The phone responded with gusto every single time we asked it 
+to do something. While games did take some time to open, they ran well.
+
+The benchmark numbers are much higher this time 
+around thanks to the quad-core processor. In AnTuTu and Quadrant, the 
+phone scored 17,571 and 8,730 points respectively, which are pretty 
+healthy scores compared to the 12,546 and 5,734 points respectively scored by the original Moto E. In
+GFXbench and 3DMark, the phone scored 11 fps and 4,547 points - once again better than its predecessor. In comparison, the Lenovo A6000 scores better in CPU benchmarks but not as well in graphics tests.
+
+One
+ concern we had with the phone is that it couldn't play 1080p videos, 
+especially our heavily encoded 40Mbps one, without stuttering or skipping 
+frames. The loudspeaker gets really loud, so much so that we had to 
+reduce the volume, and it does so without the sound breaking. The bundled earphones are of average quality and are 
+really uncomfortable to wear for long periods of time. 
+
+Staying true to 
+Motorola's legacy, the Moto E (Gen 2) also boasts of great voice quality
+ in calls. One area where the Moto E (Gen 2) shows most improvement is battery life. In our video loop battery test, the 
+2,390mAh battery lasted a good 8 hours, 53 minutes, which is superb
+ and should easily translate to a day and half of moderate 
+usage. 
+
+VerdictThe Moto E (Gen 2) improves upon its 
+predecessor in more ways than one. We love the new design tweak in the 
+form of 'bands' and the better battery performance. The price tag of Rs.
+ 6,999 puts it directly in competition with the newly launched Xiaomi 
+Redmi 2 and Lenovo A6000 (Review | Pictures). We recently reviewed 
+the Lenovo A6000 and except for underwhelming cameras we thought it was a great
+ device. If the Xiaomi Redmi 1S (Review | Pictures) is any indication, 
+the Redmi 2 should be also be a good phone. The inclusion of 4G connectivity on both these phones is a point in their favour, considering the 4G variant of the Motorola Moto E (Gen 2) will probably cost more when it launches. However, we really think 
+that the Moto E (Gen 2) has a better design than the A6000 
+and the Redmi 2. If not
+ for the poor cameras and low-resolution screen, we would easily recommend the Moto E (Gen 2) without batting an eyelid. If these factors are very important to you, 
+there are other budget phones such as the two mentioned above to choose from. 
+

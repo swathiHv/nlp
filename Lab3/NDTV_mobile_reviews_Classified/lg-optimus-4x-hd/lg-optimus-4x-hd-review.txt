@@ -1,0 +1,270 @@
+LG Optimus 4X HD review
+
+Over the last few years, the dynamics of mobile phone manufacturing 
+arena have changed significantly; companies that were once at the top 
+are nowhere to be seen and others have risen to the helm.  LG belongs 
+firmly to the first category, as a company that is struggling to keep 
+pace with current conditions in the smartphone market. Meanwhile it's 
+once close competitor and Korean counterpart Samsung has taken the top 
+spot.LG seems to have been trying a lot of tactics but is yet to get 
+to come up with a successful high-end Android device. It announced the 
+first dual-core smartphone last year and similarly the first quad-core 
+phone this year (although Optimus 4X HD was last to reach the market).  
+At first glance, LG seems to have finally stuck gold with 4X HD, but 
+will this phone finally help the company change its fortunes, we will 
+find out in this review.Hardware/ DesignThe other two 
+quad-core smartphones that we have seen this year had very distinct 
+looks. While HTC's One X had this beautiful polycarbonate clad body, 
+Samsung's Galaxy S III was more plasticky and conservative.  LG has gone
+ for the elegant look, it might not look as good as One X, but it is 
+certainly very likeable. It's angular, slab-like thin design is decent 
+for a flagship model, but may be not ideal. It is still very plasticy. The
+ phone is huge, mainly because of the 4.7-inch display on-board, but is 
+still comfortable to hold unless you have very small hands. It is all 
+black (white version also available) apart from the two silver strips 
+running on the edge of the smartphone. The volume rocker has been
+ intelligently hidden on the left side such that you won't even notice 
+it the first time.  The power button is located at the top along with 
+3.5mm headset jack, and Micro-USB port is present at the bottom of the 
+smartphone.The build quality is solid and the smartphone feels 
+nice in hand thanks to the rubberised and textured back. The front of 
+the device is covered with single piece of Gorilla Glass to help with 
+you with scratches and occasional falls. Overall, LG has made one
+ great piece of hardware; it might not go down in the history books but 
+the hardware is unlikely to dissapoint anyone either.Display720p
+ displays have become the standard these days and anything less would 
+not do justice to the 4.7-inch screen on LG Optimus 4X HD. The device 
+sports an IPS panel, which provides great colour reproduction and 
+viewing angles.Despite being good in its own right, the display 
+still falls short of the superb HTC One X display, but only because the 
+One X has set a very high standard. Optimus 4X HD still is a great 
+display and one of the best that you will find outside One X.CameraSimilar
+ to other flagship smartphones, LG has also included 8-megapixel rear 
+camera and 1.3-megapixel front camera in Optimus 4X HD. The image output
+ from the rear sensor is pretty nice and the resulting images are quite 
+good. However one issue that plagues the Optimus 4X HD camera software 
+is its nature to lose manual focus after every 2-3 seconds. So if you 
+tap to focus on an object in your frame, the phone will initially focus 
+on that but switches to auto-focus after two-three seconds. This is, of 
+course, pretty irritating and had us rushing to click photographs before
+ the dreaded auto-focus kicked in! We couldn't find any preference to 
+disable this behaviour. Overall, the camera software is quite 
+simple, yet decent, but does not offer extra features like the funky 
+Instagram kinds of effects present in One X. However the options to 
+tweak ISO, White Balance, and Scene mode are present.The camera supports full-HD recording and also allows you to add funny face/ background effects during live recording. Software/ User interfaceOne
+ of the biggest positives for Optimus 4X HD is the revamped Optimus UI 
+on the smartphone. It is far better than the previous versions. The
+ Korea manufacturer has finally got it (almost) right. The same skin is 
+present on all other Ice Cream Sandwich smartphones from LG, so even if 
+you don't go for 4X HD and opt for cheaper ones like L5 and L7, you will
+ still get this nice UI.Starting from the unlocking your phone, 
+to making a call or browsing the web, the user interface is pretty 
+decent and most of all, fast. Well, the fluidity can also be attributed 
+to the beast quad-core processor on-board, but still it is some nice 
+work from the folks at LG.Apart from the cosmetic changes by LG, the interface seems pretty stock, unlike HTC's Sense interface.The
+ new LG lockscreen is also worthy of mention. Unlike the stock ICS way 
+of swiping the lock sign to unlock, on Optimus 4X, you put your finger 
+anywhere on the screen and a circular translucent window to your 
+home-screen opens up. When you swipe away that circle, your phone is 
+unlocked. Lock-screen also hosts four app icons at the bottom, swiping 
+any of them from the lock-screen, takes you directly to that app, which 
+is pretty useful when you are in a hurry to make a call or send an SMS.LG
+ also allows make several customisations to home-screen. Some of them 
+are ability to apply one of the four themes, or changing the home screen
+ effect.One software enhancement that we particularly liked on 
+Optimus 4X HD was the inbuilt comprehensive backup mechanism that allows
+ you to backup or restore apps, bookmarks, calendar, call log, contacts,
+ home-screen or system settings to the device memory or SD card.In
+ terms of the pre-loaded apps, LG has included SmartWorld (extra app 
+store), SmartShare (DLNA app), RemoteCall Service (remote servicing 
+tool), Quickmemo (note app) and MediaHome (a dashboard for all 
+multimedia content on your phone).Similar to Sony's SmartTags, LG
+ is also bundling a NFC sticker, which allows you to change system 
+settings to a predefined set by simply tapping your device to that 
+sticker.Performance/ Battery LifeBe it HTC One X or LG 
+Optimus 4X, there are no doubts about performance of Tegra 3. This 
+quad-core processor is a performance beast and that has been proved 
+again and again. Everything is just snappy on Optimus 4X HD.Thanks
+ to the stockish interface, the 1GB RAM on-board is not bogged down, 
+which means that despite opening multiple apps, the phone remains butter
+ smooth (not Jelly Bean's Project Butter kind, but the best you can get 
+on ICS).It is the best performance we have seen so far of any LG 
+Android device and amongst the best across Android devices from any 
+manufacturer. The Korean company has certainly stepped up its game big 
+time and the Optimus 4X HD marks its entry into the big league of 
+power-phone makers.On the gaming front as well, as expected, the phone did not show any sign of strain during Shadowgun or Dead Trigger sessions.That
+ brings us to the tricky part. If you bundle a quad-core processor and 
+720p display, it is likely that your battery will not last very long. 
+The 2100 mAh battery in Optimus 4X HD will just about get you a day's 
+worth of juice with normal usage.With multi-core processors and 
+HD displays in our smartphones, we really need some breakthrough 
+innovation in the battery technology to take us to the next level.VerdictThe
+ last few high-end smartphones from LG haven't really clicked with 
+consumers and LG is the only one to blame. However, the company seems to
+ have finally got it right with Optimus 4X HD. Right from the presence 
+of Tegra 3 to great software and elegant design, LG Optimus 4X HD ticks 
+all the right boxes.Overall, the Korean manufacturer has released
+ a great Android smartphone, maybe not at the same level as the One X 
+and the Galaxy S III, but certainly a worthy contender nonetheless.For more images of LG Optimus 4X HD check out our gallery.Price: Rs. 34,490
+
+LG seems to have been trying a lot of tactics but is yet to get 
+to come up with a successful high-end Android device. It announced the 
+first dual-core smartphone last year and similarly the first quad-core 
+phone this year (although Optimus 4X HD was last to reach the market).  
+At first glance, LG seems to have finally stuck gold with 4X HD, but 
+will this phone finally help the company change its fortunes, we will 
+find out in this review.
+
+Hardware/ DesignThe other two 
+quad-core smartphones that we have seen this year had very distinct 
+looks. While HTC's One X had this beautiful polycarbonate clad body, 
+Samsung's Galaxy S III was more plasticky and conservative.  LG has gone
+ for the elegant look, it might not look as good as One X, but it is 
+certainly very likeable. It's angular, slab-like thin design is decent 
+for a flagship model, but may be not ideal. It is still very plasticy. 
+
+The
+ phone is huge, mainly because of the 4.7-inch display on-board, but is 
+still comfortable to hold unless you have very small hands. It is all 
+black (white version also available) apart from the two silver strips 
+running on the edge of the smartphone. 
+
+The volume rocker has been
+ intelligently hidden on the left side such that you won't even notice 
+it the first time.  The power button is located at the top along with 
+3.5mm headset jack, and Micro-USB port is present at the bottom of the 
+smartphone.
+
+The build quality is solid and the smartphone feels 
+nice in hand thanks to the rubberised and textured back. The front of 
+the device is covered with single piece of Gorilla Glass to help with 
+you with scratches and occasional falls. 
+
+Overall, LG has made one
+ great piece of hardware; it might not go down in the history books but 
+the hardware is unlikely to dissapoint anyone either.
+
+Display720p
+ displays have become the standard these days and anything less would 
+not do justice to the 4.7-inch screen on LG Optimus 4X HD. The device 
+sports an IPS panel, which provides great colour reproduction and 
+viewing angles.
+
+Despite being good in its own right, the display 
+still falls short of the superb HTC One X display, but only because the 
+One X has set a very high standard. Optimus 4X HD still is a great 
+display and one of the best that you will find outside One X.
+
+CameraSimilar
+ to other flagship smartphones, LG has also included 8-megapixel rear 
+camera and 1.3-megapixel front camera in Optimus 4X HD. The image output
+ from the rear sensor is pretty nice and the resulting images are quite 
+good. However one issue that plagues the Optimus 4X HD camera software 
+is its nature to lose manual focus after every 2-3 seconds. So if you 
+tap to focus on an object in your frame, the phone will initially focus 
+on that but switches to auto-focus after two-three seconds. This is, of 
+course, pretty irritating and had us rushing to click photographs before
+ the dreaded auto-focus kicked in! We couldn't find any preference to 
+disable this behaviour. 
+
+Overall, the camera software is quite 
+simple, yet decent, but does not offer extra features like the funky 
+Instagram kinds of effects present in One X. However the options to 
+tweak ISO, White Balance, and Scene mode are present.
+
+The camera supports full-HD recording and also allows you to add funny face/ background effects during live recording. 
+
+Software/ User interfaceOne
+ of the biggest positives for Optimus 4X HD is the revamped Optimus UI 
+on the smartphone. It is far better than the previous versions. 
+
+The
+ Korea manufacturer has finally got it (almost) right. The same skin is 
+present on all other Ice Cream Sandwich smartphones from LG, so even if 
+you don't go for 4X HD and opt for cheaper ones like L5 and L7, you will
+ still get this nice UI.
+
+Starting from the unlocking your phone, 
+to making a call or browsing the web, the user interface is pretty 
+decent and most of all, fast. Well, the fluidity can also be attributed 
+to the beast quad-core processor on-board, but still it is some nice 
+work from the folks at LG.
+
+Apart from the cosmetic changes by LG, the interface seems pretty stock, unlike HTC's Sense interface.
+
+The
+ new LG lockscreen is also worthy of mention. Unlike the stock ICS way 
+of swiping the lock sign to unlock, on Optimus 4X, you put your finger 
+anywhere on the screen and a circular translucent window to your 
+home-screen opens up. When you swipe away that circle, your phone is 
+unlocked. Lock-screen also hosts four app icons at the bottom, swiping 
+any of them from the lock-screen, takes you directly to that app, which 
+is pretty useful when you are in a hurry to make a call or send an SMS.
+
+LG
+ also allows make several customisations to home-screen. Some of them 
+are ability to apply one of the four themes, or changing the home screen
+ effect.
+
+One software enhancement that we particularly liked on 
+Optimus 4X HD was the inbuilt comprehensive backup mechanism that allows
+ you to backup or restore apps, bookmarks, calendar, call log, contacts,
+ home-screen or system settings to the device memory or SD card.
+
+In
+ terms of the pre-loaded apps, LG has included SmartWorld (extra app 
+store), SmartShare (DLNA app), RemoteCall Service (remote servicing 
+tool), Quickmemo (note app) and MediaHome (a dashboard for all 
+multimedia content on your phone).
+
+Similar to Sony's SmartTags, LG
+ is also bundling a NFC sticker, which allows you to change system 
+settings to a predefined set by simply tapping your device to that 
+sticker.
+
+Performance/ Battery LifeBe it HTC One X or LG 
+Optimus 4X, there are no doubts about performance of Tegra 3. This 
+quad-core processor is a performance beast and that has been proved 
+again and again. Everything is just snappy on Optimus 4X HD.
+
+Thanks
+ to the stockish interface, the 1GB RAM on-board is not bogged down, 
+which means that despite opening multiple apps, the phone remains butter
+ smooth (not Jelly Bean's Project Butter kind, but the best you can get 
+on ICS).
+
+It is the best performance we have seen so far of any LG 
+Android device and amongst the best across Android devices from any 
+manufacturer. The Korean company has certainly stepped up its game big 
+time and the Optimus 4X HD marks its entry into the big league of 
+power-phone makers.
+
+On the gaming front as well, as expected, the phone did not show any sign of strain during Shadowgun or Dead Trigger sessions.
+
+That
+ brings us to the tricky part. If you bundle a quad-core processor and 
+720p display, it is likely that your battery will not last very long. 
+The 2100 mAh battery in Optimus 4X HD will just about get you a day's 
+worth of juice with normal usage.
+
+With multi-core processors and 
+HD displays in our smartphones, we really need some breakthrough 
+innovation in the battery technology to take us to the next level.
+
+VerdictThe
+ last few high-end smartphones from LG haven't really clicked with 
+consumers and LG is the only one to blame. However, the company seems to
+ have finally got it right with Optimus 4X HD. Right from the presence 
+of Tegra 3 to great software and elegant design, LG Optimus 4X HD ticks 
+all the right boxes.
+
+Overall, the Korean manufacturer has released
+ a great Android smartphone, maybe not at the same level as the One X 
+and the Galaxy S III, but certainly a worthy contender nonetheless.
+
+
+
+
+
+Price: Rs. 34,490
+

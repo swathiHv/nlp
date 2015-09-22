@@ -1,0 +1,223 @@
+Xolo Q1010i Review: Aiming for Affordability
+
+Intel
+ collaborated with Xolo to bring out one of the first Intel-powered 
+Android phones - the X900 - around two years ago. Ever since then, Xolo 
+has tried to position itself as a premium yet affordable smartphone 
+brand. Compared to the other brands that operate in its price range, 
+including the 800 pound gorilla Samsung, Xolo makes phones that seem 
+like good value options. Their newest smartphone, the Q1010i, is 
+an upgrade to the Xolo Q1010 and comes with the promise of a competent 
+camera featuring Sony's Exmor R sensor. Its closest competitor is the 
+mighty Moto G. We put it through its paces to find out which one will 
+come out on top.Design, Features and SpecificationsThis 
+unassuming black slab of a smartphone tries to avoid being too boring by
+ introducing a chrome trim along the edges, and a matte rear cover which
+ also provides a good grip. Despite its large screen, Xolo has managed 
+to keep the device compact with uniform weight distribution, and we 
+found that it fit well in our hands. Reaching the top of the screen with
+ our thumbs was easy too. On the left edge is a thin volume 
+rocker and on the right edge is the power button. A 3.5mm jack and 
+micro-USB port are on the top and bottom edges respectively. Right below
+ the screen is a three-button capacitive setup for navigation. The 
+buttons are coloured grey, and are not too visible against the black 
+body of the phone. Above the display are the earpiece, front camera, 
+hidden notification LED, and array of sensors. Once we pried open the 
+rear cover, we found the non-removable 2250mAh battery, and two 
+micro-SIM card slots, and a micro-SD card slot. The 5-inch 720p 
+screen on the Xolo Q1010i has a density of 299ppi. This is a really good
+ screen and almost rivals the Moto G's razor sharp display. Text is 
+crisp and images spring to life. Under direct sunlight, the screen's 
+legibility is good. Even the viewing angles are pretty good. Under
+ the hood is a Mediatek MT6589 1.3GHz quad-core processor with 
+integrated Mali-400MP2 graphics. There is 1GB of RAM and 8GB of internal
+ storage on the Q1010i, which is a bump up from the Q1010's 4GB. 
+Moreover, the 8-megapixel camera now features Sony's Exmor R sensor with
+ an f/2.0 aperture. There is no change to the specification of the front
+ camera. It is the same 2-megapixel unit seen on the Q1010.SoftwareAnother
+ salient feature of Xolo phones is that apart from adding a few extra 
+apps, the core Android operating system is mostly untouched. The Q1010i 
+runs Android 4.2 but the company has promised an update to Android 4.4.2
+ (Kitkat). In fact, we did receive the message for a software update 
+during the course of our review but for some odd reason we couldn't 
+download it. There's nothing new to be said about 4.2, which we have 
+covered in great detail before. However, we'd like to take a look at the
+ additional apps that are present. Apart from the slew of common 
+Google apps, there are three Xolo branded apps. Xolo Care provides users
+ with options to call, SMS or email a customer care executive to solve 
+any issues with the phone. This substantiates Xolo's initiative to 
+provide better customer service. For battery performance management, 
+there is a Xolo Power app. Xolo Secure can configure anti-theft features
+ and also provides a backup and restore feature for messages, call logs 
+and contacts, but needs you to link your Google account. All three apps 
+are really useful in our opinion. CameraWe doubt there is a
+ single phone in this price range with a competent camera. Keeping that 
+in mind, Xolo has made a smart move by fitting the Q1010i with an 
+8-megapixel Sony Exmor R sensor, which is supposed to perform better in 
+low light. Let's find out if it can deliver.In our daylight 
+testing, the camera captured really good images with very low noise 
+levels. Sony's camera sensors are typically inclined towards slight 
+oversaturation, which makes colours pop. Sure enough, the images we 
+captured with this phone had slightly exaggerated colours too. A lot of 
+people will like this, but remember that the colours are not really 
+natural. In low light, the camera manages to focus and capture 
+decent images. Of course there is quite a bit of noise, and if you 
+aren't steady while taking photos, you'll probably end up with blurred 
+images. Even so, the camera on the Xolo Q1010i is far ahead of its 
+competition. In fact, even 1080p video taken with this phone has great 
+detail and colour. On the other hand, no matter how much we tried, we always ended with smudged images on the 2-megapixel front camera. For
+ all the camera's capabilities, it's a pity that Xolo didn't innovate 
+with the camera app. It is the same one from the days of Android 2.3 
+(Gingerbread). Thankfully, there are very good replacement apps in the 
+Play Store.PerformanceTill now, it's been all hunky dory 
+for the Xolo Q1010i, so there has to be a caveat somewhere right? Well, 
+the benchmark numbers were far below our expectations. The phone 
+scored 17,055 and 5,874 in AnTuTu and Quadrant, respectively, which is 
+fairly okay. Things go downhill with the graphics benchmark scores. The 
+intense GFXbench and 3DMark Ice Storm tests returned dismal scores of 
+6.6fps and 2973 points. Quite clearly, the Mali-400 MP2 is insufficient 
+for the Xolo Q1010i. The cheaper Micromax Unite 2 has the same SoC but a
+ lower resolution screen, which explains why its graphics scores are 
+much better. The HD screen on the Xolo Q1010i is probably too much for 
+this hardware to handle. In real-world usage, we found that 
+scrolling through the homescreens was smooth and apps opened fairly fast
+ too. The performance issue was most apparent when we tried to play 
+full-HD videos. The phone tried playing them with all its muscle power, 
+but really struggled. Low-resolution videos played fine. This is a 
+letdown because in this regard, the Q1010i cannot hold a candle to the 
+Moto G which screams through HD videos. The battery life is good, 
+though, and the phone lasted us seven hours and 13 minutes in our video 
+loop test. Voice call clarity is good too. VerdictIf you 
+need the best possible camera and have a budget of Rs. 15,000, the Xolo 
+Q0101i is clearly the smartphone to consider. In every other department,
+ the Moto G is superior. Buyers should also take a look at Lava's 
+stylish Iris Pro 30 and its younger sibling, the Iris Pro 20.
+Xolo Q1010i in pictures
+
+Intel
+ collaborated with Xolo to bring out one of the first Intel-powered 
+Android phones - the X900 - around two years ago. Ever since then, Xolo 
+has tried to position itself as a premium yet affordable smartphone 
+brand. Compared to the other brands that operate in its price range, 
+including the 800 pound gorilla Samsung, Xolo makes phones that seem 
+like good value options. 
+
+Their newest smartphone, the Q1010i, is 
+an upgrade to the Xolo Q1010 and comes with the promise of a competent 
+camera featuring Sony's Exmor R sensor. Its closest competitor is the 
+mighty Moto G. We put it through its paces to find out which one will 
+come out on top.
+
+Design, Features and SpecificationsThis 
+unassuming black slab of a smartphone tries to avoid being too boring by
+ introducing a chrome trim along the edges, and a matte rear cover which
+ also provides a good grip. Despite its large screen, Xolo has managed 
+to keep the device compact with uniform weight distribution, and we 
+found that it fit well in our hands. Reaching the top of the screen with
+ our thumbs was easy too. 
+
+On the left edge is a thin volume 
+rocker and on the right edge is the power button. A 3.5mm jack and 
+micro-USB port are on the top and bottom edges respectively. Right below
+ the screen is a three-button capacitive setup for navigation. The 
+buttons are coloured grey, and are not too visible against the black 
+body of the phone. Above the display are the earpiece, front camera, 
+hidden notification LED, and array of sensors. Once we pried open the 
+rear cover, we found the non-removable 2250mAh battery, and two 
+micro-SIM card slots, and a micro-SD card slot. 
+
+The 5-inch 720p 
+screen on the Xolo Q1010i has a density of 299ppi. This is a really good
+ screen and almost rivals the Moto G's razor sharp display. Text is 
+crisp and images spring to life. Under direct sunlight, the screen's 
+legibility is good. Even the viewing angles are pretty good. 
+
+Under
+ the hood is a Mediatek MT6589 1.3GHz quad-core processor with 
+integrated Mali-400MP2 graphics. There is 1GB of RAM and 8GB of internal
+ storage on the Q1010i, which is a bump up from the Q1010's 4GB. 
+Moreover, the 8-megapixel camera now features Sony's Exmor R sensor with
+ an f/2.0 aperture. There is no change to the specification of the front
+ camera. It is the same 2-megapixel unit seen on the Q1010.
+
+SoftwareAnother
+ salient feature of Xolo phones is that apart from adding a few extra 
+apps, the core Android operating system is mostly untouched. The Q1010i 
+runs Android 4.2 but the company has promised an update to Android 4.4.2
+ (Kitkat). In fact, we did receive the message for a software update 
+during the course of our review but for some odd reason we couldn't 
+download it. There's nothing new to be said about 4.2, which we have 
+covered in great detail before. However, we'd like to take a look at the
+ additional apps that are present. 
+
+Apart from the slew of common 
+Google apps, there are three Xolo branded apps. Xolo Care provides users
+ with options to call, SMS or email a customer care executive to solve 
+any issues with the phone. This substantiates Xolo's initiative to 
+provide better customer service. For battery performance management, 
+there is a Xolo Power app. Xolo Secure can configure anti-theft features
+ and also provides a backup and restore feature for messages, call logs 
+and contacts, but needs you to link your Google account. All three apps 
+are really useful in our opinion. 
+
+CameraWe doubt there is a
+ single phone in this price range with a competent camera. Keeping that 
+in mind, Xolo has made a smart move by fitting the Q1010i with an 
+8-megapixel Sony Exmor R sensor, which is supposed to perform better in 
+low light. Let's find out if it can deliver.
+
+In our daylight 
+testing, the camera captured really good images with very low noise 
+levels. Sony's camera sensors are typically inclined towards slight 
+oversaturation, which makes colours pop. Sure enough, the images we 
+captured with this phone had slightly exaggerated colours too. A lot of 
+people will like this, but remember that the colours are not really 
+natural.
+
+ 
+
+In low light, the camera manages to focus and capture 
+decent images. Of course there is quite a bit of noise, and if you 
+aren't steady while taking photos, you'll probably end up with blurred 
+images. Even so, the camera on the Xolo Q1010i is far ahead of its 
+competition. In fact, even 1080p video taken with this phone has great 
+detail and colour. 
+
+On the other hand, no matter how much we tried, we always ended with smudged images on the 2-megapixel front camera. 
+
+For
+ all the camera's capabilities, it's a pity that Xolo didn't innovate 
+with the camera app. It is the same one from the days of Android 2.3 
+(Gingerbread). Thankfully, there are very good replacement apps in the 
+Play Store.
+
+PerformanceTill now, it's been all hunky dory 
+for the Xolo Q1010i, so there has to be a caveat somewhere right? Well, 
+the benchmark numbers were far below our expectations. 
+
+The phone 
+scored 17,055 and 5,874 in AnTuTu and Quadrant, respectively, which is 
+fairly okay. Things go downhill with the graphics benchmark scores. The 
+intense GFXbench and 3DMark Ice Storm tests returned dismal scores of 
+6.6fps and 2973 points. Quite clearly, the Mali-400 MP2 is insufficient 
+for the Xolo Q1010i. The cheaper Micromax Unite 2 has the same SoC but a
+ lower resolution screen, which explains why its graphics scores are 
+much better. The HD screen on the Xolo Q1010i is probably too much for 
+this hardware to handle. 
+
+In real-world usage, we found that 
+scrolling through the homescreens was smooth and apps opened fairly fast
+ too. The performance issue was most apparent when we tried to play 
+full-HD videos. The phone tried playing them with all its muscle power, 
+but really struggled. Low-resolution videos played fine. This is a 
+letdown because in this regard, the Q1010i cannot hold a candle to the 
+Moto G which screams through HD videos. The battery life is good, 
+though, and the phone lasted us seven hours and 13 minutes in our video 
+loop test. Voice call clarity is good too. 
+
+VerdictIf you 
+need the best possible camera and have a budget of Rs. 15,000, the Xolo 
+Q0101i is clearly the smartphone to consider. In every other department,
+ the Moto G is superior. Buyers should also take a look at Lava's 
+stylish Iris Pro 30 and its younger sibling, the Iris Pro 20.
+

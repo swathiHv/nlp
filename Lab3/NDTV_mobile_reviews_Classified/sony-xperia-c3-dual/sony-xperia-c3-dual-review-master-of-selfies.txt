@@ -1,0 +1,229 @@
+Sony Xperia C3 Dual Review: Master of Selfies
+
+An Oxford Dictionary blog post states that the word 'selfie' (derived from 'self-portrait') was selected as the Word of the Year 2013. 
+Apparently, there was little to no argument about this decision. It shouldn't be surprising, considering there is 
+even a chartbusting pop song with that title. At the time 
+of writing this review there are reports of a new $20 iPhone case 
+that has a hairbrush extension on the side. Truly, 
+vanity knows no bounds. Naturally, smartphone companies are 
+trying to cash in on this trend by creating devices with powerful 
+front cameras. The Sony Xperia C3 Dual is the latest smartphone to 
+feature a 5-megapixel front camera. This camera has a 25mm wide-angle 
+lens to accommodate more faces than even Ellen managed with her Samsung 
+Galaxy Note 3 (review | pictures) at the 2014 Oscars. What's more is that the front camera 
+also has a soft LED flash. As usual, we put the device through 
+our battery of tests. Look and feelThe moment we opened 
+the box, the mint-coloured Sony Xperia C3 Dual grabbed our attention. 
+This is probably the snazziest colour we've ever seen on a smartphone, and we expect fashionistas will approve. The phone is available 
+in plain old black and white as well for those who aren't feeling too 
+adventurous. The C3 Dual is designed with Sony's tried-and-tested (and overused) 
+'omnibalance' design style. While the entire body is made of plastic, a chrome
+ trim runs along each side. Overall, the phone feels sturdy. After
+ playing with the ergonomically fantastic LG G3 (review | pictures), which manages to cram a
+ 5.5-inch display in a compact design, the Sony Xperia C3 Dual feels ginormous with the same 5.5-inch screen size in comparison. It has dimensions of 
+156.2x78.7x7.6mm. It is pretty thin, and for a device of this size it is 
+also lightweight at just 150g. Unless you have huge hands, 
+operating the phone with one hand is going to be problematic. The
+ flap covering the memory card slot sits on the left edge along with the
+ Micro-USB port. The right edge is crowded with the, 
+dual SIM card tray, power button in the center, volume rocker below it, 
+and dedicated shutter button for the camera. On the back of the device 
+is the primary camera (or is it really?) and the loudspeaker grill.  Specifications and SoftwareLike
+quite a few mid-range devices, the Sony Xperia C3 Dual has a 
+quad-core Snapdragon 400 processor clocked at 1.2GHz under the hood with its staple Adreno 305 integrated GPU. The phone has 1GB of RAM 
+and 8GB of internal storage, of which only around 5.09GB is available 
+for use. Fortunately, one can add up to 32GB more space using a microSD
+ card.The phone accepts two SIM cards, both of which can
+ connect to 3G networks. They work in dual standby mode. The rest of the 
+connectivity is in the form of Wi-Fi a/b/g/n, Bluetooth 4.0 and NFC. 
+Providing the juice to run the device is a 2,500mAh battery. The 5.5-inch
+ Triluminos display is supported by Sony's proprietary Bravia Engine 2 and has a resolution
+ of 720x1280. The colours are slightly oversaturated but the screen does look 
+good. Viewing angles and sunlight legibility are pretty good.Sony
+ ships the Xperia C3 Dual with the latest Android 4.4 (KitKat) and slaps
+ its own skin on top of it. One thing we noticed is the addition of 
+a One-handed Operations option in the settings menu. Unfortunately, 
+this feature is not as useful or dense as the implementations by 
+LG or Samsung on their phablets. Switching on the feature allows users to do only
+ two things: use a pattern to unlock the screen using one hand, and double
+ tap the Home button to access notifications and settings at the bottom instead of 
+the top. There is no split-screen mode or a windowed mode to speak of. 
+Swiping from the left on the app drawer brings up a set of options which
+ helps users search for apps, uninstall them and change the order they appear in. 
+There are quite a few extra apps, most of which are not useful and cannot be deleted. Except for the Walkman and 
+Album apps, the rest of the Sony-branded bloat is not worth your time. CameraAfter
+ testing the front camera extensively we can safely say that selfie 
+lovers can blindly pick up the Xperia C3 Dual. The camera captures a 
+good amount of detail and trumps the HTC Desire 816's 5-megapixel front
+ camera thanks to the addition of the soft LED flash. The captured 
+colours are natural and the software automatically works to reduce 
+noise. The soft flash is also great since it doesn't throw harsh light at
+ a subject, and instead highlights 
+the features of faces nicely.(Click to see full size)The 8-megapixel rear camera, on the 
+other hand, is a disappointment. By default, the software sets it 
+to shoot images at 5-megapixel resolution. The camera has problems in 
+focussing on subjects and is slow as well. Most times, we ended up with blurry shots because the camera couldn't focus.
+ Even if it did manage to focus, the captured images were of average 
+quality to say the least. Details were smudged and we noticed some 
+chromatic aberration as well. The quality of the captured 1080p video is
+ strictly okay.(Click to see full size)The camera app has a few modes including Superior 
+Auto, Manual, AR Effect, Picture Effect, Timeshift Burst, Social Live, 
+Sweep Panorama and Portrait Retouch. The Manual mode features a ton of 
+options and the HDR option can be found within the truckload of other scene 
+settings that this mode offers. PerformanceBy now we are well
+ aware that the Snapdragon 400 processor is no slouch. In daily use, 
+this processor coupled with the 1GB of RAM ensures that swiping through 
+the app drawer and opening/closing apps is a smooth process on the Sony 
+Xperia C3 Dual. We played Asphalt 8 and it ran without much lag. The phone scored 10.9fps 
+and 5,642 points respectively in
+ our GFXbench and 3DMark Ice Storm tests, which is similar to what all phones with Adreno 
+305 GPU usually score. Similarly, the phone achieved 17,520 and 8,694 in our 
+AnTuTu and Quadrant benchmarks respectively. The Snapdragon 400 handles full-HD 
+videos with ease; even our heavily encoded sample. It played all the videos 
+we threw at it with no noticeable stuttering or screen tearing. The 
+loudspeaker does not get very loud but throws out crisp and clear sound. On the
+ flipside, the bundled earphones are not great for listening to music 
+with and they start hurting after twenty minutes or so. We'd suggest replacing them.  
+The call quality is good and we didn't face any call drops even in low 
+network areas. One thing that took us completely by surprise was 
+that the 2,500mAh battery on the Sony Xperia C3 Dual is a beast. It 
+lasted us 13 hours and 40 minutes in our continuous video loop test. We 
+noticed that in our daily usage, this phone easily lasted us two days before it 
+needed a charge. Kudos to Sony on achieving this.VerdictAs far as Sony is concerned, the company's marketing 
+strategy for the Xperia C3 Dual is spot on. For those who want a competent 
+smartphone which can capture great selfies, the Xperia C3 Dual is the best bet
+ at the moment. With its official price of Rs. 23,990, the phone competes directly with the HTC Desire 816 (review | pictures). HTC's phablet has a bigger screen and an infinitely better rear 
+camera, whereas the battery life on the Sony Xperia C3 Dual is better. 
+ Both phones are great in their own rights, so in the end it boils 
+down to the brand affinity of the buyer.  
+Sony Xperia C3 Dual in pictures
+
+An Oxford Dictionary blog post states that the word 'selfie' (derived from 'self-portrait') was selected as the Word of the Year 2013. 
+Apparently, there was little to no argument about this decision. It shouldn't be surprising, considering there is 
+even a chartbusting pop song with that title. At the time 
+of writing this review there are reports of a new $20 iPhone case 
+that has a hairbrush extension on the side. Truly, 
+vanity knows no bounds. 
+
+Naturally, smartphone companies are 
+trying to cash in on this trend by creating devices with powerful 
+front cameras. The Sony Xperia C3 Dual is the latest smartphone to 
+feature a 5-megapixel front camera. This camera has a 25mm wide-angle 
+lens to accommodate more faces than even Ellen managed with her Samsung 
+Galaxy Note 3 (review | pictures) at the 2014 Oscars. What's more is that the front camera 
+also has a soft LED flash. As usual, we put the device through 
+our battery of tests. 
+
+Look and feelThe moment we opened 
+the box, the mint-coloured Sony Xperia C3 Dual grabbed our attention. 
+This is probably the snazziest colour we've ever seen on a smartphone, and we expect fashionistas will approve. The phone is available 
+in plain old black and white as well for those who aren't feeling too 
+adventurous. The C3 Dual is designed with Sony's tried-and-tested (and overused) 
+'omnibalance' design style. While the entire body is made of plastic, a chrome
+ trim runs along each side. Overall, the phone feels sturdy. 
+
+After
+ playing with the ergonomically fantastic LG G3 (review | pictures), which manages to cram a
+ 5.5-inch display in a compact design, the Sony Xperia C3 Dual feels ginormous with the same 5.5-inch screen size in comparison. It has dimensions of 
+156.2x78.7x7.6mm. It is pretty thin, and for a device of this size it is 
+also lightweight at just 150g. Unless you have huge hands, 
+operating the phone with one hand is going to be problematic. 
+
+The
+ flap covering the memory card slot sits on the left edge along with the
+ Micro-USB port. The right edge is crowded with the, 
+dual SIM card tray, power button in the center, volume rocker below it, 
+and dedicated shutter button for the camera. On the back of the device 
+is the primary camera (or is it really?) and the loudspeaker grill.  
+
+Specifications and SoftwareLike
+quite a few mid-range devices, the Sony Xperia C3 Dual has a 
+quad-core Snapdragon 400 processor clocked at 1.2GHz under the hood with its staple Adreno 305 integrated GPU. The phone has 1GB of RAM 
+and 8GB of internal storage, of which only around 5.09GB is available 
+for use. Fortunately, one can add up to 32GB more space using a microSD
+ card.
+
+The phone accepts two SIM cards, both of which can
+ connect to 3G networks. They work in dual standby mode. The rest of the 
+connectivity is in the form of Wi-Fi a/b/g/n, Bluetooth 4.0 and NFC. 
+Providing the juice to run the device is a 2,500mAh battery. The 5.5-inch
+ Triluminos display is supported by Sony's proprietary Bravia Engine 2 and has a resolution
+ of 720x1280. The colours are slightly oversaturated but the screen does look 
+good. Viewing angles and sunlight legibility are pretty good.
+
+Sony
+ ships the Xperia C3 Dual with the latest Android 4.4 (KitKat) and slaps
+ its own skin on top of it. One thing we noticed is the addition of 
+a One-handed Operations option in the settings menu. Unfortunately, 
+this feature is not as useful or dense as the implementations by 
+LG or Samsung on their phablets. Switching on the feature allows users to do only
+ two things: use a pattern to unlock the screen using one hand, and double
+ tap the Home button to access notifications and settings at the bottom instead of 
+the top. 
+
+There is no split-screen mode or a windowed mode to speak of. 
+Swiping from the left on the app drawer brings up a set of options which
+ helps users search for apps, uninstall them and change the order they appear in. 
+There are quite a few extra apps, most of which are not useful and cannot be deleted. Except for the Walkman and 
+Album apps, the rest of the Sony-branded bloat is not worth your time. 
+
+CameraAfter
+ testing the front camera extensively we can safely say that selfie 
+lovers can blindly pick up the Xperia C3 Dual. The camera captures a 
+good amount of detail and trumps the HTC Desire 816's 5-megapixel front
+ camera thanks to the addition of the soft LED flash. The captured 
+colours are natural and the software automatically works to reduce 
+noise. The soft flash is also great since it doesn't throw harsh light at
+ a subject, and instead highlights 
+the features of faces nicely.
+
+(Click to see full size)The 8-megapixel rear camera, on the 
+other hand, is a disappointment. By default, the software sets it 
+to shoot images at 5-megapixel resolution. The camera has problems in 
+focussing on subjects and is slow as well. Most times, we ended up with blurry shots because the camera couldn't focus.
+ Even if it did manage to focus, the captured images were of average 
+quality to say the least. Details were smudged and we noticed some 
+chromatic aberration as well. The quality of the captured 1080p video is
+ strictly okay.
+
+(Click to see full size)The camera app has a few modes including Superior 
+Auto, Manual, AR Effect, Picture Effect, Timeshift Burst, Social Live, 
+Sweep Panorama and Portrait Retouch. The Manual mode features a ton of 
+options and the HDR option can be found within the truckload of other scene 
+settings that this mode offers. 
+
+PerformanceBy now we are well
+ aware that the Snapdragon 400 processor is no slouch. In daily use, 
+this processor coupled with the 1GB of RAM ensures that swiping through 
+the app drawer and opening/closing apps is a smooth process on the Sony 
+Xperia C3 Dual. We played Asphalt 8 and it ran without much lag. 
+
+The phone scored 10.9fps 
+and 5,642 points respectively in
+ our GFXbench and 3DMark Ice Storm tests, which is similar to what all phones with Adreno 
+305 GPU usually score. Similarly, the phone achieved 17,520 and 8,694 in our 
+AnTuTu and Quadrant benchmarks respectively. The Snapdragon 400 handles full-HD 
+videos with ease; even our heavily encoded sample. It played all the videos 
+we threw at it with no noticeable stuttering or screen tearing. 
+
+The 
+loudspeaker does not get very loud but throws out crisp and clear sound. On the
+ flipside, the bundled earphones are not great for listening to music 
+with and they start hurting after twenty minutes or so. We'd suggest replacing them.  
+The call quality is good and we didn't face any call drops even in low 
+network areas. 
+
+One thing that took us completely by surprise was 
+that the 2,500mAh battery on the Sony Xperia C3 Dual is a beast. It 
+lasted us 13 hours and 40 minutes in our continuous video loop test. We 
+noticed that in our daily usage, this phone easily lasted us two days before it 
+needed a charge. Kudos to Sony on achieving this.
+
+VerdictAs far as Sony is concerned, the company's marketing 
+strategy for the Xperia C3 Dual is spot on. For those who want a competent 
+smartphone which can capture great selfies, the Xperia C3 Dual is the best bet
+ at the moment. With its official price of Rs. 23,990, the phone competes directly with the HTC Desire 816 (review | pictures). HTC's phablet has a bigger screen and an infinitely better rear 
+camera, whereas the battery life on the Sony Xperia C3 Dual is better. 
+ Both phones are great in their own rights, so in the end it boils 
+down to the brand affinity of the buyer.  
+

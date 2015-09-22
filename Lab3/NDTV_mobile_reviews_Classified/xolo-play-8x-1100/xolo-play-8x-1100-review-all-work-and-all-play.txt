@@ -1,0 +1,237 @@
+Xolo Play 8X-1100 Review: All Work and All Play
+
+Nostalgia
+ hits us hard when we rewind a few years and think about 
+Nokia's attempt to create a mobile phone that could double up as a 
+portable console. The wonky designs notwithstanding, both the Nokia 
+N-Gage and the N-Gage QD were really imaginative products, and we fondly 
+remember sneaking in a few multiplayer FIFA matches between lectures in 
+college. Moving forward, things have been changing. Smartphones have become several times more powerful, with bigger screens and better connectivity. The need to create separate devices for gaming has almost been eliminated.Cut to 2014 and we see
+ Xolo targeting the mobile gaming population with its Play lineup of 
+smartphones. Their newest entrant in this series is the Play 8X-1100. 
+Let's find out what makes it suitable for gaming, and what unique features it does or 
+doesn't have. Look and feelThe Xolo Play 8X-1100 has a dual-tone body. The white rear panel is removable and does
+ not cover the full length of the device. It ends abruptly 
+in a black strip at the bottom. This black wraps around the edges a bit awkwardly and then starts running along sides and front. The front, meanwhile, has a white strip below the screen. This results in an unattractive chequerboard pattern. Xolo's 
+effort might have been to create something unique in terms of looks, but the Play 
+8X-1100 has a design that just will not appeal to everyone. At least we do like the dotted style of the navigation buttons below the screen. Also, the
+ backlighting on these buttons is even. The 5-inch screen has 
+Gorilla Glass 3 for protection. The phone itself measures 141.5x70.8x8.7mm, which makes it feel rather compact. Single-handed usage is not a hassle either. Above the screen you can 
+find the front camera, notification LED and earpiece. The power button is 
+on the right while the volume rocker sits on the left. The rear has the 
+primary camera, flash, microphone for capturing sound in videos, and 
+a loudspeaker grille. A Micro-USB port and another microphone for phone 
+calls are on the bottom. The top edge has the 3.5mm 
+audio jack for headphones. Specifications and softwareThe 
+Play 8X-1100 has a pretty decent list of specifications for its price. Inside 
+the body of the phone is an Mediatek MT6592 octa-core 
+processor clocked at 1.7GHz, wich an integrated Mali-450 GPU. There is an 
+ample 2GB of RAM and adequate 16GB of internal storage as well.O ne can add up to 32GB more storage space using a microSD
+ card.The Xolo Play 8X-1100 also has USB On-the-Go support, which 
+effectively allows even more storage space.The phone supports dual SIM cards and works on the 850/900/1800/1900/2100MHz frequency bands. Connectivity includes Wi-Fi and Bluetooth 4.0. 
+The phone has a 13-megapixel rear camera with a Sony Exmor RS sensor 
+and a 5-megapixel 88-degree wide-angle front camera. Apart from 
+the standard accelerometer and proximity sensor, a gyroscope is also present 
+which aids in some game controls. A 2100mAh battery powers the device.The
+ 5-inch screen has a resolution of 720x1280 pixels. It is an IPS
+ LCD panel. The colours on this screen are slightly muted and we noticed a bluish tint on screens with lots of visible white. Even when viewed at very slight angles, we could 
+immediately spot colours desaturating. You would need to crank up the 
+brightness for the screen to be visible under direct sunlight. The
+ Play 8X-1100 runs nearly stock Android 4.4.2 (KitKat) and the inclusion
+ of a few third-party apps is the only difference from devices like the Nexus 5. Xolo adds a Smart Gesture feature which 
+basically lets users draw preset shapes to launch apps. It failed to 
+work for us most of the time. The only gaming related tweak is the presence of an app called Xolo Play Zone, which is basically a listing of 
+several Gameloft titles. After an OTA update of around 20MB, we noticed
+ that Modern Combat 4 and Spider-Man: Ultimate Power were installed. We 
+felt this was too good to be true, and after firing up the games immediately 
+realised that these were awful Java ports. What is even worse is the 
+fact that these were trials, and Xolo wants to charge Rs. 50 for each full game. We suggest users 
+stay away from this app and use the Google Play store instead.CameraThe
+ primary camera on the Play 8X-1100 has Sony's Exmor RS sensor which is
+ a staple in Xolo's high-end phones. We loved the performance of this 
+sensor. The camera app is the stock Gingerbread one we've used before and it
+ doesn't have any features worth mentioning. In our 
+daylight testing we noticed that apart from a green hue that 
+occasionally set in with certain shots, details were typical of Sony sensors - crisp and warm, with natural colours. There was
+ no barrel distortion either. We must make a mention of how quickly the 
+lens refocused from shout to shot. It was almost as good as the 
+performance of some highly-priced flagship smartphones. Even the 
+performance in low-light is really good. There is some noise that creeps
+ in but it is not too drastic. The 5-megapixel front camera is almost as
+ good as the one we saw in the HTC Desire 816 (Review | Pictures) and the Sony Xperia C3 Dual (Review | Pictures), 
+which is saying a lot. It captured some really good selfies and we were 
+almost tempted to post them on Instagram. (click for full size)All is not hunky dory 
+though, as the camera cannot capture good 1080p video. This could be 
+because it uses the .3GP format which loses a lot of details in compression. 
+As a result we ended up with video that had choppy framerates, issues 
+with exposure detection, imbalanced colours, and overall loss of details. PerformanceIn
+ daily use we found that the Play 8X-1100 was mostly zippy 
+and there were no lags. After our mild disappointment with 
+the Xolo Play Zone software, we got down to business and downloaded a few 
+games including Dead Trigger 2, Asphalt 8 and Temple Run 2 to see how 
+each of them performed. Temple Run 2 ran smoothly without any hiccups at
+ all. In Dead Trigger 2, the graphics settings 
+were set to low by default. We cranked things up and were pleasantly
+ surprised to find that apart from occasional lags when tons of 
+zombies swarm a particular area, the phone managed to hold up well. 
+Asphalt 8 also ran without hiccups most of the time. However, please 
+bear in mind that there is no special hardware in this phone to earn the special 'Xolo Play' branding, and we expect all phones with similar specs to perform 
+just as well.We ran our regular suite of 
+benchmarks. In GFXbench the phone scored 14.3fps whereas in the 
+more intensive 3D Mark Ice Storm test it managed a score of 6,674. These
+ scores put the Play 8X-1100 within touching distance of the Asus Zenfone 5 (Review | 
+Pictures), which has the best graphics benchmark results for devices 
+under Rs. 15,000. In AnTuTu and Quadrant, the phone scored, 
+30,092 and 13,898 respectively, which are both well above the scores of competing phones. The 
+phone played all the videos we threw at it just fine, including our heavily encoded 40mbps file.  The audio quality, via both the 
+bundled headset and in-built speakers, is not too great. The speaker
+ doesn't get too loud and also crackles at high volumes. We found that the sound quality was
+ really good. The one area where Xolo could 
+have done a bit more is the performance of the battery. It lasted 
+us 5 hours and 25 minutes in our video loop test. This doesn't 
+bode well for a phone that aims to be made for gamers, unless the company thinks its customers will be happy carrying external batteries around everywhere. Using the Xolo 
+power app you can save some precious battery life, but don't expect the 
+difference to be a lot. VerdictThe Xolo Play 8X-1100 is 
+available for around Rs.14,000 online, which is a 
+good price for a phone that performs so well. From playing games to 
+capturing photographs, the 8X-1100 doesn't disappoint. However, it cannot capture
+ good videos, the design is awkward, and the battery life is not too 
+great. If you can look past these flaws then the Play 8X-1100 is not a 
+bad investment. The alternatives to this phone are the Moto G (Gen 2) (Review | Pictures), Asus Zenfone 5, and HTC Desire 616 (Review | 
+Pictures), which has recently received a price cut.
+Xolo Play 8X-1100 in pictures
+
+Nostalgia
+ hits us hard when we rewind a few years and think about 
+Nokia's attempt to create a mobile phone that could double up as a 
+portable console. The wonky designs notwithstanding, both the Nokia 
+N-Gage and the N-Gage QD were really imaginative products, and we fondly 
+remember sneaking in a few multiplayer FIFA matches between lectures in 
+college. Moving forward, things have been changing. Smartphones have become several times more powerful, with bigger screens and better connectivity. The need to create separate devices for gaming has almost been eliminated.
+
+Cut to 2014 and we see
+ Xolo targeting the mobile gaming population with its Play lineup of 
+smartphones. Their newest entrant in this series is the Play 8X-1100. 
+Let's find out what makes it suitable for gaming, and what unique features it does or 
+doesn't have. 
+
+Look and feelThe Xolo Play 8X-1100 has a dual-tone body. The white rear panel is removable and does
+ not cover the full length of the device. It ends abruptly 
+in a black strip at the bottom. This black wraps around the edges a bit awkwardly and then starts running along sides and front. The front, meanwhile, has a white strip below the screen. This results in an unattractive chequerboard pattern. Xolo's 
+effort might have been to create something unique in terms of looks, but the Play 
+8X-1100 has a design that just will not appeal to everyone. At least we do like the dotted style of the navigation buttons below the screen. Also, the
+ backlighting on these buttons is even. 
+
+The 5-inch screen has 
+Gorilla Glass 3 for protection. The phone itself measures 141.5x70.8x8.7mm, which makes it feel rather compact. Single-handed usage is not a hassle either. Above the screen you can 
+find the front camera, notification LED and earpiece. The power button is 
+on the right while the volume rocker sits on the left. The rear has the 
+primary camera, flash, microphone for capturing sound in videos, and 
+a loudspeaker grille. A Micro-USB port and another microphone for phone 
+calls are on the bottom. The top edge has the 3.5mm 
+audio jack for headphones. 
+
+Specifications and softwareThe 
+Play 8X-1100 has a pretty decent list of specifications for its price. Inside 
+the body of the phone is an Mediatek MT6592 octa-core 
+processor clocked at 1.7GHz, wich an integrated Mali-450 GPU. There is an 
+ample 2GB of RAM and adequate 16GB of internal storage as well.O ne can add up to 32GB more storage space using a microSD
+ card.The Xolo Play 8X-1100 also has USB On-the-Go support, which 
+effectively allows even more storage space.
+
+The phone supports dual SIM cards and works on the 850/900/1800/1900/2100MHz frequency bands. Connectivity includes Wi-Fi and Bluetooth 4.0. 
+The phone has a 13-megapixel rear camera with a Sony Exmor RS sensor 
+and a 5-megapixel 88-degree wide-angle front camera. Apart from 
+the standard accelerometer and proximity sensor, a gyroscope is also present 
+which aids in some game controls. A 2100mAh battery powers the device.
+
+The
+ 5-inch screen has a resolution of 720x1280 pixels. It is an IPS
+ LCD panel. The colours on this screen are slightly muted and we noticed a bluish tint on screens with lots of visible white. Even when viewed at very slight angles, we could 
+immediately spot colours desaturating. You would need to crank up the 
+brightness for the screen to be visible under direct sunlight. 
+
+The
+ Play 8X-1100 runs nearly stock Android 4.4.2 (KitKat) and the inclusion
+ of a few third-party apps is the only difference from devices like the Nexus 5. Xolo adds a Smart Gesture feature which 
+basically lets users draw preset shapes to launch apps. It failed to 
+work for us most of the time. 
+
+The only gaming related tweak is the presence of an app called Xolo Play Zone, which is basically a listing of 
+several Gameloft titles. After an OTA update of around 20MB, we noticed
+ that Modern Combat 4 and Spider-Man: Ultimate Power were installed. We 
+felt this was too good to be true, and after firing up the games immediately 
+realised that these were awful Java ports. What is even worse is the 
+fact that these were trials, and Xolo wants to charge Rs. 50 for each full game. We suggest users 
+stay away from this app and use the Google Play store instead.
+
+CameraThe
+ primary camera on the Play 8X-1100 has Sony's Exmor RS sensor which is
+ a staple in Xolo's high-end phones. We loved the performance of this 
+sensor. The camera app is the stock Gingerbread one we've used before and it
+ doesn't have any features worth mentioning. 
+
+In our 
+daylight testing we noticed that apart from a green hue that 
+occasionally set in with certain shots, details were typical of Sony sensors - crisp and warm, with natural colours. There was
+ no barrel distortion either. We must make a mention of how quickly the 
+lens refocused from shout to shot. It was almost as good as the 
+performance of some highly-priced flagship smartphones. 
+
+Even the 
+performance in low-light is really good. There is some noise that creeps
+ in but it is not too drastic. The 5-megapixel front camera is almost as
+ good as the one we saw in the HTC Desire 816 (Review | Pictures) and the Sony Xperia C3 Dual (Review | Pictures), 
+which is saying a lot. It captured some really good selfies and we were 
+almost tempted to post them on Instagram. 
+
+(click for full size)All is not hunky dory 
+though, as the camera cannot capture good 1080p video. This could be 
+because it uses the .3GP format which loses a lot of details in compression. 
+As a result we ended up with video that had choppy framerates, issues 
+with exposure detection, imbalanced colours, and overall loss of details. 
+
+PerformanceIn
+ daily use we found that the Play 8X-1100 was mostly zippy 
+and there were no lags. After our mild disappointment with 
+the Xolo Play Zone software, we got down to business and downloaded a few 
+games including Dead Trigger 2, Asphalt 8 and Temple Run 2 to see how 
+each of them performed. Temple Run 2 ran smoothly without any hiccups at
+ all. In Dead Trigger 2, the graphics settings 
+were set to low by default. We cranked things up and were pleasantly
+ surprised to find that apart from occasional lags when tons of 
+zombies swarm a particular area, the phone managed to hold up well. 
+Asphalt 8 also ran without hiccups most of the time. However, please 
+bear in mind that there is no special hardware in this phone to earn the special 'Xolo Play' branding, and we expect all phones with similar specs to perform 
+just as well.
+
+We ran our regular suite of 
+benchmarks. In GFXbench the phone scored 14.3fps whereas in the 
+more intensive 3D Mark Ice Storm test it managed a score of 6,674. These
+ scores put the Play 8X-1100 within touching distance of the Asus Zenfone 5 (Review | 
+Pictures), which has the best graphics benchmark results for devices 
+under Rs. 15,000. In AnTuTu and Quadrant, the phone scored, 
+30,092 and 13,898 respectively, which are both well above the scores of competing phones. 
+
+The 
+phone played all the videos we threw at it just fine, including our heavily encoded 40mbps file.  The audio quality, via both the 
+bundled headset and in-built speakers, is not too great. The speaker
+ doesn't get too loud and also crackles at high volumes. We found that the sound quality was
+ really good. 
+
+The one area where Xolo could 
+have done a bit more is the performance of the battery. It lasted 
+us 5 hours and 25 minutes in our video loop test. This doesn't 
+bode well for a phone that aims to be made for gamers, unless the company thinks its customers will be happy carrying external batteries around everywhere. Using the Xolo 
+power app you can save some precious battery life, but don't expect the 
+difference to be a lot. 
+
+VerdictThe Xolo Play 8X-1100 is 
+available for around Rs.14,000 online, which is a 
+good price for a phone that performs so well. From playing games to 
+capturing photographs, the 8X-1100 doesn't disappoint. However, it cannot capture
+ good videos, the design is awkward, and the battery life is not too 
+great. If you can look past these flaws then the Play 8X-1100 is not a 
+bad investment. The alternatives to this phone are the Moto G (Gen 2) (Review | Pictures), Asus Zenfone 5, and HTC Desire 616 (Review | 
+Pictures), which has recently received a price cut.
+

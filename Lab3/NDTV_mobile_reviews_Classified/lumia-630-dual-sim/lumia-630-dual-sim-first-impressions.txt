@@ -1,0 +1,176 @@
+Lumia 630 Dual SIM: First Impressions
+
+The Lumia 630 is an important phone for Microsoft.Read the 
+aforementioned sentence once again. Notice something amiss? Yes. It is 
+no more a 'Nokia Lumia' device. The transition is happening steadily 
+leaving behind the once powerful legacy of Nokia.There are a few other noteworthy 
+changes. The Lumia 630 is the first phone to run Windows phone 8.1 out 
+of the box and has the distinction of being the first device to feature 
+on-screen buttons on a Windows phone. Moreover, it is the first Lumia 
+phone that is available in a dual-SIM avatar. In that vein, the Lumia 
+630 - despite being run-of-the-mill - could usher a change.Early 
+April, Nokia - the sale wasn't complete back then - showcased the Lumia 
+630 to the world at the Microsoft Build conference.
+ In a simultaneous launch event across three cities - Bangalore, Delhi 
+and Mumbai - Microsoft India on Monday pulled the wraps off the Lumia 630 and Lumia 630 
+Dual SIM.We spent some time with the dual-SIM variant of this budget phone and here are our first thoughts.Design and featuresAt
+ first glance, the white-coloured Lumia 630 Dual SIM that we played with
+ looked like an elongated version of the iPhone 5c
+with a matte rear cover. With dimensions of 129.5 x 66.7 x 9.2 mm and 
+134g, the phone feels solid to hold in one hand. Lumia 630 has a 
+4.5-inch display with a resolution of FWVGA (480x854 pixels) and Nokia's
+ ClearBlack LCD display with Gorilla Glass 3 which translates to a pixel
+ density of 221ppi. The screen is crystal clear with accurate colour 
+reproduction and we were hard-pressed to find any faults with it.Most
+ glaring omission is the front-facing camera - a complete surprise in 
+the era of selfies and smartphones with 5-megapixel front cameras. But 
+we are of the opinion that it is better to have no front camera than a 
+bad one. The 5-megapixel rear autofocus camera has no flash, which is a 
+disappointment.Another rather baffling decision is the inclusion 
+of only 512MB of RAM. As we've seen in the past, this means that several
+ games will not be compatible. On the plus side, it has a Snapdragon 400
+ quad-core processor clocked at 1.2GHz under the hood. The Lumia 630 
+supports up to 128GB of micro-SD cards, which is great for users who 
+require more storage space than the paltry 4GB internal storage.The
+ Smart dual-SIM feature allows switching SIM cards for sending messages 
+or for 3G at will. It also supports two different icons for 
+phone/messaging for the two SIM cards or it can even be fused into one. 
+The phone has an 1830mAh battery.At the Build conference, Nokia 
+had announced the Nokia SensorCore including an SDK for developers.
+ Basically, the SensorCore can detect users' steps using the phone, 
+record it and pass the data to applications like Bing Health & 
+Fitness. This tech is present within the Lumia 630. In fact, Microsoft 
+goes as far as to claim that one won't need to depend on wearables that 
+focus on fitness. We are eager to test this feature when we receive the 
+review unit. Windows Phone 8.1 and camera performanceThis
+ was our first real tryst with the Windows phone update that brings it 
+closer to the competition. It was high time anyway for Microsoft to 
+implement something conceptually similar to Android's notification 
+centre for Windows phone as well. In our limited time with the phone we 
+couldn't test the entire swath of new features in the Windows phone 8.1 
+upgrade but we did try a few important ones.The notification 
+slider in Windows phone 8.1 is called the Action Center. It has two 
+stages of the swipe from the top of the screen motion. The first swipe 
+opens only a single row of quick settings toggle which houses four quick
+ access buttons to a default set of functions at start. This row is 
+completely customisable. The second level of swipe shows the notifications from various apps.At the press conference, Microsoft played
+ up the new Word Flow keyboard and we immediately put it to test to find
+ out how it works. Our typing speed improved in an instant.Users can now use customisable backgrounds that sits behind the tiles; a relief from the regular set of plain colours.We
+ tried the 5-megapixel camera and it managed to focus in an instant 
+without too much lag. The captured picture on the phone's screen looked 
+decent but it seemed to have lost some details around the edges. Longer 
+time with a review unit would probably confirm our suspicions.Final wordsThe
+ Lumia 630 - hitting the retail shelves on May 14 - has a lot riding on 
+its shoulders as it provides the world with peek into the world of 
+Windows Phone 8.1 before the other phones get the update on June 24.The
+ single-SIM version is priced at Rs. 10,500 and Microsoft quotes a price
+ of Rs.11,500 for the dual-SIM one. It competes head-to-head with an 
+established behemoth - the Moto G. Also, joining 
+the fray soon is the Moto E. The budget segment is heating up and the 
+consumers are only glad.Keep watching this space for our detailed review of the Lumia 630. Lumia 630 Dual SIM in pictures
+
+The Lumia 630 is an important phone for Microsoft.
+
+Read the 
+aforementioned sentence once again. Notice something amiss? Yes. It is 
+no more a 'Nokia Lumia' device. The transition is happening steadily 
+leaving behind the once powerful legacy of Nokia.
+
+There are a few other noteworthy 
+changes. The Lumia 630 is the first phone to run Windows phone 8.1 out 
+of the box and has the distinction of being the first device to feature 
+on-screen buttons on a Windows phone. Moreover, it is the first Lumia 
+phone that is available in a dual-SIM avatar. In that vein, the Lumia 
+630 - despite being run-of-the-mill - could usher a change.
+
+Early 
+April, Nokia - the sale wasn't complete back then - showcased the Lumia 
+630 to the world at the Microsoft Build conference.
+ In a simultaneous launch event across three cities - Bangalore, Delhi 
+and Mumbai - Microsoft India on Monday pulled the wraps off the Lumia 630 and Lumia 630 
+Dual SIM.
+
+We spent some time with the dual-SIM variant of this budget phone and here are our first thoughts.
+
+Design and featuresAt
+ first glance, the white-coloured Lumia 630 Dual SIM that we played with
+ looked like an elongated version of the iPhone 5c
+with a matte rear cover. With dimensions of 129.5 x 66.7 x 9.2 mm and 
+134g, the phone feels solid to hold in one hand. Lumia 630 has a 
+4.5-inch display with a resolution of FWVGA (480x854 pixels) and Nokia's
+ ClearBlack LCD display with Gorilla Glass 3 which translates to a pixel
+ density of 221ppi. The screen is crystal clear with accurate colour 
+reproduction and we were hard-pressed to find any faults with it.
+
+Most
+ glaring omission is the front-facing camera - a complete surprise in 
+the era of selfies and smartphones with 5-megapixel front cameras. But 
+we are of the opinion that it is better to have no front camera than a 
+bad one. The 5-megapixel rear autofocus camera has no flash, which is a 
+disappointment.
+
+Another rather baffling decision is the inclusion 
+of only 512MB of RAM. As we've seen in the past, this means that several
+ games will not be compatible. On the plus side, it has a Snapdragon 400
+ quad-core processor clocked at 1.2GHz under the hood. The Lumia 630 
+supports up to 128GB of micro-SD cards, which is great for users who 
+require more storage space than the paltry 4GB internal storage.
+
+The
+ Smart dual-SIM feature allows switching SIM cards for sending messages 
+or for 3G at will. It also supports two different icons for 
+phone/messaging for the two SIM cards or it can even be fused into one. 
+The phone has an 1830mAh battery.
+
+At the Build conference, Nokia 
+had announced the Nokia SensorCore including an SDK for developers.
+ Basically, the SensorCore can detect users' steps using the phone, 
+record it and pass the data to applications like Bing Health & 
+Fitness. This tech is present within the Lumia 630. In fact, Microsoft 
+goes as far as to claim that one won't need to depend on wearables that 
+focus on fitness. We are eager to test this feature when we receive the 
+review unit.
+
+ 
+
+Windows Phone 8.1 and camera performanceThis
+ was our first real tryst with the Windows phone update that brings it 
+closer to the competition. It was high time anyway for Microsoft to 
+implement something conceptually similar to Android's notification 
+centre for Windows phone as well. In our limited time with the phone we 
+couldn't test the entire swath of new features in the Windows phone 8.1 
+upgrade but we did try a few important ones.
+
+The notification 
+slider in Windows phone 8.1 is called the Action Center. It has two 
+stages of the swipe from the top of the screen motion. The first swipe 
+opens only a single row of quick settings toggle which houses four quick
+ access buttons to a default set of functions at start. This row is 
+completely customisable. The second level of swipe shows the notifications from various apps.
+
+At the press conference, Microsoft played
+ up the new Word Flow keyboard and we immediately put it to test to find
+ out how it works. Our typing speed improved in an instant.
+
+Users can now use customisable backgrounds that sits behind the tiles; a relief from the regular set of plain colours.
+
+We
+ tried the 5-megapixel camera and it managed to focus in an instant 
+without too much lag. The captured picture on the phone's screen looked 
+decent but it seemed to have lost some details around the edges. Longer 
+time with a review unit would probably confirm our suspicions.
+
+Final wordsThe
+ Lumia 630 - hitting the retail shelves on May 14 - has a lot riding on 
+its shoulders as it provides the world with peek into the world of 
+Windows Phone 8.1 before the other phones get the update on June 24.
+
+The
+ single-SIM version is priced at Rs. 10,500 and Microsoft quotes a price
+ of Rs.11,500 for the dual-SIM one. It competes head-to-head with an 
+established behemoth - the Moto G. Also, joining 
+the fray soon is the Moto E. The budget segment is heating up and the 
+consumers are only glad.
+
+Keep watching this space for our detailed review of the Lumia 630.
+

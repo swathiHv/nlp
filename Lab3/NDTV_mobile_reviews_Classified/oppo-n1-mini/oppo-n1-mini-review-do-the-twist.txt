@@ -1,0 +1,257 @@
+Oppo N1 Mini Review: Do the Twist
+
+Last
+ year's Oppo N1 had a unique 206-degree swivel camera. However, what it 
+also had was a huge 5.9-inch screen and a huge footprint considering 
+the camera module was fixed above the display. Oppo realised the need 
+for a mini version of this phone and recently announced the N1 Mini, which has a 5-inch screen instead and a watered-down 
+specifications list. The swivel camera is carried forward to this phone and looks 
+as intriguing as ever. We got to play with the smaller (or is it 
+really?) N1 to form our opinions about the device. Read on. Look and feelMini
+ versions of popular flagship phones have smaller footprints compared 
+to their larger siblings. The screen sizes on these mini 
+phones vary from company to company. However, it is clear that Oppo is not taking this concept literally enough, by fitting a 5-inch screen, which is still huge by most standards, on the
+ Oppo N1 Mini. The phone has a width of 72.2mm and  height of 148.4mm, 
+which includes the 206-degree rotating camera. The 9.2mm 
+thickness of the phone is on the higher side. 
+Thankfully, the weight of 150g is distributed evenly across the device 
+and it fit snugly in our palms. All said and done, the N1 Mini is much, 
+much smaller than the original N1, which was a behemoth. Another 
+differentiating factor in the N1 Mini is that it is available in two 
+funky colours - cool mint and yellow - in addition to basic white. 
+We got the cool mint variant for review and it reminded us of the Sony 
+Xperia T3 (Review | Pictures). The camera's mechanism is 
+rather smooth and looks like it should last at least until your next upgrade. There are parallel metal strips running around the edges, 
+and the corners are nice and curved. The slightly curved rear helps you grip this phone. The rear panel is not removable and so Oppo uses a 
+removable SIM tray. This tray lies on the right along 
+with the volume buttons, whereas the power button sits on the left. There 
+are two microphones - one on the rear and another on the bottom. The 
+bottom also houses the 3.5mm jack, Micro-USB port and speaker grill.
+ Overall, the Oppo N1 Mini, despite its plastic build, is a 
+looks and feels like it is worth every paisa 
+you spend on it. Specifications and softwareOn paper at 
+least, the Oppo N1 Mini has mid-range specs. The Snapdragon 400 SoC has four 1.6GHz CPU cores and an Adreno 305 GPU. 
+There is 2GB of RAM and 16GB of internal storage space. There is no slot
+ for a memory card, which we think could pose a bit of a
+ problem if you often find yourself strapped for storage space on your
+ smartphone.The now-famous 13-megapixel
+camera has a 1/3.2-inch sensor and LED flash, and of course functions as both, a front and rear camera. The N1 Mini supports Bluetooth 
+v4.0 and NFC. It can connect to 3G networks and has support for 4G LTE 
+networks as well but since it doesn't have support for the 2.3GHz band it 
+wont work on current Indian LTE networks. A 2140 mAh Li-Ion 
+battery provides the juice to power the phone. The 5-inch 
+720p IPS LCD panel looks good with its 294ppi density. Ideally, we would
+ have liked a 1080p panel but the 720p option on the N1 Mini is in fact 
+not too bad. We liked the viewing angles and the rather natural colour 
+reproduction. The sunlight legibility, on the other hand, was average at
+ best. In this day and age where even much cheaper phones are 
+running Android KitKat out-of-the-box, we are really surprised that Oppo
+ is persisting with Android Jelly Bean for its phones. Oppo uses its own skin called Color OS on top of regular Android, and 
+unlike its Chinese competitors and their implementations, Oppo's UI has 
+an app drawer. It doesn't look drastically different from stock Android 
+but there are some really useful tweaks that users might 
+appreciate. Starting with the locking mechanism, Oppo lets you double-tap the Home button to lock the screen. The
+ lock screen is identical to Android Jelly Bean's stock implementation. 
+Swiping down from the top right corner of the screen displays a gesture
+ panel. One can set custom gestures for basic
+ tasks such as opening the camera, making phone calls etc. The notifications shade also has a ton of quick setting 
+toggles that are fairly useful. For example, there is an option called 
+End All which essentially cleans up system memory for smooth 
+performance. Another tweak that we liked is that the phone immediately 
+recognises when a headset is plugged in and can launch the Music Player 
+app automatically. By the way, the Music Player, with its gramophone 
+animation, is one of the coolest looking apps we've come across. 
+There are also apps to help manage battery life and data usage.
+ An app called O-Cloud lets users back up their contacts and text 
+messages to the cloud. Oppo bundles a folder full of security apps including App encryption, Data saving, Guest 
+mode, Holiday mode, Permission monitor and Block. Oppo also sells an after-market accessory called O-Click that connects to Oppo phones via Bluetooth. It can be used to find the phone if misplaced, and if it is in range, it also works as a camera remote, which is quite cool.CameraDespite already having spent time with the Oppo N1, we are 
+still intrigued by the swivel camera implementation. The 13-megapixel sensor should be great for folks who like clicking selfies, since the front and rear cameras are the same unit. (Click for full size)The
+ Oppo N1 Mini's camera is fairly quick at shooting and from focus to shot 
+doesn't take too much time. In our daylight samples we noticed that colours were really accurate and adequately punchy for those who prefer 
+slight oversaturation in their photographs. We couldn't detect much noise and there was no chromatic aberration either. However, there is a
+ bit of barrel distortion in most of our shots. Oppo's 
+proprietary Pure Image Engine comes into play in the HDR shots, as the 
+software starts working overtime to set the exposure just right. In our 
+night shots even the colour of the dim sky looked natural. Coming to the 
+low-light settings, the camera does a fairly decent job but we could 
+definitely detect noise. We captured a 1080p video and it looked decent too.(Click for full size)A small gripe 
+we have with the camera is that in an effort to focus quickly and 
+create depth in the background, the camera fails to focus 
+properly a lot of the time. There is no doubt that self portraits look rather 
+nice and detailed. The N1 Mini's camera has a unique Ultra-HD mode where
+ Oppo claims that six photographs are taken in quick succession and the best parts of each are merged to create a single 24-megapixel frame. We couldn't really 
+see any substantial difference between this mode and the regular 
+13-megapixel shots.PerformanceWe've reviewed so many 
+phones based on the Qualcomm's Snapdragon 400 SoC that we can actually 
+predict benchmark scores. The Oppo N1 Mini performs just like any 
+other similarly specced smartphone. We logged scores of 10,799 and 21,841 respectively in the Quadrant and AnTuTu benchmark 
+tests. Our regular 
+graphics benchmark tests, GFXbench and 3D Mark Ice Storm, returned 
+scores of 10.7fps and 5,837 points respectively. These numbers are not too 
+different from what we saw on phones like the Motorola Moto G (Gen 2) [Review | Pictures], 
+Sony Xperia T3 and HTC Desire 816 (Review | Pictures). All things considered, not once did 
+we face any lag while using the phone, and some high-end games also 
+worked absolutely fine. The phone managed to play all our test 
+videos without any hassles. The speaker is adequately loud and it 
+doesn't crackle at high volumes either. The bundled earphones are really
+ uncomfortable to use for long periods and don't sound that great 
+either. We tested the call quality and during this process calls 
+dropped on a couple of occasions. Sound quality on the other hand is good. The phone lasted 6 hours and 
+35 minutes in our battery test, which is okay, but we noticed that in real-life usage we
+ were reaching for the charger more often than we would have liked.VerdictOne area where Oppo falters is in pricing the
+ N1 Mini. It is available for Rs. 26,990 online and offline. 
+The company is charging a premium for the unique swivel camera, which 
+also performs well. Unfortunately for Oppo, the HTC Desire 816 has a 
+fairly powerful 13-megapixel rear camera and a decent 5-megapixel front 
+shooter as well. It is available for around Rs. 24,000. Even its 
+successor, the newly launched HTC Desire 820, with a 64-bit octa-core 
+Qualcomm Snapdragon 615 SoC, 13-megapixel primary camera and 8-megapixel secondary camera is priced at just Rs. 24,990. These factors 
+considered, the Oppo N1 Mini will be fighting a tough battle in a price-sensitive market. 
+Oppo N1 Mini in pictures in pictures
+
+Last
+ year's Oppo N1 had a unique 206-degree swivel camera. However, what it 
+also had was a huge 5.9-inch screen and a huge footprint considering 
+the camera module was fixed above the display. Oppo realised the need 
+for a mini version of this phone and recently announced the N1 Mini, which has a 5-inch screen instead and a watered-down 
+specifications list. The swivel camera is carried forward to this phone and looks 
+as intriguing as ever. We got to play with the smaller (or is it 
+really?) N1 to form our opinions about the device. Read on. 
+
+Look and feelMini
+ versions of popular flagship phones have smaller footprints compared 
+to their larger siblings. The screen sizes on these mini 
+phones vary from company to company. However, it is clear that Oppo is not taking this concept literally enough, by fitting a 5-inch screen, which is still huge by most standards, on the
+ Oppo N1 Mini. The phone has a width of 72.2mm and  height of 148.4mm, 
+which includes the 206-degree rotating camera. The 9.2mm 
+thickness of the phone is on the higher side. 
+Thankfully, the weight of 150g is distributed evenly across the device 
+and it fit snugly in our palms. All said and done, the N1 Mini is much, 
+much smaller than the original N1, which was a behemoth. 
+
+Another 
+differentiating factor in the N1 Mini is that it is available in two 
+funky colours - cool mint and yellow - in addition to basic white. 
+We got the cool mint variant for review and it reminded us of the Sony 
+Xperia T3 (Review | Pictures). 
+
+The camera's mechanism is 
+rather smooth and looks like it should last at least until your next upgrade. There are parallel metal strips running around the edges, 
+and the corners are nice and curved. The slightly curved rear helps you grip this phone. The rear panel is not removable and so Oppo uses a 
+removable SIM tray. This tray lies on the right along 
+with the volume buttons, whereas the power button sits on the left. There 
+are two microphones - one on the rear and another on the bottom. The 
+bottom also houses the 3.5mm jack, Micro-USB port and speaker grill.
+ 
+
+Overall, the Oppo N1 Mini, despite its plastic build, is a 
+looks and feels like it is worth every paisa 
+you spend on it. 
+
+Specifications and softwareOn paper at 
+least, the Oppo N1 Mini has mid-range specs. The Snapdragon 400 SoC has four 1.6GHz CPU cores and an Adreno 305 GPU. 
+There is 2GB of RAM and 16GB of internal storage space. There is no slot
+ for a memory card, which we think could pose a bit of a
+ problem if you often find yourself strapped for storage space on your
+ smartphone.
+
+The now-famous 13-megapixel
+camera has a 1/3.2-inch sensor and LED flash, and of course functions as both, a front and rear camera. The N1 Mini supports Bluetooth 
+v4.0 and NFC. It can connect to 3G networks and has support for 4G LTE 
+networks as well but since it doesn't have support for the 2.3GHz band it 
+wont work on current Indian LTE networks. A 2140 mAh Li-Ion 
+battery provides the juice to power the phone.
+
+ 
+
+The 5-inch 
+720p IPS LCD panel looks good with its 294ppi density. Ideally, we would
+ have liked a 1080p panel but the 720p option on the N1 Mini is in fact 
+not too bad. We liked the viewing angles and the rather natural colour 
+reproduction. The sunlight legibility, on the other hand, was average at
+ best. 
+
+In this day and age where even much cheaper phones are 
+running Android KitKat out-of-the-box, we are really surprised that Oppo
+ is persisting with Android Jelly Bean for its phones. Oppo uses its own skin called Color OS on top of regular Android, and 
+unlike its Chinese competitors and their implementations, Oppo's UI has 
+an app drawer. It doesn't look drastically different from stock Android 
+but there are some really useful tweaks that users might 
+appreciate. 
+
+Starting with the locking mechanism, Oppo lets you double-tap the Home button to lock the screen. The
+ lock screen is identical to Android Jelly Bean's stock implementation. 
+Swiping down from the top right corner of the screen displays a gesture
+ panel. One can set custom gestures for basic
+ tasks such as opening the camera, making phone calls etc. The notifications shade also has a ton of quick setting 
+toggles that are fairly useful. For example, there is an option called 
+End All which essentially cleans up system memory for smooth 
+performance. 
+
+Another tweak that we liked is that the phone immediately 
+recognises when a headset is plugged in and can launch the Music Player 
+app automatically. By the way, the Music Player, with its gramophone 
+animation, is one of the coolest looking apps we've come across. 
+There are also apps to help manage battery life and data usage.
+ An app called O-Cloud lets users back up their contacts and text 
+messages to the cloud. Oppo bundles a folder full of security apps including App encryption, Data saving, Guest 
+mode, Holiday mode, Permission monitor and Block. 
+
+Oppo also sells an after-market accessory called O-Click that connects to Oppo phones via Bluetooth. It can be used to find the phone if misplaced, and if it is in range, it also works as a camera remote, which is quite cool.
+
+CameraDespite already having spent time with the Oppo N1, we are 
+still intrigued by the swivel camera implementation. The 13-megapixel sensor should be great for folks who like clicking selfies, since the front and rear cameras are the same unit. 
+
+(Click for full size)The
+ Oppo N1 Mini's camera is fairly quick at shooting and from focus to shot 
+doesn't take too much time. In our daylight samples we noticed that colours were really accurate and adequately punchy for those who prefer 
+slight oversaturation in their photographs. We couldn't detect much noise and there was no chromatic aberration either. However, there is a
+ bit of barrel distortion in most of our shots. Oppo's 
+proprietary Pure Image Engine comes into play in the HDR shots, as the 
+software starts working overtime to set the exposure just right. In our 
+night shots even the colour of the dim sky looked natural. Coming to the 
+low-light settings, the camera does a fairly decent job but we could 
+definitely detect noise. We captured a 1080p video and it looked decent too.
+
+(Click for full size)A small gripe 
+we have with the camera is that in an effort to focus quickly and 
+create depth in the background, the camera fails to focus 
+properly a lot of the time. There is no doubt that self portraits look rather 
+nice and detailed. The N1 Mini's camera has a unique Ultra-HD mode where
+ Oppo claims that six photographs are taken in quick succession and the best parts of each are merged to create a single 24-megapixel frame. We couldn't really 
+see any substantial difference between this mode and the regular 
+13-megapixel shots.
+
+PerformanceWe've reviewed so many 
+phones based on the Qualcomm's Snapdragon 400 SoC that we can actually 
+predict benchmark scores. The Oppo N1 Mini performs just like any 
+other similarly specced smartphone. We logged scores of 10,799 and 21,841 respectively in the Quadrant and AnTuTu benchmark 
+tests. Our regular 
+graphics benchmark tests, GFXbench and 3D Mark Ice Storm, returned 
+scores of 10.7fps and 5,837 points respectively. These numbers are not too 
+different from what we saw on phones like the Motorola Moto G (Gen 2) [Review | Pictures], 
+Sony Xperia T3 and HTC Desire 816 (Review | Pictures). All things considered, not once did 
+we face any lag while using the phone, and some high-end games also 
+worked absolutely fine. 
+
+The phone managed to play all our test 
+videos without any hassles. The speaker is adequately loud and it 
+doesn't crackle at high volumes either. The bundled earphones are really
+ uncomfortable to use for long periods and don't sound that great 
+either. We tested the call quality and during this process calls 
+dropped on a couple of occasions. Sound quality on the other hand is good. 
+
+The phone lasted 6 hours and 
+35 minutes in our battery test, which is okay, but we noticed that in real-life usage we
+ were reaching for the charger more often than we would have liked.
+
+VerdictOne area where Oppo falters is in pricing the
+ N1 Mini. It is available for Rs. 26,990 online and offline. 
+The company is charging a premium for the unique swivel camera, which 
+also performs well. Unfortunately for Oppo, the HTC Desire 816 has a 
+fairly powerful 13-megapixel rear camera and a decent 5-megapixel front 
+shooter as well. It is available for around Rs. 24,000. Even its 
+successor, the newly launched HTC Desire 820, with a 64-bit octa-core 
+Qualcomm Snapdragon 615 SoC, 13-megapixel primary camera and 8-megapixel secondary camera is priced at just Rs. 24,990. These factors 
+considered, the Oppo N1 Mini will be fighting a tough battle in a price-sensitive market. 
+

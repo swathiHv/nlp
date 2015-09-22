@@ -1,0 +1,339 @@
+Sony Xperia neo L review
+
+Sony's latest addition to the Xperia stable 
+comes in the form of the neo L. A successor to the Neo V and inheriting 
+much of its looks, the neo L is competing in the same category as the 
+HTC One V and the LG Optimus 7. But do the modest specs of this 
+smartphone guarantee a worthwhile user experience? We find out.Hardware/ DesignAs
+ mentioned earlier, the neo L looks very similar to the Neo and Neo V in
+ terms of design. But this time round, the device has a 4-inch display 
+that also makes it heavier at 131.5gms. The phone is bulky in its build 
+but is solid. The device comes in black and white colour options. The
+ smartphone has a glossy finish, which makes the phone a rather slippery
+ customer. The screen is a fingerprint magnet as well. There's a silver 
+strip that runs along the edges of the phone separating the front and 
+the back. The device features 4 physical buttons, that feel a bit
+ too squeezed and difficult to operate. One wonders if capacitive touch 
+buttons would have been a better choice.The power/wake button is 
+placed on the right along with the volume rocker. The placement of both 
+these buttons isn't convenient though. If you're holding the device in 
+one hand, you find stretching your thumb quite a bit before you get to 
+them, especially if you have small hands.The 3.5mm headphones 
+jack finds room on the top while the Micro-USB port for charging and 
+data transfer is located on the left. The back of the device houses a 
+5MP shooter with LED flash, adjacent to the grilled speakers.Beneath the skin, the Xperia neo L features a 1500mAh battery, a SIM card slot and a microSD card slot.Overall, the neo L does have an attractive design but certain improvements would have been welcome.DisplayThe
+ Xperia neo L comes with a 4-inch LED-backlit capacitive touch display. 
+Images look crisp at 480x854 pixels. The viewing angles are good. But at
+ maximum brightness levels, the phone disappoints. It's hard to view 
+screen elements in broad daylight. Images on the HTC One V look 
+better, thanks to the ImageSense technology. Even under low lighting 
+conditions images look good. The Optimus L7, on the other hand, features
+ an IPS-LCD NOVA display and also has better viewing angles displaying 
+images that are vivid and bright. But again, images under the sun look 
+dim even with 100% brightness levels.CameraThe Xperia neo L
+ comes with a 5MP rear camera. Outdoor shots are decent. Images appear 
+sharp with good colour and contrast and are an improvement over the Neo 
+V. There are some flaws. There is no option to zoom  and the auto focus 
+just doesn't work. So if you're trying to take wide shots, it seems like
+ an impossible task. The absence of a touch-to-focus is also felt.The Neo V had better auto focus capabailities. The phone also lacks a dedicated camera button.Other
+ camera settings are pretty basic including scene mode, exposure levels,
+ white balance and flash. Users can share pictures instantly to various 
+social media like Facebook, Twitter, Picasa, Google+ and more.720p
+ video recording is possible at 30fps and videos recorded are saved as 
+MP4 files by default. Users can also choose to shoot in SD mode. The 
+video recorder features continuous auto-focus, though it may take some 
+seconds to refocus while re-framing. There's a front camera for video calling. Coming
+ to the camera software, the device has the stock Android interface. But
+ Sony's custom camera offers better options like Touch Focus for 
+instance. But the user won't complain much as it offers all the basic 
+camera features.Software/ InterfaceThe smartphone ships with Android 4.0 (Ice Cream Sandwich) on-board, that makes it a first of its kind from Sony. Sony's
+ familiar Timescape UI manages all your communications ranging from 
+Facebook and Twitter to Contacts and Calls under one roof. Timescape 
+focusses more on the social networking integration. Certain ICS tweaks 
+are visible instatntly. The lock screen earlier featured an unlock 
+slider and one for silent mode. Th latter has been replaced by a camera 
+slider. Another noticeable change is that the notifications menu 
+is no onger accessible from the lockscreen. This does come by as a bit 
+surprising since it is a prominent ICS feature. An addition is the 
+ability to control music playback from the lockscreen, that displays the
+ music player widget.Apps can now be arranged in various ways such as Alphabetical, Most Used, Own Order and Recently Installed. Since
+ the capacitive touch buttons are replaced by the physical ones, 
+aplications current running can be closed by long-pressing the home 
+button. A new feature is Overview, that provides the pinch-to-zoom 
+functionality. All active widgets float on the screen for easy viewing 
+and selection. The mediascape widget is no longer available, but the 
+standard gallery is back, in addition to the Xperia gallery.The 
+music player on the device missed the ICS update. It still houses the 
+old music player that featured before the NXT series. The main menu 
+offers browsing in four tabs for the available sorting options: Artists,
+ Albums, Tracks and Playlists. There is no dedicated video player on the
+ device. However, users can download video player apps from Google Play.
+ Other custom skins like Samsung's TouchWiz UI provide greater 
+functionality by adding buttons to the notification bar that allow 
+Wi-Fi, Bluetooth, GPS and rotation capabilities to quickly be turned on 
+or off. It also has the ability to silence the phone. The device 
+features a 1GHz Qualcomm processor and 512MB RAM. The user interface is 
+slick and works pretty smooth most of the time. But we'd suggest the use
+ of a Task Manager as the device isn't the best at multitasking. Compared
+ to other Xperia devices, the neo L does score some extra points for a 
+big 4-inch screen. Watching videos, keeping widgets or app shortcuts on 
+the screen is an advantage. Apart from the usual stock of Google 
+apps, the smartphone comes pre-installed with apps like OfficeSuite, 
+McAfee Security and NeoReader that helps you read bar codes. Casual
+ gamers will be excited to see the EA Games app that offers free games 
+like Plants vs Zombies, Dead Space and Tiger Woods PGA Tour 12 in trial 
+mode. But the key highlight is Need For Speed Shift (Google Play lists 
+NFS Shift for Rs. 273!) as a full free game to play. Performance/ Battery LifeThe
+ smartphone is a decent performer for the kind of specs it offers. The 
+battery life of the device is pretty good lasting an entire day on an 
+average use.What's interesting to note here is that while other 
+dual-core processor phones from Sony like the Xperia sola and Xperia P 
+have a 1320mAh and 1305mAh battery respectively,  the single-core Xperia
+ neo L comes with a 1500mAh battery. Not that we're complaining, but 
+it's strange. Being a Sony, it is needless to say that the audio 
+quality is great both on the speakers and the bundled headphones. Even 
+at full volume levels, the sound doesn't crack. Users can always visit 
+the Settings menu to enhance the audio quality via sony's xLOUD 
+technology and tweak equlaiser settings for desired audio output. Some 
+users may be disappointed to find that the phone does not have an FM 
+receiver, unlike the Neo V.High quality YouTube videos look 
+beautiful with clear picture quality and barely any pixelation. Though 
+the phone supports multiple audio (MP3, WAV, eAAC+) formats, but we had 
+some trouble playing MP4 files on our unit and the video playback wasn't
+ smooth.Speaking of connectivity, the handset performs well over 
+both 3G and Wi-Fi networks. The browsing experience is highly 
+satisfactory. But there are ocassional lags while scrolling and zooming 
+full blown sites. Users can install Chrome for Android to further 
+enhance and simplify their browsing experience. Games such as Dear 
+Hunter Reloaded and Temple Run were smooth without any lags. Call
+ quality on the Xperia neo L is decent with good reception practically 
+everwhere. Messaging also felt quite comfortable on the device, courtesy
+ the big 4-inch screen. The on-screen full QWERTY keyboard is laid out 
+neatly with the keys spaced out well. Landscape is bigger and more 
+comfortable but typing even the portrait mode felt very easy. The 
+keyboard has support for multiple international languages as well.  Users
+ can also make use of the Gesture input in case they want to type 
+faster. It works on the same concept as Swype. Those not used to this 
+feature, will struggle initially but eventually get used to it. The 
+feature is accessible in the Settings menu (wrench icon next to Enter 
+button) within the keyboard itself.The device also comes with 
+DLNA support. We connected it to a television over Wi-fi and played a 
+couple of videos and browsed through images remotely. It functioned just
+ fine.VerdictAfter having spent some quality time with the
+ neo L, we'd say that the smartphone is a decent performer. The phone is
+ not all just about beauty, but brains as well. It is fast, smooth, 
+ships with ICS on board and has a battery life that surely won't 
+disappoint.But the phone does have its share of flaws. The camera
+ is one feature that is a big let down. The HTC One V has a much better 
+camera. We would've also loved to see Sony add the PlayStation 
+certification on it. Had the phone been bumped up just a bit specs wise,
+ it would've been a great buy. Like we mentioned earlier, the neo
+ L is stacked up against the HTC One V and the LG Optimus L7. Both these
+ handsets are recent launches, come with similar specifications and are 
+priced cheaper than the neo L. They also have greater 4GB internal 
+memory, FM Radio and far better camera capabilities.Sony Xperia neo L in picturesProsICS out of the boxBattery lifeConsNo tap focus in cameraBulkyPlasticky and cheap feelPrice: Rs. 19,499Ratings (Out of 5)Design: 3.5Display: 3.0Performance: 3.5Software: 3.5Battery Life: 3.5Value for Money: 3Camera: 3Overall: 3
+
+Hardware/ DesignAs
+ mentioned earlier, the neo L looks very similar to the Neo and Neo V in
+ terms of design. But this time round, the device has a 4-inch display 
+that also makes it heavier at 131.5gms. The phone is bulky in its build 
+but is solid. The device comes in black and white colour options. 
+
+The
+ smartphone has a glossy finish, which makes the phone a rather slippery
+ customer. The screen is a fingerprint magnet as well. There's a silver 
+strip that runs along the edges of the phone separating the front and 
+the back. 
+
+The device features 4 physical buttons, that feel a bit
+ too squeezed and difficult to operate. One wonders if capacitive touch 
+buttons would have been a better choice.
+
+The power/wake button is 
+placed on the right along with the volume rocker. The placement of both 
+these buttons isn't convenient though. If you're holding the device in 
+one hand, you find stretching your thumb quite a bit before you get to 
+them, especially if you have small hands.
+
+The 3.5mm headphones 
+jack finds room on the top while the Micro-USB port for charging and 
+data transfer is located on the left. The back of the device houses a 
+5MP shooter with LED flash, adjacent to the grilled speakers.
+
+Beneath the skin, the Xperia neo L features a 1500mAh battery, a SIM card slot and a microSD card slot.
+
+Overall, the neo L does have an attractive design but certain improvements would have been welcome.
+
+DisplayThe
+ Xperia neo L comes with a 4-inch LED-backlit capacitive touch display. 
+Images look crisp at 480x854 pixels. The viewing angles are good. But at
+ maximum brightness levels, the phone disappoints. It's hard to view 
+screen elements in broad daylight. 
+
+Images on the HTC One V look 
+better, thanks to the ImageSense technology. Even under low lighting 
+conditions images look good. The Optimus L7, on the other hand, features
+ an IPS-LCD NOVA display and also has better viewing angles displaying 
+images that are vivid and bright. But again, images under the sun look 
+dim even with 100% brightness levels.
+
+CameraThe Xperia neo L
+ comes with a 5MP rear camera. Outdoor shots are decent. Images appear 
+sharp with good colour and contrast and are an improvement over the Neo 
+V. There are some flaws. There is no option to zoom  and the auto focus 
+just doesn't work. So if you're trying to take wide shots, it seems like
+ an impossible task. The absence of a touch-to-focus is also felt.
+
+The Neo V had better auto focus capabailities. The phone also lacks a dedicated camera button.
+
+Other
+ camera settings are pretty basic including scene mode, exposure levels,
+ white balance and flash. Users can share pictures instantly to various 
+social media like Facebook, Twitter, Picasa, Google+ and more.
+
+720p
+ video recording is possible at 30fps and videos recorded are saved as 
+MP4 files by default. Users can also choose to shoot in SD mode. The 
+video recorder features continuous auto-focus, though it may take some 
+seconds to refocus while re-framing. 
+
+There's a front camera for video calling. 
+
+Coming
+ to the camera software, the device has the stock Android interface. But
+ Sony's custom camera offers better options like Touch Focus for 
+instance. But the user won't complain much as it offers all the basic 
+camera features.
+
+Software/ InterfaceThe smartphone ships with Android 4.0 (Ice Cream Sandwich) on-board, that makes it a first of its kind from Sony. 
+
+Sony's
+ familiar Timescape UI manages all your communications ranging from 
+Facebook and Twitter to Contacts and Calls under one roof. Timescape 
+focusses more on the social networking integration. Certain ICS tweaks 
+are visible instatntly. The lock screen earlier featured an unlock 
+slider and one for silent mode. Th latter has been replaced by a camera 
+slider. 
+
+Another noticeable change is that the notifications menu 
+is no onger accessible from the lockscreen. This does come by as a bit 
+surprising since it is a prominent ICS feature. An addition is the 
+ability to control music playback from the lockscreen, that displays the
+ music player widget.
+
+Apps can now be arranged in various ways such as Alphabetical, Most Used, Own Order and Recently Installed. 
+
+Since
+ the capacitive touch buttons are replaced by the physical ones, 
+aplications current running can be closed by long-pressing the home 
+button. A new feature is Overview, that provides the pinch-to-zoom 
+functionality. All active widgets float on the screen for easy viewing 
+and selection. The mediascape widget is no longer available, but the 
+standard gallery is back, in addition to the Xperia gallery.
+
+
+
+
+
+
+
+
+
+The device 
+features a 1GHz Qualcomm processor and 512MB RAM. The user interface is 
+slick and works pretty smooth most of the time. But we'd suggest the use
+ of a Task Manager as the device isn't the best at multitasking. 
+
+Compared
+ to other Xperia devices, the neo L does score some extra points for a 
+big 4-inch screen. Watching videos, keeping widgets or app shortcuts on 
+the screen is an advantage. 
+
+Apart from the usual stock of Google 
+apps, the smartphone comes pre-installed with apps like OfficeSuite, 
+McAfee Security and NeoReader that helps you read bar codes. 
+
+Casual
+ gamers will be excited to see the EA Games app that offers free games 
+like Plants vs Zombies, Dead Space and Tiger Woods PGA Tour 12 in trial 
+mode. But the key highlight is Need For Speed Shift (Google Play lists 
+NFS Shift for Rs. 273!) as a full free game to play. 
+
+Performance/ Battery LifeThe
+ smartphone is a decent performer for the kind of specs it offers. The 
+battery life of the device is pretty good lasting an entire day on an 
+average use.
+
+What's interesting to note here is that while other 
+dual-core processor phones from Sony like the Xperia sola and Xperia P 
+have a 1320mAh and 1305mAh battery respectively,  the single-core Xperia
+ neo L comes with a 1500mAh battery. Not that we're complaining, but 
+it's strange. 
+
+Being a Sony, it is needless to say that the audio 
+quality is great both on the speakers and the bundled headphones. Even 
+at full volume levels, the sound doesn't crack. Users can always visit 
+the Settings menu to enhance the audio quality via sony's xLOUD 
+technology and tweak equlaiser settings for desired audio output. Some 
+users may be disappointed to find that the phone does not have an FM 
+receiver, unlike the Neo V.
+
+High quality YouTube videos look 
+beautiful with clear picture quality and barely any pixelation. Though 
+the phone supports multiple audio (MP3, WAV, eAAC+) formats, but we had 
+some trouble playing MP4 files on our unit and the video playback wasn't
+ smooth.
+
+Speaking of connectivity, the handset performs well over 
+both 3G and Wi-Fi networks. The browsing experience is highly 
+satisfactory. But there are ocassional lags while scrolling and zooming 
+full blown sites. Users can install Chrome for Android to further 
+enhance and simplify their browsing experience. Games such as Dear 
+Hunter Reloaded and Temple Run were smooth without any lags. 
+
+Call
+ quality on the Xperia neo L is decent with good reception practically 
+everwhere. Messaging also felt quite comfortable on the device, courtesy
+ the big 4-inch screen. The on-screen full QWERTY keyboard is laid out 
+neatly with the keys spaced out well. Landscape is bigger and more 
+comfortable but typing even the portrait mode felt very easy. The 
+keyboard has support for multiple international languages as well.  
+
+Users
+ can also make use of the Gesture input in case they want to type 
+faster. It works on the same concept as Swype. Those not used to this 
+feature, will struggle initially but eventually get used to it. The 
+feature is accessible in the Settings menu (wrench icon next to Enter 
+button) within the keyboard itself.
+
+The device also comes with 
+DLNA support. We connected it to a television over Wi-fi and played a 
+couple of videos and browsed through images remotely. It functioned just
+ fine.
+
+VerdictAfter having spent some quality time with the
+ neo L, we'd say that the smartphone is a decent performer. The phone is
+ not all just about beauty, but brains as well. It is fast, smooth, 
+ships with ICS on board and has a battery life that surely won't 
+disappoint.
+
+But the phone does have its share of flaws. The camera
+ is one feature that is a big let down. The HTC One V has a much better 
+camera. We would've also loved to see Sony add the PlayStation 
+certification on it. Had the phone been bumped up just a bit specs wise,
+ it would've been a great buy. 
+
+Like we mentioned earlier, the neo
+ L is stacked up against the HTC One V and the LG Optimus L7. Both these
+ handsets are recent launches, come with similar specifications and are 
+priced cheaper than the neo L. They also have greater 4GB internal 
+memory, FM Radio and far better camera capabilities.
+
+ProsICS out of the boxBattery life
+
+ConsNo tap focus in cameraBulkyPlasticky and cheap feel
+
+Price: Rs. 19,499
+
+Ratings (Out of 5)Design: 3.5Display: 3.0Performance: 3.5Software: 3.5Battery Life: 3.5Value for Money: 3Camera: 3Overall: 3
+

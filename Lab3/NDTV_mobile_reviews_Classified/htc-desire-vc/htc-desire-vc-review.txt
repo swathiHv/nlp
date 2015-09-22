@@ -1,0 +1,257 @@
+HTC Desire VC review
+
+Off late, HTC has been quite aggressive in getting its One and Desire 
+line-up in India. The latest smartphone to join the league is HTC Desire
+ VC. This is the first dual-SIM smartphone from HTC that runs on Android
+ 4.0 and supports both GSM and CDMA functionality.  In terms of specs, 
+this device is very similar to the HTC One V but whether or not it 
+performs at par or better than the One V is something we shall find out 
+in our review.Hardware/ LooksThe HTC Desire VC is a 
+good-looking smartphone. At 9.5mm, it is pretty slim and sleek and 
+lighter too weighing just 119 grams. The outer body seems to be made of 
+plastic, however it does not look cheap and feels rather sturdy. There 
+is a rubberised texture on the back panel, which allows for a 
+comfortable grip.Most of the front screen is taken by the 4-inch 
+touch screen, which is large enough to read emails, browse the net and 
+even watch videos. The bottom houses three capacitive standard Android 
+buttons for Back, Home and Recent. The left panel houses the 
+Micro-USB/charging port while the right has the volume rocker keys.The
+ back panel features a 5-megapixel camera with LED flash and the speaker
+ along with the Beats Audio branding. The top of the device has the 
+standard 3.5mm headphones jack and the power/wake button while the 
+bottom has the microphone. Considering that it is a high-end 
+dual-SIM smartphone, we were expecting its SIMs to support hot swap but 
+that is not the case here. HTC Desire VC packs in 1 GHz Cortex-A5 processor and 512 MB of RAM and there is a 1650 mAh Li-Ion battery on board.DisplayThe
+ 4-inch capacitive touch screen has a 480x800 pixels resolution 
+translating into pixel density of 233 ppi. Though this is slightly less 
+than 252ppi of the HTC One V, but the images and text look good on this 
+smartphone. Viewing angles are also good and so is visibility under the 
+sun. The screen of HTC Desire VC is reflective.On the downside, 
+the glass used is not Gorilla glass so one needs to be a bit careful 
+with it so as not to accidentally scratch it. CameraThe HTC 
+Desire VC packs in a 5-megapixel camera with autofocus and LED flash. In
+ terms of functionality, the camera of features touch-to-autofocus and a
+ handful of scene modes and settings to make photography easy and fun. 
+These options are available for still photography as well as for video 
+recording. The camera on this smartphone is fast, even while 
+focusing. However, the quality of the images is at most decent in 
+adequate lighting conditions and quite dull while shooting pictures 
+indoors. There is no front camera on this smartphone for video calling.Video recording also doesn't perform exceptionally and the maximum resolution that one can get is 800X480. The quality of videos too was sub-par. There is no dedicated camera button on this smartphone. Software/ InterfaceHTC
+ Desire VC runs on Ice Cream Sandwich and has a layer of HTC's own Sense
+ 4.0 UI.  As HTC comes with Android 4.0.3, on-board it offers features 
+such as Task Switcher or the Resizable Widgets, which come in pretty 
+handy. HTC Sense 4.0 is a nice addition and helps in enhancing 
+the performance of this smartphone. This new version looks akin to HTC 
+Sense 3.6 but the newer version is lighter. Another addition in HTC 
+Sense 4.0 is that it lets you resize widgets. There are five 
+customisable home screens to show app shortcuts and widgets. Users can 
+even view personalised shortcuts on the HTC Lock-screen.The 
+keyboard on this smartphone is responsive and quite comfortable to use 
+in both portrait and landscape modes. There was enough room to type 
+accurately even while using the keyboard on portrait mode and the 
+accuracy too is decent.In terms of pre-loaded apps, HTC Desire VC
+ packs in 7digital, car, friend Stream, flashlight, HTC Hub, Polaris 
+Office, SoundHound, Teeter, TuneIn Radio and Wi-Fi Hotspot.7digital
+ is a Music app, which acts both as a player and MP3 music store where 
+one can listen and buy music. The HTC Car app launches automatically 
+whenever you connect the smartphone to HTC Car Kit and acts like an 
+in-dash unit.Teeter is an interesting puzzle game in which the 
+objective is to get the ball from the start of a maze to the target 
+hole. To make it more challenging, there are a few holes in the path 
+that must be avoided. Performance/ Battery LifeThe HTC 
+Desire VC runs on a single core 1GHz cortex A5 Qualcomm processor, with 
+only 512MB of RAM, which is a bit underwhelming as most of the other 
+smartphones at this price point such as Sony Xperia U, Motorola Atrix 2 
+and Sony Xperia P are offering a dual-core processor.  When it 
+came to actual usage, we find that in the normal day usage, browsing the
+ Internet through this smartphone is a pleasurable experience and the 
+size of the screen really helps in that. The pages loaded quite quickly 
+and scrolling was convenient. However, there can be a few jerks while 
+trying to multitask on the smartphone.HTC Desire VC offers ample 
+storage. There is 4GB of internal memory, which can be extended up to 32
+ GB through a microSD card. Also, the company has tied up with Dropbox 
+and is offering 25 GB of cloud space for two years. Being a dual-SIM smartphone, users can run 3G on the GSM SIM while the CDMA one can support EVDO (Evolution Data Optimised). To
+ help users manage between the two SIMs, HTC has a dual-SIM Manager 
+settings option that can help users personalise their calling 
+experience. The call quality on both the CDMA and GSM is decent. Integrated
+ with Beats Audio, users will expect enhanced sound quality from the HTC
+ Desire VC. The audio output with the bundled headphones is decent but 
+not so great on the loudspeakers. What's more disappointing was 
+the video playback on the smartphone. The stock video player could not 
+even playback an MP4 file. Given the screen and the resolution, there 
+was so much more that HTC could have done with respect to the video 
+playback capabilities.Considering that HTC Desire VC is a 
+dual-SIM, dual-active smartphone the 1650 mAh battery has a stiff job on
+ its hands. The battery just about manages to scrape through a full day 
+with a single charge, which is decent by any standard.Playing 
+games on this smartphone is a pleasurable experience. There were no lags
+ in playing common games such as Temple Run Brave and Teeter.VerdictThe
+ HTC Desire VC is an interesting dual-SIM smartphone as there aren't too
+ many smartphones that offer a combination of CDMA and GSM. The dual-SIM
+ market has so far been dominated by offerings from the so-called 
+"lesser" manufacturers, so it is good to see a premium dual-SIM 
+offering.The things that go in favour of this smartphone are its 
+good looks and that it sports a display.  On the performance front 
+despite having a single-core processor, this smartphone manages to do an ok job. The Android 4.0.3 along with Sense 4.0 is a great combination.However,
+ the camera on-board is average and there is no front camera on board. 
+Even the video playback leaves a lot to be desired. Considering 
+that they aren't too many interesting CDMA + GSM smartphone, HTC Desire 
+VC can be an interesting choice but we do feel that given the specs and 
+the performance, this smartphone from HTC's stable is slightly 
+overpriced smartphone. HTC Desire VC in pictures Price: Rs. 21,999
+
+
+Hardware/ LooksThe HTC Desire VC is a 
+good-looking smartphone. At 9.5mm, it is pretty slim and sleek and 
+lighter too weighing just 119 grams. The outer body seems to be made of 
+plastic, however it does not look cheap and feels rather sturdy. There 
+is a rubberised texture on the back panel, which allows for a 
+comfortable grip.
+
+Most of the front screen is taken by the 4-inch 
+touch screen, which is large enough to read emails, browse the net and 
+even watch videos. The bottom houses three capacitive standard Android 
+buttons for Back, Home and Recent. The left panel houses the 
+Micro-USB/charging port while the right has the volume rocker keys.
+
+The
+ back panel features a 5-megapixel camera with LED flash and the speaker
+ along with the Beats Audio branding. The top of the device has the 
+standard 3.5mm headphones jack and the power/wake button while the 
+bottom has the microphone. 
+
+Considering that it is a high-end 
+dual-SIM smartphone, we were expecting its SIMs to support hot swap but 
+that is not the case here. 
+
+HTC Desire VC packs in 1 GHz Cortex-A5 processor and 512 MB of RAM and there is a 1650 mAh Li-Ion battery on board.
+
+DisplayThe
+ 4-inch capacitive touch screen has a 480x800 pixels resolution 
+translating into pixel density of 233 ppi. Though this is slightly less 
+than 252ppi of the HTC One V, but the images and text look good on this 
+smartphone. Viewing angles are also good and so is visibility under the 
+sun. The screen of HTC Desire VC is reflective.
+
+On the downside, 
+the glass used is not Gorilla glass so one needs to be a bit careful 
+with it so as not to accidentally scratch it. 
+
+CameraThe HTC 
+Desire VC packs in a 5-megapixel camera with autofocus and LED flash. In
+ terms of functionality, the camera of features touch-to-autofocus and a
+ handful of scene modes and settings to make photography easy and fun. 
+These options are available for still photography as well as for video 
+recording. 
+
+The camera on this smartphone is fast, even while 
+focusing. However, the quality of the images is at most decent in 
+adequate lighting conditions and quite dull while shooting pictures 
+indoors. There is no front camera on this smartphone for video calling.
+
+Video recording also doesn't perform exceptionally and the maximum resolution that one can get is 800X480. The quality of videos too was sub-par. There is no dedicated camera button on this smartphone. 
+
+Software/ InterfaceHTC
+ Desire VC runs on Ice Cream Sandwich and has a layer of HTC's own Sense
+ 4.0 UI.  As HTC comes with Android 4.0.3, on-board it offers features 
+such as Task Switcher or the Resizable Widgets, which come in pretty 
+handy. 
+
+HTC Sense 4.0 is a nice addition and helps in enhancing 
+the performance of this smartphone. This new version looks akin to HTC 
+Sense 3.6 but the newer version is lighter. Another addition in HTC 
+Sense 4.0 is that it lets you resize widgets. 
+
+There are five 
+customisable home screens to show app shortcuts and widgets. Users can 
+even view personalised shortcuts on the HTC Lock-screen.
+
+The 
+keyboard on this smartphone is responsive and quite comfortable to use 
+in both portrait and landscape modes. There was enough room to type 
+accurately even while using the keyboard on portrait mode and the 
+accuracy too is decent.
+
+In terms of pre-loaded apps, HTC Desire VC
+ packs in 7digital, car, friend Stream, flashlight, HTC Hub, Polaris 
+Office, SoundHound, Teeter, TuneIn Radio and Wi-Fi Hotspot.
+
+7digital
+ is a Music app, which acts both as a player and MP3 music store where 
+one can listen and buy music. The HTC Car app launches automatically 
+whenever you connect the smartphone to HTC Car Kit and acts like an 
+in-dash unit.
+
+Teeter is an interesting puzzle game in which the 
+objective is to get the ball from the start of a maze to the target 
+hole. To make it more challenging, there are a few holes in the path 
+that must be avoided. 
+
+Performance/ Battery LifeThe HTC 
+Desire VC runs on a single core 1GHz cortex A5 Qualcomm processor, with 
+only 512MB of RAM, which is a bit underwhelming as most of the other 
+smartphones at this price point such as Sony Xperia U, Motorola Atrix 2 
+and Sony Xperia P are offering a dual-core processor.  
+
+When it 
+came to actual usage, we find that in the normal day usage, browsing the
+ Internet through this smartphone is a pleasurable experience and the 
+size of the screen really helps in that. The pages loaded quite quickly 
+and scrolling was convenient. However, there can be a few jerks while 
+trying to multitask on the smartphone.
+
+HTC Desire VC offers ample 
+storage. There is 4GB of internal memory, which can be extended up to 32
+ GB through a microSD card. Also, the company has tied up with Dropbox 
+and is offering 25 GB of cloud space for two years. 
+
+Being a dual-SIM smartphone, users can run 3G on the GSM SIM while the CDMA one can support EVDO (Evolution Data Optimised). 
+
+To
+ help users manage between the two SIMs, HTC has a dual-SIM Manager 
+settings option that can help users personalise their calling 
+experience. The call quality on both the CDMA and GSM is decent. 
+
+Integrated
+ with Beats Audio, users will expect enhanced sound quality from the HTC
+ Desire VC. The audio output with the bundled headphones is decent but 
+not so great on the loudspeakers. 
+
+What's more disappointing was 
+the video playback on the smartphone. The stock video player could not 
+even playback an MP4 file. Given the screen and the resolution, there 
+was so much more that HTC could have done with respect to the video 
+playback capabilities.
+
+Considering that HTC Desire VC is a 
+dual-SIM, dual-active smartphone the 1650 mAh battery has a stiff job on
+ its hands. The battery just about manages to scrape through a full day 
+with a single charge, which is decent by any standard.
+
+Playing 
+games on this smartphone is a pleasurable experience. There were no lags
+ in playing common games such as Temple Run Brave and Teeter.
+
+VerdictThe
+ HTC Desire VC is an interesting dual-SIM smartphone as there aren't too
+ many smartphones that offer a combination of CDMA and GSM. The dual-SIM
+ market has so far been dominated by offerings from the so-called 
+"lesser" manufacturers, so it is good to see a premium dual-SIM 
+offering.
+
+The things that go in favour of this smartphone are its 
+good looks and that it sports a display.  On the performance front 
+despite having a single-core processor, this smartphone manages to do an ok job. The Android 4.0.3 along with Sense 4.0 is a great combination.
+
+However,
+ the camera on-board is average and there is no front camera on board. 
+Even the video playback leaves a lot to be desired. 
+
+Considering 
+that they aren't too many interesting CDMA + GSM smartphone, HTC Desire 
+VC can be an interesting choice but we do feel that given the specs and 
+the performance, this smartphone from HTC's stable is slightly 
+overpriced smartphone. HTC Desire VC in pictures 
+
+Price: Rs. 21,999
+

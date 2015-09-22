@@ -1,0 +1,273 @@
+Microsoft Lumia 532 Dual SIM Review: Up Against the Android Army
+
+No matter which part of the 
+market it tries to address, Microsoft will have stiff competition from 
+multiple Android partners. At the high end, there's really no contest - 
+Microsoft hasn't released a new flagship since it erased Nokia's name 
+from the catalog, and it won't until Windows 10 is ready to go later 
+this year. Lumia models stand out in the mid-range because of their 
+attractive styling, good cameras and decent battery life, which somewhat
+ make up for other shortcomings. Last year, Nokia had a fair bit 
+of success with the 52x and 62x Lumia series, which were priced well and
+ offered enough value. Now, the budget Android landscape has shifted 
+dramatically in the wake of a Chinese invasion. Xiaomi, Lenovo, 
+Motorola, Asus and many others have strong grips on the sub-Rs. 10,000 
+market, so can Microsoft still carve out a niche?Look and feelThe
+ Microsoft Lumia 532 Dual SIM is a bit of an ugly duckling. It's thick, 
+chunky and not immediately appealing. In fact it looks a lot like the 
+Asha series thanks to the obvious outer shell with squared off sides and
+ pointy corners. Our review sample was black, which didn't help the 
+phone look sleek, but it's also available in white, green, or orange. At
+ least it isn't too heavy, at 136g.The rear has a matte finish 
+for grip, but the sides are glossy. As expected, the shell pops right 
+out and we can easily see that the phone could have been a lot less 
+bulky without it. The corners dug into our palms and we noticed a lot of
+ scuffing on the glossy plastic bits, which was a little disappointing.This
+ is a plain budget phone, so don't expect more than the basics. There's a
+ 3.5mm headset socket on top and a Micro-USB port on the bottom. The 
+power and volume buttons are on the right. There's a simple camera lens 
+without a flash on the rear, and a speaker cutout below it. There is 
+another camera on the front, above the screen.  A Microsoft logo 
+replaces the familiar Nokia typography - we're still getting used to 
+that.The battery feels relatively small, and you'll find the two 
+Micro-SIM card holders and a microSD slot when you pop it out. The metal
+ SIM card holders feel a little flimsy, but cards should stay secure as 
+long as you don't swap them often.SpecificationsMicrosoft 
+will find itself falling behind Android smartphones in this price range -
+ the Lumia 532 Dual SIM feels like a phone that's several years old, and
+ that's primarily due to the screen. At 4 inches diagonally, the 
+480x800-pixel resolution means there are visible jagged edges and 
+gradients are not smooth. It's also not a very high-quality screen - 
+colours are dull, and lose definition as soon as you look at the screen 
+from an angle. It gets bright enough, but is still difficult to use 
+under direct sunlight.The processor is a rather anaemic Qualcomm 
+Snapdragon 200, which has four 1.2GHz Cortex-A7 cores running at 1.2GHz,
+ and Adreno 302 graphics. We expected the 1GB of RAM, but it was nice to
+ see 8GB of storage space. Lumia phones usually support high-capacity 
+microSD cards, and this one is no exception - you can add up to 128GB 
+more space if needed. Wi-Fi b/g/n, Bluetooth 4.0 and A-GPS are 
+available, as is FM radio. You don't get many sensors, only an 
+accelerometer and an ambient light sensor to manage auto brightness. The
+ battery is rate at 1,560mAh which is incredibly disappointing. The 
+cameras are also nothing to get excited about: a 5-megapixel one on the 
+rear and a 0.3-megapixel VGA one in front. Video recording is limited to
+ 480p even with the rear camera. Microsoft includes a headset and a 
+charger (with a fixed cable) in the box.SoftwareThe 
+Microsoft Lumia 532 Dual SIM ships with the Denim update of Windows 
+Phone 8.1 which brings a few interesting improvements to the OS. 
+Notably, this phone comes with a large Cortana tile on the homescreen, 
+though it won't work if your location is set to India. The app displays 
+an apologetic message, but it's fairly easy to change to US English.You
+ get a few handy in-house apps, most notably Here Maps and Here Drive+. 
+There's also a separate Bing Maps app - Microsoft has not yet resolved 
+all of Nokia's assets with its own. Lumia Camera is a great app, but is 
+absolutely crippled by the lousy cameras on this device. Similarly, 
+Lumia Cinemagraph, Lumia Selfie, Lumia Storyteller and Lumia Creative 
+Studio won't be as useful on this phone as they are on others. MixRadio 
+is still one of our favourite Lumia apps and has a fantastic library 
+that you can stream tracks and create custom playlists from - sadly, the
+ extremely cheap premium subscription plan is not available anymore.The
+ rest of the Bing apps - Food & Drink, Health & Fitness, Money, 
+News, Sport, etc are easy to ignore and surprisingly, can be 
+uninstalled. Other tools, such as Podcasts and Wallet can't be removed. 
+Beyond that, Microsoft seems to have gone overboard with the third-party
+ apps. We found BlackBerry Messenger, Facebook, Foodpanda, Gameloft Hub,
+ Jabong, Paytm, Redbus, Star Sports, Truecaller and Twitter - some 
+useful, but most just spammy. In total, there's more software here than 
+most phone's come with. At least one thing this does is show that
+ there are plenty of apps for the Windows Phone platform now, especially
+ the common ones that people might be upset about missing. Those who buy
+ phones at this price level will probably not have huge problems with 
+the selection available. Combined with other platform features such as 
+the extremely handy Glance Screen notifications and Sense tools, the 
+effect is that Windows Phone could be a viable alternative to Android 
+with a unique look and useful features - and more importantly, no huge 
+drawbacks.PerformanceAs expected, the weak hardware 
+resulted in some pretty mediocre test scores. SunSpider took 1251.3ms 
+and Mozilla Kraken took 26992.4ms, which are about the average for 
+low-cost phones. AnTuTu for Windows Phone returned 11841 points and 
+WPbench came up with 258.8 points, both of which are about the same as 
+the Nokia Lumia 630 Dual SIM scored when we tested it a little while 
+ago.Quite a few of our sample videos refused to play. The Lumia 
+532 Dual SIM couldn't handle 720p files at all and was only just about 
+able to play a 480p MOV file using a third-party app. The speaker did 
+manage to get quite loud, though sound was muffled and thin.  Despite
+ having a fixed-focus lens, the read camera is not entirely awful. 
+Colour accuracy is off and there's no room for improvement by resizing 
+them since they're already low-resolution - but there's a surprising 
+amount of detail in most shots. Even low-light photos taken in 
+reasonably well-lit spaces came out looking decent. That said, phones 
+such as the Xiaomi Redmi 2 will still run rings around the Lumia 532 
+Dual SIM in the camera department. Video was expectedly poor, and the 
+front-facing camera is all but useless.The battery lasted 9 
+hours, 4 minutes in our video loop test which was surprising, 
+considering how small the battery is. It would seem that Microsoft has 
+managed to tweak its software and hardware to sip power, which is a very
+ good thing. Test scores aside, we did have some trouble while 
+using this phone. On a few occasions, we picked it up only to find that 
+it had turned itself off and was unresponsive. It only came back on 
+after we popped the battery out each time. On another occasion, we left 
+it lying on a table and turned away for a few minutes, during which the 
+phone decided to install updates on its own. We were surprised to see an
+ animation of spinning gears, and then a progress bar. The whole thing 
+lasted nearly 10 minutes, during which time the phone was unusable. Both
+ behaviours are worrying, because you won't know you're unreachable 
+unless you keep looking at your phone.(Click to see full size)VerdictMicrosoft 
+clearly cannot win in this budget segment on the basis of features and 
+specifications alone. The company has therefore tried to create an 
+experience around its Lumia hardware and Windows Phone software. The 
+attempt works to some extent, but there are still a lot of things that 
+Android does better, and not enough things that the Lumia 532 Dual SIM 
+has any advantage in. If you're looking for the best value for money, go
+ with the Xiaomi Redmi 2 (Review | Pictures) or Motorola Moto E (Gen 2) (Review | Pictures).  Microsoft Lumia 532 Dual SIM in pictures
+
+ Last year, Nokia had a fair bit 
+of success with the 52x and 62x Lumia series, which were priced well and
+ offered enough value. Now, the budget Android landscape has shifted 
+dramatically in the wake of a Chinese invasion. Xiaomi, Lenovo, 
+Motorola, Asus and many others have strong grips on the sub-Rs. 10,000 
+market, so can Microsoft still carve out a niche?
+
+Look and feelThe
+ Microsoft Lumia 532 Dual SIM is a bit of an ugly duckling. It's thick, 
+chunky and not immediately appealing. In fact it looks a lot like the 
+Asha series thanks to the obvious outer shell with squared off sides and
+ pointy corners. Our review sample was black, which didn't help the 
+phone look sleek, but it's also available in white, green, or orange. At
+ least it isn't too heavy, at 136g.
+
+The rear has a matte finish 
+for grip, but the sides are glossy. As expected, the shell pops right 
+out and we can easily see that the phone could have been a lot less 
+bulky without it. The corners dug into our palms and we noticed a lot of
+ scuffing on the glossy plastic bits, which was a little disappointing.
+
+This
+ is a plain budget phone, so don't expect more than the basics. There's a
+ 3.5mm headset socket on top and a Micro-USB port on the bottom. The 
+power and volume buttons are on the right. There's a simple camera lens 
+without a flash on the rear, and a speaker cutout below it. There is 
+another camera on the front, above the screen.  A Microsoft logo 
+replaces the familiar Nokia typography - we're still getting used to 
+that.
+
+The battery feels relatively small, and you'll find the two 
+Micro-SIM card holders and a microSD slot when you pop it out. The metal
+ SIM card holders feel a little flimsy, but cards should stay secure as 
+long as you don't swap them often.
+
+SpecificationsMicrosoft 
+will find itself falling behind Android smartphones in this price range -
+ the Lumia 532 Dual SIM feels like a phone that's several years old, and
+ that's primarily due to the screen. At 4 inches diagonally, the 
+480x800-pixel resolution means there are visible jagged edges and 
+gradients are not smooth. It's also not a very high-quality screen - 
+colours are dull, and lose definition as soon as you look at the screen 
+from an angle. It gets bright enough, but is still difficult to use 
+under direct sunlight.
+
+The processor is a rather anaemic Qualcomm 
+Snapdragon 200, which has four 1.2GHz Cortex-A7 cores running at 1.2GHz,
+ and Adreno 302 graphics. We expected the 1GB of RAM, but it was nice to
+ see 8GB of storage space. Lumia phones usually support high-capacity 
+microSD cards, and this one is no exception - you can add up to 128GB 
+more space if needed. 
+
+Wi-Fi b/g/n, Bluetooth 4.0 and A-GPS are 
+available, as is FM radio. You don't get many sensors, only an 
+accelerometer and an ambient light sensor to manage auto brightness. The
+ battery is rate at 1,560mAh which is incredibly disappointing. The 
+cameras are also nothing to get excited about: a 5-megapixel one on the 
+rear and a 0.3-megapixel VGA one in front. Video recording is limited to
+ 480p even with the rear camera. Microsoft includes a headset and a 
+charger (with a fixed cable) in the box.
+
+SoftwareThe 
+Microsoft Lumia 532 Dual SIM ships with the Denim update of Windows 
+Phone 8.1 which brings a few interesting improvements to the OS. 
+Notably, this phone comes with a large Cortana tile on the homescreen, 
+though it won't work if your location is set to India. The app displays 
+an apologetic message, but it's fairly easy to change to US English.
+
+You
+ get a few handy in-house apps, most notably Here Maps and Here Drive+. 
+There's also a separate Bing Maps app - Microsoft has not yet resolved 
+all of Nokia's assets with its own. Lumia Camera is a great app, but is 
+absolutely crippled by the lousy cameras on this device. Similarly, 
+Lumia Cinemagraph, Lumia Selfie, Lumia Storyteller and Lumia Creative 
+Studio won't be as useful on this phone as they are on others. MixRadio 
+is still one of our favourite Lumia apps and has a fantastic library 
+that you can stream tracks and create custom playlists from - sadly, the
+ extremely cheap premium subscription plan is not available anymore.
+
+The
+ rest of the Bing apps - Food & Drink, Health & Fitness, Money, 
+News, Sport, etc are easy to ignore and surprisingly, can be 
+uninstalled. Other tools, such as Podcasts and Wallet can't be removed. 
+Beyond that, Microsoft seems to have gone overboard with the third-party
+ apps. We found BlackBerry Messenger, Facebook, Foodpanda, Gameloft Hub,
+ Jabong, Paytm, Redbus, Star Sports, Truecaller and Twitter - some 
+useful, but most just spammy. In total, there's more software here than 
+most phone's come with. 
+
+At least one thing this does is show that
+ there are plenty of apps for the Windows Phone platform now, especially
+ the common ones that people might be upset about missing. Those who buy
+ phones at this price level will probably not have huge problems with 
+the selection available. Combined with other platform features such as 
+the extremely handy Glance Screen notifications and Sense tools, the 
+effect is that Windows Phone could be a viable alternative to Android 
+with a unique look and useful features - and more importantly, no huge 
+drawbacks.
+
+PerformanceAs expected, the weak hardware 
+resulted in some pretty mediocre test scores. SunSpider took 1251.3ms 
+and Mozilla Kraken took 26992.4ms, which are about the average for 
+low-cost phones. AnTuTu for Windows Phone returned 11841 points and 
+WPbench came up with 258.8 points, both of which are about the same as 
+the Nokia Lumia 630 Dual SIM scored when we tested it a little while 
+ago.
+
+Quite a few of our sample videos refused to play. The Lumia 
+532 Dual SIM couldn't handle 720p files at all and was only just about 
+able to play a 480p MOV file using a third-party app. The speaker did 
+manage to get quite loud, though sound was muffled and thin.  
+
+Despite
+ having a fixed-focus lens, the read camera is not entirely awful. 
+Colour accuracy is off and there's no room for improvement by resizing 
+them since they're already low-resolution - but there's a surprising 
+amount of detail in most shots. Even low-light photos taken in 
+reasonably well-lit spaces came out looking decent. That said, phones 
+such as the Xiaomi Redmi 2 will still run rings around the Lumia 532 
+Dual SIM in the camera department. Video was expectedly poor, and the 
+front-facing camera is all but useless.
+
+The battery lasted 9 
+hours, 4 minutes in our video loop test which was surprising, 
+considering how small the battery is. It would seem that Microsoft has 
+managed to tweak its software and hardware to sip power, which is a very
+ good thing. 
+
+Test scores aside, we did have some trouble while 
+using this phone. On a few occasions, we picked it up only to find that 
+it had turned itself off and was unresponsive. It only came back on 
+after we popped the battery out each time. On another occasion, we left 
+it lying on a table and turned away for a few minutes, during which the 
+phone decided to install updates on its own. We were surprised to see an
+ animation of spinning gears, and then a progress bar. The whole thing 
+lasted nearly 10 minutes, during which time the phone was unusable. Both
+ behaviours are worrying, because you won't know you're unreachable 
+unless you keep looking at your phone.
+
+(Click to see full size)
+
+VerdictMicrosoft 
+clearly cannot win in this budget segment on the basis of features and 
+specifications alone. The company has therefore tried to create an 
+experience around its Lumia hardware and Windows Phone software. The 
+attempt works to some extent, but there are still a lot of things that 
+Android does better, and not enough things that the Lumia 532 Dual SIM 
+has any advantage in. If you're looking for the best value for money, go
+ with the Xiaomi Redmi 2 (Review | Pictures) or Motorola Moto E (Gen 2) (Review | Pictures). 
+

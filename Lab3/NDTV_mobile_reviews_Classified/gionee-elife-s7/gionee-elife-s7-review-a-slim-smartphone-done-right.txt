@@ -1,0 +1,281 @@
+Gionee Elife S7 Review: A Slim Smartphone Done Right
+
+We've
+ come to expect China-based Gionee to push the boundaries of 
+smartphone slimness. The Elife S5.5 and its successor, the Elife S5.1 (Review | Pictures) - the 
+model numbers indicate their slimness in mm - are examples from the recent past. 
+However, other Chinese brands such as Oppo and Vivo have launched even thinner models
+ and the title of the slimmest smartphone now lies with the Vivo X5Max (Review | Pictures).This
+ year, Gionee seems to have slightly different plans and it isn't going for 
+bragging rights. To our surprise, the company took the wraps off its 
+latest smartphone, the Elife S7, at MWC in March, which is as thick (or thin) 
+as its predecessor Elife S5.5 (Review | Pictures), remaining 0.75mm thicker than the X5Max. This could actually turn out to be a 
+good thing. Moreover, Gionee continues to obsess 
+over details such as build quality and design. The 
+phone uses the latest octa-core processor from MediaTek. On paper at 
+least, everything looks great for Gionee but we ran it through our 
+regular suite of tests to find out how it performs in daily usage.Look and feelGionee
+ has engineered the Elife S7 in such a way that its body is 
+supported by a U-shaped frame made from an aviation-grade aluminium 
+magnesium alloy. This frame curves gently at its four corners. Enclosed within are the front and rear portions of the body, which   are made entirely of Corning Gorilla Glass 3. The phone is just 5.5mm thick and 
+coupled with its weight of 126.5g, it feels extremely sleek. We 
+received a black unit for review, but it is available in white and blue as well. We really like how Gionee has made optimum 
+use of space. The Elife S7 is compact despite its 5.2-inch screen. It feels very comfortable to 
+use with even one hand and almost rivals the LG G3 with respect to 
+ergonomics. However, the glass back is a fingerprint 
+and dust magnet. The volume rocker and power button have great tactile 
+feedback despite only slightly jutting out from the right side of the 
+phone, because they sit snugly inside the metal frame. 
+The SIM card tray, which accepts two Nano-SIMs, is on the right. 
+The bottom of the Elife S7 houses the Micro-USB port, 3.5mm jack, 
+speaker grille and primary microphone for phone calls. Gionee has gone
+with on-screen buttons for navigating through the operating 
+system. Above the screen, you'll find the earpiece, front camera
+ and ambient light sensor. The primary camera and LED flash are 
+on the rear.Specifications and softwareGionee
+ has decided to fit the Elife S7 with a 1.7GHz octa-core MediaTek 6752 SoC
+ with integrated Mali-T760MP2 graphics. There is 2GB of RAM 
+for applications and services. The phone only has 16GB of internal 
+storage and there is no slot for a memory card. Fortunately, the 
+phone's Micro-USB port can double up as a host for external USB devices.
+ One won't even need to purchase a separate adapter for this function 
+because Gionee bundles a Micro-USB-to-USB converter in the box. The
+ primary camera can capture 13-megapixel still images and 1080p videos. For selfies, there is an 8-megapixel secondary 
+camera. Gionee claims that both Nano-SIM cards can connect to 4G 
+networks, including the 2300MHz band used in India. Other connectivity options include
+ Wi-Fi  a/b/g/n and Bluetooth v4.0. We are disappointed that Gionee 
+hasn't gone with Wi-Fi ac, which is the latest standard. 
+There is a 2,700mAh battery which provides the juice for the phone. The
+ 5.2-inch Super-AMOLED screen has a resolution of 1080x1920 which translates to a density of 424ppi. The colours are really 
+vibrant thanks and the brightness level can get pretty high too. Viewing angles and sunlight legibility are also pretty good. The Elife S7 is the first phone we've used with 
+Gionee's latest Amigo 3.0 OS skin on top of Android Lollipop 5.0. We 
+really like overall use of pastel colours and flat icons, which makes it
+ look modern compared to previous versions. In 
+addition, Gionee has managed to address our main issue with earlier 
+versions - speed. Amigo 3.0 is zippy and makes other 
+skins feel slow in comparison. Unfortunately, there are certain flaws 
+that still need to be addressed. For example, the notifications shade 
+only shows notifications, and the quick settings panel has to be accessed by swiping up from the bottom of the display. The problem with 
+performing this action is that the on-screen buttons always come
+ in the way, and the action feels awkward. You need to 
+swipe up from the centre of the screen to get to the homescreen settings. Gionee has preloaded a ton of 
+third-party apps and games, quite a few of which are not useful. 
+However, we did like the new Chameleon app which uses the camera to 
+automatically choose three colours from the environment and then changes the 
+theme of the phone accordingly. It might sound gimmicky but playing
+ around with it is addictive. CameraThe default camera app is feature-rich with a ton of options, including a fairly 
+elaborate Professional mode that allows for control over the exposure, 
+ISO, white balance, aperture and focus. There is also a Magic Focus mode
+ that allows precise control over the area of focus after photos have been captured. This works best when the subject is clearly defined in the foreground. After using this mode in the Elife S7, we
+ felt that HTC's implementation of a similar feature was better. The 13-megapixel camera on the Elife S7 can capture 
+some really detailed pictures and is a fast shooter too. It does a 
+great job with handling light in daytime shots. We were really 
+impressed with the way the camera handled white balance; sometimes even 
+better than the Xiaomi Mi4 and the OnePlus One, both of which have good 
+cameras. The HDR mode also works fairly well to fix exposure issues, if 
+any. Even so, there was some barrel distortion in our shots. The 
+camera struggles in low-light situations and details were absent as a 
+result of all the noise that crept in. (Click for full size)The 1080p samples we captured had a good amount of detail, but the camera struggled to 
+maintain focus and the lack of any kind of image stabilisation caused the 
+video to be shaky despite holding the phone steady.  The 8-megapixel front camera, on the other hand, struggled with letting an adequate amount of light in. For someone who isn't obsessed with details
+ the selfies are pretty good, but we still think that the front cameras 
+on the HTC Desire 820s (Review | Pictures) and the    Sony Xperia C3 Dual (Review | Pictures) are much better 
+performers. For that matter, even the Micromax Canvas Selfie (Review | Pictures) takes 
+better pictures. (Click for full size)PerformanceAfter a good experience with 
+the performance of the MediaTek 6752 SoC when using the Desire 820s, which 
+had a 720p screen, we were eager to see how it performed in a
+ phone with a 1080p screen. We are happy to report that it didn't 
+disappoint us. In daily usage, the Elife S7 performed with no 
+hiccups whatsoever. Even high-end games such as Asphalt 8 and Dead Trigger 2
+ ran smoothly. Most importantly though, Gionee has ensured that the 
+phone doesn't get uncomfortably hot during intensive tasks -  one of 
+our major gripes with slim smartphones. In the AnTuTu and 
+Quadrant benchmark tests, the phone scored 40,607 and 15,487 
+points respectively. These figures are in line with what we achieved with the 
+HTC Desire 820s. If you are concerned about performance in 
+comparison with the OnePlus One and the Xiaomi Mi4, you'll be glad to 
+know that both phones registered only marginally better results, 
+which won't really be apparent in day-to-day usage. On the other hand, graphics performance was not that great. We achieved 17fps and 10,370 
+points in the GFXbench and 3DMark Ice Storm tests. We really hope 
+MediaTek steps up in this department to take on its competition in this price band. The Elife S7 
+managed to play all our test videos, including our heavily encoded 40Mbps
+ 1080p sample, without stuttering or dropping frames. In fact, the 
+combination of deep black levels of the Super AMOLED screens and the 
+black body of the device caused the videos to pop in dark 
+environments. The mono speaker gets adequately loud and does its job. 
+The bundled headset is of really high quality and the DTS audio feature 
+actually works as advertised, which means it amplifies and improves the sound. The call quality of the Elife S7 is good and we
+ had no complaints. In our battery life test the phone lasted 9 hours 
+and 36 minutes, which is slightly more than average. 
+As usual, there is a power saving mode that can be activated to improve 
+battery life in everyday usage. VerdictAfter our time with 
+the Gionee Elife S7, we can safely say that it is our favourite Gionee smartphone yet. We appreciate 
+the company's efforts to address the most pertinent problems with slim 
+smartphones: build quality, heating and ergonomics. If you 
+are in the market for a device this thin, the Gionee Elife S7 could be 
+the best option yet. You
+ will need Rs. 24,999 to buy one, though. At this price, other
+ worthy options include the OnePlus One (Review | Pictures), Xiaomi Mi 4 (Review | Pictures) and HTC Desire 
+820s (Review | Pictures). 
+Gionee Elife S7 in pictures
+
+We've
+ come to expect China-based Gionee to push the boundaries of 
+smartphone slimness. The Elife S5.5 and its successor, the Elife S5.1 (Review | Pictures) - the 
+model numbers indicate their slimness in mm - are examples from the recent past. 
+However, other Chinese brands such as Oppo and Vivo have launched even thinner models
+ and the title of the slimmest smartphone now lies with the Vivo X5Max (Review | Pictures).
+
+This
+ year, Gionee seems to have slightly different plans and it isn't going for 
+bragging rights. To our surprise, the company took the wraps off its 
+latest smartphone, the Elife S7, at MWC in March, which is as thick (or thin) 
+as its predecessor Elife S5.5 (Review | Pictures), remaining 0.75mm thicker than the X5Max. This could actually turn out to be a 
+good thing. 
+
+Moreover, Gionee continues to obsess 
+over details such as build quality and design. The 
+phone uses the latest octa-core processor from MediaTek. On paper at 
+least, everything looks great for Gionee but we ran it through our 
+regular suite of tests to find out how it performs in daily usage.
+
+Look and feelGionee
+ has engineered the Elife S7 in such a way that its body is 
+supported by a U-shaped frame made from an aviation-grade aluminium 
+magnesium alloy. This frame curves gently at its four corners. Enclosed within are the front and rear portions of the body, which   are made entirely of Corning Gorilla Glass 3. The phone is just 5.5mm thick and 
+coupled with its weight of 126.5g, it feels extremely sleek. We 
+received a black unit for review, but it is available in white and blue as well. 
+
+We really like how Gionee has made optimum 
+use of space. The Elife S7 is compact despite its 5.2-inch screen. It feels very comfortable to 
+use with even one hand and almost rivals the LG G3 with respect to 
+ergonomics. However, the glass back is a fingerprint 
+and dust magnet. 
+
+The volume rocker and power button have great tactile 
+feedback despite only slightly jutting out from the right side of the 
+phone, because they sit snugly inside the metal frame. 
+The SIM card tray, which accepts two Nano-SIMs, is on the right. 
+The bottom of the Elife S7 houses the Micro-USB port, 3.5mm jack, 
+speaker grille and primary microphone for phone calls. Gionee has gone
+with on-screen buttons for navigating through the operating 
+system. Above the screen, you'll find the earpiece, front camera
+ and ambient light sensor. The primary camera and LED flash are 
+on the rear.
+
+Specifications and softwareGionee
+ has decided to fit the Elife S7 with a 1.7GHz octa-core MediaTek 6752 SoC
+ with integrated Mali-T760MP2 graphics. There is 2GB of RAM 
+for applications and services. The phone only has 16GB of internal 
+storage and there is no slot for a memory card. Fortunately, the 
+phone's Micro-USB port can double up as a host for external USB devices.
+ One won't even need to purchase a separate adapter for this function 
+because Gionee bundles a Micro-USB-to-USB converter in the box. 
+
+The
+ primary camera can capture 13-megapixel still images and 1080p videos. For selfies, there is an 8-megapixel secondary 
+camera. Gionee claims that both Nano-SIM cards can connect to 4G 
+networks, including the 2300MHz band used in India. Other connectivity options include
+ Wi-Fi  a/b/g/n and Bluetooth v4.0. We are disappointed that Gionee 
+hasn't gone with Wi-Fi ac, which is the latest standard. 
+There is a 2,700mAh battery which provides the juice for the phone. 
+
+The
+ 5.2-inch Super-AMOLED screen has a resolution of 1080x1920 which translates to a density of 424ppi. The colours are really 
+vibrant thanks and the brightness level can get pretty high too. Viewing angles and sunlight legibility are also pretty good. 
+
+The Elife S7 is the first phone we've used with 
+Gionee's latest Amigo 3.0 OS skin on top of Android Lollipop 5.0. We 
+really like overall use of pastel colours and flat icons, which makes it
+ look modern compared to previous versions. In 
+addition, Gionee has managed to address our main issue with earlier 
+versions - speed. Amigo 3.0 is zippy and makes other 
+skins feel slow in comparison. 
+
+Unfortunately, there are certain flaws 
+that still need to be addressed. For example, the notifications shade 
+only shows notifications, and the quick settings panel has to be accessed by swiping up from the bottom of the display. The problem with 
+performing this action is that the on-screen buttons always come
+ in the way, and the action feels awkward. You need to 
+swipe up from the centre of the screen to get to the homescreen settings. 
+
+Gionee has preloaded a ton of 
+third-party apps and games, quite a few of which are not useful. 
+However, we did like the new Chameleon app which uses the camera to 
+automatically choose three colours from the environment and then changes the 
+theme of the phone accordingly. It might sound gimmicky but playing
+ around with it is addictive. 
+
+CameraThe default camera app is feature-rich with a ton of options, including a fairly 
+elaborate Professional mode that allows for control over the exposure, 
+ISO, white balance, aperture and focus. There is also a Magic Focus mode
+ that allows precise control over the area of focus after photos have been captured. This works best when the subject is clearly defined in the foreground. After using this mode in the Elife S7, we
+ felt that HTC's implementation of a similar feature was better. 
+
+The 13-megapixel camera on the Elife S7 can capture 
+some really detailed pictures and is a fast shooter too. It does a 
+great job with handling light in daytime shots. We were really 
+impressed with the way the camera handled white balance; sometimes even 
+better than the Xiaomi Mi4 and the OnePlus One, both of which have good 
+cameras. The HDR mode also works fairly well to fix exposure issues, if 
+any. Even so, there was some barrel distortion in our shots. The 
+camera struggles in low-light situations and details were absent as a 
+result of all the noise that crept in. 
+
+(Click for full size)The 1080p samples we captured had a good amount of detail, but the camera struggled to 
+maintain focus and the lack of any kind of image stabilisation caused the 
+video to be shaky despite holding the phone steady.  The 8-megapixel front camera, on the other hand, struggled with letting an adequate amount of light in. For someone who isn't obsessed with details
+ the selfies are pretty good, but we still think that the front cameras 
+on the HTC Desire 820s (Review | Pictures) and the    Sony Xperia C3 Dual (Review | Pictures) are much better 
+performers. For that matter, even the Micromax Canvas Selfie (Review | Pictures) takes 
+better pictures. 
+
+(Click for full size)PerformanceAfter a good experience with 
+the performance of the MediaTek 6752 SoC when using the Desire 820s, which 
+had a 720p screen, we were eager to see how it performed in a
+ phone with a 1080p screen. We are happy to report that it didn't 
+disappoint us. In daily usage, the Elife S7 performed with no 
+hiccups whatsoever. Even high-end games such as Asphalt 8 and Dead Trigger 2
+ ran smoothly. Most importantly though, Gionee has ensured that the 
+phone doesn't get uncomfortably hot during intensive tasks -  one of 
+our major gripes with slim smartphones. 
+
+In the AnTuTu and 
+Quadrant benchmark tests, the phone scored 40,607 and 15,487 
+points respectively. These figures are in line with what we achieved with the 
+HTC Desire 820s. If you are concerned about performance in 
+comparison with the OnePlus One and the Xiaomi Mi4, you'll be glad to 
+know that both phones registered only marginally better results, 
+which won't really be apparent in day-to-day usage. 
+
+On the other hand, graphics performance was not that great. We achieved 17fps and 10,370 
+points in the GFXbench and 3DMark Ice Storm tests. We really hope 
+MediaTek steps up in this department to take on its competition in this price band. 
+
+The Elife S7 
+managed to play all our test videos, including our heavily encoded 40Mbps
+ 1080p sample, without stuttering or dropping frames. In fact, the 
+combination of deep black levels of the Super AMOLED screens and the 
+black body of the device caused the videos to pop in dark 
+environments. The mono speaker gets adequately loud and does its job. 
+The bundled headset is of really high quality and the DTS audio feature 
+actually works as advertised, which means it amplifies and improves the sound. 
+
+The call quality of the Elife S7 is good and we
+ had no complaints. In our battery life test the phone lasted 9 hours 
+and 36 minutes, which is slightly more than average. 
+As usual, there is a power saving mode that can be activated to improve 
+battery life in everyday usage. 
+
+VerdictAfter our time with 
+the Gionee Elife S7, we can safely say that it is our favourite Gionee smartphone yet. We appreciate 
+the company's efforts to address the most pertinent problems with slim 
+smartphones: build quality, heating and ergonomics. If you 
+are in the market for a device this thin, the Gionee Elife S7 could be 
+the best option yet. 
+
+You
+ will need Rs. 24,999 to buy one, though. At this price, other
+ worthy options include the OnePlus One (Review | Pictures), Xiaomi Mi 4 (Review | Pictures) and HTC Desire 
+820s (Review | Pictures). 
+

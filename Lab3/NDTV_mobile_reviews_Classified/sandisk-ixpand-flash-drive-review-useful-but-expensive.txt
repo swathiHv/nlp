@@ -1,0 +1,238 @@
+SanDisk iXpand Flash Drive Review: Useful but Expensive
+
+The lack of expandable storage has 
+always been a thorn in the side of iPhone and iPad users, while microSD 
+cards and even USB-OTG drives are standard features of the Android 
+landscape. Buyers balk at the massive margins Apple charges to step up 
+from the lowest storage option on each of its devices, but often wind up
+ feeling remorse a year or so down the line when they have to start 
+deleting photos, cutting back on apps and carrying less music. SanDisk
+ is one few companies trying to help users get around this problem. The 
+iXpand Flash Drive does two major things: it helps you carry more data 
+around than your iOS device(s) can store, and it helps you copy files to
+ and from PCs and iOS devices without going through iTunes. Note that it
+ does not magically add more storage to an iPhone or iPad itself - so 
+you can't think of it as an iOS equivalent of a USB pen drive. More on how
+ that works below.Look and feelThe SanDisk iXpand Flash 
+Drive is fairly bulky; much larger than the similar Strontium Nitro 
+iDrive USB 3.0 which we reviewed earlier this year. The first thing 
+you'll notice about it is the Lightning connector recessed into the 
+front of the body. It's actually on the end of a flexible rubber stalk 
+so you can lift it out to plug the drive into your iOS device. The
+ iXpand Flash Drive is made of metal, which the company hopes will 
+appeal to iPhone and iPad buyers. There's a regular full-sized USB 
+connector under the plastic lid on top, and you can plug the iXpand 
+Flash Drive into any PC or Mac, though it will block ports on either 
+side thanks to its width.The construction quality is top-notch, 
+with polished metal shining through on the edges much like it would on 
+current Apple products. There's a tiny activity LED on the right side 
+but otherwise really not much else to see on the device itself. It's 
+heavy enough that you'll feel it in a pocket, but not so much that it 
+will make any difference when tossed in a bag.SanDisk told us at 
+the device's launch that the flexible stalk design was chosen so that 
+iPhones and iPads wouldn't have to be removed from cases with narrow 
+Lightning port openings. While we found that this was true and 
+convenient in one way, it results in the iXpand Flash Drive hanging out 
+the bottom and at an angle. This made for some very awkward gymnastics 
+when trying to hold our test devices, and we weren't able to lay them 
+flat on any surface or prop them up either. On the whole, we would have 
+preferred a smaller, less awkward design.Specifications and softwareOne
+ of the reasons for the iXpand Flash Drive's bulk is that it has a 
+battery, and it will simply not work if it runs out. Apple does not 
+allow accessories to drain power from an iPhone or iPad's Lightning 
+port, so the drive will only charge when plugged in to a PC (or you'll 
+need to use a wall charger). This is important to know because you might
+ not notice it at all when regularly shuffling between PCs and iOS 
+devices, but you could run out if you use it on an iOS device 
+exclusively for a long time, such as if you use it only to back up 
+photos and videos on a long trip. You'll want to keep an eye on the 
+activity LED which will turn red when you need to charge the drive.The
+ iXpand Flash Drive is available in capacities ranging from 16GB to 
+128GB. It will work with any PC running at least Windows Vista and any 
+Mac with OS X v10.6 and above. You'll also need at least iOS 7.1 on your
+ Lightning-equipped iOS device. On plugging it in to any iOS device for 
+the first time, it will trigger a prompt taking you to the App Store to 
+download SanDisk's iXpand app. The company also provides a security 
+program for Windows and OS X on the drive itself.The iXpand app 
+is the only way to get to anything stored on the drive. The biggest 
+limitation Apple enforces is that no other app is even aware when it's 
+plugged in. You thus cannot use it to bump up your iPhone or iPad's 
+storage capacity. You can transfer photos from your Camera Roll to the 
+iXpand Flash drive but you can't permanently have more space. You can 
+play music and videos through the app but you can't add those files to 
+the iOS Music and Video players. The iXpand Flash Drive gives you
+ an easy but inelegant way of quickly copying media to your device so 
+you can enjoy it later. Just copy files on to if from a PC - no iTunes, 
+no typing IP addresses into Web browsers.  You can then either play them
+ directly off the drive or copy files over to your iOS device for easier
+ access. If you do that, they live only within the iXpand app unless you
+ make further copies of them in other supported apps using the iOS 'Open
+ In...' option. This will let you do some things like send a PDF to 
+iBooks, or a video to Dropbox. Thankfully, the iXpand app is 
+really well laid out. You can browse through the contents of the drive (in a list view or grid of thumbnails)
+and launch any supported file, which includes audio and video formats 
+that iOS does not support through the native Music and Video apps as 
+well as PDFs and common document filetypes. Files that aren't recognised
+ can be launched in external apps. There's a 'Now Playing' panel 
+that lets you control music  while doing other things.PerformanceOne
+ major shortcoming of the SanDisk iXpand Flash Drive is that it works on
+ a PC at USB 2.0 speed. The Strontium alternative we tested recently was
+ a USB 3.0 drive and the difference is enormous. If you want to grab 
+files or make backups quickly, this will be a major irritant.On 
+our desktop test bench, the iXpand Flash Drive achieved 11.83Mbps and 
+12.6Mbps sequential reads and writes respectively. Random reads and 
+writes came in at 11.81Mbps and 11.64Mbps, which is not too bad. We also
+ tested the drive with an iPhone 5c and a fourth-gen iPad both running 
+iOS 8.3, and had no problems with the drive being recognised.The 
+app has a few unnecessary animations that seem to add delays to 
+navigation and some common functions. It takes a long time to display your device's photos if you have a lot of them. It also crashed randomly on one or
+ two occasions, but was otherwise very polished and easy to use. Thankfully
+ the app makes it very easy to check the battery charge level and 
+remaining free capacity of the iXpand Flash Drive. We never managed to 
+drain the battery enough to cause alarm, but that's because we had it 
+plugged in to PCs fairly often. VerdictThere definitely is
+ a niche for products like the SanDisk iXpand Flash Drive. If you 
+regularly find yourself running out of space, this might help solve some
+ of your problems. However, it's actually more useful when used as a 
+tool to back up photos and just get files onto an iOS device quickly and
+ easily. With prices ranging from Rs. 4,490 for 16GB to Rs. 
+11,490 for 128GB, an iXpand Flash Drive would be well over ten times as 
+expensive as a USB OTG drive of equivalent capacity. The street pricing is at par with that of the Strontium Nitro iDrive, and while it is a lot bulkier and slower, the app is far, far better.If at all possible, it would make more 
+sense to just go with a higher device 
+capacity at the time of purchase. If it's too late, you also have the option of buying a highly capable 
+Android phone and a microSD card for the same or less. You'll have to 
+decide whether the convenience is worth this much money to you.Price (MRP): Rs. 4,490 (16GB); Rs. 5,990 (32GB); Rs. 7,990 (64GB); Rs. 11,490 (128GB)ProsWell-designed appPortableConvenient for file transfersConsRequires chargingLimited to USB 2.0 transfer speedAwkward to handle an iPhone or iPad when plugged inRatings (Out of 5)Design: 3.5Performance: 3Value for Money: 3Overall: 3
+
+SanDisk
+ is one few companies trying to help users get around this problem. The 
+iXpand Flash Drive does two major things: it helps you carry more data 
+around than your iOS device(s) can store, and it helps you copy files to
+ and from PCs and iOS devices without going through iTunes. Note that it
+ does not magically add more storage to an iPhone or iPad itself - so 
+you can't think of it as an iOS equivalent of a USB pen drive. More on how
+ that works below.
+
+Look and feelThe SanDisk iXpand Flash 
+Drive is fairly bulky; much larger than the similar Strontium Nitro 
+iDrive USB 3.0 which we reviewed earlier this year. The first thing 
+you'll notice about it is the Lightning connector recessed into the 
+front of the body. It's actually on the end of a flexible rubber stalk 
+so you can lift it out to plug the drive into your iOS device. 
+
+The
+ iXpand Flash Drive is made of metal, which the company hopes will 
+appeal to iPhone and iPad buyers. There's a regular full-sized USB 
+connector under the plastic lid on top, and you can plug the iXpand 
+Flash Drive into any PC or Mac, though it will block ports on either 
+side thanks to its width.
+
+The construction quality is top-notch, 
+with polished metal shining through on the edges much like it would on 
+current Apple products. There's a tiny activity LED on the right side 
+but otherwise really not much else to see on the device itself. It's 
+heavy enough that you'll feel it in a pocket, but not so much that it 
+will make any difference when tossed in a bag.
+
+SanDisk told us at 
+the device's launch that the flexible stalk design was chosen so that 
+iPhones and iPads wouldn't have to be removed from cases with narrow 
+Lightning port openings. While we found that this was true and 
+convenient in one way, it results in the iXpand Flash Drive hanging out 
+the bottom and at an angle. This made for some very awkward gymnastics 
+when trying to hold our test devices, and we weren't able to lay them 
+flat on any surface or prop them up either. On the whole, we would have 
+preferred a smaller, less awkward design.
+
+Specifications and softwareOne
+ of the reasons for the iXpand Flash Drive's bulk is that it has a 
+battery, and it will simply not work if it runs out. Apple does not 
+allow accessories to drain power from an iPhone or iPad's Lightning 
+port, so the drive will only charge when plugged in to a PC (or you'll 
+need to use a wall charger). This is important to know because you might
+ not notice it at all when regularly shuffling between PCs and iOS 
+devices, but you could run out if you use it on an iOS device 
+exclusively for a long time, such as if you use it only to back up 
+photos and videos on a long trip. You'll want to keep an eye on the 
+activity LED which will turn red when you need to charge the drive.
+
+The
+ iXpand Flash Drive is available in capacities ranging from 16GB to 
+128GB. It will work with any PC running at least Windows Vista and any 
+Mac with OS X v10.6 and above. You'll also need at least iOS 7.1 on your
+ Lightning-equipped iOS device. On plugging it in to any iOS device for 
+the first time, it will trigger a prompt taking you to the App Store to 
+download SanDisk's iXpand app. The company also provides a security 
+program for Windows and OS X on the drive itself.
+
+The iXpand app 
+is the only way to get to anything stored on the drive. The biggest 
+limitation Apple enforces is that no other app is even aware when it's 
+plugged in. You thus cannot use it to bump up your iPhone or iPad's 
+storage capacity. You can transfer photos from your Camera Roll to the 
+iXpand Flash drive but you can't permanently have more space. You can 
+play music and videos through the app but you can't add those files to 
+the iOS Music and Video players. 
+
+The iXpand Flash Drive gives you
+ an easy but inelegant way of quickly copying media to your device so 
+you can enjoy it later. Just copy files on to if from a PC - no iTunes, 
+no typing IP addresses into Web browsers.  You can then either play them
+ directly off the drive or copy files over to your iOS device for easier
+ access. If you do that, they live only within the iXpand app unless you
+ make further copies of them in other supported apps using the iOS 'Open
+ In...' option. This will let you do some things like send a PDF to 
+iBooks, or a video to Dropbox. 
+
+Thankfully, the iXpand app is 
+really well laid out. You can browse through the contents of the drive (in a list view or grid of thumbnails)
+and launch any supported file, which includes audio and video formats 
+that iOS does not support through the native Music and Video apps as 
+well as PDFs and common document filetypes. Files that aren't recognised
+ can be launched in external apps. There's a 'Now Playing' panel 
+that lets you control music  while doing other things.
+
+PerformanceOne
+ major shortcoming of the SanDisk iXpand Flash Drive is that it works on
+ a PC at USB 2.0 speed. The Strontium alternative we tested recently was
+ a USB 3.0 drive and the difference is enormous. If you want to grab 
+files or make backups quickly, this will be a major irritant.
+
+On 
+our desktop test bench, the iXpand Flash Drive achieved 11.83Mbps and 
+12.6Mbps sequential reads and writes respectively. Random reads and 
+writes came in at 11.81Mbps and 11.64Mbps, which is not too bad. We also
+ tested the drive with an iPhone 5c and a fourth-gen iPad both running 
+iOS 8.3, and had no problems with the drive being recognised.
+
+The 
+app has a few unnecessary animations that seem to add delays to 
+navigation and some common functions. It takes a long time to display your device's photos if you have a lot of them. It also crashed randomly on one or
+ two occasions, but was otherwise very polished and easy to use. 
+
+Thankfully
+ the app makes it very easy to check the battery charge level and 
+remaining free capacity of the iXpand Flash Drive. We never managed to 
+drain the battery enough to cause alarm, but that's because we had it 
+plugged in to PCs fairly often. 
+
+VerdictThere definitely is
+ a niche for products like the SanDisk iXpand Flash Drive. If you 
+regularly find yourself running out of space, this might help solve some
+ of your problems. However, it's actually more useful when used as a 
+tool to back up photos and just get files onto an iOS device quickly and
+ easily. 
+
+With prices ranging from Rs. 4,490 for 16GB to Rs. 
+11,490 for 128GB, an iXpand Flash Drive would be well over ten times as 
+expensive as a USB OTG drive of equivalent capacity. The street pricing is at par with that of the Strontium Nitro iDrive, and while it is a lot bulkier and slower, the app is far, far better.
+
+If at all possible, it would make more 
+sense to just go with a higher device 
+capacity at the time of purchase. If it's too late, you also have the option of buying a highly capable 
+Android phone and a microSD card for the same or less. You'll have to 
+decide whether the convenience is worth this much money to you.
+
+
+
+Cons
+

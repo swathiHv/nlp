@@ -1,0 +1,172 @@
+Honor 4C Review: Gets the Basics Right
+
+Like
+ many other Chinese manufacturers, Huawei has been trying to create
+ a footing for itself in the budget segment. Under the Honor range of 
+smartphones, we've seen the Honor Holly and the Honor 4X try to battle 
+it out with some strong competition. Despite being good devices in their 
+own right, smartphones such as the Asus Zenfone 5 (Review | Pictures), Xiaomi Redmi 1S (Review | Pictures) and Xiaomi Redmi Note 4G (Review | Pictures) offered better value overall. This
+ year, Huawei is back with a new device, the Honor 4C. It costs a shade less than Rs. 9,000 and has a decent 
+set of specifications. We've had a review unit for quite 
+some time to figure out whether or not Huawei has managed to engineer 
+the best budget device this time around.Look and feelThe 
+first thing you notice when you pick up the Honor 4C is that it is quite
+ a chunky device. Its 162g weight makes it unusually 
+heavy for a phone in this day and age. The fact that it doesn't 
+have an especially high-capacity battery makes matters slightly worse. 
+Moreover, the 8.8mm thickness is on the higher side. The
+ Honor 4C is made mostly of plastic and rear has a
+ textured design. It looks good but the phone doesn't 
+grip properly and it kept slipping from our hands. The top left of the rear cover has a metal plate with cutouts for the primary camera 
+and flash, and there are machine-drilled holes
+ for the loudspeaker near the bottom. Removing the rear cover reveals that the battery 
+is non-removable and that there are three slots - one for a microSD card 
+and two for Micro-SIM cards. The volume rocker and the power 
+button are on the right of the phone. The power button is made from metal which makes it 
+easy to locate by touch. The Micro-USB port and the microphone are on 
+the bottom of the phone, whereas the top houses the 3.5mm 
+audio port. The phone has a row of three capacitive buttons below the 
+screen but they aren't backlit. Above the display one can find the 
+earpiece, front-facing camera, and an LED indicator for 
+notifications. Specifications and softwareHuawei has used its own 1.2GHz octa-core Kirin 920 SoC and there is 2GB 
+of RAM for support. The Honor 4C has 8GB of storage which can be expanded by up to 32GB using a microSD card. There is a 13-megapixel primary shooter, which is great, and also a 5-megapixel front-facing camera for selfies.One 
+disappointing thing about the Honor 4C is that it doesn't support 4G 
+networks. We really think this should be a default feature considering the LTE rollout is happening fast. Other connectivity 
+options include Wi-Fi 802.11 b/g/n, Wi-Fi Direct, Bluetooth v4.0 and even FM radio in for good measure. The battery 
+has a capacity of 2550mAh. The 
+5-inch IPS panel has a resolution of 720x1280, which translates to a 
+pixel density of 294ppi. The screen is crisp and the colours are natural, but it is very dull even at maximum brightness and viewing angles are bad too. Sunlight legibility isn't that great
+ either. The phone runs Android 4.4.2 with Huawei's Emotion UI 3.0 skin on
+ top. It is a pity that it doesn't come with Android Lollipop out of the
+ box. The skin does not have an app drawer and so the home screens are filled with apps. The UI looks sleek and feels nimble 
+to use. The One-hand UI and Suspend button features that we saw 
+in previous Honor phones are also present here. Overall, it is a 
+decent experience. Performance and cameraHuawei has done a
+ good job of optimising software and hardware performance. The 
+combination of octa-core SoC and 2GB of RAM keeps the phone 
+running smooth and we never faced any hiccups. A few early buyers on 
+forums have been complaining about heating issues on the phone but 
+frankly we faced none even when we ran our intensive battery test and 
+benchmarks. Additionally, even high-end games ran without lag. In our AnTuTu and GFXbench tests the phone scored 24,139 and
+ 6,435 respectively. While the GFXbench score is really low, the AnTuTu score is definitely much higher 
+than most other phones in this price range. In 3DMark Ice Storm the 
+phone scored 5,803 which is once again higher than a lot of other phones.The
+ phone managed to play all our test video samples without any issues. 
+That said, one complaint we've always had with Honor phones is 
+sound quality. Both the speaker and the earpiece sound is really low. 
+You will need a headset to enjoy music or videos. We didn't face any 
+call drops though and the connection stayed strong throughout our 
+test period even in network-congested areas. Our video loop battery test lasted 8 
+hours and 5 minutes before the phone turned itself off, which is pretty
+ good. (Click for full size)The 13-megapixel rear camera is a really fast shooter. It 
+takes very little time to focus and most importantly captures some 
+really good details. The natural colours are pleasing to the eye as 
+well. We didn't notice any sort of chromatic aberration or barrel 
+distortion. We are really pleased with the performance of the camera. Low-light performance is not great but not bad either. The camera can
+ capture 1080p video which looks good, and the 5-megapixel front camera 
+can capture some very good details as well.VerdictWe have 
+to say that Huawei has created a pretty decent product for the price. The 
+Honor 4C is a good shooter, fast performer, and doesn't have unnecessary
+ software bloat either. We'd have liked the Honor 4C to have been lighter and have better sound quality, but these are minor problems. At Rs. 8,999, if you are not particularly interested in 4G, the
+ Honor 4C is a great phone to buy. Some other great phones in this price
+ range include the Yu Yureka (Review | Pictures), Lenovo A6000 Plus (Review | Pictures), and Lenovo A7000 (Review | Pictures).
+Honor 4C in pictures
+
+
+Like
+ many other Chinese manufacturers, Huawei has been trying to create
+ a footing for itself in the budget segment. Under the Honor range of 
+smartphones, we've seen the Honor Holly and the Honor 4X try to battle 
+it out with some strong competition. Despite being good devices in their 
+own right, smartphones such as the Asus Zenfone 5 (Review | Pictures), Xiaomi Redmi 1S (Review | Pictures) and Xiaomi Redmi Note 4G (Review | Pictures) offered better value overall. 
+
+This
+ year, Huawei is back with a new device, the Honor 4C. It costs a shade less than Rs. 9,000 and has a decent 
+set of specifications. We've had a review unit for quite 
+some time to figure out whether or not Huawei has managed to engineer 
+the best budget device this time around.
+
+Look and feelThe 
+first thing you notice when you pick up the Honor 4C is that it is quite
+ a chunky device. Its 162g weight makes it unusually 
+heavy for a phone in this day and age. The fact that it doesn't 
+have an especially high-capacity battery makes matters slightly worse. 
+Moreover, the 8.8mm thickness is on the higher side. 
+
+The
+ Honor 4C is made mostly of plastic and rear has a
+ textured design. It looks good but the phone doesn't 
+grip properly and it kept slipping from our hands. The top left of the rear cover has a metal plate with cutouts for the primary camera 
+and flash, and there are machine-drilled holes
+ for the loudspeaker near the bottom. Removing the rear cover reveals that the battery 
+is non-removable and that there are three slots - one for a microSD card 
+and two for Micro-SIM cards. 
+
+The volume rocker and the power 
+button are on the right of the phone. The power button is made from metal which makes it 
+easy to locate by touch. The Micro-USB port and the microphone are on 
+the bottom of the phone, whereas the top houses the 3.5mm 
+audio port. The phone has a row of three capacitive buttons below the 
+screen but they aren't backlit. Above the display one can find the 
+earpiece, front-facing camera, and an LED indicator for 
+notifications. 
+
+Specifications and softwareHuawei has used its own 1.2GHz octa-core Kirin 920 SoC and there is 2GB 
+of RAM for support. The Honor 4C has 8GB of storage which can be expanded by up to 32GB using a microSD card. There is a 13-megapixel primary shooter, which is great, and also a 5-megapixel front-facing camera for selfies.
+
+One 
+disappointing thing about the Honor 4C is that it doesn't support 4G 
+networks. We really think this should be a default feature considering the LTE rollout is happening fast. Other connectivity 
+options include Wi-Fi 802.11 b/g/n, Wi-Fi Direct, Bluetooth v4.0 and even FM radio in for good measure. The battery 
+has a capacity of 2550mAh. 
+
+The 
+5-inch IPS panel has a resolution of 720x1280, which translates to a 
+pixel density of 294ppi. The screen is crisp and the colours are natural, but it is very dull even at maximum brightness and viewing angles are bad too. Sunlight legibility isn't that great
+ either. 
+
+The phone runs Android 4.4.2 with Huawei's Emotion UI 3.0 skin on
+ top. It is a pity that it doesn't come with Android Lollipop out of the
+ box. The skin does not have an app drawer and so the home screens are filled with apps. The UI looks sleek and feels nimble 
+to use. The One-hand UI and Suspend button features that we saw 
+in previous Honor phones are also present here. Overall, it is a 
+decent experience. 
+
+Performance and cameraHuawei has done a
+ good job of optimising software and hardware performance. The 
+combination of octa-core SoC and 2GB of RAM keeps the phone 
+running smooth and we never faced any hiccups. A few early buyers on 
+forums have been complaining about heating issues on the phone but 
+frankly we faced none even when we ran our intensive battery test and 
+benchmarks. Additionally, even high-end games ran without lag. 
+
+In our AnTuTu and GFXbench tests the phone scored 24,139 and
+ 6,435 respectively. While the GFXbench score is really low, the AnTuTu score is definitely much higher 
+than most other phones in this price range. In 3DMark Ice Storm the 
+phone scored 5,803 which is once again higher than a lot of other phones.
+
+The
+ phone managed to play all our test video samples without any issues. 
+That said, one complaint we've always had with Honor phones is 
+sound quality. Both the speaker and the earpiece sound is really low. 
+You will need a headset to enjoy music or videos. We didn't face any 
+call drops though and the connection stayed strong throughout our 
+test period even in network-congested areas. Our video loop battery test lasted 8 
+hours and 5 minutes before the phone turned itself off, which is pretty
+ good. 
+
+(Click for full size)The 13-megapixel rear camera is a really fast shooter. It 
+takes very little time to focus and most importantly captures some 
+really good details. The natural colours are pleasing to the eye as 
+well. We didn't notice any sort of chromatic aberration or barrel 
+distortion. We are really pleased with the performance of the camera. Low-light performance is not great but not bad either. The camera can
+ capture 1080p video which looks good, and the 5-megapixel front camera 
+can capture some very good details as well.
+
+VerdictWe have 
+to say that Huawei has created a pretty decent product for the price. The 
+Honor 4C is a good shooter, fast performer, and doesn't have unnecessary
+ software bloat either. We'd have liked the Honor 4C to have been lighter and have better sound quality, but these are minor problems. At Rs. 8,999, if you are not particularly interested in 4G, the
+ Honor 4C is a great phone to buy. Some other great phones in this price
+ range include the Yu Yureka (Review | Pictures), Lenovo A6000 Plus (Review | Pictures), and Lenovo A7000 (Review | Pictures).
+

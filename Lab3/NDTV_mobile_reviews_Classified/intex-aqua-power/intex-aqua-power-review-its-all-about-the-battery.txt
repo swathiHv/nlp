@@ -1,0 +1,233 @@
+Intex Aqua Power Review: It's All About the Battery
+
+We've seen a spate
+ of low-cost phones with large batteries launching in the past few 
+weeks, and it's a trend we're very happy about. For too long, the 
+emphasis has been on cutting phones down to make them as slim as 
+possible, which has meant major compromises in terms of battery life. At
+ least customers can now choose utility over style.The Intex Aqua
+ Power is a surprisingly affordable phone which boasts of not only a 
+4,000mAh battery but also an octa-core processor. We put it to the test 
+to see just how Intex has managed to put its latest device together, and
+ if it's worth buying.Look and feelAesthetics are of 
+course a subjective matter, but we personally find the Aqua Octa to be 
+far too garish. It really stands out thanks to two bright gold bands 
+running around its edges, and gold accents on the unusual navy blue 
+back. This phone is of course thick and heavy in comparison to others of
+ its class, but it's the gold bands that make it uncomfortable to hold. 
+Without those, the slightly curved back would have been easier to work 
+with.There isn't much wasted space around the screen on the front
+ panel, but the printed buttons on the bottom are unusually loud. They 
+aren't backlit, but they also don't use the standard Android icons. With
+ the screen off, you wouldn't be able to tell what OS this phone runs.The
+ volume buttons are on the left and the power button is on the right, 
+sandwiched between the gold bands. They stick out quite a bit but don't 
+get in the way. The 3.5mm headset socket and Micro-USB port are both on 
+top, while the bottom is blank except for a small mic hole.The 
+plastic rear panel is coated with a soft-touch material which feels as 
+though it might wear out over time. There's a small gold Intex logo in 
+the centre, and the gold-rimmed camera lens with its flash are in the 
+top left corner.The Aqua Power reminds us somewhat of Nokia's 
+Bold collection of art-deco-inspired phones from 2004 - yes, it really 
+has been a decade since then. Those phones experimented with form as 
+well as function, while today's monoblock smartphones have much less 
+leeway in either department. Still, this is a phone that will stand out,
+ and you'll have to decide if that's what you want.Specifications and softwareThe
+ octa-core processor in question is a MediaTek MT6592M, the low-power 
+variant of the popular MT6592. It runs at 1.4GHz and has an integrated 
+Mali-450 MP4 GPU. The phone also has 1GB of RAM and 8GB of internal 
+storage, along with unspecified versions of Wi-Fi and Bluetooth.Corners
+ had to be cut somewhere and sadly in this case, the screen bears the 
+brunt of that. It's the lowest resolution we've seen in a long time - 
+480x854 pixels, which is so far below today's standards that jagged 
+edges are instantly visible on icons and text. The screen also isn't 
+very good, with colours looking artificial and everything washing out in
+ sunlight.There are two SIM card slots beneath the rear cover - 
+one for a regular-sized SIM and one for a Micro-SIM. There's also a 
+microSD slot and you can use cards up to 32GB in capacity. The huge 
+battery is visible but not removable - Intex has covered it with a 
+sticker to discourage you from trying to pry it out.Interestingly,
+ Intex uses Android 4.4.2 with very little customisation, but does throw
+ in a whole bunch of apps. Intex Zone contains information about the 
+company's customer support lines along with shortcuts to a strange 
+selection of mini-apps: Intex Care lets you find service centres by 
+city, Important Day only stores one birthday and one anniversary, and 
+Auto Call Record does what its name suggests. An app called 
+Battery Doctor gives you details of how much time you have remaining to 
+perform various tasks. There are redundant shortcuts to functions such 
+as Wi-Fi and GPS, and a "super saving" mode that just turns everything 
+off. The app can be set to kill tasks in the background or turn on the 
+super saving mode at predefined times.Beyond that there is tonnes
+ of bloatware, only some of which can be uninstalled. The apps include  
+AskMe, Dr Safety, Hungama, Instagram, Myntra, Newshunt, OLX, Opera Mini,
+ PayTM, Runtastic Pedometer Pro, Snapdeal and Xender. The games 2048 and
+ Empire Defense are also included but you get only five free plays after
+ which you have to pay to unlock them.PerformanceThe Intex
+ Aqua Power was pretty responsive in the time we spent with it, and 
+there wasn't much lag when switching between apps. For basic everyday 
+tasks and apps, there's no problem at all. However, we weren't surprised
+ to see very low performance in our benchmark tests. This is after all a
+ budget phone, and even eight CPU cores can't lift it out of mediocrity.
+ The AnTuTu score of 24,018 and Quadrant score of 7,099 were the lowest 
+we've seen in a while. Graphics performance as measured by 3DMark Ice 
+Storm was also below par at 5538 points, although the low screen 
+resolution helped propel GFXBench to a surprisingly decent 16.5fps. 
+Games won't look good, but at least they won't stutter.We did 
+notice that the rear got a bit hot when heavy apps such as benchmarks 
+and games were running. It wasn't too uncomfortable, but definitely 
+something we could feel. Videos didn't look or sound too great, but we 
+were happy with the screen's viewing angles. HD videos struggle a little
+ but 720p samples seemed fine. The speaker is quite loud but sound is 
+thin, tinny, and distorts even at low volumes. The bundled headset is 
+quite comfortable but also distorted, and its sound is hollow and 
+lifeless. Switching to our own headphones did nothing to reduce 
+distortion.The camera is absolutely atrocious. It takes a long 
+time to lock focus and there's a bit of shutter lag as well. Shots are 
+pretty much unusable unless they were taken in bright sunlight. Indoor 
+photos had poor detailing and definition, though they seemed okay when 
+reduced to thumbnail size or seen only on the phone's screen. Night 
+shots were barely acceptable, but these actually do look a lot better on
+ a PC screen than on the phone.And that brings us to this phone's
+ real redeeming feature: battery life. All of Intex's efforts and budget
+ resources must have been poured into the battery, because for all its 
+other failings this phone lasted an amazing 14 hours, 11 minutes in our 
+video loop test.   VerdictThe Intex Aqua Power is only 
+really suited for those on a shoestring budget who need a phone with a 
+fantastic battery. It's already selling for much less than its launch 
+MRP of Rs. 8,444 and competes with the likes of the Xiaomi Redmi 1S (Review | Photos) 
+Motorola Moto E (Review | Photos) and Android One models from various manufacturers. If 
+you buy this phone, you'll be able to get through a day or maybe even 
+two days with moderate usage. You'll have to forget about games and 
+entertainment, but you should be able to use all modern apps, surf the 
+Web, and stay in touch.  Intex Aqua Power in pictures
+
+The Intex Aqua
+ Power is a surprisingly affordable phone which boasts of not only a 
+4,000mAh battery but also an octa-core processor. We put it to the test 
+to see just how Intex has managed to put its latest device together, and
+ if it's worth buying.
+
+Look and feelAesthetics are of 
+course a subjective matter, but we personally find the Aqua Octa to be 
+far too garish. It really stands out thanks to two bright gold bands 
+running around its edges, and gold accents on the unusual navy blue 
+back. This phone is of course thick and heavy in comparison to others of
+ its class, but it's the gold bands that make it uncomfortable to hold. 
+Without those, the slightly curved back would have been easier to work 
+with.
+
+There isn't much wasted space around the screen on the front
+ panel, but the printed buttons on the bottom are unusually loud. They 
+aren't backlit, but they also don't use the standard Android icons. With
+ the screen off, you wouldn't be able to tell what OS this phone runs.
+
+The
+ volume buttons are on the left and the power button is on the right, 
+sandwiched between the gold bands. They stick out quite a bit but don't 
+get in the way. The 3.5mm headset socket and Micro-USB port are both on 
+top, while the bottom is blank except for a small mic hole.
+
+The 
+plastic rear panel is coated with a soft-touch material which feels as 
+though it might wear out over time. There's a small gold Intex logo in 
+the centre, and the gold-rimmed camera lens with its flash are in the 
+top left corner.
+
+The Aqua Power reminds us somewhat of Nokia's 
+Bold collection of art-deco-inspired phones from 2004 - yes, it really 
+has been a decade since then. Those phones experimented with form as 
+well as function, while today's monoblock smartphones have much less 
+leeway in either department. Still, this is a phone that will stand out,
+ and you'll have to decide if that's what you want.
+
+Specifications and softwareThe
+ octa-core processor in question is a MediaTek MT6592M, the low-power 
+variant of the popular MT6592. It runs at 1.4GHz and has an integrated 
+Mali-450 MP4 GPU. The phone also has 1GB of RAM and 8GB of internal 
+storage, along with unspecified versions of Wi-Fi and Bluetooth.
+
+Corners
+ had to be cut somewhere and sadly in this case, the screen bears the 
+brunt of that. It's the lowest resolution we've seen in a long time - 
+480x854 pixels, which is so far below today's standards that jagged 
+edges are instantly visible on icons and text. The screen also isn't 
+very good, with colours looking artificial and everything washing out in
+ sunlight.
+
+There are two SIM card slots beneath the rear cover - 
+one for a regular-sized SIM and one for a Micro-SIM. There's also a 
+microSD slot and you can use cards up to 32GB in capacity. The huge 
+battery is visible but not removable - Intex has covered it with a 
+sticker to discourage you from trying to pry it out.
+
+Interestingly,
+ Intex uses Android 4.4.2 with very little customisation, but does throw
+ in a whole bunch of apps. Intex Zone contains information about the 
+company's customer support lines along with shortcuts to a strange 
+selection of mini-apps: Intex Care lets you find service centres by 
+city, Important Day only stores one birthday and one anniversary, and 
+Auto Call Record does what its name suggests. 
+
+An app called 
+Battery Doctor gives you details of how much time you have remaining to 
+perform various tasks. There are redundant shortcuts to functions such 
+as Wi-Fi and GPS, and a "super saving" mode that just turns everything 
+off. The app can be set to kill tasks in the background or turn on the 
+super saving mode at predefined times.
+
+Beyond that there is tonnes
+ of bloatware, only some of which can be uninstalled. The apps include  
+AskMe, Dr Safety, Hungama, Instagram, Myntra, Newshunt, OLX, Opera Mini,
+ PayTM, Runtastic Pedometer Pro, Snapdeal and Xender. The games 2048 and
+ Empire Defense are also included but you get only five free plays after
+ which you have to pay to unlock them.
+
+PerformanceThe Intex
+ Aqua Power was pretty responsive in the time we spent with it, and 
+there wasn't much lag when switching between apps. For basic everyday 
+tasks and apps, there's no problem at all. However, we weren't surprised
+ to see very low performance in our benchmark tests. This is after all a
+ budget phone, and even eight CPU cores can't lift it out of mediocrity.
+ The AnTuTu score of 24,018 and Quadrant score of 7,099 were the lowest 
+we've seen in a while. Graphics performance as measured by 3DMark Ice 
+Storm was also below par at 5538 points, although the low screen 
+resolution helped propel GFXBench to a surprisingly decent 16.5fps. 
+Games won't look good, but at least they won't stutter.
+
+We did 
+notice that the rear got a bit hot when heavy apps such as benchmarks 
+and games were running. It wasn't too uncomfortable, but definitely 
+something we could feel. Videos didn't look or sound too great, but we 
+were happy with the screen's viewing angles. HD videos struggle a little
+ but 720p samples seemed fine. The speaker is quite loud but sound is 
+thin, tinny, and distorts even at low volumes. The bundled headset is 
+quite comfortable but also distorted, and its sound is hollow and 
+lifeless. Switching to our own headphones did nothing to reduce 
+distortion.
+
+The camera is absolutely atrocious. It takes a long 
+time to lock focus and there's a bit of shutter lag as well. Shots are 
+pretty much unusable unless they were taken in bright sunlight. Indoor 
+photos had poor detailing and definition, though they seemed okay when 
+reduced to thumbnail size or seen only on the phone's screen. Night 
+shots were barely acceptable, but these actually do look a lot better on
+ a PC screen than on the phone.
+
+And that brings us to this phone's
+ real redeeming feature: battery life. All of Intex's efforts and budget
+ resources must have been poured into the battery, because for all its 
+other failings this phone lasted an amazing 14 hours, 11 minutes in our 
+video loop test.   
+
+VerdictThe Intex Aqua Power is only 
+really suited for those on a shoestring budget who need a phone with a 
+fantastic battery. It's already selling for much less than its launch 
+MRP of Rs. 8,444 and competes with the likes of the Xiaomi Redmi 1S (Review | Photos) 
+Motorola Moto E (Review | Photos) and Android One models from various manufacturers. 
+
+If 
+you buy this phone, you'll be able to get through a day or maybe even 
+two days with moderate usage. You'll have to forget about games and 
+entertainment, but you should be able to use all modern apps, surf the 
+Web, and stay in touch. 
+

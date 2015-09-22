@@ -1,0 +1,410 @@
+Samsung Galaxy S6 Review: The Gamble Pays Off
+
+It's been a tumultuous year for Samsung. 
+Buoyant and complacent with being the world's most successful Android 
+smartphone vendor for ages, the Korean giant was perhaps not prepared 
+for its Galaxy S5 flagship last year to be so roundly criticised for not
+ breaking any new ground. The heart rate sensor was pretty much mostly a
+ gimmick, and the glossy plastic body did it no favours when seen next 
+to its competition. Chinese brands have started having an impact on
+ its low-end and mid-range sales, and Lollipop updates for older devices
+ have been coming too slowly, if at all.Samsung's image has lost a
+ lot of its former sheen; even more so when it comes to the top-end 
+Galaxy S range. Under more pressure than ever before, the company is 
+betting on a major reinvention. Gone is the cheap plastic, in favour of 
+slick aluminium. Gone is the heavy TouchWiz skin with dozens of settings
+ and features that no one ever used - the software is more restrained than ever.We first saw the new 
+Samsung Galaxy S6 (and its eclectic curved-glass twin, the Galaxy S6 Edge)
+ shortly after its launch at the 2015 Mobile World Congress show, but 
+now we've had enough time to conduct a full, thorough review. The device
+ is launching in India just over a month after its global debut, making 
+it the first of this year's flagship models to make it here.  Should you
+ rush out and buy one? Look and feelSamsung has been 
+experimenting with metal bodies up and down its product lineup, so it's 
+no surprise that the new flagship model comes in full aluminium trim. 
+Samsung's phones have been difficult to tell apart in the past because 
+of the company's very set template, and the Galaxy S6 feels like something of a
+ missed opportunity in terms of a breakout design. With new materials and new 
+priorities, Samsung could have gone in exciting directions but the 
+Galaxy S6 not only carries forward most of its predecessors' style, it 
+somehow simultaneously manages to look like it has borrowed cues from 
+Sony and Apple.While the influence of the iPhone 6 (Review | Pictures) and its predecessors is apparent in 
+details such as the machined speaker grille and chamfered rim edges, we 
+find that the overall shape and style feel more derivative of the Sony 
+Xperia Z3 (Review | Pictures). Other touches, such as the silver-rimmed physical Home button
+ are pure Samsung.The front and back are flat glass, and the 
+metal rim has a slight curve that fits nicely in a hand. Thankfully, the
+ Galaxy S5 (Review | Pictures) rim's ugly ridges were smoothened out. The power button and 
+Nano-SIM tray are on the right, and two separate volume buttons are on 
+the left. The only things on top are an IR emitter and secondary mic, 
+while the speaker, Micro-USB port and headset socket are all on the 
+bottom. Flaps over the ports and slots for waterproofing are 
+conspicuously absent. The home button has an integrated fingerprint 
+reader and there's also a heart rate sensor right beneath the flash on 
+the rear.Samsung has clearly shifted its priorities as far as 
+design is concerned, and this is the first Galaxy S model not to have an
+ accessible battery. Also as a consequence, there's no room for a 
+microSD card slot - you'll have to choose a storage capacity at the time
+ of purchase and then live with that much.The biggest problem 
+with the design is that this phone is extremely slippery. We often found
+ ourselves uncertain of our grip on it; holding it extra tight to 
+compensate. The camera module sticks out quite a bit from the rear -
+ it's larger and more obtrusive than the infamous one on the iPhone 6, 
+and the Galaxy S6 wobbles when you try to use it lying face up on a table.SpecificationsThe
+ fact that Samsung has gone with its in-house Exynos processor for all 
+global versions of the Galaxy S6 signals the company's growing 
+confidence in its ability to compete with top-tier technology firms such
+ as Qualcomm. The Exynos 7420 SoC has four 1.5GHz ARM Cortex A53 cores 
+and four 2.1GHz Cortex A57 cores, allowing the phone to strike a balance
+ between performance and power consumption for all kinds of tasks. 
+There's 3GB of RAM, which is standard for top-end phones now.With
+ no microSD card slot, Samsung has made the Galaxy S6 available in 
+multiple storage configurations. The strategy and pricing follow Apple's
+ precedents, but the base model comes with 32GB rather than 16GB, which 
+seems like a direct shot across the bow.Predictably, the screen 
+moves up to QHD resolution, which is 1440x2560 pixels. At 5.1 inches 
+diagonally, it's a lot easier to handle than last year's QHD flagships. 
+The screen is beautifully crisp and bright, and it's protected by 
+Gorilla Glass 4.Like last year's Galaxy S5, the physical Home 
+button has an integrated fingerprint sensor, but now you don't have to 
+swipe your finger across it - a simple touch will do. The heart rate 
+sensor on the rear is also still around. We found the one on the Galaxy 
+S5 gimmicky and ultimately forgettable. This one is positioned to one 
+side of the camera hump, making less likely that regular usage will 
+become a habit.SoftwareSamsung has famously reduced a lot 
+of the software clutter that defined its Galaxy S4 and Galaxy S5 
+devices. TouchWiz has tried to mimic some of Google's Lollipop-era 
+Material Design aesthetic and it is a marked improvement over previous 
+Samsung attempts at UI design. Responsiveness isn't a problem, and we 
+never got the feeling that any of the customisations were a step 
+backwards from stock Android.There are some things that you might
+ never use, but are fairly unobtrusive and can be disabled, such as the 
+Fliboard-style news reader to the left of the primary home screen, and 
+the ability to run two apps simultaneously in a split-screen mode. The 
+quick settings and notifications shade is handy - for example, grabbing 
+the brightness slider makes all other controls temporarily disappear 
+from the screen, letting you see how your adjustment will affect the 
+underlying app or content. Interestingly, there's now a Themes 
+app and an associated online store from which you can download packs 
+that give your Galaxy S6 UI a complete visual overhaul. We noticed a few
+ branded options, so presumably Samsung is open to licensing deals. We 
+hope to see more variety in the store soon.There are still 
+significant amounts of Samsung-branded bloat, such as the Galaxy 
+Essentials and Galaxy Gifts apps and widget. It looks like a bunch of 
+apps such as Facebook, Facebook Messenger, Whatsapp and Instagram are 
+preloaded, but these icons take you do download pages which means they 
+aren't taking up as much space by default. You also get the Peel Smart 
+Remote app with which to use the IR blaster. Of course one of the
+ biggest stories here is the default inclusion of Microsoft apps and 
+services, right in Google's stronghold. Skype, OneDrive and OneNote are 
+preloaded, though not the Microsoft Office apps which would compete 
+directly with Google's offerings. OneNote is fantastically useful and 
+any use of OneDrive is a toe-hold for the company. Any more than this 
+and users would have been faced with confusing choices.S-Health 
+is still around, tied in to the heart rate monitor on the rear but more 
+realistically useful if you have a smartwatch or dedicated monitoring 
+device. The app lists compatible accessories including of course the 
+Samsung Gear range, plus devices from Garmin, Adidas and others. We 
+didn't wind up getting much use out of S-Health during our review 
+period, but it will probably be useful over time to those who make it 
+part of their daily routine. CameraFlagship phones today 
+are distinguished by their cameras, and the Samsung Galaxy S6 does very 
+well indeed in this department. We were constantly amazed by the quality
+ of photos we were able to take, and the accuracy of subtle little 
+details. Daylight shots were extraordinarily impressive, especially when
+ we were able to frame shots to get some depth of field. Close-ups 
+revealed that the camera can reproduce fine textures and really make 
+colours pop.We were satisfied with the compression and noise 
+levels too, even in low light. While ambient lighting made a huge 
+difference to the colour accuracy of shots and the autofocus was often 
+unreliable at night, we were more than impressed with the results we 
+were able to capture. We have only seen better low-light results from 
+the iPhone 6 and iPhone 6 Plus. (Click to see full size)4K video came out well, though we
+ still feel that there aren't many occasions on which 4K makes more 
+sense than regular 1080p - especially if you go for the lowest-priced 
+32GB model. A 30-second 4K clip came to around 170MB, while an 
+equivalent 1080p clip took up just 60MB. The phone warns you that some 
+features, such as continuous autofocus and still grabs aren't possible 
+while recording in 4K, and we also found this to be the only time when 
+the phone really got hot in our hands.Samsung's camera app has 
+also undergone a significant makeover. The massive grid of settings has 
+been distilled into a few options on screen, with a deeper menu for 
+things that spill over. A manual mode lets you drag sliders to adjust the focus and exposure compensation, which is really neat. (Click to see full size)There's a modular approach to features - a 
+"Camera Mode store" lets you add things that aren't already there, such 
+as a mode for sports or fast-moving objects, one for food, a face 
+beautifier, dual-cam PIP, and many more fringe use cases. It's a lot 
+better than having a thousand options by default, and we wonder if paid 
+camera software enhancements are on the way. PerformanceSamsung
+ clearly believes its Exynos processors are mature enough to bet the 
+entire flagship Galaxy S line on, and we found that its confidence is 
+not misplaced. The Galaxy S6 will go up against multiple devices powered
+ by Qualcomm's Snapdragon 810, but for now it can enjoy the first 
+mover's advantage as we can't compare the two processors yet.Benchmark
+ scores were some of the highest we've ever seen - the AnTuTu score of 
+67,975 was significantly higher than our previous record, 52,686 set by 
+the Motorola Moto Turbo. Quadrant returned 34,417 points overall. Both 
+scores are significantly better than the Galaxy S5 managed to achieve. Even
+ more interestingly, GFXBench ran at 39fps and 3DMark's Ice Storm 
+Unlimited test achieved 21,878 points. That means despite the 
+pixel-dense screen, there's more than enough graphics horsepower to let 
+you run today's most demanding games at adequate frame rates. Video 
+playback performance is just fine, and even the speaker is crisp and 
+clear despite being shoved into such a slim body.The battery 
+lasted 13 hours, 8 minutes in our standard video loop test. This should 
+easily translate to a full day of heavy usage, including cellular data 
+and games. The phone also charges very quickly, which is a feature 
+everyone can appreciate. VerdictWe mostly approve of 
+Samsung's new direction. The company has clearly identified why the 
+Galaxy S5 didn't look so great against its competitors, and has taken 
+steps to rectify every problem. The Galaxy S6 is perfectly in line with 
+what we expect a 2015 flagship phone to be. It isn't perfect, but 
+there's seemingly a workaround for every problem: a 128GB version for 
+those who need storage space; downloadable components for features that 
+were dropped; slick features that don't make the software feel 
+excessive.The Galaxy S6 is still a little bland in terms of 
+style, but at least it doesn't feel like an ugly toy. Only the camera 
+bulge is a real problem, though for the quality we're getting, we can 
+live with it. You'll want a protective case anyway, which will somewhat 
+tone down the bulge.If you're in the market for a top-end Android
+ phone with a reasonably sized screen and cost is not a limiting factor,
+ there's really nothing to beat the Galaxy S6 at this moment. If you can
+ hold on for a little while, we'd suggest waiting till HTC, LG and 
+possibly Sony launch their own competitors. If style is more important 
+than anything else, the Galaxy S6 Edge has all the same features and 
+advantages. Also worth noting, the Galaxy S5 has dropped to 
+nearly half of its launch price and is just a year old. Flagships don't 
+age in terms of specifications and capabilities, and so the S5 is a 
+viable alternative. If you want an Android experience that's closer to 
+stock, you could also consider the Motorola Moto Turbo (Review | Pictures). Samsung Galaxy S6 in pictures
+
+Samsung's image has lost a
+ lot of its former sheen; even more so when it comes to the top-end 
+Galaxy S range. Under more pressure than ever before, the company is 
+betting on a major reinvention. Gone is the cheap plastic, in favour of 
+slick aluminium. Gone is the heavy TouchWiz skin with dozens of settings
+ and features that no one ever used - the software is more restrained than ever.
+
+We first saw the new 
+Samsung Galaxy S6 (and its eclectic curved-glass twin, the Galaxy S6 Edge)
+ shortly after its launch at the 2015 Mobile World Congress show, but 
+now we've had enough time to conduct a full, thorough review. The device
+ is launching in India just over a month after its global debut, making 
+it the first of this year's flagship models to make it here.  Should you
+ rush out and buy one? 
+
+Look and feelSamsung has been 
+experimenting with metal bodies up and down its product lineup, so it's 
+no surprise that the new flagship model comes in full aluminium trim. 
+Samsung's phones have been difficult to tell apart in the past because 
+of the company's very set template, and the Galaxy S6 feels like something of a
+ missed opportunity in terms of a breakout design. With new materials and new 
+priorities, Samsung could have gone in exciting directions but the 
+Galaxy S6 not only carries forward most of its predecessors' style, it 
+somehow simultaneously manages to look like it has borrowed cues from 
+Sony and Apple.
+
+While the influence of the iPhone 6 (Review | Pictures) and its predecessors is apparent in 
+details such as the machined speaker grille and chamfered rim edges, we 
+find that the overall shape and style feel more derivative of the Sony 
+Xperia Z3 (Review | Pictures). Other touches, such as the silver-rimmed physical Home button
+ are pure Samsung.
+
+The front and back are flat glass, and the 
+metal rim has a slight curve that fits nicely in a hand. Thankfully, the
+ Galaxy S5 (Review | Pictures) rim's ugly ridges were smoothened out. The power button and 
+Nano-SIM tray are on the right, and two separate volume buttons are on 
+the left. The only things on top are an IR emitter and secondary mic, 
+while the speaker, Micro-USB port and headset socket are all on the 
+bottom. Flaps over the ports and slots for waterproofing are 
+conspicuously absent. The home button has an integrated fingerprint 
+reader and there's also a heart rate sensor right beneath the flash on 
+the rear.
+
+Samsung has clearly shifted its priorities as far as 
+design is concerned, and this is the first Galaxy S model not to have an
+ accessible battery. Also as a consequence, there's no room for a 
+microSD card slot - you'll have to choose a storage capacity at the time
+ of purchase and then live with that much.
+
+The biggest problem 
+with the design is that this phone is extremely slippery. We often found
+ ourselves uncertain of our grip on it; holding it extra tight to 
+compensate. The camera module sticks out quite a bit from the rear -
+ it's larger and more obtrusive than the infamous one on the iPhone 6, 
+and the Galaxy S6 wobbles when you try to use it lying face up on a table.
+
+SpecificationsThe
+ fact that Samsung has gone with its in-house Exynos processor for all 
+global versions of the Galaxy S6 signals the company's growing 
+confidence in its ability to compete with top-tier technology firms such
+ as Qualcomm. The Exynos 7420 SoC has four 1.5GHz ARM Cortex A53 cores 
+and four 2.1GHz Cortex A57 cores, allowing the phone to strike a balance
+ between performance and power consumption for all kinds of tasks. 
+There's 3GB of RAM, which is standard for top-end phones now.
+
+With
+ no microSD card slot, Samsung has made the Galaxy S6 available in 
+multiple storage configurations. The strategy and pricing follow Apple's
+ precedents, but the base model comes with 32GB rather than 16GB, which 
+seems like a direct shot across the bow.
+
+Predictably, the screen 
+moves up to QHD resolution, which is 1440x2560 pixels. At 5.1 inches 
+diagonally, it's a lot easier to handle than last year's QHD flagships. 
+The screen is beautifully crisp and bright, and it's protected by 
+Gorilla Glass 4.
+
+Like last year's Galaxy S5, the physical Home 
+button has an integrated fingerprint sensor, but now you don't have to 
+swipe your finger across it - a simple touch will do. The heart rate 
+sensor on the rear is also still around. We found the one on the Galaxy 
+S5 gimmicky and ultimately forgettable. This one is positioned to one 
+side of the camera hump, making less likely that regular usage will 
+become a habit.
+
+SoftwareSamsung has famously reduced a lot 
+of the software clutter that defined its Galaxy S4 and Galaxy S5 
+devices. TouchWiz has tried to mimic some of Google's Lollipop-era 
+Material Design aesthetic and it is a marked improvement over previous 
+Samsung attempts at UI design. Responsiveness isn't a problem, and we 
+never got the feeling that any of the customisations were a step 
+backwards from stock Android.
+
+There are some things that you might
+ never use, but are fairly unobtrusive and can be disabled, such as the 
+Fliboard-style news reader to the left of the primary home screen, and 
+the ability to run two apps simultaneously in a split-screen mode. The 
+quick settings and notifications shade is handy - for example, grabbing 
+the brightness slider makes all other controls temporarily disappear 
+from the screen, letting you see how your adjustment will affect the 
+underlying app or content. 
+
+Interestingly, there's now a Themes 
+app and an associated online store from which you can download packs 
+that give your Galaxy S6 UI a complete visual overhaul. We noticed a few
+ branded options, so presumably Samsung is open to licensing deals. We 
+hope to see more variety in the store soon.
+
+There are still 
+significant amounts of Samsung-branded bloat, such as the Galaxy 
+Essentials and Galaxy Gifts apps and widget. It looks like a bunch of 
+apps such as Facebook, Facebook Messenger, Whatsapp and Instagram are 
+preloaded, but these icons take you do download pages which means they 
+aren't taking up as much space by default. You also get the Peel Smart 
+Remote app with which to use the IR blaster. 
+
+Of course one of the
+ biggest stories here is the default inclusion of Microsoft apps and 
+services, right in Google's stronghold. Skype, OneDrive and OneNote are 
+preloaded, though not the Microsoft Office apps which would compete 
+directly with Google's offerings. OneNote is fantastically useful and 
+any use of OneDrive is a toe-hold for the company. Any more than this 
+and users would have been faced with confusing choices.
+
+S-Health 
+is still around, tied in to the heart rate monitor on the rear but more 
+realistically useful if you have a smartwatch or dedicated monitoring 
+device. The app lists compatible accessories including of course the 
+Samsung Gear range, plus devices from Garmin, Adidas and others. We 
+didn't wind up getting much use out of S-Health during our review 
+period, but it will probably be useful over time to those who make it 
+part of their daily routine. 
+
+CameraFlagship phones today 
+are distinguished by their cameras, and the Samsung Galaxy S6 does very 
+well indeed in this department. We were constantly amazed by the quality
+ of photos we were able to take, and the accuracy of subtle little 
+details. Daylight shots were extraordinarily impressive, especially when
+ we were able to frame shots to get some depth of field. Close-ups 
+revealed that the camera can reproduce fine textures and really make 
+colours pop.
+
+We were satisfied with the compression and noise 
+levels too, even in low light. While ambient lighting made a huge 
+difference to the colour accuracy of shots and the autofocus was often 
+unreliable at night, we were more than impressed with the results we 
+were able to capture. We have only seen better low-light results from 
+the iPhone 6 and iPhone 6 Plus. 
+
+(Click to see full size)
+
+4K video came out well, though we
+ still feel that there aren't many occasions on which 4K makes more 
+sense than regular 1080p - especially if you go for the lowest-priced 
+32GB model. A 30-second 4K clip came to around 170MB, while an 
+equivalent 1080p clip took up just 60MB. The phone warns you that some 
+features, such as continuous autofocus and still grabs aren't possible 
+while recording in 4K, and we also found this to be the only time when 
+the phone really got hot in our hands.
+
+Samsung's camera app has 
+also undergone a significant makeover. The massive grid of settings has 
+been distilled into a few options on screen, with a deeper menu for 
+things that spill over. A manual mode lets you drag sliders to adjust the focus and exposure compensation, which is really neat. 
+
+(Click to see full size)
+
+There's a modular approach to features - a 
+"Camera Mode store" lets you add things that aren't already there, such 
+as a mode for sports or fast-moving objects, one for food, a face 
+beautifier, dual-cam PIP, and many more fringe use cases. It's a lot 
+better than having a thousand options by default, and we wonder if paid 
+camera software enhancements are on the way. 
+
+PerformanceSamsung
+ clearly believes its Exynos processors are mature enough to bet the 
+entire flagship Galaxy S line on, and we found that its confidence is 
+not misplaced. The Galaxy S6 will go up against multiple devices powered
+ by Qualcomm's Snapdragon 810, but for now it can enjoy the first 
+mover's advantage as we can't compare the two processors yet.
+
+Benchmark
+ scores were some of the highest we've ever seen - the AnTuTu score of 
+67,975 was significantly higher than our previous record, 52,686 set by 
+the Motorola Moto Turbo. Quadrant returned 34,417 points overall. Both 
+scores are significantly better than the Galaxy S5 managed to achieve. 
+
+Even
+ more interestingly, GFXBench ran at 39fps and 3DMark's Ice Storm 
+Unlimited test achieved 21,878 points. That means despite the 
+pixel-dense screen, there's more than enough graphics horsepower to let 
+you run today's most demanding games at adequate frame rates. Video 
+playback performance is just fine, and even the speaker is crisp and 
+clear despite being shoved into such a slim body.
+
+The battery 
+lasted 13 hours, 8 minutes in our standard video loop test. This should 
+easily translate to a full day of heavy usage, including cellular data 
+and games. The phone also charges very quickly, which is a feature 
+everyone can appreciate. 
+
+VerdictWe mostly approve of 
+Samsung's new direction. The company has clearly identified why the 
+Galaxy S5 didn't look so great against its competitors, and has taken 
+steps to rectify every problem. The Galaxy S6 is perfectly in line with 
+what we expect a 2015 flagship phone to be. It isn't perfect, but 
+there's seemingly a workaround for every problem: a 128GB version for 
+those who need storage space; downloadable components for features that 
+were dropped; slick features that don't make the software feel 
+excessive.
+
+The Galaxy S6 is still a little bland in terms of 
+style, but at least it doesn't feel like an ugly toy. Only the camera 
+bulge is a real problem, though for the quality we're getting, we can 
+live with it. You'll want a protective case anyway, which will somewhat 
+tone down the bulge.
+
+If you're in the market for a top-end Android
+ phone with a reasonably sized screen and cost is not a limiting factor,
+ there's really nothing to beat the Galaxy S6 at this moment. If you can
+ hold on for a little while, we'd suggest waiting till HTC, LG and 
+possibly Sony launch their own competitors. If style is more important 
+than anything else, the Galaxy S6 Edge has all the same features and 
+advantages. 
+
+Also worth noting, the Galaxy S5 has dropped to 
+nearly half of its launch price and is just a year old. Flagships don't 
+age in terms of specifications and capabilities, and so the S5 is a 
+viable alternative. If you want an Android experience that's closer to 
+stock, you could also consider the Motorola Moto Turbo (Review | Pictures).
+

@@ -1,0 +1,226 @@
+Xiaomi Redmi Note 4G Review: The Other Brother
+
+It really hasn't been that long since the Xiaomi Redmi Note was 
+launched, and in our review we found it to be a fantastic device for the
+ price. Just like the Chinese giant's previous launches, the Redmi Note 
+set a new bar for the sort of features and performance one can expect in
+ its market category.Xiaomi announced a 4G version of the Redmi 
+Note alongside the original, priced Rs. 1,000 higher, though it wouldn't
+ be available till a bit later. One month in, and we now have the Xiaomi
+ Redmi Note 4G in for review. It looks pretty much identical to its 3G 
+sibling, but there are a few key differences under the hood. Read on to 
+see how the two devices stack up against each other, and whether the 
+Redmi Note 4G keeps the legacy of the original alive.Look and feelThere
+ are absolutely no external differences between the Redmi Note (Review | Photos) and its 
+4G incarnation. It is simply not possible to physically tell the two 
+apart just by looking at them. That isn't necessarily a bad thing, since
+ the original looked quite nice and was built well too. The black front 
+face is offset by a shiny white rear shell and very noticeable red icons
+ for the three capacitive buttons below the screen.The whole look
+ is pretty understated. There's only a small silver Mi logo on the lower
+ back and no branding on the front. The buttons are lined up on the 
+right edge, while the left is blank. The headset socket is on top and 
+the Micro-USB port is on the bottom. Xiaomi uses a non-standard 
+squared-off Micro-USB port which makes it difficult to see which way the
+ plug needs to go in.The rear shell is a bit difficult to pry 
+off, but the first major difference between the Xiaomi Note twins is 
+visible beneath it. The 4G version of this phone has only a single 
+regular-sized SIM card slot. You still need to take out the battery in 
+order to swap SIM and microSD cards.As far as phones with 
+5.5-inch screens go, the Redmi Note 4G isn't all that difficult to 
+handle. It's reasonably wide and tall, but you'll definitely feel its 
+weight and you'll have to balance it carefully in order to reach all 
+parts of the screen with one hand.Specifications and softwareThe
+ Redmi Note 4G shares most of its specifications with the Redmi model, 
+with one key difference. While the previous model was based on an 
+octa-core MediaTek MT6592 processor, the 4G version uses a Qualcomm 
+Snapdragon 400. The main reason for this is Qualcomm's integrated LTE 
+capabilities, but there's a very interesting side effect in India. 
+Thanks to legal hurdles brought on by a patent infringement dispute with
+ Ericsson, Xiaomi has been restrained from selling MediaTek-based 
+products in the country. A Qualcomm version allows the company to keep 
+selling this product in India while the case is being heard.The 
+screens on both models are the same 5.5" 720x1280 panels, and there's 
+still 2GB of RAM and 8GB of internal storage space. MicroSD capacity 
+support has been bumped up to 64GB, and there's faster Wi-Fi 802.11ac 
+support. The 13-megapixel cameras are also identical, as are the 
+Bluetooth 4.0, GPS and FM radio features. Both models have 
+accelerometers, gyroscopes, digital compasses and proximity sensors. The
+ 3,100mAh batteries also appear to be exactly the same.Both 
+phones run Xiaomi's MiUI interface on top of Android 4.4.2. You can read
+ all about the experience of using it on the Redmi Note in our review of
+ that model.Performance and CameraThe Xiaomi Redmi Note 4G
+ did not feel any different to use than the earlier model did, and users
+ should be quite happy with the way this device handles everyday tasks. 
+We had no trouble running common apps and light games.Our suite 
+of benchmarks threw up a surprise, though. The Redmi Note 4G 
+consistently performed just a little bit slower than the original Redmi 
+Note did. We've seen devices with Qualcomm's quad-core Snapdragon 400 
+and MediaTek's octa-core MT6592 go head-to-head before, but never two 
+that were so closely matched in all other regards. The MT6592 usually 
+has an advantage in CPU-intensive tasks but loses out in the graphics 
+department. However in this case, the Snapdragon 400 lagged behind 
+across the board.Differences in graphics tests were very slight, 
+but were consistent - 11fps vs 13.1fps in GFXbench and 5887 points vs 
+5950 in 3DMark Ice Storm for the Redmi Note 4G and Redmi Note 
+respectively. The CPU-intensive Quadrant scores were 44,947 and 67,118 
+respectively - a more significant difference. SunSpider took 1,250ms to 
+complete as opposed to 1,096ms. Both processors are still 
+powerful and the difference in the real world is not going to be very 
+noticeable. However, it does seem as though the original Redmi Note has 
+an advantage on paper.The battery life test also came out in 
+favour of the older model. The Redmi Note 4G lasted for 11 hours, 9 
+minutes compared to the older model's time of 11 hours, 56 minutes. Test
+ conditions were identical in both cases.The cameras on both 
+phones performed pretty much identically. We really liked what we were 
+able to do with the Redmi Note 4G's camera in daylight, and shots stood 
+up to inspection when seen at 100 percent on a bigger screen. Details 
+were surprisingly sharp in many cases. Low-light shots were also pretty 
+good, though as expected, close-ups were a lot better than long shots or
+ shots of moving objects.VerdictWe like the Redmi Note 4G,
+ but we have to say that we liked its predecessor a bit more. The price 
+tag is still extremely reasonable, but to be honest 4G isn't widespread,
+ affordable or compelling enough to make that Rs. 1,000 extra outlay 
+worth it - not just yet, at least. This year should be very interesting 
+in terms of 4G rollouts across the country, so if you have a long-term 
+view in mind, there's no problem at all in picking up this phone. For 
+most people though, the slight reduction in performance and the loss of 
+dual-SIM functionality will not be worth the tradeoff. Anyway, as it 
+stands right now, the original Redmi Note is not available any longer. Xiaomi
+ continues to rely on weekly online flash sales, and the chances of 
+being able to snag one are slim, leading to considerable frustration. 
+However, in the time since the Redmi Note launched, Micromax's Yu Yureka
+ (Review | Photos) has also hit the market. This 4G-capable 5.5-inch smartphone is not yet
+ widely available but we were very impressed with it in our review. It's
+ also priced at par with the non-4G Redmi Note, giving buyers a very 
+interesting alternative option. Xiaomi Redmi Note 4G in pictures
+
+It really hasn't been that long since the Xiaomi Redmi Note was 
+launched, and in our review we found it to be a fantastic device for the
+ price. Just like the Chinese giant's previous launches, the Redmi Note 
+set a new bar for the sort of features and performance one can expect in
+ its market category.
+
+Xiaomi announced a 4G version of the Redmi 
+Note alongside the original, priced Rs. 1,000 higher, though it wouldn't
+ be available till a bit later. One month in, and we now have the Xiaomi
+ Redmi Note 4G in for review. It looks pretty much identical to its 3G 
+sibling, but there are a few key differences under the hood. Read on to 
+see how the two devices stack up against each other, and whether the 
+Redmi Note 4G keeps the legacy of the original alive.
+
+Look and feelThere
+ are absolutely no external differences between the Redmi Note (Review | Photos) and its 
+4G incarnation. It is simply not possible to physically tell the two 
+apart just by looking at them. That isn't necessarily a bad thing, since
+ the original looked quite nice and was built well too. The black front 
+face is offset by a shiny white rear shell and very noticeable red icons
+ for the three capacitive buttons below the screen.
+
+The whole look
+ is pretty understated. There's only a small silver Mi logo on the lower
+ back and no branding on the front. The buttons are lined up on the 
+right edge, while the left is blank. The headset socket is on top and 
+the Micro-USB port is on the bottom. Xiaomi uses a non-standard 
+squared-off Micro-USB port which makes it difficult to see which way the
+ plug needs to go in.
+
+The rear shell is a bit difficult to pry 
+off, but the first major difference between the Xiaomi Note twins is 
+visible beneath it. The 4G version of this phone has only a single 
+regular-sized SIM card slot. You still need to take out the battery in 
+order to swap SIM and microSD cards.
+
+As far as phones with 
+5.5-inch screens go, the Redmi Note 4G isn't all that difficult to 
+handle. It's reasonably wide and tall, but you'll definitely feel its 
+weight and you'll have to balance it carefully in order to reach all 
+parts of the screen with one hand.
+
+Specifications and softwareThe
+ Redmi Note 4G shares most of its specifications with the Redmi model, 
+with one key difference. While the previous model was based on an 
+octa-core MediaTek MT6592 processor, the 4G version uses a Qualcomm 
+Snapdragon 400. The main reason for this is Qualcomm's integrated LTE 
+capabilities, but there's a very interesting side effect in India. 
+Thanks to legal hurdles brought on by a patent infringement dispute with
+ Ericsson, Xiaomi has been restrained from selling MediaTek-based 
+products in the country. A Qualcomm version allows the company to keep 
+selling this product in India while the case is being heard.
+
+The 
+screens on both models are the same 5.5" 720x1280 panels, and there's 
+still 2GB of RAM and 8GB of internal storage space. MicroSD capacity 
+support has been bumped up to 64GB, and there's faster Wi-Fi 802.11ac 
+support. 
+
+The 13-megapixel cameras are also identical, as are the 
+Bluetooth 4.0, GPS and FM radio features. Both models have 
+accelerometers, gyroscopes, digital compasses and proximity sensors. The
+ 3,100mAh batteries also appear to be exactly the same.
+
+Both 
+phones run Xiaomi's MiUI interface on top of Android 4.4.2. You can read
+ all about the experience of using it on the Redmi Note in our review of
+ that model.
+
+Performance and CameraThe Xiaomi Redmi Note 4G
+ did not feel any different to use than the earlier model did, and users
+ should be quite happy with the way this device handles everyday tasks. 
+We had no trouble running common apps and light games.
+
+Our suite 
+of benchmarks threw up a surprise, though. The Redmi Note 4G 
+consistently performed just a little bit slower than the original Redmi 
+Note did. We've seen devices with Qualcomm's quad-core Snapdragon 400 
+and MediaTek's octa-core MT6592 go head-to-head before, but never two 
+that were so closely matched in all other regards. The MT6592 usually 
+has an advantage in CPU-intensive tasks but loses out in the graphics 
+department. However in this case, the Snapdragon 400 lagged behind 
+across the board.
+
+Differences in graphics tests were very slight, 
+but were consistent - 11fps vs 13.1fps in GFXbench and 5887 points vs 
+5950 in 3DMark Ice Storm for the Redmi Note 4G and Redmi Note 
+respectively. The CPU-intensive Quadrant scores were 44,947 and 67,118 
+respectively - a more significant difference. SunSpider took 1,250ms to 
+complete as opposed to 1,096ms. 
+
+Both processors are still 
+powerful and the difference in the real world is not going to be very 
+noticeable. However, it does seem as though the original Redmi Note has 
+an advantage on paper.
+
+The battery life test also came out in 
+favour of the older model. The Redmi Note 4G lasted for 11 hours, 9 
+minutes compared to the older model's time of 11 hours, 56 minutes. Test
+ conditions were identical in both cases.
+
+The cameras on both 
+phones performed pretty much identically. We really liked what we were 
+able to do with the Redmi Note 4G's camera in daylight, and shots stood 
+up to inspection when seen at 100 percent on a bigger screen. Details 
+were surprisingly sharp in many cases. Low-light shots were also pretty 
+good, though as expected, close-ups were a lot better than long shots or
+ shots of moving objects.
+
+VerdictWe like the Redmi Note 4G,
+ but we have to say that we liked its predecessor a bit more. The price 
+tag is still extremely reasonable, but to be honest 4G isn't widespread,
+ affordable or compelling enough to make that Rs. 1,000 extra outlay 
+worth it - not just yet, at least. This year should be very interesting 
+in terms of 4G rollouts across the country, so if you have a long-term 
+view in mind, there's no problem at all in picking up this phone. For 
+most people though, the slight reduction in performance and the loss of 
+dual-SIM functionality will not be worth the tradeoff. Anyway, as it 
+stands right now, the original Redmi Note is not available any longer. 
+
+Xiaomi
+ continues to rely on weekly online flash sales, and the chances of 
+being able to snag one are slim, leading to considerable frustration. 
+However, in the time since the Redmi Note launched, Micromax's Yu Yureka
+ (Review | Photos) has also hit the market. This 4G-capable 5.5-inch smartphone is not yet
+ widely available but we were very impressed with it in our review. It's
+ also priced at par with the non-4G Redmi Note, giving buyers a very 
+interesting alternative option.
+

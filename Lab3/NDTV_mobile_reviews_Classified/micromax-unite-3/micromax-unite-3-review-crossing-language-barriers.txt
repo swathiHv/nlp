@@ -1,0 +1,225 @@
+Micromax Unite 3 Review: Crossing Language Barriers
+
+When
+ we reviewed the Micromax Unite 2 (Review |  Pictures) last year, we called it the "master of
+ languages". The phone didn't have exceptional hardware performance but 
+the software incorporated support for 21 languages in its keyboard and 
+in a third-party phonebook app called Reverie. In that respect, it 
+served one purpose well - local language support right out of
+ the box.Exactly a year later, we have its successor, aptly named Micromax
+ Unite 3 and it has a few new tweaks in its software even though things remain mostly unchanged on the hardware front. Micromax has collaborated
+ with Mumbai-based startup Firstouch to introduce a new customised UI 
+and keyboard, both with support for 10 Indian languages. While the 
+number of languages supported has gone down, we hope to see a more 
+polished experience this time around thanks to Firstouch's expertise in 
+this area.Look and feelThe Micromax Unite 3 definitely 
+won't win any awards for design. Micromax has decided to keep the design
+ utilitarian which works in favour of the demographic we think it 
+intends to target with this phone - non-tech-savvy first-time users. Thanks to 
+its compact dimensions, the phone is comfortable to hold and use with 
+one hand.Our review unit had a black front with a white rear 
+cover. Removing it reveals the battery compartment, 
+two slots for the SIM cards (one Micro and one Mini), and a microSD card slot. The 
+rear of the phone houses the primary camera and flash, and there are holes for the loudspeaker. The Micro-USB port is on the bottom
+ along with the microphone. The 3.5mm audio jack is present on the 
+top. The right houses the power button and volume 
+rocker. The tactile feedback on both these buttons could have been 
+better. Above the display, you can find the earpiece, front camera, a 
+cutout for the ambient light sensor and the proximity sensor, and a LED status
+indicator. A row of capacitive buttons lies below the display for navigating through the operating system.Specifications and softwareInternally,
+ the Unite 3 rocks a 1.3GHz quad-core Mediatek MT6582M processor with 
+Mali-400MP2 GPU. Micromax also provides 1GB of RAM and 8GB of internal 
+storage space. Storage can be expanded by up to 32GB using
+ a microSD card. Moreover, the Micro-USB port can be used for USB-OTG as 
+well.The primary camera can capture 8-megapixel images and for 
+selfies there is a 2-megapixel camera on the front. There is no support 
+for 4G but both SIM cards can be used on third-generation cellular
+ networks. Other connectivity options includes Wi-Fi a/b/g/n and 
+Bluetooth 4.0. The Unite 3 has the same 2000mA battery as its 
+predecessor, but Micromax claims that it can last longer. The 
+4.7-inch display has a resolution of 480x800, which is really outdated 
+today considering there is an abundance of budget smartphones with 720p 
+displays. The IPS panel has muted, almost desaturated colours and we 
+could see jagged edges on text. The sunlight legibility and viewing 
+angles are poor as well. Switching on the phone for the very 
+first time, we were greeted by an assortment of comically large 
+icons of the most commonly used apps such as the phone dialler, contacts, messages, 
+music, settings, and app store. This was our first brush with the 
+Firstouch launcher that runs on top of Android 5.0 Lollipop. It is 
+cartoonish and, for the most part, ugly. There is no app drawer and all 
+the apps are lined up on multiple home screens. This launcher can render
+ text in ten Indian languages. However, we soon realised 
+that we could switch to the default Android Lollipop launcher, with a 
+separate app drawer. Interestingly, Android Lollipop introduced support for 15 Indian languages, which is higher than 
+what Firstouch offers. Therefore, Firstouch really fails to create an 
+impression with us. That said, we appreciate Micromax for introducing the
+Swiftkey and Android (AOSP) keyboards apart from Firstouch keyboard as 
+options. The Firstouch keyboard is superb if you are going to be 
+typing in any regional language as your first choice. We tried Tamil, Gujarati and
+ Hindi, and it was really easy to get used to. In fact, we gave the 
+phone to colleagues fluent in different languages to gauge how easy/difficult it was 
+to use the Firstouch keyboard, and they all reported that it was easier to type on 
+Firstouch than other Indic language keyboards they've used before. Additionally in the messaging app, one can transliterate and translate text
+on the fly, with swipes to the left and right respectively. The phone needs to be connected to 
+the Internet for it to translate text, though transliteration
+ is not dependent on an active connection.Micromax has also added 
+gesture commands to open apps. 
+However, we really think that the company could have cut down on the 
+bloatware bundled with the phone. Performance and cameraThe
+ Unite 3 on its own is a decent performer. It runs without stutters and 
+is generally responsive to any command you throw at it. However, it is as fast as the similarly priced Xiaomi Redmi 2 (Review | Pictures), Moto E (Gen 2) 4G (Review), or Yu Yuphoria (Review | Pictures). 
+Especially when it comes to gaming, the Unite 3 struggles.In our 
+AnTuTu and Quadrant benchmark tests, the Unite 3 scored 20,190 and 5,845
+ respectively. Graphics benchmark tests 3DMark Ice Storm and 
+GFXbench returned scores of 3,247 and 9.7fps respectively. 1080p videos 
+stuttered during playback and also skipped frames. The loudspeaker had 
+very low output and didn't sound great. The bundled headset is 
+decent but you'd be better off using a third-party pair of headphones. The call quality was average and we faced some 
+issues with connection drops even in areas where one can find good 
+cellular reception.We liked the camera on the Micromax Unite 2 
+last year, but its only competition 
+at the time was the Moto E (Gen 2). Things have changed since then. Phones such as the 
+Redmi 2 and Yu Yuphoria have shown that companies don't need to compromise on 
+the performance of the camera on a low-cost phone. Therefore, while the 
+camera of the Unite 3 might be as good as its predecessor's, it is 
+only average at best by today's standards. (Click for full size)Regardless of lighting conditions, the software of the camera reduces
+ noise so much that it smudges details, creating a water-colour effect
+ in shots. Moreover, it struggles with exposure as we constantly got 
+over-exposed shots in daylight. In low light a lot of areas were 
+severely underexposed as well. The 2-megapixel front camera is also an 
+average shooter and could have been much better.VerdictQuite
+ evidently, the Micromax Unite 3 doesn't boast of top-of-the-line 
+specifications or impress us with crazy pricing - it costs around
+ Rs. 6,500. However, it does serve one really important purpose - 
+localisation of the smartphone UI for a huge audience of buyers who are not comfortable with English. The phone makes sense only when that particular feature is taken into consideration. 
+For every other purpose, there is a Redmi 2 or a Yu Yuphoria out there that will work out better. 
+Micromax Unite 3 in pictures
+
+When
+ we reviewed the Micromax Unite 2 (Review |  Pictures) last year, we called it the "master of
+ languages". The phone didn't have exceptional hardware performance but 
+the software incorporated support for 21 languages in its keyboard and 
+in a third-party phonebook app called Reverie. In that respect, it 
+served one purpose well - local language support right out of
+ the box.
+
+Exactly a year later, we have its successor, aptly named Micromax
+ Unite 3 and it has a few new tweaks in its software even though things remain mostly unchanged on the hardware front. Micromax has collaborated
+ with Mumbai-based startup Firstouch to introduce a new customised UI 
+and keyboard, both with support for 10 Indian languages. While the 
+number of languages supported has gone down, we hope to see a more 
+polished experience this time around thanks to Firstouch's expertise in 
+this area.
+
+Look and feelThe Micromax Unite 3 definitely 
+won't win any awards for design. Micromax has decided to keep the design
+ utilitarian which works in favour of the demographic we think it 
+intends to target with this phone - non-tech-savvy first-time users. Thanks to 
+its compact dimensions, the phone is comfortable to hold and use with 
+one hand.
+
+Our review unit had a black front with a white rear 
+cover. Removing it reveals the battery compartment, 
+two slots for the SIM cards (one Micro and one Mini), and a microSD card slot. The 
+rear of the phone houses the primary camera and flash, and there are holes for the loudspeaker. The Micro-USB port is on the bottom
+ along with the microphone. The 3.5mm audio jack is present on the 
+top. 
+
+The right houses the power button and volume 
+rocker. The tactile feedback on both these buttons could have been 
+better. Above the display, you can find the earpiece, front camera, a 
+cutout for the ambient light sensor and the proximity sensor, and a LED status
+indicator. A row of capacitive buttons lies below the display for navigating through the operating system.
+
+Specifications and softwareInternally,
+ the Unite 3 rocks a 1.3GHz quad-core Mediatek MT6582M processor with 
+Mali-400MP2 GPU. Micromax also provides 1GB of RAM and 8GB of internal 
+storage space. Storage can be expanded by up to 32GB using
+ a microSD card. Moreover, the Micro-USB port can be used for USB-OTG as 
+well.
+
+The primary camera can capture 8-megapixel images and for 
+selfies there is a 2-megapixel camera on the front. There is no support 
+for 4G but both SIM cards can be used on third-generation cellular
+ networks. Other connectivity options includes Wi-Fi a/b/g/n and 
+Bluetooth 4.0. The Unite 3 has the same 2000mA battery as its 
+predecessor, but Micromax claims that it can last longer. 
+
+The 
+4.7-inch display has a resolution of 480x800, which is really outdated 
+today considering there is an abundance of budget smartphones with 720p 
+displays. The IPS panel has muted, almost desaturated colours and we 
+could see jagged edges on text. The sunlight legibility and viewing 
+angles are poor as well. 
+
+Switching on the phone for the very 
+first time, we were greeted by an assortment of comically large 
+icons of the most commonly used apps such as the phone dialler, contacts, messages, 
+music, settings, and app store. This was our first brush with the 
+Firstouch launcher that runs on top of Android 5.0 Lollipop. It is 
+cartoonish and, for the most part, ugly. There is no app drawer and all 
+the apps are lined up on multiple home screens. This launcher can render
+ text in ten Indian languages. 
+
+However, we soon realised 
+that we could switch to the default Android Lollipop launcher, with a 
+separate app drawer. Interestingly, Android Lollipop introduced support for 15 Indian languages, which is higher than 
+what Firstouch offers. Therefore, Firstouch really fails to create an 
+impression with us. That said, we appreciate Micromax for introducing the
+Swiftkey and Android (AOSP) keyboards apart from Firstouch keyboard as 
+options. 
+
+The Firstouch keyboard is superb if you are going to be 
+typing in any regional language as your first choice. We tried Tamil, Gujarati and
+ Hindi, and it was really easy to get used to. In fact, we gave the 
+phone to colleagues fluent in different languages to gauge how easy/difficult it was 
+to use the Firstouch keyboard, and they all reported that it was easier to type on 
+Firstouch than other Indic language keyboards they've used before. 
+
+Additionally in the messaging app, one can transliterate and translate text
+on the fly, with swipes to the left and right respectively. The phone needs to be connected to 
+the Internet for it to translate text, though transliteration
+ is not dependent on an active connection.
+
+Micromax has also added 
+gesture commands to open apps. 
+However, we really think that the company could have cut down on the 
+bloatware bundled with the phone. 
+
+Performance and cameraThe
+ Unite 3 on its own is a decent performer. It runs without stutters and 
+is generally responsive to any command you throw at it. However, it is as fast as the similarly priced Xiaomi Redmi 2 (Review | Pictures), Moto E (Gen 2) 4G (Review), or Yu Yuphoria (Review | Pictures). 
+Especially when it comes to gaming, the Unite 3 struggles.
+
+In our 
+AnTuTu and Quadrant benchmark tests, the Unite 3 scored 20,190 and 5,845
+ respectively. Graphics benchmark tests 3DMark Ice Storm and 
+GFXbench returned scores of 3,247 and 9.7fps respectively. 1080p videos 
+stuttered during playback and also skipped frames. The loudspeaker had 
+very low output and didn't sound great. The bundled headset is 
+decent but you'd be better off using a third-party pair of headphones. The call quality was average and we faced some 
+issues with connection drops even in areas where one can find good 
+cellular reception.
+
+We liked the camera on the Micromax Unite 2 
+last year, but its only competition 
+at the time was the Moto E (Gen 2). Things have changed since then. Phones such as the 
+Redmi 2 and Yu Yuphoria have shown that companies don't need to compromise on 
+the performance of the camera on a low-cost phone. Therefore, while the 
+camera of the Unite 3 might be as good as its predecessor's, it is 
+only average at best by today's standards. 
+
+(Click for full size)Regardless of lighting conditions, the software of the camera reduces
+ noise so much that it smudges details, creating a water-colour effect
+ in shots. Moreover, it struggles with exposure as we constantly got 
+over-exposed shots in daylight. In low light a lot of areas were 
+severely underexposed as well. The 2-megapixel front camera is also an 
+average shooter and could have been much better.
+
+VerdictQuite
+ evidently, the Micromax Unite 3 doesn't boast of top-of-the-line 
+specifications or impress us with crazy pricing - it costs around
+ Rs. 6,500. However, it does serve one really important purpose - 
+localisation of the smartphone UI for a huge audience of buyers who are not comfortable with English. The phone makes sense only when that particular feature is taken into consideration. 
+For every other purpose, there is a Redmi 2 or a Yu Yuphoria out there that will work out better. 
+

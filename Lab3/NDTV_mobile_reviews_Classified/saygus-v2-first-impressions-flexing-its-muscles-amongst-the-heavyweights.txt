@@ -1,0 +1,162 @@
+Saygus V2 First Impressions: Flexing Its Muscles Amongst the Heavyweights
+
+At
+ CES in January, a small upstart from Salt Lake City, Utah in USA - 
+Saygus - unveiled a 
+smartphone
+ that promised to be your definitive Android experience. The Saygus V2 
+(pronounced Saygus V-squared) packs in more features than you might ever
+ require.In a span of two months, Saygus has gone from 
+introducing the phone to accepting pre-orders from around 51 countries -
+ a number put forth by the company itself. Additionally, the executives 
+at Saygus told NDTV Gadgets that they are receiving a lot of requests 
+and interest in the phone from India as well. For all you backers out 
+there and for those who are merely intrigued by the Saygus V2, here are 
+our first impressions of the device.At first glance, the phone 
+feels chunky at 9.7mm compared to other flagship Android smartphones in 
+the market. That said, Saygus has managed to keep the weight of the 
+phone at a comfortable 141g thanks to the use of materials like anodised
+ aluminium and magnesium alloy. The rear is protected by kevlar coating 
+which was first used by the Motorola Razr back in 2011. Interestingly, 
+Saygus tells us that the engineer who worked with Motorola for the 
+kevlar back also engineered the V2. The phone uses waterproofing 
+technology by another Utah-based company HZO. A fractal antenna on the 
+rear, provided by a company of the same name as the tech, apparently 
+boosts cellular network reception.The edges of the phone are 
+raised, which should mean that falling face-down will not affect the 
+display first on impact. The 5-inch display has a resolution of 
+1080x1920 (FHD) and is protected by Corning's Gorilla Glass 4. The 
+screen looked adequately bright and sharp, and it is makes use of 
+Quicklogic's ArcticLink III VX technology to enhance the sunlight 
+legibility, which we couldn't test indoors. The Saygus V2 uses two 
+Harmann Kardonn speakers below and above the screen. Unfortunately, 
+these speakers are not active since it was an engineering prototype and 
+as a result we couldn't test the sound quality.Similarly, the two
+ cameras on the phone - a 13-megapixel front-facing one and 21-megapixel
+ primary camera - were both inactive. The optics are sourced form Sharp 
+and Saygus claims that both include optical image stabilisation, which 
+should improve low-light performance. The phone also includes a 
+biometric fingerprint scanner on the right edge, which wasn't active 
+either.The piece de resistance of the Saygus V2 is its 60GHz 
+Wireless HD capability. In collaboration with Silicon Image, Saygus has 
+added a chip that can send visuals wirelessly to your HDMI-enabled 
+television. Moreover, it doesn't send the signals over Wi-Fi. Saygus 
+claims that the FHD transmission quality is better than that of a 
+connection established by Miracast protocol. A small device (still a 
+prototype) to be sold as an add-on accessory, connects to the HDMI port 
+on your television and receives the wireless signal. We noticed that the
+ picture quality was impeccable and a demonstration of Riptide GP2 
+worked without any lag. If our initial experience is any indication, 
+then we hope that more smartphone brands can lap up this feature for 
+their flagship devices. The one drawback in an otherwise 
+feature-rich phone is that it is running Android KitKat. However, Saygus
+ executives did state that they did test a Lollipop build on the Saygus 
+V2 and weren't happy with the multiple bugs they encountered during 
+testing. So there's hope it will get Android 5.0 Lollipop update in the 
+future.Internally, the Saygus V2 packs Qualcomm's Snapdragon 801 
+quad-core processor clocked at 2.5GHz and 3GB of RAM. It also has 64GB 
+of internal storage and two microSD card slots that can accept memory 
+cards up to 128GB of storage space. If that wasn't enough, Saygus 
+executives mentioned that they are in talks with Sandisk to add support 
+for its latest 200GB microSD card (also announced at 
+MWC); which takes the potential maximum storage space up to a whopping 
+464GB!The Saygus V2 is expected to support every any kind of 
+network, GSM or CDMA, across the world. It has a 3100mAh battery inside 
+and has support for wireless Qi charging as well. Root access will be 
+made available to every user and it will also support multi-boot from a 
+microSD card.Since we only got to play around with the 
+engineering prototype of the Saygus V2, we couldn't experience a lot of 
+the functions. Having said that, if the final retail device manages to 
+live up to its promises we are possibly looking at a phone that could 
+give others a run for their money. The Saygus V2 is available for 
+pre-order online at $599 (approximately Rs. 37,300).  
+
+At
+ CES in January, a small upstart from Salt Lake City, Utah in USA - 
+Saygus - unveiled a 
+smartphone
+ that promised to be your definitive Android experience. The Saygus V2 
+(pronounced Saygus V-squared) packs in more features than you might ever
+ require.
+
+In a span of two months, Saygus has gone from 
+introducing the phone to accepting pre-orders from around 51 countries -
+ a number put forth by the company itself. Additionally, the executives 
+at Saygus told NDTV Gadgets that they are receiving a lot of requests 
+and interest in the phone from India as well. For all you backers out 
+there and for those who are merely intrigued by the Saygus V2, here are 
+our first impressions of the device.
+
+At first glance, the phone 
+feels chunky at 9.7mm compared to other flagship Android smartphones in 
+the market. That said, Saygus has managed to keep the weight of the 
+phone at a comfortable 141g thanks to the use of materials like anodised
+ aluminium and magnesium alloy. The rear is protected by kevlar coating 
+which was first used by the Motorola Razr back in 2011. Interestingly, 
+Saygus tells us that the engineer who worked with Motorola for the 
+kevlar back also engineered the V2. The phone uses waterproofing 
+technology by another Utah-based company HZO. A fractal antenna on the 
+rear, provided by a company of the same name as the tech, apparently 
+boosts cellular network reception.
+
+The edges of the phone are 
+raised, which should mean that falling face-down will not affect the 
+display first on impact. The 5-inch display has a resolution of 
+1080x1920 (FHD) and is protected by Corning's Gorilla Glass 4. The 
+screen looked adequately bright and sharp, and it is makes use of 
+Quicklogic's ArcticLink III VX technology to enhance the sunlight 
+legibility, which we couldn't test indoors. The Saygus V2 uses two 
+Harmann Kardonn speakers below and above the screen. Unfortunately, 
+these speakers are not active since it was an engineering prototype and 
+as a result we couldn't test the sound quality.
+
+Similarly, the two
+ cameras on the phone - a 13-megapixel front-facing one and 21-megapixel
+ primary camera - were both inactive. The optics are sourced form Sharp 
+and Saygus claims that both include optical image stabilisation, which 
+should improve low-light performance. The phone also includes a 
+biometric fingerprint scanner on the right edge, which wasn't active 
+either.
+
+The piece de resistance of the Saygus V2 is its 60GHz 
+Wireless HD capability. In collaboration with Silicon Image, Saygus has 
+added a chip that can send visuals wirelessly to your HDMI-enabled 
+television. Moreover, it doesn't send the signals over Wi-Fi. Saygus 
+claims that the FHD transmission quality is better than that of a 
+connection established by Miracast protocol. A small device (still a 
+prototype) to be sold as an add-on accessory, connects to the HDMI port 
+on your television and receives the wireless signal. We noticed that the
+ picture quality was impeccable and a demonstration of Riptide GP2 
+worked without any lag. If our initial experience is any indication, 
+then we hope that more smartphone brands can lap up this feature for 
+their flagship devices. 
+
+The one drawback in an otherwise 
+feature-rich phone is that it is running Android KitKat. However, Saygus
+ executives did state that they did test a Lollipop build on the Saygus 
+V2 and weren't happy with the multiple bugs they encountered during 
+testing. So there's hope it will get Android 5.0 Lollipop update in the 
+future.
+
+Internally, the Saygus V2 packs Qualcomm's Snapdragon 801 
+quad-core processor clocked at 2.5GHz and 3GB of RAM. It also has 64GB 
+of internal storage and two microSD card slots that can accept memory 
+cards up to 128GB of storage space. If that wasn't enough, Saygus 
+executives mentioned that they are in talks with Sandisk to add support 
+for its latest 200GB microSD card (also announced at 
+MWC); which takes the potential maximum storage space up to a whopping 
+464GB!
+
+The Saygus V2 is expected to support every any kind of 
+network, GSM or CDMA, across the world. It has a 3100mAh battery inside 
+and has support for wireless Qi charging as well. Root access will be 
+made available to every user and it will also support multi-boot from a 
+microSD card.
+
+Since we only got to play around with the 
+engineering prototype of the Saygus V2, we couldn't experience a lot of 
+the functions. Having said that, if the final retail device manages to 
+live up to its promises we are possibly looking at a phone that could 
+give others a run for their money. The Saygus V2 is available for 
+pre-order online at $599 (approximately Rs. 37,300). 
+

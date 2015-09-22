@@ -1,0 +1,43 @@
+ZTE Grand S3 First Impressions: Ordinary Android With One Neat Trick
+
+ZTE has a fairly large booth at the ongoing Mobile World Congress trade show this year. The Chinese manufacturer is one of the players launching affordable Android devices and offering serious competition to established brands in markets all around the world.One of the models grabbing attention here is the ZTE Grand S3, mainly because of a unique biometric security feature. While other devices have employed various facial recognition techniques, the ZTE Grand S3 can scan the pattern of blood vessels in a user's eyes. All you have to do is glance at the front camera to unlock the phone, and ZTE says this is safer and more reliable than reading fingerprints.(Also see: ZTE Grand S3 vs ZTE Grand S II)The feature seemed to work exactly as described. A booth attendant demonstrated it by first dipping into the phone's settings to set up recognition from scratch, and then repeatedly unlocking the phone from various angles. The setup process took about 30 seconds, but was as easy as staring into the front camera. The actual recognition was near-instantaneous. You do it exactly as you would set up a PIN code or dot pattern.The feature apparently works under various lighting conditions, which was impossible to test on the brightly lit MWC show floor, so we look forward to receiving a review unit when this device launches in India.(Also see: ZTE Grand S3 vs OnePlus One)Beyond that one feature, this is a fairly ordinary-looking phone. Nothing about its construction is new or unique. In fact, it feels a lot less premium than we would have imagined based on its specs alone. The body is made of plastic and is comfortable enough to hold. Bits of the design, such as the overall shape, the positioning of the cameras and other elements appear to have been borrowed from assorted other popular phones but then again these things are so common that they're unremarkable. All we need to say is that in terms of its look and feel, this phone is not memorable at all.(Also see: ZTE Grand S3 vs Xiaomi Redmi Note 4G)If this phone winds up launching at a very low price, however, that will change. There's a quad-core Snapdragon 801 SoC running at 2.5GHz, 3GB of RAM, 16GB of storage and microSD card support. The model we saw did not support global LTE bands, but there might be variants that work in different countries. The screen measures 5.5 inches diagonally and has a resolution of 1080x1920 pixels. The battery capacity of 3,100mAh should make a fully day of heavy usage possible.The primary camera has a 16-megapixel sensor and dual-LED flash, while the one in front has an impressive 8-megapixel sensor. One intriguing feature is Dolby sound, which we also couldn't test on the show floor.The phone runs a custom UI on top of Android which, like most Chinese skins, dispenses with the separate app drawer in favour of icons and widgets on the home screens. There were a few preloaded apps such as a mapping application, but these were all in Chinese and we hope they will be localised before launch.Pricing and availability will be the factors that determine whether the ZTE Grand S3 has a chance against similarly-specced phones from Xiaomi and OnePlus, besides of course models from established companies such as Samsung and HTC.Stay tuned to NDTV Gadgets for a full review at the time of this phone's launch in India.Disclosure: ZTE was showcasing its products at MWC 2015 in Barcelona. 
+Qualcomm sponsored the correspondent's flights and hotel for Barcelona.
+
+MWC 2015 in Pictures
+
+ZTE has a fairly large booth at the ongoing Mobile World Congress trade show this year. The Chinese manufacturer is one of the players launching affordable Android devices and offering serious competition to established brands in markets all around the world.
+
+One of the models grabbing attention here is the ZTE Grand S3, mainly because of a unique biometric security feature. While other devices have employed various facial recognition techniques, the ZTE Grand S3 can scan the pattern of blood vessels in a user's eyes. All you have to do is glance at the front camera to unlock the phone, and ZTE says this is safer and more reliable than reading fingerprints.
+
+(Also see: ZTE Grand S3 vs ZTE Grand S II)
+
+The feature seemed to work exactly as described. A booth attendant demonstrated it by first dipping into the phone's settings to set up recognition from scratch, and then repeatedly unlocking the phone from various angles. The setup process took about 30 seconds, but was as easy as staring into the front camera. The actual recognition was near-instantaneous. You do it exactly as you would set up a PIN code or dot pattern.
+
+The feature apparently works under various lighting conditions, which was impossible to test on the brightly lit MWC show floor, so we look forward to receiving a review unit when this device launches in India.
+
+(Also see: ZTE Grand S3 vs OnePlus One)
+
+Beyond that one feature, this is a fairly ordinary-looking phone. Nothing about its construction is new or unique. In fact, it feels a lot less premium than we would have imagined based on its specs alone. 
+
+The body is made of plastic and is comfortable enough to hold. Bits of the design, such as the overall shape, the positioning of the cameras and other elements appear to have been borrowed from assorted other popular phones but then again these things are so common that they're unremarkable. All we need to say is that in terms of its look and feel, this phone is not memorable at all.
+
+(Also see: ZTE Grand S3 vs Xiaomi Redmi Note 4G)
+
+If this phone winds up launching at a very low price, however, that will change. There's a quad-core Snapdragon 801 SoC running at 2.5GHz, 3GB of RAM, 16GB of storage and microSD card support. 
+
+The model we saw did not support global LTE bands, but there might be variants that work in different countries. The screen measures 5.5 inches diagonally and has a resolution of 1080x1920 pixels. The battery capacity of 3,100mAh should make a fully day of heavy usage possible.
+
+The primary camera has a 16-megapixel sensor and dual-LED flash, while the one in front has an impressive 8-megapixel sensor. One intriguing feature is Dolby sound, which we also couldn't test on the show floor.
+
+The phone runs a custom UI on top of Android which, like most Chinese skins, dispenses with the separate app drawer in favour of icons and widgets on the home screens. There were a few preloaded apps such as a mapping application, but these were all in Chinese and we hope they will be localised before launch.
+
+Pricing and availability will be the factors that determine whether the ZTE Grand S3 has a chance against similarly-specced phones from Xiaomi and OnePlus, besides of course models from established companies such as Samsung and HTC.
+
+Stay tuned to NDTV Gadgets for a full review at the time of this phone's launch in India.
+
+Disclosure: ZTE was showcasing its products at MWC 2015 in Barcelona. 
+Qualcomm sponsored the correspondent's flights and hotel for Barcelona.
+
+
+MWC 2015 in Pictures
+

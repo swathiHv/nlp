@@ -1,0 +1,271 @@
+Xiaomi Redmi 2 Review: Minor Changes Keep Things Fresh
+
+Xiaomi 
+certainly has ambitions beyond the low end of the Indian market, but its
+ bread and butter so far has been the sub-Rs. 10,000 segment. The launch
+ of the outrageously powerful Redmi 1S was perhaps the most disruptive 
+event in the entire Indian mobile market in all of 2014, and even with 
+competitors coming in, there has been no shortage of demand. Hundreds of
+ thousands of units were sold before the model abruptly disappeared from
+ the scene, and it still commands almost full price when sold second-hand.The
+ disappearance of the Xiaomi Redmi 1S (Review | Pictures) left a massive hole in the market,
+ which the company is now trying to fill with its successor, the brand 
+new Xiaomi Redmi 2. It will cost Rs. 1,000 more than the Redmi 1S did 
+when it goes on sale each week for the foreseeable future but has a few 
+features to make up for that. We're keen to see how much of a difference
+ this generation leap actually makes, and whether Xiaomi can keep its 
+momentum against a backdrop of dead serious new competitors.Look and feelThere
+ isn't much differentiating the Redmi 2 from the Redmi 1S. Both are 
+roughly the same size and have the same proportions. A glance at their 
+respective spec sheets tells us that the Redmi 2 is slightly smaller and
+ lighter, but this will hardly be perceptible to anyone. The phone is 
+very comfortable to hold and we had no problem using it with one hand.Xiaomi
+ has launched the Redmi 2 with a white rear shell which gives it a 
+strong family resemblance to the Redmi Note  twins. This model's rear 
+shell, however, has a pleasant soft texture rather than shiny hard 
+plastic. Smudges and scuffs will be very visible, and it's possible that
+ it will get discoloured over time so a protective case would be a good 
+investment.The overall look is pretty staid, which is not a bad 
+thing. The front face is quite blank, though there's a tiny bit of flair
+ to icons for the capacitive buttons below the screen, which are printed
+ in red. These are difficult to locate in the dark but become highly 
+reflective under the sun. There is a notification LED, but it's hidden 
+below the Home button and is only visible when you have an alert or when
+ the phone is charging.The rear is also quite plain, except for a
+ very noticeable silver Mi logo. The camera lens is slightly raised, and
+ the flash, speaker grille and secondary mic are arranged around it. The
+ power and volume buttons are on the right, the 3.5mm headset socket is 
+on top, and the Micro-USB port is on the bottom. Xiaomi continues to use
+ a rectangular port cutout which makes it difficult to orient Micro-USB 
+cables - no reversible Type-C connector yet, unfortunately!Beneath
+ the cover, you'll see the large orange battery pack, the two Micro-SIM
+ card slots and the microSD slot. The battery is removable and in fact 
+you will have to pop it out to insert or swap SIM cards. Specifications and softwareThink
+ of the Xiaomi Redmi 2 as the Redmi 1S with a few things freshened up. 
+There's a 1.2GHz Qualcomm Snapdragon 410 SoC in place of last year's 
+1.6GHz Snapdragon 400. The clock speed might be lower, but the four CPU 
+cores are more modern and more powerful. The integrated GPU is also the 
+more recent Adreno 306 compared to the Adreno 305.There's still 
+1GB of RAM and 8GB of storage space though a more expensive limited 
+edition with 2GB of RAM and 16GB of storage might be available later. 
+The screen measures 4.7 inches diagonally and its resolution of 720x1280
+ is one of the main features that sets this phone apart in the budget 
+segment. Wi-Fi b/g/n, Bluetooth 4.0, A-GPS and FM radio are standard. 
+The rear camera still has an 8-megapixel sensor but the front one gets 
+an upgrade to 2 megapixels from 1.6. The battery has also received a 
+nice bump up from 2,000mAh to 2,200mAh. Of course one of the 
+biggest new features is support for LTE on both SIM cards. While 
+undoubtedly welcome, this is not going to be a huge sales motivator. LTE
+ is unlikely to become widespread and affordable before this phone is 
+obsolete, and so we would actually have liked to see a less expensive 
+version without it. If the Redmi 1S was still available for Rs. 1,000 
+less, LTE alone would not convince a lot of people to buy the Redmi 2. Xiaomi's
+ custom MIUI 6 skin is installed on top of Android 4.4.4. It's a little 
+slicker than version 5, which came on the Redmi 1S. Like nearly all 
+Chinese manufacturers' skins, this one dumps the Android app drawer and 
+makes all icons and widgets live on the homescreens. Some of the little 
+touches we liked in particular were the pocket-dial prevention mode, 
+easy exposure level adjustment in the camera app, notification LED 
+customisations, configurable shortcuts for all buttons, and high-quality
+ themes.Fleksy and Swiftkey are preloaded and you can choose 
+either over the standard Google keyboard when first setting up the 
+phone. The Facebook, WPS Office, and Flipkart apps are preloaded, all of 
+which are at least somewhat useful.  However, there are also some 
+strange design touches to MIUI, such as burying commonly used settings 
+in multiple menu layers, and making the quick settings panel harder to 
+access.PerformanceDespite its slick looks, this is 
+definitely a low-cost phone and you won't be able to suspend disbelief 
+of that fact after spending some time with it. Things are a bit slow and
+ there is a small amount of lag when launching and quitting apps, using 
+the task switcher, and even within simple apps such as Google Play. 
+Swipes registered as taps quite often. We even occasionally saw a load 
+screen when quitting apps, telling us it would take a second or two for 
+the main menu to show up. Benchmark test results were consistent 
+with our expectations. The phone managed to pull in 20,550 and 10,616 
+points in AnTuTu and Quadrant respectively. The graphics-heavy 3DMark 
+Ice Storm Extreme and GFXbench tests gave us scores of 2,634 points and 
+9.5fps respectively. All of these are consistent with the Redmi 1S's 
+scores and do not amount to any major generational leap between the two.Call
+ quality was reasonable, and very questionably, all calls are recorded 
+by default. You'll find a way to turn this off in the settings app. 
+Maybe if it wasn't on by default not many people would know such a 
+feature was built in, but we would have preferred a pop-up asking us for
+ permission first.Update: Xiaomi contacted us to say that call recording is not supposed to be on by default. Upon repeating our tests, we found that it was possible and far too easy to trigger an in-call record button, which was happening repeatedly. (Click to see full size)Camera quality is almost consistently great, 
+but there were still problems. It took a while to autofocus and we soon 
+began automatically just tapping to focus to avoid waiting. More 
+importantly, almost all the photos we took had a very noticeable warm 
+tinge, almost like a creative filter was permanently activated. While 
+colours were not accurate, we were happy to see that detail levels were 
+high and there wasn't much noise in daytime shots. The camera app offers
+ a Manual mode which only adds controls for ISO and white balance. Video
+ recorded with the rear camera was decent.(Click to see full size)The Redmi 2's battery 
+is one of its strongest features. The new processor might not offer much
+ in terms of speed gains, but it seems to have really optimised power 
+consumption, because we were able to run our video loop test for a very 
+impressive 12 hours, 18 minutes before this phone finally died. This is a
+ huge improvement over the Redmi 1S. VerdictThe Xiaomi 
+Redmi 2 replaces the Redmi 1S, one of the most popular phones of the 
+past year, but at a higher price point. It is more polished in some ways
+ but does not really raise the bar in terms of value for money. LTE is a
+ huge feature, but has extremely limited relevance in India and is not 
+something we would pay Rs. 1,000 more for at this point in time, given 
+the choice. In that sense this phone is somewhat overshadowed by its 
+predecessor. Nobody with a Redmi 1S should need to feel any urge 
+to upgrade. Those who want the best possible phone at this price point 
+would do well to consider the Motorola Moto E (Gen 2) (Review | Pictures) and Lenovo A6000 (Review | Pictures), 
+both of which offer comparable features. Ultimately, the Xiaomi Redmi 2 
+has the best-looking spec sheet of the trio, but the new Moto E has the 
+advantages of its brand value and the fact that you can order one 
+without the aggravation of flash sales.  Xiaomi Redmi 2 in pictures
+
+The
+ disappearance of the Xiaomi Redmi 1S (Review | Pictures) left a massive hole in the market,
+ which the company is now trying to fill with its successor, the brand 
+new Xiaomi Redmi 2. It will cost Rs. 1,000 more than the Redmi 1S did 
+when it goes on sale each week for the foreseeable future but has a few 
+features to make up for that. We're keen to see how much of a difference
+ this generation leap actually makes, and whether Xiaomi can keep its 
+momentum against a backdrop of dead serious new competitors.
+
+Look and feelThere
+ isn't much differentiating the Redmi 2 from the Redmi 1S. Both are 
+roughly the same size and have the same proportions. A glance at their 
+respective spec sheets tells us that the Redmi 2 is slightly smaller and
+ lighter, but this will hardly be perceptible to anyone. The phone is 
+very comfortable to hold and we had no problem using it with one hand.
+
+Xiaomi
+ has launched the Redmi 2 with a white rear shell which gives it a 
+strong family resemblance to the Redmi Note  twins. This model's rear 
+shell, however, has a pleasant soft texture rather than shiny hard 
+plastic. Smudges and scuffs will be very visible, and it's possible that
+ it will get discoloured over time so a protective case would be a good 
+investment.
+
+The overall look is pretty staid, which is not a bad 
+thing. The front face is quite blank, though there's a tiny bit of flair
+ to icons for the capacitive buttons below the screen, which are printed
+ in red. These are difficult to locate in the dark but become highly 
+reflective under the sun. There is a notification LED, but it's hidden 
+below the Home button and is only visible when you have an alert or when
+ the phone is charging.
+
+The rear is also quite plain, except for a
+ very noticeable silver Mi logo. The camera lens is slightly raised, and
+ the flash, speaker grille and secondary mic are arranged around it. The
+ power and volume buttons are on the right, the 3.5mm headset socket is 
+on top, and the Micro-USB port is on the bottom. Xiaomi continues to use
+ a rectangular port cutout which makes it difficult to orient Micro-USB 
+cables - no reversible Type-C connector yet, unfortunately!
+
+Beneath
+ the cover, you'll see the large orange battery pack, the two Micro-SIM
+ card slots and the microSD slot. The battery is removable and in fact 
+you will have to pop it out to insert or swap SIM cards. 
+
+Specifications and softwareThink
+ of the Xiaomi Redmi 2 as the Redmi 1S with a few things freshened up. 
+There's a 1.2GHz Qualcomm Snapdragon 410 SoC in place of last year's 
+1.6GHz Snapdragon 400. The clock speed might be lower, but the four CPU 
+cores are more modern and more powerful. The integrated GPU is also the 
+more recent Adreno 306 compared to the Adreno 305.
+
+There's still 
+1GB of RAM and 8GB of storage space though a more expensive limited 
+edition with 2GB of RAM and 16GB of storage might be available later. 
+The screen measures 4.7 inches diagonally and its resolution of 720x1280
+ is one of the main features that sets this phone apart in the budget 
+segment. Wi-Fi b/g/n, Bluetooth 4.0, A-GPS and FM radio are standard. 
+The rear camera still has an 8-megapixel sensor but the front one gets 
+an upgrade to 2 megapixels from 1.6. The battery has also received a 
+nice bump up from 2,000mAh to 2,200mAh. 
+
+Of course one of the 
+biggest new features is support for LTE on both SIM cards. While 
+undoubtedly welcome, this is not going to be a huge sales motivator. LTE
+ is unlikely to become widespread and affordable before this phone is 
+obsolete, and so we would actually have liked to see a less expensive 
+version without it. If the Redmi 1S was still available for Rs. 1,000 
+less, LTE alone would not convince a lot of people to buy the Redmi 2. 
+
+Xiaomi's
+ custom MIUI 6 skin is installed on top of Android 4.4.4. It's a little 
+slicker than version 5, which came on the Redmi 1S. Like nearly all 
+Chinese manufacturers' skins, this one dumps the Android app drawer and 
+makes all icons and widgets live on the homescreens. Some of the little 
+touches we liked in particular were the pocket-dial prevention mode, 
+easy exposure level adjustment in the camera app, notification LED 
+customisations, configurable shortcuts for all buttons, and high-quality
+ themes.
+
+Fleksy and Swiftkey are preloaded and you can choose 
+either over the standard Google keyboard when first setting up the 
+phone. The Facebook, WPS Office, and Flipkart apps are preloaded, all of 
+which are at least somewhat useful.  However, there are also some 
+strange design touches to MIUI, such as burying commonly used settings 
+in multiple menu layers, and making the quick settings panel harder to 
+access.
+
+PerformanceDespite its slick looks, this is 
+definitely a low-cost phone and you won't be able to suspend disbelief 
+of that fact after spending some time with it. Things are a bit slow and
+ there is a small amount of lag when launching and quitting apps, using 
+the task switcher, and even within simple apps such as Google Play. 
+Swipes registered as taps quite often. We even occasionally saw a load 
+screen when quitting apps, telling us it would take a second or two for 
+the main menu to show up. 
+
+Benchmark test results were consistent 
+with our expectations. The phone managed to pull in 20,550 and 10,616 
+points in AnTuTu and Quadrant respectively. The graphics-heavy 3DMark 
+Ice Storm Extreme and GFXbench tests gave us scores of 2,634 points and 
+9.5fps respectively. All of these are consistent with the Redmi 1S's 
+scores and do not amount to any major generational leap between the two.
+
+Call
+ quality was reasonable, and very questionably, all calls are recorded 
+by default. You'll find a way to turn this off in the settings app. 
+Maybe if it wasn't on by default not many people would know such a 
+feature was built in, but we would have preferred a pop-up asking us for
+ permission first.
+
+Update: Xiaomi contacted us to say that call recording is not supposed to be on by default. Upon repeating our tests, we found that it was possible and far too easy to trigger an in-call record button, which was happening repeatedly. 
+
+(Click to see full size)
+
+Camera quality is almost consistently great, 
+but there were still problems. It took a while to autofocus and we soon 
+began automatically just tapping to focus to avoid waiting. More 
+importantly, almost all the photos we took had a very noticeable warm 
+tinge, almost like a creative filter was permanently activated. While 
+colours were not accurate, we were happy to see that detail levels were 
+high and there wasn't much noise in daytime shots. The camera app offers
+ a Manual mode which only adds controls for ISO and white balance. Video
+ recorded with the rear camera was decent.
+
+(Click to see full size)
+
+The Redmi 2's battery 
+is one of its strongest features. The new processor might not offer much
+ in terms of speed gains, but it seems to have really optimised power 
+consumption, because we were able to run our video loop test for a very 
+impressive 12 hours, 18 minutes before this phone finally died. This is a
+ huge improvement over the Redmi 1S. 
+
+VerdictThe Xiaomi 
+Redmi 2 replaces the Redmi 1S, one of the most popular phones of the 
+past year, but at a higher price point. It is more polished in some ways
+ but does not really raise the bar in terms of value for money. LTE is a
+ huge feature, but has extremely limited relevance in India and is not 
+something we would pay Rs. 1,000 more for at this point in time, given 
+the choice. In that sense this phone is somewhat overshadowed by its 
+predecessor. 
+
+Nobody with a Redmi 1S should need to feel any urge 
+to upgrade. Those who want the best possible phone at this price point 
+would do well to consider the Motorola Moto E (Gen 2) (Review | Pictures) and Lenovo A6000 (Review | Pictures), 
+both of which offer comparable features. Ultimately, the Xiaomi Redmi 2 
+has the best-looking spec sheet of the trio, but the new Moto E has the 
+advantages of its brand value and the fact that you can order one 
+without the aggravation of flash sales. 
+

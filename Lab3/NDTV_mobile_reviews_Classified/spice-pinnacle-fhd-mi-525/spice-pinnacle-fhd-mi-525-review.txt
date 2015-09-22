@@ -1,0 +1,328 @@
+Spice Pinnacle FHD Mi-525 review
+
+Many Indian handset manufacturers have come out with interesting 
+feature-packed handsets to challenge the dominance of global brands. One
+ company that seems to be raising the bar is Spice Mobiles. Its latest 
+phablet, the Spice Pinnacle FHD Mi-525 offers a crisp 5.0-inch full-HD 
+display and comes packed with a quad-core processor.But is that enough 
+to compete in a market that is presently dominated by brands like 
+Micromax, Karbonn and Samsung? We try to find out in our review.Design/ Build	Our
+ immediate reaction after we took the Spice Pinnacle FHD Mi-525 out of 
+the box was that it looked familiar. Spice has opted for a minimalistic 
+design for the Pinnacle FHD, which has nothing unusual.The design of the
+ Spice Pinnacle FHD is simple, with no hardware keys on the front panel. The
+ front of the phone is dominated by the 5-inch full-HD display with three
+ capacitive keys lined up below the screen for Settings, Home and Back. 
+However, the backlight doesn't illuminate even when the display is on 
+till one touches them, which we found a bit odd.The back panel 
+houses the camera along with the dual-LED flash and speaker grille 
+located at the bottom left.There's some Spice branding on the back of 
+the phone.The phablet comes with dimensions of 149.4x74.9x9.3mm 
+and weighs around 175 grams, which makes it a bit bulky. The phone comes 
+only in a White colour variant.There is a Micro-USB port at the 
+bottom while the 3.5mm audio headphone port is located at the top of the
+ device.The power key is located on the right side and the volume rocker
+ key sits on the left side of the Spice Pinnacle FHD. As with most 
+phablets, there is no dedicated camera. The phone has a removable
+ back cover and opening it reveals the battery compartment with two SIM 
+card slots and a microSD card slot. The SIM cards and the microSD card 
+are not hot-swappable because they are placed adjacent to the battery.Overall,
+ we found the Spice Pinnacle FHD to be a reasonably good looking device, 
+although we wish it had been a bit lighter and sported a textured back. 
+The glossy back panel of the Pinnacle FHD tends to slip out of hand.DisplayThe
+ Spice Pinnacle FHD comes with a 5-inch full-HD display that has a 
+resolution of 1080x1920 pixels and a pixel density of 480ppi, which is 
+pretty good, and graphics and text appear sharp. The viewing angles were
+ also good and under the sun visibility on the phone's screen was 
+decent. The screen is not very reflective. Videos and pictures looked 
+good as well.The screen renders text, images and icons sharply 
+and the size makes it optimum for watching videos. We played some of our
+ favourite videos on the Spice Pinnacle FHD and it didn't disappoint us,
+ thanks to the full-HD screen.We also found the touch response of the 
+screen to be good.CameraThe 8-megapixel auto-focus camera 
+takes good quality images in daylight. However, we noticed that pictures
+ taken in low-light conditions did not come out well. Indoor images 
+clicked with Pinnacle FHD with less light showed noise on the edges and 
+were grainy.The colour reproduction was also not that great.The 
+dual-LED flash fulfills its intended purpose. The phone can record 
+full-HD videos but we found that the quality of videos captured through 
+the rear camera wasn't great. The 2-megapixel front-facing camera comes 
+in handy for self-portrait shots while the quality is nothing to rave 
+about.The camera is a bit of a disappointment, churning out 
+mediocre results, even though it comes equipped with a number of 
+shooting modes including Auto, HDR, Panorama, Portrait, Smile Shot, 
+Landscape and face-detection. The camera also allows you to adjust 
+sharpness, saturation, hue, ISO, and brightness settings.Software/ InterfaceSpice
+ Pinnacle FHD Mi-525 runs Android 4.2.1Jelly Bean. Spice has skinned 
+some UI elements of the operating system on the Pinnacle FHD and also 
+offers a second theme that gives a different icon set. Even the default 
+theme that offers stock icons features some minor tweaks with Spice 
+choosing a square icon look instead of the plain one that comes 
+with stock Android.Android 4.2 brings lock screen widgets that let
+ you launch apps like Clock, Camera, Gmail, Google Now, Messaging and 
+additional third-party apps straight from the lock screen.The 
+notification tray includes toggles for settings such as Wi-Fi, screen 
+brightness, auto-rotation, Bluetooth, GPS, data, screen timeouts and 
+profiles (for alerts, other notifications and settings). The Phone, 
+Contacts, Messaging and Web browser icons are placed on the home screen,
+ which can be customized using widgets and shortcuts.There are 
+five customizable home screens on which you can park widgets and 
+shortcuts and there are Google's basic apps in addition like Maps, Mail,
+ Chrome, Current and YouTube. Users can always access the Google Play 
+Store to download their favourite apps.The Spice Pinnacle FHD also 
+offers five colour accent themes that can change the look of the menu 
+lists and some other elements. There is a Gesture screen lock feature in
+ the device that allows users to create and enable their own lock screen
+ gestures.The device also features Google Now, an Android 4.1 and
+ above feature that is a voice-based information assistant and an 
+extension of Google search. It uses cards ,which are essentially small 
+boxes that offer different sets of information like weather forecast, 
+directions, traffic information, scores, appointments and currency 
+conversion etc.There is a plethora of pre-installed apps 
+including Facebook, M Tracker, News and Weather, TOI, Twitter, YouTube 
+and WhatsApp. Spice Cloud also comes preloaded on the device with a free
+ usage period for a few initial months.Spice Cloud, a server cloud based
+ mobile synchronization service, allows owners of Spice devices to 
+automatically and wirelessly store and secure the data present in their 
+phone and access the same data on multiple devices. It also offers 
+anti-theft features such as remote wipe, remote locking and SIM change 
+alerts, and helps in locating the device, if lost. In addition to these 
+features, it also allows users to retrieve their call logs.Performance/ Battery LifeThe
+ Spice Pinnacle FHD is powered by a 1.5GHz Mediatek MT6589 quad-core 
+processor.It has 1GB RAM on-board and PowerVR SGX 544MP GPU. There is 
+8GB of internal storage, which is expandable up to 32GB with the help of
+ a microSD card.The Android Jelly Bean OS works well, and the 
+overall experience of navigating through the interface was impressive. 
+We did not experience any lag while launching apps, playing games, 
+scrolling web pages or switching between apps. However, one major issue 
+that we faced while using the device was the backlight of the three 
+capacitive keys going-off after a point of time.The Pinnacle FHD 
+has no issues running hardware intensive games and also handled full-HD 
+videos smoothly. The phone natively supports popular formats like .AVI 
+and .MOV. The device also features a Pop-up Play option that is 
+quite helpful while multi-tasking.The speaker on the phone 
+delivers decent quality sound at high volume levels, but there's some 
+stifle when the phone lies on its back, as the speaker grill is located 
+on the back. The headphones that come with the phone offer below average 
+sound output. The phone also comes with SRS sound effects that enhanced 
+our music experience on the device.The phone also supports FM Radio and 
+the reception was good. It also offers Audio Profiles to quickly switch 
+between different sound settings.Call quality was good, during 
+our testing process. The Pinnacle FHD also includes automatic call 
+recording option, so users don't need any third-party apps.It is a 
+dual-SIM smartphone with 3G support on both SIM cards, a feature that we
+ miss on other devices in this segment.The Spice Pinnacle FHD 
+includes a 2100mAh battery and it lasted for a day with medium to heavy 
+usage, which includes making calls that lasted for around an hour, an 
+email account synced with push notifications, listening to some music 
+and playing a few videos, web browsing and regular chit-chats using 
+messages.The usage time also includes a bit of gaming, playing 
+a relatively high-paced game like Dead Trigger. It's worth noting that we 
+had turned off the Wi-Fi while using the device, brightness was at 
+maximum level and we were hooked onto 3G. However, altering these can 
+help in increasing the battery backup of the phone.VerdictThe
+ Spice Pinnacle FHD is a solid offering that delivers a full-HD display 
+and decent performance at a very competitive price. It is not without 
+its quirks, and a better camera would have definitely helped its case.At
+ its current price, it actually faces competition from the likes of the 
+Nokia Lumia 720 that is available at a price of around Rs.18,000. The 
+Lumia 720 offers Windows Phone 8 OS, Nokia's famed build quality and the
+ camera of the device is one of the best in its class.Micromax's 
+much-hyped Canvas 4 is also available in the same price segment and at a
+ price of Rs. 17,999 but it doesn't offer a full-HD display.Price: Rs. 16,990Spice Pinnacle FHD: In pictures
+
+
+
+Design/ Build	
+
+Our
+ immediate reaction after we took the Spice Pinnacle FHD Mi-525 out of 
+the box was that it looked familiar. Spice has opted for a minimalistic 
+design for the Pinnacle FHD, which has nothing unusual.The design of the
+ Spice Pinnacle FHD is simple, with no hardware keys on the front panel. 
+
+The
+ front of the phone is dominated by the 5-inch full-HD display with three
+ capacitive keys lined up below the screen for Settings, Home and Back. 
+However, the backlight doesn't illuminate even when the display is on 
+till one touches them, which we found a bit odd.
+
+The back panel 
+houses the camera along with the dual-LED flash and speaker grille 
+located at the bottom left.There's some Spice branding on the back of 
+the phone.
+
+The phablet comes with dimensions of 149.4x74.9x9.3mm 
+and weighs around 175 grams, which makes it a bit bulky. The phone comes 
+only in a White colour variant.
+
+There is a Micro-USB port at the 
+bottom while the 3.5mm audio headphone port is located at the top of the
+ device.The power key is located on the right side and the volume rocker
+ key sits on the left side of the Spice Pinnacle FHD. As with most 
+phablets, there is no dedicated camera. 
+
+The phone has a removable
+ back cover and opening it reveals the battery compartment with two SIM 
+card slots and a microSD card slot. The SIM cards and the microSD card 
+are not hot-swappable because they are placed adjacent to the battery.
+
+Overall,
+ we found the Spice Pinnacle FHD to be a reasonably good looking device, 
+although we wish it had been a bit lighter and sported a textured back. 
+The glossy back panel of the Pinnacle FHD tends to slip out of hand.
+
+Display
+
+The
+ Spice Pinnacle FHD comes with a 5-inch full-HD display that has a 
+resolution of 1080x1920 pixels and a pixel density of 480ppi, which is 
+pretty good, and graphics and text appear sharp. The viewing angles were
+ also good and under the sun visibility on the phone's screen was 
+decent. The screen is not very reflective. Videos and pictures looked 
+good as well.
+
+The screen renders text, images and icons sharply 
+and the size makes it optimum for watching videos. We played some of our
+ favourite videos on the Spice Pinnacle FHD and it didn't disappoint us,
+ thanks to the full-HD screen.We also found the touch response of the 
+screen to be good.
+
+Camera
+
+The 8-megapixel auto-focus camera 
+takes good quality images in daylight. However, we noticed that pictures
+ taken in low-light conditions did not come out well. Indoor images 
+clicked with Pinnacle FHD with less light showed noise on the edges and 
+were grainy.The colour reproduction was also not that great.
+
+The 
+dual-LED flash fulfills its intended purpose. The phone can record 
+full-HD videos but we found that the quality of videos captured through 
+the rear camera wasn't great. The 2-megapixel front-facing camera comes 
+in handy for self-portrait shots while the quality is nothing to rave 
+about.
+
+The camera is a bit of a disappointment, churning out 
+mediocre results, even though it comes equipped with a number of 
+shooting modes including Auto, HDR, Panorama, Portrait, Smile Shot, 
+Landscape and face-detection. The camera also allows you to adjust 
+sharpness, saturation, hue, ISO, and brightness settings.
+
+Software/ Interface
+
+Spice
+ Pinnacle FHD Mi-525 runs Android 4.2.1Jelly Bean. Spice has skinned 
+some UI elements of the operating system on the Pinnacle FHD and also 
+offers a second theme that gives a different icon set. Even the default 
+theme that offers stock icons features some minor tweaks with Spice 
+choosing a square icon look instead of the plain one that comes 
+with stock Android.
+
+Android 4.2 brings lock screen widgets that let
+ you launch apps like Clock, Camera, Gmail, Google Now, Messaging and 
+additional third-party apps straight from the lock screen.
+
+The 
+notification tray includes toggles for settings such as Wi-Fi, screen 
+brightness, auto-rotation, Bluetooth, GPS, data, screen timeouts and 
+profiles (for alerts, other notifications and settings). The Phone, 
+Contacts, Messaging and Web browser icons are placed on the home screen,
+ which can be customized using widgets and shortcuts.
+
+There are 
+five customizable home screens on which you can park widgets and 
+shortcuts and there are Google's basic apps in addition like Maps, Mail,
+ Chrome, Current and YouTube. Users can always access the Google Play 
+Store to download their favourite apps.
+
+The Spice Pinnacle FHD also 
+offers five colour accent themes that can change the look of the menu 
+lists and some other elements. There is a Gesture screen lock feature in
+ the device that allows users to create and enable their own lock screen
+ gestures.
+
+The device also features Google Now, an Android 4.1 and
+ above feature that is a voice-based information assistant and an 
+extension of Google search. It uses cards ,which are essentially small 
+boxes that offer different sets of information like weather forecast, 
+directions, traffic information, scores, appointments and currency 
+conversion etc.
+
+There is a plethora of pre-installed apps 
+including Facebook, M Tracker, News and Weather, TOI, Twitter, YouTube 
+and WhatsApp. Spice Cloud also comes preloaded on the device with a free
+ usage period for a few initial months.Spice Cloud, a server cloud based
+ mobile synchronization service, allows owners of Spice devices to 
+automatically and wirelessly store and secure the data present in their 
+phone and access the same data on multiple devices. It also offers 
+anti-theft features such as remote wipe, remote locking and SIM change 
+alerts, and helps in locating the device, if lost. In addition to these 
+features, it also allows users to retrieve their call logs.
+
+Performance/ Battery Life
+
+The
+ Spice Pinnacle FHD is powered by a 1.5GHz Mediatek MT6589 quad-core 
+processor.It has 1GB RAM on-board and PowerVR SGX 544MP GPU. There is 
+8GB of internal storage, which is expandable up to 32GB with the help of
+ a microSD card.
+
+The Android Jelly Bean OS works well, and the 
+overall experience of navigating through the interface was impressive. 
+We did not experience any lag while launching apps, playing games, 
+scrolling web pages or switching between apps. However, one major issue 
+that we faced while using the device was the backlight of the three 
+capacitive keys going-off after a point of time.
+
+The Pinnacle FHD 
+has no issues running hardware intensive games and also handled full-HD 
+videos smoothly. The phone natively supports popular formats like .AVI 
+and .MOV. The device also features a Pop-up Play option that is 
+quite helpful while multi-tasking.
+
+The speaker on the phone 
+delivers decent quality sound at high volume levels, but there's some 
+stifle when the phone lies on its back, as the speaker grill is located 
+on the back. The headphones that come with the phone offer below average 
+sound output. The phone also comes with SRS sound effects that enhanced 
+our music experience on the device.The phone also supports FM Radio and 
+the reception was good. It also offers Audio Profiles to quickly switch 
+between different sound settings.
+
+Call quality was good, during 
+our testing process. The Pinnacle FHD also includes automatic call 
+recording option, so users don't need any third-party apps.It is a 
+dual-SIM smartphone with 3G support on both SIM cards, a feature that we
+ miss on other devices in this segment.
+
+The Spice Pinnacle FHD 
+includes a 2100mAh battery and it lasted for a day with medium to heavy 
+usage, which includes making calls that lasted for around an hour, an 
+email account synced with push notifications, listening to some music 
+and playing a few videos, web browsing and regular chit-chats using 
+messages.The usage time also includes a bit of gaming, playing 
+a relatively high-paced game like Dead Trigger. It's worth noting that we 
+had turned off the Wi-Fi while using the device, brightness was at 
+maximum level and we were hooked onto 3G. However, altering these can 
+help in increasing the battery backup of the phone.
+
+Verdict
+
+The
+ Spice Pinnacle FHD is a solid offering that delivers a full-HD display 
+and decent performance at a very competitive price. It is not without 
+its quirks, and a better camera would have definitely helped its case.
+
+At
+ its current price, it actually faces competition from the likes of the 
+Nokia Lumia 720 that is available at a price of around Rs.18,000. The 
+Lumia 720 offers Windows Phone 8 OS, Nokia's famed build quality and the
+ camera of the device is one of the best in its class.
+
+Micromax's 
+much-hyped Canvas 4 is also available in the same price segment and at a
+ price of Rs. 17,999 but it doesn't offer a full-HD display.
+
+Price: Rs. 16,990
+

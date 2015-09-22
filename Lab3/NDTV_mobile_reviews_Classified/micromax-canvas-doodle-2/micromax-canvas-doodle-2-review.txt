@@ -1,0 +1,488 @@
+Micromax Canvas Doodle 2 review
+
+As the phablet wave continues to hit the Indian market, Micromax has 
+launched the Canvas Doodle 2, the successor to the Canvas Doodle. The 
+new Doodle smartphone-tablet hybrid from Micromax features an upgraded 
+5.7-inch HD display, a quad-core processor and a 12-megapixel rear 
+camera. At Rs. 19,990, Micromax's latest phablet has been priced 
+steeply and is now the costliest handset in Micromax's smartphone 
+portfolio, leaving behind company's flagship, the Canvas 4. But, does it
+ do enough to stand out in the premium phablet crowd? We take a closer 
+look in our review.Design/ BuildIt is impossible to talk 
+about the appearance of the Micromax Canvas Doodle 2 and not mention 
+the resemblance it bears to company's flagship, the Canvas 4. Micromax seems to be 
+following a consistent design strategy across the Canvas range - the 
+newly launched Micromax Canvas Doodle 2 looks and feels like a bigger 
+and heavier version of the Canvas 4. We got a Silver variant of the 
+Canvas Doodle 2 for the review.Compared to the Canvas 4 and 
+Canvas Doodle, the Doodle 2 is sturdier and more compact, despite being a
+ little heavy. However, it is a trifle too wide for single-hand 
+operation, and those blessed with smaller palms will find it tiring to 
+carry the device around.When you hold the Canvas Doodle 2 up to your ear
+ to make or receive calls, it was hard not to feel like you have been 
+sent back to those early days of cellular phones, when the devices used 
+to dwarf the complete face.The Doodle 2's build quality is good, 
+and it features curved edges that give a smooth look. The flagship 
+smartphone, Micromax Canvas 4 came with an aluminium frame on the sides,
+ but the Canvas Doodle 2 features an aluminium rear body.The back panel 
+of the device is divided in three segments by two white-coloured 
+bands.The top portion is made of plastic and is removable with access to
+ SIM slots. Removing this can be a little unnerving, for the fear one 
+might break it.The same portion also houses the 12-megapixel rear camera
+ on the top right side, and protrudes out a bit, surrounded by a chrome 
+ring and sitting alongside an LED flash.The camera placement looks good,
+ but could be counterproductive, as the phone rests on it when lying on a
+ surface,potentially scratching the lens protective screen.The 
+middle rear part of the Doodle 2is made of aluminium and is not 
+removable. It includes Micromax branding at the lower part while there 
+is an m! logo above. The bottom part is again a bit plasticky and houses
+ the speaker grill. The Canvas Doodle 2 is also the first phone from the
+ company that does not come with a user-removable battery.The build 
+quality of the phablet can be considered amongst the best in the price 
+segment.The 5.7-inch HD display takes up most of the space in the 
+front with a thin bezel on either side, and much like the other Canvas 
+smartphones the sensors (ambient light and proximity) are lined up on 
+top alongside the chrome earpiece and the 5-megapixel front-facing 
+camera.Beneath the display one can find the Settings, Home and Back 
+capacitive buttons,not relying on Jelly Bean's interface buttons. The
+ Micromax Canvas Doodle 2 features a power button on the right panel, 
+while the left has the volume rocker, the bottom comes with the 
+Micro-USB/charging port, and the top features the 3.5mm audio jack. 
+Micromax has supplied a stylus with the device, but there is no slot on 
+the phone to put it in and has to be carried separately, which is a bit 
+weird.Yes, the Micromax Canvas Doodle 2 follows a tried and 
+tested design rather than a radically new one, but the phone's solid 
+build quality and familiar form factor will still make an impression on 
+you.DisplayThe display of a smartphone is a critical 
+aspect one considers when making a purchase decision, and of late, 
+companies have launched smartphones like Spice Pinnacle FHD and Wicked Leak Wammy 
+Passion Z Plus with 
+full-HD displays under sub Rs. 20,000.However, the Micromax 
+Canvas Doodle 2 disappoints in this department as despite coming at a 
+price point of about Rs. 20,000, the device still features a HD display.
+ We at least expected the company to ship the device with a full-HD 
+display. For many this may not be noticeable, but when you hold it up 
+next to a full-HD display device, you can see the difference.The 
+Canvas Doodle 2 features a 5.7-inch IPS HD (720x1280 pixel) display with
+ pixel density of 258ppi. The display attracts lot of smudges, but 
+nothing that cannot be wiped away quickly.The display has decent viewing 
+angles and though colour reproduction is not the best, it gets the job 
+done.Since the phablet is equipped with IPS display, we found 
+that it was quite nice to read text on. Browsing the Web and prolonged 
+reading on the device was also a relatively comfortable experience, 
+thanks to the large display. The touch response of the Canvas Doodle 2 
+works smoothly.At full brightness under indoor conditions, the 
+device performs decently. Under direct sunlight, we found it hard to 
+read the Canvas Doodle 2's display even at full brightness, and we had 
+to use palms to cover the screen and attempt to see what's on it.CameraThe
+ Micromax Canvas Doodle 2 sports a 12-megapixel autofocus rear camera 
+which seems to have a different sensor from what we have seen on the Canvas 4 [Canvas 4 
+Review]. Outdoor shots in daylight are crisp with almost 
+accurate colours, although we did get some noise on the edges. Images 
+clicked in artificial light (without using the LED flash) are not very 
+impressive as background noise does tend to creep in. We would have liked
+ a hardware key for camera as one has to rely on the soft key on the 
+screen to click images.Software-wise, the Micromax Canvas Doodle 2
+ offers an array of camera options as seen already on the Micromax 
+Canvas 4. Users can choose from a host of camera settings like normal, 
+HDR, face beauty, smile detection, exposure compensation, panorama, and 
+photosphere (multi-angle view) modes. It also offers a burst mode, 
+letting users click 40 to 99 shots at once; users just need to 
+long-press the camera soft key on the display to take a burst shot.The
+ Canvas Doodle 2 is capable of full-HD video recording and the preloaded
+ camera app also has the option of adding filters to the clicked images 
+as well. The recorded-video quality is about average and relatively 
+smooth, however, with slightly washed out colours. The front-facing 
+5-megapixel camera is amongst the best in the price category, with 
+decent clarity and sharpness, however, suffers from the same minor flaw 
+as the rear camera, delivering slightly washed out colours.Software/ InterfaceThe
+ Micromax Canvas Doodle 2 runs Android 4.2.1 Jelly Bean, which is a very
+ recent version of the OS and comes with some skinned elements of the UI
+ like the app icons. The company claims that the phablet comes with the 
+FOTA (firmware over the air) feature, which allows users to wirelessly 
+download firmware updates directly to the device.Micromax's skin 
+on the Doodle 2 is not as radical as HTC's Sense UI or Samsung's 
+TouchWiz UI, but adds a few neat touches to the OS without intruding too
+ much on its essence. You get five customizable homescreens, and lots of
+ widgets and apps which classified in terms of those that came preloaded
+ with the device and those that can be downloaded.There are shortcuts 
+for Dialler, Contacts, Menu, Messages and native browser on the 
+homescreen. Similar to other Android 4.2 Jelly Bean based devices, the 
+notifications tray on Canvas Doodle 2 features a settings shortcut and a
+ clear all button. On expanding the notification's settings button one 
+can find options for quick access to airplane mode, battery status, 
+Wi-Fi, Bluetooth, GPS, data connectivity, data usage status, audio 
+profiles (for alerts and other notifications), brightness, display 
+timeout and auto rotation.The Canvas Doodle 2 comes with some 
+Android 4.2 Jelly Bean features like the lock-screen widgets. One can 
+choose from Calendar, Digital Clock, Gmail, Google Now, Google+ posts 
+and Messaging along with any third-party app downloaded on the phablet. 
+The widget offers details from the apps and help in performing certain 
+actions even without unlocking the phablet. Users can also launch the 
+camera direct from the lock screen by pressing the power button and then
+ swiping screen on the right. Micromax has also preloaded a new 
+lock screen feature dubbed the M! Unlock something that we saw in the 
+Canvas 4. The feature allows the phablet to be unlocked with a blow of 
+air or even by shaking the device. However, unlocking the device when 
+using M! Unlock is not at all easy initially and we had to struggle a bit
+ before we got it right.The Micromax Canvas Doodle 2 is no slouch
+ in the app department. A number of apps come preloaded on the device 
+including the likes of Foneclay that helps in customizing the phablet 
+the way user likes, Game Hub gives access to games, Spuul can stream 
+movies and television shows. For creating and editing MS Office files, 
+there is Kingsoft office suit. Also on board is M!Live that gives access
+ to download music, videos, games and apps from M! Live store.The
+ company has also preloaded the M! Security which is powered by NQ 
+Mobile for warding off virus and malware attacks. However, this feature 
+is not completely free and users will have to pay for all the features. 
+Other apps preloaded include Hike, Opera Mini, Evernote and Skitch.The
+ device also features gesture support like upside silent, upside 
+speaker, ability to receive calls automatically by bringing the device 
+near the ear via proximity answer phone.The native Music player 
+and the Video player are the same as seen in Canvas 4. The Music player 
+UI is a complete revamp with access to company's online music store. The
+ Video player comes with the 'Pause on Look away' feature that detects 
+when you are looking at the screen and stops the video when it does not 
+detect user's face.Sounds very much similar to Samsung's Smart Stay that
+ does not turn off the screen if it detects you are looking at the 
+device.Micromax seems to have changed gears when it comes to 
+voice assistance apps, there was a time when the company preloaded its 
+own AISHA on its smartphones, even the budget ones. However, the 
+proprietary voice assistant app seems to have been replaced by Google 
+Now that now comes with the Jelly Bean OS.The Micromax Canvas 
+Doodle 2 comes with a drawing app that one can use along with the 
+stylus. The M! Doodle app comes with a fair amount of options to take 
+care of basic drawing or note taking needs but is not quite as extensive
+ as the app seen on Samsung's Galaxy Note series.Performance/ Battery LifeThe
+ Micromax Canvas Doodle 2 is powered by a 1.2GHz MediaTek 6589 quad-core
+ processor. It has 1GB of RAM onboard, and PowerVR SGX544 for graphics 
+processing. There is 16GB of inbuilt storage, out of which only 12GB is 
+user-accessible and sadly does not support expandable storage.Considering
+ there is a fairly respectable quad-core processor running under the 
+hood, the Micromax Canvas Doodle 2 manages to chug along just fine. In 
+day to day activities the phone feels smooth enough and you are not 
+really left wanting for more power. However, things get a bit choppy 
+when playing heavy graphic games like Shadow Gun, Dead Trigger and it did 
+lag occasionally while we played Temple Run 2 on the device. It is 
+unclear why this was happening as the device ships with the same 
+quad-core processor we saw in the Canvas 4 which managed to play the 
+same games fine.On the sound front, the Canvas Doodle 2 comes 
+with a revamped music player with an easy to use interface and the sound 
+experience is decent both on supplied headphones and on speakers.The
+ 5.7-inch HD display is good for viewing movies and videos.The device 
+was able to play full-HD videos and supported popular video formats like
+ .AVI, .MOV and .MP4. The device also managed to play the .MKV video 
+with audio, a format that was not full-supportive on the Canvas 4. 
+Surprisingly, the native video player crashed every time when we tried 
+to play any video on it. However, this was fixed by downloading a third 
+party video player from the Play store.Call quality on the device
+ was good. The Canvas Doodle 2 is a dual-SIM phone (GSM+GSM) with 
+support for 3G network. However, you use 3G on one SIM at a time and 
+other would support2G networks.The Micromax Canvas Doodle 2 ships
+ with a 2600mAh battery that according to the company can deliver up to 
+220 hours of standby and up to 8 hours of talktime. However, based on 
+our user-experience the phablet delivers satisfying battery performance.
+ We were able to get more than a day with normal usage that includes 
+Wi-Fi turned on for all time,Web browsing, a few calls lasting for about 
+an hour, display set on auto-brightness and with the usual notifications
+ for messages, emails, Facebook, and WhatsApp. Though with heavy usage 
+of the device, that includes full screen brightness level, calls lasting
+ for about two hours,3G turned on all time, watching videos for around 
+two hours through YouTube and also on the device, three to four hours of
+ gaming,and with usual notifications for messages, emails, Facebook, 
+Twitter and WhatsApp, the device lasted for about 10-12 hours which was 
+impressive. However, adjusting these settings can help in increasing the
+ durability of the phone for longer period.VerdictWhile we
+ liked the solid form of the Micromax Canvas Doodle 2, we must admit 
+that we found it a little heavy as well. That said, it performed well 
+with its responsive touchscreen, HD display, average camera performance 
+and packaged apps. Battery life was decent when comparing it with some 
+counterparts in the same price segment. Overall, the Canvas Doodle 2 is 
+good performer, although the price is a bit on higher side. A few 
+thousand rupees lesser and it would have been tough to beat. Those 
+looking for alternatives can go for the Spice Pinnacle FHD featuring a full-HD 
+display and comes for Rs. 16,990. But if you can shell out more and want
+ an even bigger display, then can consider the Samsung Galaxy Mega 5.8 which comes at a 
+higher price than the Canvas Doodle 2.Micromax Canvas Doodle 2 in picturesPrice: Rs. 19,990
+
+At Rs. 19,990, Micromax's latest phablet has been priced 
+steeply and is now the costliest handset in Micromax's smartphone 
+portfolio, leaving behind company's flagship, the Canvas 4. But, does it
+ do enough to stand out in the premium phablet crowd? We take a closer 
+look in our review.
+
+Design/ Build
+
+It is impossible to talk 
+about the appearance of the Micromax Canvas Doodle 2 and not mention 
+the resemblance it bears to company's flagship, the Canvas 4. Micromax seems to be 
+following a consistent design strategy across the Canvas range - the 
+newly launched Micromax Canvas Doodle 2 looks and feels like a bigger 
+and heavier version of the Canvas 4. We got a Silver variant of the 
+Canvas Doodle 2 for the review.
+
+Compared to the Canvas 4 and 
+Canvas Doodle, the Doodle 2 is sturdier and more compact, despite being a
+ little heavy. However, it is a trifle too wide for single-hand 
+operation, and those blessed with smaller palms will find it tiring to 
+carry the device around.When you hold the Canvas Doodle 2 up to your ear
+ to make or receive calls, it was hard not to feel like you have been 
+sent back to those early days of cellular phones, when the devices used 
+to dwarf the complete face.
+
+The Doodle 2's build quality is good, 
+and it features curved edges that give a smooth look. The flagship 
+smartphone, Micromax Canvas 4 came with an aluminium frame on the sides,
+ but the Canvas Doodle 2 features an aluminium rear body.The back panel 
+of the device is divided in three segments by two white-coloured 
+bands.The top portion is made of plastic and is removable with access to
+ SIM slots. Removing this can be a little unnerving, for the fear one 
+might break it.The same portion also houses the 12-megapixel rear camera
+ on the top right side, and protrudes out a bit, surrounded by a chrome 
+ring and sitting alongside an LED flash.The camera placement looks good,
+ but could be counterproductive, as the phone rests on it when lying on a
+ surface,potentially scratching the lens protective screen.
+
+The 
+middle rear part of the Doodle 2is made of aluminium and is not 
+removable. It includes Micromax branding at the lower part while there 
+is an m! logo above. The bottom part is again a bit plasticky and houses
+ the speaker grill. The Canvas Doodle 2 is also the first phone from the
+ company that does not come with a user-removable battery.The build 
+quality of the phablet can be considered amongst the best in the price 
+segment.
+
+The 5.7-inch HD display takes up most of the space in the 
+front with a thin bezel on either side, and much like the other Canvas 
+smartphones the sensors (ambient light and proximity) are lined up on 
+top alongside the chrome earpiece and the 5-megapixel front-facing 
+camera.Beneath the display one can find the Settings, Home and Back 
+capacitive buttons,not relying on Jelly Bean's interface buttons. 
+
+The
+ Micromax Canvas Doodle 2 features a power button on the right panel, 
+while the left has the volume rocker, the bottom comes with the 
+Micro-USB/charging port, and the top features the 3.5mm audio jack. 
+Micromax has supplied a stylus with the device, but there is no slot on 
+the phone to put it in and has to be carried separately, which is a bit 
+weird.
+
+Yes, the Micromax Canvas Doodle 2 follows a tried and 
+tested design rather than a radically new one, but the phone's solid 
+build quality and familiar form factor will still make an impression on 
+you.
+
+Display
+
+The display of a smartphone is a critical 
+aspect one considers when making a purchase decision, and of late, 
+companies have launched smartphones like Spice Pinnacle FHD and Wicked Leak Wammy 
+Passion Z Plus with 
+full-HD displays under sub Rs. 20,000.
+
+However, the Micromax 
+Canvas Doodle 2 disappoints in this department as despite coming at a 
+price point of about Rs. 20,000, the device still features a HD display.
+ We at least expected the company to ship the device with a full-HD 
+display. For many this may not be noticeable, but when you hold it up 
+next to a full-HD display device, you can see the difference.
+
+The 
+Canvas Doodle 2 features a 5.7-inch IPS HD (720x1280 pixel) display with
+ pixel density of 258ppi. The display attracts lot of smudges, but 
+nothing that cannot be wiped away quickly.The display has decent viewing 
+angles and though colour reproduction is not the best, it gets the job 
+done.
+
+Since the phablet is equipped with IPS display, we found 
+that it was quite nice to read text on. Browsing the Web and prolonged 
+reading on the device was also a relatively comfortable experience, 
+thanks to the large display. The touch response of the Canvas Doodle 2 
+works smoothly.
+
+At full brightness under indoor conditions, the 
+device performs decently. Under direct sunlight, we found it hard to 
+read the Canvas Doodle 2's display even at full brightness, and we had 
+to use palms to cover the screen and attempt to see what's on it.
+
+Camera
+
+The
+ Micromax Canvas Doodle 2 sports a 12-megapixel autofocus rear camera 
+which seems to have a different sensor from what we have seen on the Canvas 4 [Canvas 4 
+Review]. Outdoor shots in daylight are crisp with almost 
+accurate colours, although we did get some noise on the edges. Images 
+clicked in artificial light (without using the LED flash) are not very 
+impressive as background noise does tend to creep in. We would have liked
+ a hardware key for camera as one has to rely on the soft key on the 
+screen to click images.
+
+Software-wise, the Micromax Canvas Doodle 2
+ offers an array of camera options as seen already on the Micromax 
+Canvas 4. Users can choose from a host of camera settings like normal, 
+HDR, face beauty, smile detection, exposure compensation, panorama, and 
+photosphere (multi-angle view) modes. It also offers a burst mode, 
+letting users click 40 to 99 shots at once; users just need to 
+long-press the camera soft key on the display to take a burst shot.
+
+The
+ Canvas Doodle 2 is capable of full-HD video recording and the preloaded
+ camera app also has the option of adding filters to the clicked images 
+as well. The recorded-video quality is about average and relatively 
+smooth, however, with slightly washed out colours. 
+
+The front-facing 
+5-megapixel camera is amongst the best in the price category, with 
+decent clarity and sharpness, however, suffers from the same minor flaw 
+as the rear camera, delivering slightly washed out colours.
+
+Software/ Interface
+
+The
+ Micromax Canvas Doodle 2 runs Android 4.2.1 Jelly Bean, which is a very
+ recent version of the OS and comes with some skinned elements of the UI
+ like the app icons. The company claims that the phablet comes with the 
+FOTA (firmware over the air) feature, which allows users to wirelessly 
+download firmware updates directly to the device.
+
+Micromax's skin 
+on the Doodle 2 is not as radical as HTC's Sense UI or Samsung's 
+TouchWiz UI, but adds a few neat touches to the OS without intruding too
+ much on its essence. You get five customizable homescreens, and lots of
+ widgets and apps which classified in terms of those that came preloaded
+ with the device and those that can be downloaded.There are shortcuts 
+for Dialler, Contacts, Menu, Messages and native browser on the 
+homescreen. Similar to other Android 4.2 Jelly Bean based devices, the 
+notifications tray on Canvas Doodle 2 features a settings shortcut and a
+ clear all button. On expanding the notification's settings button one 
+can find options for quick access to airplane mode, battery status, 
+Wi-Fi, Bluetooth, GPS, data connectivity, data usage status, audio 
+profiles (for alerts and other notifications), brightness, display 
+timeout and auto rotation.
+
+The Canvas Doodle 2 comes with some 
+Android 4.2 Jelly Bean features like the lock-screen widgets. One can 
+choose from Calendar, Digital Clock, Gmail, Google Now, Google+ posts 
+and Messaging along with any third-party app downloaded on the phablet. 
+The widget offers details from the apps and help in performing certain 
+actions even without unlocking the phablet. Users can also launch the 
+camera direct from the lock screen by pressing the power button and then
+ swiping screen on the right. 
+
+Micromax has also preloaded a new 
+lock screen feature dubbed the M! Unlock something that we saw in the 
+Canvas 4. The feature allows the phablet to be unlocked with a blow of 
+air or even by shaking the device. However, unlocking the device when 
+using M! Unlock is not at all easy initially and we had to struggle a bit
+ before we got it right.
+
+The Micromax Canvas Doodle 2 is no slouch
+ in the app department. A number of apps come preloaded on the device 
+including the likes of Foneclay that helps in customizing the phablet 
+the way user likes, Game Hub gives access to games, Spuul can stream 
+movies and television shows. For creating and editing MS Office files, 
+there is Kingsoft office suit. Also on board is M!Live that gives access
+ to download music, videos, games and apps from M! Live store.
+
+The
+ company has also preloaded the M! Security which is powered by NQ 
+Mobile for warding off virus and malware attacks. However, this feature 
+is not completely free and users will have to pay for all the features. 
+Other apps preloaded include Hike, Opera Mini, Evernote and Skitch.
+
+The
+ device also features gesture support like upside silent, upside 
+speaker, ability to receive calls automatically by bringing the device 
+near the ear via proximity answer phone.
+
+The native Music player 
+and the Video player are the same as seen in Canvas 4. The Music player 
+UI is a complete revamp with access to company's online music store. The
+ Video player comes with the 'Pause on Look away' feature that detects 
+when you are looking at the screen and stops the video when it does not 
+detect user's face.Sounds very much similar to Samsung's Smart Stay that
+ does not turn off the screen if it detects you are looking at the 
+device.
+
+Micromax seems to have changed gears when it comes to 
+voice assistance apps, there was a time when the company preloaded its 
+own AISHA on its smartphones, even the budget ones. However, the 
+proprietary voice assistant app seems to have been replaced by Google 
+Now that now comes with the Jelly Bean OS.
+
+The Micromax Canvas 
+Doodle 2 comes with a drawing app that one can use along with the 
+stylus. The M! Doodle app comes with a fair amount of options to take 
+care of basic drawing or note taking needs but is not quite as extensive
+ as the app seen on Samsung's Galaxy Note series.
+
+Performance/ Battery Life
+
+The
+ Micromax Canvas Doodle 2 is powered by a 1.2GHz MediaTek 6589 quad-core
+ processor. It has 1GB of RAM onboard, and PowerVR SGX544 for graphics 
+processing. There is 16GB of inbuilt storage, out of which only 12GB is 
+user-accessible and sadly does not support expandable storage.
+
+Considering
+ there is a fairly respectable quad-core processor running under the 
+hood, the Micromax Canvas Doodle 2 manages to chug along just fine. In 
+day to day activities the phone feels smooth enough and you are not 
+really left wanting for more power. However, things get a bit choppy 
+when playing heavy graphic games like Shadow Gun, Dead Trigger and it did 
+lag occasionally while we played Temple Run 2 on the device. It is 
+unclear why this was happening as the device ships with the same 
+quad-core processor we saw in the Canvas 4 which managed to play the 
+same games fine.
+
+On the sound front, the Canvas Doodle 2 comes 
+with a revamped music player with an easy to use interface and the sound 
+experience is decent both on supplied headphones and on speakers.
+
+The
+ 5.7-inch HD display is good for viewing movies and videos.The device 
+was able to play full-HD videos and supported popular video formats like
+ .AVI, .MOV and .MP4. The device also managed to play the .MKV video 
+with audio, a format that was not full-supportive on the Canvas 4. 
+Surprisingly, the native video player crashed every time when we tried 
+to play any video on it. However, this was fixed by downloading a third 
+party video player from the Play store.
+
+Call quality on the device
+ was good. The Canvas Doodle 2 is a dual-SIM phone (GSM+GSM) with 
+support for 3G network. However, you use 3G on one SIM at a time and 
+other would support2G networks.
+
+The Micromax Canvas Doodle 2 ships
+ with a 2600mAh battery that according to the company can deliver up to 
+220 hours of standby and up to 8 hours of talktime. However, based on 
+our user-experience the phablet delivers satisfying battery performance.
+ We were able to get more than a day with normal usage that includes 
+Wi-Fi turned on for all time,Web browsing, a few calls lasting for about 
+an hour, display set on auto-brightness and with the usual notifications
+ for messages, emails, Facebook, and WhatsApp. Though with heavy usage 
+of the device, that includes full screen brightness level, calls lasting
+ for about two hours,3G turned on all time, watching videos for around 
+two hours through YouTube and also on the device, three to four hours of
+ gaming,and with usual notifications for messages, emails, Facebook, 
+Twitter and WhatsApp, the device lasted for about 10-12 hours which was 
+impressive. However, adjusting these settings can help in increasing the
+ durability of the phone for longer period.
+
+Verdict
+
+While we
+ liked the solid form of the Micromax Canvas Doodle 2, we must admit 
+that we found it a little heavy as well. That said, it performed well 
+with its responsive touchscreen, HD display, average camera performance 
+and packaged apps. Battery life was decent when comparing it with some 
+counterparts in the same price segment. Overall, the Canvas Doodle 2 is 
+good performer, although the price is a bit on higher side. A few 
+thousand rupees lesser and it would have been tough to beat. Those 
+looking for alternatives can go for the Spice Pinnacle FHD featuring a full-HD 
+display and comes for Rs. 16,990. But if you can shell out more and want
+ an even bigger display, then can consider the Samsung Galaxy Mega 5.8 which comes at a 
+higher price than the Canvas Doodle 2.
+
+Price: Rs. 19,990
+

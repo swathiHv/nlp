@@ -1,0 +1,207 @@
+Amazon Fire Phone: First Impressions
+
+Amazon set out to do something different with the unveiling of 
+its first smartphone Wednesday. How about a completely new way of 
+interacting with your phone, for starters?As part of the showcase
+ of its brand new "Fire Phone," Amazon.com Inc. took the wraps off a 
+feature it calls "dynamic perspective." Turns out, it's more than just a
+ gimmick that allows you to see in 3-D.The feature makes use of 
+four infrared cameras pointed at your face that help judge whether 
+you're looking at the screen straight-on, at an angle and how close you 
+are to the screen. The phone can then adjust the image accordingly. That
+ gives you the ability to see depth in images, to see around objects in 
+the foreground, to zoom in for a better look, and to toggle through 
+websites, books and menus and even to play games by tilting the phone 
+back and forth and up and down while you look at it.Another 
+feature called "Firefly" brings what's known as augmented reality to 
+life in a new way, by turning your phone into a powerful tool that 
+recognizes book covers, CDs, DVDs, songs, movies, grocery items, phone 
+numbers and websites and pulls them into the phone so you can take 
+action.For Amazon, the major benefit of this is that it takes 
+price comparison shopping to a new level, because any item you see while
+ walking down the aisle of a Wal-mart or Target can get an instant price 
+check. Amazon says the phone can recognize more than a hundred million 
+items. And if you link your credit card information to the service, you 
+can make a purchase with a couple taps.But more than that, by 
+releasing these tools to developers, Amazon has made what could be a 
+major contribution to what a smartphone can do.With about a half hour to try out these features and have them explained in depth, I was both impressed and saw some flaws.The
+ 3-D effect is quite stunning. Just imagine looking down a long hallway 
+and putting your ear against each wall one after the other. Your 
+perspective changes and straight lines will seem to disappear to a 
+different point. To demonstrate the effect on the phone, Amazon made 
+available a bunch of lock-screen images, like the cartoon ruins of a 
+pyramid, some hot-air balloons and a jungle setting. Swiveling the phone
+ around makes it seem like the images had a depth of an inch or two, 
+allowing you to look around and beyond objects in the foreground.It's
+ a neat party trick but the tool has other uses. Amazon demonstrated an 
+early version of how the feature is used in an app by the real estate 
+website Zillow, for example. After zooming in on an interior photo, the 
+app then allows you to change your perspective of what you're looking at
+ inside the room. Sure, it was a bit grainy, and the image wasn't 
+rendered in 3-D, but it showed the promise of what's possible.Games
+ also made use of the tool. One game allowed you to control whether the 
+figure flew up or down based on essentially nodding your head or making 
+the phone lie flat or upright. Another game, called Tofu Fury, allows 
+you to get a 3-D perspective on the game level. It still essentially 
+plays like Angry Birds, but it did something I've never seen before in a
+ game.One other neat thing: it does all this in relation to your 
+face. So you could do this lying in bed or hanging upside down. I tried 
+it out, taking a deep bow. The aforementioned game flew just the same 
+depending on where the phone was to my face.Where the feature 
+needs work, I felt, was in its ability to control menus and scroll 
+through text. Quick side swivels brought up hidden menus on certain 
+screens. Like on the music screen, a quick swivel to the left brought up
+ a panel from the right side that showed song lyrics. A quick swivel 
+while in the second-screen TV watching app, X-Ray, toggled between 
+character photos when they were in costume and in street clothes. In the
+ maps app, a quick swivel brought up local Yelp listings for 
+restaurants. When on a website, tilting the phone away from you makes 
+the words scroll up. Tilt it more, and they move even faster.In a
+ way, these operational functions made me feel uneasy because I don't 
+want to necessarily keep my head still while using my phone all the 
+time, or set off unintended actions. And these things were definitely 
+possible. While looking at a product image on the Amazon store app of a 
+bottled product that was identified using Firefly, the image erratically
+ jumped between big and small. I just wanted it to stop.This 
+phone has other features, and basically it's very nicely built. It has a
+ solid heft in the hand while not being heavy at all. The buttons, which
+ can activate the camera or Firefly from a cold start, are minimalist 
+and comfortable. The 4.7-inch screen with a 16:9 aspect ratio is just 
+right for holding and controlling with one hand. There are speakers on 
+top and bottom for stereo sound when holding the phone sideways.And
+ it is packed with many of the features that Kindle Fire tablet users 
+are familiar with, such as its Mayday live-help function. It is a tool 
+for reaping all of the benefits of a $99-a-year Amazon Prime membership,
+ from video watching to music listening to book reading. And you get one
+ year of Prime for free.Yet it's the dynamic perspective feature 
+that, in my view, changes smartphones forever. It's one that others may 
+try to copy, and I think it opens up a world of possibilities for app 
+developers.Before the event, Amazon CEO Jeff Bezos sent all 
+attendees a copy of his favorite children's book, "Mr. Pine's Purple 
+House." The moral of the story is that it's good to be different 
+sometimes.In an interview with The Associated Press after the 
+event, Bezos responded to several questions surrounding Amazon's late 
+entry into smartphones and the dominance of existing players like Apple 
+and Samsung. Bezos rebutted: "Taken to its logical extension, you could 
+never have new entrants in anything," and laughed with his signature 
+guffaw.This is a purple house and inside there are 3-D images in 
+floating picture frames of tofu sculptures suspended by hot-air 
+balloons. Many people will want to live there and it's absolutely worth 
+taking a tour. 
+
+As part of the showcase
+ of its brand new "Fire Phone," Amazon.com Inc. took the wraps off a 
+feature it calls "dynamic perspective." Turns out, it's more than just a
+ gimmick that allows you to see in 3-D.
+
+The feature makes use of 
+four infrared cameras pointed at your face that help judge whether 
+you're looking at the screen straight-on, at an angle and how close you 
+are to the screen. The phone can then adjust the image accordingly. That
+ gives you the ability to see depth in images, to see around objects in 
+the foreground, to zoom in for a better look, and to toggle through 
+websites, books and menus and even to play games by tilting the phone 
+back and forth and up and down while you look at it.
+
+Another 
+feature called "Firefly" brings what's known as augmented reality to 
+life in a new way, by turning your phone into a powerful tool that 
+recognizes book covers, CDs, DVDs, songs, movies, grocery items, phone 
+numbers and websites and pulls them into the phone so you can take 
+action.
+
+For Amazon, the major benefit of this is that it takes 
+price comparison shopping to a new level, because any item you see while
+ walking down the aisle of a Wal-mart or Target can get an instant price 
+check. Amazon says the phone can recognize more than a hundred million 
+items. And if you link your credit card information to the service, you 
+can make a purchase with a couple taps.
+
+But more than that, by 
+releasing these tools to developers, Amazon has made what could be a 
+major contribution to what a smartphone can do.
+
+With about a half hour to try out these features and have them explained in depth, I was both impressed and saw some flaws.
+
+The
+ 3-D effect is quite stunning. Just imagine looking down a long hallway 
+and putting your ear against each wall one after the other. Your 
+perspective changes and straight lines will seem to disappear to a 
+different point. To demonstrate the effect on the phone, Amazon made 
+available a bunch of lock-screen images, like the cartoon ruins of a 
+pyramid, some hot-air balloons and a jungle setting. Swiveling the phone
+ around makes it seem like the images had a depth of an inch or two, 
+allowing you to look around and beyond objects in the foreground.
+
+It's
+ a neat party trick but the tool has other uses. Amazon demonstrated an 
+early version of how the feature is used in an app by the real estate 
+website Zillow, for example. After zooming in on an interior photo, the 
+app then allows you to change your perspective of what you're looking at
+ inside the room. Sure, it was a bit grainy, and the image wasn't 
+rendered in 3-D, but it showed the promise of what's possible.
+
+Games
+ also made use of the tool. One game allowed you to control whether the 
+figure flew up or down based on essentially nodding your head or making 
+the phone lie flat or upright. Another game, called Tofu Fury, allows 
+you to get a 3-D perspective on the game level. It still essentially 
+plays like Angry Birds, but it did something I've never seen before in a
+ game.
+
+One other neat thing: it does all this in relation to your 
+face. So you could do this lying in bed or hanging upside down. I tried 
+it out, taking a deep bow. The aforementioned game flew just the same 
+depending on where the phone was to my face.
+
+Where the feature 
+needs work, I felt, was in its ability to control menus and scroll 
+through text. Quick side swivels brought up hidden menus on certain 
+screens. Like on the music screen, a quick swivel to the left brought up
+ a panel from the right side that showed song lyrics. A quick swivel 
+while in the second-screen TV watching app, X-Ray, toggled between 
+character photos when they were in costume and in street clothes. In the
+ maps app, a quick swivel brought up local Yelp listings for 
+restaurants. When on a website, tilting the phone away from you makes 
+the words scroll up. Tilt it more, and they move even faster.
+
+In a
+ way, these operational functions made me feel uneasy because I don't 
+want to necessarily keep my head still while using my phone all the 
+time, or set off unintended actions. And these things were definitely 
+possible. While looking at a product image on the Amazon store app of a 
+bottled product that was identified using Firefly, the image erratically
+ jumped between big and small. I just wanted it to stop.
+
+This 
+phone has other features, and basically it's very nicely built. It has a
+ solid heft in the hand while not being heavy at all. The buttons, which
+ can activate the camera or Firefly from a cold start, are minimalist 
+and comfortable. The 4.7-inch screen with a 16:9 aspect ratio is just 
+right for holding and controlling with one hand. There are speakers on 
+top and bottom for stereo sound when holding the phone sideways.
+
+And
+ it is packed with many of the features that Kindle Fire tablet users 
+are familiar with, such as its Mayday live-help function. It is a tool 
+for reaping all of the benefits of a $99-a-year Amazon Prime membership,
+ from video watching to music listening to book reading. And you get one
+ year of Prime for free.
+
+Yet it's the dynamic perspective feature 
+that, in my view, changes smartphones forever. It's one that others may 
+try to copy, and I think it opens up a world of possibilities for app 
+developers.
+
+Before the event, Amazon CEO Jeff Bezos sent all 
+attendees a copy of his favorite children's book, "Mr. Pine's Purple 
+House." The moral of the story is that it's good to be different 
+sometimes.
+
+In an interview with The Associated Press after the 
+event, Bezos responded to several questions surrounding Amazon's late 
+entry into smartphones and the dominance of existing players like Apple 
+and Samsung. Bezos rebutted: "Taken to its logical extension, you could 
+never have new entrants in anything," and laughed with his signature 
+guffaw.
+

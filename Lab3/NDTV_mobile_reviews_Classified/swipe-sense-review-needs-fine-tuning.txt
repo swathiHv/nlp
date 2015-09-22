@@ -1,0 +1,190 @@
+Swipe Sense Review: Needs Fine-Tuning
+
+Swipe sells tablets and smartphones which each have
+ one USP that makes marketing them really easy. For example, 
+Swipe was the first company in India to introduce a 3D tablet and a 
+dual-SIM 3G tablet. Now, the company has introduced a phablet that costs just a shade under Rs.10,000 with a fingerprint scanner on the rear. Barring the Xolo Q2100 (Review | Pictures), we've
+ seen this feature only on high-end/flagship smartphones. In that sense,
+ Swipe is betting on its belief that a fingerprint scanner will be attractive for users on a budget. However, this involves some tricky hardware-software integration which is 
+difficult to get right - evident from the fact that no one other than Apple has done this well. 
+Let's see if the Swipe Sense can prove us wrong. Look and feelClad
+ in a black, soft plastic outer shell, the Swipe Sense has a pleasing 
+design and feels good to hold. Unlike its price 
+tag, the phablet (which Swipe insists on calling a 'Fablet') doesn't feel cheap. The bezels around the
+ 5.5-inch screen are thick. The 155mm width of the phablet makes it unsuitable for single-handed operation, but it is not as unwieldy as other 
+6-inch behemoths we've used in the past. Moreover, the weight of 155g is
+ distributed evenly across the device so it doesn't 
+feel like it'll topple. It is also relatively slim at 7.8mm.The 
+large 5.5-inch screen takes up most of the real estate on the front of 
+the device. Above it are the front camera, ambient light 
+sensor, earpiece and notification LED. Three capacitive buttons
+with red labels sit below the display. There is no backlighting on these 
+buttons. The power/wake button and the volume rocker are lined up along 
+the left and the right edges respectively. To add a slight edge to the 
+design, Swipe has used a dotted pattern on the top and bottom edges. 
+The microphone for calls is on the bottom whereas the top has the
+ Micro-USB port and 3.5mm audio jack. The rear cover feels flimsy and bends easily. Removing it reveals a battery compartment, a Micro-SIM card slot, a full-sized SIM slot and a microSD slot all stacked together. Specifications, software and cameraThe phablet has a quad-core Mediatek MT6582 processor 
+clocked at 1.3GHz with an integrated Mali-400MP GPU. There is 1GB of RAM and 8GB of 
+internal storage space, which can be expanded by 32GB using a 
+microSD card. What's even better is that there is USB OTG support as well. Of the two SIM cards, only one can connect to a 3G network. With 
+respect to the other connectivity features, the Swipe Sense also supports 
+Wi-Fi a/b/g/n and Bluetooth 4.0. There is an 8-megapixel
+ primary shooter accompanied by an LED flash, and a 3.2-megapixel secondary 
+camera for selfies. Swipe provides two batteries of 2250mAh capacity 
+inside the box, which is great idea.The 5.5-inch screen
+ has a resolution of 540x960, which translates to a density of only around 200ppi. This is really low for such a 
+large screen, and we could see pixellation in icons and text. Also, 
+for some reason, icons on the home screen looked slightly elongated. 
+The viewing angles are below average but sunlight legibility is not 
+too bad.The phone runs stock Android 4.4.2 KitKat, though Swipe adds a few extra features in the form of the fingerprint 
+scanner and gesture-based commands that work even when the screen is off. The 
+fingerprint scanner options are available in the Settings app. One can define up to three fingerprints but the positioning of the sensor means it's more difficult to enroll some fingers than others. Once set up, 
+colleagues sitting next to us could see us struggling as 
+we tried valiantly to get the scanner to recognise our fingerprints. It 
+was an exercise in frustration. Eventually, we gave up and reverted to 
+the more convenient pattern lock. Off Screen gestures allows 
+users to define gestures which can open specific apps. Even this 
+doesn't work as advertised, and we preferred to keep it switched off. Swipe does preload a few interesting and useful apps in the form of
+ Automatic Call Recorder, Battery Doctor, MX Player, SuperBeam, Life360 
+and Where's My Droid; all of which are pretty useful.(Click for full size)The 
+8-megapixel camera is a huge disappointment. Focusing was slow and we 
+constantly faced the problem of images coming out soft-focussed. Images were grainy even in broad daylight, and highlights were blown out. The colours were completely off-balance too. 
+Even the HDR mode couldn't salvage the situation. Forget shooting in 
+low-light conditions since the photos are unusable. The camera can 
+capture 1080p videos but it just could not lock focus and clips ended up 
+looking blurred every time. The 3.2-megapixel front camera 
+performs better than the primary camera and can capture some decent 
+selfies provided there is enough light. PerformanceWhile 
+using the Swipe Sense on a regular basis, we noticed that it was pretty 
+sluggish and didn't register our touch input on multiple occasions. Sometimes
+ it would also register a swipe as a tap and open an app instead of scrolling. On the other hand, casual gaming was mostly a breeze, owing to the low 
+resolution screen,  but visuals 
+weren't as crisp as we've seen on other devices. In our 
+Quadrant benchmark test the Swipe Sense managed to score a paltry 7,253 points,
+ and for some reason, despite multiple attempts, AnTuTu failed to 
+complete its cycle of tests. The phone 
+managed to score 9.3fps and 3214 in GFXbench and 3DMark Ice Storm respectively. The Sense managed 
+to play all our test videos without skipping frames or stuttering. The 
+loudspeaker is not too loud and sounds tinny too. The bundled 
+earphones are rather uncomfortable and sound terrible too. In our
+ battery test the phone managed to last 6 hours and 43 minutes, which
+ is decent, but keep in mind that Swipe provides an extra battery. If you're willing to keep both charged, carry the spare with you and swap them out in the middle of the day, you can get a lot more heavy usage in. VerdictBy
+ virtue of being one of the very few phablets available under Rs. 
+10,000, the Swipe Sense has a slight edge. However, the Moto G (Gen 2) (Review | Pictures), 
+Panasonic P81 (Reviews | Pictures) and Micromax Canvas Nitro (Review | Pictures) do not cost much more than 
+the Sense. We are hard pressed to find one good reason to recommend it over those devices. The fingerprint scanner is so 
+bad that it borders on being useless, the screen is of 
+below-average quality, the software embellishments don't work, and the 
+camera is abysmal. The only thing going for the Swipe Sense is that it is good looking and has decent battery life which still might not be enough for 
+most consumers.  Swipe Sense in pictures
+
+Swipe sells tablets and smartphones which each have
+ one USP that makes marketing them really easy. For example, 
+Swipe was the first company in India to introduce a 3D tablet and a 
+dual-SIM 3G tablet. Now, the company has introduced a phablet that costs just a shade under Rs.10,000 with a fingerprint scanner on the rear. 
+
+Barring the Xolo Q2100 (Review | Pictures), we've
+ seen this feature only on high-end/flagship smartphones. In that sense,
+ Swipe is betting on its belief that a fingerprint scanner will be attractive for users on a budget. However, this involves some tricky hardware-software integration which is 
+difficult to get right - evident from the fact that no one other than Apple has done this well. 
+Let's see if the Swipe Sense can prove us wrong. 
+
+Look and feelClad
+ in a black, soft plastic outer shell, the Swipe Sense has a pleasing 
+design and feels good to hold. Unlike its price 
+tag, the phablet (which Swipe insists on calling a 'Fablet') doesn't feel cheap. The bezels around the
+ 5.5-inch screen are thick. The 155mm width of the phablet makes it unsuitable for single-handed operation, but it is not as unwieldy as other 
+6-inch behemoths we've used in the past. Moreover, the weight of 155g is
+ distributed evenly across the device so it doesn't 
+feel like it'll topple. It is also relatively slim at 7.8mm.
+
+The 
+large 5.5-inch screen takes up most of the real estate on the front of 
+the device. Above it are the front camera, ambient light 
+sensor, earpiece and notification LED. Three capacitive buttons
+with red labels sit below the display. There is no backlighting on these 
+buttons. The power/wake button and the volume rocker are lined up along 
+the left and the right edges respectively. To add a slight edge to the 
+design, Swipe has used a dotted pattern on the top and bottom edges. 
+
+
+The microphone for calls is on the bottom whereas the top has the
+ Micro-USB port and 3.5mm audio jack. The rear cover feels flimsy and bends easily. Removing it reveals a battery compartment, a Micro-SIM card slot, a full-sized SIM slot and a microSD slot all stacked together. 
+
+Specifications, software and cameraThe phablet has a quad-core Mediatek MT6582 processor 
+clocked at 1.3GHz with an integrated Mali-400MP GPU. There is 1GB of RAM and 8GB of 
+internal storage space, which can be expanded by 32GB using a 
+microSD card. What's even better is that there is USB OTG support as well. 
+
+Of the two SIM cards, only one can connect to a 3G network. With 
+respect to the other connectivity features, the Swipe Sense also supports 
+Wi-Fi a/b/g/n and Bluetooth 4.0. There is an 8-megapixel
+ primary shooter accompanied by an LED flash, and a 3.2-megapixel secondary 
+camera for selfies. Swipe provides two batteries of 2250mAh capacity 
+inside the box, which is great idea.
+
+The 5.5-inch screen
+ has a resolution of 540x960, which translates to a density of only around 200ppi. This is really low for such a 
+large screen, and we could see pixellation in icons and text. Also, 
+for some reason, icons on the home screen looked slightly elongated. 
+The viewing angles are below average but sunlight legibility is not 
+too bad.
+
+The phone runs stock Android 4.4.2 KitKat, though Swipe adds a few extra features in the form of the fingerprint 
+scanner and gesture-based commands that work even when the screen is off. The 
+fingerprint scanner options are available in the Settings app. One can define up to three fingerprints but the positioning of the sensor means it's more difficult to enroll some fingers than others. Once set up, 
+colleagues sitting next to us could see us struggling as 
+we tried valiantly to get the scanner to recognise our fingerprints. It 
+was an exercise in frustration. Eventually, we gave up and reverted to 
+the more convenient pattern lock. 
+
+Off Screen gestures allows 
+users to define gestures which can open specific apps. Even this 
+doesn't work as advertised, and we preferred to keep it switched off. Swipe does preload a few interesting and useful apps in the form of
+ Automatic Call Recorder, Battery Doctor, MX Player, SuperBeam, Life360 
+and Where's My Droid; all of which are pretty useful.
+
+(Click for full size)
+
+The 
+8-megapixel camera is a huge disappointment. Focusing was slow and we 
+constantly faced the problem of images coming out soft-focussed. Images were grainy even in broad daylight, and highlights were blown out. The colours were completely off-balance too. 
+Even the HDR mode couldn't salvage the situation. Forget shooting in 
+low-light conditions since the photos are unusable. The camera can 
+capture 1080p videos but it just could not lock focus and clips ended up 
+looking blurred every time. The 3.2-megapixel front camera 
+performs better than the primary camera and can capture some decent 
+selfies provided there is enough light. 
+
+PerformanceWhile 
+using the Swipe Sense on a regular basis, we noticed that it was pretty 
+sluggish and didn't register our touch input on multiple occasions. Sometimes
+ it would also register a swipe as a tap and open an app instead of scrolling. On the other hand, casual gaming was mostly a breeze, owing to the low 
+resolution screen,  but visuals 
+weren't as crisp as we've seen on other devices. 
+
+In our 
+Quadrant benchmark test the Swipe Sense managed to score a paltry 7,253 points,
+ and for some reason, despite multiple attempts, AnTuTu failed to 
+complete its cycle of tests. The phone 
+managed to score 9.3fps and 3214 in GFXbench and 3DMark Ice Storm respectively. 
+
+The Sense managed 
+to play all our test videos without skipping frames or stuttering. The 
+loudspeaker is not too loud and sounds tinny too. The bundled 
+earphones are rather uncomfortable and sound terrible too. In our
+ battery test the phone managed to last 6 hours and 43 minutes, which
+ is decent, but keep in mind that Swipe provides an extra battery. If you're willing to keep both charged, carry the spare with you and swap them out in the middle of the day, you can get a lot more heavy usage in. 
+
+VerdictBy
+ virtue of being one of the very few phablets available under Rs. 
+10,000, the Swipe Sense has a slight edge. However, the Moto G (Gen 2) (Review | Pictures), 
+Panasonic P81 (Reviews | Pictures) and Micromax Canvas Nitro (Review | Pictures) do not cost much more than 
+the Sense. We are hard pressed to find one good reason to recommend it over those devices. 
+
+The fingerprint scanner is so 
+bad that it borders on being useless, the screen is of 
+below-average quality, the software embellishments don't work, and the 
+camera is abysmal. The only thing going for the Swipe Sense is that it is good looking and has decent battery life which still might not be enough for 
+most consumers. 
+

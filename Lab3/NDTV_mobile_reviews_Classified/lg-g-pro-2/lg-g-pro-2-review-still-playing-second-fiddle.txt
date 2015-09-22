@@ -1,0 +1,234 @@
+LG G Pro 2 Review: Still Playing Second Fiddle
+
+LG
+ has always been an underdog compared to Samsung despite the fact that it has made some great 
+devices and even despite having had the first mover's advantage with respect to several smartphone innovations (read: LG Optimus 2X and LG G Flex). But Samsung still rules the phablet category with its Galaxy Note 
+series. The Galaxy Note 3, its latest entrant, is a really good device. The G Pro 2 is LG's effort to topple Samsung from its throne. We
+ try to find out if this phablet can actually pull some trick out of its bag and ruffle Samsung's feathers. Look and FeelIt
+ is not often that we see manufacturers stray from the tried and tested, 
+especially in the case of smartphone designs. The LG G Pro 2 is a standard oversized candybar, but there is a subtle design 
+element that sets it apart from the competition. Introduced in the LG 
+G2, this phablet also has the volume rocker and power button below 
+the camera on its rear. This alone might not be groundbreaking innovation but it 
+does add a bit of pizazz to the phone. As we stated in our review of the LG
+ G Flex, the placement feels odd for certain functions like capturing 
+screenshots. At 8.3mm, the G Pro 2 is quite slim, and LG has done a good job 
+of keeping the bezels really small. Our large hands found it easy to 
+grip the phablet, which has a width of 81.9mm. For the price premium the G Pro
+ 2 demands, the copious use of plastic makes it look cheap. There is only a thin strip of metal running around the edges, and 
+the aforementioned buttons on the rear are also made of metal. 
+On the bottom edge are the microphone and the Micro-USB port. Another 
+microphone, an infrared LED and the 3.5mm audio jack sit on the top 
+edge. The ambient light sensor, front camera and earpiece are 
+above the display. On prying open the rear cover, we found the 1W 
+speaker on the bottom right, below the removable battery. One 
+functional constraint we faced because of a design decision was that the microSD card slot is hidden above the slot for the SIM card, 
+making it uncomfortable to swap cards. The front is 
+dominated by a large 5.9-inch screen which has a resolution of 
+1080x1920. With 373 pixels per inch, it sprang to life the 
+moment we turned it on. The screen has decently saturated colours, and sunlight 
+legibility and viewing angles are good too. Watching videos on this 
+screen was a real treat. Feature and SpecificationsWhile
+most 2014 flagships have been based on the Snapdragon 801, LG has 
+decided to go with the slightly older Snapdragon 800 quad-core processor clocked at 
+2.26GHz with an integrated Adreno 330 GPU. LG provides an ample
+ 3GB of RAM. The specific variant of this device on sale in India is the D838, which has 16GB of internal storage space. If that isn't 
+sufficient, one can add up to 32GB more using a microSD memory card.With respect to connectivity LG has all the
+ bases covered, from 3G to LTE to Wi-Fi to NFC. A striking 'Important 
+Note' sticker on the device's box states that it is compatible with 4G LTE networks 
+operating at 1800MHz. Unfortunately, this frequency band isn't currently 
+operational in India (the government has liberated the 1,800MHz 
+spectrum for operators to deploy 4G networks on, but none have done so yet). Until that happens, the LG
+ G Pro 2 cannot connect to 4G networks, since the few that are up and running all use the 
+2,300MHz band.The LG G Pro 2 has a 13-megapixel rear camera with optical image stabilsation, and can shoot videos at UHD resolution. Even the 
+2.1-megapixel front camera can shoot videos at 1080p. SoftwareLG's
+ now-common Optimus UI skin runs on top of Android 4.4.2 KitKat on
+ the G Pro 2. While the icons look cartoonish and are ugly in our 
+opinion, the functionality that LG offers is almost on par with 
+Samsung's TouchWiz UI. There are a few garish lockscreen animations too.
+ However, the Knock Code option for unlocking the device is probably one
+ of the most interesting software tweaks made by any Android manufacturer. It is not 
+gimmicky and works really well. Since the phablet has a lot of screen space, LG provides a variety of ways in which it can be used. 
+The best of the lot is Mini View, which displays a smaller version of 
+the screen which aids in single-handed usage. We found it particularly useful during our daily commutes. There is also a Dual Window 
+mode which splits the screen vertically to display two apps at a time. 
+QSlide allows a few apps to run as small floating windows. In short, the LG
+ G Pro 2 can handle multitasking really well. LG bundles a few 
+apps apart from the staple Google ones. To make use of the infrared 
+LED, LG provides QuickRemote which works on a multitude of devices 
+ranging from televisions to air conditioners. It works like a charm and is 
+lots of fun to use. Box is preinstalled for cloud storage, and 
+you even get 50GB of space free for a year. Polaris Viewer 5 works well for viewing documents but it doesn't allow
+ editing them.We think LG missed an opportunity by not 
+packing a stylus (and compatible apps) with the G Pro 2. Samsung 
+has done well by targeting the crowd that wants to take notes or make doodles
+ on the fly with their S-Pen stylus on the Galaxy Note series of phablets. The 
+screen size is almost perfect for it. CameraThe 
+13-megapixel camera on the LG G Pro 2 has optical image stabilisation which works well. Focusing on the intended subject was not a hassle at all, and the 
+camera did manage to capture some decent images in favourable lighting 
+conditions. The details were good and noise levels were low. When zoomed
+ in however, it looked as though the phone's software was overprocessing images which resulted in smudged details. The camera on the G
+ Pro 2 did a good job In low-light shots, but there was a catch. It looked as though someone had applied brushstrokes over the pixels. The effect is not natural, but the resulting image might look good to untrained eyes since the camera manages to let in a 
+decent amount of light. The 2.1-megapixel front camera also captures good details. Captured UHD (3840x2160) videos are extremely detailed and as 
+good as those taken by the LG G Flex. (Click to see full size)While the camera app has a ton of modes, the Magic Focus mode which promises to let users recompose shots after they're taken, looked the most promising. HTC
+ and Nokia already have their versions of the same tool, so we were intrigued. Sadly, the desired effect was not all 
+that good, since one absolutely must have super-stable hands 
+for the camera to focus on the entire image and later allow the 
+user to define focus areas. We did manage grab a few decent 
+pictures but the overall experience wasn't too good. PerformanceThis 
+is a really snappy phablet in daily usage, and multitasking was a cinch. 
+This is primarily because of the 3GB of RAM under the hood. The benchmark numbers
+ also seem to reflect this. The G Pro 2 scored 17,963 in our intensive 3DMark Ice Storm Unlimited benchmark, and also managed to notch up a
+ score of 23.7fps in the GFXbench test. AnTuTu and Quadrant returned healthy scores of 29,243 and 18,115 respectively. The phablet also managed 
+to play all the videos we threw at it smoothly, including the superior 
+quality full-HD ones. In our continuous video loop test that checks battery performance, the phone managed to last 11 hours and 11 minutes 
+before it needed to be charged again, which is very good. It should 
+easily last at least a day and a half with moderate usage. The call 
+quality was top-notch too, with both the caller and the receiver hearing 
+things clearly. The 1W speaker is really loud and we ended up 
+turning down the volume for ringtones. It is also quite clear, but it still doesn't come close to HTC's BoomSound speakers. Also, the bundled
+ earphones are of really good quality. VerdictFrankly, we 
+are baffled beyond wits here. LG's official price for the G Pro 2 is Rs.
+51,500, which is super steep. However, a stroll through the major e-commerce websites reveals 
+discounted prices ranging from approximately Rs.35,600 to Rs. 48,500. The G Pro 2 is an absolute steal if we consider the low end of that price range, but there's no telling how long it will be available so cheap. Without considering such a steep discount, the G Pro 2 goes right up against the Samsung Galaxy Note 3, 
+which comes with an S-Pen stylus but lacks 4K video recording. All 
+said and done, the G Pro 2 is definitely a good alternative, but it just falls short of being our first choice.
+LG G Pro 2 in pictures
+
+
+LG
+ has always been an underdog compared to Samsung despite the fact that it has made some great 
+devices and even despite having had the first mover's advantage with respect to several smartphone innovations (read: LG Optimus 2X and LG G Flex). 
+
+But Samsung still rules the phablet category with its Galaxy Note 
+series. The Galaxy Note 3, its latest entrant, is a really good device. The G Pro 2 is LG's effort to topple Samsung from its throne. We
+ try to find out if this phablet can actually pull some trick out of its bag and ruffle Samsung's feathers. 
+
+Look and FeelIt
+ is not often that we see manufacturers stray from the tried and tested, 
+especially in the case of smartphone designs. The LG G Pro 2 is a standard oversized candybar, but there is a subtle design 
+element that sets it apart from the competition. Introduced in the LG 
+G2, this phablet also has the volume rocker and power button below 
+the camera on its rear. This alone might not be groundbreaking innovation but it 
+does add a bit of pizazz to the phone. As we stated in our review of the LG
+ G Flex, the placement feels odd for certain functions like capturing 
+screenshots. 
+
+At 8.3mm, the G Pro 2 is quite slim, and LG has done a good job 
+of keeping the bezels really small. Our large hands found it easy to 
+grip the phablet, which has a width of 81.9mm. For the price premium the G Pro
+ 2 demands, the copious use of plastic makes it look cheap. There is only a thin strip of metal running around the edges, and 
+the aforementioned buttons on the rear are also made of metal. 
+On the bottom edge are the microphone and the Micro-USB port. Another 
+microphone, an infrared LED and the 3.5mm audio jack sit on the top 
+edge. The ambient light sensor, front camera and earpiece are 
+above the display. 
+
+On prying open the rear cover, we found the 1W 
+speaker on the bottom right, below the removable battery. One 
+functional constraint we faced because of a design decision was that the microSD card slot is hidden above the slot for the SIM card, 
+making it uncomfortable to swap cards. 
+
+The front is 
+dominated by a large 5.9-inch screen which has a resolution of 
+1080x1920. With 373 pixels per inch, it sprang to life the 
+moment we turned it on. The screen has decently saturated colours, and sunlight 
+legibility and viewing angles are good too. Watching videos on this 
+screen was a real treat. 
+
+Feature and SpecificationsWhile
+most 2014 flagships have been based on the Snapdragon 801, LG has 
+decided to go with the slightly older Snapdragon 800 quad-core processor clocked at 
+2.26GHz with an integrated Adreno 330 GPU. LG provides an ample
+ 3GB of RAM. The specific variant of this device on sale in India is the D838, which has 16GB of internal storage space. If that isn't 
+sufficient, one can add up to 32GB more using a microSD memory card.
+
+With respect to connectivity LG has all the
+ bases covered, from 3G to LTE to Wi-Fi to NFC. A striking 'Important 
+Note' sticker on the device's box states that it is compatible with 4G LTE networks 
+operating at 1800MHz. Unfortunately, this frequency band isn't currently 
+operational in India (the government has liberated the 1,800MHz 
+spectrum for operators to deploy 4G networks on, but none have done so yet). Until that happens, the LG
+ G Pro 2 cannot connect to 4G networks, since the few that are up and running all use the 
+2,300MHz band.
+
+The LG G Pro 2 has a 13-megapixel rear camera with optical image stabilsation, and can shoot videos at UHD resolution. Even the 
+2.1-megapixel front camera can shoot videos at 1080p. 
+
+SoftwareLG's
+ now-common Optimus UI skin runs on top of Android 4.4.2 KitKat on
+ the G Pro 2. While the icons look cartoonish and are ugly in our 
+opinion, the functionality that LG offers is almost on par with 
+Samsung's TouchWiz UI. There are a few garish lockscreen animations too.
+ However, the Knock Code option for unlocking the device is probably one
+ of the most interesting software tweaks made by any Android manufacturer. It is not 
+gimmicky and works really well. 
+
+Since the phablet has a lot of screen space, LG provides a variety of ways in which it can be used. 
+The best of the lot is Mini View, which displays a smaller version of 
+the screen which aids in single-handed usage. We found it particularly useful during our daily commutes. There is also a Dual Window 
+mode which splits the screen vertically to display two apps at a time. 
+QSlide allows a few apps to run as small floating windows. In short, the LG
+ G Pro 2 can handle multitasking really well. 
+
+LG bundles a few 
+apps apart from the staple Google ones. To make use of the infrared 
+LED, LG provides QuickRemote which works on a multitude of devices 
+ranging from televisions to air conditioners. It works like a charm and is 
+lots of fun to use. Box is preinstalled for cloud storage, and 
+you even get 50GB of space free for a year. Polaris Viewer 5 works well for viewing documents but it doesn't allow
+ editing them.
+
+We think LG missed an opportunity by not 
+packing a stylus (and compatible apps) with the G Pro 2. Samsung 
+has done well by targeting the crowd that wants to take notes or make doodles
+ on the fly with their S-Pen stylus on the Galaxy Note series of phablets. The 
+screen size is almost perfect for it. 
+
+CameraThe 
+13-megapixel camera on the LG G Pro 2 has optical image stabilisation which works well. Focusing on the intended subject was not a hassle at all, and the 
+camera did manage to capture some decent images in favourable lighting 
+conditions. The details were good and noise levels were low. When zoomed
+ in however, it looked as though the phone's software was overprocessing images which resulted in smudged details. 
+
+The camera on the G
+ Pro 2 did a good job In low-light shots, but there was a catch. It looked as though someone had applied brushstrokes over the pixels. The effect is not natural, but the resulting image might look good to untrained eyes since the camera manages to let in a 
+decent amount of light. The 2.1-megapixel front camera also captures good details. Captured UHD (3840x2160) videos are extremely detailed and as 
+good as those taken by the LG G Flex. 
+
+(Click to see full size)
+
+While the camera app has a ton of modes, the Magic Focus mode which promises to let users recompose shots after they're taken, looked the most promising. HTC
+ and Nokia already have their versions of the same tool, so we were intrigued. Sadly, the desired effect was not all 
+that good, since one absolutely must have super-stable hands 
+for the camera to focus on the entire image and later allow the 
+user to define focus areas. We did manage grab a few decent 
+pictures but the overall experience wasn't too good. 
+
+PerformanceThis 
+is a really snappy phablet in daily usage, and multitasking was a cinch. 
+This is primarily because of the 3GB of RAM under the hood. The benchmark numbers
+ also seem to reflect this. 
+
+The G Pro 2 scored 17,963 in our intensive 3DMark Ice Storm Unlimited benchmark, and also managed to notch up a
+ score of 23.7fps in the GFXbench test. AnTuTu and Quadrant returned healthy scores of 29,243 and 18,115 respectively. The phablet also managed 
+to play all the videos we threw at it smoothly, including the superior 
+quality full-HD ones. In our continuous video loop test that checks battery performance, the phone managed to last 11 hours and 11 minutes 
+before it needed to be charged again, which is very good. It should 
+easily last at least a day and a half with moderate usage. The call 
+quality was top-notch too, with both the caller and the receiver hearing 
+things clearly. 
+
+The 1W speaker is really loud and we ended up 
+turning down the volume for ringtones. It is also quite clear, but it still doesn't come close to HTC's BoomSound speakers. Also, the bundled
+ earphones are of really good quality. 
+
+VerdictFrankly, we 
+are baffled beyond wits here. LG's official price for the G Pro 2 is Rs.
+51,500, which is super steep. However, a stroll through the major e-commerce websites reveals 
+discounted prices ranging from approximately Rs.35,600 to Rs. 48,500. The G Pro 2 is an absolute steal if we consider the low end of that price range, but there's no telling how long it will be available so cheap. 
+
+Without considering such a steep discount, the G Pro 2 goes right up against the Samsung Galaxy Note 3, 
+which comes with an S-Pen stylus but lacks 4K video recording. All 
+said and done, the G Pro 2 is definitely a good alternative, but it just falls short of being our first choice.
+

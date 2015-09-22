@@ -1,0 +1,254 @@
+Sony Xperia T2 Ultra Dual review: The inexpensive Ultra
+
+Phablets, which tried to 
+bridge the gap between a smartphone and tablet, were as expensive
+ as flagship devices once upon a time. Slowly and steadily, at least in 
+India, phablets piqued the interest of buyers and created inroads into 
+the market. This rise prompted manufacturers to shed some features and make their products more budget friendly. Many companies latched on to this opportunity early on, but Sony has joined this bandwagon only recently. Sony's
+ top-end phablet, the Xperia Z Ultra, now has a cheaper alternative in the
+ form of the Xperia T2 Ultra. It is smaller, sleeker, accepts two SIMs,
+ and has stripped down features. More importantly, this six-inch budget phablet faces the mammoth task of 
+proving itself against the competition in a fairly crowded price band. Our review will help us find out 
+if it manages that feat.Look and FeelSony's design 
+philosophy for smartphones underwent a change when the company parted 
+ways with Ericsson. The primary reference for this is last year's 
+flagship, the Xperia Z. A lot of critics praised the design and 
+Sony seems to be going with the 'why fix something if it isn't broken' 
+strategy. This unassuming black slab with clean lines is now typical of the style adopted for all recent smartphone and tablet releases. The T2 Ultra Dual is available in three colours: black, 
+white and purple. We reviewed the black one. All the colour options look
+quite classy and the choice will boil down to personal preference. The
+ top and bottom edges of the device are bare. The right edge is 
+crowded with buttons for power, volume and camera (kudos to Sony for including that). The placement of these buttons at the lower 
+half of the right edge takes some getting used to, but the ease of use is
+ unparalleled. The 3.5mm jack and two SIM slots can be found at the top of the right edge. The left edge has the microSD card slot and Micro-USB port for charging and data transfer. Right above the screen is
+ the 1.1-megapixel front-facing camera, and below it is the microphone. The back 
+has the really long speaker grille, rear camera and flash.The 
+entire device is glossy and attracts fingerprints very easily. The back,
+ made of plastic, picked up quite a few scratches during our review so 
+we'd suggest using a cover. The device feels sturdy despite being being fairly slim at 7.7mm, and thanks to the rubberised edges, the grip 
+feels solid. Still, those with dainty hands will find the T2 Ultra Dual unwieldy due to its sheer size.Features and SpecificationsThe Sony Xperia T2 Ultra Dual has
+ decidedly mid-range specifications. Under the hood is a mid-range Qualcomm Snapdragon 400 quad-core SoC clocked at 1.4Ghz, with Adreno 
+305 graphics. Out of the 8GB of internal storage, only 
+4.68GB is available to users. Thankfully, you can increase the 
+storage of the device up to 32GB using a microSD card. Sony 
+also bundles 50GB of free Box storage for life, provided users register 
+by 31 December 2014, though surprisingly, the Box app isn't preloaded. The 13-megapixel rear camera can shoot videos at 1080p resolution. 
+Users who love to use the front camera to capture selfies might be 
+disappointed with the 1.1-megapixel resolution. The dual-SIM variant of the
+ T2 Ultra accepts two Micro-SIM cards and works in dual standby mode. Both SIMs can connect to the 850/900/1800/1900/2100MHz GSM bands. The phone also has Bluetooth 4.0 
+with A2DP support along with a range of different sensors including an 
+accelerometer, gyro and proximity sensor.The 6-inch screen has a 
+resolution of 1280x720. The screen springs to life with Sony's 
+proprietary Triluminous display technology. Colour reproduction is 
+fantastic and the contrast is great too. There is a catch, however - the 
+legibility of the screen takes a hit when viewed under bright sunlight. SoftwareThe
+ T2 Ultra runs a skinned version of Android 4.3 (Jelly Bean) with an 
+update to Kitkat promised by Sony in the near future. Sony's skin keeps 
+Android largely untouched, which is great for users who appreciate a vanilla 
+Android experience. The lock screen features a unique swipe animation that replicates a window blind. The T2 Ultra 
+gives users six home screens to customise. A very interesting addition, which
+ helps with single-handed operation of the large phablet, is that when users 
+double-tap the Home button, the notification slider drops down with
+ all the shortcuts moved to the bottom. Ingenious, we say! Additionally,
+ the app drawer features a sliding panel which pops up when users swipe in from the left of the first screen. This panel has a direct access to the Play 
+Store and Sony Select apart from a few options to rearrange app icons.  Hitting the Recents key brings up (apart 
+from apps that are open) a 'favourites bar' which lets you add what 
+Sony calls 'small apps' which can be used as movable widgets to make use
+ of the screen space. Along with the regular set of apps, you'll find McAfee Security, Garmin Navigation (trial edition), Neo 
+reader, OfficeSuite, Pixlr Express, Reader by Sony, Playstation Mobile, 
+Sketch, Smart Connect, Socialife News, Sony Select, Support and TrackID.
+ TrackID is similar to Shazam and Soundhound, and works reasonably well. One 
+thing that irked us beyond measure was the sensitivity of the haptic
+vibration feedback, so much so that we had to switch it off very shortly after we started using 
+the device. CameraThe camera software is fairly limited, 
+with respect to options, when compared to Samsung's and LG's. 
+There are some really pointless modes such as AR Effect, which is extremely
+ silly, with animations that remind us of Chota Bheem's artwork. The Picture Effects mode has some really garish effects. The background 
+defocus mode, when it works, takes two pictures - one of the background 
+and the other of the foreground - and looks great, provided users 
+have the patience. Panorama stitching is flawless and the effect works really 
+well. As far as cameras on smartphones go, the T2 Ultra is a 
+great example of why megapixels do not matter. The 13-megapixel shooter on this phablet has problems focusing subjects and captures images which 
+are filled with noise. This is not to say the camera is completely bad. 
+There are a few redeeming aspects, but this is not what we expected from
+ Sony, which is famous for making great sensors.Details were muted 
+even in daylight shots, but the natural colours are a plus. The white 
+balance in some pictures was not right. The T2 Ultra takes some good macros, 
+though. The camera tested our patience when shooting in low light, and 
+we found the resulting photographs to not be worth the time taken. The less we talk about
+ the 1.1-megapixel front-facing camera, the better. Those who love taking selfies would be 
+well advised to look elsewhere.(Click to see full size)Video performance was equally underwhelming, with very little detail captured. Fortunately, there is no skipping of frames. Overall, the camera is an underperformer.PerformanceBefore
+ we get to the benchmark scores, our experience of using the device 
+in day-to-day situations was filled with niggling issues. Using the default Chrome browser 
+caused the screen to flicker intermittently. The app drawer 
+would freeze from time to time. When it worked well, the T2 Ultra was an adequately fast performer, which is reflected in the scores. AnTuTu
+ and Quadrant returned scores of 19,358 and 9,138, 
+respectively. In the graphics department, the Adreno 305 lags behind 
+with GFXbench peaking at 10.9 fps. The less intensive 3DMark Ice Storm 
+returned a moderate score of 5,632 points. Another surprise was the fact 
+that the T2 Ultra had low sound output levels even when tested with reference
+ earphones. We were disappointed by the terrible 
+audio quality of the bundled earphones - Sony seems to have cut corners in 
+another area that is usually considered its strong suit. The T2
+ Ultra's default video player didn't play 1080p videos, but got through the rest of our sample clips without any hiccups. In our looping video battery 
+test, it managed to last for 8 hours, 22 minutes. This 
+should translate to a real-life performance of one day. Voice 
+quality during calls suffered slightly in low network areas, and there was a unique crackling sound at the 
+receiver's end, though this could have been an
+ issue with the service provider. VerdictWith Sony faltering in areas that are generally considered its strong suit - 
+camera and sound - the Xperia T2 Ultra Dual, priced at Rs. 24,990, is a 
+difficult device to recommend. There is strong competition in this segment from 
+the feature-rich Moto X and the Gionee Elife E7, with its great camera. 
+But if the requirement is a 6-inch screen and nothing less, the T2 Ultra
+ is the best bet at the moment. In short, Sony gets one 
+thing absolutely right - the price.
+Sony Xperia T2 Ultra in pictures
+
+
+Phablets, which tried to 
+bridge the gap between a smartphone and tablet, were as expensive
+ as flagship devices once upon a time. Slowly and steadily, at least in 
+India, phablets piqued the interest of buyers and created inroads into 
+the market. This rise prompted manufacturers to shed some features and make their products more budget friendly. Many companies latched on to this opportunity early on, but Sony has joined this bandwagon only recently. 
+
+Sony's
+ top-end phablet, the Xperia Z Ultra, now has a cheaper alternative in the
+ form of the Xperia T2 Ultra. It is smaller, sleeker, accepts two SIMs,
+ and has stripped down features. More importantly, this six-inch budget phablet faces the mammoth task of 
+proving itself against the competition in a fairly crowded price band. Our review will help us find out 
+if it manages that feat.
+
+Look and FeelSony's design 
+philosophy for smartphones underwent a change when the company parted 
+ways with Ericsson. The primary reference for this is last year's 
+flagship, the Xperia Z. A lot of critics praised the design and 
+Sony seems to be going with the 'why fix something if it isn't broken' 
+strategy. This unassuming black slab with clean lines is now typical of the style adopted for all recent smartphone and tablet releases. 
+
+The T2 Ultra Dual is available in three colours: black, 
+white and purple. We reviewed the black one. All the colour options look
+quite classy and the choice will boil down to personal preference. The
+ top and bottom edges of the device are bare. The right edge is 
+crowded with buttons for power, volume and camera (kudos to Sony for including that). The placement of these buttons at the lower 
+half of the right edge takes some getting used to, but the ease of use is
+ unparalleled. The 3.5mm jack and two SIM slots can be found at the top of the right edge. The left edge has the microSD card slot and Micro-USB port for charging and data transfer. Right above the screen is
+ the 1.1-megapixel front-facing camera, and below it is the microphone. The back 
+has the really long speaker grille, rear camera and flash.
+
+The 
+entire device is glossy and attracts fingerprints very easily. The back,
+ made of plastic, picked up quite a few scratches during our review so 
+we'd suggest using a cover. The device feels sturdy despite being being fairly slim at 7.7mm, and thanks to the rubberised edges, the grip 
+feels solid. Still, those with dainty hands will find the T2 Ultra Dual unwieldy due to its sheer size.
+
+Features and SpecificationsThe Sony Xperia T2 Ultra Dual has
+ decidedly mid-range specifications. Under the hood is a mid-range Qualcomm Snapdragon 400 quad-core SoC clocked at 1.4Ghz, with Adreno 
+305 graphics. Out of the 8GB of internal storage, only 
+4.68GB is available to users. Thankfully, you can increase the 
+storage of the device up to 32GB using a microSD card. Sony 
+also bundles 50GB of free Box storage for life, provided users register 
+by 31 December 2014, though surprisingly, the Box app isn't preloaded. The 13-megapixel rear camera can shoot videos at 1080p resolution. 
+Users who love to use the front camera to capture selfies might be 
+disappointed with the 1.1-megapixel resolution. 
+
+The dual-SIM variant of the
+ T2 Ultra accepts two Micro-SIM cards and works in dual standby mode. Both SIMs can connect to the 850/900/1800/1900/2100MHz GSM bands. The phone also has Bluetooth 4.0 
+with A2DP support along with a range of different sensors including an 
+accelerometer, gyro and proximity sensor.
+
+The 6-inch screen has a 
+resolution of 1280x720. The screen springs to life with Sony's 
+proprietary Triluminous display technology. Colour reproduction is 
+fantastic and the contrast is great too. There is a catch, however - the 
+legibility of the screen takes a hit when viewed under bright sunlight. 
+
+SoftwareThe
+ T2 Ultra runs a skinned version of Android 4.3 (Jelly Bean) with an 
+update to Kitkat promised by Sony in the near future. Sony's skin keeps 
+Android largely untouched, which is great for users who appreciate a vanilla 
+Android experience. The lock screen features a unique swipe animation that replicates a window blind. 
+
+The T2 Ultra 
+gives users six home screens to customise. A very interesting addition, which
+ helps with single-handed operation of the large phablet, is that when users 
+double-tap the Home button, the notification slider drops down with
+ all the shortcuts moved to the bottom. Ingenious, we say! Additionally,
+ the app drawer features a sliding panel which pops up when users swipe in from the left of the first screen. This panel has a direct access to the Play 
+Store and Sony Select apart from a few options to rearrange app icons. 
+
+ 
+
+Hitting the Recents key brings up (apart 
+from apps that are open) a 'favourites bar' which lets you add what 
+Sony calls 'small apps' which can be used as movable widgets to make use
+ of the screen space. Along with the regular set of apps, you'll find McAfee Security, Garmin Navigation (trial edition), Neo 
+reader, OfficeSuite, Pixlr Express, Reader by Sony, Playstation Mobile, 
+Sketch, Smart Connect, Socialife News, Sony Select, Support and TrackID.
+ TrackID is similar to Shazam and Soundhound, and works reasonably well. One 
+thing that irked us beyond measure was the sensitivity of the haptic
+vibration feedback, so much so that we had to switch it off very shortly after we started using 
+the device. 
+
+CameraThe camera software is fairly limited, 
+with respect to options, when compared to Samsung's and LG's. 
+There are some really pointless modes such as AR Effect, which is extremely
+ silly, with animations that remind us of Chota Bheem's artwork. The Picture Effects mode has some really garish effects. The background 
+defocus mode, when it works, takes two pictures - one of the background 
+and the other of the foreground - and looks great, provided users 
+have the patience. Panorama stitching is flawless and the effect works really 
+well. 
+
+As far as cameras on smartphones go, the T2 Ultra is a 
+great example of why megapixels do not matter. The 13-megapixel shooter on this phablet has problems focusing subjects and captures images which 
+are filled with noise. This is not to say the camera is completely bad. 
+There are a few redeeming aspects, but this is not what we expected from
+ Sony, which is famous for making great sensors.
+
+Details were muted 
+even in daylight shots, but the natural colours are a plus. The white 
+balance in some pictures was not right. The T2 Ultra takes some good macros, 
+though. The camera tested our patience when shooting in low light, and 
+we found the resulting photographs to not be worth the time taken. The less we talk about
+ the 1.1-megapixel front-facing camera, the better. Those who love taking selfies would be 
+well advised to look elsewhere.
+
+(Click to see full size)
+
+Video performance was equally underwhelming, with very little detail captured. Fortunately, there is no skipping of frames. 
+
+Overall, the camera is an underperformer.
+
+PerformanceBefore
+ we get to the benchmark scores, our experience of using the device 
+in day-to-day situations was filled with niggling issues. Using the default Chrome browser 
+caused the screen to flicker intermittently. The app drawer 
+would freeze from time to time. When it worked well, the T2 Ultra was an adequately fast performer, which is reflected in the scores. 
+
+AnTuTu
+ and Quadrant returned scores of 19,358 and 9,138, 
+respectively. In the graphics department, the Adreno 305 lags behind 
+with GFXbench peaking at 10.9 fps. The less intensive 3DMark Ice Storm 
+returned a moderate score of 5,632 points. 
+
+Another surprise was the fact 
+that the T2 Ultra had low sound output levels even when tested with reference
+ earphones. We were disappointed by the terrible 
+audio quality of the bundled earphones - Sony seems to have cut corners in 
+another area that is usually considered its strong suit. 
+
+The T2
+ Ultra's default video player didn't play 1080p videos, but got through the rest of our sample clips without any hiccups. In our looping video battery 
+test, it managed to last for 8 hours, 22 minutes. This 
+should translate to a real-life performance of one day. Voice 
+quality during calls suffered slightly in low network areas, and there was a unique crackling sound at the 
+receiver's end, though this could have been an
+ issue with the service provider. 
+
+VerdictWith Sony faltering in areas that are generally considered its strong suit - 
+camera and sound - the Xperia T2 Ultra Dual, priced at Rs. 24,990, is a 
+difficult device to recommend. There is strong competition in this segment from 
+the feature-rich Moto X and the Gionee Elife E7, with its great camera. 
+But if the requirement is a 6-inch screen and nothing less, the T2 Ultra
+ is the best bet at the moment. In short, Sony gets one 
+thing absolutely right - the price.
+

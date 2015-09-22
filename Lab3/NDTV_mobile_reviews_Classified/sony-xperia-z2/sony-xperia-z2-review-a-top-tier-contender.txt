@@ -1,0 +1,418 @@
+Sony Xperia Z2 Review: A Top-Tier Contender
+
+Sony is steadily climbing up the smartphone market share rankings, 
+thanks to recent launches that have worked very well in their price 
+bands. The company has had its ups and downs over the years, with a few 
+models that have caught on, but no long-running success till very 
+recently. Samsung is the dominant force in India as far as Android 
+phones go, and Sony is only just beginning to establish itself as an 
+alternative, with a distinctive identity that extends through hardware 
+and software design.With that said, even though the Xperia Z2 is a
+ significant improvement over its predecessors, the Z and Z1, there 
+isn't really any kind of standout feature for the company to shout 
+about. Samsung's Galaxy S5 has its heart rate monitor and health-related
+ accessories; HTC has created a dual-camera system for the new One (M8).
+ That's what Sony is up against, and it will have a hard time pushing the
+ Xperia Z2 even though all its important features and specifications are
+ totally top-of-the-line.We've already tested the Galaxy S5 and 
+One (M8), so now it's time to see whether the Xperia Z2 can take them 
+on, and whether Sony's understated approach helps it or hurts it.Look and feelVisually,
+ there isn't much to differentiate the Xperia Z2 from its predecessors. 
+It's almost exactly the same size as the Z1, give or take a few 
+millimetres here or there, but it is a bit lighter at 163g. Sony hasn't 
+even freshened up its colour options - you still have only white, black 
+and purple to choose between. It has the same blunt rectangular shape, 
+like a slab of glass with slightly chiselled edges and corners. The
+ front and back of our review unit were perfectly black, but the sides 
+are silver with a very deep purple trim around the edges. It's extremely
+ subtle and you'll only see it when the light catches it at a particular
+ angle, which gives the whole phone a bit of character.The front 
+face is almost completely black, thanks to the move to on-screen 
+buttons. There's only a classic Sony logo on top, with the front camera 
+lens peeking through the black glass next to it. You can barely see the 
+twin cutouts in the plastic edging which house the front-firing stereo 
+speakers, except when LEDs in the upper cutout light up to notify you of
+ calls, messages or charge status.Sony's distinctive round power 
+button is in its now-familiar spot in the middle of the right edge, with
+ the volume rocker and camera shortcut button below it, and a flap above
+ it protecting the microSD card slot. Sony's magnetic charging connector
+ is on the opposite side, along with another flap which protects the 
+Micro-USB charging port and SIM card slot.The flaps are lined 
+with rubber, which was necessary to ensure waterproofing and 
+dustproofing - Sony says the Xperia Z2 has an IP58 rating, which means 
+it should be able to withstand up to 30 minutes of immersion in up to 
+1.5m of freshwater. The 3.5mm headset jack on top isn't protected, and 
+there are microphone holes on the top and bottom, but the rear panel 
+isn't removable and the battery is sealed inside.The 
+20.7-megapixel camera lens in ringed with silver and placed in the upper
+ left corner of the rear panel, along with an LED flash. Despite the 
+fact that all regulatory messages are hidden away on a retractable tab 
+under the microSD card flap, Sony clearly couldn't resist littering the 
+back with a logo for the camera, one for NFC, another Sony logo and an 
+Xperia logo as well. Both the front and back are highly reflective and 
+pick up fingerprints like crazy.The Xperia Z2 is a chunky phone, 
+and it felt solid in our hands. It isn't the most comfortable to hold, 
+and the edges where glass meets metal are just a bit too rough. Still, 
+it feels solid and imposing, without being loud. We really like what 
+Sony's managed to pull off - it's only a slight refinement of its 
+predecessors' designs, but somehow doesn't feel old.Features and specificationsIt
+ seems you can't be a flagship phone in 2014 without a Snapdragon 801 
+processor (or equivalent). Sony has gone with the flow, but the one in 
+the Z2 is a tiny fraction slower than the one in the M8, at 2.3GHz 
+instead of 2.5GHz. On the other hand, there's 3GB of RAM rather than the
+ 2GB HTC went with.The 16GB of built-in storage can be expanded 
+by up to 128GB. MicroSD cards of that capacity are rare and expensive 
+now, but it's nice to know they'll work in the future. Wi-Fi b/g/n/ac 
+and Bluetooth 4.0 are standard, but Sony also includes NFC. There's no 
+infrared remote control, which is something both primary competitors 
+offer.The screen is a large 5.2-inch full-HD display, and Sony 
+has applied its Bravia-derived "Triluminous" and "X-reality for Mobile" 
+buzzwords to it. The screen is pretty sharp, and blacks are indeed quite
+ deep. It isn't the brightest or most vivid in its class, but it's still
+ a fantastic screen to watch movies and play games on.Sony pays 
+equal attention to sound, and there are plenty of buzzword-toting 
+enhancements. The twin front-firing speakers definitely add an important
+ dimension to movies and games too, and we wish this was more standard 
+on smartphones.The other major feature is the 20.7-megapixel 
+camera. Sony is particularly proud of it, touting the unusually high 
+pixel count as well as a sensor that's claimed to be 30 percent larger 
+than standard. We're particularly intrigued by the claim that the Z2's 
+camera is "on par with [Sony's] compact digital cameras". Pretty much 
+every parameter is touted as superior - low light performance, contrast,
+ clarity, depth, colour accuracy, detail, and lack of noise. The dense 
+sensor is even supposed to be able to replicate optical zoom, by trading
+ image size for clarity.Of course there's also 4K video 
+recording. If Samsung hadn't beaten Sony to market, this would have been
+ an exclusive feature. If you step down to 720p, you can shoot at up to 
+120fps and add a dramatic slow-motion effect to your clips.SoftwareAndroid
+ 4.4 brings several important improvements to the user interface, and 
+Sony's Xperia UI customisations are also pretty extensive. For starters,
+ the default wallpaper has a "live" swirl that animates on its own as 
+you swipe between screens, and the whole thing keeps cycling between 
+colours. It feels unnecessary and is often distracting, but of course 
+you can just turn this off. Sony loads up the interface with its 
+own branded apps and content - one of the first things you see on the 
+default home screen is a widget called "What's New", which is basically 
+an advertisement for assorted Sony content, though only themes and 
+recommended third-party apps show up in India. The constant refreshing 
+is bound to eat up 3G data, so you might want to get rid of this widget 
+entirely. On the next home screen, there's a carousel of videos and an 
+audio player widget, both of which lead to apps preloaded with Sony 
+content. Two of the four icons in the dock also lead to Sony apps - Liv 
+and Sony Music Jive, which might appeal to Indian buyers but didn't have
+ to be so in our faces.The custom Walkman-branded music player 
+can handle loads of formats including FLAC, but its design is quite 
+frustrating. Amongst the several other apps are TrackID, a useful music 
+identification service; WisePilot, a maps and traffic guide app; Sony 
+Select, yet another app directory; Smart Connect, a tool to automate 
+phone behaviour when accessories are plugged in; and Xperia Lounge, 
+which displays - guess what? - even more Sony promotional content, 
+except this time including special offers for Xperia device owners.Chrome
+ is the default and only browser. There's also Facebook, Socialife News,
+ Vine, Line, X4 Video Player, Pixlr Express, Google Drive, Box, 
+LinkedIn, and a view-only version of MobiSystems OfficeSuite. Sony
+ might have overdone it with the apps, but the general Xperia UI is 
+surprisingly similar to stock Android. The notifications shade seems 
+bare compared to Samsung's and LG's implementations, and even the 
+Settings app is largely untouched. These are typically areas in which 
+companies try to offer users more flexibility and personalisation. At 
+least the app switcher includes four shortcuts to "small apps" - you can
+ choose from a limited selection including the calculator, browser, 
+screenshot utility, timer, Gmail, and calendar.CameraApart
+ from the hardware described above, Sony has done a fair bit of work 
+with its camera app. The default mode is Superior Auto, which hides most
+ options in the interest of simplicity. Manual mode, despite its name, 
+doesn't offer conventional manual controls, but instead lets you tweak 
+settings and use different scene modes such as Soft Skin, Anti Motion 
+Blur, Night Portrait, Document, Fireworks, and even a Gourmet mode, 
+presumably for Instagram-worthy shots of your dinner.The third 
+mode is 4K video - as it turns out, videos shot in the normal camera 
+modes top out at 1080p. The other modes, or "camera apps", include Vine,
+ Sweep Panorama, Timeshift Burst, and AR Effect. We've seen many of 
+these before, and some are definitely less useful than others. AR Mode 
+is just for silly fun, Background Defocus doesn't always work or look 
+realistic even though you can tweak it manually, and Social Live is only
+ for compulsive Facebook sharers.(Click to see full size)Image quality is very 
+impressive. We were able to take some great shots, including difficult 
+subjects such as moving cars, birds in flight, and areas half in and 
+half out of shadow. Colours were accurate and focusing was usually spot 
+on, but our mileage varied when it came to capturing detail. Close-up 
+shots fared better than landscapes. We even got some decent 
+depth-of-field effects without any post-processing trickery. Low-light 
+shots were impressive - in our limited testing, the flash lit up 
+subjects evenly and even without it, there wasn't as much noise as we 
+expected.The camera on the Xperia Z2 is truly impressive, and we 
+can easily imagine people buying this phone just to have something this 
+impressive in their pockets all the time. (Click to see full size)PerformanceSurprisingly,
+ raw performance was a mixed bag with the Sony Xperia Z2. We never felt 
+any slowdowns or lag in general usage, but our CPU-bound benchmarks 
+produced consistently lower scores on this phone than they did on the 
+Samsung Galaxy S5 and HTC One (M8). Variations ranged from slight to 
+dramatic, but we wouldn't put down the Z2 for this since it's known that
+ HTC and Samsung have manipulated benchmark scores in the past (and at 
+least HTC proudly continues to do so now). Even with that in mind, the Xperia Z2 is a phenomenally fast phone, and is right at the top of the charts, ahead of last year's best performers.The graphics-intensive
+ tests were much more evenly matched between the three flagship phones. 
+We did, however, notice the Xperia Z2 getting almost uncomfortably hot 
+when running demanding tasks.Audio and video were both excellent,
+ and the 1080p screen is just large enough to make videos immersive 
+without compromising on sharpness. Volume was impressive, even if the 
+sound wasn't all that rich or clear in action scenes heavy EDM tracks.The
+ battery lasted for 11 hours, 42 minutes in our video rundown test. That
+ should be more than enough to get through a full day's work, including 
+relatively heavy video and camera usage.VerdictWhatever 
+Sony's doing, it seems to be working. The third iteration of its top-end
+ Xperia Z model is the slickest yet, with all the features that anyone 
+today might care about, in a package that is as understated as it seems 
+possible to create. This is undoubtedly one of the most satisfying 
+phones to own and use.With that said, it is still a bit too large
+ for many people's tastes - we hope a Z2 Compact is on its way - and the
+ squared-off body makes it a bit less comfortable to hold and use than 
+the Galaxy S5 and One (M8). Those two phones also have their own 
+defining features, which are admittedly pretty attractive.The Z2 
+doesn't stick its neck out with anything groundbreaking, but it is 
+probably the most well-rounded of the three (and Sony's launch offers don't hurt either). It's hard to pick between 
+them, so you'll have to decide based on personal preferences. We're 
+happy that Sony has delivered such a strong contender - Samsung 
+definitely isn't the only game in town anymore.  Sony Xperia Z2 in pictures
+
+Sony is steadily climbing up the smartphone market share rankings, 
+thanks to recent launches that have worked very well in their price 
+bands. The company has had its ups and downs over the years, with a few 
+models that have caught on, but no long-running success till very 
+recently. Samsung is the dominant force in India as far as Android 
+phones go, and Sony is only just beginning to establish itself as an 
+alternative, with a distinctive identity that extends through hardware 
+and software design.
+
+With that said, even though the Xperia Z2 is a
+ significant improvement over its predecessors, the Z and Z1, there 
+isn't really any kind of standout feature for the company to shout 
+about. Samsung's Galaxy S5 has its heart rate monitor and health-related
+ accessories; HTC has created a dual-camera system for the new One (M8).
+ That's what Sony is up against, and it will have a hard time pushing the
+ Xperia Z2 even though all its important features and specifications are
+ totally top-of-the-line.
+
+We've already tested the Galaxy S5 and 
+One (M8), so now it's time to see whether the Xperia Z2 can take them 
+on, and whether Sony's understated approach helps it or hurts it.
+
+Look and feelVisually,
+ there isn't much to differentiate the Xperia Z2 from its predecessors. 
+It's almost exactly the same size as the Z1, give or take a few 
+millimetres here or there, but it is a bit lighter at 163g. Sony hasn't 
+even freshened up its colour options - you still have only white, black 
+and purple to choose between. It has the same blunt rectangular shape, 
+like a slab of glass with slightly chiselled edges and corners. 
+
+The
+ front and back of our review unit were perfectly black, but the sides 
+are silver with a very deep purple trim around the edges. It's extremely
+ subtle and you'll only see it when the light catches it at a particular
+ angle, which gives the whole phone a bit of character.
+
+The front 
+face is almost completely black, thanks to the move to on-screen 
+buttons. There's only a classic Sony logo on top, with the front camera 
+lens peeking through the black glass next to it. You can barely see the 
+twin cutouts in the plastic edging which house the front-firing stereo 
+speakers, except when LEDs in the upper cutout light up to notify you of
+ calls, messages or charge status.
+
+Sony's distinctive round power 
+button is in its now-familiar spot in the middle of the right edge, with
+ the volume rocker and camera shortcut button below it, and a flap above
+ it protecting the microSD card slot. Sony's magnetic charging connector
+ is on the opposite side, along with another flap which protects the 
+Micro-USB charging port and SIM card slot.
+
+The flaps are lined 
+with rubber, which was necessary to ensure waterproofing and 
+dustproofing - Sony says the Xperia Z2 has an IP58 rating, which means 
+it should be able to withstand up to 30 minutes of immersion in up to 
+1.5m of freshwater. The 3.5mm headset jack on top isn't protected, and 
+there are microphone holes on the top and bottom, but the rear panel 
+isn't removable and the battery is sealed inside.
+
+The 
+20.7-megapixel camera lens in ringed with silver and placed in the upper
+ left corner of the rear panel, along with an LED flash. Despite the 
+fact that all regulatory messages are hidden away on a retractable tab 
+under the microSD card flap, Sony clearly couldn't resist littering the 
+back with a logo for the camera, one for NFC, another Sony logo and an 
+Xperia logo as well. Both the front and back are highly reflective and 
+pick up fingerprints like crazy.
+
+The Xperia Z2 is a chunky phone, 
+and it felt solid in our hands. It isn't the most comfortable to hold, 
+and the edges where glass meets metal are just a bit too rough. Still, 
+it feels solid and imposing, without being loud. We really like what 
+Sony's managed to pull off - it's only a slight refinement of its 
+predecessors' designs, but somehow doesn't feel old.
+
+Features and specificationsIt
+ seems you can't be a flagship phone in 2014 without a Snapdragon 801 
+processor (or equivalent). Sony has gone with the flow, but the one in 
+the Z2 is a tiny fraction slower than the one in the M8, at 2.3GHz 
+instead of 2.5GHz. On the other hand, there's 3GB of RAM rather than the
+ 2GB HTC went with.
+
+The 16GB of built-in storage can be expanded 
+by up to 128GB. MicroSD cards of that capacity are rare and expensive 
+now, but it's nice to know they'll work in the future. Wi-Fi b/g/n/ac 
+and Bluetooth 4.0 are standard, but Sony also includes NFC. There's no 
+infrared remote control, which is something both primary competitors 
+offer.
+
+The screen is a large 5.2-inch full-HD display, and Sony 
+has applied its Bravia-derived "Triluminous" and "X-reality for Mobile" 
+buzzwords to it. The screen is pretty sharp, and blacks are indeed quite
+ deep. It isn't the brightest or most vivid in its class, but it's still
+ a fantastic screen to watch movies and play games on.
+
+Sony pays 
+equal attention to sound, and there are plenty of buzzword-toting 
+enhancements. The twin front-firing speakers definitely add an important
+ dimension to movies and games too, and we wish this was more standard 
+on smartphones.
+
+The other major feature is the 20.7-megapixel 
+camera. Sony is particularly proud of it, touting the unusually high 
+pixel count as well as a sensor that's claimed to be 30 percent larger 
+than standard. We're particularly intrigued by the claim that the Z2's 
+camera is "on par with [Sony's] compact digital cameras". Pretty much 
+every parameter is touted as superior - low light performance, contrast,
+ clarity, depth, colour accuracy, detail, and lack of noise. The dense 
+sensor is even supposed to be able to replicate optical zoom, by trading
+ image size for clarity.
+
+Of course there's also 4K video 
+recording. If Samsung hadn't beaten Sony to market, this would have been
+ an exclusive feature. If you step down to 720p, you can shoot at up to 
+120fps and add a dramatic slow-motion effect to your clips.
+
+SoftwareAndroid
+ 4.4 brings several important improvements to the user interface, and 
+Sony's Xperia UI customisations are also pretty extensive. For starters,
+ the default wallpaper has a "live" swirl that animates on its own as 
+you swipe between screens, and the whole thing keeps cycling between 
+colours. It feels unnecessary and is often distracting, but of course 
+you can just turn this off. 
+
+Sony loads up the interface with its 
+own branded apps and content - one of the first things you see on the 
+default home screen is a widget called "What's New", which is basically 
+an advertisement for assorted Sony content, though only themes and 
+recommended third-party apps show up in India. The constant refreshing 
+is bound to eat up 3G data, so you might want to get rid of this widget 
+entirely. On the next home screen, there's a carousel of videos and an 
+audio player widget, both of which lead to apps preloaded with Sony 
+content. Two of the four icons in the dock also lead to Sony apps - Liv 
+and Sony Music Jive, which might appeal to Indian buyers but didn't have
+ to be so in our faces.
+
+The custom Walkman-branded music player 
+can handle loads of formats including FLAC, but its design is quite 
+frustrating. Amongst the several other apps are TrackID, a useful music 
+identification service; WisePilot, a maps and traffic guide app; Sony 
+Select, yet another app directory; Smart Connect, a tool to automate 
+phone behaviour when accessories are plugged in; and Xperia Lounge, 
+which displays - guess what? - even more Sony promotional content, 
+except this time including special offers for Xperia device owners.
+
+Chrome
+ is the default and only browser. There's also Facebook, Socialife News,
+ Vine, Line, X4 Video Player, Pixlr Express, Google Drive, Box, 
+LinkedIn, and a view-only version of MobiSystems OfficeSuite. 
+
+Sony
+ might have overdone it with the apps, but the general Xperia UI is 
+surprisingly similar to stock Android. The notifications shade seems 
+bare compared to Samsung's and LG's implementations, and even the 
+Settings app is largely untouched. These are typically areas in which 
+companies try to offer users more flexibility and personalisation. At 
+least the app switcher includes four shortcuts to "small apps" - you can
+ choose from a limited selection including the calculator, browser, 
+screenshot utility, timer, Gmail, and calendar.
+
+CameraApart
+ from the hardware described above, Sony has done a fair bit of work 
+with its camera app. The default mode is Superior Auto, which hides most
+ options in the interest of simplicity. Manual mode, despite its name, 
+doesn't offer conventional manual controls, but instead lets you tweak 
+settings and use different scene modes such as Soft Skin, Anti Motion 
+Blur, Night Portrait, Document, Fireworks, and even a Gourmet mode, 
+presumably for Instagram-worthy shots of your dinner.
+
+The third 
+mode is 4K video - as it turns out, videos shot in the normal camera 
+modes top out at 1080p. The other modes, or "camera apps", include Vine,
+ Sweep Panorama, Timeshift Burst, and AR Effect. We've seen many of 
+these before, and some are definitely less useful than others. AR Mode 
+is just for silly fun, Background Defocus doesn't always work or look 
+realistic even though you can tweak it manually, and Social Live is only
+ for compulsive Facebook sharers.
+
+(Click to see full size)
+
+Image quality is very 
+impressive. We were able to take some great shots, including difficult 
+subjects such as moving cars, birds in flight, and areas half in and 
+half out of shadow. Colours were accurate and focusing was usually spot 
+on, but our mileage varied when it came to capturing detail. Close-up 
+shots fared better than landscapes. We even got some decent 
+depth-of-field effects without any post-processing trickery. Low-light 
+shots were impressive - in our limited testing, the flash lit up 
+subjects evenly and even without it, there wasn't as much noise as we 
+expected.
+
+The camera on the Xperia Z2 is truly impressive, and we 
+can easily imagine people buying this phone just to have something this 
+impressive in their pockets all the time. 
+
+(Click to see full size)
+
+PerformanceSurprisingly,
+ raw performance was a mixed bag with the Sony Xperia Z2. We never felt 
+any slowdowns or lag in general usage, but our CPU-bound benchmarks 
+produced consistently lower scores on this phone than they did on the 
+Samsung Galaxy S5 and HTC One (M8). Variations ranged from slight to 
+dramatic, but we wouldn't put down the Z2 for this since it's known that
+ HTC and Samsung have manipulated benchmark scores in the past (and at 
+least HTC proudly continues to do so now). Even with that in mind, the Xperia Z2 is a phenomenally fast phone, and is right at the top of the charts, ahead of last year's best performers.
+
+The graphics-intensive
+ tests were much more evenly matched between the three flagship phones. 
+We did, however, notice the Xperia Z2 getting almost uncomfortably hot 
+when running demanding tasks.
+
+Audio and video were both excellent,
+ and the 1080p screen is just large enough to make videos immersive 
+without compromising on sharpness. Volume was impressive, even if the 
+sound wasn't all that rich or clear in action scenes heavy EDM tracks.
+
+The
+ battery lasted for 11 hours, 42 minutes in our video rundown test. That
+ should be more than enough to get through a full day's work, including 
+relatively heavy video and camera usage.
+
+VerdictWhatever 
+Sony's doing, it seems to be working. The third iteration of its top-end
+ Xperia Z model is the slickest yet, with all the features that anyone 
+today might care about, in a package that is as understated as it seems 
+possible to create. This is undoubtedly one of the most satisfying 
+phones to own and use.
+
+With that said, it is still a bit too large
+ for many people's tastes - we hope a Z2 Compact is on its way - and the
+ squared-off body makes it a bit less comfortable to hold and use than 
+the Galaxy S5 and One (M8). Those two phones also have their own 
+defining features, which are admittedly pretty attractive.
+
+The Z2 
+doesn't stick its neck out with anything groundbreaking, but it is 
+probably the most well-rounded of the three (and Sony's launch offers don't hurt either). It's hard to pick between 
+them, so you'll have to decide based on personal preferences. We're 
+happy that Sony has delivered such a strong contender - Samsung 
+definitely isn't the only game in town anymore. 
+

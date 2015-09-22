@@ -1,0 +1,496 @@
+Spice Smart Flo Mettle 5X review
+
+One of the most remarkable trends in the mobile industry over the 
+past year has been the rise of the budget Android smartphones. A person looking 
+for a dual-SIM phone today has literally an ocean of options to choose 
+from. The budget segment of the Indian smartphone market has seen
+ a slew of new releases of late, with a number of players like Micromax, Karbonn, Spice, Xolo, LG and Samsung among others. Nokia also makes it to the list with its range of popular and affordable Windows Phone 8 devices, such as the Lumia 520 and Lumia 720.Spice's latest hat throw into the budget smartphone ring, Spice Smart Flo Mettle 5X, supposedly delivers an high-end experience for less than Rs. 7,000. But how 
+well does it fare in reality? We find out, in our review.Design/ BuildThe Spice Smart Flo Mettle 
+5X has relatively standard smartphone looks. It is far from an 
+ultra-slim smartphone and despite being primarily made of plastic, it is on the 
+heavier side. The Smart Flo Mettle 5X weighs 190 grams, which is 
+definitely not lightweight - when one holds the device for longer periods, 
+it does feel a bit bulky.On the first look, the design of the 
+Smart Flo Mettle 5X seems to be reminiscent of Nokia's dated E-series phones, 
+especially the rear panel. The Smart Flo Mettle 5X's rear panel is 
+removable and includes a metal part in the middle, which is covered with
+ rich plastic, better than the material used on the front panel. On
+ the other hand, the front panel of Smart Flo Mettle 5X is like any other budget Android smartphone, with the rounded 
+edges making the smartphone fairly comfortable to hold with one hand, 
+considering the screen size, but hard to work with just the thumb, of 
+course.The front of the Smart Flo Mettle 5X is dominated by the 
+5-inch display with three capacitive keys lined up below the screen for 
+settings, home and back. However, the buttons are not always backlit, and go off after a while, which we felt was odd. We initially struggled to
+ locate the three buttons below the display for use when it turned off, 
+in situations where there was no light in the room. In addition, 
+the Smart Flo Mettle 5X also features a notification red light below the three 
+soft touch keys, which lights up when there is a missed call, message, 
+and email. It's worth pointing out that the red notification light is 
+very much visible. The Smart Flo Mettle 5X's back panel houses an 
+8-megapixel camera along with a LED flash and the speaker grill is 
+located at the bottom left of the rear panel. There's Spice branding 
+visible on the back of the phone.The budget phablet comes with dimensions
+ of 148.5x78.9x10.4mm. The Spice Smart Flo Mettle 5X phone only 
+comes in White. There is a Micro-USB port accompanied by a
+ 3.5mm audio headphone port on the top of the device. The power key is 
+located on the right side and the volume rocker key on the left side of 
+the Spice Smart Flo Mettle 5X. As with most budget Android devices, 
+there is no dedicated camera button on the Spice Smart Flo Mettle 5X either. As of now, 
+almost all Android handset manufacturers do not include a dedicated 
+camera key, except Sony. The phone has a removable back cover and
+ opening it reveals the battery compartment with dual-SIM card slot and a
+ microSD card slot. The dual-SIM cards are not hot-swappable because 
+they are placed adjacent to the Spice Smart Flo Mettle 5X's battery, while the microSD card can be 
+removed without switching off the device. Overall, we found the Spice 
+Smart Flo Mettle 5X to be a reasonably good looking device, although we 
+wish it had been a bit lighter and would have had a textured back. The 
+glossy metal back panel on the Spice Smart Flo Mettle 5X, like that of the Pinnacle FHD, tends to slip out of hand, 
+when we used the device for prolonged period. DisplayThe 
+Spice Smart Flo Mettle 5X comes with a 5-inch display that has a 
+resolution of 480x854 pixels (FWVGA), which is very much a budget affair. The 
+pixel density stands at 233ppi, which is not too bad for an affordable device. 
+Considering the price at which the Smart Flo Mettle 5X comes, it offers 
+decent value, while it's no surprise that the smartphone's visuals are 
+not as sharp as high-end devices.The major issue on the display 
+front was the Smart Flo Mettle 5X's rather dull output - we used the smartphone
+ with brightness set at full, and were left unsatisfied. The screen is also extremely reflective. Trying to 
+use the Spice Smart Flo Mettle 5X on a sunny day can prove to be 
+annoying, with brightness set on auto or even full. Colour reproduction 
+and viewing angles of the Smart Flo Mettle 5X's display are not great. We also observed that the display of the Smart Flo Mettle 
+5X picked up smudges easily and is also a fingerprint magnet; we had a 
+tough time getting rid of them.During our review period, we 
+noticed slight distortion along the edges of the Smart Flo Mettle 5X's 
+display while watching videos or even viewing images. Thankfully, we 
+found the touch response of the screen to be decent. CameraThe
+ Spice Smart Flo Mettle 5X sports an 8-megapixel rear autofocus camera 
+and also includes a 1.3-megapixel front-facing camera. Keeping in
+ mind that the Smart Flo Mettle 5X is a sub Rs. 10,000 device, we found its camera performance to be par for the segment. The 
+8-megapixel rear camera takes images with some digital noise, and there is also a loss of detail, even in well-lit conditions. The images clicked by Smart Flo Mettle 5X
+ are good enough for uploading to social networks like Facebook, Twitter
+ etc, but not for much else.In low-light conditions, images lost 
+their sharpness. This is where the LED flash 
+comes into play, and does manage to fulfil its intended purpose, lighting the scene evenly. The Smart Flo
+ Mettle 5X can record VGA videos (640x480 pixels) too, but the quality is nothing great, with visible noise, and some stuttering. The 1.3-megapixel front-facing camera on the Smart Flo
+ Mettle 5X comes in handy for selfies though the quality is nothing to be write home about.The
+ Smart Flo Mettle 5X's camera app comes with a number of shooting modes, 
+including auto, HDR, Panorama, smile shot, landscape and face-detection.
+ The camera app of Smart Flo Mettle 5X also allows users to adjust 
+sharpness, saturation, hue, ISO, and brightness settings.Software/ InterfaceThe
+ Spice Smart Flo Mettle 5X runs Android 4.2.2 Jelly Bean out-of-the-box.
+ However, we must point out that the smartphone runs a highly-tweaked 
+version of Android Jelly Bean. Spice seems to have taken the benchmark 
+for other domestic handset makers a step further with its attempt. In
+ fact, when we first switched on the Smart Flo Mettle 5X, we were not 
+sure if the device was even running Android. If we could 
+remove the Google services and the Play Store app, the Smart Flo Mettle 5X 
+would look like it was running a different operating system, similar
+ to Xiaomi's MiUi interface, which is based on Android. Starting from 
+unlocking the device to searching for apps, the Smart Flo Mettle 5X has a
+ complete makeover.The Smart Flo Mettle 5X's lockscreen has four panes, one 
+includes the music player controls; second includes weather updates of 
+the current city; third is the main screen which, if slid upwards unlocks the device, and the last houses the camera app launcher. However,
+ one can get rid of the default Spice lockscreen by opting for Android's 
+original lockscreen, from which users can slide from left to right for 
+unlocking the device, while sliding right to left launches the 
+camera app.The Smart Flo Mettle 5X's OS doesn't offer the 
+traditional Android home screen - app launcher structure, but in its 
+place, it offers a little similar to the iPhone's and Gionee Elife E7's layout - the Smart Flo
+ Mettle 5X's homescreen is also the app launcher.We assume for 
+users switching to the Spice Smart Flo Mettle 5X from another Android 
+phone, the arrangement would be a little unsettling for the initial period, 
+but otherwise it might not be much of a problem.The Smart Flo 
+Mettle 5X can have up to nine homescreen panels, which can be populated 
+with app icons. Notably, the Smart Flo Mettle 5X doesn't support 
+widgets. Thankfully, the weather and time widgets are accessible from the 
+lockscreen.The notification tray on the Smart Flo Mettle 5X 
+features a settings shortcut, a clear all notifications button, along 
+with expandable notifications (expanded with the two finger pull 
+gesture). It features the same setting toggle shortcuts that are found 
+in stock Android for quick access to airplane mode, battery status, 
+Wi-Fi, Bluetooth, GPS, data connection, data usage, audio profiles, 
+brightness, screen backlight timeout, and auto rotation.The Spice Smart
+ Flo Mettle 5X also offers different set colour accent themes that can 
+change the look of the menu lists and some other elements. The phone 
+also features 'smart motion' gesture controls, such as the option of 'flip to mute' incoming calls.There
+ are plethora of pre-installed apps like Facebook, Hungama, Numbuzz, 
+Super power saver, OLX and WhatsApp. Also on board is the popular instant
+ chat service, BBM. Recently, BlackBerry announced that its 
+cross-platform messaging app, BBM, would be preinstalled 
+on a number of Android smartphones from domestic brands, including 
+Spice starting December 2013.For cloud computing fans, there is 
+Spice Cloud preloaded on the Smart Flo Mettle 5X, offering 2GB of storage free for the first few initial months. Users need to log-in to the app for using the 
+cloud service.The Spice Smart Flo Mettle 5X is secured with 
+Netqin Antivirus that takes care of malware attacks; however, it is only 
+available for a limited time. After this, users will need to switch to a
+ premium account. For editing Microsoft's Office files and documents, 
+there is the QuickOffice preinstalled. Spice also preloads a 'power saver 
+mode' on the Smart Flo Mettle 5X that limits processor utilization, and 
+turns off data sync and various connectivity options when the phone's 
+screen is locked for five minutes.The three capacitive buttons 
+for settings, home and back help in navigating through the Smart Flo 
+Mettle 5X, with the home button also doubling up as an app switcher/ 
+task manager on long press.Overall, Spice's attempt to give its 
+latest smartphone a revamped UI is indeed a good sign for future 
+devices, although we felt that the company needs to give some finishing 
+touches to some features, like the unlocking the phone, which are annoying in their difference initially, such as when an upward slide launches the camera. Also, searching for a particular app on the Smart Flo Mettle 5X's 
+homescreen becomes a tedious exercise.Performance/ Battery LifeThe
+ Spice Smart Flo Mettle 5X is powered by a dual-core 1.3GHz processor 
+(unspecified chipset) along with 512MB of RAM. Despite the modest 
+processor speed and limited amount of RAM on the Smart Flo Mettle 5X, it
+feels pleasingly responsive to use. The homescreens flip and 
+scroll in a lively way and apps load acceptably quickly. However,
+ the lack of grunt is noticeable in the Smart Flo Mettle 5X's browser as
+ it can sometimes be slow to render pages, and it often finds heavy 
+graphic games like Temple Run 2, Nun Attack, and Plants Vs Zombies 2 
+demanding to deal with. On the other hand, the experience of 
+playing some popular but not so heavy graphics games like Fruit Ninja, 
+Subway Surfers and Angry Birds Friends on the Smart Flo Mettle 5X was 
+acceptable.Considering the fact that the smartphone comes with a scanty 512MB
+ of RAM, it is not surprising the multi-tasking experience suffers and we experienced lags. 
+It includes 4GB of inbuilt storage out of which roughly 2GB is 
+user-available, although it supports expandable storage up to 32GB via 
+microSD card.Call quality on the Smart Flo Mettle 5X was 
+excellent on both the SIMs throughout our time with the phone. The phone
+ supports dual-SIM functionality with GSM+GSM. It was also able to get a
+ GPS lock easily while using the Maps app. It's worth pointing out that 
+the Smart Flo Mettle 5X supports 2G network only, and does not support 3G 
+network, which can be considered a big disadvantage for the device. Now,
+ smartphones with 3G support are available in the Indian market at Rs. 
+6,000.  The native music app on the Smart Flo Mettle 5X can play 
+MP3, MIDI, AAC, AMR and WAV audio formats. The music app in itself looks
+ quite basic but it offers equalizer presets. The quality of audio 
+through the loudspeakers is very good. However, the same cannot be said 
+about the supplied earphones with the smartphone.Further, we were
+ not able to play full-HD video clips on the Smart Flo Mettle 5X's native video player, but it supported formats like .AVI and .MP4, natively. Using a popular third-party player, we were able to play full-HD and HD videos, however, notably, .MKV videos played without sound.It 
+packs an 1800mAh battery that according to the company, can deliver up 
+to 4 hours of talktime and up to 150 hours standby time. In our Smart Flo 
+Mettle 5X battery 
+rundown test, we found the battery life to be very impressive. We
+ were able to get around a day and a half out of the Spice Smart Flo 
+Mettle 5X before it needed to be topped up with juice, which is better 
+than usual for most budget Android phones.We
+ charged the Smart Flo Mettle 5X in the morning, and with medium to 
+heavy usage, including 1 to 1.5 hours of phone calls; two email accounts
+ configured on the smartphone with push notifications; screen set at 
+maximum brightness; playing some music and watching our favourite video 
+clips through YouTube; Twitter and WhatsApp notifications, the Smart Flo
+ Mettle 5X easily lasted more than a day with the battery status showing
+ 40 percent at the end of the first day. It's also worth pointing out that we were primarily using mobile data (GPRS and EDGE), and occasionally connected the phone 
+to Wi-Fi. The Smart Flo Mettle 5X was hooked to a 2G network for most of
+ the time. Altering these settings might help in running the Smart Flo 
+Mettle 5X for a longer duration, depending on your usage pattern.VerdictThe
+ Spice Smart Flo Mettle 5X is a budget phablet that is capable of 
+handling most routine tasks and does so without burning a hole in 
+consumer's pocket. Yes, the phone does not have a sleek profile but 
+offers acceptable build in the pricing, and comes packed with what we 
+thought was decent hardware for its price point.Considering that 
+this is an entry level smartphone, the Smart Flo Mettle 5X performs decently. We did have our complaints with the phone however, such as the 
+low-resolution display, not very user-friendly interface, and the 
+lack of 3G support. Yes, in a perfect world, we would have 
+liked a more stock Android experience, a better camera and a better 
+resolution display. But all said and done, we cannot complain about what is
+ being offered when you consider the Rs. 6,500 price of the Smart Flo 
+Mettle 5X.Those looking for alternatives can try out the Nokia 
+Asha 503 dual-SIM which supports 3G networks or the Xolo A500S which 
+again supports 3G network and is available in the same price segment. 
+One can also go for the Samsung Galaxy Star Pro which is again available
+ in the same price range. However, it too does not support 3G 
+connectivity.Spice Smart Flo Mettle 5X in pictures
+
+One of the most remarkable trends in the mobile industry over the 
+past year has been the rise of the budget Android smartphones. A person looking 
+for a dual-SIM phone today has literally an ocean of options to choose 
+from. 
+
+The budget segment of the Indian smartphone market has seen
+ a slew of new releases of late, with a number of players like Micromax, Karbonn, Spice, Xolo, LG and Samsung among others. Nokia also makes it to the list with its range of popular and affordable Windows Phone 8 devices, such as the Lumia 520 and Lumia 720.
+
+Spice's latest hat throw into the budget smartphone ring, Spice Smart Flo Mettle 5X, supposedly delivers an high-end experience for less than Rs. 7,000. But how 
+well does it fare in reality? We find out, in our review.
+
+Design/ BuildThe Spice Smart Flo Mettle 
+5X has relatively standard smartphone looks. It is far from an 
+ultra-slim smartphone and despite being primarily made of plastic, it is on the 
+heavier side. The Smart Flo Mettle 5X weighs 190 grams, which is 
+definitely not lightweight - when one holds the device for longer periods, 
+it does feel a bit bulky.
+
+On the first look, the design of the 
+Smart Flo Mettle 5X seems to be reminiscent of Nokia's dated E-series phones, 
+especially the rear panel. The Smart Flo Mettle 5X's rear panel is 
+removable and includes a metal part in the middle, which is covered with
+ rich plastic, better than the material used on the front panel. 
+
+On
+ the other hand, the front panel of Smart Flo Mettle 5X is like any other budget Android smartphone, with the rounded 
+edges making the smartphone fairly comfortable to hold with one hand, 
+considering the screen size, but hard to work with just the thumb, of 
+course.
+
+The front of the Smart Flo Mettle 5X is dominated by the 
+5-inch display with three capacitive keys lined up below the screen for 
+settings, home and back. However, the buttons are not always backlit, and go off after a while, which we felt was odd. We initially struggled to
+ locate the three buttons below the display for use when it turned off, 
+in situations where there was no light in the room. 
+
+In addition, 
+the Smart Flo Mettle 5X also features a notification red light below the three 
+soft touch keys, which lights up when there is a missed call, message, 
+and email. It's worth pointing out that the red notification light is 
+very much visible. 
+
+The Smart Flo Mettle 5X's back panel houses an 
+8-megapixel camera along with a LED flash and the speaker grill is 
+located at the bottom left of the rear panel. There's Spice branding 
+visible on the back of the phone.
+
+The budget phablet comes with dimensions
+ of 148.5x78.9x10.4mm. The Spice Smart Flo Mettle 5X phone only 
+comes in White. There is a Micro-USB port accompanied by a
+ 3.5mm audio headphone port on the top of the device. The power key is 
+located on the right side and the volume rocker key on the left side of 
+the Spice Smart Flo Mettle 5X. 
+
+As with most budget Android devices, 
+there is no dedicated camera button on the Spice Smart Flo Mettle 5X either. As of now, 
+almost all Android handset manufacturers do not include a dedicated 
+camera key, except Sony. 
+
+The phone has a removable back cover and
+ opening it reveals the battery compartment with dual-SIM card slot and a
+ microSD card slot. The dual-SIM cards are not hot-swappable because 
+they are placed adjacent to the Spice Smart Flo Mettle 5X's battery, while the microSD card can be 
+removed without switching off the device.
+
+ Overall, we found the Spice 
+Smart Flo Mettle 5X to be a reasonably good looking device, although we 
+wish it had been a bit lighter and would have had a textured back. The 
+glossy metal back panel on the Spice Smart Flo Mettle 5X, like that of the Pinnacle FHD, tends to slip out of hand, 
+when we used the device for prolonged period. 
+
+DisplayThe 
+Spice Smart Flo Mettle 5X comes with a 5-inch display that has a 
+resolution of 480x854 pixels (FWVGA), which is very much a budget affair. The 
+pixel density stands at 233ppi, which is not too bad for an affordable device. 
+Considering the price at which the Smart Flo Mettle 5X comes, it offers 
+decent value, while it's no surprise that the smartphone's visuals are 
+not as sharp as high-end devices.
+
+The major issue on the display 
+front was the Smart Flo Mettle 5X's rather dull output - we used the smartphone
+ with brightness set at full, and were left unsatisfied. The screen is also extremely reflective. Trying to 
+use the Spice Smart Flo Mettle 5X on a sunny day can prove to be 
+annoying, with brightness set on auto or even full. 
+
+Colour reproduction 
+and viewing angles of the Smart Flo Mettle 5X's display are not great. We also observed that the display of the Smart Flo Mettle 
+5X picked up smudges easily and is also a fingerprint magnet; we had a 
+tough time getting rid of them.
+
+During our review period, we 
+noticed slight distortion along the edges of the Smart Flo Mettle 5X's 
+display while watching videos or even viewing images. Thankfully, we 
+found the touch response of the screen to be decent. 
+
+CameraThe
+ Spice Smart Flo Mettle 5X sports an 8-megapixel rear autofocus camera 
+and also includes a 1.3-megapixel front-facing camera. 
+
+Keeping in
+ mind that the Smart Flo Mettle 5X is a sub Rs. 10,000 device, we found its camera performance to be par for the segment. The 
+8-megapixel rear camera takes images with some digital noise, and there is also a loss of detail, even in well-lit conditions. The images clicked by Smart Flo Mettle 5X
+ are good enough for uploading to social networks like Facebook, Twitter
+ etc, but not for much else.
+
+In low-light conditions, images lost 
+their sharpness. This is where the LED flash 
+comes into play, and does manage to fulfil its intended purpose, lighting the scene evenly. The Smart Flo
+ Mettle 5X can record VGA videos (640x480 pixels) too, but the quality is nothing great, with visible noise, and some stuttering. 
+
+The 1.3-megapixel front-facing camera on the Smart Flo
+ Mettle 5X comes in handy for selfies though the quality is nothing to be write home about.
+
+The
+ Smart Flo Mettle 5X's camera app comes with a number of shooting modes, 
+including auto, HDR, Panorama, smile shot, landscape and face-detection.
+ The camera app of Smart Flo Mettle 5X also allows users to adjust 
+sharpness, saturation, hue, ISO, and brightness settings.
+
+Software/ InterfaceThe
+ Spice Smart Flo Mettle 5X runs Android 4.2.2 Jelly Bean out-of-the-box.
+ However, we must point out that the smartphone runs a highly-tweaked 
+version of Android Jelly Bean. Spice seems to have taken the benchmark 
+for other domestic handset makers a step further with its attempt. 
+
+In
+ fact, when we first switched on the Smart Flo Mettle 5X, we were not 
+sure if the device was even running Android. If we could 
+remove the Google services and the Play Store app, the Smart Flo Mettle 5X 
+would look like it was running a different operating system, similar
+ to Xiaomi's MiUi interface, which is based on Android. Starting from 
+unlocking the device to searching for apps, the Smart Flo Mettle 5X has a
+ complete makeover.
+
+The Smart Flo Mettle 5X's lockscreen has four panes, one 
+includes the music player controls; second includes weather updates of 
+the current city; third is the main screen which, if slid upwards unlocks the device, and the last houses the camera app launcher. 
+
+However,
+ one can get rid of the default Spice lockscreen by opting for Android's 
+original lockscreen, from which users can slide from left to right for 
+unlocking the device, while sliding right to left launches the 
+camera app.
+
+The Smart Flo Mettle 5X's OS doesn't offer the 
+traditional Android home screen - app launcher structure, but in its 
+place, it offers a little similar to the iPhone's and Gionee Elife E7's layout - the Smart Flo
+ Mettle 5X's homescreen is also the app launcher.
+
+We assume for 
+users switching to the Spice Smart Flo Mettle 5X from another Android 
+phone, the arrangement would be a little unsettling for the initial period, 
+but otherwise it might not be much of a problem.
+
+The Smart Flo 
+Mettle 5X can have up to nine homescreen panels, which can be populated 
+with app icons. Notably, the Smart Flo Mettle 5X doesn't support 
+widgets. Thankfully, the weather and time widgets are accessible from the 
+lockscreen.
+
+The notification tray on the Smart Flo Mettle 5X 
+features a settings shortcut, a clear all notifications button, along 
+with expandable notifications (expanded with the two finger pull 
+gesture). It features the same setting toggle shortcuts that are found 
+in stock Android for quick access to airplane mode, battery status, 
+Wi-Fi, Bluetooth, GPS, data connection, data usage, audio profiles, 
+brightness, screen backlight timeout, and auto rotation.
+
+The Spice Smart
+ Flo Mettle 5X also offers different set colour accent themes that can 
+change the look of the menu lists and some other elements. The phone 
+also features 'smart motion' gesture controls, such as the option of 'flip to mute' incoming calls.
+
+There
+ are plethora of pre-installed apps like Facebook, Hungama, Numbuzz, 
+Super power saver, OLX and WhatsApp. Also on board is the popular instant
+ chat service, BBM. Recently, BlackBerry announced that its 
+cross-platform messaging app, BBM, would be preinstalled 
+on a number of Android smartphones from domestic brands, including 
+Spice starting December 2013.
+
+For cloud computing fans, there is 
+Spice Cloud preloaded on the Smart Flo Mettle 5X, offering 2GB of storage free for the first few initial months. Users need to log-in to the app for using the 
+cloud service.
+
+The Spice Smart Flo Mettle 5X is secured with 
+Netqin Antivirus that takes care of malware attacks; however, it is only 
+available for a limited time. After this, users will need to switch to a
+ premium account. For editing Microsoft's Office files and documents, 
+there is the QuickOffice preinstalled. Spice also preloads a 'power saver 
+mode' on the Smart Flo Mettle 5X that limits processor utilization, and 
+turns off data sync and various connectivity options when the phone's 
+screen is locked for five minutes.
+
+The three capacitive buttons 
+for settings, home and back help in navigating through the Smart Flo 
+Mettle 5X, with the home button also doubling up as an app switcher/ 
+task manager on long press.
+
+Overall, Spice's attempt to give its 
+latest smartphone a revamped UI is indeed a good sign for future 
+devices, although we felt that the company needs to give some finishing 
+touches to some features, like the unlocking the phone, which are annoying in their difference initially, such as when an upward slide launches the camera. Also, searching for a particular app on the Smart Flo Mettle 5X's 
+homescreen becomes a tedious exercise.
+
+Performance/ Battery LifeThe
+ Spice Smart Flo Mettle 5X is powered by a dual-core 1.3GHz processor 
+(unspecified chipset) along with 512MB of RAM. Despite the modest 
+processor speed and limited amount of RAM on the Smart Flo Mettle 5X, it
+feels pleasingly responsive to use. The homescreens flip and 
+scroll in a lively way and apps load acceptably quickly. 
+
+However,
+ the lack of grunt is noticeable in the Smart Flo Mettle 5X's browser as
+ it can sometimes be slow to render pages, and it often finds heavy 
+graphic games like Temple Run 2, Nun Attack, and Plants Vs Zombies 2 
+demanding to deal with. 
+
+On the other hand, the experience of 
+playing some popular but not so heavy graphics games like Fruit Ninja, 
+Subway Surfers and Angry Birds Friends on the Smart Flo Mettle 5X was 
+acceptable.
+
+Considering the fact that the smartphone comes with a scanty 512MB
+ of RAM, it is not surprising the multi-tasking experience suffers and we experienced lags. 
+It includes 4GB of inbuilt storage out of which roughly 2GB is 
+user-available, although it supports expandable storage up to 32GB via 
+microSD card.
+
+Call quality on the Smart Flo Mettle 5X was 
+excellent on both the SIMs throughout our time with the phone. The phone
+ supports dual-SIM functionality with GSM+GSM. It was also able to get a
+ GPS lock easily while using the Maps app. It's worth pointing out that 
+the Smart Flo Mettle 5X supports 2G network only, and does not support 3G 
+network, which can be considered a big disadvantage for the device. Now,
+ smartphones with 3G support are available in the Indian market at Rs. 
+6,000.  
+
+The native music app on the Smart Flo Mettle 5X can play 
+MP3, MIDI, AAC, AMR and WAV audio formats. The music app in itself looks
+ quite basic but it offers equalizer presets. The quality of audio 
+through the loudspeakers is very good. However, the same cannot be said 
+about the supplied earphones with the smartphone.
+
+Further, we were
+ not able to play full-HD video clips on the Smart Flo Mettle 5X's native video player, but it supported formats like .AVI and .MP4, natively. Using a popular third-party player, we were able to play full-HD and HD videos, however, notably, .MKV videos played without sound.
+
+It 
+packs an 1800mAh battery that according to the company, can deliver up 
+to 4 hours of talktime and up to 150 hours standby time. In our Smart Flo 
+Mettle 5X battery 
+rundown test, we found the battery life to be very impressive. 
+
+We
+ were able to get around a day and a half out of the Spice Smart Flo 
+Mettle 5X before it needed to be topped up with juice, which is better 
+than usual for most budget Android phones.
+
+We
+ charged the Smart Flo Mettle 5X in the morning, and with medium to 
+heavy usage, including 1 to 1.5 hours of phone calls; two email accounts
+ configured on the smartphone with push notifications; screen set at 
+maximum brightness; playing some music and watching our favourite video 
+clips through YouTube; Twitter and WhatsApp notifications, the Smart Flo
+ Mettle 5X easily lasted more than a day with the battery status showing
+ 40 percent at the end of the first day. 
+
+It's also worth pointing out that we were primarily using mobile data (GPRS and EDGE), and occasionally connected the phone 
+to Wi-Fi. The Smart Flo Mettle 5X was hooked to a 2G network for most of
+ the time. Altering these settings might help in running the Smart Flo 
+Mettle 5X for a longer duration, depending on your usage pattern.
+
+VerdictThe
+ Spice Smart Flo Mettle 5X is a budget phablet that is capable of 
+handling most routine tasks and does so without burning a hole in 
+consumer's pocket. Yes, the phone does not have a sleek profile but 
+offers acceptable build in the pricing, and comes packed with what we 
+thought was decent hardware for its price point.
+
+Considering that 
+this is an entry level smartphone, the Smart Flo Mettle 5X performs decently. We did have our complaints with the phone however, such as the 
+low-resolution display, not very user-friendly interface, and the 
+lack of 3G support. Yes, in a perfect world, we would have 
+liked a more stock Android experience, a better camera and a better 
+resolution display. But all said and done, we cannot complain about what is
+ being offered when you consider the Rs. 6,500 price of the Smart Flo 
+Mettle 5X.
+
+Those looking for alternatives can try out the Nokia 
+Asha 503 dual-SIM which supports 3G networks or the Xolo A500S which 
+again supports 3G network and is available in the same price segment. 
+One can also go for the Samsung Galaxy Star Pro which is again available
+ in the same price range. However, it too does not support 3G 
+connectivity.
+
+
+

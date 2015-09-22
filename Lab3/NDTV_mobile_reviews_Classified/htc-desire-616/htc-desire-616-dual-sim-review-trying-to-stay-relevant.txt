@@ -1,0 +1,247 @@
+HTC Desire 616 Dual SIM Review: Trying to Stay Relevant
+
+Many
+ reports are now suggesting that the sales of the HTC One M8 and the 
+Desire 816 are helping to revive the Taiwanese phone company's declining
+ fortunes. Latching on to this positive outlook, HTC announced the 
+Desire 616 Dual SIM along with the One (E8). The HTC Desire 616 
+Dual SIM is the company's great hope in the sub-20k market, and to keep 
+costs low, HTC has opted for a MediaTek processor to it. The Desire 616 
+Dual SIM was launched at a price of Rs. 16,990, which looked like a good
+ bargain at that time. However, there has been a sudden tectonic shift 
+in the smartphone market created by Xiaomi and Asus. With powerful new 
+competition and cutthroat pricing to deal with, HTC will have to do a 
+lot of work in order to stay relevant. Look and FeelHTC's 
+smartphone designs of late have followed a trend which started with the 
+One (M7) (review). The HTC Desire 616 Dual SIM adheres to this design language 
+but changes things around a bit, though we don't think it works 
+favourably this time. The Desire 616 Dual SIM is made entirely of 
+plastic and its glossy back looks cheap. There is a good looking strip 
+of matte plastic above the screen which continues around the device's 
+sides; a design cue borrowed from the Desire 816. It feels inconsistent 
+here because there is no matching strip on the bottom. The toughened 
+glass protecting the screen flows till the lower edge. Thankfully,
+ the curved back makes the phone look slimmer than its actual girth of 
+9.15mm. The Desire 616 Dual SIM feels comfortable to hold and our thumbs
+ could reach the top of the screen with ease. The microphone and 
+Micro-USB port for charging/data transfer are on the bottom of the 
+phone, while the top has the 3.5mm audio jack. The right edge of the 
+Desire 616 Dual SIM has the volume rocker and power button, both made of
+ plastic. The tactile feedback of these buttons is pretty good. Above 
+the screen is the earpiece grill which looks like the front-firing 
+speakers on the Desire 816. Beside the earpiece are the array of sensors
+ and the front camera. On the rear are the loudspeaker, an HTC logo, and
+ the primary camera with its flash. Features and SpecificationsHTC
+ has gone with the octa-core MediaTek MT6592 SoC clocked at 1.4GHz with 
+Mali-450MP4 graphics. Supplementing it is 1GB of RAM, and there is 4GB 
+of internal storage space with the option of adding up to 32GB more 
+using microSD cards. The 32GB limit is a bit of a downer since even 
+cheaper phones support higher capacities. The phone has a Dual-SIM
+ setup - one regular (Mini) SIM and the other Micro-SIM. The primary SIM
+ card (regular) can connect to 3G networks while the secondary (Micro) 
+cannot. The phone can connect to Wi-Fi a/b/g/n networks. It also has an 
+8-megapixel primary camera which can shoot 1080p videos. The 2-megapixel
+ front camera can shoot 720p videos. HTC has added FM radio as an option
+ for entertainment.The Desire 616 Dual SIM's 5-inch screen has a 
+resolution of 720x1280 which translates to a pixel density of 294ppi. 
+On-screen capacitive buttons take up a bit of the display real estate 
+but we don't think it is too much of a problem. The colours on the 
+screen have a pleasant warm tone, and the saturation level and the 
+maximum brightness level are decent too. Unfortunately, when viewed at 
+an angle there is very evident discolouration, and sunlight legibility 
+isn't great either. SoftwareUnlike the HTC One (M8) and 
+its younger sibling One (E8), the Desire 616 Dual SIM doesn't have 
+either Android 4.4 KitKat or HTC Sense 6 UI slapped on top of it. 
+Instead, HTC has decided to go with Android 4.2.2 Jelly Bean and Sense 
+5.5. The company has promised an update to Android Kitkat, though. The
+ software is no different from what we saw running on the Desire 816. 
+BlinkFeed occupies the left-most homescreen, and it still showcases 
+content from various social networks and any feeds you want to add. It 
+is a good thing that BlinkFeed can also be turned off. There is the 
+competent Polaris Office 5 app for viewing, creating and editing 
+documents. Also present is the regular suite of Google apps. CameraAfter
+ a wonderful experience with the 13-megapixel shooter on the HTC Desire 
+816 we had a lot of expectations from the 8-megapixel camera on this 
+phone. We came away disappointed. The camera app itself is not a 
+patch on the minimalistic app used by the HTC Desire 816. It is chunky 
+and does not have a lot of features. For example, the depth of field 
+feature is missing. Coming to the quality of captured images, 
+those we took even in daylight were low on detail and there was noise as
+ well. However, the colours were natural. Images shot in low light were 
+not usable. Videos captured at 1080p also suffered in our daylight 
+testing. The 2-megapixel front camera isn't good for much either. PerformanceAided
+ by its powerful octa-core processor, the phone performs really well in 
+day-to-day usage. You can easily navigate around the UI and switch 
+between multiple apps without any stutter. The phone scored 
+23,272 and 12,185 respectively in our AnTuTu and Quadrant benchmark 
+tests. The AnTuTu score is higher and the Quadrant score is lower than 
+what the Snapdragon-400-toting Desire 816 achieved. The Desire 616 Dual 
+SIM also slightly edged out its bigger sibling in our graphics benchmark
+ tests, with scores of 7,981 in the intensive 3DMark Ice Storm test and 
+13.1fps in GFXbench. We played a little bit of Asphalt 8 and the phone 
+didn't lag during the gameplay. In our video tests, the Desire 
+616 Dual SIM managed to play even our higher bit-rate Full-HD videos, 
+but it skipped a few frames. We put the phone through our intensive 
+battery test and it managed to last us 6 hours, 55 minutes before it 
+died. This should translate to a day's worth of battery life in real 
+world usage. The loudspeaker volume is really low and lacks 
+clarity. We were also completely surprised that the sound quality 
+through headphones was not that good either. The earpiece volume is low 
+and as a result, we had to stress to hear the person on the other side 
+of phone calls. VerdictAs we've already stated, the 
+arrival of the Xiaomi Mi 3 (Review I Pictures) at a throwaway price has changed the entire 
+market's dynamics. The Mi 3, with its blazing fast performance, looks 
+like it offers better value at Rs. 13,999 than the Desire 616 Dual SIM 
+does at Rs. 16,990. The only silver lining for HTC is the fact 
+that Xiaomi's stocks are limited and the Mi 3 is sold only during flash 
+sales on Flipkart. Snagging one is bound to be a hassle, which might put
+ off lots of potential buyers. On the other hand, the HTC Desire 616 
+Dual SIM can be found at any retail store right now. In any case,
+ we cannot recommend the HTC Desire 616 Dual SIM whole-heartedly after 
+our experiences with it when cheaper, better options such as the 
+Motorola Moto G (review | pictures) and Asus ZenFone 5 (review | pictures) are available right now (in addition 
+to the Mi 3). Moreover, if you don't mind a bigger screen, you might 
+even want to consider the Asus ZenFone 6 (review | pictures) at the same price.
+HTC Desire 616 Dual SIM in pictures
+
+Many
+ reports are now suggesting that the sales of the HTC One M8 and the 
+Desire 816 are helping to revive the Taiwanese phone company's declining
+ fortunes. Latching on to this positive outlook, HTC announced the 
+Desire 616 Dual SIM along with the One (E8). 
+
+The HTC Desire 616 
+Dual SIM is the company's great hope in the sub-20k market, and to keep 
+costs low, HTC has opted for a MediaTek processor to it. The Desire 616 
+Dual SIM was launched at a price of Rs. 16,990, which looked like a good
+ bargain at that time. However, there has been a sudden tectonic shift 
+in the smartphone market created by Xiaomi and Asus. With powerful new 
+competition and cutthroat pricing to deal with, HTC will have to do a 
+lot of work in order to stay relevant. 
+
+Look and FeelHTC's 
+smartphone designs of late have followed a trend which started with the 
+One (M7) (review). The HTC Desire 616 Dual SIM adheres to this design language 
+but changes things around a bit, though we don't think it works 
+favourably this time. The Desire 616 Dual SIM is made entirely of 
+plastic and its glossy back looks cheap. There is a good looking strip 
+of matte plastic above the screen which continues around the device's 
+sides; a design cue borrowed from the Desire 816. It feels inconsistent 
+here because there is no matching strip on the bottom. The toughened 
+glass protecting the screen flows till the lower edge. 
+
+Thankfully,
+ the curved back makes the phone look slimmer than its actual girth of 
+9.15mm. The Desire 616 Dual SIM feels comfortable to hold and our thumbs
+ could reach the top of the screen with ease. 
+
+The microphone and 
+Micro-USB port for charging/data transfer are on the bottom of the 
+phone, while the top has the 3.5mm audio jack. The right edge of the 
+Desire 616 Dual SIM has the volume rocker and power button, both made of
+ plastic. The tactile feedback of these buttons is pretty good. Above 
+the screen is the earpiece grill which looks like the front-firing 
+speakers on the Desire 816. Beside the earpiece are the array of sensors
+ and the front camera. On the rear are the loudspeaker, an HTC logo, and
+ the primary camera with its flash. 
+
+Features and SpecificationsHTC
+ has gone with the octa-core MediaTek MT6592 SoC clocked at 1.4GHz with 
+Mali-450MP4 graphics. Supplementing it is 1GB of RAM, and there is 4GB 
+of internal storage space with the option of adding up to 32GB more 
+using microSD cards. The 32GB limit is a bit of a downer since even 
+cheaper phones support higher capacities. 
+
+The phone has a Dual-SIM
+ setup - one regular (Mini) SIM and the other Micro-SIM. The primary SIM
+ card (regular) can connect to 3G networks while the secondary (Micro) 
+cannot. The phone can connect to Wi-Fi a/b/g/n networks. It also has an 
+8-megapixel primary camera which can shoot 1080p videos. The 2-megapixel
+ front camera can shoot 720p videos. HTC has added FM radio as an option
+ for entertainment.
+
+The Desire 616 Dual SIM's 5-inch screen has a 
+resolution of 720x1280 which translates to a pixel density of 294ppi. 
+On-screen capacitive buttons take up a bit of the display real estate 
+but we don't think it is too much of a problem. The colours on the 
+screen have a pleasant warm tone, and the saturation level and the 
+maximum brightness level are decent too. Unfortunately, when viewed at 
+an angle there is very evident discolouration, and sunlight legibility 
+isn't great either. 
+
+SoftwareUnlike the HTC One (M8) and 
+its younger sibling One (E8), the Desire 616 Dual SIM doesn't have 
+either Android 4.4 KitKat or HTC Sense 6 UI slapped on top of it. 
+Instead, HTC has decided to go with Android 4.2.2 Jelly Bean and Sense 
+5.5. The company has promised an update to Android Kitkat, though. 
+
+The
+ software is no different from what we saw running on the Desire 816. 
+BlinkFeed occupies the left-most homescreen, and it still showcases 
+content from various social networks and any feeds you want to add. It 
+is a good thing that BlinkFeed can also be turned off. There is the 
+competent Polaris Office 5 app for viewing, creating and editing 
+documents. Also present is the regular suite of Google apps. 
+
+CameraAfter
+ a wonderful experience with the 13-megapixel shooter on the HTC Desire 
+816 we had a lot of expectations from the 8-megapixel camera on this 
+phone. We came away disappointed. 
+
+The camera app itself is not a 
+patch on the minimalistic app used by the HTC Desire 816. It is chunky 
+and does not have a lot of features. For example, the depth of field 
+feature is missing. 
+
+Coming to the quality of captured images, 
+those we took even in daylight were low on detail and there was noise as
+ well. However, the colours were natural. Images shot in low light were 
+not usable. Videos captured at 1080p also suffered in our daylight 
+testing. The 2-megapixel front camera isn't good for much either. 
+
+PerformanceAided
+ by its powerful octa-core processor, the phone performs really well in 
+day-to-day usage. You can easily navigate around the UI and switch 
+between multiple apps without any stutter. 
+
+The phone scored 
+23,272 and 12,185 respectively in our AnTuTu and Quadrant benchmark 
+tests. The AnTuTu score is higher and the Quadrant score is lower than 
+what the Snapdragon-400-toting Desire 816 achieved. The Desire 616 Dual 
+SIM also slightly edged out its bigger sibling in our graphics benchmark
+ tests, with scores of 7,981 in the intensive 3DMark Ice Storm test and 
+13.1fps in GFXbench. We played a little bit of Asphalt 8 and the phone 
+didn't lag during the gameplay. 
+
+In our video tests, the Desire 
+616 Dual SIM managed to play even our higher bit-rate Full-HD videos, 
+but it skipped a few frames. We put the phone through our intensive 
+battery test and it managed to last us 6 hours, 55 minutes before it 
+died. This should translate to a day's worth of battery life in real 
+world usage. 
+
+The loudspeaker volume is really low and lacks 
+clarity. We were also completely surprised that the sound quality 
+through headphones was not that good either. The earpiece volume is low 
+and as a result, we had to stress to hear the person on the other side 
+of phone calls. 
+
+VerdictAs we've already stated, the 
+arrival of the Xiaomi Mi 3 (Review I Pictures) at a throwaway price has changed the entire 
+market's dynamics. The Mi 3, with its blazing fast performance, looks 
+like it offers better value at Rs. 13,999 than the Desire 616 Dual SIM 
+does at Rs. 16,990. 
+
+The only silver lining for HTC is the fact 
+that Xiaomi's stocks are limited and the Mi 3 is sold only during flash 
+sales on Flipkart. Snagging one is bound to be a hassle, which might put
+ off lots of potential buyers. On the other hand, the HTC Desire 616 
+Dual SIM can be found at any retail store right now. 
+
+In any case,
+ we cannot recommend the HTC Desire 616 Dual SIM whole-heartedly after 
+our experiences with it when cheaper, better options such as the 
+Motorola Moto G (review | pictures) and Asus ZenFone 5 (review | pictures) are available right now (in addition 
+to the Mi 3). Moreover, if you don't mind a bigger screen, you might 
+even want to consider the Asus ZenFone 6 (review | pictures) at the same price.
+

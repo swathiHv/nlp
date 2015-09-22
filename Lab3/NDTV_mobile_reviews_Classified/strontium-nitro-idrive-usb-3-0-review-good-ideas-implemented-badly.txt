@@ -1,0 +1,340 @@
+Strontium Nitro iDrive USB 3.0 Review: Good Ideas Implemented Badly
+
+Since the very first iPhone came out over eight years ago, Apple has 
+adamantly refused to let users manage their own storage. Not only has 
+there never been support for storage expansion, but you are restricted 
+from browsing through the contents of your device so you can at least 
+see what's going on. The idea is that users never have to be faced with 
+pointless choices about what goes where, and security barriers are more 
+important than interoperability.Apple has not exactly been 
+generous with storage, and most people buy base models with less space 
+than they'd ideally like because of the high cost of stepping up. 16GB 
+fills up very quickly when you take lots of photos and videos, or if you
+ need lots of apps.Strontium is one of a few companies launching 
+external modules that plug into iOS devices' Lightning ports for a 
+storage boost. While the Nitro iDrive USB 3.0 looks and feels like a 
+standard pen drive - especially the dual-connector ones now available 
+for use with Android devices - you can't simply plug it to give your 
+Apple device a magical storage boost. We're going to examine how it 
+works and whether it is the solution you've always wanted.Look and feelThe
+ Strontium Nitro iDrive USB 3.0 is a bit larger than the chunkiest pen 
+drives available today. The front and back bulge outwards while the 
+sides, top and bottom are flat. The two ends are capped with clear 
+plastic removable lids, which seem like they'd be easy to lose track of.
+ The edges and corners are extremely sharp - enough so that we scratched
+ ourselves quite badly multiple times. The white plastic can also get 
+slippery and so we weren't happy at all with the ergonomics.There's
+ a Strontium logo on the front with the capacity printed below it in a 
+needlessly large point size. A status LED shines red through the plastic
+ in one corner when the drive is plugged in to a PC and blue when 
+plugged in to an iOS device. The rear is a little more interesting - 
+apart from the usual regulatory logos, there's a line saying "Powered by
+ PhotoFast" which tells us that Strontium's product is pretty much 
+identical to the PhotoFast i-Flash Drive. PhotoFast has been developing 
+such drives for Apple devices since at least 2011 - the first model 
+featured a 30-pin connector for older devices. When plugged into 
+an iPhone or iPad, the Nitro iDrive will stick out quite conspicuously. 
+That and its sharp edges make it hard to imagine using an iPhone with 
+the Nitro iDrive plugged in all the time. It's awkward to hold and use 
+devices with this block sticking out of them, especially when on the 
+move. You're much better off using it to swap files onto your iPhone or 
+iPad rather than leaving it plugged in. In that sense, you can't really 
+use it to permanently add more storage space to your phone.  You'll
+ also need to take your iPhone or iPad out of any cover it might be in, 
+unless enough space around the Lightning port is exposed to accommodate 
+the Nitro iDrive. The appApple forces iOS apps to stay 
+within their own pools of storage, and there's no way to make them 
+recognise files stored anywhere else. You can't browse the contents of 
+your iPhone or iPad to find documents and then decide how they should be
+ opened. That means the only way to access anything on the Strontium 
+Nitro iDrive is through its own app. iOS accessories are allowed 
+to prompt you to download an app (or launch it if you have it already), 
+and that's what happens every time you plug the Nitro iDrive in. That 
+saves you the trouble of searching through the App Store, which is good 
+because the app in question is the one PhotoFast created for its own 
+products. Searching for 'Strontium' won't bring up anything useful, 
+which is not a surprise considering the iDrive itself is just a 
+rebranded PhotoFast drive. The app isn't particularly well 
+designed and we needed a little while to get used to it. For starters, 
+it threw up a barrage of permission prompts upon the first use: it 
+wanted to send notifications and access our calendar, contacts and 
+photos. Seeing no reason it should be allowed to do any of these things,
+ we declined. It was only later that we discovered that the app has 
+modules for backing up photos, contacts and calendars.Icons and 
+navigation cues are far from standard, leaving you guessing what to do 
+quite often.  A lot of the screen is wasted on a huge graphic showing 
+how much free space there is on your phone. If you swipe to the left, 
+you'll see the same graphic for free space on the Nitro iDrive (when 
+it's plugged in) which is more useful to know. Below that, there are 
+icons for the various modules - sixteen in all, with very little 
+functional organisation. In addition to the self-explanatory Music, 
+Photo, Video and Documents, there's Recorder, Dropbox and Search. There 
+are also individual icons for backing up contacts, photos and calendars,
+ as well as another Backup All icon. The app can handle playback 
+of most audio and video formats, and also display PDFs, PowerPoint 
+presentations and Word documents (though Excel files failed for us). 
+Within each content silo in the app is a toggle that switches the view 
+between files stored on your device and content on the Nitro iDrive. You
+ can copy files onto your iOS device so that you don't have the Nitro 
+iDrive sticking out all the time - though that pretty much defeats its 
+purpose. Even so, all files remain within the app - you can't add songs 
+to the iOS Music app, for example. Given this limitation, there are 
+dozens of other media player apps which are far easier to use and far 
+more capable. The Personal Cloud module lets you connect to 
+Google Drive, Facebook and Dropbox in order to access and copy data 
+stored there - but there's also a Dropbox icon in the main list. 
+Similarly, there are icons for In-App Storage and External Storage, 
+showing you content in folders rather than sorted by media type. Buried 
+within the Settings menu are options for data security and automatic 
+synchronisation.The only reason we would use this app rather than
+ an alternative media players is that the Nitro iDrive hardware lets you
+ easily copy all kinds of files from a PC to your iOS device and vice 
+versa. Other apps can only be used to store files on-device but only 
+through iTunes or a Web browser. Other than that, it is simply too 
+awkward and inconsistent.PerformanceWe tested the USB 
+functionality of the Strontium Nitro iDrive with a desktop PC, and we 
+also used it with an iPhone 5c, an iPhone 6, a fourth-generation iPad 
+and an iPad Air 2. When plugged into the PC, it behaved just as any 
+other USB storage device would. The Nitro iDrive needs to be formatted 
+in FAT32 in order to be recognised by iOS.Despite the support for
+ USB 3.0, raw speeds were just about okay. We recorded 90.48Mbps and 
+84Mbps sequential and random read speeds respectively, while the same 
+write speeds were 16.55Mbps and 7.1Mbps respectively. Trouble 
+arose when we began using it with our iOS devices. For some reason, 
+while all functions seemed to work perfectly on both iPads, the two 
+iPhones couldn't recognise any content on it. They detected that the 
+drive was plugged in, but reported it to be blank. The app allowed us to
+ copy photos from the phones' camera rolls to the iDrive, create new 
+files on it and even back up our information, but still couldn't 
+recognise that content afterwards (though we could retrieve it normally 
+through the iPads and PC). All test devices were running either iOS 8.2 
+or 8.3 and no amount of restarting and updating had any effect.After
+ corresponding with Strontium's technical staff for two days, the 
+problem was identified. It turned out to have nothing to do with the 
+type of iOS device used. A bug in the app affects how it recognises the 
+time, which for some reason prevents files from being displayed. Devices
+ set to display the time in 12-hour format will be affected, but those 
+set to 24-hour can recognise the iDrive just fine. It seems ridiculous 
+to us that such a bug should exist, but what's even worse is that the 
+company had no clue about it even though the Nitro iDrive has been on 
+sale for nearly three months.The version of the app we tested was
+ 1.3.8, and Strontium told us that an update has been submitted to the 
+App Store. However, as of the publishing date of this review, there is 
+no indication whatsoever to customers that they might encounter a 
+problem this severe, and no mention of the awkward temporary workaround 
+or the impending fix. There's no telling how many people have 
+already bought a Nitro iDrive based on the features promised and have 
+been unable to use it. It is therefore impossible for us to consider the
+ Strontium Nitro iDrive a working product until the update is released. VerdictThe
+ Strontium Nitro iDrive could work for you if you are willing to change 
+your device's time display format. It's a good way to transfer files to 
+and from your iPad or iPhone without the hassle of syncing through 
+iTunes, and will come in handy for periodically backing up photos and 
+personal information. However with no warning to buyers of the critical 
+time format bug, we simply cannot recommend this product. There are 
+alternatives in the market such as SanDisk's iXpand Flash Drive which we
+ will test soon.If you do choose to buy one anyway, the Strontium
+ Nitro iDrive is available in capacities of 16GB, 32GB and 64GB at 
+street prices of Rs. 4,200, 5,000 and 6,200 respectively. Given the 
+relatively minor price differences between them, it makes almost no 
+sense to get the smallest one. However, considering that you can't 
+actually expand your iOS device's storage space, it would actually be a 
+viable alternative to pick up a low-cost Android phone such as the 
+Xiaomi Redmi 2 (Review | Pictures) as a secondary device for entertainment. MicroSD cards 
+are cheap and easily available, and today's entry-level phones can 
+handle all kinds of audio and video files.Price (MRP): Rs. 5,145 (16GB); Rs. 6,195 (32GB); Rs. 7,245 (64GB)ProsExpands limited storage on iOS devicesLightweight and portableConsiOS limits file accessApp interface needs improvementCritical bug prevents use on devices with specific time display formatRatings (Out of 5)Design: 2Performance: 2.5Value for Money: 3Overall: 2.5
+
+Since the very first iPhone came out over eight years ago, Apple has 
+adamantly refused to let users manage their own storage. Not only has 
+there never been support for storage expansion, but you are restricted 
+from browsing through the contents of your device so you can at least 
+see what's going on. The idea is that users never have to be faced with 
+pointless choices about what goes where, and security barriers are more 
+important than interoperability.
+
+Apple has not exactly been 
+generous with storage, and most people buy base models with less space 
+than they'd ideally like because of the high cost of stepping up. 16GB 
+fills up very quickly when you take lots of photos and videos, or if you
+ need lots of apps.
+
+Strontium is one of a few companies launching 
+external modules that plug into iOS devices' Lightning ports for a 
+storage boost. While the Nitro iDrive USB 3.0 looks and feels like a 
+standard pen drive - especially the dual-connector ones now available 
+for use with Android devices - you can't simply plug it to give your 
+Apple device a magical storage boost. We're going to examine how it 
+works and whether it is the solution you've always wanted.
+
+Look and feelThe
+ Strontium Nitro iDrive USB 3.0 is a bit larger than the chunkiest pen 
+drives available today. The front and back bulge outwards while the 
+sides, top and bottom are flat. The two ends are capped with clear 
+plastic removable lids, which seem like they'd be easy to lose track of.
+ The edges and corners are extremely sharp - enough so that we scratched
+ ourselves quite badly multiple times. The white plastic can also get 
+slippery and so we weren't happy at all with the ergonomics.
+
+There's
+ a Strontium logo on the front with the capacity printed below it in a 
+needlessly large point size. A status LED shines red through the plastic
+ in one corner when the drive is plugged in to a PC and blue when 
+plugged in to an iOS device. The rear is a little more interesting - 
+apart from the usual regulatory logos, there's a line saying "Powered by
+ PhotoFast" which tells us that Strontium's product is pretty much 
+identical to the PhotoFast i-Flash Drive. PhotoFast has been developing 
+such drives for Apple devices since at least 2011 - the first model 
+featured a 30-pin connector for older devices. 
+
+When plugged into 
+an iPhone or iPad, the Nitro iDrive will stick out quite conspicuously. 
+That and its sharp edges make it hard to imagine using an iPhone with 
+the Nitro iDrive plugged in all the time. It's awkward to hold and use 
+devices with this block sticking out of them, especially when on the 
+move. You're much better off using it to swap files onto your iPhone or 
+iPad rather than leaving it plugged in. In that sense, you can't really 
+use it to permanently add more storage space to your phone.  
+
+You'll
+ also need to take your iPhone or iPad out of any cover it might be in, 
+unless enough space around the Lightning port is exposed to accommodate 
+the Nitro iDrive. 
+
+The appApple forces iOS apps to stay 
+within their own pools of storage, and there's no way to make them 
+recognise files stored anywhere else. You can't browse the contents of 
+your iPhone or iPad to find documents and then decide how they should be
+ opened. That means the only way to access anything on the Strontium 
+Nitro iDrive is through its own app. 
+
+iOS accessories are allowed 
+to prompt you to download an app (or launch it if you have it already), 
+and that's what happens every time you plug the Nitro iDrive in. That 
+saves you the trouble of searching through the App Store, which is good 
+because the app in question is the one PhotoFast created for its own 
+products. Searching for 'Strontium' won't bring up anything useful, 
+which is not a surprise considering the iDrive itself is just a 
+rebranded PhotoFast drive.
+
+ 
+
+The app isn't particularly well 
+designed and we needed a little while to get used to it. For starters, 
+it threw up a barrage of permission prompts upon the first use: it 
+wanted to send notifications and access our calendar, contacts and 
+photos. Seeing no reason it should be allowed to do any of these things,
+ we declined. It was only later that we discovered that the app has 
+modules for backing up photos, contacts and calendars.
+
+Icons and 
+navigation cues are far from standard, leaving you guessing what to do 
+quite often.  A lot of the screen is wasted on a huge graphic showing 
+how much free space there is on your phone. If you swipe to the left, 
+you'll see the same graphic for free space on the Nitro iDrive (when 
+it's plugged in) which is more useful to know. Below that, there are 
+icons for the various modules - sixteen in all, with very little 
+functional organisation. In addition to the self-explanatory Music, 
+Photo, Video and Documents, there's Recorder, Dropbox and Search. There 
+are also individual icons for backing up contacts, photos and calendars,
+ as well as another Backup All icon. 
+
+The app can handle playback 
+of most audio and video formats, and also display PDFs, PowerPoint 
+presentations and Word documents (though Excel files failed for us). 
+Within each content silo in the app is a toggle that switches the view 
+between files stored on your device and content on the Nitro iDrive. You
+ can copy files onto your iOS device so that you don't have the Nitro 
+iDrive sticking out all the time - though that pretty much defeats its 
+purpose. Even so, all files remain within the app - you can't add songs 
+to the iOS Music app, for example. Given this limitation, there are 
+dozens of other media player apps which are far easier to use and far 
+more capable. 
+
+The Personal Cloud module lets you connect to 
+Google Drive, Facebook and Dropbox in order to access and copy data 
+stored there - but there's also a Dropbox icon in the main list. 
+Similarly, there are icons for In-App Storage and External Storage, 
+showing you content in folders rather than sorted by media type. Buried 
+within the Settings menu are options for data security and automatic 
+synchronisation.
+
+The only reason we would use this app rather than
+ an alternative media players is that the Nitro iDrive hardware lets you
+ easily copy all kinds of files from a PC to your iOS device and vice 
+versa. Other apps can only be used to store files on-device but only 
+through iTunes or a Web browser. Other than that, it is simply too 
+awkward and inconsistent.
+
+PerformanceWe tested the USB 
+functionality of the Strontium Nitro iDrive with a desktop PC, and we 
+also used it with an iPhone 5c, an iPhone 6, a fourth-generation iPad 
+and an iPad Air 2. When plugged into the PC, it behaved just as any 
+other USB storage device would. The Nitro iDrive needs to be formatted 
+in FAT32 in order to be recognised by iOS.
+
+Despite the support for
+ USB 3.0, raw speeds were just about okay. We recorded 90.48Mbps and 
+84Mbps sequential and random read speeds respectively, while the same 
+write speeds were 16.55Mbps and 7.1Mbps respectively. 
+
+Trouble 
+arose when we began using it with our iOS devices. For some reason, 
+while all functions seemed to work perfectly on both iPads, the two 
+iPhones couldn't recognise any content on it. They detected that the 
+drive was plugged in, but reported it to be blank. The app allowed us to
+ copy photos from the phones' camera rolls to the iDrive, create new 
+files on it and even back up our information, but still couldn't 
+recognise that content afterwards (though we could retrieve it normally 
+through the iPads and PC). All test devices were running either iOS 8.2 
+or 8.3 and no amount of restarting and updating had any effect.
+
+After
+ corresponding with Strontium's technical staff for two days, the 
+problem was identified. It turned out to have nothing to do with the 
+type of iOS device used. A bug in the app affects how it recognises the 
+time, which for some reason prevents files from being displayed. Devices
+ set to display the time in 12-hour format will be affected, but those 
+set to 24-hour can recognise the iDrive just fine. It seems ridiculous 
+to us that such a bug should exist, but what's even worse is that the 
+company had no clue about it even though the Nitro iDrive has been on 
+sale for nearly three months.
+
+The version of the app we tested was
+ 1.3.8, and Strontium told us that an update has been submitted to the 
+App Store. However, as of the publishing date of this review, there is 
+no indication whatsoever to customers that they might encounter a 
+problem this severe, and no mention of the awkward temporary workaround 
+or the impending fix. 
+
+There's no telling how many people have 
+already bought a Nitro iDrive based on the features promised and have 
+been unable to use it. It is therefore impossible for us to consider the
+ Strontium Nitro iDrive a working product until the update is released. 
+
+VerdictThe
+ Strontium Nitro iDrive could work for you if you are willing to change 
+your device's time display format. It's a good way to transfer files to 
+and from your iPad or iPhone without the hassle of syncing through 
+iTunes, and will come in handy for periodically backing up photos and 
+personal information. However with no warning to buyers of the critical 
+time format bug, we simply cannot recommend this product. There are 
+alternatives in the market such as SanDisk's iXpand Flash Drive which we
+ will test soon.
+
+If you do choose to buy one anyway, the Strontium
+ Nitro iDrive is available in capacities of 16GB, 32GB and 64GB at 
+street prices of Rs. 4,200, 5,000 and 6,200 respectively. Given the 
+relatively minor price differences between them, it makes almost no 
+sense to get the smallest one. However, considering that you can't 
+actually expand your iOS device's storage space, it would actually be a 
+viable alternative to pick up a low-cost Android phone such as the 
+Xiaomi Redmi 2 (Review | Pictures) as a secondary device for entertainment. MicroSD cards 
+are cheap and easily available, and today's entry-level phones can 
+handle all kinds of audio and video files.
+
+
+
+Cons
+
+Ratings (Out of 5)
+

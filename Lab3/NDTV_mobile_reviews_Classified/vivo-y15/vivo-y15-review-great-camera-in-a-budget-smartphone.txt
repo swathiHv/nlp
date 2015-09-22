@@ -1,0 +1,277 @@
+Vivo Y15 Review: Great Camera in a Budget Smartphone
+
+The
+ year 2014 saw an influx of Chinese companies selling Android 
+smartphones. Gionee, Oppo, Xiaomi, ZTE, Huawei and Lenovo all introduced 
+high-quality smartphones across price bands in India. Gradually, 
+from general feelings of scorn towards these Chinese brands, people have become more accepting. After all, these 
+products have great 
+price-to-performance ratios, and more significantly,
+800-pound gorillas such as HTC, Sony and Samsung haven't been able to 
+match their pricing. Yet. Now, 2015 has dawned upon us and if the entrance of the latest Chinese smartphone brand, Vivo,
+ is any indication, the competition might get even fiercer this year. The Vivo Y15 is budget smartphone 
+in the sub-Rs.8,000 price bracket. It goes up against the likes of the 
+Motorola Moto E (Review | Pictures), Xiaomi Redmi 1S (Review | Pictures)
+ and  Huawei Honor Holly (Review | Pictures) - all of which created a
+ stir in the same segment last year. To actually make people sit up and 
+take notice of the Y15 in such a crowded space, Vivo will 
+have to seriously pull out all the stops. Looking at the 
+mediocre specifications on paper, we don't have much confidence. We
+ hope that the Y15 can prove us wrong. Look and feelAnyone
+ who has used a mid-range Sony Xperia smartphone will immediately spot the similarities in design with the Vivo Y15. The Y15 has a 
+similar shaped body with sharp corners, a glossy plastic rear cover 
+with a metal trim running around the edges and a metallic ring around 
+the camera lens. At 9mm, the Y15 is not exactly slim and the 130g weight
+ makes it slightly heavy. Also, the body 
+doesn't really provide a nice grip and we sometimes ended up 
+dropping the phone. It is available in white and black. All said and done, we think the Y15 is one of the better 
+looking phones in this price range.The bezels 
+around the 4.5-inch screen are not too thick. Below the screen is a 
+row of capacitive buttons that aren't backlit but are printed quite 
+legibly. The earpiece, an array of sensors and the front camera are all 
+present above the display. The power button and the volume rocker 
+are on the left edge. These buttons have decent travel and feel sturdy. A
+ Micro-USB port for charging and a microphone for calls are on the 
+bottom edge whereas a lone 3.5mm audio jack sits on top. On the bottom 
+left corner of the rear are two grilles for the speaker. The primary 
+camera and the flash are in the top right corner at the rear. The
+ 4.5-inch screen has a resolution of 480x854, which results in a
+ pixel density of 218ppi. The low-resolution screen is a bit of a 
+downer; text has jagged edges and images look pixelated. On the bright 
+side, the screen is pretty vibrant with saturated colours. The 
+protective glass (unspecified) is very reflective and as a result viewing angles and sunlight legibility take a hit. Specifications and softwareUnder
+ the hood is a Mediatek MT6582 SoC with a 1.3GHz quad core processor and a
+ Mali-400MP2 GPU. There is 512MB of RAM, which is very low by today's 
+standards. Also, only around 1.05GB of the total internal storage space 
+of 4GB is available for users, which clearly won't suffice for large 
+apps and games. Thankfully, Vivo provides the 
+option of adding a microSD card for storing other data. The Y15 accepts cards of up to 128GB in capacity.There is a 5-megapixel primary shooter that can 
+also capture 1080p video at 30fps. The front-facing camera on the other hand 
+can capture 2-megapixel images. The Y15 is a Dual-SIM phone and
+accepts two Micro-SIM cards. The primary SIM card can connect to 3G. 
+With respect to other connectivity options, the Y15 has support for 
+Bluetooth v4.0 with LE and Wi-Fi b/g/n.Vivo makes use of a skin 
+called Funtouch OS on top of Android 4.2.2 (Jelly Bean). There is no 
+word yet on an update to KitKat, let alone Lollipop, which is a 
+disappointment. Funtouch OS, with no dedicated app drawer, is quite like
+ the skins used by other Chinese companies on their smartphones. It bears major similarities to Gionee's Amigo UI in terms of 
+the icon pack and the available theming options. 
+Surprisingly, Funtouch OS is much lighter than Amigo UI and works 
+smoothly even on a phone with low-end specs such as the Y15. Sliding up from the bottom or pressing the home screen for a little more than two 
+seconds brings up a listing of recently opened apps and quick settings. 
+This is a rather intuitive implementation and we got used to it pretty 
+fast. Vivo keeps the 
+bloatware to a bare minimum. Facebook, WeChat and WhatsApp are the only 
+third-party apps that are present by default and we think most people will use these apps regularly anyway. Vivo adds support for VivoCloud 
+which lets you back up contacts, messages and bookmarks from the browser.
+ There are a few software tweaks which some users might find really 
+helpful. For example, swiping down on the screen in sleep state takes 
+you directly to the camera; covering the screen mutes the phone while it 
+is ringing; and you can see missed calls and other notifications when you 
+pick up the phone. All of these functions worked as advertised 
+and we think Vivo's Funtouch OS is as polished as Xiaomi's MiUI. CameraThis
+ is one area where the Vivo Y15 really shines. The 5-megapixel camera 
+can capture some great shots without loss of details and with good colour 
+accuracy in daylight conditions. We were shocked by some of the results, as the sample images of the Y15 actually looked better than those taken with some 
+of the mid-range phones we've tested recently. The camera handles 
+exposure really well without blowing out highlights. On the other hand, the Y15's 
+camera has one major drawback - its slow shooting speed. This results 
+in blurry shots when the phone is not held firmly.Aiding this 
+great camera is the easy-to-use software. It is modelled 
+around the Android Gingerbread camera app but doesn't feel as clunky 
+thanks primarily to its updated icons. The camera app has an option 
+where you can add pre-defined watermarks to images. We 
+thought it would be gimmicky, but it looks rather neat if done 
+properly. The app doesn't provide manual settings but there are a few 
+filters to play around with. (click for full size)In low-light conditions, the camera still manages to let some 
+light in, but noise becomes a big problem. We cannot say 
+that the photos are entirely unusable but you might not get a decent
+ shot in dark conditions. Also, the quality of the captured 1080p video 
+was rather poor. The 2-megapixel front camera can 
+capture some really good selfies. It has an 88-degree wide-angle 
+lens so a few more people than usual can fit in. Overall, the cameras inside the Y15 are great, if not the best, in this price range. (click for full size)PerformanceIf
+ benchmark numbers are to be taken at face value, the Vivo Y15 will be 
+labelled a bad performer. The GFXbench test 
+failed to run because the memory was insufficient, and in the 3D Mark Ice
+ Storm test the Y15 managed to score a paltry 2,998. The Quadrant and 
+AnTuTu scores were slightly better at 5,766 and 19,806 respectively. However, in our time with the Y15, we 
+rarely faced any slowdowns and found that the screen responded to touch pretty well.
+ Only opening folders felt slow because of an animation effect, but we got used to that too. The
+ Y15 also managed to play all the videos we threw at it but none of our 
+HD quality (and above) videos looked good on the low resolution 
+screen. Also, our highly encoded 1080p test video, which has bitrate of 
+40mbps, taxed the processor and as a result the playback was choppy. The
+ sound quality using the bundled headset was pretty decent but it is not
+ comfortable to wear for long periods of time. The speaker is adequately
+ loud. We faced a few call drops in areas where there is a high network 
+congestion but the call quality is fairly decent. In our video loop battery test 
+the phone lasted 8 hours and 59 minutes, which is definitely better 
+than quite a few phones in this price range. It should easily last at 
+least day, and at times a little more, with moderate to high usage. VerdictWe
+ are really pleased with the performance of the Vivo 
+Y15's cameras. Also, despite its mediocre specifications, the phone doesn't 
+lag in daily usage. However, this doesn't mean that there are no drawbacks. The build
+ quality could have been better, the display is a travesty in 
+this day and age, there could have been more internal storage space, and 
+most importantly the Y15 could have benefited greatly from 1GB of RAM. If you are in the lookout for a budget phone, alternatives such as the Motorola Moto E and Xiaomi Redmi 1S are still great options to consider.
+ It might be worthwhile to note that these phones are priced lower than the 
+Y15. If you are willing to spend a little more and do not mind using a 
+5.5-inch screen, the Xiaomi Redmi Note (Review | Pictures) and Yu Yureka
+ (Review), are better bets in all respects. 
+
+
+The
+ year 2014 saw an influx of Chinese companies selling Android 
+smartphones. Gionee, Oppo, Xiaomi, ZTE, Huawei and Lenovo all introduced 
+high-quality smartphones across price bands in India. Gradually, 
+from general feelings of scorn towards these Chinese brands, people have become more accepting. After all, these 
+products have great 
+price-to-performance ratios, and more significantly,
+800-pound gorillas such as HTC, Sony and Samsung haven't been able to 
+match their pricing. Yet. 
+
+Now, 2015 has dawned upon us and if the entrance of the latest Chinese smartphone brand, Vivo,
+ is any indication, the competition might get even fiercer this year. 
+
+The Vivo Y15 is budget smartphone 
+in the sub-Rs.8,000 price bracket. It goes up against the likes of the 
+Motorola Moto E (Review | Pictures), Xiaomi Redmi 1S (Review | Pictures)
+ and  Huawei Honor Holly (Review | Pictures) - all of which created a
+ stir in the same segment last year. To actually make people sit up and 
+take notice of the Y15 in such a crowded space, Vivo will 
+have to seriously pull out all the stops. Looking at the 
+mediocre specifications on paper, we don't have much confidence. We
+ hope that the Y15 can prove us wrong. 
+
+Look and feelAnyone
+ who has used a mid-range Sony Xperia smartphone will immediately spot the similarities in design with the Vivo Y15. The Y15 has a 
+similar shaped body with sharp corners, a glossy plastic rear cover 
+with a metal trim running around the edges and a metallic ring around 
+the camera lens. At 9mm, the Y15 is not exactly slim and the 130g weight
+ makes it slightly heavy. Also, the body 
+doesn't really provide a nice grip and we sometimes ended up 
+dropping the phone. It is available in white and black. All said and done, we think the Y15 is one of the better 
+looking phones in this price range.
+
+The bezels 
+around the 4.5-inch screen are not too thick. Below the screen is a 
+row of capacitive buttons that aren't backlit but are printed quite 
+legibly. The earpiece, an array of sensors and the front camera are all 
+present above the display. The power button and the volume rocker 
+are on the left edge. These buttons have decent travel and feel sturdy. A
+ Micro-USB port for charging and a microphone for calls are on the 
+bottom edge whereas a lone 3.5mm audio jack sits on top. On the bottom 
+left corner of the rear are two grilles for the speaker. The primary 
+camera and the flash are in the top right corner at the rear. 
+
+The
+ 4.5-inch screen has a resolution of 480x854, which results in a
+ pixel density of 218ppi. The low-resolution screen is a bit of a 
+downer; text has jagged edges and images look pixelated. On the bright 
+side, the screen is pretty vibrant with saturated colours. The 
+protective glass (unspecified) is very reflective and as a result viewing angles and sunlight legibility take a hit. 
+
+Specifications and softwareUnder
+ the hood is a Mediatek MT6582 SoC with a 1.3GHz quad core processor and a
+ Mali-400MP2 GPU. There is 512MB of RAM, which is very low by today's 
+standards. Also, only around 1.05GB of the total internal storage space 
+of 4GB is available for users, which clearly won't suffice for large 
+apps and games. Thankfully, Vivo provides the 
+option of adding a microSD card for storing other data. The Y15 accepts cards of up to 128GB in capacity.
+
+There is a 5-megapixel primary shooter that can 
+also capture 1080p video at 30fps. The front-facing camera on the other hand 
+can capture 2-megapixel images. The Y15 is a Dual-SIM phone and
+accepts two Micro-SIM cards. The primary SIM card can connect to 3G. 
+With respect to other connectivity options, the Y15 has support for 
+Bluetooth v4.0 with LE and Wi-Fi b/g/n.
+
+Vivo makes use of a skin 
+called Funtouch OS on top of Android 4.2.2 (Jelly Bean). There is no 
+word yet on an update to KitKat, let alone Lollipop, which is a 
+disappointment. Funtouch OS, with no dedicated app drawer, is quite like
+ the skins used by other Chinese companies on their smartphones. It bears major similarities to Gionee's Amigo UI in terms of 
+the icon pack and the available theming options. 
+Surprisingly, Funtouch OS is much lighter than Amigo UI and works 
+smoothly even on a phone with low-end specs such as the Y15. Sliding up from the bottom or pressing the home screen for a little more than two 
+seconds brings up a listing of recently opened apps and quick settings. 
+This is a rather intuitive implementation and we got used to it pretty 
+fast. Vivo keeps the 
+bloatware to a bare minimum. Facebook, WeChat and WhatsApp are the only 
+third-party apps that are present by default and we think most people will use these apps regularly anyway. Vivo adds support for VivoCloud 
+which lets you back up contacts, messages and bookmarks from the browser.
+ There are a few software tweaks which some users might find really 
+helpful. For example, swiping down on the screen in sleep state takes 
+you directly to the camera; covering the screen mutes the phone while it 
+is ringing; and you can see missed calls and other notifications when you 
+pick up the phone. All of these functions worked as advertised 
+and we think Vivo's Funtouch OS is as polished as Xiaomi's MiUI. 
+
+CameraThis
+ is one area where the Vivo Y15 really shines. The 5-megapixel camera 
+can capture some great shots without loss of details and with good colour 
+accuracy in daylight conditions. We were shocked by some of the results, as the sample images of the Y15 actually looked better than those taken with some 
+of the mid-range phones we've tested recently. The camera handles 
+exposure really well without blowing out highlights. On the other hand, the Y15's 
+camera has one major drawback - its slow shooting speed. This results 
+in blurry shots when the phone is not held firmly.
+
+Aiding this 
+great camera is the easy-to-use software. It is modelled 
+around the Android Gingerbread camera app but doesn't feel as clunky 
+thanks primarily to its updated icons. The camera app has an option 
+where you can add pre-defined watermarks to images. We 
+thought it would be gimmicky, but it looks rather neat if done 
+properly. The app doesn't provide manual settings but there are a few 
+filters to play around with. 
+
+(click for full size)In low-light conditions, the camera still manages to let some 
+light in, but noise becomes a big problem. We cannot say 
+that the photos are entirely unusable but you might not get a decent
+ shot in dark conditions. Also, the quality of the captured 1080p video 
+was rather poor. The 2-megapixel front camera can 
+capture some really good selfies. It has an 88-degree wide-angle 
+lens so a few more people than usual can fit in. 
+
+Overall, the cameras inside the Y15 are great, if not the best, in this price range. 
+
+(click for full size)PerformanceIf
+ benchmark numbers are to be taken at face value, the Vivo Y15 will be 
+labelled a bad performer. The GFXbench test 
+failed to run because the memory was insufficient, and in the 3D Mark Ice
+ Storm test the Y15 managed to score a paltry 2,998. The Quadrant and 
+AnTuTu scores were slightly better at 5,766 and 19,806 respectively. 
+
+However, in our time with the Y15, we 
+rarely faced any slowdowns and found that the screen responded to touch pretty well.
+ Only opening folders felt slow because of an animation effect, but we got used to that too. 
+
+The
+ Y15 also managed to play all the videos we threw at it but none of our 
+HD quality (and above) videos looked good on the low resolution 
+screen. Also, our highly encoded 1080p test video, which has bitrate of 
+40mbps, taxed the processor and as a result the playback was choppy. The
+ sound quality using the bundled headset was pretty decent but it is not
+ comfortable to wear for long periods of time. The speaker is adequately
+ loud. 
+
+We faced a few call drops in areas where there is a high network 
+congestion but the call quality is fairly decent. In our video loop battery test 
+the phone lasted 8 hours and 59 minutes, which is definitely better 
+than quite a few phones in this price range. It should easily last at 
+least day, and at times a little more, with moderate to high usage. 
+
+VerdictWe
+ are really pleased with the performance of the Vivo 
+Y15's cameras. Also, despite its mediocre specifications, the phone doesn't 
+lag in daily usage. However, this doesn't mean that there are no drawbacks. The build
+ quality could have been better, the display is a travesty in 
+this day and age, there could have been more internal storage space, and 
+most importantly the Y15 could have benefited greatly from 1GB of RAM. 
+
+If you are in the lookout for a budget phone, alternatives such as the Motorola Moto E and Xiaomi Redmi 1S are still great options to consider.
+ It might be worthwhile to note that these phones are priced lower than the 
+Y15. If you are willing to spend a little more and do not mind using a 
+5.5-inch screen, the Xiaomi Redmi Note (Review | Pictures) and Yu Yureka
+ (Review), are better bets in all respects. 
+

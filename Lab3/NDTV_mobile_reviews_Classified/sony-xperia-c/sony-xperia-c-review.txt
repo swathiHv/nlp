@@ -1,0 +1,436 @@
+Sony Xperia C review
+
+Mid-range smartphones might not attract as much attention as their 
+flagship or high-end counterparts, but there is no denying that in 
+markets like India, they are in massive demand.Sony's new 
+smartphone, the Xperia C is the company's attempt to win back some of the 
+market share in mid-range segment it has lost over the past few years. 
+The Sony Xperia C is also company's first tryst with a MediaTek processor.Can the Xperia C with Xperia's signature design, dual-SIM support, and 
+MediaTek quad-core processor deliver where the company's dual-core devices 
+failed in the same segment? We try to find out.Design/ BuildSony seems to be 
+following a consistent design strategy across the new Xperia range - the
+ Xperia C boasts Sony's OmniBalance design, first seen in its flagship 
+phone, Xperia Z, but misses out the rear glass panel and aluminium 
+frames. The front and back of the Xperia C have a smooth finish, though 
+the display is fingerprint magnet.When we said it borrows design 
+cues from its high-end Xperia siblings we weren't kidding, especially 
+the distinctive metal power / lock button which is located half way down the 
+right panel of the Xperia C. The power button protrudes out and was 
+first seen in the Sony Xperia Z, although it's much smaller this time. 
+Further, much like other Xperia handsets, this one also features a volume 
+rocker and dedicated camera button on the right panel, all of which are 
+easy to hit one-handed.The straight soft touch plastic rear panel
+ does mean that the Sony Xperia C sits comfortably in the hand and 
+offers a good level of grip. The smartphone's rear, unlike the Xperia Z,
+ is removable, hiding the dual-SIM and microSD card slots. Even 
+though the phone has a removable back cover, the battery is 
+notably non-removable.Opening the back cover of the Xperia C
+ is again not an easy task, and for the first time we opened it, we had to take some help from YouTube user-guide videos, just to ensure we avoided breaking the soft touch plastic rear 
+panel.The Sony Xperia C is a well balanced smartphone and 
+although it may look chunky at the sides, it comes with dimensions measuring 141.5x74.1x8.8mm. The Sony Xperia C also comes in three colour 
+variants - Black, Purple and White. We received the Black variant for 
+review.The front of the Xperia C is dominated by the 5-inch 
+display with the standard Android buttons for back, home and recent apps
+ appearing onscreen instead of below it. There is a Sony logo printed on 
+top of the front panel, below the earpiece grill, where it the 
+secondary VGA camera is placed. On the top edge lies the 3.5mm audio jack, while on the 
+left panel is a micro-USB port for charging and transferring data.The
+ rear panel of the Xperia C houses an 8-megapixel rear camera with LED flash; also on 
+the back is Sony's logo printed on the centre while an Xperia logo
+can be found at the bottom, just above the speaker grill.The handset 
+can be used with one hand, and does 
+give a sturdy feel in the hands, better than some Samsung Galaxy phones. All 
+in all, the Sony Xperia C looks decent enough, but is slightly bland in design.DisplayThe Sony Xperia C features a 5-inch 
+TFT display with a resolution of 540x960 pixels, and pixel density stands
+ at the mediocre 220ppi. Sony has given a miss to BRAVIA Engine for the 
+display, which is expected since it's a mid-range phone. The Xperia C's 
+5-inch display is the same in size as that of the Xperia Z's display. The
+ Xperia C's 540x960 pixels qHD resolution display is pretty standard for a mid-range 
+phone and we had to zoom in to read text on Web pages. The resolution 
+and pixel density of the Xperia C is far lower than some of its 
+competitors in a similar price segment, like the Micromax Canvas Turbo and Spice Pinnacle FHD, which boast of full-HD
+ displays.The display produced bright whites and vibrant colours; 
+however the Xperia C's TFT display does not produce deep blacks, especially when 
+compared to an AMOLED or IPS display. While the Sony Xperia C renders images 
+and text sharply, we observed that high-resolution images didn't appear to be as sharp on the phone's display, due to its low overall resolution. The viewing angles on the smartphone 
+are not that great, and when you tilt the Xperia C, one can notice 
+colours losing their saturation.The touch sensitivity of the Sony Xperia C is decent and we did not encounter any issues while using the device.Sunlight legibility on the Xperia C was good when we used the phone with 
+brightness set to the highest level, though the screen is reflective to 
+some extent.CameraIn terms of photographic ability, Sony 
+has equipped the Xperia C with an 8-megapixel rear 
+camera, accompanied by an LED flash with Exmor R for mobile image sensor.
+ The rear camera sports features such as 4x digital zoom, HD (1080p) 
+video recording, touch to focus and sweep Panorama. The Xperia C also 
+includes HDR mode for video recording, which has been seen on some 
+high-end Xperia siblings. Other features seen on Xperia C's camera app 
+include portrait retouch, self-timer, self-portrait voice guide, smile 
+shutter, focus mode, ISO, exposure value and one can even adjust camera 
+resolution.The dedicated camera button on the right panel of the Xperia C makes 
+it easier to launch the camera app and click images, without depending on the
+ onscreen app. We did limited testing of the Sony Xperia C's rear
+ camera in outdoor, dim and indoor environments and found that picture 
+quality was average, though a bit washed out and grainy at edges. The
+ shutter speed on the Xperia C is comparatively slow than the other 
+Android smartphones which means this will take pictures in a pinch. The 
+Xperia C's camera disappoints while clicking low-light shots, which had a
+ lot of noise.The front facing VGA camera is pretty average and can be used for video calls over Skype or self-portrait shots.Software / InterfaceThe
+ Sony Xperia C ships with Android 4.2.2 Jelly Bean out-of-the-box. It 
+might not be the most up-to-date OS as being seen on Nexus devices, but 
+it's the most popular OS found on mid-range smartphones. We are yet to 
+hear any details about Sony's plans to update the Xperia C. The Xperia C features Sony's new Xperia UI, seen on other recently launched Xperia devices. Similar
+ to the Xperia Z, the Xperia C also sports the unlocking gesture 
+feature, which resembles motion of fingers through a set of window blinds, and is now the signature unlock 
+gesture support for Xperia handsets. If you don't like it, you could always choose a third party launcher over the default.The Xperia C also 
+comes with some Android 4.2 Jelly Bean features like the lock-screen 
+widgets. One can choose from calendar, digital clock, Gmail, Google Now,
+ Google+ posts and messaging along with any third-party app downloaded 
+on the device. The widget offers details from the apps and help in 
+performing certain actions even without unlocking the phone. Users can 
+also launch the camera directly from the lock screen by pressing the power
+ button and then swiping the screen on the right.The Sony Xperia C 
+offers themes from within the settings section, allowing users to change the colour scheme of the 
+device (including menus) along with the home screen and lock screen wallpaper. One can choose to add up to seven homescreens or even 
+reduce the number to one, and the Xperia C also features an option to change the default
+ homescreen. These can be populated with app shortcuts and widgets.The
+ notification tray of Xperia C adds toggles for sound, Bluetooth, Wi-Fi,
+ mobile data and a shortcut to the settings menu. Sony also adds some of
+ its own widgets for social networking service updates, power toggles 
+and more. Sony's Walkman music player app is decent and also features XLoud feature seen in other mid-range Sony Xperia handsets. The gallery app, in addition to displaying pictures on phone, also 
+allows users to connect to online services like Facebook and Picasa and 
+view pictures online. The Xperia C's gallery app also includes a 
+built-in photo editor.For Internet browsing, the Sony Xperia C 
+comes with the Chrome browser, and has given a miss to the stock Android
+ browser. Since Chrome doesn't support Adobe Flash player, the phone is 
+not capable of playing Flash videos, though it plays them 
+after the Flash plug-in is side-loaded.Sony also offers its own 
+widgets, such as Music Unlimited and its own online stores. Most 
+manufacturers like Samsung and HTC do this - clearly to draw users into 
+their own ecosystems. But, thanks to Android's customisability features, 
+these can be moved or deleted if not required.The Sony Xperia C 
+features three onscreen buttons at the bottom for back, home and recent 
+apps. There are few apps on the bottom of the screen that are tied up to
+ all the homescreen panels like Sony Music, Sony Liv, menu, messaging 
+app and dialler. However, these options can be changed.The Sony 
+Xperia C also includes preloaded apps such as McAfee Security, NeoReader
+ (for reading QR codes), Notes app, TrackID (a Shazam-like music 
+recognition app), PlayNow, Smart Connect (lets users set an event when 
+an accessory is connected to the phone), Xperia Link (to share Internet 
+connectivity with Sony devices), Evernote (note taking app), Line and 
+WhatsApp (instant messaging apps), LinkedIn, PicsArt and BIGFLIX. 
+There's also a Socialife News app, which lets users view updates from 
+different social networks under one feed and Sony Select, Sony's app 
+store. Also on board is a free OfficeSuite app for editing and creating 
+Microsoft Office files and documents and the usual array of Google apps.Sony
+ Xperia C's task switcher onscreen button gives access to recently used apps, displaying a list on the right side. As with 
+the stock app switcher, one can dismiss an app by sliding it. The 
+switcher also brings access to Sony's small apps, a new feature first 
+seen on Sony's flagship smartphone, the Xperia Z, which can run on top of
+ other running apps, something we have also seen on LG and Samsung 
+devices like LG's QSwipe apps or even Samsung's pop-up play feature. 
+Sony ships three of these small apps, namely browser, notes and voice 
+recorder, but more small apps can be chosen like Gmail, calendar, Chrome 
+bookmarks; one can also install more of such apps via Sony's section on the Play Store.We were also impressed with Xperia C's keyboard, the 5-inch display offers enough space to type accurately and even with speed. Performance/ Battery LifeThe
+ Sony Xperia C is powered by a quad-core 1.2GHz MediaTek 6589  processor 
+coupled with a PowerVR SGX544 GPU, and 1GB of RAM. The processor found on the Xperia C is the same
+used by a variety of Indian smartphone brands, such as Micromax, Karbonn, Spice and Xolo.The Xperia C includes 4GB of inbuilt 
+storage, out of which only 1.20GB is user-accessible, but thankfully the 
+Xperia C supports microSD card up to 32GB.We encountered no lags while switching between 
+homescreens on the Xperia C. In day to day 
+activities, the phone feels smooth enough and you are not really left 
+wanting for more power under the hood. However, things get a bit 
+choppy while multitasking. The Xperia C did lag when we paused a heavy graphic game like Shadow Gun, and switched for messaging - something that happened multiple times. Despite the device shipping with a 
+quad-core processor and adequate RAM, it disappointed in performance department, where we
+ also noticed certain delays in launching apps and opening mails or even 
+notifications. On the sound front, the Xperia C comes with the 
+same Walkman music player seen on Xperia Z with an easy to use interface and the
+ sound experience is decent both on the supplied headphones and the inbuilt-speakers. The 5-inch qHD display of Xperia C 
+is good for viewing movies and videos. The smartphones was able to play 
+full-HD videos and supported popular video formats like .AVI, .MOV, and 
+.MP4. Not so surprisingly (given the lag already experienced), Sony has again given a miss to the X4 video 
+function on the Xperia C (as seen on the Xperia Z), which allows the user to play four videos at a
+ time and you can also increase the sound of whichever video you want.Call
+ quality on the Xperia C was fine on both the SIM slots. The Sony Xperia C
+ is a GSM+GSM dual-SIM phone with support for 3G network only one of the slots. Further, the Sony Xperia C offers active standby feature, 
+which implies that if you're on a call on SIM 1 and get another call on 
+SIM 2, you'll be notified of the call and the calling party will get a 
+'call waiting' message.The Sony Xperia C ships with a 2390mAh non-removable
+battery that according to the company can deliver up to 588 hours of 
+standby time, and up to 14 hours of talktime on 2G networks. Based on
+ our testing period the Xperia C delivered impressive battery 
+performance. We were able to get about 16-18 hours with normal 
+usage on the Xperia C that included Wi-Fi switched on for all time; 
+Internet browsing for about an hour; calls lasting for about an hour; 
+display set on auto-brightness and with the usual notifications for 
+messages, emails, Facebook, Twitter, Line and WhatsApp.Though 
+with heavy usage on the Xperia C, that included full brightness, calls lasting for about two hours, 3G turned on one SIM constantly, clicking some casual shots with the rear camera and editing them, 
+watching videos for around two hours through YouTube and also on the 
+device, few hours of gaming, and with usual notifications for messages, 
+emails, Facebook, Twitter, Line, Google Hangouts and WhatsApp, the 
+device lasted for about 10-12 hours. This is quite good, especially when compared to 
+some smartphones in the same price segment. Altering these 
+settings can help in increasing the battery life of the Xperia C for 
+longer period.VerdictThe Sony Xperia C comes with a decent 5-inch display, good build quality and decent battery backup. In
+ addition, Sony's Xperia UI skin on the Xperia C is not as radical as 
+HTC's Sense UI or Samsung's TouchWiz UI, and is simple and easy to use - in this iteration, it is much closer to stock Android than the others. However, we cannot say that the Xperia C is exceptional, especially when 
+compared with other devices in the same price segment. The only thing it offers is an international brand name, the accompanied promises of good build quality and solid after-sales service.The recently reviewed HTC Desire 500 fulfills the above criteria, but unfortunately, suffers from similar issues (read our review).In terms of better overall performance and higher-resolution displays, there are other phones available in the market, including some at a lower cost. These include the Micromax Canvas Doodle 2 (Review), and the Spice Pinnacle FHD (Review). These are also dual-SIM, in-case this was a part of your purchase decision. Another alternative you can look at, if you don't mind foregoing the 5-inch display, is the Nokia Lumia 720 (Review), which costs less, and offers good build quality and decent overall performance. Sony Xperia C in picturesPrice: Rs. 20,490  
+
+When we said it borrows design 
+cues from its high-end Xperia siblings we weren't kidding, especially 
+the distinctive metal power / lock button which is located half way down the 
+right panel of the Xperia C. The power button protrudes out and was 
+first seen in the Sony Xperia Z, although it's much smaller this time. 
+Further, much like other Xperia handsets, this one also features a volume 
+rocker and dedicated camera button on the right panel, all of which are 
+easy to hit one-handed.
+
+The straight soft touch plastic rear panel
+ does mean that the Sony Xperia C sits comfortably in the hand and 
+offers a good level of grip. The smartphone's rear, unlike the Xperia Z,
+ is removable, hiding the dual-SIM and microSD card slots. Even 
+though the phone has a removable back cover, the battery is 
+notably non-removable.
+
+Opening the back cover of the Xperia C
+ is again not an easy task, and for the first time we opened it, we had to take some help from YouTube user-guide videos, just to ensure we avoided breaking the soft touch plastic rear 
+panel.
+
+The Sony Xperia C is a well balanced smartphone and 
+although it may look chunky at the sides, it comes with dimensions measuring 141.5x74.1x8.8mm. The Sony Xperia C also comes in three colour 
+variants - Black, Purple and White. We received the Black variant for 
+review.
+
+The front of the Xperia C is dominated by the 5-inch 
+display with the standard Android buttons for back, home and recent apps
+ appearing onscreen instead of below it. There is a Sony logo printed on 
+top of the front panel, below the earpiece grill, where it the 
+secondary VGA camera is placed. On the top edge lies the 3.5mm audio jack, while on the 
+left panel is a micro-USB port for charging and transferring data.
+
+The
+ rear panel of the Xperia C houses an 8-megapixel rear camera with LED flash; also on 
+the back is Sony's logo printed on the centre while an Xperia logo
+can be found at the bottom, just above the speaker grill.
+
+The handset 
+can be used with one hand, and does 
+give a sturdy feel in the hands, better than some Samsung Galaxy phones. All 
+in all, the Sony Xperia C looks decent enough, but is slightly bland in design.
+
+DisplayThe Sony Xperia C features a 5-inch 
+TFT display with a resolution of 540x960 pixels, and pixel density stands
+ at the mediocre 220ppi. Sony has given a miss to BRAVIA Engine for the 
+display, which is expected since it's a mid-range phone. The Xperia C's 
+5-inch display is the same in size as that of the Xperia Z's display. 
+
+The
+ Xperia C's 540x960 pixels qHD resolution display is pretty standard for a mid-range 
+phone and we had to zoom in to read text on Web pages. The resolution 
+and pixel density of the Xperia C is far lower than some of its 
+competitors in a similar price segment, like the Micromax Canvas Turbo and Spice Pinnacle FHD, which boast of full-HD
+ displays.
+
+The display produced bright whites and vibrant colours; 
+however the Xperia C's TFT display does not produce deep blacks, especially when 
+compared to an AMOLED or IPS display. While the Sony Xperia C renders images 
+and text sharply, we observed that high-resolution images didn't appear to be as sharp on the phone's display, due to its low overall resolution. The viewing angles on the smartphone 
+are not that great, and when you tilt the Xperia C, one can notice 
+colours losing their saturation.
+
+The touch sensitivity of the Sony Xperia C is decent and we did not encounter any issues while using the device.
+
+Sunlight legibility on the Xperia C was good when we used the phone with 
+brightness set to the highest level, though the screen is reflective to 
+some extent.
+
+Camera
+
+In terms of photographic ability, Sony 
+has equipped the Xperia C with an 8-megapixel rear 
+camera, accompanied by an LED flash with Exmor R for mobile image sensor.
+ The rear camera sports features such as 4x digital zoom, HD (1080p) 
+video recording, touch to focus and sweep Panorama. The Xperia C also 
+includes HDR mode for video recording, which has been seen on some 
+high-end Xperia siblings. 
+
+Other features seen on Xperia C's camera app 
+include portrait retouch, self-timer, self-portrait voice guide, smile 
+shutter, focus mode, ISO, exposure value and one can even adjust camera 
+resolution.
+
+The dedicated camera button on the right panel of the Xperia C makes 
+it easier to launch the camera app and click images, without depending on the
+ onscreen app. 
+
+We did limited testing of the Sony Xperia C's rear
+ camera in outdoor, dim and indoor environments and found that picture 
+quality was average, though a bit washed out and grainy at edges. 
+
+The
+ shutter speed on the Xperia C is comparatively slow than the other 
+Android smartphones which means this will take pictures in a pinch. The 
+Xperia C's camera disappoints while clicking low-light shots, which had a
+ lot of noise.
+
+The front facing VGA camera is pretty average and can be used for video calls over Skype or self-portrait shots.
+
+Software / Interface
+
+The
+ Sony Xperia C ships with Android 4.2.2 Jelly Bean out-of-the-box. It 
+might not be the most up-to-date OS as being seen on Nexus devices, but 
+it's the most popular OS found on mid-range smartphones. We are yet to 
+hear any details about Sony's plans to update the Xperia C. 
+
+The Xperia C features Sony's new Xperia UI, seen on other recently launched Xperia devices. Similar
+ to the Xperia Z, the Xperia C also sports the unlocking gesture 
+feature, which resembles motion of fingers through a set of window blinds, and is now the signature unlock 
+gesture support for Xperia handsets. If you don't like it, you could always choose a third party launcher over the default.
+
+The Xperia C also 
+comes with some Android 4.2 Jelly Bean features like the lock-screen 
+widgets. One can choose from calendar, digital clock, Gmail, Google Now,
+ Google+ posts and messaging along with any third-party app downloaded 
+on the device. The widget offers details from the apps and help in 
+performing certain actions even without unlocking the phone. Users can 
+also launch the camera directly from the lock screen by pressing the power
+ button and then swiping the screen on the right.
+
+The Sony Xperia C 
+offers themes from within the settings section, allowing users to change the colour scheme of the 
+device (including menus) along with the home screen and lock screen wallpaper. One can choose to add up to seven homescreens or even 
+reduce the number to one, and the Xperia C also features an option to change the default
+ homescreen. These can be populated with app shortcuts and widgets.
+
+The
+ notification tray of Xperia C adds toggles for sound, Bluetooth, Wi-Fi,
+ mobile data and a shortcut to the settings menu. Sony also adds some of
+ its own widgets for social networking service updates, power toggles 
+and more. 
+
+Sony's Walkman music player app is decent and also features XLoud feature seen in other mid-range Sony Xperia handsets. 
+
+The gallery app, in addition to displaying pictures on phone, also 
+allows users to connect to online services like Facebook and Picasa and 
+view pictures online. The Xperia C's gallery app also includes a 
+built-in photo editor.
+
+For Internet browsing, the Sony Xperia C 
+comes with the Chrome browser, and has given a miss to the stock Android
+ browser. Since Chrome doesn't support Adobe Flash player, the phone is 
+not capable of playing Flash videos, though it plays them 
+after the Flash plug-in is side-loaded.
+
+Sony also offers its own 
+widgets, such as Music Unlimited and its own online stores. Most 
+manufacturers like Samsung and HTC do this - clearly to draw users into 
+their own ecosystems. But, thanks to Android's customisability features, 
+these can be moved or deleted if not required.
+
+The Sony Xperia C 
+features three onscreen buttons at the bottom for back, home and recent 
+apps. There are few apps on the bottom of the screen that are tied up to
+ all the homescreen panels like Sony Music, Sony Liv, menu, messaging 
+app and dialler. However, these options can be changed.
+
+The Sony 
+Xperia C also includes preloaded apps such as McAfee Security, NeoReader
+ (for reading QR codes), Notes app, TrackID (a Shazam-like music 
+recognition app), PlayNow, Smart Connect (lets users set an event when 
+an accessory is connected to the phone), Xperia Link (to share Internet 
+connectivity with Sony devices), Evernote (note taking app), Line and 
+WhatsApp (instant messaging apps), LinkedIn, PicsArt and BIGFLIX. 
+There's also a Socialife News app, which lets users view updates from 
+different social networks under one feed and Sony Select, Sony's app 
+store. Also on board is a free OfficeSuite app for editing and creating 
+Microsoft Office files and documents and the usual array of Google apps.
+
+Sony
+ Xperia C's task switcher onscreen button gives access to recently used apps, displaying a list on the right side. As with 
+the stock app switcher, one can dismiss an app by sliding it. The 
+switcher also brings access to Sony's small apps, a new feature first 
+seen on Sony's flagship smartphone, the Xperia Z, which can run on top of
+ other running apps, something we have also seen on LG and Samsung 
+devices like LG's QSwipe apps or even Samsung's pop-up play feature. 
+Sony ships three of these small apps, namely browser, notes and voice 
+recorder, but more small apps can be chosen like Gmail, calendar, Chrome 
+bookmarks; one can also install more of such apps via Sony's section on the Play Store.
+
+We were also impressed with Xperia C's keyboard, the 5-inch display offers enough space to type accurately and even with speed. 
+
+Performance/ Battery LifeThe
+ Sony Xperia C is powered by a quad-core 1.2GHz MediaTek 6589  processor 
+coupled with a PowerVR SGX544 GPU, and 1GB of RAM. The processor found on the Xperia C is the same
+used by a variety of Indian smartphone brands, such as Micromax, Karbonn, Spice and Xolo.
+
+The Xperia C includes 4GB of inbuilt 
+storage, out of which only 1.20GB is user-accessible, but thankfully the 
+Xperia C supports microSD card up to 32GB.
+
+We encountered no lags while switching between 
+homescreens on the Xperia C. In day to day 
+activities, the phone feels smooth enough and you are not really left 
+wanting for more power under the hood. 
+
+However, things get a bit 
+choppy while multitasking. The Xperia C did lag when we paused a heavy graphic game like Shadow Gun, and switched for messaging - something that happened multiple times. Despite the device shipping with a 
+quad-core processor and adequate RAM, it disappointed in performance department, where we
+ also noticed certain delays in launching apps and opening mails or even 
+notifications. 
+
+On the sound front, the Xperia C comes with the 
+same Walkman music player seen on Xperia Z with an easy to use interface and the
+ sound experience is decent both on the supplied headphones and the inbuilt-speakers. 
+
+The 5-inch qHD display of Xperia C 
+is good for viewing movies and videos. The smartphones was able to play 
+full-HD videos and supported popular video formats like .AVI, .MOV, and 
+.MP4. 
+
+Not so surprisingly (given the lag already experienced), Sony has again given a miss to the X4 video 
+function on the Xperia C (as seen on the Xperia Z), which allows the user to play four videos at a
+ time and you can also increase the sound of whichever video you want.
+
+Call
+ quality on the Xperia C was fine on both the SIM slots. The Sony Xperia C
+ is a GSM+GSM dual-SIM phone with support for 3G network only one of the slots. Further, the Sony Xperia C offers active standby feature, 
+which implies that if you're on a call on SIM 1 and get another call on 
+SIM 2, you'll be notified of the call and the calling party will get a 
+'call waiting' message.
+
+The Sony Xperia C ships with a 2390mAh non-removable
+battery that according to the company can deliver up to 588 hours of 
+standby time, and up to 14 hours of talktime on 2G networks. Based on
+ our testing period the Xperia C delivered impressive battery 
+performance. 
+
+We were able to get about 16-18 hours with normal 
+usage on the Xperia C that included Wi-Fi switched on for all time; 
+Internet browsing for about an hour; calls lasting for about an hour; 
+display set on auto-brightness and with the usual notifications for 
+messages, emails, Facebook, Twitter, Line and WhatsApp.
+
+Though 
+with heavy usage on the Xperia C, that included full brightness, calls lasting for about two hours, 3G turned on one SIM constantly, clicking some casual shots with the rear camera and editing them, 
+watching videos for around two hours through YouTube and also on the 
+device, few hours of gaming, and with usual notifications for messages, 
+emails, Facebook, Twitter, Line, Google Hangouts and WhatsApp, the 
+device lasted for about 10-12 hours. This is quite good, especially when compared to 
+some smartphones in the same price segment. Altering these 
+settings can help in increasing the battery life of the Xperia C for 
+longer period.
+
+VerdictThe Sony Xperia C comes with a decent 5-inch display, good build quality and decent battery backup. 
+
+In
+ addition, Sony's Xperia UI skin on the Xperia C is not as radical as 
+HTC's Sense UI or Samsung's TouchWiz UI, and is simple and easy to use - in this iteration, it is much closer to stock Android than the others. 
+
+However, we cannot say that the Xperia C is exceptional, especially when 
+compared with other devices in the same price segment. The only thing it offers is an international brand name, the accompanied promises of good build quality and solid after-sales service.The recently reviewed HTC Desire 500 fulfills the above criteria, but unfortunately, suffers from similar issues (read our review).
+
+In terms of better overall performance and higher-resolution displays, there are other phones available in the market, including some at a lower cost. These include the Micromax Canvas Doodle 2 (Review), and the Spice Pinnacle FHD (Review). These are also dual-SIM, in-case this was a part of your purchase decision. 
+
+Another alternative you can look at, if you don't mind foregoing the 5-inch display, is the Nokia Lumia 720 (Review), which costs less, and offers good build quality and decent overall performance. 
+
+Price: Rs. 20,490 
+

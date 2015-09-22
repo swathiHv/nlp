@@ -1,0 +1,264 @@
+Lenovo S660 Review: A Well-Balanced Workhorse
+
+Slowly but surely, Lenovo is building up a strong
+ reputation in the Indian smartphone market. The company might not have 
+the most glamorous product portfolio, but the majority of its offerings 
+have offered good value and have been well received. We recently spent 
+some time with the high-end Vibe Z and came away with mostly positive 
+impressions.Today's review subject is a much more value-minded 
+model, the Lenovo S660. It's priced right in one of the busiest and 
+fastest growing segments of the Indian smartphone market, the Rs. 9,000 -
+ Rs. 14,000 price band. Look and feelThe Lenovo S660's 
+design is purely functional, and it doesn't even try to be the slimmest 
+or most stylish in any sense. That's great news, because we appreciate 
+it when a company goes for simple practicality. The S660 is a bit chunky
+ and feels very comfortable in the hand. It's easy to hold on to, thanks
+ to the curved back, but we would have liked it to have been a bit 
+lighter.The front face is as plain as it gets - Lenovo likes 
+slapping large logos on its products, and there's one centered right 
+above the screen. The capacitive buttons below the screen are barely 
+visible, but light up when you touch them or any part of the screen. The
+ rim around the edges and the earpiece grille are a muted gunmetal 
+colour, but are made of plastic. The left edge is blank, and the power 
+and volume buttons are all on the right. They protrude a little, making 
+them easy to find and use. There's a headset jack on the top edge and a 
+Micro-USB port on the bottom.The rear panel is metal and has a 
+brushed metal texture. There's a squared-off camera lens with a small 
+LED flash and mic hole nearby, another (much larger) Lenovo logo, and a 
+speaker grille all neatly aligned down the centre.It takes quite a
+ bit of effort to pop the cover off, which you'll need to do to get to 
+the battery, microSD slot and dual SIM card slots. The S660 can take two
+ regular-sized SIM cards, though we weren't really happy with the way 
+both need to be sandwiched one on top of another.Features and specificationsAs
+ with most smartphones in and around this price range today, the S660 is
+ built around a MediaTek system-on-a-chip. In this case it's the 
+quad-core MT6582M, running at 1.3GHz with integrated 416MHz Mali-400 MP2
+ graphics. The primary difference between this SoC and the more common 
+MT5582 is that its graphics core runs slightly slower.The S660 
+has 1GB of RAM, which is just about adequate, and 8GB of internal 
+storage space. It supports microSD cards of up to 32GB. There's 
+Bluetooth 4.0 and Wi-Fi b/g/n - thankfully both modern standards - plus 
+an accelerometer, proximity sensor and ambient light sensor.The 
+screen is a bit disappointing. The qHD resolution, or 540x960, is rather
+ low considering the screen measures 4.7 inches diagonally. It's bright 
+enough though, and has excellent viewing angles. It's good enough for 
+casual gaming and watching movies, which is what's important at this 
+price range.The other disappointment is that this phone still 
+runs Android 4.2 and is designed around the older Android button layout.
+ Quite a few competitors now offer Android 4.4 which itself isn't all 
+that modern anymore. In terms of software, we're also not huge fans of 
+Lenovo's custom UI. Most of what we said in our review of the Vibe Z 
+holds true here as well - we're once again annoyed by the 
+merged-home-screen-and-app-launcher approach. The S660's version of the 
+UI includes a distracting iOS 7-style zoom animation when opening and 
+closing folders, and a weird orange blush spreads across the screen when
+ you hit the top or bottom of any scrolling list. Unlike witih the Vibe 
+Z, the settings menu, notification drawer and app switcher interfaces 
+are the stock Android designs, but with a bit of visual customisation. 
+You also don't get all the shortcuts and UI tweaks that Lenovo bestowed 
+upon its premium device.Apps include Lenovo's own SECUREit, 
+SYNCit and SHAREit utilities, Kingsoft Office, Navigate 6, Facebook, 
+Skype, Twitter, and Evernote. For some reason, Lenovo has preinstalled 
+Chrome and UCBrowser in addition to the stock Android browser. Lenovo
+ also throws in a neat snap-on case with a central spine that can curl 
+up, much like the toy wristbands available for children, to act as a 
+stand. While this is a neat idea, we found it was just a bit too easy to
+ snap the spine, making the whole experience of using the phone with 
+this cover on it a bit clumsy.CameraThe S660's camera is surprisingly competent in daylight. Photos lack depth and are a little grainy, but the quality is definitely good enough for shots that you just want to share online. Subjects close by are defined pretty well, but backgrounds tend to become indistinct clumps of colour - this holds true for photos as well as video. Low-light shots don't fare as well, and our test shots were all very noisy. The front camera is barely passable for video chatting - photos have an odd purple tinge and generally poor quality. Videos taken with the rear camera were passable, but that's about it.The camera app defaults to taking 6-megapixel photos and 720p video, which you can manually change to 8 megapixels and 1080p. The camera app has an HDR mode which definitely improves vibrancy, but can leave photos looking rather artificial. The mode is available via a slidable icon bar at the top of the camera app.There are also modes for panorama shots, auto scene detection, best shot, EV Bracket mode, and multi-angle shots. Some of these could have done with a bit of explanation for new users, but there's very little on-screen guidance.(Click to see full size)PerformanceBenchmark
+ scores were pretty much at par with those of other phones based on the 
+same MediaTek SoC family, such as the Oppo R1 and Micromax Canvas Turbo 
+Mini. As expected, scores in graphically intensive tests such as 
+GFXbench and 3DMark were very low. We managed 8.6fps in GFXbench, as 
+opposed to the Oppo R1's score of 6.5fps with a faster clocked GPU. That
+ could be down to the R1's slim body preventing heat dissipation, or its
+ higher resolution screen requiring more grunt. You won't be able to run
+ any 3D games on this device, although casual titles seem to run 
+perfectly well.The CPU scores were more or less identical across 
+the two phones. In our review of the R1, we noted that you could get 
+much better performance for what you'd be paying. In the case of the 
+S660, which sells for well under half that price, we think its scores 
+are pretty reasonable. We have no problem with how the phone 
+handles itself in day-to-day usage. Interface animations and transitions
+ are smooth, and apps load quickly enough. Basic games, photo editing 
+tools, social networking and messenger apps should work well, but don't 
+expect to be doing any heavy multitasking.The S660's battery is 
+pretty large at 3,000mAh, and battery life is one of Lenovo's talking 
+points about this phone. We saw some odd behaviour in our battery test -
+ in the beginning, the phone dropped from 100 percent to around 80 
+percent alarmingly quickly. It seemed as though the phone was losing 
+about one percentage point per minute, which was so unbelievable that we
+ aborted our test midway and started again twice. The behaviour 
+persisted, but then the drainage improved so much so that the phone 
+lasted well over an hour between the time it hit 2 percent and the time 
+it shut itself down. We ended up with a total of 7 hours and 38 minutes 
+in our video loop test which is pretty good, but, for the record, Lenovo
+ seriously needs to work out its battery calibration issues.The 
+loudspeaker was extremely tinny and harsh, and sound distorted even at 
+medium volume levels. Call quality, on the other hand, was pretty good. 
+Video playback was fine for resolutions up to 720p, but attempting to 
+play 1080p video was pretty much pointless. VerdictWe're 
+impressed with what Lenovo has managed to pull off at this price point. 
+It matches or exceeds the specifications and performance of most other 
+phones at this price point, such as the Nokia Lumia 630 and XL, the HTC 
+Desire 310, the Lava Iris Pro 20 and Iris Pro 30, and even in some respects, the Motorola Moto G. What you get is a solid phone with well-balanced specifications and capabilities at a very reasonable price. Lenovo seems to have understood the value end of the market very well. The S660 might not be very glamorous, but it doesn't let us down in any department and is still quite attractive. The only thing we could really hope for would be a software update.The 8GB version of the Moto G sells 
+for roughly the same price, has a better screen and runs the very latest
+ version of Android, but doesn't have a microSD card slot. If the 16GB 
+Moto G stretches your budget too far, you'll find that the Lenovo S660 
+is a more than worthy substitute. Lenovo S660 in pictures
+
+Slowly but surely, Lenovo is building up a strong
+ reputation in the Indian smartphone market. The company might not have 
+the most glamorous product portfolio, but the majority of its offerings 
+have offered good value and have been well received. We recently spent 
+some time with the high-end Vibe Z and came away with mostly positive 
+impressions.
+
+Today's review subject is a much more value-minded 
+model, the Lenovo S660. It's priced right in one of the busiest and 
+fastest growing segments of the Indian smartphone market, the Rs. 9,000 -
+ Rs. 14,000 price band. 
+
+Look and feelThe Lenovo S660's 
+design is purely functional, and it doesn't even try to be the slimmest 
+or most stylish in any sense. That's great news, because we appreciate 
+it when a company goes for simple practicality. The S660 is a bit chunky
+ and feels very comfortable in the hand. It's easy to hold on to, thanks
+ to the curved back, but we would have liked it to have been a bit 
+lighter.
+
+The front face is as plain as it gets - Lenovo likes 
+slapping large logos on its products, and there's one centered right 
+above the screen. The capacitive buttons below the screen are barely 
+visible, but light up when you touch them or any part of the screen. 
+
+The
+ rim around the edges and the earpiece grille are a muted gunmetal 
+colour, but are made of plastic. The left edge is blank, and the power 
+and volume buttons are all on the right. They protrude a little, making 
+them easy to find and use. There's a headset jack on the top edge and a 
+Micro-USB port on the bottom.
+
+The rear panel is metal and has a 
+brushed metal texture. There's a squared-off camera lens with a small 
+LED flash and mic hole nearby, another (much larger) Lenovo logo, and a 
+speaker grille all neatly aligned down the centre.
+
+It takes quite a
+ bit of effort to pop the cover off, which you'll need to do to get to 
+the battery, microSD slot and dual SIM card slots. The S660 can take two
+ regular-sized SIM cards, though we weren't really happy with the way 
+both need to be sandwiched one on top of another.
+
+Features and specificationsAs
+ with most smartphones in and around this price range today, the S660 is
+ built around a MediaTek system-on-a-chip. In this case it's the 
+quad-core MT6582M, running at 1.3GHz with integrated 416MHz Mali-400 MP2
+ graphics. The primary difference between this SoC and the more common 
+MT5582 is that its graphics core runs slightly slower.
+
+The S660 
+has 1GB of RAM, which is just about adequate, and 8GB of internal 
+storage space. It supports microSD cards of up to 32GB. There's 
+Bluetooth 4.0 and Wi-Fi b/g/n - thankfully both modern standards - plus 
+an accelerometer, proximity sensor and ambient light sensor.
+
+The 
+screen is a bit disappointing. The qHD resolution, or 540x960, is rather
+ low considering the screen measures 4.7 inches diagonally. It's bright 
+enough though, and has excellent viewing angles. It's good enough for 
+casual gaming and watching movies, which is what's important at this 
+price range.
+
+The other disappointment is that this phone still 
+runs Android 4.2 and is designed around the older Android button layout.
+ Quite a few competitors now offer Android 4.4 which itself isn't all 
+that modern anymore. In terms of software, we're also not huge fans of 
+Lenovo's custom UI. Most of what we said in our review of the Vibe Z 
+holds true here as well - we're once again annoyed by the 
+merged-home-screen-and-app-launcher approach. The S660's version of the 
+UI includes a distracting iOS 7-style zoom animation when opening and 
+closing folders, and a weird orange blush spreads across the screen when
+ you hit the top or bottom of any scrolling list. Unlike witih the Vibe 
+Z, the settings menu, notification drawer and app switcher interfaces 
+are the stock Android designs, but with a bit of visual customisation. 
+You also don't get all the shortcuts and UI tweaks that Lenovo bestowed 
+upon its premium device.
+
+Apps include Lenovo's own SECUREit, 
+SYNCit and SHAREit utilities, Kingsoft Office, Navigate 6, Facebook, 
+Skype, Twitter, and Evernote. For some reason, Lenovo has preinstalled 
+Chrome and UCBrowser in addition to the stock Android browser. 
+
+Lenovo
+ also throws in a neat snap-on case with a central spine that can curl 
+up, much like the toy wristbands available for children, to act as a 
+stand. While this is a neat idea, we found it was just a bit too easy to
+ snap the spine, making the whole experience of using the phone with 
+this cover on it a bit clumsy.
+
+CameraThe S660's camera is surprisingly competent in daylight. Photos lack depth and are a little grainy, but the quality is definitely good enough for shots that you just want to share online. Subjects close by are defined pretty well, but backgrounds tend to become indistinct clumps of colour - this holds true for photos as well as video. Low-light shots don't fare as well, and our test shots were all very noisy. The front camera is barely passable for video chatting - photos have an odd purple tinge and generally poor quality. Videos taken with the rear camera were passable, but that's about it.
+
+The camera app defaults to taking 6-megapixel photos and 720p video, which you can manually change to 8 megapixels and 1080p. The camera app has an HDR mode which definitely improves vibrancy, but can leave photos looking rather artificial. The mode is available via a slidable icon bar at the top of the camera app.
+
+There are also modes for panorama shots, auto scene detection, best shot, EV Bracket mode, and multi-angle shots. Some of these could have done with a bit of explanation for new users, but there's very little on-screen guidance.
+
+(Click to see full size)
+
+PerformanceBenchmark
+ scores were pretty much at par with those of other phones based on the 
+same MediaTek SoC family, such as the Oppo R1 and Micromax Canvas Turbo 
+Mini. As expected, scores in graphically intensive tests such as 
+GFXbench and 3DMark were very low. We managed 8.6fps in GFXbench, as 
+opposed to the Oppo R1's score of 6.5fps with a faster clocked GPU. That
+ could be down to the R1's slim body preventing heat dissipation, or its
+ higher resolution screen requiring more grunt. You won't be able to run
+ any 3D games on this device, although casual titles seem to run 
+perfectly well.
+
+The CPU scores were more or less identical across 
+the two phones. In our review of the R1, we noted that you could get 
+much better performance for what you'd be paying. In the case of the 
+S660, which sells for well under half that price, we think its scores 
+are pretty reasonable. 
+
+We have no problem with how the phone 
+handles itself in day-to-day usage. Interface animations and transitions
+ are smooth, and apps load quickly enough. Basic games, photo editing 
+tools, social networking and messenger apps should work well, but don't 
+expect to be doing any heavy multitasking.
+
+The S660's battery is 
+pretty large at 3,000mAh, and battery life is one of Lenovo's talking 
+points about this phone. We saw some odd behaviour in our battery test -
+ in the beginning, the phone dropped from 100 percent to around 80 
+percent alarmingly quickly. It seemed as though the phone was losing 
+about one percentage point per minute, which was so unbelievable that we
+ aborted our test midway and started again twice. The behaviour 
+persisted, but then the drainage improved so much so that the phone 
+lasted well over an hour between the time it hit 2 percent and the time 
+it shut itself down. We ended up with a total of 7 hours and 38 minutes 
+in our video loop test which is pretty good, but, for the record, Lenovo
+ seriously needs to work out its battery calibration issues.
+
+The 
+loudspeaker was extremely tinny and harsh, and sound distorted even at 
+medium volume levels. Call quality, on the other hand, was pretty good. 
+Video playback was fine for resolutions up to 720p, but attempting to 
+play 1080p video was pretty much pointless.
+
+ 
+
+VerdictWe're 
+impressed with what Lenovo has managed to pull off at this price point. 
+It matches or exceeds the specifications and performance of most other 
+phones at this price point, such as the Nokia Lumia 630 and XL, the HTC 
+Desire 310, the Lava Iris Pro 20 and Iris Pro 30, and even in some respects, the Motorola Moto G. 
+
+What you get is a solid phone with well-balanced specifications and capabilities at a very reasonable price. Lenovo seems to have understood the value end of the market very well. The S660 might not be very glamorous, but it doesn't let us down in any department and is still quite attractive. The only thing we could really hope for would be a software update.
+
+The 8GB version of the Moto G sells 
+for roughly the same price, has a better screen and runs the very latest
+ version of Android, but doesn't have a microSD card slot. If the 16GB 
+Moto G stretches your budget too far, you'll find that the Lenovo S660 
+is a more than worthy substitute.
+

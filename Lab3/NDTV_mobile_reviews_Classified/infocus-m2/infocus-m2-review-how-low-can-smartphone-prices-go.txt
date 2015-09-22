@@ -1,0 +1,344 @@
+InFocus M2 Review: How Low Can Smartphone Prices Go?
+
+We have no problem with companies launching great products at low 
+prices that force the competition to respond, pushing prices down across
+ the board. InFocus is just the latest in a long line to attempt to do 
+this, and it has chosen to begin at the very enticing Rs. 5,000 price 
+point. InFocus is a pretty big name in projectors and has 
+interests in all kinds of corporate communication and collaboration 
+products, but it has been working with Taiwanese manufacturing behemoth 
+Foxconn to sell smartphones in Asia for a few years now. Interestingly, 
+while InFocus has not missed a single opportunity in India to proclaim 
+that it is American and that the M2 was designed in America, its US 
+website has no information whatsoever about smartphones or efforts to 
+extend the InFocus brand into new categories in other parts of the 
+world.Foxconn, of course, is the force behind Apple and many of 
+the world's biggest PC, smartphone and electronics manufacturers. It 
+should  be interesting to see how the two companies have come together, 
+and whether their joint expertise can make a splash in the 
+super-sensitive budget Android market here.Look and feelThere
+ really isn't anything compelling about the design of the InFocus M2 
+when you first look at it. It could pass for any one of the hundreds of 
+Chinese-manufactured phones we've seen so far. The fact that it bears a 
+slight resemblance to Motorola's recent designs doesn't help either. The
+ only thing that stands out is the milky white flash module on the front
+ face next to the front camera lens. It's actually quite distracting, 
+and while this is a nice feature, we wish there had been
+ a more elegant way to work it in to the phone's overall design.The
+ three Android navigation buttons below the screen are printed in bold 
+silver, but they are not backlit (and there's no vibration feedback when
+ they're pressed either). There's a lot of plastic above and below the 
+screen, making the InFocus M2 a lot taller than other phones in the same
+ size class. Even so, it's narrow enough to be easy to use with one 
+hand.The back is curved gently and has a matte plastic finish for
+ grip. Unfortunately, it picks up smudges and grease very easily. Our 
+review unit already had a few nicks and scrapes when it arrived, so we'd
+ definitely recommend a protective case. The camera, flash and speaker 
+are arranged in a line down the back, and there's also a big silver 
+InFocus logo right in the middle.The power button on the right 
+and volume rocker on the left both stick out a bit, and are easy to 
+locate by touch. There's a standard 3.5mm headset socket on top and a 
+Micro-USB port on the bottom. Interestingly, there are two microphones 
+for noise reduction. If you pop off the rear shell, you'll see the two 
+Micro-SIM slots and a microSD card slot lined up on the right. The 
+battery is visible, but not removable.   Despite its relatively 
+small screen, the InFocus M2 is not all that small or light. We have to 
+remind ourselves that at this price point, style should not be the 
+primary concern.Specifications and softwareInFocus could 
+give Xiaomi some serious competition in terms of the components it puts 
+into its ultra-low-cost phones. It's powered by a quad-core MediaTek 
+MT6582 processor with integrated Mali-400 graphics. This processor has 
+been used in a number of popular phones, most notably the first wave of 
+Android One devices launched in India towards the end of last year. 
+There's 1GB of RAM and 8GB of internal storage space - we're happy to 
+see that InFocus didn't try cutting corners with either.The 
+screen has a relatively unusual resolution of 768x1280; wider 
+than the usual 16:9 ratio which is nearly standard on smartphones today.
+ It's certainly better than the lowly 480x854 of the Android One series and 960x540 of some other devices in this price range.
+ The screen is one of the sharpest and clearest we've seen on phones at 
+this price level, and is in fact quite pleasant to work with. It can get
+ very bright, and is clear even under sunlight.There's Wi-Fi 
+b/g/n, Bluetooth 4.0 and even FM radio. There are two microphones, and 
+InFocus lists noise cancellation as a feature. We particularly liked the
+ fact that the company did not dispense with an ambient light sensor, 
+which is a trick lots of companies employ at the low end. In fact there 
+is also a proximity sensor, gyroscope and accelerometer.The 
+InFocus M2 runs Android 4.2.2 with the company's own Inlife UI skin. 
+Like nearly every Chinese UI we've seen, there is no app drawer and all 
+icons and widgets live together on the homescreens. Some people prefer 
+this setup, but we miss having that kind of control. We found this to be
+ even more of a problem than usual on the M2 of the way the preloaded 
+apps and widgets are scattered around by default.In fact this is 
+one of the least polished Android skins available, and using the M2 was 
+often quite annoying. The animations are too jarring, visuals 
+are crude, and a lot of elements seem carried over from older versions 
+of Android. Furthermore, one of the navigation buttons below the screen 
+is set up as a redundant Menu button, and you have to double-tap the 
+Home button to call up the task manager. Users don't have a lot of 
+control over the appearance so don't expect to be able to customise this
+ phone easily. We would have liked to tone down the homescreen 
+transition animations, at least.At least InFocus and Foxconn stuffed this phone with software capabilities. There's an EZ Launcher 
+with large, simple tiles for those who find Android confusing. You can 
+enable shortcuts such as flipping the phone over to mute it or shaking 
+to skip music tracks. There are shortcuts to common apps on the 
+lockscreen (though these don't seem customisable). Power Saver mode can 
+disable background tasks and wireless communications, either on a set 
+schedule or on demand. An eye strain filter gives the screen a sepia 
+tone which is less harsh. An app called Audio Effects lets you 
+apply equaliser settings and filters to sound being played. MeituPic 
+lets you be creative with photos you've taken. There's also Facebook, 
+WPS Office, Dropbox, and a variety of smaller apps that might be useful 
+to some. Surprisingly, the default keyboard adopts Google's Material 
+Design style and looks utterly out of place in the otherwise dated UI.CamerasThe
+ InFocus M2's biggest draw is perhaps the fact that it has 8-megapixel 
+cameras on the front and back, each with its own flash. The one in 
+front, which we called out for being ugly, works more as an LED lamp 
+than as a flash. This probably makes sense, since a regular flash would 
+blind people when fired at arm's length. The camera app is just 
+as rough around the edges as the rest of the InFocus M2's interface, but
+ most controls are within reach. The app tries to detect faces and 
+automatically take a shot when anyone smiles, but it triggered pretty 
+much any time it felt like.(Click to see full size)Photos came out a bit dull and dark, 
+with colours that didn't pop at all even in favourable lighting. 
+Focusing was slow and automatic exposure detection was not always good. 
+When seen at full size, the textures in photos were just a little 
+muddled and noisy. Detail was pretty good when photos were reviewed on 
+screen or scaled down for sharing. The front camera was only really 
+effective when we held the phone close to our faces, and even the rear 
+camera improved tremendously when used for close-ups, capturing some very nice depth-of-field effects.Low light performance was especially noteworthy. While not miraculous by any stretch, bits of detail that we wouldn't have expected to come out will did just that, and photos were generally more usable than ones taken in similar situations with other phones. We still have to remind ourselves how little this phone costs. In that context, the cameras are actually pretty great. (Click to see full size)PerformanceOnce
+ you get over the awkwardness of the M2's hardware and software, it's 
+actually pretty pleasant to use. No speed records will be set by this 
+phone, but it doesn't have any problems keeping up with day-to-day 
+tasks. We noticed some odd behaviour, for example the phone sometimes 
+could not be detected by any PC we plugged it into until we restarted 
+it.Benchmark scores were in line with what we expected from the 
+entry-level MediaTek processor. AnTuTu and Quadrant came up with 18,596 
+and 7,171 points respectively. Graphics tests were not too encouraging, 
+with 3DMark Ice Storm producing a score of 3,207 points and GFXbench 
+returning only 6.9fps. Games that go beyond simple 2D graphics will not 
+look good on this phone.HD video playback was mostly fine. We 
+noticed very slight artefacting in our heaviest 40Mbps 1080p test clip, 
+but everything else worked well. The built-in speaker was not 
+impressive, with noticeable tearing at even medium volume, and a very 
+thin, tinny sound overall. We had no complaints about call quality. The 
+battery life was decent, at 7 hours, 39 minutes in our video loop test, 
+but the phone did not drain uniformly. There was a sharp, sudden dropoff
+ after the phone fell below the 15 percent mark, which is particularly 
+unsettling because that means the battery might die long before you 
+expect it to, based on perfectly reasonable observations.VerdictIt's
+ a little shocking that we can now purchase phones of this calibre for 
+Rs. 5,000. We're particularly impressed with the features on offer - 
+dual microphones, dual 8-megapixel cameras, reasonable amounts of 
+storage, and assorted software tweaks all left an impression on us. If 
+you don't mind this phone's awkward proportions and user interface, it's
+ an absolute steal - especially when compared to devices such as the 
+Sony Xperia E4 dual (Review | Pictures) which costs over twice as much but isn't 
+significantly better.The Android One ecosystem has similarly 
+priced devices, which have the advantage of stock, uncluttered software 
+but also lack in features compared to the InFocus M2. Another factor 
+that might swing your decision is availability - unfortunately, InFocus 
+selling the M2 only through a single online retailer and that too in 
+limited quantities that seem to go out of stock regularly. If 
+value for money is your topmost priority, this is a hard phone to beat. 
+However, there are other products in the market that cost just Rs. 
+1000-2000 more, such as the Xiaomi Redmi 2 (Review | Pictures) and Motorola Moto E (Gen 2) 
+(Review | Pictures) which are worth considering as well.  InFocus M2 in pictures
+
+We have no problem with companies launching great products at low 
+prices that force the competition to respond, pushing prices down across
+ the board. InFocus is just the latest in a long line to attempt to do 
+this, and it has chosen to begin at the very enticing Rs. 5,000 price 
+point. 
+
+InFocus is a pretty big name in projectors and has 
+interests in all kinds of corporate communication and collaboration 
+products, but it has been working with Taiwanese manufacturing behemoth 
+Foxconn to sell smartphones in Asia for a few years now. Interestingly, 
+while InFocus has not missed a single opportunity in India to proclaim 
+that it is American and that the M2 was designed in America, its US 
+website has no information whatsoever about smartphones or efforts to 
+extend the InFocus brand into new categories in other parts of the 
+world.
+
+Foxconn, of course, is the force behind Apple and many of 
+the world's biggest PC, smartphone and electronics manufacturers. It 
+should  be interesting to see how the two companies have come together, 
+and whether their joint expertise can make a splash in the 
+super-sensitive budget Android market here.
+
+Look and feelThere
+ really isn't anything compelling about the design of the InFocus M2 
+when you first look at it. It could pass for any one of the hundreds of 
+Chinese-manufactured phones we've seen so far. The fact that it bears a 
+slight resemblance to Motorola's recent designs doesn't help either. The
+ only thing that stands out is the milky white flash module on the front
+ face next to the front camera lens. It's actually quite distracting, 
+and while this is a nice feature, we wish there had been
+ a more elegant way to work it in to the phone's overall design.
+
+The
+ three Android navigation buttons below the screen are printed in bold 
+silver, but they are not backlit (and there's no vibration feedback when
+ they're pressed either). There's a lot of plastic above and below the 
+screen, making the InFocus M2 a lot taller than other phones in the same
+ size class. Even so, it's narrow enough to be easy to use with one 
+hand.
+
+The back is curved gently and has a matte plastic finish for
+ grip. Unfortunately, it picks up smudges and grease very easily. Our 
+review unit already had a few nicks and scrapes when it arrived, so we'd
+ definitely recommend a protective case. The camera, flash and speaker 
+are arranged in a line down the back, and there's also a big silver 
+InFocus logo right in the middle.
+
+The power button on the right 
+and volume rocker on the left both stick out a bit, and are easy to 
+locate by touch. There's a standard 3.5mm headset socket on top and a 
+Micro-USB port on the bottom. Interestingly, there are two microphones 
+for noise reduction. If you pop off the rear shell, you'll see the two 
+Micro-SIM slots and a microSD card slot lined up on the right. The 
+battery is visible, but not removable.   
+
+Despite its relatively 
+small screen, the InFocus M2 is not all that small or light. We have to 
+remind ourselves that at this price point, style should not be the 
+primary concern.
+
+Specifications and softwareInFocus could 
+give Xiaomi some serious competition in terms of the components it puts 
+into its ultra-low-cost phones. It's powered by a quad-core MediaTek 
+MT6582 processor with integrated Mali-400 graphics. This processor has 
+been used in a number of popular phones, most notably the first wave of 
+Android One devices launched in India towards the end of last year. 
+There's 1GB of RAM and 8GB of internal storage space - we're happy to 
+see that InFocus didn't try cutting corners with either.
+
+The 
+screen has a relatively unusual resolution of 768x1280; wider 
+than the usual 16:9 ratio which is nearly standard on smartphones today.
+ It's certainly better than the lowly 480x854 of the Android One series and 960x540 of some other devices in this price range.
+ The screen is one of the sharpest and clearest we've seen on phones at 
+this price level, and is in fact quite pleasant to work with. It can get
+ very bright, and is clear even under sunlight.
+
+There's Wi-Fi 
+b/g/n, Bluetooth 4.0 and even FM radio. There are two microphones, and 
+InFocus lists noise cancellation as a feature. We particularly liked the
+ fact that the company did not dispense with an ambient light sensor, 
+which is a trick lots of companies employ at the low end. In fact there 
+is also a proximity sensor, gyroscope and accelerometer.
+
+The 
+InFocus M2 runs Android 4.2.2 with the company's own Inlife UI skin. 
+Like nearly every Chinese UI we've seen, there is no app drawer and all 
+icons and widgets live together on the homescreens. Some people prefer 
+this setup, but we miss having that kind of control. We found this to be
+ even more of a problem than usual on the M2 of the way the preloaded 
+apps and widgets are scattered around by default.
+
+In fact this is 
+one of the least polished Android skins available, and using the M2 was 
+often quite annoying. The animations are too jarring, visuals 
+are crude, and a lot of elements seem carried over from older versions 
+of Android. Furthermore, one of the navigation buttons below the screen 
+is set up as a redundant Menu button, and you have to double-tap the 
+Home button to call up the task manager. Users don't have a lot of 
+control over the appearance so don't expect to be able to customise this
+ phone easily. We would have liked to tone down the homescreen 
+transition animations, at least.
+
+At least InFocus and Foxconn stuffed this phone with software capabilities. There's an EZ Launcher 
+with large, simple tiles for those who find Android confusing. You can 
+enable shortcuts such as flipping the phone over to mute it or shaking 
+to skip music tracks. There are shortcuts to common apps on the 
+lockscreen (though these don't seem customisable). Power Saver mode can 
+disable background tasks and wireless communications, either on a set 
+schedule or on demand. An eye strain filter gives the screen a sepia 
+tone which is less harsh. 
+
+An app called Audio Effects lets you 
+apply equaliser settings and filters to sound being played. MeituPic 
+lets you be creative with photos you've taken. There's also Facebook, 
+WPS Office, Dropbox, and a variety of smaller apps that might be useful 
+to some. Surprisingly, the default keyboard adopts Google's Material 
+Design style and looks utterly out of place in the otherwise dated UI.
+
+CamerasThe
+ InFocus M2's biggest draw is perhaps the fact that it has 8-megapixel 
+cameras on the front and back, each with its own flash. The one in 
+front, which we called out for being ugly, works more as an LED lamp 
+than as a flash. This probably makes sense, since a regular flash would 
+blind people when fired at arm's length. 
+
+The camera app is just 
+as rough around the edges as the rest of the InFocus M2's interface, but
+ most controls are within reach. The app tries to detect faces and 
+automatically take a shot when anyone smiles, but it triggered pretty 
+much any time it felt like.
+
+(Click to see full size)
+
+Photos came out a bit dull and dark, 
+with colours that didn't pop at all even in favourable lighting. 
+Focusing was slow and automatic exposure detection was not always good. 
+When seen at full size, the textures in photos were just a little 
+muddled and noisy. Detail was pretty good when photos were reviewed on 
+screen or scaled down for sharing. The front camera was only really 
+effective when we held the phone close to our faces, and even the rear 
+camera improved tremendously when used for close-ups, capturing some very nice depth-of-field effects.
+
+Low light performance was especially noteworthy. While not miraculous by any stretch, bits of detail that we wouldn't have expected to come out will did just that, and photos were generally more usable than ones taken in similar situations with other phones. We still have to remind ourselves how little this phone costs. In that context, the cameras are actually pretty great.
+
+ 
+
+(Click to see full size)
+
+PerformanceOnce
+ you get over the awkwardness of the M2's hardware and software, it's 
+actually pretty pleasant to use. No speed records will be set by this 
+phone, but it doesn't have any problems keeping up with day-to-day 
+tasks. We noticed some odd behaviour, for example the phone sometimes 
+could not be detected by any PC we plugged it into until we restarted 
+it.
+
+Benchmark scores were in line with what we expected from the 
+entry-level MediaTek processor. AnTuTu and Quadrant came up with 18,596 
+and 7,171 points respectively. Graphics tests were not too encouraging, 
+with 3DMark Ice Storm producing a score of 3,207 points and GFXbench 
+returning only 6.9fps. Games that go beyond simple 2D graphics will not 
+look good on this phone.
+
+HD video playback was mostly fine. We 
+noticed very slight artefacting in our heaviest 40Mbps 1080p test clip, 
+but everything else worked well. The built-in speaker was not 
+impressive, with noticeable tearing at even medium volume, and a very 
+thin, tinny sound overall. We had no complaints about call quality. The 
+battery life was decent, at 7 hours, 39 minutes in our video loop test, 
+but the phone did not drain uniformly. There was a sharp, sudden dropoff
+ after the phone fell below the 15 percent mark, which is particularly 
+unsettling because that means the battery might die long before you 
+expect it to, based on perfectly reasonable observations.
+
+VerdictIt's
+ a little shocking that we can now purchase phones of this calibre for 
+Rs. 5,000. We're particularly impressed with the features on offer - 
+dual microphones, dual 8-megapixel cameras, reasonable amounts of 
+storage, and assorted software tweaks all left an impression on us. If 
+you don't mind this phone's awkward proportions and user interface, it's
+ an absolute steal - especially when compared to devices such as the 
+Sony Xperia E4 dual (Review | Pictures) which costs over twice as much but isn't 
+significantly better.
+
+The Android One ecosystem has similarly 
+priced devices, which have the advantage of stock, uncluttered software 
+but also lack in features compared to the InFocus M2. Another factor 
+that might swing your decision is availability - unfortunately, InFocus 
+selling the M2 only through a single online retailer and that too in 
+limited quantities that seem to go out of stock regularly. 
+
+If 
+value for money is your topmost priority, this is a hard phone to beat. 
+However, there are other products in the market that cost just Rs. 
+1000-2000 more, such as the Xiaomi Redmi 2 (Review | Pictures) and Motorola Moto E (Gen 2) 
+(Review | Pictures) which are worth considering as well. 
+

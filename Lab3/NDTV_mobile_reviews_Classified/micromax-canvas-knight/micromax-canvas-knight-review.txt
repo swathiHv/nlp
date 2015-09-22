@@ -1,0 +1,574 @@
+Micromax Canvas Knight review
+
+Micromax's Canvas smartphone series has been considered by many to be 
+the best thing that the popular Indian handset maker has ever done. 
+After forging a formidable reputation for itself in the budget Android 
+smartphone segment, Micromax of late has begun to aim a bit higher, with
+ products such as the Canvas Doodle 2 (Review) and Canvas Turbo (Review).After lots of 
+speculation, Micromax has now finally bitten the octa-core bullet and 
+has done so with a vengeance in terms of both specifications and price 
+with its latest launch, the Canvas Knight. Just as PC makers used to 
+boast about the clock speed of the processors powering their devices, 
+smartphone manufacturers are now doing the same.The Canvas Knight
+ is the first smartphone from Micromax's stable to use MediaTek's 
+octa-core MT6592T chip, which is an upgraded variant of the MT6592. But 
+does the Micromax Canvas Knight, with its octa-core processor and 
+full-HD display, pack enough punch to overcome heavyweights like 
+Samsung, Sony and HTC in an increasingly competitive market? We took it 
+for a spin to find out.Look and feelThe first thing that 
+you will notice about the Micromax Canvas Knight is its refreshed 
+design; however in many ways, it reminds us of another device, the 
+Xperia Z. Our immediate reaction after we took the smartphone out
+ of the box was: we have seen something similar before. We would not be 
+totally wrong to say that the Canvas Knight is inspired by Sony's former
+ flagship smartphone, the Sony Xperia Z, while the sides look a bit 
+reminiscent of an Apple iPhone 5 or iPhone 5s. The front and rear
+ panels noticeably borrow design cues from the Xperia Z (Review). However, a 
+closer look at the Canvas Knight reveals differences. For instance, it 
+doesn't have a rounded power button on the right panel, which is a 
+hallmark of the current Xperia aesthetic, and the camera placement is 
+also different. Next, there is no physical camera button on the Canvas 
+Knight, unlike the Xperia Z. The rear panel is dominated by a big
+ slab of glass that curves nicely till the bezel at the sides, much like
+ the Sony Xperia Z's rear panel which is non-removable.It arches 
+outwards gently, with a 16-megapixel camera accompanied by an LED flash 
+right on top. We wish Micromax had provided a layer of protection for 
+the protruding rear camera.The Canvas Knight's side panels 
+feature rounded edges and metal styling, which at times reminded us of 
+the iPhone design. The glass rear and metal styling on the edges of the 
+Canvas Knight is impressive and gives a premium feel to the device. The
+ front is totally dominated by a 5-inch touchscreen. There are no 
+physical buttons on the front of the phone; only three soft touch keys 
+below the screen which become visible when it's in use. The Canvas 
+Knight also has a secondary camera which is placed above the screen and 
+to the right. The 3.5mm audio jack is placed on the top panel, 
+whereas the volume rocker keys and power button are on the right 
+side.The two SIM card slots are placed on either side. All of these 
+blend smoothly into the phone's frame. The Micro-USB charging port is 
+placed on the bottom, alongside an elongated speaker grille.We 
+were disappointed to see the power button of the Canvas Knight placed a 
+bit low on the right edge; we wish it had been placed a little 
+higher,which would have made it easier to hit. We ended up pressing the 
+volume up button instead of the power key quite often, thanks to their 
+awkward placement.Both the front and back panels of the Canvas 
+Knight are dominated by glass, so we expected at least Corning Gorilla 
+Glass for protection. The Canvas Knight is surprisingly compact 
+for a device with 5-inch screen, and although it is hardly super thin, 
+it easily fits in most hands. However, stretching a thumb all the way 
+across the screen feels awkward at best, unless you have big palms.We
+ have always been fascinated by new designs in the devices we see, and 
+as far as looks go, the Canvas Knight is a complete departure from 
+company's previous smartphones. We were impressed to see a new design 
+sensibility applied by Micromax for this device.No, the Micromax 
+Canvas Knight does not scream 'cutting edge' but it is all about 
+understated class. Just remember to keep a cloth handy to wipe 
+fingerprints off the glass. On the whole, the Canvas Knight is a very 
+handsome package.ScreenThe Micromax Canvas Knight features
+ a 5-inch full-HD IPS screen with a resolution of 1080x1920 pixels and 
+an impressive pixel density of 443ppi (pixels-per-inch).In terms 
+of performance, the screen offers vibrant colours and respectable 
+contrast. Viewing angles aren't so great, but still pretty decent for a 
+phone in this price range.Unfortunately, Micromax has given a 
+miss to toughened glass that resists scratches, which was not expected 
+since it's a relatively high-end phone. Notably, Motorola used Corning 
+Gorilla Glass 3 on the Moto G's screen and it is still cheaper than the 
+Canvas Knight.The IPS screen doesn't give the fullest colours or 
+the deepest blacks like the Samsung's high-end Galaxy smartphones with 
+Super AMOLED would, but the panel is bright enough nearly all the time.The
+ resolution and pixel density of the Canvas Knight is also far higher 
+than some of its competitors in this price segment, such as the Nexus 4 
+and Samsung Galaxy S4 mini. Touch sensitivity is impressive and we did 
+not encounter any issues while using the device.The Canvas 
+Knight's screen produced bright whites and vibrant colours. Images and 
+text look sharp. Readability in direct sunlight was good, but only with 
+brightness set to the highest level.The screen is also highly 
+reflective. In day-to-day use at regular brightness levels, the Canvas 
+Knight's screen will offer higher quality than an average user expects.CameraThe
+ Micromax Canvas Knight sports a 16-megapixel autofocus rear camera with
+ electronic image stabilization (EIS) and a M8 Largan lens, which the 
+company touts, can capture high resolution images in rapid succession.The
+ camera app carries forward a lot of features from the company's 
+previous Canvas models, including a customisable quick menu which 
+includes controls for switching between the front and rear cameras, 
+turning on the Intelligent Auto (flash) mode, switching between Normal, 
+Panorama, HDR, Scene Detection, and Smile photo shot modes, and for 
+accessing the deeper camera settings.Notably, the Canvas Knight 
+offers the same settings for voice activated shutter which are found on 
+some high-end smartphones from LG, Samsung and Sony, which lets you take
+ pictures with voice commands such as 'cheese' or 'capture'. The 
+camera app on Canvas Knight also offers options like focus, zoom, 
+brightness, image size, scene modes, ISO, white balance, colour effects,
+ timer, geo-tagging, shutter sound and image storage. Video can be 
+recorded at 1080p.The continuous or burst shot mode takes up to 99 images in one go when you press the on-screen button.We
+ tested the Canvas Knight's rear camera in outdoor, dim and indoor 
+conditions and found that it produced very good results in well-lit 
+conditions and even did reasonably well when the lights dimmed, although
+ we recommend using the flash only when it gets really dark.Daylight
+ shots came out well except that colours were a little over-saturated 
+and at times there was noise at edges; you can also see missing details 
+if you zoom in to a saved image. However, the indoor and dim light shots
+ did show a quality drop, and images weren't as crisp as those taken in 
+well-lit situations.The smartphone also features an 8-megapixel 
+fixed focus front facing camera that can be very handy for selfies and 
+video chats. We found videos and images captured with this camera 
+indoors and even outdoors a bit grainy.Software/ InterfaceAt
+ a time when the world is expecting Android KitKat on modern phones, 
+Micromax has stuck with Android 4.2.2 Jelly Bean for the Micromax Canvas 
+Knight, which is extremely disappointing. Considering that Android 
+4.4KitKat has been out in the market for quite a while, we hope that 
+Micromax soon rolls out an update to at least Android 4.3 Jelly Bean.Further,
+ the Canvas Knight does not run the stock version of the OS. Micromax 
+has customised the UI, skinning some elements such as the notification 
+tray, besides including additional apps, widgets and features.There's
+ no doubt that the UI skin on the Canvas Knight is not as radical as 
+Sony's XperiaUI or Samsung's TouchWiz, but it does add a few neat 
+touches to the OS without intruding too much on its essence.The 
+Canvas Knight offers five customisable home screens that can be 
+populated with apps and widgets. There are four app shortcuts which 
+remain visible across all home screens.By default, these are the 
+dialler, contacts, messages, and default browser apps.The 
+notification tray on the Canvas Knight features a Quick settings 
+shortcut and a clear all notifications button, along with expandable 
+notifications (using the two-finger pull gesture). It features the same 
+setting toggles that are found in stock Android and adds some of its own
+ as well, for quick access to profile, battery status, airplane mode, 
+Wi-Fi, Bluetooth, GPS, data connection, data usage, user (audio) 
+profiles, brightness, screen backlight timeout, auto rotation, reboot 
+and wireless display.Lock-screen widgets are a standard Android 
+feature. Users can choose from the Clock, Camera, Gmail, Google Now and 
+Messaging widgets in addition to those offered by third-party apps. 
+These widgets offer glanceable information from the apps and allow users
+ to perform certain actions even when the phone is locked.However,
+ the Canvas Knight offers only one unlock shortcut by default, which 
+takes you to the Micromax Store online. We tried to change the lock 
+screen options but were unable to do so.The Canvas Knight also 
+offers another Android 4.2 feature, Daydream, which displays photo 
+albums or the clock while the phone is charging. You can also wirelessly
+ mirror the Canvas Knight's display to a wireless display adapter 
+connected to your TV or projector via HDMI.The Canvas Knight 
+offers FM radio with recording. It also offers 'smart' gestures like 
+flip to silence the ringer, and the ability to answer the phone or 
+auto-dial a number on screen when the user brings the phone to his ear.Being
+ a Jelly Bean device, the Canvas Knight features Google Now, which is a 
+voice-based information assistant. You can ask questions and the tool 
+returns answers or search results. The Google Now feature uses 'cards' 
+which are essentially small boxes that offer different sets of 
+information such as a weather forecast, directions, traffic information,
+ scores, appointments, and currency conversion, among others. Notably, 
+the Google Now feature collects information based on the user's 
+behaviour, location and even email inbox to offer 
+information automatically.It's worth mentioning that the Canvas Knight's menu shows newly downloaded app and game icons with a 'New' tag on top.Some of the preloaded apps are Opera, Real Steel, Where'sMy Water?, Where'sMyPerry?, Getit, BBM, Truecaller and Kingsoft OfficeMicromax
+ replaced its own instant messaging app, HookUp with a Micromax-branded 
+version of Hike, the mobile messaging app from Bharti Softbank. The 
+smartphone also comes preloaded with the movie streaming app Spuul that 
+allows users to watch movies for free.Performance/ Battery LifeMediaTek
+ claims that its MT6592 SoC is the world's first 'true octa-core' mobile
+ processor. The MT6592 and MT6592T chipsets are built on the 28nm HPM 
+(high-performance process) and include eight CPU cores, each capable of 
+clock speeds up to 2GHz. MediaTek says the MT6592 can run both 
+low-power and more demanding tasks equally well by using any number of 
+cores at a time. The processor is complemented by 2GB of RAM. It 
+comes with 32GB of storage,out of which only 25GB is 
+user-accessible.There's no slot for expandable storage.We would 
+like to note that the typing experience on the smartphone was not very 
+great;messaging junkies will feel a bit frustrated with the stock 
+Micromax keyboard, though this can be fixed by downloading a third party
+ keyboard app.On the sound front, the Canvas Knight impressed us 
+with its Yamaha amplified speaker, which is located on the bottom and is
+ quiet loud. The supplied earphones are not that great, and we now 
+expect Micromax to work on the quality of the accessories supplied with 
+its devices.The 5-inch full-HD screen of the Canvas Knight is 
+excellent for watching movies and videos. The device was able to play 
+full-HD videos and supported popular video formats like .AVI, .MOV, and 
+.MP4. The Canvas Knight also managed to play the .MKV video, a format 
+that has not been fully supported on other Canvas smartphones. In our 
+rundown video loop test, Canvas Knight was able to able to last more 
+than 10 hours. Call quality on the Canvas Knight was impressive 
+and we did not encounter any problems with clarity through the earpiece.
+ Users can talk for long hours on the Canvas Knight without any issues. 
+Notably, the Canvas Knight is a dual-SIM device and supports micro-SIMs,
+ instead of the regular SIM size.The Canvas Knight scored 
+impressively in benchmark tests and made it through our synthetic 
+benchmarks, all thanks to the octa-core processor. The Canvas Knight 
+scored 30,223 in AnTuTu, and 16,061 in Quadrant. On the graphics front, 
+the Canvas Knight reached only 9.4 frames per second in the GFXbench 
+test, and a disappointing 4171 in the 3DMark Ice Storm Extreme 
+run-through.Without any doubt, the Canvas Knight's processor is 
+impressive. Unfortunately, real-world graphics performance is severely 
+lacking. The major downside of the Canvas Knight is that it cannot 
+handle heavy graphics in games like Asphalt 8, Real Racing 3 and Real 
+Football 2013. Apps like Instagram, Twitter and Facebook ran just
+ fine, though. In day-to-day activities, the Canvas Knight feels smooth 
+enough and you are not really left wanting for more power.The 
+Canvas Knight ships with a 2350mAh battery that can deliver up to 175 
+hours of standby and up to 7.5 hours of talktime, as rated by the 
+company. Based on our testing period the Canvas Knight is a decent 
+performer when it comes to battery performance. We were able to 
+get about 10-12 hours with normal usage, which included Wi-Fi switched 
+on all the time, Web browsing for more than an hour,and a few calls 
+lasting for about an hour in total,with the display set on 
+auto-brightness and with the usual notifications for messages, emails, 
+Facebook, Twitter and WhatsApp.With heavy usage of the Canvas 
+Knight, which included the screen brightness level set to its maximum 
+level, calls lasting for about two hours, 3G turned on all time, casual 
+photography with some tweaking in the default camera app, two hours of 
+YouTube and locally stored videos, an hour of gaming, and with usual 
+notifications for messages, emails, Facebook, Twitter, Google Hangouts 
+and WhatsApp, the device lasted for only about 7-8 hours. Clearly, the 
+settings you use will help in increasing the phone's battery life.VerdictIf
+ we had told you at this time last year that it would be possible to buy
+ an Android smartphone with an octa-core processor for less than Rs. 
+20,000, you would have laughed at the notion. The Micromax Canvas Knight
+ however, is just that.It looks good (we would call it 
+refreshing, even), performs impressive in day-to-day use, and at Rs. 
+19,999, costs a whole lot less than Android flagships from Samsung, HTC 
+or Sony.Frankly, we have no reason not to recommend the Canvas 
+Knight. Even though it has a 5-inch screen, the device is slim and 
+easily fits into one's palm. Oh, and it is available in a number of 
+colour combinations, including Black, Black and Gold, and White and 
+Gold. Having colour options is always welcome.Its closest 
+competitor is the Intex Aqua Octa (Review) which retails at roughly the same 
+price. Those willing to put up with a Windows Phone device can go for 
+Nokia Lumia 1320 (Review).Micromax Canvas Knight in pictures
+
+After lots of 
+speculation, Micromax has now finally bitten the octa-core bullet and 
+has done so with a vengeance in terms of both specifications and price 
+with its latest launch, the Canvas Knight. Just as PC makers used to 
+boast about the clock speed of the processors powering their devices, 
+smartphone manufacturers are now doing the same.
+
+The Canvas Knight
+ is the first smartphone from Micromax's stable to use MediaTek's 
+octa-core MT6592T chip, which is an upgraded variant of the MT6592. But 
+does the Micromax Canvas Knight, with its octa-core processor and 
+full-HD display, pack enough punch to overcome heavyweights like 
+Samsung, Sony and HTC in an increasingly competitive market? We took it 
+for a spin to find out.
+
+Look and feelThe first thing that 
+you will notice about the Micromax Canvas Knight is its refreshed 
+design; however in many ways, it reminds us of another device, the 
+Xperia Z. 
+
+Our immediate reaction after we took the smartphone out
+ of the box was: we have seen something similar before. We would not be 
+totally wrong to say that the Canvas Knight is inspired by Sony's former
+ flagship smartphone, the Sony Xperia Z, while the sides look a bit 
+reminiscent of an Apple iPhone 5 or iPhone 5s. 
+
+The front and rear
+ panels noticeably borrow design cues from the Xperia Z (Review). However, a 
+closer look at the Canvas Knight reveals differences. For instance, it 
+doesn't have a rounded power button on the right panel, which is a 
+hallmark of the current Xperia aesthetic, and the camera placement is 
+also different. Next, there is no physical camera button on the Canvas 
+Knight, unlike the Xperia Z. 
+
+The rear panel is dominated by a big
+ slab of glass that curves nicely till the bezel at the sides, much like
+ the Sony Xperia Z's rear panel which is non-removable.It arches 
+outwards gently, with a 16-megapixel camera accompanied by an LED flash 
+right on top. We wish Micromax had provided a layer of protection for 
+the protruding rear camera.
+
+The Canvas Knight's side panels 
+feature rounded edges and metal styling, which at times reminded us of 
+the iPhone design. The glass rear and metal styling on the edges of the 
+Canvas Knight is impressive and gives a premium feel to the device. 
+
+The
+ front is totally dominated by a 5-inch touchscreen. There are no 
+physical buttons on the front of the phone; only three soft touch keys 
+below the screen which become visible when it's in use. The Canvas 
+Knight also has a secondary camera which is placed above the screen and 
+to the right. 
+
+The 3.5mm audio jack is placed on the top panel, 
+whereas the volume rocker keys and power button are on the right 
+side.The two SIM card slots are placed on either side. All of these 
+blend smoothly into the phone's frame. The Micro-USB charging port is 
+placed on the bottom, alongside an elongated speaker grille.
+
+We 
+were disappointed to see the power button of the Canvas Knight placed a 
+bit low on the right edge; we wish it had been placed a little 
+higher,which would have made it easier to hit. We ended up pressing the 
+volume up button instead of the power key quite often, thanks to their 
+awkward placement.
+
+Both the front and back panels of the Canvas 
+Knight are dominated by glass, so we expected at least Corning Gorilla 
+Glass for protection. 
+
+The Canvas Knight is surprisingly compact 
+for a device with 5-inch screen, and although it is hardly super thin, 
+it easily fits in most hands. However, stretching a thumb all the way 
+across the screen feels awkward at best, unless you have big palms.
+
+We
+ have always been fascinated by new designs in the devices we see, and 
+as far as looks go, the Canvas Knight is a complete departure from 
+company's previous smartphones. We were impressed to see a new design 
+sensibility applied by Micromax for this device.
+
+No, the Micromax 
+Canvas Knight does not scream 'cutting edge' but it is all about 
+understated class. Just remember to keep a cloth handy to wipe 
+fingerprints off the glass. On the whole, the Canvas Knight is a very 
+handsome package.
+
+ScreenThe Micromax Canvas Knight features
+ a 5-inch full-HD IPS screen with a resolution of 1080x1920 pixels and 
+an impressive pixel density of 443ppi (pixels-per-inch).
+
+In terms 
+of performance, the screen offers vibrant colours and respectable 
+contrast. Viewing angles aren't so great, but still pretty decent for a 
+phone in this price range.
+
+Unfortunately, Micromax has given a 
+miss to toughened glass that resists scratches, which was not expected 
+since it's a relatively high-end phone. Notably, Motorola used Corning 
+Gorilla Glass 3 on the Moto G's screen and it is still cheaper than the 
+Canvas Knight.
+
+The IPS screen doesn't give the fullest colours or 
+the deepest blacks like the Samsung's high-end Galaxy smartphones with 
+Super AMOLED would, but the panel is bright enough nearly all the time.
+
+The
+ resolution and pixel density of the Canvas Knight is also far higher 
+than some of its competitors in this price segment, such as the Nexus 4 
+and Samsung Galaxy S4 mini. Touch sensitivity is impressive and we did 
+not encounter any issues while using the device.
+
+The Canvas 
+Knight's screen produced bright whites and vibrant colours. Images and 
+text look sharp. Readability in direct sunlight was good, but only with 
+brightness set to the highest level.
+
+The screen is also highly 
+reflective. In day-to-day use at regular brightness levels, the Canvas 
+Knight's screen will offer higher quality than an average user expects.
+
+CameraThe
+ Micromax Canvas Knight sports a 16-megapixel autofocus rear camera with
+ electronic image stabilization (EIS) and a M8 Largan lens, which the 
+company touts, can capture high resolution images in rapid succession.
+
+The
+ camera app carries forward a lot of features from the company's 
+previous Canvas models, including a customisable quick menu which 
+includes controls for switching between the front and rear cameras, 
+turning on the Intelligent Auto (flash) mode, switching between Normal, 
+Panorama, HDR, Scene Detection, and Smile photo shot modes, and for 
+accessing the deeper camera settings.
+
+Notably, the Canvas Knight 
+offers the same settings for voice activated shutter which are found on 
+some high-end smartphones from LG, Samsung and Sony, which lets you take
+ pictures with voice commands such as 'cheese' or 'capture'. 
+
+The 
+camera app on Canvas Knight also offers options like focus, zoom, 
+brightness, image size, scene modes, ISO, white balance, colour effects,
+ timer, geo-tagging, shutter sound and image storage. Video can be 
+recorded at 1080p.
+
+The continuous or burst shot mode takes up to 99 images in one go when you press the on-screen button.
+
+We
+ tested the Canvas Knight's rear camera in outdoor, dim and indoor 
+conditions and found that it produced very good results in well-lit 
+conditions and even did reasonably well when the lights dimmed, although
+ we recommend using the flash only when it gets really dark.
+
+Daylight
+ shots came out well except that colours were a little over-saturated 
+and at times there was noise at edges; you can also see missing details 
+if you zoom in to a saved image. However, the indoor and dim light shots
+ did show a quality drop, and images weren't as crisp as those taken in 
+well-lit situations.
+
+The smartphone also features an 8-megapixel 
+fixed focus front facing camera that can be very handy for selfies and 
+video chats. We found videos and images captured with this camera 
+indoors and even outdoors a bit grainy.
+
+Software/ InterfaceAt
+ a time when the world is expecting Android KitKat on modern phones, 
+Micromax has stuck with Android 4.2.2 Jelly Bean for the Micromax Canvas 
+Knight, which is extremely disappointing. Considering that Android 
+4.4KitKat has been out in the market for quite a while, we hope that 
+Micromax soon rolls out an update to at least Android 4.3 Jelly Bean.
+
+Further,
+ the Canvas Knight does not run the stock version of the OS. Micromax 
+has customised the UI, skinning some elements such as the notification 
+tray, besides including additional apps, widgets and features.
+
+There's
+ no doubt that the UI skin on the Canvas Knight is not as radical as 
+Sony's XperiaUI or Samsung's TouchWiz, but it does add a few neat 
+touches to the OS without intruding too much on its essence.
+
+The 
+Canvas Knight offers five customisable home screens that can be 
+populated with apps and widgets. There are four app shortcuts which 
+remain visible across all home screens.By default, these are the 
+dialler, contacts, messages, and default browser apps.
+
+The 
+notification tray on the Canvas Knight features a Quick settings 
+shortcut and a clear all notifications button, along with expandable 
+notifications (using the two-finger pull gesture). It features the same 
+setting toggles that are found in stock Android and adds some of its own
+ as well, for quick access to profile, battery status, airplane mode, 
+Wi-Fi, Bluetooth, GPS, data connection, data usage, user (audio) 
+profiles, brightness, screen backlight timeout, auto rotation, reboot 
+and wireless display.
+
+Lock-screen widgets are a standard Android 
+feature. Users can choose from the Clock, Camera, Gmail, Google Now and 
+Messaging widgets in addition to those offered by third-party apps. 
+These widgets offer glanceable information from the apps and allow users
+ to perform certain actions even when the phone is locked.
+
+However,
+ the Canvas Knight offers only one unlock shortcut by default, which 
+takes you to the Micromax Store online. We tried to change the lock 
+screen options but were unable to do so.
+
+The Canvas Knight also 
+offers another Android 4.2 feature, Daydream, which displays photo 
+albums or the clock while the phone is charging. You can also wirelessly
+ mirror the Canvas Knight's display to a wireless display adapter 
+connected to your TV or projector via HDMI.
+
+The Canvas Knight 
+offers FM radio with recording. It also offers 'smart' gestures like 
+flip to silence the ringer, and the ability to answer the phone or 
+auto-dial a number on screen when the user brings the phone to his ear.
+
+Being
+ a Jelly Bean device, the Canvas Knight features Google Now, which is a 
+voice-based information assistant. You can ask questions and the tool 
+returns answers or search results. The Google Now feature uses 'cards' 
+which are essentially small boxes that offer different sets of 
+information such as a weather forecast, directions, traffic information,
+ scores, appointments, and currency conversion, among others. Notably, 
+the Google Now feature collects information based on the user's 
+behaviour, location and even email inbox to offer 
+information automatically.
+
+It's worth mentioning that the Canvas Knight's menu shows newly downloaded app and game icons with a 'New' tag on top.
+
+Some of the preloaded apps are Opera, Real Steel, Where'sMy Water?, Where'sMyPerry?, Getit, BBM, Truecaller and Kingsoft Office
+
+Micromax
+ replaced its own instant messaging app, HookUp with a Micromax-branded 
+version of Hike, the mobile messaging app from Bharti Softbank. The 
+smartphone also comes preloaded with the movie streaming app Spuul that 
+allows users to watch movies for free.
+
+Performance/ Battery LifeMediaTek
+ claims that its MT6592 SoC is the world's first 'true octa-core' mobile
+ processor. The MT6592 and MT6592T chipsets are built on the 28nm HPM 
+(high-performance process) and include eight CPU cores, each capable of 
+clock speeds up to 2GHz. MediaTek says the MT6592 can run both 
+low-power and more demanding tasks equally well by using any number of 
+cores at a time. 
+
+The processor is complemented by 2GB of RAM. It 
+comes with 32GB of storage,out of which only 25GB is 
+user-accessible.There's no slot for expandable storage.
+
+We would 
+like to note that the typing experience on the smartphone was not very 
+great;messaging junkies will feel a bit frustrated with the stock 
+Micromax keyboard, though this can be fixed by downloading a third party
+ keyboard app.
+
+On the sound front, the Canvas Knight impressed us 
+with its Yamaha amplified speaker, which is located on the bottom and is
+ quiet loud. The supplied earphones are not that great, and we now 
+expect Micromax to work on the quality of the accessories supplied with 
+its devices.
+
+The 5-inch full-HD screen of the Canvas Knight is 
+excellent for watching movies and videos. The device was able to play 
+full-HD videos and supported popular video formats like .AVI, .MOV, and 
+.MP4. The Canvas Knight also managed to play the .MKV video, a format 
+that has not been fully supported on other Canvas smartphones. In our 
+rundown video loop test, Canvas Knight was able to able to last more 
+than 10 hours. 
+
+Call quality on the Canvas Knight was impressive 
+and we did not encounter any problems with clarity through the earpiece.
+ Users can talk for long hours on the Canvas Knight without any issues. 
+Notably, the Canvas Knight is a dual-SIM device and supports micro-SIMs,
+ instead of the regular SIM size.
+
+The Canvas Knight scored 
+impressively in benchmark tests and made it through our synthetic 
+benchmarks, all thanks to the octa-core processor. The Canvas Knight 
+scored 30,223 in AnTuTu, and 16,061 in Quadrant. On the graphics front, 
+the Canvas Knight reached only 9.4 frames per second in the GFXbench 
+test, and a disappointing 4171 in the 3DMark Ice Storm Extreme 
+run-through.
+
+Without any doubt, the Canvas Knight's processor is 
+impressive. Unfortunately, real-world graphics performance is severely 
+lacking. The major downside of the Canvas Knight is that it cannot 
+handle heavy graphics in games like Asphalt 8, Real Racing 3 and Real 
+Football 2013. 
+
+Apps like Instagram, Twitter and Facebook ran just
+ fine, though. In day-to-day activities, the Canvas Knight feels smooth 
+enough and you are not really left wanting for more power.
+
+The 
+Canvas Knight ships with a 2350mAh battery that can deliver up to 175 
+hours of standby and up to 7.5 hours of talktime, as rated by the 
+company. Based on our testing period the Canvas Knight is a decent 
+performer when it comes to battery performance. 
+
+We were able to 
+get about 10-12 hours with normal usage, which included Wi-Fi switched 
+on all the time, Web browsing for more than an hour,and a few calls 
+lasting for about an hour in total,with the display set on 
+auto-brightness and with the usual notifications for messages, emails, 
+Facebook, Twitter and WhatsApp.
+
+With heavy usage of the Canvas 
+Knight, which included the screen brightness level set to its maximum 
+level, calls lasting for about two hours, 3G turned on all time, casual 
+photography with some tweaking in the default camera app, two hours of 
+YouTube and locally stored videos, an hour of gaming, and with usual 
+notifications for messages, emails, Facebook, Twitter, Google Hangouts 
+and WhatsApp, the device lasted for only about 7-8 hours. Clearly, the 
+settings you use will help in increasing the phone's battery life.
+
+VerdictIf
+ we had told you at this time last year that it would be possible to buy
+ an Android smartphone with an octa-core processor for less than Rs. 
+20,000, you would have laughed at the notion. The Micromax Canvas Knight
+ however, is just that.
+
+It looks good (we would call it 
+refreshing, even), performs impressive in day-to-day use, and at Rs. 
+19,999, costs a whole lot less than Android flagships from Samsung, HTC 
+or Sony.
+
+Frankly, we have no reason not to recommend the Canvas 
+Knight. Even though it has a 5-inch screen, the device is slim and 
+easily fits into one's palm. Oh, and it is available in a number of 
+colour combinations, including Black, Black and Gold, and White and 
+Gold. Having colour options is always welcome.
+
+Its closest 
+competitor is the Intex Aqua Octa (Review) which retails at roughly the same 
+price. Those willing to put up with a Windows Phone device can go for 
+Nokia Lumia 1320 (Review).
+

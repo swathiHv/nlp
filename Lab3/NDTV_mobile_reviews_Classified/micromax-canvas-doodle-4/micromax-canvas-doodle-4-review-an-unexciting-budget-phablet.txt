@@ -1,0 +1,164 @@
+Micromax Canvas Doodle 4 Review: An Unexciting Budget Phablet
+
+Micromax
+launched the Canvas Doodle series of smartphones as budget 
+alternatives to Samsung's famed Note series. This range of low-cost phablets recently entered its fourth generation with the Micromax 
+Canvas Doodle 4, which comes as no surprise because even Samsung's Note 
+series is in its fourth generation now. Since the first 
+Canvas Doodle phone, the smartphone landscape has seen a tectonic shift 
+with some really competent big-screen devices entering the fray, including the
+ Yu Yureka, Lenovo A7000, and Xiaomi Redmi Note 4G. Micromax is targeting the Doodle 4 at people who like to sketch on their phones. Our drawing skills aren't too great, but we can surely 
+review a phone, which is exactly what we did. Look and feelThe
+ Doodle 4 is a behemoth with its 6-inch screen; so much so that it is the
+ tallest and widest phone in this price range, although it is slimmer than the competition at 8.5mm. The back curves slightly to fit into your palms, alleviating 
+some of the inconvenience in ergonomics. However, the Doodle 4 is still difficult to use with one hand. A metal trim runs along the 
+edges of the phone, which is otherwise mostly made of plastic. The 
+right of the Doodle 4 has the power button and volume rocker 
+placed in conveniently enough for you to reach them with your thumb 
+(when held in your right hand). The bottom has the Micro-USB port 
+with a mic beside it, whereas the top has the 3.5mm audio socket. 
+The large 6-inch display takes up most of the front but there is a thick bezel surrounding it. Below the screen, there are three capacitive for navigating through
+ the operating system. The earpiece, front camera, and ambient light
+ sensor are above the screen. The primary camera is placed 
+inside a circular metallic ring on the rear and below it lies the LED 
+flash. Also present on the rear is the 
+loudspeaker grille. The rear cover is removable and feels very flimsy. On 
+removing it, you will find two slots for the Micro-SIM 
+cards, one for the microSD card and a non-removable battery. Specifications and softwareMicromax
+has gone with a 1.3 GHz quad-core Mediatek MT6582M SoC for the Doodle 4. The phone
+ has 1GB of RAM, which seems low considering a lot of phones 
+come with 2GB of RAM these days. There is 8GB of internal storage space 
+for applications and files. This can be expanded by up to 
+32GB using a microSD card. If this doesn't suffice, the phone supports 
+USB-OTG allowing you to connect a USB drive.The primary
+ camera can shoot 8-megapixel images whereas the front one, for selfies 
+and video calls, has a 2-megapixel sensor. The Doodle 4 doesn't support 4G 
+networks, which is now a common feature in newly launched 
+phones. It does, however, support 3G. Other connectivity options
+ include Wi-Fi, Bluetooth and GPS. The Doodle 4 has an accelerometer, proximity sensor,
+ and ambient light sensor. A 3,000mAh battery provides the juice for the phone. The biggest disappointment in 
+the phone is its 6-inch screen which has a resolution of 540x960, which 
+translates to a pixel density of only 183ppi. We could spot jagged edges and 
+pixellation on the icons and text. Colours are fairly vibrant but sunlight legibility and the viewing angles are not too great. Thankfully, 
+Micromax used Corning's Gorilla Glass 3 for protection. Micromax 
+doesn't play around too much with the base version of Android 5.0 
+Lollipop except for adding gesture controls. We like this approach 
+because vanilla Android is very usable. 
+There are a few third-party apps such as Evernote and Skitch, and Micromax 
+also bundles three months of premium features free with the phone.Performance and cameraThe
+ Mediatek MT6582M SoC is average at best and thsi phone does not stack up to its competition. In fact, we noticed some slowdowns and app freezes during 
+our usage. In our AnTuTu and Quadrant tests, the phone scored 19,722 and 
+5,674 respectively. In GFXBench and 3DMark Ice Storm Extreme, the phone 
+logged scores of 8.8fps and 1,892 points. This doesn't make it particularly 
+good for playing graphically rich games.We played a few of our 
+sample videos and our heavily encoded 40Mbps video file stuttered and skipped 
+frames during playback. The sound quality through the bundled headset 
+was below average but it improved by leaps and bounds with our reference
+ headphones. The loudspeaker is really loud and doesn't crackle at high 
+volumes. The sound quality in calls is very good and we didn't 
+notice any call drops either. The battery lasted 10 hours and 1 
+minute in our video loop test. (Click for full size)The 8-megapixel primary camera is an 
+average performer. In our testing, we noticed that it was a 
+pretty slow shooter - it took time to lock focus and capture a picture. 
+Moreover, the captured images were dull and devoid of colour. Details were also lacking. The front camera wasn't good either. VerdictThe
+ Micromax Canvas Doodle 4 can be purchased for around Rs. 9,000 which 
+puts it squarely in competition with phones such as the Yu Yureka (Review | Pictures), Lenovo 
+A7000 (Review | Pictures), Infocus M330 (Review), and Xiaomi Redmi Note 4G (Review | Pictures). Frankly, all these 
+phones are better than the Canvas Doodle 4 in most respsects, and you'd be 
+better off picking one of them. The only reason you should choose the Doodle 4
+is if you need a huge screen, since the Doodle 4's screen is larger than those on the other phones listed here. 
+Micromax Canvas Doodle 4 in pictures
+
+
+Micromax
+launched the Canvas Doodle series of smartphones as budget 
+alternatives to Samsung's famed Note series. This range of low-cost phablets recently entered its fourth generation with the Micromax 
+Canvas Doodle 4, which comes as no surprise because even Samsung's Note 
+series is in its fourth generation now. 
+
+Since the first 
+Canvas Doodle phone, the smartphone landscape has seen a tectonic shift 
+with some really competent big-screen devices entering the fray, including the
+ Yu Yureka, Lenovo A7000, and Xiaomi Redmi Note 4G. Micromax is targeting the Doodle 4 at people who like to sketch on their phones. Our drawing skills aren't too great, but we can surely 
+review a phone, which is exactly what we did. 
+
+Look and feelThe
+ Doodle 4 is a behemoth with its 6-inch screen; so much so that it is the
+ tallest and widest phone in this price range, although it is slimmer than the competition at 8.5mm. The back curves slightly to fit into your palms, alleviating 
+some of the inconvenience in ergonomics. However, the Doodle 4 is still difficult to use with one hand. 
+
+A metal trim runs along the 
+edges of the phone, which is otherwise mostly made of plastic. The 
+right of the Doodle 4 has the power button and volume rocker 
+placed in conveniently enough for you to reach them with your thumb 
+(when held in your right hand). The bottom has the Micro-USB port 
+with a mic beside it, whereas the top has the 3.5mm audio socket. 
+The large 6-inch display takes up most of the front but there is a thick bezel surrounding it. 
+
+Below the screen, there are three capacitive for navigating through
+ the operating system. The earpiece, front camera, and ambient light
+ sensor are above the screen. The primary camera is placed 
+inside a circular metallic ring on the rear and below it lies the LED 
+flash. Also present on the rear is the 
+loudspeaker grille. The rear cover is removable and feels very flimsy. On 
+removing it, you will find two slots for the Micro-SIM 
+cards, one for the microSD card and a non-removable battery. 
+
+Specifications and softwareMicromax
+has gone with a 1.3 GHz quad-core Mediatek MT6582M SoC for the Doodle 4. The phone
+ has 1GB of RAM, which seems low considering a lot of phones 
+come with 2GB of RAM these days. There is 8GB of internal storage space 
+for applications and files. This can be expanded by up to 
+32GB using a microSD card. If this doesn't suffice, the phone supports 
+USB-OTG allowing you to connect a USB drive.
+
+The primary
+ camera can shoot 8-megapixel images whereas the front one, for selfies 
+and video calls, has a 2-megapixel sensor. The Doodle 4 doesn't support 4G 
+networks, which is now a common feature in newly launched 
+phones. It does, however, support 3G. Other connectivity options
+ include Wi-Fi, Bluetooth and GPS. The Doodle 4 has an accelerometer, proximity sensor,
+ and ambient light sensor. A 3,000mAh battery provides the juice for the phone. 
+
+The biggest disappointment in 
+the phone is its 6-inch screen which has a resolution of 540x960, which 
+translates to a pixel density of only 183ppi. We could spot jagged edges and 
+pixellation on the icons and text. Colours are fairly vibrant but sunlight legibility and the viewing angles are not too great. Thankfully, 
+Micromax used Corning's Gorilla Glass 3 for protection. 
+
+Micromax 
+doesn't play around too much with the base version of Android 5.0 
+Lollipop except for adding gesture controls. We like this approach 
+because vanilla Android is very usable. 
+There are a few third-party apps such as Evernote and Skitch, and Micromax 
+also bundles three months of premium features free with the phone.
+
+Performance and cameraThe
+ Mediatek MT6582M SoC is average at best and thsi phone does not stack up to its competition. In fact, we noticed some slowdowns and app freezes during 
+our usage. In our AnTuTu and Quadrant tests, the phone scored 19,722 and 
+5,674 respectively. In GFXBench and 3DMark Ice Storm Extreme, the phone 
+logged scores of 8.8fps and 1,892 points. This doesn't make it particularly 
+good for playing graphically rich games.
+
+We played a few of our 
+sample videos and our heavily encoded 40Mbps video file stuttered and skipped 
+frames during playback. The sound quality through the bundled headset 
+was below average but it improved by leaps and bounds with our reference
+ headphones. The loudspeaker is really loud and doesn't crackle at high 
+volumes. The sound quality in calls is very good and we didn't 
+notice any call drops either. The battery lasted 10 hours and 1 
+minute in our video loop test. 
+
+(Click for full size)The 8-megapixel primary camera is an 
+average performer. In our testing, we noticed that it was a 
+pretty slow shooter - it took time to lock focus and capture a picture. 
+Moreover, the captured images were dull and devoid of colour. Details were also lacking. The front camera wasn't good either. 
+
+VerdictThe
+ Micromax Canvas Doodle 4 can be purchased for around Rs. 9,000 which 
+puts it squarely in competition with phones such as the Yu Yureka (Review | Pictures), Lenovo 
+A7000 (Review | Pictures), Infocus M330 (Review), and Xiaomi Redmi Note 4G (Review | Pictures). Frankly, all these 
+phones are better than the Canvas Doodle 4 in most respsects, and you'd be 
+better off picking one of them. The only reason you should choose the Doodle 4
+is if you need a huge screen, since the Doodle 4's screen is larger than those on the other phones listed here. 
+

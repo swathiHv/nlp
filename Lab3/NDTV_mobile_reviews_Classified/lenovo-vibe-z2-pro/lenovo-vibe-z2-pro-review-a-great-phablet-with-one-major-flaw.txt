@@ -1,0 +1,319 @@
+Lenovo Vibe Z2 Pro Review: A Great Phablet With One Major Flaw
+
+Lenovo as a brand has been growing its 
+customer base by creating unique devices with quirky innovations (most notably the Yoga series) at fairly affordable prices. Despite being based out 
+of China, its reputation in India is really good. Last year the company promoted its metal-bodied
+ K900 heavily all over India. The newly launched Vibe Z2 Pro is the spiritual successor to the K900
+ and Lenovo has really upped the ante with this one. (The non-pro version, Vibe Z2, is a decidedly mid-range device and doesn't fit in this context.)  The Vibe Z2 
+Pro has all the bells and whistles you can imagine in a flagship device today, including a high-end quad-core processor, loads of 
+RAM, a decent amount of internal storage space, a fairly powerful camera, and a big
+ screen. Lenovo also adds a ton of software innovations with which it hopes 
+to attract customers. With all this, the phablet is available 
+at a sweet price of Rs. 32,990. Let's find out if Lenovo manages to 
+outperform flagship smartphones from more mainstream companies. Look and feelFeaturing
+ a brushed aluminium unibody design and really thin bezels around the 
+display, the Lenovo Vibe Z2 Pro looks impressive and feels good to hold as
+ well. At the point where the glass front ends, the edges curve nicely 
+into the rear. One thing we don't really like is the fact that Lenovo made the camera protrude. Despite its dimensions of 
+156 x 81.3 x 7.7mm and the somewhat slippery metal body, we found that the
+ phablet was comfortable to hold. It is quite possibly the most compact device available with a 6-inch screen. In comparison, the iPhone 6 Plus is taller at
+ 158.1mm but has a smaller 5.5-inch screen. We
+ think the fit and finish of the Vibe Z2 Pro is exemplary, and it 
+feels sturdy too. That doesn't mean it isn't bulky, and just like any other 
+6-inch phablet, the Vibe Z2 Pro is not very comfortable for single-handed
+ operation. A 3.5mm audio jack sits alone on the top of the 
+phablet. The bottom features a Micro-USB port with OTG support and a small speaker grille. The volume rocker is on the left edge, which is 
+again made of metal. The power button and tray for two Micro-SIM cards 
+are on the right edge. Above the screen one can find the
+ front camera and earpiece. Lenovo implements a capacitive 
+three-button setup below the screen for navigation rather than on-screen buttons. At the rear, on the 
+bottom, one can find a thin strip of plastic running along the breadth 
+of the device. This has been added so that the radios 
+inside the phablet can send and receive signals. Specifications and softwareLenovo
+ goes all out with the the innards of the Lenovo Vibe Z2 Pro. It uses Qualcomm's Snapdragon 801 SoC with a quad-core processor 
+clocked at 2.5GHz and Adreno 330 GPU, as well as 3GB of RAM. There 
+is 32GB of internal storage space, which cannot be expanded. 
+Both the RAM and internal storage should be sufficient for 
+most users. The Vibe Z2 Pro has a 16-megapixel rear camera with 
+dual-LED flash and optical image stabilisation (OIS). This camera can 
+capture 4K videos as well. The front camera can capture 
+5-megapixel images. With respect to wireless connectivity options, 
+the Vibe Z2 Pro can connect to Wi-Fi networks, other devices over 
+Bluetooth and also supports NFC. The phablet can connect to 4G LTE 
+networks but it doesn't support the 2.3GHz band which network operatorsuse in India. Also, only one SIM of the two that can be used on 3G networks.Lenovo doesn't cut 
+corners with the screen resolution, and so the Vibe
+ Z2 Pro has a QHD (1440 x 2560) IPS LCD panel. This translates to an 
+ultra-sharp 490ppi on the 6-inch screen. This is the 
+third smartphone with a QHD screen to enter our lab, after the Oppo Find 7 and LG G3, 
+and frankly our naked eyes can't really tell much of a difference between Full HD (1080x1920) and this. Text looks crisp and images are extremely detailed on this screen. Colours are
+ slightly oversaturated, bordering on the levels of an S-AMOLED panel, 
+which is very surprising. The viewing angles are average and sunlight legibility is not bad. We compared the screen to the one on the
+ iPhone 6 Plus (FHD) and found that the quality was better on Apple's new
+ phablet. Even so, the Vibe Z2 Pro has a very good, if not great, 
+display.Lenovo slaps its custom Vibe UI 2.0 skin on top of 
+Android 4.4.2 (KitKat). Just like the skins used by other Chinese 
+smartphone companies such as Gionee and Xiaomi, Lenovo's Vibe UI also does 
+away with the app drawer completely. Vibe UI 2.0 is replete with 
+animations and custom quirks and so is completely different from the stock 
+Android experience. However, Lenovo provides a really cool workaround 
+where users can switch to near-stock Android if they wish. Here are the 
+steps: Go to the Settings app, open the About Phone section, and select Version Information. Then, tap Software Version Number seven times to activate the hidden 
+developer mode. Go back to Settings, select Developer Options, and 
+finally, Switch System UI Style. The only drawback we noticed is that the
+ backlighting on the navigation buttons is unavailable in this mode.Vibe 
+UI 2.0 is very colourful and gaudy. The system apps have 
+transparent icons through which one can see the background wallpaper. 
+Frankly, we are not fans of this interface. There are a few themes which
+ can be found in the Theme Centre. Users can cycle through 
+wallpapers on Vibe UI 2.0's lock screen. They can also change the homescreen
+wallpaper on quickly by swiping on the top right or top left 
+corner. Quite a few times, we ended up pulling down the 
+notifications shade instead of changing the wallpaper. The software 
+doesn't make much use of the Vibe Z2 Pro's large screen to allow apps 
+to run in a spit-screen or windowed mode. However, there is a Micro-screen mode that is similar to the implementation we saw on the Asus Zenfone 6. In order to call this mode, one has to draw a C pattern from the top right corner of the screen. There is an option using which users 
+can switch to a Secure Mode. Essentially, users can 
+pre-select certain apps that are visible only in this mode. Even when connected to a computer, the device only displays confidential data when Secure Mode is active. We are unsure if there is encryption 
+happening in the background, though. Lenovo bundles way too many apps, which are not all useful. Their 
+proprietary Security app is rather annoying with its constant alerts. It
+ also takes up a row in the notifications shade, which cannot be reclaimed. Many 
+of Lenovo's own apps, including SYNCit, SHAREit, CLONEit, Driving App, User Guide, NFC app and
+ Wireless Display cannot be uninstalled. This is not the end of 
+it: Lenovo bundles Truecaller, Txt ebooks, Clean up,
+ Navigate, Evernote, Facebook, Twitter, Skype and Guvera in addition to games such as Asphalt 8, Green Farm 3, Real Football 2014 and 
+Spider-Man: Ultimate Power. We find this rather overwhelming and Lenovo could have certainly 
+exercised some restraint. CameraLenovo
+ has gone with an app called SnapIt as its default camera app. 
+There are two modes; Smart and Pro. Instead of being out in the open in 
+bold letters, the option to switch between these modes is a tiny toggle in one corner of the effects selection screen. We would advise all users, 
+advanced and casual alike, to switch to the Pro mode the permanently because Smart mode lacks even basic options such as HDR, and 
+fails to capture close-up images, let alone macro shots. The Pro mode 
+has a ton of options that would make any advanced user jump with joy, but even 
+casual users will benefit from this mode with all the settings set to Auto. Our only gripe is that Lenovo doesn't provide a 
+tutorial to help users figure out the app's capabilities. Sliding to
+ the left from the shutter buttons opens up a series of control rings that look 
+exactly like the interface Nokia developed for its camera app on Lumia smartphones. For
+ a flagship device, the Lenovo Vibe Z2 Pro's 16-megapixel rear camera is
+ a slow shooter. It takes time to focus on a subject and capture the 
+image. However, this camera can capture
+ some really good details. Colours look vibrant and slightly unnatural but this is what a lot of people like. Noise levels are also kept to a minimum. 
+Thanks to OIS, we got some better-than-average shots in low light. The camera can capture 4K videos and they
+ do look impressive. On the downside, the sensor can't always detect and lock on to the right 
+exposure. Also, we noticed a little screen tearing on fast moving 
+objects. There are also option for slow motion and fast 
+motion videos, similar to what's possible with Instagram's Hyperlapse app. Videos
+look dramatic and are plagued by the same problems we had while shooting
+ regular footage.(click for full size)There is also a 5-megapixel front camera which 
+is great for selfies. Using the beauty slider, one can reduces blemishes on any face. PerformanceWe have a question to 
+ask Lenovo: What is the point of all the power under the hood if this phone gets really hot within minutes of running anything intensive, such as a game or HD video? In one instance, while running one of our
+ benchmarks, the phablet got so hot that we had to close the app and wait for it to cool down. Of course, a software update with better 
+power management instructions could fix this situation, but what about the experience an average 
+customer is going to get after firing up his/her favourite game? Fix this fast, Lenovo. That aside, 
+the performance of the phablet in daily usage is top-notch. We faced 
+absolutely no lags. Even the benchmark numbers are really good. In the 
+AnTuTu 5 and Quadrant benchmark tests, the Vibe Z2 Pro scored 42,485 and
+ 22,931 pointsmrespectively, which are really good scores. On the other hand, 
+the graphics benchmark test scores weren't as impressive since the 
+Adreno 330 GPU has to power a QHD screen.  We managed to achieve scores
+ of 19.4fps in GFXbench and 16,600 in the 3DMark Ice Storm Unlimited test.
+ The Vibe Z2 Pro managed to play all the videos we threw at it with 
+ease, including the heavy 40mbps one. And of course, 
+watching videos on this screen is a really immersive experience. Combine
+ that with the good output of the loudspeakers, and the Vibe Z2 Pro makes for a 
+great media consumption device. The bundled earphones are pretty decent 
+for listening to music and watching videos with in isolation. We tested call quality in areas with poor cellular network reception and found that the phablet functioned without any problem. Call quality was also good at both ends.The Vibe Z2 Pro has a large 4,000mAh battery which is 
+probably necessary for the powerful internal hardware and the QHD 
+screen. It lasted us 9 hours and 24 minutes in our battery test, which is 
+average. Under normal conditions we found that it lasted us a little 
+more than a day. For the power user, there is a nifty Power Manager app 
+that has a power saving mode as well as an emergency mode that only 
+enables calling and messaging functions. VerdictOne look 
+at the Vibe Z2 Pro's price of Rs. 32,990 immediately makes us want to 
+compare it with the Moto X (Gen 2) (Review | Pictures). It is priced similarly and has 
+similar specs too. We like the Moto X (Gen 2) slightly better than the 
+Vibe Z2 Pro thanks primarily to a far superior software experience and 
+better ergonomics. However, people who want a bigger screen with a 
+higher resolution and slightly better battery life might find the Lenovo 
+Vibe Z2 Pro very attractive. We like almost everything about this device, 
+but as we said earlier, Lenovo has to sort out the heating issue as soon as possible, lest they want their 
+intended target audience to make #heatgate trend on Twitter.
+Lenovo Vibe Z2 Pro in pictures
+
+Lenovo as a brand has been growing its 
+customer base by creating unique devices with quirky innovations (most notably the Yoga series) at fairly affordable prices. Despite being based out 
+of China, its reputation in India is really good. Last year the company promoted its metal-bodied
+ K900 heavily all over India. The newly launched Vibe Z2 Pro is the spiritual successor to the K900
+ and Lenovo has really upped the ante with this one. (The non-pro version, Vibe Z2, is a decidedly mid-range device and doesn't fit in this context.)  
+
+The Vibe Z2 
+Pro has all the bells and whistles you can imagine in a flagship device today, including a high-end quad-core processor, loads of 
+RAM, a decent amount of internal storage space, a fairly powerful camera, and a big
+ screen. Lenovo also adds a ton of software innovations with which it hopes 
+to attract customers. With all this, the phablet is available 
+at a sweet price of Rs. 32,990. Let's find out if Lenovo manages to 
+outperform flagship smartphones from more mainstream companies. 
+
+Look and feelFeaturing
+ a brushed aluminium unibody design and really thin bezels around the 
+display, the Lenovo Vibe Z2 Pro looks impressive and feels good to hold as
+ well. At the point where the glass front ends, the edges curve nicely 
+into the rear. One thing we don't really like is the fact that Lenovo made the camera protrude. Despite its dimensions of 
+156 x 81.3 x 7.7mm and the somewhat slippery metal body, we found that the
+ phablet was comfortable to hold. It is quite possibly the most compact device available with a 6-inch screen. In comparison, the iPhone 6 Plus is taller at
+ 158.1mm but has a smaller 5.5-inch screen. 
+
+We
+ think the fit and finish of the Vibe Z2 Pro is exemplary, and it 
+feels sturdy too. That doesn't mean it isn't bulky, and just like any other 
+6-inch phablet, the Vibe Z2 Pro is not very comfortable for single-handed
+ operation. 
+
+A 3.5mm audio jack sits alone on the top of the 
+phablet. The bottom features a Micro-USB port with OTG support and a small speaker grille. The volume rocker is on the left edge, which is 
+again made of metal. The power button and tray for two Micro-SIM cards 
+are on the right edge. Above the screen one can find the
+ front camera and earpiece. Lenovo implements a capacitive 
+three-button setup below the screen for navigation rather than on-screen buttons. At the rear, on the 
+bottom, one can find a thin strip of plastic running along the breadth 
+of the device. This has been added so that the radios 
+inside the phablet can send and receive signals. 
+
+Specifications and softwareLenovo
+ goes all out with the the innards of the Lenovo Vibe Z2 Pro. It uses Qualcomm's Snapdragon 801 SoC with a quad-core processor 
+clocked at 2.5GHz and Adreno 330 GPU, as well as 3GB of RAM. There 
+is 32GB of internal storage space, which cannot be expanded. 
+Both the RAM and internal storage should be sufficient for 
+most users. 
+
+The Vibe Z2 Pro has a 16-megapixel rear camera with 
+dual-LED flash and optical image stabilisation (OIS). This camera can 
+capture 4K videos as well. The front camera can capture 
+5-megapixel images. With respect to wireless connectivity options, 
+the Vibe Z2 Pro can connect to Wi-Fi networks, other devices over 
+Bluetooth and also supports NFC. The phablet can connect to 4G LTE 
+networks but it doesn't support the 2.3GHz band which network operatorsuse in India. Also, only one SIM of the two that can be used on 3G networks.
+
+Lenovo doesn't cut 
+corners with the screen resolution, and so the Vibe
+ Z2 Pro has a QHD (1440 x 2560) IPS LCD panel. This translates to an 
+ultra-sharp 490ppi on the 6-inch screen. This is the 
+third smartphone with a QHD screen to enter our lab, after the Oppo Find 7 and LG G3, 
+and frankly our naked eyes can't really tell much of a difference between Full HD (1080x1920) and this. Text looks crisp and images are extremely detailed on this screen. Colours are
+ slightly oversaturated, bordering on the levels of an S-AMOLED panel, 
+which is very surprising. The viewing angles are average and sunlight legibility is not bad. We compared the screen to the one on the
+ iPhone 6 Plus (FHD) and found that the quality was better on Apple's new
+ phablet. Even so, the Vibe Z2 Pro has a very good, if not great, 
+display.
+
+Lenovo slaps its custom Vibe UI 2.0 skin on top of 
+Android 4.4.2 (KitKat). Just like the skins used by other Chinese 
+smartphone companies such as Gionee and Xiaomi, Lenovo's Vibe UI also does 
+away with the app drawer completely. Vibe UI 2.0 is replete with 
+animations and custom quirks and so is completely different from the stock 
+Android experience. However, Lenovo provides a really cool workaround 
+where users can switch to near-stock Android if they wish. Here are the 
+steps: Go to the Settings app, open the About Phone section, and select Version Information. Then, tap Software Version Number seven times to activate the hidden 
+developer mode. Go back to Settings, select Developer Options, and 
+finally, Switch System UI Style. The only drawback we noticed is that the
+ backlighting on the navigation buttons is unavailable in this mode.
+
+Vibe 
+UI 2.0 is very colourful and gaudy. The system apps have 
+transparent icons through which one can see the background wallpaper. 
+Frankly, we are not fans of this interface. There are a few themes which
+ can be found in the Theme Centre. Users can cycle through 
+wallpapers on Vibe UI 2.0's lock screen. They can also change the homescreen
+wallpaper on quickly by swiping on the top right or top left 
+corner. Quite a few times, we ended up pulling down the 
+notifications shade instead of changing the wallpaper. 
+
+The software 
+doesn't make much use of the Vibe Z2 Pro's large screen to allow apps 
+to run in a spit-screen or windowed mode. However, there is a Micro-screen mode that is similar to the implementation we saw on the Asus Zenfone 6. In order to call this mode, one has to draw a C pattern from the top right corner of the screen. There is an option using which users 
+can switch to a Secure Mode. Essentially, users can 
+pre-select certain apps that are visible only in this mode. Even when connected to a computer, the device only displays confidential data when Secure Mode is active. We are unsure if there is encryption 
+happening in the background, though. 
+
+Lenovo bundles way too many apps, which are not all useful. Their 
+proprietary Security app is rather annoying with its constant alerts. It
+ also takes up a row in the notifications shade, which cannot be reclaimed. Many 
+of Lenovo's own apps, including SYNCit, SHAREit, CLONEit, Driving App, User Guide, NFC app and
+ Wireless Display cannot be uninstalled. This is not the end of 
+it: Lenovo bundles Truecaller, Txt ebooks, Clean up,
+ Navigate, Evernote, Facebook, Twitter, Skype and Guvera in addition to games such as Asphalt 8, Green Farm 3, Real Football 2014 and 
+Spider-Man: Ultimate Power. We find this rather overwhelming and Lenovo could have certainly 
+exercised some restraint. 
+
+Lenovo
+ has gone with an app called SnapIt as its default camera app. 
+There are two modes; Smart and Pro. Instead of being out in the open in 
+bold letters, the option to switch between these modes is a tiny toggle in one corner of the effects selection screen. We would advise all users, 
+advanced and casual alike, to switch to the Pro mode the permanently because Smart mode lacks even basic options such as HDR, and 
+fails to capture close-up images, let alone macro shots. The Pro mode 
+has a ton of options that would make any advanced user jump with joy, but even 
+casual users will benefit from this mode with all the settings set to Auto. Our only gripe is that Lenovo doesn't provide a 
+tutorial to help users figure out the app's capabilities. Sliding to
+ the left from the shutter buttons opens up a series of control rings that look 
+exactly like the interface Nokia developed for its camera app on Lumia smartphones. 
+
+For
+ a flagship device, the Lenovo Vibe Z2 Pro's 16-megapixel rear camera is
+ a slow shooter. It takes time to focus on a subject and capture the 
+image. However, this camera can capture
+ some really good details. Colours look vibrant and slightly unnatural but this is what a lot of people like. Noise levels are also kept to a minimum. 
+Thanks to OIS, we got some better-than-average shots in low light. 
+
+The camera can capture 4K videos and they
+ do look impressive. On the downside, the sensor can't always detect and lock on to the right 
+exposure. Also, we noticed a little screen tearing on fast moving 
+objects. There are also option for slow motion and fast 
+motion videos, similar to what's possible with Instagram's Hyperlapse app. Videos
+look dramatic and are plagued by the same problems we had while shooting
+ regular footage.
+
+(click for full size)There is also a 5-megapixel front camera which 
+is great for selfies. Using the beauty slider, one can reduces blemishes on any face. 
+
+PerformanceWe have a question to 
+ask Lenovo: What is the point of all the power under the hood if this phone gets really hot within minutes of running anything intensive, such as a game or HD video? In one instance, while running one of our
+ benchmarks, the phablet got so hot that we had to close the app and wait for it to cool down. Of course, a software update with better 
+power management instructions could fix this situation, but what about the experience an average 
+customer is going to get after firing up his/her favourite game? Fix this fast, Lenovo. 
+
+That aside, 
+the performance of the phablet in daily usage is top-notch. We faced 
+absolutely no lags. Even the benchmark numbers are really good. In the 
+AnTuTu 5 and Quadrant benchmark tests, the Vibe Z2 Pro scored 42,485 and
+ 22,931 pointsmrespectively, which are really good scores. On the other hand, 
+the graphics benchmark test scores weren't as impressive since the 
+Adreno 330 GPU has to power a QHD screen.  We managed to achieve scores
+ of 19.4fps in GFXbench and 16,600 in the 3DMark Ice Storm Unlimited test.
+ 
+
+The Vibe Z2 Pro managed to play all the videos we threw at it with 
+ease, including the heavy 40mbps one. And of course, 
+watching videos on this screen is a really immersive experience. Combine
+ that with the good output of the loudspeakers, and the Vibe Z2 Pro makes for a 
+great media consumption device. The bundled earphones are pretty decent 
+for listening to music and watching videos with in isolation. 
+
+We tested call quality in areas with poor cellular network reception and found that the phablet functioned without any problem. Call quality was also good at both ends.
+
+The Vibe Z2 Pro has a large 4,000mAh battery which is 
+probably necessary for the powerful internal hardware and the QHD 
+screen. It lasted us 9 hours and 24 minutes in our battery test, which is 
+average. Under normal conditions we found that it lasted us a little 
+more than a day. For the power user, there is a nifty Power Manager app 
+that has a power saving mode as well as an emergency mode that only 
+enables calling and messaging functions. 
+
+VerdictOne look 
+at the Vibe Z2 Pro's price of Rs. 32,990 immediately makes us want to 
+compare it with the Moto X (Gen 2) (Review | Pictures). It is priced similarly and has 
+similar specs too. We like the Moto X (Gen 2) slightly better than the 
+Vibe Z2 Pro thanks primarily to a far superior software experience and 
+better ergonomics. However, people who want a bigger screen with a 
+higher resolution and slightly better battery life might find the Lenovo 
+Vibe Z2 Pro very attractive. We like almost everything about this device, 
+but as we said earlier, Lenovo has to sort out the heating issue as soon as possible, lest they want their 
+intended target audience to make #heatgate trend on Twitter.
+

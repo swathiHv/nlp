@@ -1,0 +1,244 @@
+Xolo Omega 5.0 Review: A Solid Entry-Level Option
+
+Since its inception, Xolo has been trying to establish itself as a 
+premium Indian smartphone brand. While it hasn't tried attacking the 
+absolute top-end of flagship devices, it has concentrated on the lower 
+mid-range where most of the action is. Xolo has so far done fairly well,
+ with a number of models that prioritised aspirational features such as 
+gaming performance and a custom Android UI.Now, in an apparent 
+diversion towards the low end, Xolo has launched a pair of sub-Rs. 
+10,000 devices under a new line, Xolo Omega. These near-twins, the Xolo 
+Omega 5.0 and the Omega 5.5 still promise some fairly impressive 
+specifications. The two have a lot in common, with the main differences 
+being screen size, camera resolution and battery capacity. We have the 
+smaller of the two, which is priced Rs. 1,000 lower and is closer to the
+ ideal size and weight for most people.  Look and feelIn 
+most respects, this is a perfectly ordinary Android smartphone. It's a 
+little bulky but not otherwise out of the ordinary. It's pretty much all
+ black plastic though the metallic silver trim running around the sides 
+gives the design some relief. The power and volume buttons are 
+integrated into this strip on the right and left sides respectively, 
+which works well. The Micro-USB port and 3.5mm headset socket are both 
+on top.There's quite a bit of space above and below the screen, 
+which is taken up by a rather large Xolo logo and the usual three 
+capacitive navigation buttons, all printed on in silver. The earpiece is
+ right against the upper edge of the phone, which some might find 
+uncomfortable. The navigation buttons are not backlit but their icons 
+are shiny enough to be visible in low light. The rear cover is 
+made of a smooth plastic. The camera lens protrudes a little bit and 
+there's another Xolo logo below it, with a speaker cutout further down. 
+You have to pry it off with a fingernail. Surpisingly there's no access 
+to the battery; only the two SIM card slots and the microSD card slot.The
+ curved rear makes the Omega 5.0 easy to hold, and thankfully the 
+plastic isn't too slippery. This might not be the slimmest phone around 
+but it doesn't compromise utility either.Specifications and softwareXolo
+ has managed to budget an octa-core processor, the MediaTek MT6592M, 
+into its spec for the Omega 5.0. This is a slightly cut-down version of 
+our old friend, the MT6592, and runs at 1.4GHz rather than 1.7GHz. These
+ two have powered nearly every octa-core smartphone we've reviewed so 
+far, and now that a new generation is already upon us, they're finding 
+their way into budget devices. The Xiaomi Redmi Note (Review | Photos) for example, uses 
+the MT6592, so it's interesting that Xolo has managed to compete with 
+the Chinese behemoth in terms of specs and price.There's 1GB of 
+RAM and 8GB of storage space which is normal for phones in this price 
+range. Wi-Fi b/g/n and Bluetooth 4.0 are standard. The rear camera takes
+ 8-megapixel stills and 1080p video, while the front camera is a 
+2-megapixel unit. The 2,100mAh battery is also just about standard for 
+this category.The screen is a 5-inch 720x1280-pixel panel with a 
+density of 294ppi. This is quite sharp and we're relieved to see that 
+Xolo hasn't cut corners - a lower resolution would have been quite 
+apparent on a screen this size. Text should be large enough for most 
+people to read comfortably.Xolo debuted its Hive UI with the 
+8X-1000 (Review | Photos), a phone we quite liked. Not much has changed in terms of 
+outward appearances, though Xolo does promise frequent updates to keep 
+things fresh. We still like most of the aesthetics and the highly 
+functional lockscreen. The app drawer, which forces icons into 
+categories, was probably the only major annoyance for us. You can read 
+all about Hive UI's looks and functionality in our review of the Xolo 
+8X-1000.The preloaded apps are also the same as they were on 
+Xolo's earlier Hive UI device, including the FusionX music player, Xolo 
+Secure, Power, and Connect. The social-inspired Edge and Hive Key apps 
+are also present. We noticed that Xolo has printed icons on this 
+phone's navigation buttons, rather than the simple dots that the 8X-1000
+ had, but even so, the leftmost one which has a Recents icon is treated 
+like a Menu key. You have to long-press the Home button to bring up the 
+app switcher. Android apps don't even require a physical Menu key 
+anymore, which makes this all the more baffling.PerformanceThe
+ heat is on in the sub-Rs. 10,000 smartphone category, and Xolo seems to
+ be up to the challenge. The octa-core processor manages to push through
+ with sheer brute force, resulting in a fairly impressive showing in our
+ benchmark suite. The obvious point of comparison here is the brand new 
+Xiaomi Redmi Note, which sells for the exact same price (though its 
+availability is highly restricted). Even with slightly better specs 
+overall, the Redmi Note's scores are essentially at par with those of 
+the Xolo Omega 5.0.We recorded 27,405 and 11,696 points in AnTuTu
+ and Quadrant respectively, which were a bit lower than what the Redmi 
+Note managed.  The SunSpider and Mozilla Kraken scores of 1313.1ms and 
+15404.8ms were also proportionately lower. Howver, graphics scores came 
+out in favour of the Omega 5.0, with leads in both GFXbench (16.1fps) 
+and 3DMark's Ice Storm Extreme test (4,523).We had no reason to 
+complain about the device's performance in everyday tasks either. It 
+handled most of our work without complaining. HD videos were slightly 
+problematic, and there were artefacts on screen when playing highly 
+compressed samples. Sound was surprisingly full, with minimal 
+distortion. The camera had a few minor issues, but was good 
+overall. Images came out nicely, with good detailing in close-ups. 
+Objects in the background tended to be less clear. It wasn't the 
+quickest to lock focus, but that's acceptable. We did have trouble at 
+night though, with the camera simply refusing to focus at some points, 
+and barely capturing anything at others. Images also came out with far 
+too much noise.On the other hand, battery life was more than 
+satisfactory. Our video loop test lasted 9 hours, 12 minutes before the 
+phone shut itself off automatically. (Click to see full size)VerdictXolo's new 
+push into this competitive space is likely to be met with a warm 
+welcome. While this phone isn't as polished as some of its competition 
+in terms of outward appearances, it has more than enough going for it to
+ make that irrelevant. The 5-inch screen is a good compromise between 
+size and portability, and for those who want more there's either the 
+Redmi Note or the Omega 5.5. If the camera is the most important feature
+ for you, you might consider paying a little more for the Asus ZenFone 
+5 (Review | Photos).Entry-level Android phones have been a major force in the 
+market this year, but with performance and specifications like this just
+ a step above, it doesn't make much sense to go lower than this in 
+price, unless you're really strapped for cash. 
+
+Since its inception, Xolo has been trying to establish itself as a 
+premium Indian smartphone brand. While it hasn't tried attacking the 
+absolute top-end of flagship devices, it has concentrated on the lower 
+mid-range where most of the action is. Xolo has so far done fairly well,
+ with a number of models that prioritised aspirational features such as 
+gaming performance and a custom Android UI.
+
+Now, in an apparent 
+diversion towards the low end, Xolo has launched a pair of sub-Rs. 
+10,000 devices under a new line, Xolo Omega. These near-twins, the Xolo 
+Omega 5.0 and the Omega 5.5 still promise some fairly impressive 
+specifications. The two have a lot in common, with the main differences 
+being screen size, camera resolution and battery capacity. We have the 
+smaller of the two, which is priced Rs. 1,000 lower and is closer to the
+ ideal size and weight for most people.  
+
+Look and feelIn 
+most respects, this is a perfectly ordinary Android smartphone. It's a 
+little bulky but not otherwise out of the ordinary. It's pretty much all
+ black plastic though the metallic silver trim running around the sides 
+gives the design some relief. The power and volume buttons are 
+integrated into this strip on the right and left sides respectively, 
+which works well. The Micro-USB port and 3.5mm headset socket are both 
+on top.
+
+There's quite a bit of space above and below the screen, 
+which is taken up by a rather large Xolo logo and the usual three 
+capacitive navigation buttons, all printed on in silver. The earpiece is
+ right against the upper edge of the phone, which some might find 
+uncomfortable. The navigation buttons are not backlit but their icons 
+are shiny enough to be visible in low light. 
+
+The rear cover is 
+made of a smooth plastic. The camera lens protrudes a little bit and 
+there's another Xolo logo below it, with a speaker cutout further down. 
+You have to pry it off with a fingernail. Surpisingly there's no access 
+to the battery; only the two SIM card slots and the microSD card slot.
+
+The
+ curved rear makes the Omega 5.0 easy to hold, and thankfully the 
+plastic isn't too slippery. This might not be the slimmest phone around 
+but it doesn't compromise utility either.
+
+Specifications and softwareXolo
+ has managed to budget an octa-core processor, the MediaTek MT6592M, 
+into its spec for the Omega 5.0. This is a slightly cut-down version of 
+our old friend, the MT6592, and runs at 1.4GHz rather than 1.7GHz. These
+ two have powered nearly every octa-core smartphone we've reviewed so 
+far, and now that a new generation is already upon us, they're finding 
+their way into budget devices. The Xiaomi Redmi Note (Review | Photos) for example, uses 
+the MT6592, so it's interesting that Xolo has managed to compete with 
+the Chinese behemoth in terms of specs and price.
+
+There's 1GB of 
+RAM and 8GB of storage space which is normal for phones in this price 
+range. Wi-Fi b/g/n and Bluetooth 4.0 are standard. The rear camera takes
+ 8-megapixel stills and 1080p video, while the front camera is a 
+2-megapixel unit. The 2,100mAh battery is also just about standard for 
+this category.
+
+The screen is a 5-inch 720x1280-pixel panel with a 
+density of 294ppi. This is quite sharp and we're relieved to see that 
+Xolo hasn't cut corners - a lower resolution would have been quite 
+apparent on a screen this size. Text should be large enough for most 
+people to read comfortably.
+
+Xolo debuted its Hive UI with the 
+8X-1000 (Review | Photos), a phone we quite liked. Not much has changed in terms of 
+outward appearances, though Xolo does promise frequent updates to keep 
+things fresh. We still like most of the aesthetics and the highly 
+functional lockscreen. The app drawer, which forces icons into 
+categories, was probably the only major annoyance for us. You can read 
+all about Hive UI's looks and functionality in our review of the Xolo 
+8X-1000.
+
+The preloaded apps are also the same as they were on 
+Xolo's earlier Hive UI device, including the FusionX music player, Xolo 
+Secure, Power, and Connect. The social-inspired Edge and Hive Key apps 
+are also present. 
+
+We noticed that Xolo has printed icons on this 
+phone's navigation buttons, rather than the simple dots that the 8X-1000
+ had, but even so, the leftmost one which has a Recents icon is treated 
+like a Menu key. You have to long-press the Home button to bring up the 
+app switcher. Android apps don't even require a physical Menu key 
+anymore, which makes this all the more baffling.
+
+PerformanceThe
+ heat is on in the sub-Rs. 10,000 smartphone category, and Xolo seems to
+ be up to the challenge. The octa-core processor manages to push through
+ with sheer brute force, resulting in a fairly impressive showing in our
+ benchmark suite. The obvious point of comparison here is the brand new 
+Xiaomi Redmi Note, which sells for the exact same price (though its 
+availability is highly restricted). Even with slightly better specs 
+overall, the Redmi Note's scores are essentially at par with those of 
+the Xolo Omega 5.0.
+
+We recorded 27,405 and 11,696 points in AnTuTu
+ and Quadrant respectively, which were a bit lower than what the Redmi 
+Note managed.  The SunSpider and Mozilla Kraken scores of 1313.1ms and 
+15404.8ms were also proportionately lower. Howver, graphics scores came 
+out in favour of the Omega 5.0, with leads in both GFXbench (16.1fps) 
+and 3DMark's Ice Storm Extreme test (4,523).
+
+We had no reason to 
+complain about the device's performance in everyday tasks either. It 
+handled most of our work without complaining. HD videos were slightly 
+problematic, and there were artefacts on screen when playing highly 
+compressed samples. Sound was surprisingly full, with minimal 
+distortion. 
+
+The camera had a few minor issues, but was good 
+overall. Images came out nicely, with good detailing in close-ups. 
+Objects in the background tended to be less clear. It wasn't the 
+quickest to lock focus, but that's acceptable. We did have trouble at 
+night though, with the camera simply refusing to focus at some points, 
+and barely capturing anything at others. Images also came out with far 
+too much noise.
+
+On the other hand, battery life was more than 
+satisfactory. Our video loop test lasted 9 hours, 12 minutes before the 
+phone shut itself off automatically. 
+
+(Click to see full size)
+
+VerdictXolo's new 
+push into this competitive space is likely to be met with a warm 
+welcome. While this phone isn't as polished as some of its competition 
+in terms of outward appearances, it has more than enough going for it to
+ make that irrelevant. The 5-inch screen is a good compromise between 
+size and portability, and for those who want more there's either the 
+Redmi Note or the Omega 5.5. If the camera is the most important feature
+ for you, you might consider paying a little more for the Asus ZenFone 
+5 (Review | Photos).
+
+Entry-level Android phones have been a major force in the 
+market this year, but with performance and specifications like this just
+ a step above, it doesn't make much sense to go lower than this in 
+price, unless you're really strapped for cash.
+

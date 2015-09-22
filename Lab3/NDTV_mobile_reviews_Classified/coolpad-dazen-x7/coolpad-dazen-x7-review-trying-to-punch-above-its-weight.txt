@@ -1,0 +1,224 @@
+Coolpad Dazen X7 Review: Trying to Punch Above Its Weight
+
+We
+recently reviewed the Coolpad Dazen 1 (Review), a budget workhorse. 
+Coolpad has another, more expensive, phone which sells for just under Rs. 20,000 - the Dazen X7. This phone has an 
+octa-core Mediatek MT6595M processor, which we haven't tested yet. 
+Moreover, the design of the Dazen X7 incorporates metal edges on a  predominately
+ glass body to create a premium look.   Let's find out if the 
+Dazen X7 can distinguish itself to be a serious contender, especially in a
+ market flooded with options. We are really 
+interested in what Coolpad, known primarly for being an OEM, can do when it starts promoting its own 
+devices instead of avoiding the limelight. Look and feelAt
+ first glance, the candybar design of the Dazen X7 seems impressive 
+thanks to its chamfered metal edges and glass back. 
+It has great build quality and feels sturdy. Our white review unit 
+literally glistened in the light and caught a lot of reflections on the 
+glass as well. With dimensions of 146.6x73.6x6.5mm, the Dazen X7 is not 
+too big to for a phone with 5.2-inch screen, but the sharp edges dug into
+ our palms when we were holding it. The 131g weight feels reassuring. As far as
+ phones with 5.2-inch screens go, we still think that Motorola hit the
+ nail on the head with the Moto X (Gen 2) (Review | Pictures) with respect to the 
+ergonomics. On the rear, the primary camera and flash are placed 
+on a metal plate that juts out, which makes them susceptible to scratches.
+ The right side of the phone has two slots, one accepts a Micro-SIM card
+ whereas the other is a Nano-SIM slot that doubles up as a microSD card holder. 
+This side also has the power button. The volume rocker lies on the 
+left. Both buttons have sufficient tactile feedback. The
+ 3.5mm jack and a microphone are on the top of the 
+Dazen X7. The bottom has the Micro-USB port and two rows of machine-drilled holes on either side. The phone has a mono speaker therefore only
+ the right side emits sound. In fact, in an anomaly that could be 
+specific to our review unit, the holes hadn't been punched all the way through on the left, 
+which looked odd to say the least. The earpiece is above the 
+screen along with the proximity sensor, ambient light sensor, 
+and front camera. Coolpad makes use of on-screen buttons 
+for navigating through the operating system. Specifications and softwareCoolpad
+ uses an octa-core Mediatek MT6595M SoC clocked at 1.7GHz with PowerVR 
+G6200 graphics. The MT6595M is a toned-down version of the 
+MT6595, which we tested first on the Lenovo Vibe X2 (Review | Pictures). The phone also has 
+2GB of RAM and 16GB of internal storage space which can be expanded by up to 32GB using a microSD card. It also supports USB OTG, 
+if you run out of space. The 13-megapixel primary camera has a 
+fast aperture speed of f/1.8 and can shoot 1080p videos at 60fps. On the
+ other hand, the front camera can capture 8-megapixel selfies. The Dazen
+ X7 can connect to Indian 4G networks but only using the primary SIM. Other connectivity options include Wi-Fi a/b/g/n, Bluetooth 4.0, 
+and A-GPS. The 5.2-inch Super AMOLED screen has a resolution of 1080x1920 which translates to a pixel density of 
+441ppi. It is rich in colours but has a warm tone. The 
+sunlight legibility of the phone is pretty good but when viewed at any 
+angle, the colours start degrading. Our only gripe with the display is 
+that it doesn't extend up to the bezel of the phone, thereby creating a black
+ border that looks really distracting. The Coolpad Dazen X7 runs the now-outdated Android 4.4.2, with a custom skin on top. Like the Dazen X1, even the Dazen X7 gives users the option to switch between a traditional Android layout with an app drawer or one without it where all the applications - default and downloaded - are lined up on the home 
+screens. The icons have a flat, colourful design. The 
+most annoying thing about the custom skin is that the capacitive buttons
+ can be pulled up or hidden by swiping up or down, respectively, from 
+the bottom of the display. Many times, when trying to perform this 
+action, we would accidentally hit one of the icons in the dock instead, which 
+would then open the corresponding app. Also, all the notifications are 
+bunched up inside the notifications shade thereby adding an 
+extra step to the process of dealing with any particular notification.Smart control 
+options in the skin allow users to double-tap to wake the 
+phone, or jump directly into specific apps by tracing gestures -
+ like M to play music or C to open the camera. A theming app called 
+Coolshow is available for customisation. Coolstore is a curated app 
+store by Coolpad, although it is pretty barren at the moment. Other 
+third-party apps include WeChat, Whatsapp, Snapdeal, Facebook, Swiftkey 
+and WPS Office.Performance and cameraWhile we didn't face 
+any slowdowns during our test period, the phone did heat up when we played 
+games and ran intensive benchmarks. That aside, the MT6595M proved to be a pretty 
+capable SoC and the benchmark numbers also show that. In AnTuTu and Quadrant, the phone scored pretty high scores of 44,854 and 17,089 
+respectively. In fact, the AnTuTu score is within 
+touching distance of what the OnePlus One achieved. Even the 3DMark Ice 
+Storm Unlimited and GFXbench scores of 12,780 and 18.3fps were fairly 
+impressive. The phone played all the videos we threw at it 
+without any fuss. The sound from the loudspeaker was pretty tinny and 
+low, and also crackled at high volume. Our review unit's box didn't 
+include a headset so we used our own to test the audio quality and we 
+had no complaints. The cellular radio struggled to latch on to a 4G network and the connection kept
+ switching to 3G. The sound quality in calls wasn't too great either. 
+The battery lasted 8 hours and 35 minutes in our video loop battery 
+test, and in regular usage we managed to squeeze at most a day out of it with 
+4G/3G being constantly active.(Click for full size image)The 13-megapixel rear camera is an 
+above-average performer. Under bright sunlight the details are pretty 
+clear and the noise levels are also low. However if the light is even 
+slightly dim, which we experienced a lot thanks to the overcast 
+monsoon conditions in Mumbai, the camera struggles to expose areas under focus. The key elements in our sample shots were underexposed.  
+In low light situations, despite the fast f/1.8 aperture, the 
+camera tends to generally lower the ISO and shutter speed to around 1600 and 1/10 respectively. This means that the resulting images
+ are blurry and full of noise because the camera cannot handle shakes. Thankfully, the camera app 
+has a Pro mode that gives users full control over the ISO and shutter 
+speed settings. The 8-megapixel front camera on the other hand is great 
+for selfies. The video quality of both the cameras is average at best. VerdictPriced
+ at Rs. 17,999 and available exclusively on Snapdeal, the Coolpad Dazen 
+X7 has a tough battle ahead. It is not very impressive, and 
+phones such as the Asus Zenfone 2 (Review | Pictures), OnePlus One (Review | Pictures), and Xiaomi Mi 4 (Review | Pictures) are all 
+available in and around that price range. Coolpad has priced the phone a
+ little too high in our opinion. Having said that, the phone does many things 
+right. Coolpad Dazen X7 in pictures
+
+We
+recently reviewed the Coolpad Dazen 1 (Review), a budget workhorse. 
+Coolpad has another, more expensive, phone which sells for just under Rs. 20,000 - the Dazen X7. This phone has an 
+octa-core Mediatek MT6595M processor, which we haven't tested yet. 
+Moreover, the design of the Dazen X7 incorporates metal edges on a  predominately
+ glass body to create a premium look.   
+
+Let's find out if the 
+Dazen X7 can distinguish itself to be a serious contender, especially in a
+ market flooded with options. We are really 
+interested in what Coolpad, known primarly for being an OEM, can do when it starts promoting its own 
+devices instead of avoiding the limelight. 
+
+Look and feelAt
+ first glance, the candybar design of the Dazen X7 seems impressive 
+thanks to its chamfered metal edges and glass back. 
+It has great build quality and feels sturdy. Our white review unit 
+literally glistened in the light and caught a lot of reflections on the 
+glass as well. With dimensions of 146.6x73.6x6.5mm, the Dazen X7 is not 
+too big to for a phone with 5.2-inch screen, but the sharp edges dug into
+ our palms when we were holding it. The 131g weight feels reassuring. As far as
+ phones with 5.2-inch screens go, we still think that Motorola hit the
+ nail on the head with the Moto X (Gen 2) (Review | Pictures) with respect to the 
+ergonomics. 
+
+On the rear, the primary camera and flash are placed 
+on a metal plate that juts out, which makes them susceptible to scratches.
+ The right side of the phone has two slots, one accepts a Micro-SIM card
+ whereas the other is a Nano-SIM slot that doubles up as a microSD card holder. 
+This side also has the power button. The volume rocker lies on the 
+left. Both buttons have sufficient tactile feedback. 
+
+The
+ 3.5mm jack and a microphone are on the top of the 
+Dazen X7. The bottom has the Micro-USB port and two rows of machine-drilled holes on either side. The phone has a mono speaker therefore only
+ the right side emits sound. In fact, in an anomaly that could be 
+specific to our review unit, the holes hadn't been punched all the way through on the left, 
+which looked odd to say the least. The earpiece is above the 
+screen along with the proximity sensor, ambient light sensor, 
+and front camera. Coolpad makes use of on-screen buttons 
+for navigating through the operating system. 
+
+
+
+Specifications and softwareCoolpad
+ uses an octa-core Mediatek MT6595M SoC clocked at 1.7GHz with PowerVR 
+G6200 graphics. The MT6595M is a toned-down version of the 
+MT6595, which we tested first on the Lenovo Vibe X2 (Review | Pictures). The phone also has 
+2GB of RAM and 16GB of internal storage space which can be expanded by up to 32GB using a microSD card. It also supports USB OTG, 
+if you run out of space. 
+
+The 13-megapixel primary camera has a 
+fast aperture speed of f/1.8 and can shoot 1080p videos at 60fps. On the
+ other hand, the front camera can capture 8-megapixel selfies. The Dazen
+ X7 can connect to Indian 4G networks but only using the primary SIM. Other connectivity options include Wi-Fi a/b/g/n, Bluetooth 4.0, 
+and A-GPS. 
+
+The 5.2-inch Super AMOLED screen has a resolution of 1080x1920 which translates to a pixel density of 
+441ppi. It is rich in colours but has a warm tone. The 
+sunlight legibility of the phone is pretty good but when viewed at any 
+angle, the colours start degrading. Our only gripe with the display is 
+that it doesn't extend up to the bezel of the phone, thereby creating a black
+ border that looks really distracting. 
+
+The Coolpad Dazen X7 runs the now-outdated Android 4.4.2, with a custom skin on top. Like the Dazen X1, even the Dazen X7 gives users the option to switch between a traditional Android layout with an app drawer or one without it where all the applications - default and downloaded - are lined up on the home 
+screens. The icons have a flat, colourful design. The 
+most annoying thing about the custom skin is that the capacitive buttons
+ can be pulled up or hidden by swiping up or down, respectively, from 
+the bottom of the display. Many times, when trying to perform this 
+action, we would accidentally hit one of the icons in the dock instead, which 
+would then open the corresponding app. Also, all the notifications are 
+bunched up inside the notifications shade thereby adding an 
+extra step to the process of dealing with any particular notification.
+
+Smart control 
+options in the skin allow users to double-tap to wake the 
+phone, or jump directly into specific apps by tracing gestures -
+ like M to play music or C to open the camera. A theming app called 
+Coolshow is available for customisation. Coolstore is a curated app 
+store by Coolpad, although it is pretty barren at the moment. Other 
+third-party apps include WeChat, Whatsapp, Snapdeal, Facebook, Swiftkey 
+and WPS Office.
+
+Performance and cameraWhile we didn't face 
+any slowdowns during our test period, the phone did heat up when we played 
+games and ran intensive benchmarks. That aside, the MT6595M proved to be a pretty 
+capable SoC and the benchmark numbers also show that. 
+
+In AnTuTu and Quadrant, the phone scored pretty high scores of 44,854 and 17,089 
+respectively. In fact, the AnTuTu score is within 
+touching distance of what the OnePlus One achieved. Even the 3DMark Ice 
+Storm Unlimited and GFXbench scores of 12,780 and 18.3fps were fairly 
+impressive. 
+
+The phone played all the videos we threw at it 
+without any fuss. The sound from the loudspeaker was pretty tinny and 
+low, and also crackled at high volume. Our review unit's box didn't 
+include a headset so we used our own to test the audio quality and we 
+had no complaints. The cellular radio struggled to latch on to a 4G network and the connection kept
+ switching to 3G. The sound quality in calls wasn't too great either. 
+The battery lasted 8 hours and 35 minutes in our video loop battery 
+test, and in regular usage we managed to squeeze at most a day out of it with 
+4G/3G being constantly active.
+
+(Click for full size image)The 13-megapixel rear camera is an 
+above-average performer. Under bright sunlight the details are pretty 
+clear and the noise levels are also low. However if the light is even 
+slightly dim, which we experienced a lot thanks to the overcast 
+monsoon conditions in Mumbai, the camera struggles to expose areas under focus. The key elements in our sample shots were underexposed. 
+
+ 
+In low light situations, despite the fast f/1.8 aperture, the 
+camera tends to generally lower the ISO and shutter speed to around 1600 and 1/10 respectively. This means that the resulting images
+ are blurry and full of noise because the camera cannot handle shakes. Thankfully, the camera app 
+has a Pro mode that gives users full control over the ISO and shutter 
+speed settings. The 8-megapixel front camera on the other hand is great 
+for selfies. The video quality of both the cameras is average at best. 
+
+VerdictPriced
+ at Rs. 17,999 and available exclusively on Snapdeal, the Coolpad Dazen 
+X7 has a tough battle ahead. It is not very impressive, and 
+phones such as the Asus Zenfone 2 (Review | Pictures), OnePlus One (Review | Pictures), and Xiaomi Mi 4 (Review | Pictures) are all 
+available in and around that price range. Coolpad has priced the phone a
+ little too high in our opinion. Having said that, the phone does many things 
+right.
+
+Coolpad Dazen X7 in pictures
+

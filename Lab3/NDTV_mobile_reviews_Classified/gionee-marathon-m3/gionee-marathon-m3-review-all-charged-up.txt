@@ -1,0 +1,223 @@
+Gionee Marathon M3 Review: All Charged Up
+
+Smartphone features are improving faster than you can 
+spell the word 'smartphone', but one aspect that is lagging behind is battery life. The only feasible
+ option at the moment is an extra battery pack. This is not convenient since it's one more thing to carry around, and 
+the battery pack needs to be charged as well. A few smartphone 
+companies are experimenting by providing higher capacity batteries in their
+ smartphones, thereby adding a little bulk. We prefer this approach 
+since the race to build anorexic smartphones is going a little too far 
+in our opinion. Gionee experimented with a massive 4200mAh 
+battery in its Marathon M2 smartphone. The Chinese company has already 
+released its successor, the Gionee Marathon M3. We've seen a feature phone, 
+the Maxx Power House MX200, tout a 5200mAh battery but the Marathon M3 
+is the first Android smartphone we've come across that boasts of a 
+5,000mAh battery. Let's find out if the Marathon M3 can cross the finish 
+line with energy to spare. Look and feelThe Marathon M3 is not distinctive with respect to its candybar design, and Gionee 
+has decided to keep things simple. The design is purely 
+utilitarian, which is not bad at all. At the heart of it all is the 
+massive battery, which is unsurprisingly non-removable. The sheer size of this 
+battery contributes to the phone's 10.4mm thickness and 180.3g weight. We are 
+not complaining about this heft because it is actually reassuring, and 
+the Marathon M3 does feel comfortable to hold and use with one hand.
+ The Marathon M3 is predominately made of plastic and is 
+available in black or white. While the phone has a 
+fixed battery, the back cover is actually removable. Prying it 
+open reveals two SIM card slots and a microSD card slot. On top of the 
+phone is a 3.5mm audio jack. The Micro-USB port and microphone are lined
+ up at the bottom. Above the 5-inch display, one can find the front-facing camera, earpiece and cutout for 
+the ambient light sensor. Below the display is a row of capacitive 
+buttons, which aren't backlit. Trying 
+to find them in the dark becomes a problem. The power button and the 
+volume rocker are both on the right edge of the Marathon M3. The tactile
+ feedback of these buttons is pretty good. The primary camera, flash and
+ speaker are all on the rear.Specifications, software and cameraThe
+ Marathon M3 uses a Mediatek 6582 quad-core SoC clocked at 1.3GHz. We've
+ seen this SoC used in much cheaper phones. The phone has 1GB of RAM and
+ 8GB of internal storage space. The storage can be expanded by 
+128GB using a microSD card. Moreover, since it also supports USB OTG, 
+storage shouldn't be a concern. The primary camera can shoot up 
+to 8-megapixel images and has an LED flash module to support it in low 
+light conditions. There is also a 2-megapixel front camera for selfies. 
+The phone has integrated Dolby DTS sound. It can connect to 3G, Bluetooth and Wi-Fi. The 5-inch IPS LCD 
+screen has a display resolution of 720x1280. This 294ppi density of this
+ screen is pretty crisp but the distinct black border surrounding the 
+screen is slightly off putting. For an LCD screen, it is quite saturated
+ and the colours do pop. However, the viewing angles and the sunlight 
+legibility are average to say the least. The phone is running the
+ latest Android 4.4.2 (KitKat) with Gionee's proprietary skin Amigo UI 
+on top of it. However, the flavour of Amigo in this phone is slightly 
+different. Unlike the Gionee Elife S5.1 (Review | Pictures) we reviewed a little while ago, Amigo 
+UI on this phone has a dedicated app drawer and home screens. In that 
+sense, except for the bright colour palette, the software is not too 
+different from stock Android 4.4.2. Just like what we saw on the Elife 
+S5.1, Gionee bundles a ton of bloatware most of which are not fun to 
+use. You'd be better off deleting a few right at the onset of using the 
+phone.The 8-megapixel camera captures surprisingly good photographs
+ in daylight. Except for blowing out highlights a little, the captured 
+images had great amount of detail and the colours were pretty natural 
+too. There is a pinkish hue that is visible but that can be negated by 
+changing the auto white balance option. The default camera app by itself is a welcome departure from the 
+unintuitive one we used in Gionee's Elife series of phones. Also, there 
+are a ton of manual options and filters to choose from. Coming back to 
+the performance of the camera, in low-light conditions, the camera is 
+absolutely unusable as pictures turned out grainy. The captured 1080p 
+video was serviceable at best. Also, the 2-megapixel front camera 
+captures decent selfies.  PerformanceThis is where the Marathon M3 falters. In daily use, we found the phone to be 
+sluggish, and it didn't respond to taps and swipes instantly. While RAM 
+management was much better than other Gionee phones we've used in the 
+past, the fact that we had to actually worry about it was a bit of a 
+downer.The benchmark numbers are typical of other phones with the
+ same MT6582 chipset. In our AnTuTu and Quadrant benchmark tests the 
+phone scored 17,713 and 7,166 respectively. We also put the phone 
+through the graphics benchmark tests 3DMark Ice Storm and GFXbench and 
+the phone scored 3143 and 7fps respectively. We tried our regular
+ batch of assorted videos and found that the phone played all the videos
+ we threw at it except that the 1080p 40mbps video was choppy. Thanks to
+ the Dolby DTS implementation, the loudspeaker is almost
+ as loud as the BoomSound speakers on high-end HTC phones. Also, even at the highest volume 
+there was no audible distortion. Even the bundled headset sounds really 
+good but it is not comfortable to wear for long periods. The sound 
+quality in calls was pretty good and we faced no connection issues 
+either.Coming to the most important part of the review, the 
+battery life. In our intensive battery test, the phone lasted 14 hours and 36 minutes. 
+This is stupendous for a phone in this price range. In our daily use we 
+noticed that the battery lasts really long in standby. You should easily
+ be able to squeeze two days from this phone with moderate usage. What's 
+even better is that you can use this phone to charge other phones. We 
+tried and it worked well with a Nexus 4 and an iPhone 5c. (Review).VerdictThe Gionee
+ Marathon M3 stays true to its promise of providing great battery 
+life. Additionally, the phone could be a great asset if you are someone 
+who watches a lot of videos on the move. The camera is also a pretty 
+competent performer. Unfortunately, the problem arises in the 
+performance thanks mostly to the heavy skin on top of Android 4.4.2. We 
+really wish Gionee tackles this problem of Amigo UI as soon as possible.
+ If you want a device that has better all-round performance, you cannot 
+go wrong with the Motorola Moto G (Gen 2) [Review | Pictures].
+Gionee Marathon M3 in pictures
+
+Smartphone features are improving faster than you can 
+spell the word 'smartphone', but one aspect that is lagging behind is battery life. The only feasible
+ option at the moment is an extra battery pack. This is not convenient since it's one more thing to carry around, and 
+the battery pack needs to be charged as well. 
+
+A few smartphone 
+companies are experimenting by providing higher capacity batteries in their
+ smartphones, thereby adding a little bulk. We prefer this approach 
+since the race to build anorexic smartphones is going a little too far 
+in our opinion. 
+
+Gionee experimented with a massive 4200mAh 
+battery in its Marathon M2 smartphone. The Chinese company has already 
+released its successor, the Gionee Marathon M3. We've seen a feature phone, 
+the Maxx Power House MX200, tout a 5200mAh battery but the Marathon M3 
+is the first Android smartphone we've come across that boasts of a 
+5,000mAh battery. Let's find out if the Marathon M3 can cross the finish 
+line with energy to spare. 
+
+Look and feelThe Marathon M3 is not distinctive with respect to its candybar design, and Gionee 
+has decided to keep things simple. The design is purely 
+utilitarian, which is not bad at all. At the heart of it all is the 
+massive battery, which is unsurprisingly non-removable. The sheer size of this 
+battery contributes to the phone's 10.4mm thickness and 180.3g weight. We are 
+not complaining about this heft because it is actually reassuring, and 
+the Marathon M3 does feel comfortable to hold and use with one hand.
+ 
+
+The Marathon M3 is predominately made of plastic and is 
+available in black or white. While the phone has a 
+fixed battery, the back cover is actually removable. Prying it 
+open reveals two SIM card slots and a microSD card slot. On top of the 
+phone is a 3.5mm audio jack. The Micro-USB port and microphone are lined
+ up at the bottom. Above the 5-inch display, one can find the front-facing camera, earpiece and cutout for 
+the ambient light sensor. Below the display is a row of capacitive 
+buttons, which aren't backlit. Trying 
+to find them in the dark becomes a problem. The power button and the 
+volume rocker are both on the right edge of the Marathon M3. The tactile
+ feedback of these buttons is pretty good. The primary camera, flash and
+ speaker are all on the rear.
+
+Specifications, software and cameraThe
+ Marathon M3 uses a Mediatek 6582 quad-core SoC clocked at 1.3GHz. We've
+ seen this SoC used in much cheaper phones. The phone has 1GB of RAM and
+ 8GB of internal storage space. The storage can be expanded by 
+128GB using a microSD card. Moreover, since it also supports USB OTG, 
+storage shouldn't be a concern. 
+
+The primary camera can shoot up 
+to 8-megapixel images and has an LED flash module to support it in low 
+light conditions. There is also a 2-megapixel front camera for selfies. 
+The phone has integrated Dolby DTS sound. It can connect to 3G, Bluetooth and Wi-Fi. 
+
+The 5-inch IPS LCD 
+screen has a display resolution of 720x1280. This 294ppi density of this
+ screen is pretty crisp but the distinct black border surrounding the 
+screen is slightly off putting. For an LCD screen, it is quite saturated
+ and the colours do pop. However, the viewing angles and the sunlight 
+legibility are average to say the least. 
+
+The phone is running the
+ latest Android 4.4.2 (KitKat) with Gionee's proprietary skin Amigo UI 
+on top of it. However, the flavour of Amigo in this phone is slightly 
+different. Unlike the Gionee Elife S5.1 (Review | Pictures) we reviewed a little while ago, Amigo 
+UI on this phone has a dedicated app drawer and home screens. In that 
+sense, except for the bright colour palette, the software is not too 
+different from stock Android 4.4.2. Just like what we saw on the Elife 
+S5.1, Gionee bundles a ton of bloatware most of which are not fun to 
+use. You'd be better off deleting a few right at the onset of using the 
+phone.
+
+The 8-megapixel camera captures surprisingly good photographs
+ in daylight. Except for blowing out highlights a little, the captured 
+images had great amount of detail and the colours were pretty natural 
+too. There is a pinkish hue that is visible but that can be negated by 
+changing the auto white balance option. 
+
+The default camera app by itself is a welcome departure from the 
+unintuitive one we used in Gionee's Elife series of phones. Also, there 
+are a ton of manual options and filters to choose from. Coming back to 
+the performance of the camera, in low-light conditions, the camera is 
+absolutely unusable as pictures turned out grainy. The captured 1080p 
+video was serviceable at best. Also, the 2-megapixel front camera 
+captures decent selfies.  
+
+PerformanceThis is where the Marathon M3 falters. In daily use, we found the phone to be 
+sluggish, and it didn't respond to taps and swipes instantly. While RAM 
+management was much better than other Gionee phones we've used in the 
+past, the fact that we had to actually worry about it was a bit of a 
+downer.
+
+The benchmark numbers are typical of other phones with the
+ same MT6582 chipset. In our AnTuTu and Quadrant benchmark tests the 
+phone scored 17,713 and 7,166 respectively. We also put the phone 
+through the graphics benchmark tests 3DMark Ice Storm and GFXbench and 
+the phone scored 3143 and 7fps respectively. 
+
+We tried our regular
+ batch of assorted videos and found that the phone played all the videos
+ we threw at it except that the 1080p 40mbps video was choppy. Thanks to
+ the Dolby DTS implementation, the loudspeaker is almost
+ as loud as the BoomSound speakers on high-end HTC phones. Also, even at the highest volume 
+there was no audible distortion. Even the bundled headset sounds really 
+good but it is not comfortable to wear for long periods. The sound 
+quality in calls was pretty good and we faced no connection issues 
+either.
+
+Coming to the most important part of the review, the 
+battery life. In our intensive battery test, the phone lasted 14 hours and 36 minutes. 
+This is stupendous for a phone in this price range. In our daily use we 
+noticed that the battery lasts really long in standby. You should easily
+ be able to squeeze two days from this phone with moderate usage. What's 
+even better is that you can use this phone to charge other phones. We 
+tried and it worked well with a Nexus 4 and an iPhone 5c. (Review).
+
+VerdictThe Gionee
+ Marathon M3 stays true to its promise of providing great battery 
+life. Additionally, the phone could be a great asset if you are someone 
+who watches a lot of videos on the move. The camera is also a pretty 
+competent performer. Unfortunately, the problem arises in the 
+performance thanks mostly to the heavy skin on top of Android 4.4.2. We 
+really wish Gionee tackles this problem of Amigo UI as soon as possible.
+ If you want a device that has better all-round performance, you cannot 
+go wrong with the Motorola Moto G (Gen 2) [Review | Pictures].
+

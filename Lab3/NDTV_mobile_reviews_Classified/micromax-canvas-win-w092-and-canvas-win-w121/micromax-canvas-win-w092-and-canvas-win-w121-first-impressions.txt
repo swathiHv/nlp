@@ -1,0 +1,296 @@
+Micromax Canvas Win W092 and Canvas Win W121: First Impressions
+
+New handset makers have come on board with Microsoft's Windows Phone 
+platform after years, and the first launches have happened in India. 
+Microsoft, at its Build conference in San Francisco, had announced new hardware partners for the Windows Phone platform and Micromax was
+ one of the Indian names on the list. The Redmond giant had even 
+showcased a Windows Phone 8.1-based Micromax handset at the event, but 
+at the time there was no word from either company about when it would 
+launch in India. Will you buy Indian Windows Phone devices?Now, more than two months after the 
+announcement, Micromax 
+has announced two relatively low-priced Windows Phone 8.1 handsets:  
+the Canvas Win W092 
+and Canvas Win 
+W121 priced at 
+Rs. 6,500 and Rs. 9,500 respectively. The launch definitely marks a 
+change in the company's strategy - and Nokia, now owned by Microsoft, 
+finally has some company and some competition.We had just about 
+enough time to get a basic feel of what Micromax's first Windows Phone 
+offerings. We'll have even more detailed coverage and formal reviews of 
+the Canvas Win W092 and Canvas Win W121 soon.  Build, design and displayWe
+ first checked out the Canvas Win W092, which seems to follow many of 
+the design cues that we've already seen in the company's sub-Rs. 10,000 
+Android smartphones. When seen from the front, this phone doesn't look 
+very different at all.However, one of the Canvas Win W092's most 
+distinctive features is its plastic monoblock body. The entire back 
+panel and all four edges of the handset are encased in a transparent 
+material, giving the handset a crystallized effect much like Nokia's 
+Asha range. The Micromax Canvas Win W121 (seen above), appears to be a bit 
+more polished than the company's Android smartphones, though it's still a
+ little bit plasticky for our taste. It even has a faux-leather back 
+panel, reminiscent of the one on the Galaxy Note 3. The Canvas Win W121 
+is compact and a bit slimmer than the majority of Android Canvas 
+smartphones. When both Canvas Win models are compared, the Win W121 
+scores more on style. The Micromax Canvas Win W092 (seen above) features a 
+4-inch WVGA (480x800-pixel) IPS display, while the Canvas Win W121 comes
+ with a 5-inch HD (720x1280-pixel) IPS display. Touch response was good 
+on both phones.Both the smartphones' fronts are dominated by 
+their screens, with the three capacitive Windows Phone buttons - Back, 
+Start and Search sitting below them. The front camera lenses, light and 
+proximity sensors and earpieces are located above the screens. 
+Fortunately, there is minimal Micromax branding on the back panels and 
+none on the front.(Also see: Micromax Canvas Win W121 in Pictures) The power buttons are on the right edges, 
+while the volume rockers are on the left. The keys feel good enough and 
+offer good tactile feedback. There are no ports on the bottoms of either
+ phone; the Micro-USB ports and headphone jacks (3.5mm) are both located
+ on the top. Both the Micromax Canvas Win W092 and Canvas Win 
+W121 feature removable rear panels, and their batteries sit alongside 
+two SIM card slots and a microSD card slot each.The 
+low-resolution display of the Canvas Win W092 (seen above) makes images and text 
+appear pixelated. Even the Live Tiles on the phone's Start screen appear
+ pixelated when you look at them closely. Micromax seems to have cut 
+corners in this department and it shows. The Micromax Canvas Win W121's 
+bigger 5-inch screen, on the other hand, adds value and improves the 
+video playback experience. We also see the Canvas Win W121's HD screen 
+as a highlight which will help it compete with the likes of the Lumia 
+630 Dual SIM.  Specifications and performanceBoth, 
+the Micromax Canvas Win W092 and Canvas Win W121, are built around 
+Qualcomm processors, which felt impressive in our limited testing. Both 
+are powered by the 1.2GHz quad-core Qualcomm Snapdragon 200 SoC coupled 
+with 1GB of RAM.The Canvas Win W092 and Canvas Win W121 (seen below) come with 8GB of built-in storage, expandable by another 32GB via a microSD card.Windows
+ Phone 8.1 is not a very power-hungry OS, and the hardware has been 
+optimised for performance at very low price points. We did not 
+experience lag while launching apps, scrolling through Web pages in 
+Internet Explorer, or switching between apps. The speakers on both the 
+new Micromax devices deliver decent enough sound at high volume levels.Connectivity options on the Canvas Win W092 and Canvas Win W121 include Bluetooth, Wi-Fi, Micro-USB, EDGE/GPRS, 3G and GPS.CamerasThe
+ Micromax Canvas Win W092 (seen below) sports a 5-megapixel rear camera with LED 
+flash, and a 0.3-megapixel front camera. The Canvas Win W121 features an
+ 8-megapixel rear camera and also comes with a 2-megapixel front-facing 
+camera. The Windows Phone 8.1 camera app offers users options to 
+tinker with various settings including selecting scenes, camera effects,
+ ISO, white balance, contrast, saturation, flash mode and sharpness. 
+Microsoft has added a burst mode feature to Windows Phone 8.1 for taking
+ continuous images. The Smart Shot, Cinemagraph, and Refocus photo 
+"lenses" are now directly accessible from the Camera Roll.(Also see: Micromax Canvas Win W092 in Pictures)The 
+Canvas Win W092's camera turns out to be another weakness for the phone.
+ Pictures taken indoors came out really grainy and lacked detail. Low 
+light photos also didn't come out well, and there was lots of noise. We 
+also felt a bit of shutter lag in the Canvas Win W092 compared to the 
+Canvas Win W121, and focus went haywire at times.The Canvas Win 
+W121's (seen above) rear camera can take decent-looking pictures indoors, but we 
+noticed that they were not as bright as the actual scene where they were
+ shot - the photos tend to be a little underexposed.SoftwareThe
+ Micromax Canvas Win W092 and Canvas Win W121 (seen below) are powered by the newly 
+released Windows Phone 8.1 OS, which brings a slew of new features and 
+additions to the Windows Phone platform.One of the most visible 
+changes is the addition of a notification shade, which Microsoft has 
+named Action Centre. Just like in Android and iOS, users can now swipe 
+downwards from the top of the screen to pull down an overlay which shows
+ notifications and four handy shortcuts: Wi-Fi, Bluetooth, Camera and 
+Brightness.Both handsets have the Data Sense app which gives you a
+ detailed record of data usage, which can be broken down to specific 
+months or weeks. Data Sense includes a 'high savings' mode that 
+Microsoft claims can compress images on Websites, so a user can browse 
+around more without excessive data usage. We also used the new Word Flow
+ keyboard, touted by Microsoft during the Build conference in April, 
+which is Swype-style keyboard for Windows Phone users.Both the 
+Canvas Win W092 and Canvas Win W121 come preloaded with a number of apps
+ including Xbox Games, Microsoft Office, Skype, and HERE Maps, amongst 
+others.Final wordsWe knew that Micromax and Microsoft were
+ working together on a Windows Phone 8.1 handset, but we weren't 
+expecting two models to be launched at once, both in the sub-Rs. 10,000 
+price band.There's no doubt that Micromax has been looking to 
+cement its position in the smartphone market in India for a while now, 
+and these new Windows Phone models represent one of its boldest moves in
+ this regard. Micromax wants its customers to experience something 
+different, and isn't afraid of stepping beyond the tried and tested 
+Android space. Microsoft will also benefit from the increased exposure 
+and the fact that the W092 brings Windows Phone to a price point even 
+lower than that of the still-popular Lumia 520.The Micromax Canvas Win W092 has been launched at Rs. 6,500 and will be 
+up against some serious competition against a few Android smartphones 
+such as Moto E (Review | Pictures) and Sony Xperia E1 (also the Xperia E1 Dual). Motorola's 
+most affordable KitKat smartphone has been making headlines ever since 
+being announced in mid-May. Notably, both the Moto E and Xperia E1 
+smartphones score more than the Canvas Win W092 in terms of build 
+quality and overall package.The Canvas Win W121 priced at Rs. 9,500, 
+on the other hand, will be taking on Microsoft's Lumia 630 Dual SIM 
+(Review | Pictures) which comes at higher price tag of Rs. 11,329. In terms of 
+specifications the Canvas Win W121 is far ahead of the competition in 
+this segment which also includes Lumia 525 (Review | Pictures) and the Nokia XL Dual SIM (Review | Pictures).Keep watching this space for our detailed reviews of the Micromax Canvas Win W092 and Canvas Win W121. 
+
+New handset makers have come on board with Microsoft's Windows Phone 
+platform after years, and the first launches have happened in India. 
+Microsoft, at its Build conference in San Francisco, had announced new hardware partners for the Windows Phone platform and Micromax was
+ one of the Indian names on the list. The Redmond giant had even 
+showcased a Windows Phone 8.1-based Micromax handset at the event, but 
+at the time there was no word from either company about when it would 
+launch in India. 
+
+Now, more than two months after the 
+announcement, Micromax 
+has announced two relatively low-priced Windows Phone 8.1 handsets:  
+the Canvas Win W092 
+and Canvas Win 
+W121 priced at 
+Rs. 6,500 and Rs. 9,500 respectively. The launch definitely marks a 
+change in the company's strategy - and Nokia, now owned by Microsoft, 
+finally has some company and some competition.
+
+We had just about 
+enough time to get a basic feel of what Micromax's first Windows Phone 
+offerings. We'll have even more detailed coverage and formal reviews of 
+the Canvas Win W092 and Canvas Win W121 soon. 
+
+ 
+
+Build, design and displayWe
+ first checked out the Canvas Win W092, which seems to follow many of 
+the design cues that we've already seen in the company's sub-Rs. 10,000 
+Android smartphones. When seen from the front, this phone doesn't look 
+very different at all.
+
+However, one of the Canvas Win W092's most 
+distinctive features is its plastic monoblock body. The entire back 
+panel and all four edges of the handset are encased in a transparent 
+material, giving the handset a crystallized effect much like Nokia's 
+Asha range. 
+
+The Micromax Canvas Win W121 (seen above), appears to be a bit 
+more polished than the company's Android smartphones, though it's still a
+ little bit plasticky for our taste. It even has a faux-leather back 
+panel, reminiscent of the one on the Galaxy Note 3. The Canvas Win W121 
+is compact and a bit slimmer than the majority of Android Canvas 
+smartphones. When both Canvas Win models are compared, the Win W121 
+scores more on style. 
+
+The Micromax Canvas Win W092 (seen above) features a 
+4-inch WVGA (480x800-pixel) IPS display, while the Canvas Win W121 comes
+ with a 5-inch HD (720x1280-pixel) IPS display. Touch response was good 
+on both phones.
+
+Both the smartphones' fronts are dominated by 
+their screens, with the three capacitive Windows Phone buttons - Back, 
+Start and Search sitting below them. The front camera lenses, light and 
+proximity sensors and earpieces are located above the screens. 
+Fortunately, there is minimal Micromax branding on the back panels and 
+none on the front.
+
+(Also see: Micromax Canvas Win W121 in Pictures) 
+
+The power buttons are on the right edges, 
+while the volume rockers are on the left. The keys feel good enough and 
+offer good tactile feedback. There are no ports on the bottoms of either
+ phone; the Micro-USB ports and headphone jacks (3.5mm) are both located
+ on the top. 
+
+Both the Micromax Canvas Win W092 and Canvas Win 
+W121 feature removable rear panels, and their batteries sit alongside 
+two SIM card slots and a microSD card slot each.
+
+The 
+low-resolution display of the Canvas Win W092 (seen above) makes images and text 
+appear pixelated. Even the Live Tiles on the phone's Start screen appear
+ pixelated when you look at them closely. Micromax seems to have cut 
+corners in this department and it shows. The Micromax Canvas Win W121's 
+bigger 5-inch screen, on the other hand, adds value and improves the 
+video playback experience. We also see the Canvas Win W121's HD screen 
+as a highlight which will help it compete with the likes of the Lumia 
+630 Dual SIM. 
+
+ 
+
+Specifications and performanceBoth, 
+the Micromax Canvas Win W092 and Canvas Win W121, are built around 
+Qualcomm processors, which felt impressive in our limited testing. Both 
+are powered by the 1.2GHz quad-core Qualcomm Snapdragon 200 SoC coupled 
+with 1GB of RAM.
+
+The Canvas Win W092 and Canvas Win W121 (seen below) come with 8GB of built-in storage, expandable by another 32GB via a microSD card.
+
+Windows
+ Phone 8.1 is not a very power-hungry OS, and the hardware has been 
+optimised for performance at very low price points. We did not 
+experience lag while launching apps, scrolling through Web pages in 
+Internet Explorer, or switching between apps. The speakers on both the 
+new Micromax devices deliver decent enough sound at high volume levels.
+
+Connectivity options on the Canvas Win W092 and Canvas Win W121 include Bluetooth, Wi-Fi, Micro-USB, EDGE/GPRS, 3G and GPS.
+
+CamerasThe
+ Micromax Canvas Win W092 (seen below) sports a 5-megapixel rear camera with LED 
+flash, and a 0.3-megapixel front camera. The Canvas Win W121 features an
+ 8-megapixel rear camera and also comes with a 2-megapixel front-facing 
+camera.
+
+ 
+
+The Windows Phone 8.1 camera app offers users options to 
+tinker with various settings including selecting scenes, camera effects,
+ ISO, white balance, contrast, saturation, flash mode and sharpness. 
+Microsoft has added a burst mode feature to Windows Phone 8.1 for taking
+ continuous images. The Smart Shot, Cinemagraph, and Refocus photo 
+"lenses" are now directly accessible from the Camera Roll.
+
+(Also see: Micromax Canvas Win W092 in Pictures)
+
+The 
+Canvas Win W092's camera turns out to be another weakness for the phone.
+ Pictures taken indoors came out really grainy and lacked detail. Low 
+light photos also didn't come out well, and there was lots of noise. We 
+also felt a bit of shutter lag in the Canvas Win W092 compared to the 
+Canvas Win W121, and focus went haywire at times.
+
+The Canvas Win 
+W121's (seen above) rear camera can take decent-looking pictures indoors, but we 
+noticed that they were not as bright as the actual scene where they were
+ shot - the photos tend to be a little underexposed.
+
+SoftwareThe
+ Micromax Canvas Win W092 and Canvas Win W121 (seen below) are powered by the newly 
+released Windows Phone 8.1 OS, which brings a slew of new features and 
+additions to the Windows Phone platform.
+
+One of the most visible 
+changes is the addition of a notification shade, which Microsoft has 
+named Action Centre. Just like in Android and iOS, users can now swipe 
+downwards from the top of the screen to pull down an overlay which shows
+ notifications and four handy shortcuts: Wi-Fi, Bluetooth, Camera and 
+Brightness.
+
+Both handsets have the Data Sense app which gives you a
+ detailed record of data usage, which can be broken down to specific 
+months or weeks. Data Sense includes a 'high savings' mode that 
+Microsoft claims can compress images on Websites, so a user can browse 
+around more without excessive data usage. We also used the new Word Flow
+ keyboard, touted by Microsoft during the Build conference in April, 
+which is Swype-style keyboard for Windows Phone users.
+
+Both the 
+Canvas Win W092 and Canvas Win W121 come preloaded with a number of apps
+ including Xbox Games, Microsoft Office, Skype, and HERE Maps, amongst 
+others.
+
+Final wordsWe knew that Micromax and Microsoft were
+ working together on a Windows Phone 8.1 handset, but we weren't 
+expecting two models to be launched at once, both in the sub-Rs. 10,000 
+price band.
+
+There's no doubt that Micromax has been looking to 
+cement its position in the smartphone market in India for a while now, 
+and these new Windows Phone models represent one of its boldest moves in
+ this regard. Micromax wants its customers to experience something 
+different, and isn't afraid of stepping beyond the tried and tested 
+Android space. Microsoft will also benefit from the increased exposure 
+and the fact that the W092 brings Windows Phone to a price point even 
+lower than that of the still-popular Lumia 520.
+
+
+
+The Canvas Win W121 priced at Rs. 9,500, 
+on the other hand, will be taking on Microsoft's Lumia 630 Dual SIM 
+(Review | Pictures) which comes at higher price tag of Rs. 11,329. In terms of 
+specifications the Canvas Win W121 is far ahead of the competition in 
+this segment which also includes Lumia 525 (Review | Pictures) and the Nokia XL Dual SIM (Review | Pictures).
+
+Keep watching this space for our detailed reviews of the Micromax Canvas Win W092 and Canvas Win W121.
+

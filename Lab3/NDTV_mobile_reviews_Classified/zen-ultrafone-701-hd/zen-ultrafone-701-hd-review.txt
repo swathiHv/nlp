@@ -1,0 +1,307 @@
+Zen Ultrafone 701 HD review
+
+With cost of production coming down and chipset makers launching cheaper
+ options, a 5-inch phone with a 720p display and a quad-core processor 
+at a price point of Rs. 12,000 is no longer a dream. The Zen Ultrafone 
+701 HD is one such smartphone. It's a feature packed device that looks 
+really impressive on paper. We find out if it's indeed worth of praise 
+in real world usage.Build/ DesignThe Zen Ultrafone 701HD follows design cues seen 
+in a lot of recent large screen smartphones often referred to as 
+'phablets'. The phone sports a rectangular slab form factor with rounded
+ edges and is Black in colour.The front of the phone is dominated
+ by its 5-inch display, with the three capacitive keys - Menu, Home 
+(doubles up as the task-switcher key on long press) and the Back key 
+placed just below it. The 3.2-megapixel front-facing camera, a 
+notification LED light and sensors are located above the screen just 
+adjacent to the earpiece.The Power/ Lock key is located on the 
+right side of the phone, while the Volume rocker key is at the left. 
+There are no ports on the bottom, while the Micro-USB port and 3.5mm 
+headset jack sit at the top.The back of the phone sports a soft 
+rubberized finish which gives the phone a premium look and makes it 
+pleasant to hold. The 8-megapixel rear camera lens located at the upper 
+part of the back along with an LED flash, while the speaker outlet is 
+located towards the bottom.The phone has a removable back cover 
+and opening it reveals the battery compartment with slots for 2 SIM 
+cards and a microSD card slot. The SIM cards are not hot-swappable 
+because of the placement of the slots.There's some minimalist ZEN
+ and Ultrafone branding on the back of the phone. Overall, the design of
+ the phone is understated but exudes a pleasant feel. DisplayThe
+ Zen Ultrafone 701HD comes with a 5-inch IPS HD screen that has a 
+resolution of 720x1280 pixels and pixel density of 294ppi, which is 
+pretty good and graphics and text appear sharp. The viewing angles 
+looked good, and the under-sun visibility on the phone was decent.  The 
+screen is not very reflective. Videos and pictures looked good albeit a 
+little less vivid compared to AMOLED displays but then again AMOLED 
+displays offer saturated colours.CameraThe 8-megapixel 
+autofocus shooter takes good quality images in daylight. However, we 
+observed that pictures taken in low-light conditions did not come out 
+well. Also, at times colour reproduction was not that accurate with the 
+pictures coming out a little oversaturated. Pictures taken indoors with 
+less light were also grainy.The phone can record HD videos and we
+ found that the quality of videos captured through the back camera was 
+good. It also offers EIS or Electronic Image Stabilization to minimize 
+distortions caused by shaking of hands while shooting a video. 
+Unfortunately, the camera saves videos in the archaic .3gp file format.The
+ phone comes with a customized Camera app and allows you to capture 
+photos in HDR, Multi angle view and Panorama modes as well.  It comes 
+with the usual controls including settings for Exposure, Colour effect, 
+White balance and ISO, among others. The phone's camera also supports 
+continuous shots taking up to 99 shots in that mode, smile detection and
+ face detection.  Some of the options in the camera app's interface are 
+not self-descriptive which makes it unintuitive for new smartphone 
+users. The front camera takes above average shots and is great for
+ video calls. Overall, we feel that the phone's pretty good for casual 
+photography.Software/ InterfaceThe Zen Ultrafone 701HD 
+runs Android 4.2 Jelly Bean, the latest iteration of the OS at the time 
+of penning this review. Zen has not skinned the OS. There are five 
+customisable home screens that can be filled with app shortcuts and 
+widgets. The notification tray also features a settings shortcut and a 
+clear all notifications button, along with expandable notifications 
+(expanded with the two finger pull gesture). It features the same 
+setting toggles shortcut that's found in stock Android for quick access 
+to Airplane Mode, Battery status, Wi-Fi, Bluetooth, GPS, Data 
+connection, Data usage, Audio Profiles, Brightness, screen backlight 
+Timeout and Auto Rotation.The phone also offers another Android 
+4.2 feature, Daydream that displays photo albums or the clock while the 
+phone's charging. The option to wirelessly mirror the phone's display 
+with an HDMI enabled device through a wireless display adapter is also 
+present.As we mentioned earlier, the phone features three 
+capacitive buttons for navigation - Menu, Home and, for respective 
+functions with Home button doubling up as the task switcher on long 
+press. We'd like all manufacturers to switch to the three soft controls 
+that are included in the Stock version of the OS. One major gripe with 
+these buttons is that they don't light-up in the dark even when the 
+screen is on until you press one of them.Android 4.2 Jelly Bean 
+also offers Google Now, which needs to be initialised for the first 
+time, before use. For the uninitiated, Google Now is a voice-based 
+information assistant and an extension of Google search. You can ask 
+questions and the tool returns answers or search results. It uses 
+'cards' which are essentially small boxes that offer different sets of 
+information ranging from weather forecast, directions, traffic 
+information, scores, appointments, and currency conversion, among 
+others. Google Now collects information based on the user's behaviour, 
+location, and even e-mail, to offer information automatically.Zen
+ has also bundled some apps with the phone including ColorNote for 
+creating colour coded notes and task lists, Emoze - a push email client,
+ a File Browser, Flashlight, Saavn, Skype, a ToDo app, TOI news app, a 
+video player app, MX Player (another video player), Facebook, Twitter, 
+WhatsApp and Zen's own app store.Performance/ Battery LifeThe
+ Zen Ultrafone 701HD is powered by a 1.2GHz Mediatek MT6589 quad-core 
+processor. It has 1GB RAM onboard, and PowerVR SGX 544MP chip for 
+processing graphics. There is 4GB of internal storage, which is 
+expandable up to 32GB via a microSD card.With Android Jelly Bean,
+ the overall experience of navigation through the interface was 
+impressive, thanks to Project Butter and the phone's quad-core 
+processor. We did not experience any lag while launching apps, playing 
+games, scrolling web pages or switching between apps. It is safe to say 
+that performance wise, the Zen trumps other dual-core processor powered 
+phones in this price range. We were able to play full-HD clips 
+smoothly and the phone supported formats like .AVI and .MOV, natively. 
+The speaker on the phone delivers decent quality sound at high volume 
+levels, but there's some muffle when the phone lies on its back, as the 
+speaker grill is located on the back. The headphones that come with the 
+phone offer average quality sound output. The phone also offers FM 
+Radio. It also offers Audio Profiles to quickly switch between different
+ sound settings. Call quality was good, during our testing 
+process. The phone was also able to get a GPS lock rather easily while 
+using the Maps app.The phone comes with a 2000mAh battery, and 
+based on our experience, it will just about last you a full day with 
+medium to heavy usage, including 1-1.5 hours of phone calls, two e-mail 
+accounts with push notifications, screen at maximum brightness, playing 
+some music and video clips, Twitter notifications and WhatsApp chats. 
+It's also worth pointing out that we had turned off Wi-Fi and 
+auto-brightness, and the phone was hooked to a 3G network. Altering 
+these settings might help in running the phone for a longer duration, 
+depending on your usage pattern.VerdictAt a price of Rs. 
+11,999 the Zen Ultrafone 701HD is a competent budget smartphone that 
+delivers good performance. In addition to its 720p display, the major 
+selling point of this phone is that it runs the most recent iteration of
+ Android without additional skinning. We hope that Zen doesn't 
+disappoint when it comes to offering OS updates in the future. If
+ you're looking at alternatives, the Micromax A116 Canvas HD comes close
+ but is priced higher. We like the Zen Ultrafone 701HD's build quality 
+more than that of the Canvas HD. If you're not particularly looking at a
+ 720p display, the Karbonn S1 Titanium is another good budget quad-core 
+phone.
+Zen Ultrafone 701HD: In Pictures
+Price: Rs.11,999 
+
+Build/ Design
+
+The Zen Ultrafone 701HD follows design cues seen 
+in a lot of recent large screen smartphones often referred to as 
+'phablets'. The phone sports a rectangular slab form factor with rounded
+ edges and is Black in colour.
+
+The front of the phone is dominated
+ by its 5-inch display, with the three capacitive keys - Menu, Home 
+(doubles up as the task-switcher key on long press) and the Back key 
+placed just below it. The 3.2-megapixel front-facing camera, a 
+notification LED light and sensors are located above the screen just 
+adjacent to the earpiece.
+
+The Power/ Lock key is located on the 
+right side of the phone, while the Volume rocker key is at the left. 
+There are no ports on the bottom, while the Micro-USB port and 3.5mm 
+headset jack sit at the top.
+
+The back of the phone sports a soft 
+rubberized finish which gives the phone a premium look and makes it 
+pleasant to hold. The 8-megapixel rear camera lens located at the upper 
+part of the back along with an LED flash, while the speaker outlet is 
+located towards the bottom.
+
+The phone has a removable back cover 
+and opening it reveals the battery compartment with slots for 2 SIM 
+cards and a microSD card slot. The SIM cards are not hot-swappable 
+because of the placement of the slots.
+
+There's some minimalist ZEN
+ and Ultrafone branding on the back of the phone. Overall, the design of
+ the phone is understated but exudes a pleasant feel. 
+
+Display
+
+The
+ Zen Ultrafone 701HD comes with a 5-inch IPS HD screen that has a 
+resolution of 720x1280 pixels and pixel density of 294ppi, which is 
+pretty good and graphics and text appear sharp. The viewing angles 
+looked good, and the under-sun visibility on the phone was decent.  The 
+screen is not very reflective. Videos and pictures looked good albeit a 
+little less vivid compared to AMOLED displays but then again AMOLED 
+displays offer saturated colours.
+
+Camera
+
+The 8-megapixel 
+autofocus shooter takes good quality images in daylight. However, we 
+observed that pictures taken in low-light conditions did not come out 
+well. Also, at times colour reproduction was not that accurate with the 
+pictures coming out a little oversaturated. Pictures taken indoors with 
+less light were also grainy.
+
+The phone can record HD videos and we
+ found that the quality of videos captured through the back camera was 
+good. It also offers EIS or Electronic Image Stabilization to minimize 
+distortions caused by shaking of hands while shooting a video. 
+Unfortunately, the camera saves videos in the archaic .3gp file format.
+
+The
+ phone comes with a customized Camera app and allows you to capture 
+photos in HDR, Multi angle view and Panorama modes as well.  It comes 
+with the usual controls including settings for Exposure, Colour effect, 
+White balance and ISO, among others. The phone's camera also supports 
+continuous shots taking up to 99 shots in that mode, smile detection and
+ face detection.  Some of the options in the camera app's interface are 
+not self-descriptive which makes it unintuitive for new smartphone 
+users. 
+
+The front camera takes above average shots and is great for
+ video calls. Overall, we feel that the phone's pretty good for casual 
+photography.
+
+Software/ Interface
+
+The Zen Ultrafone 701HD 
+runs Android 4.2 Jelly Bean, the latest iteration of the OS at the time 
+of penning this review. Zen has not skinned the OS. There are five 
+customisable home screens that can be filled with app shortcuts and 
+widgets. The notification tray also features a settings shortcut and a 
+clear all notifications button, along with expandable notifications 
+(expanded with the two finger pull gesture). It features the same 
+setting toggles shortcut that's found in stock Android for quick access 
+to Airplane Mode, Battery status, Wi-Fi, Bluetooth, GPS, Data 
+connection, Data usage, Audio Profiles, Brightness, screen backlight 
+Timeout and Auto Rotation.
+
+The phone also offers another Android 
+4.2 feature, Daydream that displays photo albums or the clock while the 
+phone's charging. The option to wirelessly mirror the phone's display 
+with an HDMI enabled device through a wireless display adapter is also 
+present.
+
+As we mentioned earlier, the phone features three 
+capacitive buttons for navigation - Menu, Home and, for respective 
+functions with Home button doubling up as the task switcher on long 
+press. We'd like all manufacturers to switch to the three soft controls 
+that are included in the Stock version of the OS. One major gripe with 
+these buttons is that they don't light-up in the dark even when the 
+screen is on until you press one of them.
+
+Android 4.2 Jelly Bean 
+also offers Google Now, which needs to be initialised for the first 
+time, before use. For the uninitiated, Google Now is a voice-based 
+information assistant and an extension of Google search. You can ask 
+questions and the tool returns answers or search results. It uses 
+'cards' which are essentially small boxes that offer different sets of 
+information ranging from weather forecast, directions, traffic 
+information, scores, appointments, and currency conversion, among 
+others. Google Now collects information based on the user's behaviour, 
+location, and even e-mail, to offer information automatically.
+
+Zen
+ has also bundled some apps with the phone including ColorNote for 
+creating colour coded notes and task lists, Emoze - a push email client,
+ a File Browser, Flashlight, Saavn, Skype, a ToDo app, TOI news app, a 
+video player app, MX Player (another video player), Facebook, Twitter, 
+WhatsApp and Zen's own app store.
+
+Performance/ Battery Life
+
+The
+ Zen Ultrafone 701HD is powered by a 1.2GHz Mediatek MT6589 quad-core 
+processor. It has 1GB RAM onboard, and PowerVR SGX 544MP chip for 
+processing graphics. There is 4GB of internal storage, which is 
+expandable up to 32GB via a microSD card.
+
+With Android Jelly Bean,
+ the overall experience of navigation through the interface was 
+impressive, thanks to Project Butter and the phone's quad-core 
+processor. We did not experience any lag while launching apps, playing 
+games, scrolling web pages or switching between apps. It is safe to say 
+that performance wise, the Zen trumps other dual-core processor powered 
+phones in this price range. 
+
+We were able to play full-HD clips 
+smoothly and the phone supported formats like .AVI and .MOV, natively. 
+The speaker on the phone delivers decent quality sound at high volume 
+levels, but there's some muffle when the phone lies on its back, as the 
+speaker grill is located on the back. The headphones that come with the 
+phone offer average quality sound output. The phone also offers FM 
+Radio. It also offers Audio Profiles to quickly switch between different
+ sound settings. 
+
+Call quality was good, during our testing 
+process. The phone was also able to get a GPS lock rather easily while 
+using the Maps app.
+
+The phone comes with a 2000mAh battery, and 
+based on our experience, it will just about last you a full day with 
+medium to heavy usage, including 1-1.5 hours of phone calls, two e-mail 
+accounts with push notifications, screen at maximum brightness, playing 
+some music and video clips, Twitter notifications and WhatsApp chats. 
+It's also worth pointing out that we had turned off Wi-Fi and 
+auto-brightness, and the phone was hooked to a 3G network. Altering 
+these settings might help in running the phone for a longer duration, 
+depending on your usage pattern.
+
+Verdict
+
+At a price of Rs. 
+11,999 the Zen Ultrafone 701HD is a competent budget smartphone that 
+delivers good performance. In addition to its 720p display, the major 
+selling point of this phone is that it runs the most recent iteration of
+ Android without additional skinning. We hope that Zen doesn't 
+disappoint when it comes to offering OS updates in the future. 
+
+If
+ you're looking at alternatives, the Micromax A116 Canvas HD comes close
+ but is priced higher. We like the Zen Ultrafone 701HD's build quality 
+more than that of the Canvas HD. If you're not particularly looking at a
+ 720p display, the Karbonn S1 Titanium is another good budget quad-core 
+phone.
+
+Price: Rs.11,999
+
+ 
+

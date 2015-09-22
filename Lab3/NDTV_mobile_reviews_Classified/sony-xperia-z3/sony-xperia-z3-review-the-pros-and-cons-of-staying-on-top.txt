@@ -1,0 +1,344 @@
+Sony Xperia Z3+ Review: The Pros and Cons of Staying on Top
+
+It's 
+getting harder and harder to excite customers with new smartphone 
+features. Companies can shout from the rooftops that their latest models
+ are faster and thinner, with better cameras and crisper screens, but 
+can they convince us that this year's top model is qualitatively better 
+than last year's? Can they give us adequate enough reasons to spend 
+large amounts of money again and again and again?Even when it is 
+time to upgrade, there are no major factors within the Android universe,
+ apart from perhaps brand loyalty, that might keep someone buying from 
+the same company. Upstarts offering flagship-class features at half the 
+price are stealing customers away from the old guard, leaving the 
+industry in further turmoil.And that brings us to the Sony Xperia
+ Z3+ which is a few months overdue going by Sony's established pattern, 
+but which will still need to jostle with the competition just in order 
+to be noticed. It's meant to be a conservative update, going by the fact
+ that it hasn't been called the Xperia Z4, but it's still an entirely 
+new product. It will go up against the Samsung Galaxy S6 (Review | Pictures), LG G4, iPhone 6 (Review | Pictures) and iPhone 6 Plus (Review | Pictures), and a host of lower cost alternatives including the 
+much-anticipated Oneplus 2.The Japanese electronics giant seems 
+to have realised that a six-month update cycle was too aggressive and is
+ being a little more conservative with this launch. Let's see if the 
+approach is right for this uphill battle.Look and feelSony
+ hasn't done much to change the design language it debuted with the 
+Xperia Z3 (Review | Pictures). As we noted in our detailed first impressions story about 
+this phone, it's slimmer and cleaner but retains the same basic shape 
+and proportions. Sony's biggest design innovation is that this phone now
+ has an easily accessible Micro-USB port but still retains its IP65/IP68
+ ratings for water- and dust- resistance. That means you don't have to 
+fiddle with a rubber-sealed flap every time you need to charge the 
+phone.It also means that Sony has been able to dispense with its 
+trademark Z-series magnetic accessory connector. The scooped-out patch 
+always made it look as though something had taken a bite out of the side
+ of its phones, and we never did see compatible accessories becoming 
+widespread, so we don't miss it at all.There's still a flap to 
+protect the Nano-SIM and microSD card tray, which has also been designed
+ cleverly to be as unobtrusive as possible. Sony continues to provide a 
+dedicated camera shortcut button, which we like, but the power and 
+volume buttons are placed a bit inconveniently. The phone is completely 
+sealed and so the battery is not accessible.We didn't much like 
+the new translucent corners, which stand out a bit too much against the 
+brushed metal of the rim. They might serve to protect the phone in case 
+of falls, but we think the Xperia Z3 looked better in this regard. We 
+also found the rim a bit scratchy when holding the phone up to our ears.
+ We noted in our first impressions that Sony has decided to ship the 
+Xperia Z3+ with a screen protector already attached, and the review unit
+ sent to us had the same misalignment problem as the unit we first 
+examined. We really don't know why this was necessary, and we feel it 
+really cheapens the look of a premium-segment phone.The Xperia 
+Z3+ is relatively easy to hold, for a phone with a 5.2-inch screen. The 
+glass on the front and rear feels a little less slippery than the Z3's 
+and we were usually pretty sure of our grip. For those who like such 
+things, there's even an eyelet on the bottom so you can attach a lanyard
+ or dangling charm.Specifications and softwareHere's where
+ things get murky for Sony. In an effort to stay on top of the specs 
+war, the company has gone with the controversial octa-core Qualcomm 
+Snapdragon 810 SoC. It has often been suggested that this processor 
+overheats and has therefore been dropped by other companies, though 
+conflicting statements to that effect don't give us a clear consensus. 
+Either way, it's debatable whether anyone at this point needs more power
+ than its predecessors, the Snapdragon 801 and 805, provided - but it 
+does make for a new talking point on the spec sheet.The screen 
+measures 5.2 inches diagonally but Sony hasn't moved beyond 1080x1920 in
+ terms of resolution. Plenty of other companies are offering phones with
+ QHD screens at this price point - the merits of which are, again, 
+debatable - so it will be interesting to see if Sony loses out by 
+choosing not to. Rather than resolution, Sony has upped the brightness 
+and claims improved colour reproduction. There's also a neat technique 
+that detects ambient light and actually alters the contrast and levels 
+of images on screen to look better.Beyond those things, it's all 
+fairly standard. There's 3GB of RAM and 32GB of internal storage; up 
+from 16GB in the Xperia Z3. MicroSD cards of up to 128GB are supported, 
+and you can plug in a USB-OTG storage device as well if you like. All 
+the latest wireless standards are accounted for: Wi-Fi ac, Bluetooth 
+4.1, NFC, GLONASS, and even FM radio.The rear camera has a 
+20.7-megapixel sensor and supports 4K recording with video 
+stabilisation. The front camera is a 5-megapixel unit with a wide 25mm 
+lens. Sony says the Z3+ carries over all the benefits of its 
+selfie-focused Xperia C4 model except for a flash in front.The 
+phone runs Android 5.0.2 with Sony's own custom UI. We like the general 
+design thinking behind it but as always, Sony has jammed in a ton of 
+bloatware, most of which is advertising for its own media ventures such 
+as Sony Liv, Sony Music Jive, PlayStation, and Sony Pictures 
+Entertainment. There are three Gameloft titles which only let you play 
+for five 180-second sessions before you have to pay to unlock them - the
+ kind of spam we've seen from lower-tier brands - which is really 
+disappointing.There's also plenty of junk on the homescreens in 
+the form of Sony's enormous What's New promotional widget and Lifelog, 
+although that is at least potentitally useful. Beyond those things, 
+there's LinkedIn, TV SideView, Line, Kobo Books, Facebook, Mobisystems 
+OfficeSuite, Movie Creator, AVG Protection, Bigflix, News from 
+Socialife, and TrackID. Sony's PrivelegePlus app claims to give you 
+access to premium content, but we only ever saw an error message on 
+launch. Thankfully quite a few of these junk apps are removable.PerformanceThere's
+ no two ways about it - the Sony Xperia Z3+ overheats. A lot. There's 
+pretty much nothing you can do without the upper half of the rear 
+getting noticeably warm to the touch. Try playing games, watching videos
+ or even browsing the Web and the temperature will shoot up. The camera 
+app seemed to stress things the most - popup warnings repeatedly 
+disrupted our efforts to compose frames, telling us the app might shut 
+down on its own. A thermometer icon appeared within the app and stayed 
+there all the time. The 4K video mode won't start without reassuring you
+ that video will be saved if the app does have to crash.The phone
+ did get uncomfortable on several occasions, but apps never did reach 
+the point of having to bow out. We recorded several minutes of 
+continuous 4K video to see if we could push it past its breaking point, 
+but that didn't happen. Benchmark scores were very good. We 
+recorded an impressive 51,040 points in AnTuTu and 34,056 overall in 
+Quadrant. The 3DMark Ice Storm Unlimited score of 22,611 was amongst the
+ highest we've ever seen, and even GFXbench pumped out an excellent 
+51fps. These tests show that the phone is capable of pushing 
+itself to remarkable heights in short bursts, when heat is not an issue.
+ Synthetic benchmarks aside, performance in informal usage was not as 
+snappy as we'd expect a flagship performance phone to be. The 
+Xperia Z3+ did very well at playing movies and music, with rich, 
+immersive sound that we weren't expecting to be so good. You can barely 
+see the twin stereo speakers on the phone's front face, but that didn't 
+stop them from pumping out some serious volume. Sound was full and rich,
+ with reasonable bass but especially crisp and clear voices. Video 
+playback was also impressive, with no faults. On the other hand, we 
+weren't entirely satisfied with the screen's performance under direct 
+sunlight - it seemed washed out and it was difficult sometimes to 
+handle.(Click to see full size)We had a lot of fun with the Xperia Z3+'s camera as well. 
+Sony's phones have come with great camera software for many years now. 
+There are loads of modes ranging from useful ones to silly fun 
+distractions. You can also download additional third-party camera 
+enhancements. Photo quality was generally quite good and we liked what 
+we saw of the phone's performance under various lighting conditions.The camera was generally quick to focus and Sony's Intelligent Auto mode detected all kinds of scenes and changed the white balance and other settings to match quite admirably. Photos came out clear and well detailed even under artificial lighting. We were happy with the camera app's speed and flexibility. 4K video came out looking great, but you can expect file sizes of around 1GB per minute so a high-quality microSD card will be necessary if you plan to use this feature a lot. (Click to see full size)The
+ battery lasted 9 hours, 36 minutes in our video loop test which might 
+slightly belie Sony's claim of two-day battery life. We wouldn't expect 
+that much runtime unless usage was restricted to the basics. VerdictSony
+ has made some interesting choices with the Xperia Z3+. The processor 
+and the thinner body might be contributing to the overheating problem, 
+but regardless of why it's happening, it's the biggest thing that sets 
+this phone apart from its competition. Heat management is one of the 
+most basic considerations in device design, and we do hope that Sony can
+ address it with future software updates.We appreciate all the 
+atypical improvements Sony has made to its Z-series flagship line, which
+ would usually get glossed over when just comparing specs, and we do 
+like that the company tried to concentrate on things like battery life 
+and camera quality rather than just bumping up specifications. But 
+overall, we're left with very mixed feelings.We would have liked 
+to say that the Xperia Z3+'s biggest competition will be the Xperia Z3, 
+but that model is set to be phased out. The Xperia Z3+ will be coming in
+ at a much higher price than the existing Samsung Galaxy S6 and even the
+ iPhone 6 and iPhone 6 Plus which have been available online with hefty 
+discounts over the past few months.  It becomes difficult for us to give
+ Sony's offering a recommendation under these circumstances. Sony Xperia Z3+ in pictures
+
+Even when it is 
+time to upgrade, there are no major factors within the Android universe,
+ apart from perhaps brand loyalty, that might keep someone buying from 
+the same company. Upstarts offering flagship-class features at half the 
+price are stealing customers away from the old guard, leaving the 
+industry in further turmoil.
+
+And that brings us to the Sony Xperia
+ Z3+ which is a few months overdue going by Sony's established pattern, 
+but which will still need to jostle with the competition just in order 
+to be noticed. It's meant to be a conservative update, going by the fact
+ that it hasn't been called the Xperia Z4, but it's still an entirely 
+new product. It will go up against the Samsung Galaxy S6 (Review | Pictures), LG G4, iPhone 6 (Review | Pictures) and iPhone 6 Plus (Review | Pictures), and a host of lower cost alternatives including the 
+much-anticipated Oneplus 2.
+
+The Japanese electronics giant seems 
+to have realised that a six-month update cycle was too aggressive and is
+ being a little more conservative with this launch. Let's see if the 
+approach is right for this uphill battle.
+
+Look and feelSony
+ hasn't done much to change the design language it debuted with the 
+Xperia Z3 (Review | Pictures). As we noted in our detailed first impressions story about 
+this phone, it's slimmer and cleaner but retains the same basic shape 
+and proportions. Sony's biggest design innovation is that this phone now
+ has an easily accessible Micro-USB port but still retains its IP65/IP68
+ ratings for water- and dust- resistance. That means you don't have to 
+fiddle with a rubber-sealed flap every time you need to charge the 
+phone.
+
+It also means that Sony has been able to dispense with its 
+trademark Z-series magnetic accessory connector. The scooped-out patch 
+always made it look as though something had taken a bite out of the side
+ of its phones, and we never did see compatible accessories becoming 
+widespread, so we don't miss it at all.
+
+There's still a flap to 
+protect the Nano-SIM and microSD card tray, which has also been designed
+ cleverly to be as unobtrusive as possible. Sony continues to provide a 
+dedicated camera shortcut button, which we like, but the power and 
+volume buttons are placed a bit inconveniently. The phone is completely 
+sealed and so the battery is not accessible.
+
+We didn't much like 
+the new translucent corners, which stand out a bit too much against the 
+brushed metal of the rim. They might serve to protect the phone in case 
+of falls, but we think the Xperia Z3 looked better in this regard. We 
+also found the rim a bit scratchy when holding the phone up to our ears.
+ We noted in our first impressions that Sony has decided to ship the 
+Xperia Z3+ with a screen protector already attached, and the review unit
+ sent to us had the same misalignment problem as the unit we first 
+examined. We really don't know why this was necessary, and we feel it 
+really cheapens the look of a premium-segment phone.
+
+The Xperia 
+Z3+ is relatively easy to hold, for a phone with a 5.2-inch screen. The 
+glass on the front and rear feels a little less slippery than the Z3's 
+and we were usually pretty sure of our grip. For those who like such 
+things, there's even an eyelet on the bottom so you can attach a lanyard
+ or dangling charm.
+
+Specifications and softwareHere's where
+ things get murky for Sony. In an effort to stay on top of the specs 
+war, the company has gone with the controversial octa-core Qualcomm 
+Snapdragon 810 SoC. It has often been suggested that this processor 
+overheats and has therefore been dropped by other companies, though 
+conflicting statements to that effect don't give us a clear consensus. 
+Either way, it's debatable whether anyone at this point needs more power
+ than its predecessors, the Snapdragon 801 and 805, provided - but it 
+does make for a new talking point on the spec sheet.
+
+The screen 
+measures 5.2 inches diagonally but Sony hasn't moved beyond 1080x1920 in
+ terms of resolution. Plenty of other companies are offering phones with
+ QHD screens at this price point - the merits of which are, again, 
+debatable - so it will be interesting to see if Sony loses out by 
+choosing not to. Rather than resolution, Sony has upped the brightness 
+and claims improved colour reproduction. There's also a neat technique 
+that detects ambient light and actually alters the contrast and levels 
+of images on screen to look better.
+
+Beyond those things, it's all 
+fairly standard. There's 3GB of RAM and 32GB of internal storage; up 
+from 16GB in the Xperia Z3. MicroSD cards of up to 128GB are supported, 
+and you can plug in a USB-OTG storage device as well if you like. All 
+the latest wireless standards are accounted for: Wi-Fi ac, Bluetooth 
+4.1, NFC, GLONASS, and even FM radio.
+
+The rear camera has a 
+20.7-megapixel sensor and supports 4K recording with video 
+stabilisation. The front camera is a 5-megapixel unit with a wide 25mm 
+lens. Sony says the Z3+ carries over all the benefits of its 
+selfie-focused Xperia C4 model except for a flash in front.
+
+The 
+phone runs Android 5.0.2 with Sony's own custom UI. We like the general 
+design thinking behind it but as always, Sony has jammed in a ton of 
+bloatware, most of which is advertising for its own media ventures such 
+as Sony Liv, Sony Music Jive, PlayStation, and Sony Pictures 
+Entertainment. There are three Gameloft titles which only let you play 
+for five 180-second sessions before you have to pay to unlock them - the
+ kind of spam we've seen from lower-tier brands - which is really 
+disappointing.
+
+There's also plenty of junk on the homescreens in 
+the form of Sony's enormous What's New promotional widget and Lifelog, 
+although that is at least potentitally useful. Beyond those things, 
+there's LinkedIn, TV SideView, Line, Kobo Books, Facebook, Mobisystems 
+OfficeSuite, Movie Creator, AVG Protection, Bigflix, News from 
+Socialife, and TrackID. Sony's PrivelegePlus app claims to give you 
+access to premium content, but we only ever saw an error message on 
+launch. Thankfully quite a few of these junk apps are removable.
+
+PerformanceThere's
+ no two ways about it - the Sony Xperia Z3+ overheats. A lot. There's 
+pretty much nothing you can do without the upper half of the rear 
+getting noticeably warm to the touch. Try playing games, watching videos
+ or even browsing the Web and the temperature will shoot up. The camera 
+app seemed to stress things the most - popup warnings repeatedly 
+disrupted our efforts to compose frames, telling us the app might shut 
+down on its own. A thermometer icon appeared within the app and stayed 
+there all the time. The 4K video mode won't start without reassuring you
+ that video will be saved if the app does have to crash.
+
+The phone
+ did get uncomfortable on several occasions, but apps never did reach 
+the point of having to bow out. We recorded several minutes of 
+continuous 4K video to see if we could push it past its breaking point, 
+but that didn't happen. 
+
+Benchmark scores were very good. We 
+recorded an impressive 51,040 points in AnTuTu and 34,056 overall in 
+Quadrant. The 3DMark Ice Storm Unlimited score of 22,611 was amongst the
+ highest we've ever seen, and even GFXbench pumped out an excellent 
+51fps. 
+
+These tests show that the phone is capable of pushing 
+itself to remarkable heights in short bursts, when heat is not an issue.
+ Synthetic benchmarks aside, performance in informal usage was not as 
+snappy as we'd expect a flagship performance phone to be. 
+
+The 
+Xperia Z3+ did very well at playing movies and music, with rich, 
+immersive sound that we weren't expecting to be so good. You can barely 
+see the twin stereo speakers on the phone's front face, but that didn't 
+stop them from pumping out some serious volume. Sound was full and rich,
+ with reasonable bass but especially crisp and clear voices. Video 
+playback was also impressive, with no faults. On the other hand, we 
+weren't entirely satisfied with the screen's performance under direct 
+sunlight - it seemed washed out and it was difficult sometimes to 
+handle.
+
+(Click to see full size)
+
+We had a lot of fun with the Xperia Z3+'s camera as well. 
+Sony's phones have come with great camera software for many years now. 
+There are loads of modes ranging from useful ones to silly fun 
+distractions. You can also download additional third-party camera 
+enhancements. Photo quality was generally quite good and we liked what 
+we saw of the phone's performance under various lighting conditions.
+
+The camera was generally quick to focus and Sony's Intelligent Auto mode detected all kinds of scenes and changed the white balance and other settings to match quite admirably. Photos came out clear and well detailed even under artificial lighting. We were happy with the camera app's speed and flexibility. 4K video came out looking great, but you can expect file sizes of around 1GB per minute so a high-quality microSD card will be necessary if you plan to use this feature a lot.
+
+ 
+
+(Click to see full size)
+
+The
+ battery lasted 9 hours, 36 minutes in our video loop test which might 
+slightly belie Sony's claim of two-day battery life. We wouldn't expect 
+that much runtime unless usage was restricted to the basics. 
+
+VerdictSony
+ has made some interesting choices with the Xperia Z3+. The processor 
+and the thinner body might be contributing to the overheating problem, 
+but regardless of why it's happening, it's the biggest thing that sets 
+this phone apart from its competition. Heat management is one of the 
+most basic considerations in device design, and we do hope that Sony can
+ address it with future software updates.
+
+We appreciate all the 
+atypical improvements Sony has made to its Z-series flagship line, which
+ would usually get glossed over when just comparing specs, and we do 
+like that the company tried to concentrate on things like battery life 
+and camera quality rather than just bumping up specifications. But 
+overall, we're left with very mixed feelings.
+
+We would have liked 
+to say that the Xperia Z3+'s biggest competition will be the Xperia Z3, 
+but that model is set to be phased out. The Xperia Z3+ will be coming in
+ at a much higher price than the existing Samsung Galaxy S6 and even the
+ iPhone 6 and iPhone 6 Plus which have been available online with hefty 
+discounts over the past few months.  It becomes difficult for us to give
+ Sony's offering a recommendation under these circumstances.
+

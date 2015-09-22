@@ -1,0 +1,259 @@
+Micromax's Yu Yureka Plus Review: Small Tweaks Make a Good Phone Better
+
+At
+ the beginning of 2015, Micromax launched the new Yu brand and series of smartphones. These devices are only available online but offer great specifications at low prices, focusing on the 
+increased customisation options offered by the CyanogenMod operating system that 
+Yu preloads onto its devices. The Yureka (Review | Pictures) and Yuphoria (Review | Pictures) both offer the 
+benefits of customisability and great specifications at competitive 
+prices, and have enjoyed some success. Yu's third product is the Yureka 
+Plus. At Rs. 9,999, it's Rs. 1,000 more expensive than the Yureka, and adds a bit to the spec sheet 
+to justify the price hike. The two big changes are a higher-resolution 
+full-HD screen and a new camera sensor that should improve photo quality by a bit. We go into the details to find out what the Yureka 
+Plus is all about.Look and FeelThe Yureka Plus has inherited its predecessor's nomenclature for a reason; it looks and feels exactly like the Yu 
+Yureka. There is not a single thing different, and you wouldn't be able 
+to tell the difference between the Yureka and Yureka Plus if both were to be placed 
+side-by-side. This isn't necessarily a bad thing, since we quite liked 
+the way the Yureka was designed. From the minimalist look in front to the textured 'moonstone grey' back
+ panel, the phone is still attractive and feels great to 
+hold.Most of the rest of the device design remains the same as 
+well. The primary SIM and microSD slots are only accessible by removing 
+the battery, while the second SIM slot is hot-swappable and doesn't need
+ the phone to be switched off. Power and volume controls remain in the same 
+places as before, while the only marking on the front is a circle that
+ denotes the home button. The three soft keys light up when the screen 
+is on, and the phone lets you set any or all of the keys to wake the 
+device with a double tap. The only difference you'll perceive is a 
+visibly sharper and more detailed full-HD screen. We were happy with the
+ Yureka's 720p screen at the time of reviewing it, but the market has changed a
+ lot since then. With the spec war heating up, a 1080p screen in the 
+sub-Rs. 10,000 segment isn't impossible anymore. Yu has been smart, 
+as the full-HD screen adds tremendous value 
+to the package. It is sharp, detailed, and accurate with 
+colours. Although it's sufficiently bright indoors, outdoor visibility 
+suffers a bit since it can't get quite as bright as it needs to. 
+However, it's still a far better screen than we're used to seeing at 
+this price level.Specifications and SoftwareWhen the Yu 
+Yureka first broke onto the scene, its specifications list was impressive
+ to say the least. At a time when the vast majority of budget phones 
+were using lower-cost MediaTek 
+SoCs, the Yureka used the then-new Snapdragon 615.  Apart from that 
+there was also 16GB of internal storage and 2GB of RAM, along with 4G 
+compatibility and Bluetooth and Wi-Fi connectivity. These 
+specifications remain the same on the Yureka Plus, and unfortunately 
+don't quite have the same shock value anymore since a long list of devices in 
+this price bracket have matched them. However, it's 
+still a competitive set of components for the price and will remain competitive for a long time to come.Yu has stuck to Cyanogen 12 OS for the 
+Yureka Plus, although the system is based on Android 
+5.0.2 out of the box, an upgrade over the Yureka which came with Android
+ 4.4.4. We're big fans of the operating system, since it offers a host 
+of customisability options that let you set your phone up exactly how 
+you want it. From button functions to the lockscreen; from the status 
+and pull-down bar to the notification drawer; everything is customisable
+ and can be adjusted to your liking. Above all, it's a quick and 
+efficient system that is a pleasure to use. Very little is different from
+ what the Yureka offers.There's also very little bloatware on the 
+system, and the handful of apps that are present are actually incredibly
+ useful. AudioFX is a system-wide audio equaliser and 
+controller, while Screencast lets you record video of your phone's 
+screen. Perhaps the only app we didn't care much for was the Yuniverse 
+Opera-based browser. Fortunately it could be uninstalled and was out of 
+our way within seconds.CameraThe second thing that has changed in going from Yureka to Yureka Plus is the camera module. 
+While the Yureka used the older Sony IMX135 sensor, the Yureka Plus has 
+the newer IMX214 sensor. Although both are 13-megapixel sensors, the 
+IMX214 has small technical tweaks that promise better photography and 
+videography, including improved support for HDR stills and video.In
+ practice, the camera is at least as impressive as the one on the Yureka. 
+Pictures are detailed, sharp and have colours that are vibrant and truly
+ pop. You have to zoom really far in on a desktop monitor to reveal any 
+flaws in the images, and whites have the proper colour tone. However, 
+there are definite issues in the handling of low-light situations, with dark zones 
+in images appearing too dark to be able to spot any detail.(Click for full-size image)HDR 
+mode offered excellent results, with the already great colour 
+handling improving dramatically. We generally preferred to shoot in HDR 
+mode, as the effect was subtle, yet visible. Video was usually good, as 
+were close up shots. With the exception of the slight problems with 
+low-light shooting, the camera on the Yureka Plus is slightly improved 
+over the one on the Yureka. The front camera takes acceptable shots, 
+although it also suffers from the same tendency to underperform with 
+low-light shots.The camera app is minimalistic and 
+easy to use, with settings icons occupying only a small part of the screen, 
+keeping most of it for the viewfinder. There are buttons for quick 
+video, photo and panorama shots, along with a flash selector, the camera switcher 
+and a shortcut to the various modes. It's well designed and makes camera use easy. We 
+had some issues with the speed of the autofocus on the Yureka which have
+ been fixed with the Yureka Plus; autofocus is usually quick and 
+effortless.(Click for full-size image)PerformanceThe Yu Yureka Plus is a capable 
+device in terms of performance, thanks to the combination of a good SoC, strong specifications, and an excellent operating system. Our collection of
+ test videos loaded and ran well, including the most heavily encoded clips. 
+Even with apps and games, the phone ran fairly well most of the time, with 
+graphics slowing down only slightly on rare occasions. High intensity games such as Angry Birds 2 and Asphalt 8 ran smoothly on the device, but there was a definite heating issue near the top of the device. This also caused a heavy battery drain with even just 15 minutes of gaming.Benchmark 
+tests showed excellent numbers for a phone using the Snapdragon 615 SoC,
+ and all scores were slightly higher than those recorded on the Yu 
+Yureka. AnTuTu and Quadrant returned commendable scores of 34,457 and 
+24,116 respectively, while GFXBench and 3DMark recorded scores of 14fps
+ and 5,477 each. All of this confirms that the Yureka Plus is a good 
+performer, and offers excellent returns for the price.Call and 
+speaker quality are both decent, and network reception gave us no reason
+ to complain. Battery life on the Yureka was underwhelming, but this seems to have been
+ improved considerably on the Yureka Plus, despite the higher-resolution
+ screen. Our video loop test drained the battery in 10 hours, 5
+ minutes, which is a huge improvement over the Yureka. In day to day 
+use, the battery drains as quickly as any Android smartphone, and so it should
+ comfortably last a full day with normal use.VerdictYu 
+has made it a point to keep the fact that it's owned by Micromax as
+low-key as possible. This has helped the brand establish itself as an 
+independent entity with its own appeal, which has worked 
+well. The Yu Yuphoria's popularity is proof of that, and can 
+also be seen as a sign of things to come.The Yu
+ Yureka was a groundbreaking product when it launched. It showed just 
+what a budget smartphone was capable of, and set the stage for what have
+ proven to be fun times in the smartphone price wars. It also showed the
+ world just how important a good operating system is to the smartphone 
+experience.The Yu Yureka Plus is an
+ intelligent way to strengthen the company's first product now that the competition has had some time to catch up. It has improved just enough to give it a sense of freshness, while retaining all the qualities that made it stand out in the first place. This 
+is what keeps the phone and the company relevant, and we have no issues with 
+recommending the Yu Yureka Plus if you're shopping for a smartphone 
+under Rs. 10,000. 
+
+Yu's third product is the Yureka 
+Plus. At Rs. 9,999, it's Rs. 1,000 more expensive than the Yureka, and adds a bit to the spec sheet 
+to justify the price hike. The two big changes are a higher-resolution 
+full-HD screen and a new camera sensor that should improve photo quality by a bit. We go into the details to find out what the Yureka 
+Plus is all about.
+
+Look and FeelThe Yureka Plus has inherited its predecessor's nomenclature for a reason; it looks and feels exactly like the Yu 
+Yureka. There is not a single thing different, and you wouldn't be able 
+to tell the difference between the Yureka and Yureka Plus if both were to be placed 
+side-by-side. This isn't necessarily a bad thing, since we quite liked 
+the way the Yureka was designed. From the minimalist look in front to the textured 'moonstone grey' back
+ panel, the phone is still attractive and feels great to 
+hold.
+
+Most of the rest of the device design remains the same as 
+well. The primary SIM and microSD slots are only accessible by removing 
+the battery, while the second SIM slot is hot-swappable and doesn't need
+ the phone to be switched off. Power and volume controls remain in the same 
+places as before, while the only marking on the front is a circle that
+ denotes the home button. The three soft keys light up when the screen 
+is on, and the phone lets you set any or all of the keys to wake the 
+device with a double tap. 
+
+The only difference you'll perceive is a 
+visibly sharper and more detailed full-HD screen. We were happy with the
+ Yureka's 720p screen at the time of reviewing it, but the market has changed a
+ lot since then. With the spec war heating up, a 1080p screen in the 
+sub-Rs. 10,000 segment isn't impossible anymore. Yu has been smart, 
+as the full-HD screen adds tremendous value 
+to the package. It is sharp, detailed, and accurate with 
+colours. Although it's sufficiently bright indoors, outdoor visibility 
+suffers a bit since it can't get quite as bright as it needs to. 
+However, it's still a far better screen than we're used to seeing at 
+this price level.
+
+Specifications and SoftwareWhen the Yu 
+Yureka first broke onto the scene, its specifications list was impressive
+ to say the least. At a time when the vast majority of budget phones 
+were using lower-cost MediaTek 
+SoCs, the Yureka used the then-new Snapdragon 615.  Apart from that 
+there was also 16GB of internal storage and 2GB of RAM, along with 4G 
+compatibility and Bluetooth and Wi-Fi connectivity. 
+
+These 
+specifications remain the same on the Yureka Plus, and unfortunately 
+don't quite have the same shock value anymore since a long list of devices in 
+this price bracket have matched them. However, it's 
+still a competitive set of components for the price and will remain competitive for a long time to come.
+
+Yu has stuck to Cyanogen 12 OS for the 
+Yureka Plus, although the system is based on Android 
+5.0.2 out of the box, an upgrade over the Yureka which came with Android
+ 4.4.4. We're big fans of the operating system, since it offers a host 
+of customisability options that let you set your phone up exactly how 
+you want it. From button functions to the lockscreen; from the status 
+and pull-down bar to the notification drawer; everything is customisable
+ and can be adjusted to your liking. Above all, it's a quick and 
+efficient system that is a pleasure to use. Very little is different from
+ what the Yureka offers.
+
+There's also very little bloatware on the 
+system, and the handful of apps that are present are actually incredibly
+ useful. AudioFX is a system-wide audio equaliser and 
+controller, while Screencast lets you record video of your phone's 
+screen. Perhaps the only app we didn't care much for was the Yuniverse 
+Opera-based browser. Fortunately it could be uninstalled and was out of 
+our way within seconds.
+
+CameraThe second thing that has changed in going from Yureka to Yureka Plus is the camera module. 
+While the Yureka used the older Sony IMX135 sensor, the Yureka Plus has 
+the newer IMX214 sensor. Although both are 13-megapixel sensors, the 
+IMX214 has small technical tweaks that promise better photography and 
+videography, including improved support for HDR stills and video.
+
+In
+ practice, the camera is at least as impressive as the one on the Yureka. 
+Pictures are detailed, sharp and have colours that are vibrant and truly
+ pop. You have to zoom really far in on a desktop monitor to reveal any 
+flaws in the images, and whites have the proper colour tone. However, 
+there are definite issues in the handling of low-light situations, with dark zones 
+in images appearing too dark to be able to spot any detail.
+
+(Click for full-size image)
+
+HDR 
+mode offered excellent results, with the already great colour 
+handling improving dramatically. We generally preferred to shoot in HDR 
+mode, as the effect was subtle, yet visible. Video was usually good, as 
+were close up shots. With the exception of the slight problems with 
+low-light shooting, the camera on the Yureka Plus is slightly improved 
+over the one on the Yureka. The front camera takes acceptable shots, 
+although it also suffers from the same tendency to underperform with 
+low-light shots.
+
+The camera app is minimalistic and 
+easy to use, with settings icons occupying only a small part of the screen, 
+keeping most of it for the viewfinder. There are buttons for quick 
+video, photo and panorama shots, along with a flash selector, the camera switcher 
+and a shortcut to the various modes. It's well designed and makes camera use easy. We 
+had some issues with the speed of the autofocus on the Yureka which have
+ been fixed with the Yureka Plus; autofocus is usually quick and 
+effortless.
+
+(Click for full-size image)
+
+PerformanceThe Yu Yureka Plus is a capable 
+device in terms of performance, thanks to the combination of a good SoC, strong specifications, and an excellent operating system. Our collection of
+ test videos loaded and ran well, including the most heavily encoded clips. 
+Even with apps and games, the phone ran fairly well most of the time, with 
+graphics slowing down only slightly on rare occasions. High intensity games such as Angry Birds 2 and Asphalt 8 ran smoothly on the device, but there was a definite heating issue near the top of the device. This also caused a heavy battery drain with even just 15 minutes of gaming.
+
+Benchmark 
+tests showed excellent numbers for a phone using the Snapdragon 615 SoC,
+ and all scores were slightly higher than those recorded on the Yu 
+Yureka. AnTuTu and Quadrant returned commendable scores of 34,457 and 
+24,116 respectively, while GFXBench and 3DMark recorded scores of 14fps
+ and 5,477 each. All of this confirms that the Yureka Plus is a good 
+performer, and offers excellent returns for the price.
+
+Call and 
+speaker quality are both decent, and network reception gave us no reason
+ to complain. Battery life on the Yureka was underwhelming, but this seems to have been
+ improved considerably on the Yureka Plus, despite the higher-resolution
+ screen. Our video loop test drained the battery in 10 hours, 5
+ minutes, which is a huge improvement over the Yureka. In day to day 
+use, the battery drains as quickly as any Android smartphone, and so it should
+ comfortably last a full day with normal use.
+
+VerdictYu 
+has made it a point to keep the fact that it's owned by Micromax as
+low-key as possible. This has helped the brand establish itself as an 
+independent entity with its own appeal, which has worked 
+well. The Yu Yuphoria's popularity is proof of that, and can 
+also be seen as a sign of things to come.
+
+The Yu
+ Yureka was a groundbreaking product when it launched. It showed just 
+what a budget smartphone was capable of, and set the stage for what have
+ proven to be fun times in the smartphone price wars. It also showed the
+ world just how important a good operating system is to the smartphone 
+experience.
+

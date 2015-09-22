@@ -1,0 +1,419 @@
+HTC One M9 First Impressions: Do the Evolution
+
+In 2013, HTC took a decision that helped the company's flagship 
+smartphone stand out in a market where it's often difficult to 
+differentiate one offering from another. Instead of competing with other
+ Android phones on specifications or price, HTC made an attempt to 
+introduce a premium design language of its own, a look that's 
+'distinctly HTC'.While the HTC One (Review | 
+Pictures) won rave reviews thanks largely to its industrial design, the 
+smartphone failed to set the market on fire due to a variety of reasons.
+ Undeterred, the company followed the same template with next year's 
+flagship - the oddly named HTC One (M8) (Review | 
+Pictures) - and in many ways took the design a little bit too far. But 
+with better carrier deals in place, the consumer response was more 
+enthusiastic, and with Desire series also finding plenty of takers, the 
+company recently posted its third successive quarterly 
+profit,
+ after a series of losses.(Also see: HTC One M9 vs. HTC One (M8))With the HTC One M9, launched in 
+Barcelona on Sunday, the company is carrying the 
+One series forward, while addressing some of the problems of its 
+predecessors, and we are not just talking about the dropped parentheses.The
+ HTC One (M8) had great ergonomics, but in day-to-day usage people often
+ complained that the phone was too slippery. The M9 design acknowledges 
+these problems, with the back and edges now featuring a coating that 
+offers a little bit more friction than the M8, while still retaining its
+ smoothness.The HTC One (M8) (left) and the One M9 (right) side by side.The
+ HTC One M9 comes with an 'industry first dual finish' with new Gold on 
+Silver and Gold on Gold colours, apart from Gold on Pink, and our personal favourite, the 
+Gunmetal Grey that looks stunning as ever. The HTC One M9 scores high on
+ industrial design and the in-hand feel is the best in class, better 
+than even the iPhone 6 (Review | Pictures), though
+ this is of course very subjective.(Also see:  Samsung Galaxy S6 vs. HTC One M9)The M9 is marginally lighter 
+than the M8 and it comes with a single part front where the bezel and 
+main housing sit together. A scratch resistant coating ostensibly offers
+ better protection to the metallic body, though we barely had time to 
+test these claims.(Also see: HTC Partners With Valve to Announce HTC Vive VR Headset)Another noticeable change is that the 
+continuous volume rocker has given way to separate volume up/ down keys.
+ The new setup offers 'better feel and feedback' as per HTC, and the 
+company also says the power and volume buttons now have a slightly 
+different feel so you know which button you are pressing without having 
+to figure out your fingers' position relative to the device.SpecificationsThe
+ HTC One M9 is powered by the Qualcomm Snapdragon 810 octa-core 64-bit 
+SoC that's been the subject of plenty of speculation due to the alleged
+ heating issues. It comes 
+with 3GB of RAM and 32GB internal storage, which is expandable by up to 
+128GB via microSD card. HTC says 21GB of the storage will be user 
+accessible, though our test unit showed 18GB of free storage when 
+plugged in as a drive to our computer. The M9 features a 5.0-inch 
+full-HD display and is powered by a 2840mAh battery, rated to give up to
+ 21.7 hours of talk time on 3G networks.Like 
+the HTC One (M8), the M9 also comes with NFC, which was surprisingly 
+missing from the HTC One (M8 Eye) (Review | 
+Pictures). Other specifications are in line 
+with what you'd expect from a modern flagship, including Cat 6 LTE 
+support with speeds up to 300Mbps and Cat 9 LTE (450Mbps) in some 
+regions. The phone also supports TDD LTE Band 40 used by Indian 
+operators to provide 4G services.SoftwareHTC One (M9) 
+comes with Android 5.0.2 Lollipop with the brand new Sense 7.0 UI on 
+top. Custom user interfaces like Sense are always a touchy subject with 
+the Android faithful, so without getting into the stock versus custom UI
+ debate, let's look at what HTC has added to the latest version of 
+Sense.(Also see: HTC Partners With Valve to Announce HTC Vive VR Headset)HTC is trying
+ to make Sense smarter with contextual content that appears at the right
+ time with the information you might need at that moment. First on the 
+list are 'Morning Bundles' that bring the top news and your personal 
+agenda of the day when you use the phone for the first time in the 
+morning. Another type of bundle is Restaurant Bundle that shows up on 
+your lock screen around meal times with suggestions on nearby 
+restaurants you may like. These suggestions are powered by data from 
+Foursquare, Yelp, and other sources popular in different markets (no 
+Zomato in India, in case you are wondering).The personalisation 
+doesn't end there. Part of the default home screen is a smart launcher 
+widget that shows apps based on your location and usage patterns. You 
+can have three different profiles - Going Out, Work, and Home, each 
+showing up to eight apps or folders, and your phone will automatically 
+switch profiles based on your location. The choice of apps that show up 
+will improve as you use the phone, and you can manually pin an app to a 
+spot by keeping its icon pressed.Pinned apps show 
+across all profiles, so if there's something you use everywhere, like 
+your browser, it would be a good idea to keep it pinned. Similarly, if 
+you don't like any of the suggestions, you can remove the app from that 
+particular profile. Anyone who's used Yahoo's Aviate launcher will be 
+very familiar with the approach HTC 
+is going with.(Also See:  The Best Free Launcher Apps for Android)This
+ dynamic home screen widget also comes with two folders - Downloads and 
+Suggestions. Instead of plastering apps installed via Google Play all 
+over your home screen, the HTC One M9 with Sense 7.0 will put them in 
+the new Downloads folder, which shows up to 16 of your recently 
+downloaded apps. The Suggestions folder contains app recommendations 
+based on the apps you've installed and usage patterns.The
+ HTC One M9 uses on-screen Home, Back, and Recent Apps by default, and 
+HTC will now let you add a fourth button. So, for example, if you check 
+your notifications very often, you can add a button which, when tapped, 
+will show you the notifications area. You can also change the actions 
+associated with the first three buttons.With Sense 7.0, HTC is 
+also introducing out-of-the-box support for themes that will let you 
+customise your wallpaper, fonts, icons, sounds, textures, and colours. 
+You can download themes from the store or create one of your own using 
+the bundled app that lets you select a image as the starting point. This
+ image becomes the wallpaper of your theme, with textures and icon 
+colours automatically selected to go with this image. You can tweak 
+these selections as per your taste or you can use HTC's Web-based theme 
+creator to fully customise your theme. Initially, only free themes will 
+be available from the store, but theme creators will be able to monetise
+ their work by offering paid themes at a later stage.The Sense TV
+ app has been replaced by Peel Smart Remote, and since, like its 
+predecessors, the HTC One (M9) comes with an IR port, you can continue 
+to use the One as a remote. The app comes with schedule and settings for
+ Indian DTH operators like Airtel, Tata Sky, and others.HTC
+ has thrown in a new Help app to provide assistance to consumers on 
+common problems, and the Fun Fit app for casual fitness tracking using 
+only the phone's pedometer.The HTC One M9 also comes with HTC 
+Connect that lets the phone transmit audio to multiple sources over 
+Bluetooth, DLNA, Miracast, Qualcomm's AllPlay, and BlackFire. You can 
+even combine multiple sources into a single group. Do the three-finger 
+swipe up in any app to quickly send the currently playing music to any 
+of these groups. Sonos users will find this concept all too familiar.CameraHTC
+ introduced its UltraPixel technology in the original One and we 
+explained the concept at length in our review of the M7. While the low-light performance of the camera 
+stood out, for other day to day usage the 4-UltraPixel rear shooter was 
+considered rather inadequate. The HTC One (M8) added a second rear 
+camera for depth sensing but the primary sensor, to the disappointment 
+of many users, continued to be UltraPixel. The launch of the HTC One (M8
+ Eye) in October last year with a 13-megapixel rear camera but other 
+specifications identical to the M8 was a response to what the public 
+wanted - the HTC One (M8) package with a 'regular' camera.The
+ M9 acknowledges this feedback from the get-go and bumps the rear camera
+ to a 20-megapixel shooter that comes with a sapphire lens. The phone 
+also drops the dual rear camera setup seen in the HTC One (M8) and HTC 
+One (M8 Eye), so does that mean it's the end of the road for the 
+experiment? Definitely not, a company executive told NDTV Gadgets that 
+the bigger 20-megapixel sensor left no room in the chassis for the 
+second rear camera, hinting the depth-sensing feature will make an 
+appearance on a non-flagship HTC smartphone in the future.The 
+UltraPixel camera hasn't disappeared either; in fact it's closer to you 
+than ever before, quite literally. The One M9 comes with a 4-UltraPixel 
+front camera that HTC hopes will translate into better selfies due to 
+its low-light photography capabilities.Unfortunately,
+ there's no optical image stabilisation on the M9. Pictures clicked 
+using the rear camera looked quite good but showed some amount of noise 
+on closer inspection. HTC was quick to remind us the software in the 
+units we spent a little over 24 hours with was not the one that will 
+ship to consumers on launch day. The image quality is a function of the 
+sensor's size and capabilities as well as the decisions made by the 
+image processing software, so one hopes the little problems we saw can 
+be fixed by tweaks made to the software before the first set of 
+customers get their hands on the HTC One M9.The HTC Camera app, 
+which will be available via Google Play so users don't have to wait for 
+new firmware for updates, comes with downloadable image modes to extend 
+the camera's capabilities. Soon after the phone's release, users will be
+ able to download a RAW mode that will let enthusiasts shoot pictures in
+ RAW.The M9 comes with a new photo editor that includes effects 
+like double exposure, shape masking & blending, prismatic & 
+mirroring, and more. The Photos app will also be able to connect to 
+services like Facebook, Dropbox, Google+, and Flickr to offer a 
+consolidated view of all your pictures saved across various services, a 
+feature that's powered by Cloudex.HTC One M9 buyers will also get 100GB of Google Drive storage free for two years.AccessoriesThe
+ HTC One M9 comes with BoomSound including Dolby Audio Surround that 
+offers a surround sound experience via the built-in speakers as well as 
+bundled headphones. HTC also plans to offer HTC Pro Studio earphones for
+ the audiophiles at a later stage.The HTC One 
+M9 comes with a new range of HTC Dot View II cases that look brighter a 
+Dot Message that let you see custom messages through the case in 
+addition to the usual information like time, call notifications etc. The
+ One M9 also comes with new clear back cases as well as an active case 
+that's IP68 certified and offers protection from a 2-metre drop. HTC 
+also showed us an active headset that's IP57 certified.Final thoughtsThe smartphone industry is right now at a stage everyone's making 
+incremental changes to their products, and HTC is no different. While 
+there are question marks around Snapdragon 810's real world performance 
+and the One M9 lacks some features that competitors offer like optical 
+image stabilisation and a fingerprint scanner, in addressing M8's design
+ niggles and making a move away from UltraPixel technology for the rear 
+camera, HTC has demonstrated a willingness to listen to its customers.With
+ the One M9, HTC has another winner in terms of design and the additions
+ to Sense seem pretty useful. Stay tuned to NDTV Gadgets for a full 
+review of the HTC One M9 at a later stage.Disclosure: The correspondent attended a pre-MWC briefing in Barcelona at HTC's expense.MWC 2015 in Pictures
+
+While the HTC One (Review | 
+Pictures) won rave reviews thanks largely to its industrial design, the 
+smartphone failed to set the market on fire due to a variety of reasons.
+ Undeterred, the company followed the same template with next year's 
+flagship - the oddly named HTC One (M8) (Review | 
+Pictures) - and in many ways took the design a little bit too far. But 
+with better carrier deals in place, the consumer response was more 
+enthusiastic, and with Desire series also finding plenty of takers, the 
+company recently posted its third successive quarterly 
+profit,
+ after a series of losses.
+
+(Also see: HTC One M9 vs. HTC One (M8))
+
+With the HTC One M9, launched in 
+Barcelona on Sunday, the company is carrying the 
+One series forward, while addressing some of the problems of its 
+predecessors, and we are not just talking about the dropped parentheses.
+
+The
+ HTC One (M8) had great ergonomics, but in day-to-day usage people often
+ complained that the phone was too slippery. The M9 design acknowledges 
+these problems, with the back and edges now featuring a coating that 
+offers a little bit more friction than the M8, while still retaining its
+ smoothness.
+
+
+
+The
+ HTC One M9 comes with an 'industry first dual finish' with new Gold on 
+Silver and Gold on Gold colours, apart from Gold on Pink, and our personal favourite, the 
+Gunmetal Grey that looks stunning as ever. The HTC One M9 scores high on
+ industrial design and the in-hand feel is the best in class, better 
+than even the iPhone 6 (Review | Pictures), though
+ this is of course very subjective.
+
+(Also see:  Samsung Galaxy S6 vs. HTC One M9)
+
+The M9 is marginally lighter 
+than the M8 and it comes with a single part front where the bezel and 
+main housing sit together. A scratch resistant coating ostensibly offers
+ better protection to the metallic body, though we barely had time to 
+test these claims.
+
+(Also see: HTC Partners With Valve to Announce HTC Vive VR Headset)
+
+Another noticeable change is that the 
+continuous volume rocker has given way to separate volume up/ down keys.
+ The new setup offers 'better feel and feedback' as per HTC, and the 
+company also says the power and volume buttons now have a slightly 
+different feel so you know which button you are pressing without having 
+to figure out your fingers' position relative to the device.
+
+SpecificationsThe
+ HTC One M9 is powered by the Qualcomm Snapdragon 810 octa-core 64-bit 
+SoC that's been the subject of plenty of speculation due to the alleged
+ heating issues. It comes 
+with 3GB of RAM and 32GB internal storage, which is expandable by up to 
+128GB via microSD card. HTC says 21GB of the storage will be user 
+accessible, though our test unit showed 18GB of free storage when 
+plugged in as a drive to our computer. The M9 features a 5.0-inch 
+full-HD display and is powered by a 2840mAh battery, rated to give up to
+ 21.7 hours of talk time on 3G networks.
+
+Like 
+the HTC One (M8), the M9 also comes with NFC, which was surprisingly 
+missing from the HTC One (M8 Eye) (Review | 
+Pictures). Other specifications are in line 
+with what you'd expect from a modern flagship, including Cat 6 LTE 
+support with speeds up to 300Mbps and Cat 9 LTE (450Mbps) in some 
+regions. The phone also supports TDD LTE Band 40 used by Indian 
+operators to provide 4G services.
+
+SoftwareHTC One (M9) 
+comes with Android 5.0.2 Lollipop with the brand new Sense 7.0 UI on 
+top. Custom user interfaces like Sense are always a touchy subject with 
+the Android faithful, so without getting into the stock versus custom UI
+ debate, let's look at what HTC has added to the latest version of 
+Sense.
+
+(Also see: HTC Partners With Valve to Announce HTC Vive VR Headset)
+
+HTC is trying
+ to make Sense smarter with contextual content that appears at the right
+ time with the information you might need at that moment. First on the 
+list are 'Morning Bundles' that bring the top news and your personal 
+agenda of the day when you use the phone for the first time in the 
+morning. Another type of bundle is Restaurant Bundle that shows up on 
+your lock screen around meal times with suggestions on nearby 
+restaurants you may like. These suggestions are powered by data from 
+Foursquare, Yelp, and other sources popular in different markets (no 
+Zomato in India, in case you are wondering).
+
+The personalisation 
+doesn't end there. Part of the default home screen is a smart launcher 
+widget that shows apps based on your location and usage patterns. You 
+can have three different profiles - Going Out, Work, and Home, each 
+showing up to eight apps or folders, and your phone will automatically 
+switch profiles based on your location. The choice of apps that show up 
+will improve as you use the phone, and you can manually pin an app to a 
+spot by keeping its icon pressed.
+
+Pinned apps show 
+across all profiles, so if there's something you use everywhere, like 
+your browser, it would be a good idea to keep it pinned. Similarly, if 
+you don't like any of the suggestions, you can remove the app from that 
+particular profile. Anyone who's used Yahoo's Aviate launcher will be 
+very familiar with the approach HTC 
+is going with.
+
+(Also See:  The Best Free Launcher Apps for Android)
+
+This
+ dynamic home screen widget also comes with two folders - Downloads and 
+Suggestions. Instead of plastering apps installed via Google Play all 
+over your home screen, the HTC One M9 with Sense 7.0 will put them in 
+the new Downloads folder, which shows up to 16 of your recently 
+downloaded apps. The Suggestions folder contains app recommendations 
+based on the apps you've installed and usage patterns.
+
+The
+ HTC One M9 uses on-screen Home, Back, and Recent Apps by default, and 
+HTC will now let you add a fourth button. So, for example, if you check 
+your notifications very often, you can add a button which, when tapped, 
+will show you the notifications area. You can also change the actions 
+associated with the first three buttons.
+
+With Sense 7.0, HTC is 
+also introducing out-of-the-box support for themes that will let you 
+customise your wallpaper, fonts, icons, sounds, textures, and colours. 
+You can download themes from the store or create one of your own using 
+the bundled app that lets you select a image as the starting point. This
+ image becomes the wallpaper of your theme, with textures and icon 
+colours automatically selected to go with this image. You can tweak 
+these selections as per your taste or you can use HTC's Web-based theme 
+creator to fully customise your theme. Initially, only free themes will 
+be available from the store, but theme creators will be able to monetise
+ their work by offering paid themes at a later stage.
+
+The Sense TV
+ app has been replaced by Peel Smart Remote, and since, like its 
+predecessors, the HTC One (M9) comes with an IR port, you can continue 
+to use the One as a remote. The app comes with schedule and settings for
+ Indian DTH operators like Airtel, Tata Sky, and others.
+
+HTC
+ has thrown in a new Help app to provide assistance to consumers on 
+common problems, and the Fun Fit app for casual fitness tracking using 
+only the phone's pedometer.
+
+The HTC One M9 also comes with HTC 
+Connect that lets the phone transmit audio to multiple sources over 
+Bluetooth, DLNA, Miracast, Qualcomm's AllPlay, and BlackFire. You can 
+even combine multiple sources into a single group. Do the three-finger 
+swipe up in any app to quickly send the currently playing music to any 
+of these groups. Sonos users will find this concept all too familiar.
+
+CameraHTC
+ introduced its UltraPixel technology in the original One and we 
+explained the concept at length in our review of the M7. While the low-light performance of the camera 
+stood out, for other day to day usage the 4-UltraPixel rear shooter was 
+considered rather inadequate. The HTC One (M8) added a second rear 
+camera for depth sensing but the primary sensor, to the disappointment 
+of many users, continued to be UltraPixel. The launch of the HTC One (M8
+ Eye) in October last year with a 13-megapixel rear camera but other 
+specifications identical to the M8 was a response to what the public 
+wanted - the HTC One (M8) package with a 'regular' camera.
+
+The
+ M9 acknowledges this feedback from the get-go and bumps the rear camera
+ to a 20-megapixel shooter that comes with a sapphire lens. The phone 
+also drops the dual rear camera setup seen in the HTC One (M8) and HTC 
+One (M8 Eye), so does that mean it's the end of the road for the 
+experiment? Definitely not, a company executive told NDTV Gadgets that 
+the bigger 20-megapixel sensor left no room in the chassis for the 
+second rear camera, hinting the depth-sensing feature will make an 
+appearance on a non-flagship HTC smartphone in the future.
+
+The 
+UltraPixel camera hasn't disappeared either; in fact it's closer to you 
+than ever before, quite literally. The One M9 comes with a 4-UltraPixel 
+front camera that HTC hopes will translate into better selfies due to 
+its low-light photography capabilities.
+
+Unfortunately,
+ there's no optical image stabilisation on the M9. Pictures clicked 
+using the rear camera looked quite good but showed some amount of noise 
+on closer inspection. HTC was quick to remind us the software in the 
+units we spent a little over 24 hours with was not the one that will 
+ship to consumers on launch day. The image quality is a function of the 
+sensor's size and capabilities as well as the decisions made by the 
+image processing software, so one hopes the little problems we saw can 
+be fixed by tweaks made to the software before the first set of 
+customers get their hands on the HTC One M9.
+
+The HTC Camera app, 
+which will be available via Google Play so users don't have to wait for 
+new firmware for updates, comes with downloadable image modes to extend 
+the camera's capabilities. Soon after the phone's release, users will be
+ able to download a RAW mode that will let enthusiasts shoot pictures in
+ RAW.
+
+The M9 comes with a new photo editor that includes effects 
+like double exposure, shape masking & blending, prismatic & 
+mirroring, and more. The Photos app will also be able to connect to 
+services like Facebook, Dropbox, Google+, and Flickr to offer a 
+consolidated view of all your pictures saved across various services, a 
+feature that's powered by Cloudex.
+
+HTC One M9 buyers will also get 100GB of Google Drive storage free for two years.
+
+AccessoriesThe
+ HTC One M9 comes with BoomSound including Dolby Audio Surround that 
+offers a surround sound experience via the built-in speakers as well as 
+bundled headphones. HTC also plans to offer HTC Pro Studio earphones for
+ the audiophiles at a later stage.
+
+The HTC One 
+M9 comes with a new range of HTC Dot View II cases that look brighter a 
+Dot Message that let you see custom messages through the case in 
+addition to the usual information like time, call notifications etc. The
+ One M9 also comes with new clear back cases as well as an active case 
+that's IP68 certified and offers protection from a 2-metre drop. HTC 
+also showed us an active headset that's IP57 certified.
+
+Final thoughtsThe smartphone industry is right now at a stage everyone's making 
+incremental changes to their products, and HTC is no different. While 
+there are question marks around Snapdragon 810's real world performance 
+and the One M9 lacks some features that competitors offer like optical 
+image stabilisation and a fingerprint scanner, in addressing M8's design
+ niggles and making a move away from UltraPixel technology for the rear 
+camera, HTC has demonstrated a willingness to listen to its customers.
+
+With
+ the One M9, HTC has another winner in terms of design and the additions
+ to Sense seem pretty useful. Stay tuned to NDTV Gadgets for a full 
+review of the HTC One M9 at a later stage.
+
+Disclosure: The correspondent attended a pre-MWC briefing in Barcelona at HTC's expense.
+
+MWC 2015 in Pictures
+

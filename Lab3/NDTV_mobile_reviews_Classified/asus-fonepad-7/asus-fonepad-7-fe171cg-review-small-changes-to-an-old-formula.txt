@@ -1,0 +1,289 @@
+Asus Fonepad 7 (FE171CG) Review: Small Changes to an Old Formula
+
+We wouldn't be surprised to hear that people are beginning to lose count of how many Fonepad models Asus has released.
+ This is a product line that Asus has been pushing for a while now, 
+attempting to solidify its position in the voice-calling tablet market. Although a
+ lot of people laugh at the idea of using a 7-inch tablet as 
+their primary phone, Asus evidently has enough reason to believe that it's a product category worth investing in.The new 
+Asus Fonepad 7 (FE171CG) offers improved specs and features over 
+previous versions of the device, including a better camera and more 
+storage. It sticks to the 7-inch display and Intel Atom SoC, and retains
+ the typical Asus tablet look and feel. Performance is of course important, but we are also eager to see whether the Rs. 10,999 price tag
+ is justified by the inclusion of a few new features and hardware 
+upgrades.Look and FeelEver since 
+the success of the Asus Google Nexus 7, Asus has tried 
+to stick to the same design formula as far as possible. Up front, the similarity is unmistakeable. It feels as though Asus has adopted an "if it ain't broke, don't fix it" strategy, 
+and we aren't complaining. It's a design that works for tablets.The 
+back is a bit different, of course. Our review sample came with an attractive champagne gold finish. Strangely enough, you will not find 
+this colour option on Flipkart, which is the official and exclusive 
+retailer for this device. The online retailer only sells two colour 
+options at the moment: black and white.There's a satisfying sense of 
+uniformity to the rest of the device. The Micro-SIM card slots are 
+covered by an 
+easy to open clip, which is also fairly secure when shut. The microSD 
+slot is uncovered, however, and this is the only thing disturbing the 
+clean, uniform edges. We don't like the insecurity of having something 
+as
+critical as a microSD card so unsecured, and we're a little surprised by
+ this. Asus doesn't supply a plastic dummy, so if you don't have a 
+microSD card inserted, the slot will be exposed to dust and lint.  The power button and 
+volume rocker are along the right edge, while the microUSB charging port
+ and 3.5mm audio port are on the top. The latter two should have been 
+on the bottom for a device of this size, in our opinion, but this is 
+subjective and a lot of people will have no problem with them the way they are.At
+ 280g, the Asus Fonepad 7 (FE171CG) is light for a tablet but too heavy 
+for a phone. This applies to its dimensions and bezel size as well. If you 
+intend to use this as your primary smartphone, it will not be an easy device 
+to get used to. If you just like your tablet to have data connectivity 
+and the handy ability to make phone calls and send texts, you'll be 
+comfortable with how the FE171CG feels.Specifications and SoftwareAsus
+ has stuck to the formula and kept some specifications similar to those of the 
+earlier Fonepad 7,
+ but there are some key changes. The 7-inch, 600x1024-pixel screen and Intel Atom Z2520 SoC remain unchanged, as does the 
+dual-SIM support and 3G connectivity. However, both SIM slots are 3G-capable in 
+this variant. Internal storage has been bumped up to 16GB, while 
+expandable storage support is still capped at 64GB. The RAM has helpfully been 
+increased to 2GB. The primary and secondary cameras have also received much
+ needed boosts, and are now 8-megapixels and 2-megapixels respectively.Because
+ of the large size of the device, there's a massive 4,000mAh battery (which is not
+ user-replaceable). As is now standard, Bluetooth v4.0 
+and Wi-Fi 802.11 a/b/g/n are present and proper. The dimensions and weight 
+have changed slightly, and now stand at 196x110.6x7.9mm and 280g 
+respectively.Asus has stuck with its Zen UI for the Fonepad 7 
+(FE171CG), although this time it is layered on top of Android 4.4 at the 
+core. It's an experience that will be familiar to anyone that has used any 
+recent Asus smartphone, and one that works well. It tries to replicate 
+the stock Android experience as closely as possible, while adding a few design elements of its own. This lends an air of familiarity to the 
+interface, while still keeping the look and feel distinctly Asus.The Fonepad 7 
+(FE171CG) does have a fair amount of bloatware which cannot be uninstalled. Some
+ of these, such as Asus' WebStorage cloud-based storage client and Clean 
+Master system maintenance app, might turn out to be handy, but you're 
+unlikely to use the majority of the other apps much. Some, such as Amazon Kindle, Facebook and 
+Flipboard, cannot be removed. This may prove 
+to be annoying and affects performance slightly because of the system 
+resources they use.CameraThe poor camera performance of 
+the previous Asus Fonepad 7 was one of its most significant weaknesses, 
+and that has thankfully been fixed to some extent with the new Asus 
+Fonepad 7 (FE171CG). The 8-megapixel shooter on the tablet features a
+ fairly quick autofocus system and some interesting filters.Colour
+ reproduction is usually accurate, although the camera doesn't perform 
+as well in low light. Indoor shots with poor lighting appear dull 
+and unexciting, although shots with more favourable lighting are good enough. 
+Outdoor shots are pleasant enough if you're using your tablet to take photos with, although 
+angles are not as wide as they could be. HDR mode doesn't have quite as 
+dramatic an effect as it does on most smartphones.The front camera is basic; only
+capable of 2-megapixel shots. Don't bother using it to shoot too many 
+selfies, as you won't get decent results. Images were grainy and 
+unimpressive, while the odd position of the lens means we were almost 
+always looking in the wrong direction. Stick to using it for Skype, at 
+best.(Click to see full size)PerformanceWe've been mostly positive about the Asus 
+Fonepad (FE171CG) so far, but performance is where our positivity ends. 
+The device disappointed us on multiple occasions with its below-par 
+handling of day-to-day tasks.Performance in our usual benchmarks is 
+poor across the board. AnTuTu gave us a score of 19,061, which was a fair bit lower than that of
+the Asus Zenfone 5 (Review | Pictures). Even two-year-old smartphones would produce better scores than this. Other benchmark tests produced similarly poor 
+results. 3DMark just didn't run, and GFXbench's score of 13fps can be attributed to the low-resolution screen. Day-to-day performance is also poor. There's considerable
+ lag while unlocking the phone, launching apps and making selections. This is partly due to the 
+lack of responsiveness in the touchscreen, but the rest is simply down to bad device performance. The Asus Fonepad 7
+ (FE171CG) is thus a frustrating device to use.The display is 
+unimpressive, to say the least. At 600x1024 pixels, the resolution is 
+way too low to be truly good at anything, Movies and videos play, but don't look especially impressive. This negates one of the biggest 
+advantages of having a larger screen. Additionally, even at its 
+brightest, the screen is not nearly bright enough indoors. Take it 
+outside under the mid-day sun and you might as well be looking at a blank 
+screen. Let's not forget to mention that there is no automatic 
+brightness setting, due to the lack of the required sensor on the front. You will
+ have to manually adjust brightness all the time, which can be a huge bother.The touchscreen is the cause of another list of problems. There
+ are clear accuracy issues, and you need to be very precise with your 
+taps to get selections right. This led to us tapping multiple 
+times to make certain selections. Smaller on-screen buttons are especially 
+hard to get to. Pressure is another fault area; the screen simply 
+doesn't respond to certain gestures if you don't press down hard enough. The amount of 
+pressure we're used to using on touchscreens is not enough get good responses. On the Asus Fonepad 7 
+(FE171CG), you need to really push down to get the screen to react.Battery
+ life is another disappointment. Despite the large 4,000mAh battery, the 
+device lasted for a very average 7 hours, 37 minutes in our 
+video loop test. Even with ordinary use, we found it dropped too fast 
+for a device this low-specced.Phone call quality and audio 
+performance were acceptable, and therefore redeem the Asus Fonepad 7 
+(FE171CG) to some extent. The device seems to have a decent antenna which picks up 
+network reception in places other devices we usually use run into trouble. Audio 
+output through the single front speaker is a bit too soft even at maximum volume, as is sound 
+output through headphones. Sound performance is 
+good enough, though. The Fonepad 7 
+(FE171CG) has enough bite in it to produce good audio, 
+provided you use good headphones or speakers.VerdictThe 
+Asus Fonepad 7 (FE171CG) has a decent camera, boasts of enough 
+internal storage, and runs fairly modern software. It's also well designed 
+for a tablet; it looks good and feels comfortable to use.However, that's where the good news ends. The 
+device is slow, laggy, and simply not up to the mark. It has a 
+below-average screen, problematic touch recognition, and an inability to keep
+ up with even the simplest of tasks. If you are looking for a tablet that you can also use as a phone, you could perhaps 
+consider this one. If you plan to replace your phone altogether, we'd recommend phablet-sized phones such as the Yu Yureka (Review | Pictures), which are a lot easier to handle. The 
+benefits of the bigger screen are negated by too many other factors 
+when it comes to the Asus Fonepad 7 (FE171CG).
+Asus Fonepad 7 (FE171CG) in pictures
+
+The new 
+Asus Fonepad 7 (FE171CG) offers improved specs and features over 
+previous versions of the device, including a better camera and more 
+storage. It sticks to the 7-inch display and Intel Atom SoC, and retains
+ the typical Asus tablet look and feel. Performance is of course important, but we are also eager to see whether the Rs. 10,999 price tag
+ is justified by the inclusion of a few new features and hardware 
+upgrades.
+
+Look and FeelEver since 
+the success of the Asus Google Nexus 7, Asus has tried 
+to stick to the same design formula as far as possible. Up front, the similarity is unmistakeable. It feels as though Asus has adopted an "if it ain't broke, don't fix it" strategy, 
+and we aren't complaining. It's a design that works for tablets.
+
+The 
+back is a bit different, of course. Our review sample came with an attractive champagne gold finish. Strangely enough, you will not find 
+this colour option on Flipkart, which is the official and exclusive 
+retailer for this device. The online retailer only sells two colour 
+options at the moment: black and white.
+
+There's a satisfying sense of 
+uniformity to the rest of the device. The Micro-SIM card slots are 
+covered by an 
+easy to open clip, which is also fairly secure when shut. The microSD 
+slot is uncovered, however, and this is the only thing disturbing the 
+clean, uniform edges. We don't like the insecurity of having something 
+as
+critical as a microSD card so unsecured, and we're a little surprised by
+ this. Asus doesn't supply a plastic dummy, so if you don't have a 
+microSD card inserted, the slot will be exposed to dust and lint.  
+
+The power button and 
+volume rocker are along the right edge, while the microUSB charging port
+ and 3.5mm audio port are on the top. The latter two should have been 
+on the bottom for a device of this size, in our opinion, but this is 
+subjective and a lot of people will have no problem with them the way they are.
+
+At
+ 280g, the Asus Fonepad 7 (FE171CG) is light for a tablet but too heavy 
+for a phone. This applies to its dimensions and bezel size as well. If you 
+intend to use this as your primary smartphone, it will not be an easy device 
+to get used to. If you just like your tablet to have data connectivity 
+and the handy ability to make phone calls and send texts, you'll be 
+comfortable with how the FE171CG feels.
+
+Specifications and SoftwareAsus
+ has stuck to the formula and kept some specifications similar to those of the 
+earlier Fonepad 7,
+ but there are some key changes. The 7-inch, 600x1024-pixel screen and Intel Atom Z2520 SoC remain unchanged, as does the 
+dual-SIM support and 3G connectivity. However, both SIM slots are 3G-capable in 
+this variant. Internal storage has been bumped up to 16GB, while 
+expandable storage support is still capped at 64GB. The RAM has helpfully been 
+increased to 2GB. The primary and secondary cameras have also received much
+ needed boosts, and are now 8-megapixels and 2-megapixels respectively.
+
+Because
+ of the large size of the device, there's a massive 4,000mAh battery (which is not
+ user-replaceable). As is now standard, Bluetooth v4.0 
+and Wi-Fi 802.11 a/b/g/n are present and proper. The dimensions and weight 
+have changed slightly, and now stand at 196x110.6x7.9mm and 280g 
+respectively.
+
+Asus has stuck with its Zen UI for the Fonepad 7 
+(FE171CG), although this time it is layered on top of Android 4.4 at the 
+core. It's an experience that will be familiar to anyone that has used any 
+recent Asus smartphone, and one that works well. It tries to replicate 
+the stock Android experience as closely as possible, while adding a few design elements of its own. This lends an air of familiarity to the 
+interface, while still keeping the look and feel distinctly Asus.
+
+The Fonepad 7 
+(FE171CG) does have a fair amount of bloatware which cannot be uninstalled. Some
+ of these, such as Asus' WebStorage cloud-based storage client and Clean 
+Master system maintenance app, might turn out to be handy, but you're 
+unlikely to use the majority of the other apps much. Some, such as Amazon Kindle, Facebook and 
+Flipboard, cannot be removed. This may prove 
+to be annoying and affects performance slightly because of the system 
+resources they use.
+
+CameraThe poor camera performance of 
+the previous Asus Fonepad 7 was one of its most significant weaknesses, 
+and that has thankfully been fixed to some extent with the new Asus 
+Fonepad 7 (FE171CG). The 8-megapixel shooter on the tablet features a
+ fairly quick autofocus system and some interesting filters.
+
+Colour
+ reproduction is usually accurate, although the camera doesn't perform 
+as well in low light. Indoor shots with poor lighting appear dull 
+and unexciting, although shots with more favourable lighting are good enough. 
+Outdoor shots are pleasant enough if you're using your tablet to take photos with, although 
+angles are not as wide as they could be. HDR mode doesn't have quite as 
+dramatic an effect as it does on most smartphones.The front camera is basic; only
+capable of 2-megapixel shots. Don't bother using it to shoot too many 
+selfies, as you won't get decent results. Images were grainy and 
+unimpressive, while the odd position of the lens means we were almost 
+always looking in the wrong direction. Stick to using it for Skype, at 
+best.
+
+(Click to see full size)
+
+PerformanceWe've been mostly positive about the Asus 
+Fonepad (FE171CG) so far, but performance is where our positivity ends. 
+The device disappointed us on multiple occasions with its below-par 
+handling of day-to-day tasks.
+
+Performance in our usual benchmarks is 
+poor across the board. AnTuTu gave us a score of 19,061, which was a fair bit lower than that of
+the Asus Zenfone 5 (Review | Pictures). Even two-year-old smartphones would produce better scores than this. Other benchmark tests produced similarly poor 
+results. 3DMark just didn't run, and GFXbench's score of 13fps can be attributed to the low-resolution screen. 
+
+Day-to-day performance is also poor. There's considerable
+ lag while unlocking the phone, launching apps and making selections. This is partly due to the 
+lack of responsiveness in the touchscreen, but the rest is simply down to bad device performance. The Asus Fonepad 7
+ (FE171CG) is thus a frustrating device to use.
+
+The display is 
+unimpressive, to say the least. At 600x1024 pixels, the resolution is 
+way too low to be truly good at anything, Movies and videos play, but don't look especially impressive. This negates one of the biggest 
+advantages of having a larger screen. Additionally, even at its 
+brightest, the screen is not nearly bright enough indoors. Take it 
+outside under the mid-day sun and you might as well be looking at a blank 
+screen. Let's not forget to mention that there is no automatic 
+brightness setting, due to the lack of the required sensor on the front. You will
+ have to manually adjust brightness all the time, which can be a huge bother.
+
+The touchscreen is the cause of another list of problems. There
+ are clear accuracy issues, and you need to be very precise with your 
+taps to get selections right. This led to us tapping multiple 
+times to make certain selections. Smaller on-screen buttons are especially 
+hard to get to. Pressure is another fault area; the screen simply 
+doesn't respond to certain gestures if you don't press down hard enough. The amount of 
+pressure we're used to using on touchscreens is not enough get good responses. On the Asus Fonepad 7 
+(FE171CG), you need to really push down to get the screen to react.
+
+Battery
+ life is another disappointment. Despite the large 4,000mAh battery, the 
+device lasted for a very average 7 hours, 37 minutes in our 
+video loop test. Even with ordinary use, we found it dropped too fast 
+for a device this low-specced.
+
+Phone call quality and audio 
+performance were acceptable, and therefore redeem the Asus Fonepad 7 
+(FE171CG) to some extent. The device seems to have a decent antenna which picks up 
+network reception in places other devices we usually use run into trouble. Audio 
+output through the single front speaker is a bit too soft even at maximum volume, as is sound 
+output through headphones. Sound performance is 
+good enough, though. The Fonepad 7 
+(FE171CG) has enough bite in it to produce good audio, 
+provided you use good headphones or speakers.
+
+VerdictThe 
+Asus Fonepad 7 (FE171CG) has a decent camera, boasts of enough 
+internal storage, and runs fairly modern software. It's also well designed 
+for a tablet; it looks good and feels comfortable to use.
+
+However, that's where the good news ends. The 
+device is slow, laggy, and simply not up to the mark. It has a 
+below-average screen, problematic touch recognition, and an inability to keep
+ up with even the simplest of tasks. 
+
+If you are looking for a tablet that you can also use as a phone, you could perhaps 
+consider this one. If you plan to replace your phone altogether, we'd recommend phablet-sized phones such as the Yu Yureka (Review | Pictures), which are a lot easier to handle. The 
+benefits of the bigger screen are negated by too many other factors 
+when it comes to the Asus Fonepad 7 (FE171CG).
+

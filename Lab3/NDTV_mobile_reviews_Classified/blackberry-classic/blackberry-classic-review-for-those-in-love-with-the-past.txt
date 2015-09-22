@@ -1,0 +1,330 @@
+BlackBerry Classic Review: For Those in Love With the Past
+
+Looking back at the road BlackBerry has 
+taken over the past few years, we see a lot of bumps, detours and 
+U-turns. The world has changed a lot since the Canadian firm was on top,
+ and we're now used to six-month refresh cycles and super-slim devices 
+with insanely fast processors, super-crisp screens and phenomenal 
+cameras. BlackBerry doesn't have the sort of momentum it would need to 
+compete at that level again, but even so, devices such as the Z3 and 
+Passport have made it seem as though there is a competent driver in the
+ seat again. The BlackBerry Classic, as its name suggests, is a return to 
+the old formula that made BlackBerries successful in the first place. Is
+ it a sign that the company is desperate enough to throw out years of 
+change in order to cling to whichever fans it has left? Do people still 
+want the things that first attracted them to BlackBerry devices? We're 
+eager to answer those questions and also see if the Classic has anything
+ to tempt new users with.Look and feelFirst of all, this 
+phone is bulky. Even by BlackBerry standards, it's heavier, wider and 
+taller than many of its predecessors and you'll definitely notice the 
+difference between this phone and the popular waifs of today from Apple,
+ Samsung, Sony and others. That's partially because of the keyboard and 
+"utility belt" including an optical trackpad, but also because the screen is quite a bit bigger than 
+the ones on the much-loved Bold and Curve series devices. BlackBerry 
+clearly had to balance physical size with up-to-date features, and this 
+is the result.Unlike the Passport (Review | Photos) that came before it, the 
+Classic doesn't look very premium. It's all plastic, including the grey 
+band bordering the front. The rear has an interesting texture which 
+makes it very easy to grip, but again makes the Classic feel more 
+brutish than refined. This is the first device since BlackBerry released
+ its BB10 platform to combine touch controls and the old-school 
+trackpad, and you'll see it in its traditional spot, front and centre.The
+ trackpad and its associated buttons were brought back apparently by 
+popular demand, after having been dropped in favour of a 
+touchscreen-only experience with the Q5 (Review | Photos) and Q10 (Review | Photos). We've pointed out 
+before that BB10's gesture-based interface is not the easiest to get 
+used to, and it seems that the message has finally gotten through.The
+ keyboard is laid out flat, without the slight upward curve that 
+many previous devices have had. Thankfully, it has four rows and pretty 
+much the standard BB layout - not the three-row hybrid that BlackBerry 
+created for the Passport. It's comfortable and easy to get used to. The
+ Nano-SIM and microSD card slots are in individual trays on the right, 
+while the volume buttons are on the right with a button between them 
+that triggers the BlackBerry Assistant's voice functions. The power 
+button is right in the centre of the top, which we found inconvenient. 
+The 3.5mm headset socket is also on top, and the Micro-USB port is on 
+the bottom.The rear panel is not removable and the battery is not
+ accessible. A slightly protruding strip runs along the upper rear and 
+houses the camera on one end. On the other is a rather overstated 
+"Classic" logo. Overall, this phone doesn't have the same kind of iconic
+ appeal that previous models have had.SpecificationsOn the
+ inside, BlackBerry has gone with a dual-core 1.5GHz Qualcomm MSM8960 
+processor, the Snapdragon S4 Plus, which is now several years old. We've
+ seen it before in the BlackBerry Z10 (Review | Photos), and that phone is old enough to 
+make this very disappointing. It's a far cry from the modern Snapdragon 
+801 in the Passport. The screen measures 3.5 inches diagonally 
+and is perfectly square. It has the same 720x720 resolution as the Q5 
+and Q10, but is a bit larger. It's crisp and bright enough - definitely a
+ step up from older models but not as sharp as the one on the Passport. There's
+ 2GB of RAM and 16GB of built-in storage, though micro-SD cards of up to
+ 128GB are supported. The battery has a 2,515mAh capacity. Wi-Fi b/g/n 
+is supported along with Bluetooth 4.0, GPS, NFC and even FM radio. BlackBerry states that LTE will work on Indian bands. The 
+rear camera has an 8-megapixel sensor while the one on the front is 2 
+megapixels.Software and usabilityThe Classic ships with 
+BlackBerry OS 10.3.1, which is much the same as the software that 
+shipped with the Passport. The Amazon App Store is preloaded, and so you
+ can download Android apps without any hiccups. BlackBerry World is 
+still there too, and unfortunately you'll have to go through both 
+separately if you want to check whether a native app is available before
+ downloading an Android version. When installing apps, a security 
+mechanism called BlackBerry Guardian kicks in and will let you know if 
+malware is detected or if apps have known compatibility issues with BB 
+OS.Common Android apps run well enough, considering the hardware 
+available, but there will be scaling issues thanks to the square screen 
+and compatibility issues with apps that use Google Play services. The 
+Classic displays a message the first time you run an Android app 
+informing you that you can change the scaling to fit the screen. You
+ can navigate around using the trackpad as well as the touchscreen. In 
+most cases, it's possible to avoid using the BB10 gestures altogether. 
+Since this phone has physical Call and End buttons, the soft Phone 
+button on all menu screens has been replaced by a Hub button. You can 
+still reach the Hub by scrolling left from the first homescreen too.You'll notice a blue highlight around controls and text fields when you skim a finger across the trackpad, and there's even a little cursor that you can move around the screen in the browser. For the most part, direct-selection touchscreen conventions happily coexist with trackpad-cursor conventions and you can safely ignore either if you're more comfortable with the other.Running
+ apps are still shown as tiles on the first homescreen, and you can use 
+the Back button to kill them when selected. Up to eight tiles can be 
+open but only four fit on screen. A little icon on the bottom shows you 
+if there are more above or below the ones you can see. Swiping the 
+trackpad first moves the cursor between elements on screen, and clicking
+ the scroll bar on the bottom lets you flick between menu pages.Typing
+ should come naturally to any legacy BlackBerry user, and there are 
+loads of predefined and configurable shortcuts too. When on any homescreen, you can press and hold keys to launch apps or speed dial contacts. Within the Hub, you can quickly move around and perform actions such as jumping to the top and bottom of your inbox list or a message body by tapping T and B respectively. R opens a reply and F lets you forward a message.The End button takes 
+you out of any app and back to the first homescreen. We could never 
+quite get the hang of the swipe gestures required on previous BB10 devices, 
+so we quickly became used to using that as a Home button.Things 
+like the Hub feel a little cramped on the 3.5-inch screen, but the 
+tradeoff is a keyboard that's actually quite good. However we aren't 
+sure how many smartphone users are still QWERTY loyalists - there were 
+plenty who claimed they would never get used to touchscreens in the 
+beginning, but are now happily accustomed to iOS or Android. BlackBerry 
+doesn't just have to be as good as its competitors - it has to be better
+ than them.PerformanceWe found that the BlackBerry platform suffered a little in terms of responsiveness, attributable to the aged processor 
+powering the Classic. It has enough power to for the OS itself to chug 
+along, but that's about it. Apps take a while to load, and there's a long, 
+annoying animation as you're forced back to the first homescreen, a new 
+tile appears, and then zooms to fill the screen. Audio and video 
+files play well, but you won't enjoy movies much on the square screen. 
+The Classic comes with a neat headset with flat tangle-resistant cables,
+ a lapel clip, and replaceable fitted rubber ear tips. It sounds good, 
+but is a bit too soft.Call quality is predictably solid, but what
+ impressed us most of all was this phone's battery life. Despite having a
+ perfectly ordinary battery, it lasted for a very impressive 14 hours, 
+54 minutes in our video loop test. This might not be directly comparable
+ to other phones thanks to the non-standard screen aspect ratio, but 
+it's still a fantastic result.As with the BlackBerry Passport, 
+the Classic did not run most of our Android-based benchmarks, and even 
+if it did, we wouldn't count the results as comparable thanks to the 
+software translation required. SunSpider and Mozilla Kraken, which runs 
+in the browser, gave us scores of 1,285.9ms and 29042.1ms respectively, 
+which are both considerably poorer than the Passport managed. (Click to see full size)The
+ camera takes 1:1 photos by default which fills up the screen nicely but
+ doesn't work all that well anywhere else. We found that the camera took
+ way too long to lock focus - moving objects weren't captured well. 
+Tapping the screen rather than letting the Classic autofocus turned out 
+better in most situations. Photos looked oversaturated on the 
+Classic's screen but were more accurate when reviewed on a PC monitor. 
+Quality wasn't all that great - we noticed quite a lot of compression 
+which made objects seem artificial. Low-light results were highly 
+unpredictable in terms of noise and sharpness, and objects at even a 
+slight distance were not captured clearly. Videos are recorded at 720p by default and are a little shaky, with predictably low detail levels even in bright daylight.(Click to see full size)VerdictMaybe the
+ Classic could have been a serious contender a few years ago, but like 
+most things BlackBerry has done since its decline began, it's just too 
+little too late. The Classic could have helped the company maintain its 
+momentum, but it won't bring back users who have already moved on. Sure 
+it has a physical keyboard, but people seem fine with Swype or Swiftkey 
+if not iOS and Android's stock offerings. Sure it handles email and 
+messaging like a pro, but that isn't worth the other tradeoffs. Sure it 
+has world-class security features for ultra-rigid organisations, but it 
+isn't the only game in town anymore. The BlackBerry Classic could still be a secondary work-only phone for a lot of people. Considering its official price tag of Rs. 31,990, it will appeal only to die-hard BlackBerry loyalists. The Samsung Galaxy S5 (Review | Photos), for instance, is available online for slightly less and comes across as a device that most people would be happier to own.Further
+ dampening its appeal, everything about this phone, from its looks to its capabilities, screams mid-range. 
+Think of it more as a spiritual successor to the Curve series than the Bold series. BlackBerry clearly wants to 
+reserve the big guns for devices it considers more modern. Maybe the 
+Classic could be a stepping stone for legacy users who buy it for 
+the hardware but eventually get comfortable enough with BB10 to move on to a 
+Passport or other future device. BlackBerry Classic in pictures
+
+The BlackBerry Classic, as its name suggests, is a return to 
+the old formula that made BlackBerries successful in the first place. Is
+ it a sign that the company is desperate enough to throw out years of 
+change in order to cling to whichever fans it has left? Do people still 
+want the things that first attracted them to BlackBerry devices? We're 
+eager to answer those questions and also see if the Classic has anything
+ to tempt new users with.
+
+Look and feelFirst of all, this 
+phone is bulky. Even by BlackBerry standards, it's heavier, wider and 
+taller than many of its predecessors and you'll definitely notice the 
+difference between this phone and the popular waifs of today from Apple,
+ Samsung, Sony and others. That's partially because of the keyboard and 
+"utility belt" including an optical trackpad, but also because the screen is quite a bit bigger than 
+the ones on the much-loved Bold and Curve series devices. BlackBerry 
+clearly had to balance physical size with up-to-date features, and this 
+is the result.
+
+Unlike the Passport (Review | Photos) that came before it, the 
+Classic doesn't look very premium. It's all plastic, including the grey 
+band bordering the front. The rear has an interesting texture which 
+makes it very easy to grip, but again makes the Classic feel more 
+brutish than refined. This is the first device since BlackBerry released
+ its BB10 platform to combine touch controls and the old-school 
+trackpad, and you'll see it in its traditional spot, front and centre.
+
+The
+ trackpad and its associated buttons were brought back apparently by 
+popular demand, after having been dropped in favour of a 
+touchscreen-only experience with the Q5 (Review | Photos) and Q10 (Review | Photos). We've pointed out 
+before that BB10's gesture-based interface is not the easiest to get 
+used to, and it seems that the message has finally gotten through.
+
+The
+ keyboard is laid out flat, without the slight upward curve that 
+many previous devices have had. Thankfully, it has four rows and pretty 
+much the standard BB layout - not the three-row hybrid that BlackBerry 
+created for the Passport. It's comfortable and easy to get used to. 
+
+The
+ Nano-SIM and microSD card slots are in individual trays on the right, 
+while the volume buttons are on the right with a button between them 
+that triggers the BlackBerry Assistant's voice functions. The power 
+button is right in the centre of the top, which we found inconvenient. 
+The 3.5mm headset socket is also on top, and the Micro-USB port is on 
+the bottom.
+
+The rear panel is not removable and the battery is not
+ accessible. A slightly protruding strip runs along the upper rear and 
+houses the camera on one end. On the other is a rather overstated 
+"Classic" logo. Overall, this phone doesn't have the same kind of iconic
+ appeal that previous models have had.
+
+SpecificationsOn the
+ inside, BlackBerry has gone with a dual-core 1.5GHz Qualcomm MSM8960 
+processor, the Snapdragon S4 Plus, which is now several years old. We've
+ seen it before in the BlackBerry Z10 (Review | Photos), and that phone is old enough to 
+make this very disappointing. It's a far cry from the modern Snapdragon 
+801 in the Passport. 
+
+The screen measures 3.5 inches diagonally 
+and is perfectly square. It has the same 720x720 resolution as the Q5 
+and Q10, but is a bit larger. It's crisp and bright enough - definitely a
+ step up from older models but not as sharp as the one on the Passport. 
+
+There's
+ 2GB of RAM and 16GB of built-in storage, though micro-SD cards of up to
+ 128GB are supported. The battery has a 2,515mAh capacity. Wi-Fi b/g/n 
+is supported along with Bluetooth 4.0, GPS, NFC and even FM radio. BlackBerry states that LTE will work on Indian bands. The 
+rear camera has an 8-megapixel sensor while the one on the front is 2 
+megapixels.
+
+Software and usabilityThe Classic ships with 
+BlackBerry OS 10.3.1, which is much the same as the software that 
+shipped with the Passport. The Amazon App Store is preloaded, and so you
+ can download Android apps without any hiccups. BlackBerry World is 
+still there too, and unfortunately you'll have to go through both 
+separately if you want to check whether a native app is available before
+ downloading an Android version. When installing apps, a security 
+mechanism called BlackBerry Guardian kicks in and will let you know if 
+malware is detected or if apps have known compatibility issues with BB 
+OS.
+
+Common Android apps run well enough, considering the hardware 
+available, but there will be scaling issues thanks to the square screen 
+and compatibility issues with apps that use Google Play services. The 
+Classic displays a message the first time you run an Android app 
+informing you that you can change the scaling to fit the screen. 
+
+You
+ can navigate around using the trackpad as well as the touchscreen. In 
+most cases, it's possible to avoid using the BB10 gestures altogether. 
+Since this phone has physical Call and End buttons, the soft Phone 
+button on all menu screens has been replaced by a Hub button. You can 
+still reach the Hub by scrolling left from the first homescreen too.You'll notice a blue highlight around controls and text fields when you skim a finger across the trackpad, and there's even a little cursor that you can move around the screen in the browser. For the most part, direct-selection touchscreen conventions happily coexist with trackpad-cursor conventions and you can safely ignore either if you're more comfortable with the other.
+
+Running
+ apps are still shown as tiles on the first homescreen, and you can use 
+the Back button to kill them when selected. Up to eight tiles can be 
+open but only four fit on screen. A little icon on the bottom shows you 
+if there are more above or below the ones you can see. Swiping the 
+trackpad first moves the cursor between elements on screen, and clicking
+ the scroll bar on the bottom lets you flick between menu pages.
+
+Typing
+ should come naturally to any legacy BlackBerry user, and there are 
+loads of predefined and configurable shortcuts too. When on any homescreen, you can press and hold keys to launch apps or speed dial contacts. Within the Hub, you can quickly move around and perform actions such as jumping to the top and bottom of your inbox list or a message body by tapping T and B respectively. R opens a reply and F lets you forward a message.
+
+The End button takes 
+you out of any app and back to the first homescreen. We could never 
+quite get the hang of the swipe gestures required on previous BB10 devices, 
+so we quickly became used to using that as a Home button.
+
+Things 
+like the Hub feel a little cramped on the 3.5-inch screen, but the 
+tradeoff is a keyboard that's actually quite good. However we aren't 
+sure how many smartphone users are still QWERTY loyalists - there were 
+plenty who claimed they would never get used to touchscreens in the 
+beginning, but are now happily accustomed to iOS or Android. BlackBerry 
+doesn't just have to be as good as its competitors - it has to be better
+ than them.
+
+PerformanceWe found that the BlackBerry platform suffered a little in terms of responsiveness, attributable to the aged processor 
+powering the Classic. It has enough power to for the OS itself to chug 
+along, but that's about it. Apps take a while to load, and there's a long, 
+annoying animation as you're forced back to the first homescreen, a new 
+tile appears, and then zooms to fill the screen. 
+
+Audio and video 
+files play well, but you won't enjoy movies much on the square screen. 
+The Classic comes with a neat headset with flat tangle-resistant cables,
+ a lapel clip, and replaceable fitted rubber ear tips. It sounds good, 
+but is a bit too soft.
+
+Call quality is predictably solid, but what
+ impressed us most of all was this phone's battery life. Despite having a
+ perfectly ordinary battery, it lasted for a very impressive 14 hours, 
+54 minutes in our video loop test. This might not be directly comparable
+ to other phones thanks to the non-standard screen aspect ratio, but 
+it's still a fantastic result.
+
+As with the BlackBerry Passport, 
+the Classic did not run most of our Android-based benchmarks, and even 
+if it did, we wouldn't count the results as comparable thanks to the 
+software translation required. SunSpider and Mozilla Kraken, which runs 
+in the browser, gave us scores of 1,285.9ms and 29042.1ms respectively, 
+which are both considerably poorer than the Passport managed. 
+
+(Click to see full size)
+
+The
+ camera takes 1:1 photos by default which fills up the screen nicely but
+ doesn't work all that well anywhere else. We found that the camera took
+ way too long to lock focus - moving objects weren't captured well. 
+Tapping the screen rather than letting the Classic autofocus turned out 
+better in most situations. 
+
+Photos looked oversaturated on the 
+Classic's screen but were more accurate when reviewed on a PC monitor. 
+Quality wasn't all that great - we noticed quite a lot of compression 
+which made objects seem artificial. Low-light results were highly 
+unpredictable in terms of noise and sharpness, and objects at even a 
+slight distance were not captured clearly. Videos are recorded at 720p by default and are a little shaky, with predictably low detail levels even in bright daylight.
+
+(Click to see full size)
+
+VerdictMaybe the
+ Classic could have been a serious contender a few years ago, but like 
+most things BlackBerry has done since its decline began, it's just too 
+little too late. The Classic could have helped the company maintain its 
+momentum, but it won't bring back users who have already moved on. Sure 
+it has a physical keyboard, but people seem fine with Swype or Swiftkey 
+if not iOS and Android's stock offerings. Sure it handles email and 
+messaging like a pro, but that isn't worth the other tradeoffs. Sure it 
+has world-class security features for ultra-rigid organisations, but it 
+isn't the only game in town anymore. 
+
+The BlackBerry Classic could still be a secondary work-only phone for a lot of people. Considering its official price tag of Rs. 31,990, it will appeal only to die-hard BlackBerry loyalists. The Samsung Galaxy S5 (Review | Photos), for instance, is available online for slightly less and comes across as a device that most people would be happier to own.
+
+Further
+ dampening its appeal, everything about this phone, from its looks to its capabilities, screams mid-range. 
+Think of it more as a spiritual successor to the Curve series than the Bold series. BlackBerry clearly wants to 
+reserve the big guns for devices it considers more modern. Maybe the 
+Classic could be a stepping stone for legacy users who buy it for 
+the hardware but eventually get comfortable enough with BB10 to move on to a 
+Passport or other future device.
+

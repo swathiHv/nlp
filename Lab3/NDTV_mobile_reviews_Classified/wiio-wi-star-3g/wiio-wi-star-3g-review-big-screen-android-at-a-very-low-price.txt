@@ -1,0 +1,166 @@
+Wiio Wi Star 3G Review: Big Screen Android at a Very Low Price
+
+Wiio
+ is a company that started out as an Ebay seller. This Jaipur-based 
+upstart claims to have sold 10,000 units of its first phone, the Wiio WI5, in around two months. The WI5 is moderately priced but serves as Wiio's top-end device. Now, the company has decided to sell an 
+Android phone at a bargain basement price. Looking past its tongue-twisting moniker, the Wiio Wi Star 3G does have some decent specs 
+under the hood for a phone that is priced so low. Wiio claims that the 
+Wi Star 3G is India's most affordable 3G smartphone with a 5-inch 
+screen. Let's find out if this distinction is something to be proud of 
+and if it should be reason enough for one to buy the phone. Look and feelThe
+ Wi Star 3G looks like any other candybar smartphone and doesn't really
+ have any design element that sets it apart. Having said 
+that, for a phone that costs so little, the Wi Star 3G is fairly well-built.
+ At 9.8mm it isn't the slimmest smartphone by far, but 
+the plastic body does feel sturdy.It is available in 
+white and black. The black variant has a blue rear cover which 
+has a textured surface that feels good to touch. At the bottom is the 
+Micro-USB port and a microphone. The left and the right edges of the 
+phone house the volume rocker and the power button respectively. Both 
+these buttons have decent tactile feedback. The 3.5mm audio jack sits on
+ the left end of the top edge. There is a row of capacitive 
+buttons below the screen. They are not backlit, making navigating 
+through the OS a bit of a bother in the dark. Above the display one can
+ find the earpiece and the front-facing camera. Two horizontal slits for the speaker sit in the lower left corner on the rear. The camera causes a slight bump on the rear and the flash lies below it. Prying open the 
+cover reveals the battery compartment, slots for one micro-SIM and 
+one regular SIM card, and a slot for the microSD card. The 
+5-inch TN screen has a resolution of 480x854. It doesn't have any toughened
+ glass for protection, which is expected considering its low cost. The display is dull and there is absolutely no vibrancy in the 
+colours. Both, viewing angles and sunlight legibility are bad. Text
+ has jaggies and we also noticed some pixellation in places. Specifications, software and cameraUnder
+ the hood lies a Mediatek MT6572 SoC with two cores running at 1.3GHz 
+each. There is 512MB of RAM and 4GB of internal storage, which can be expanded by up to 32GB using a microSD card. The phone has a 
+5-megapixel camera on the rear and a 2-megapixel one on the front. It 
+can connect to Bluetooth accessories and Wi-Fi networks. It can also connect to 3G networks 
+on the 2100MHz frequency band. It has a 2,000mAh battery providing the juice. The
+ phone runs Android 4.4 KitKat in its vanilla state. We like this 
+approach because it helps in keeping the software light. Wiio adds a few
+ third-party apps such as QuickOffice, Facebook and WhatsApp and most users
+ will find these pretty useful. The only embellishment we found in 
+the software is present in the lock screen: a tacky Wiio logo replaces the usual unlock icon. (Click for full size)The default camera app is from the Gingerbread 
+days and is bereft of manual settings. In any case, no amount of 
+tweaking could help improve the quality of the images captured by the 
+5-megapixel primary camera. There is no autofocus and all the images we captured were blurry and messy. The few times we managed to 
+get a decent shot, the colours were completely off and highlights 
+were blown out. There is an HDR mode but it is pointless using it because 
+the camera takes a lot of time to capture each frame and the resulting shot is 
+almost always a hazy mess. Low-light performance was really bad, as was the front camera in all conditions. The quality of captured video was also unsatisfactory. The Wiio Wi Star 3G is not a phone anyone should be considering for its
+ camera.PerformanceUnless the Wi Star 3G is filled with a 
+tonne of apps, one can generally expect fairly lag-free performance. However, we did come across a few occasions on which the phone 
+would stutter and find it difficult to process taps 
+and swipes. It isn't so bad that it breaks the experience entirely, and once again, we find ourselves justifying it because of the low price tag We 
+also have some numbers for those who care about it. Be forewarned 
+though, they aren't exciting at all. In the AnTuTu and 
+Quadrant benchmark tests, the phone scored 9,775 and 4,200 respectively. 
+GFXbench failed to run because 512MB of RAM wasn't sufficient for it. In
+ the 3D Mark Ice Storm test the Wi Star 3G logged 1,958 points.We
+ tried our regular collection of videos and the phone could handle only 
+videos up to 720p resolution. Our 1080p videos stuttered and 
+skipped during playback. The speaker can get pretty loud but it sounds tinny. The bundled headset is of the in-ear 
+kind and it fits nicely but sounds hollow. The sound 
+quality in calls was alright but we kept dropping network even in areas 
+where cellphone reception is generally good. It happened on two 
+different cellular networks, which indicates that this is a problem with
+ the phone. In our video loop battery test. the phone lasted 5 hours and
+ 11 minutes. In real-world situations this should translate to less than a full day, which isn't good for any smartphone. VerdictThe
+ Wiio Wi Star 3G is priced at Rs. 3,999 and is available exclusively on 
+Ebay. While there are very few competing smartphones at that price level, we are
+ still on the fence about recommending this device to our readers. You'd be better off saving up some more money and 
+picking up one of 
+the Android One phones, whether this is your first smartphones or you're just on a really tight budget.  
+
+Wiio
+ is a company that started out as an Ebay seller. This Jaipur-based 
+upstart claims to have sold 10,000 units of its first phone, the Wiio WI5, in around two months. The WI5 is moderately priced but serves as Wiio's top-end device. Now, the company has decided to sell an 
+Android phone at a bargain basement price. 
+
+Looking past its tongue-twisting moniker, the Wiio Wi Star 3G does have some decent specs 
+under the hood for a phone that is priced so low. Wiio claims that the 
+Wi Star 3G is India's most affordable 3G smartphone with a 5-inch 
+screen. Let's find out if this distinction is something to be proud of 
+and if it should be reason enough for one to buy the phone. 
+
+Look and feelThe
+ Wi Star 3G looks like any other candybar smartphone and doesn't really
+ have any design element that sets it apart. Having said 
+that, for a phone that costs so little, the Wi Star 3G is fairly well-built.
+ At 9.8mm it isn't the slimmest smartphone by far, but 
+the plastic body does feel sturdy.
+
+It is available in 
+white and black. The black variant has a blue rear cover which 
+has a textured surface that feels good to touch. At the bottom is the 
+Micro-USB port and a microphone. The left and the right edges of the 
+phone house the volume rocker and the power button respectively. Both 
+these buttons have decent tactile feedback. The 3.5mm audio jack sits on
+ the left end of the top edge. 
+
+There is a row of capacitive 
+buttons below the screen. They are not backlit, making navigating 
+through the OS a bit of a bother in the dark. Above the display one can
+ find the earpiece and the front-facing camera. Two horizontal slits for the speaker sit in the lower left corner on the rear. The camera causes a slight bump on the rear and the flash lies below it. Prying open the 
+cover reveals the battery compartment, slots for one micro-SIM and 
+one regular SIM card, and a slot for the microSD card. 
+
+The 
+5-inch TN screen has a resolution of 480x854. It doesn't have any toughened
+ glass for protection, which is expected considering its low cost. The display is dull and there is absolutely no vibrancy in the 
+colours. Both, viewing angles and sunlight legibility are bad. Text
+ has jaggies and we also noticed some pixellation in places. 
+
+Specifications, software and cameraUnder
+ the hood lies a Mediatek MT6572 SoC with two cores running at 1.3GHz 
+each. There is 512MB of RAM and 4GB of internal storage, which can be expanded by up to 32GB using a microSD card. The phone has a 
+5-megapixel camera on the rear and a 2-megapixel one on the front. It 
+can connect to Bluetooth accessories and Wi-Fi networks. It can also connect to 3G networks 
+on the 2100MHz frequency band. It has a 2,000mAh battery providing the juice. 
+
+The
+ phone runs Android 4.4 KitKat in its vanilla state. We like this 
+approach because it helps in keeping the software light. Wiio adds a few
+ third-party apps such as QuickOffice, Facebook and WhatsApp and most users
+ will find these pretty useful. The only embellishment we found in 
+the software is present in the lock screen: a tacky Wiio logo replaces the usual unlock icon. 
+
+(Click for full size)The default camera app is from the Gingerbread 
+days and is bereft of manual settings. In any case, no amount of 
+tweaking could help improve the quality of the images captured by the 
+5-megapixel primary camera. There is no autofocus and all the images we captured were blurry and messy. The few times we managed to 
+get a decent shot, the colours were completely off and highlights 
+were blown out. There is an HDR mode but it is pointless using it because 
+the camera takes a lot of time to capture each frame and the resulting shot is 
+almost always a hazy mess. Low-light performance was really bad, as was the front camera in all conditions. The quality of captured video was also unsatisfactory. The Wiio Wi Star 3G is not a phone anyone should be considering for its
+ camera.
+
+PerformanceUnless the Wi Star 3G is filled with a 
+tonne of apps, one can generally expect fairly lag-free performance. However, we did come across a few occasions on which the phone 
+would stutter and find it difficult to process taps 
+and swipes. It isn't so bad that it breaks the experience entirely, and once again, we find ourselves justifying it because of the low price tag 
+
+We 
+also have some numbers for those who care about it. Be forewarned 
+though, they aren't exciting at all. In the AnTuTu and 
+Quadrant benchmark tests, the phone scored 9,775 and 4,200 respectively. 
+GFXbench failed to run because 512MB of RAM wasn't sufficient for it. In
+ the 3D Mark Ice Storm test the Wi Star 3G logged 1,958 points.
+
+We
+ tried our regular collection of videos and the phone could handle only 
+videos up to 720p resolution. Our 1080p videos stuttered and 
+skipped during playback. The speaker can get pretty loud but it sounds tinny. The bundled headset is of the in-ear 
+kind and it fits nicely but sounds hollow. 
+
+The sound 
+quality in calls was alright but we kept dropping network even in areas 
+where cellphone reception is generally good. It happened on two 
+different cellular networks, which indicates that this is a problem with
+ the phone. In our video loop battery test. the phone lasted 5 hours and
+ 11 minutes. In real-world situations this should translate to less than a full day, which isn't good for any smartphone. 
+
+VerdictThe
+ Wiio Wi Star 3G is priced at Rs. 3,999 and is available exclusively on 
+Ebay. While there are very few competing smartphones at that price level, we are
+ still on the fence about recommending this device to our readers. You'd be better off saving up some more money and 
+picking up one of 
+the Android One phones, whether this is your first smartphones or you're just on a really tight budget. 
+

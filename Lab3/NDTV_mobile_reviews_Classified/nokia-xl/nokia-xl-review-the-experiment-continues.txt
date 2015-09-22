@@ -1,0 +1,342 @@
+Nokia XL Review: The Experiment Continues
+
+In our review of the pioneering Nokia X nearly a month ago, we said 
+we were uncertain of the Android-based platform's future. Considering 
+the fact that Microsoft was, at the time, just about to gain complete 
+control over the Finnish phonemaker, it seemed odd that the software 
+giant would embrace something fundamentally dependent on its biggest 
+competitor's work.Since then, the Microsoft-Nokia acquisition has
+ been finalised, and not only has the Nokia XL been launched, but 
+rumours of an improved second-generation Nokia X line are growing 
+stronger. On the other hand, the Nokia X has received a hefty price cut 
+and is already selling for around 25 percent less than its initial 
+launch price.Despite its obvious shortcomings, there's definitely
+ a place in the market for the Nokia X, even with strong new competition
+ in the form of the Motorola Moto E. Things aren't quite as clear when 
+it comes to the Nokia XL, a larger and more expensive variation of the 
+X. In terms of features and specifications, the two are almost 
+identical, which means the XL is at a disadvantage in a market already 
+crowded with relatively modern Android and even Windows Phone devices.The
+ Nokia X line was meant to sit below the Lumias and attract entry-level 
+customers to the Nokia brand, in the hope that they would someday 
+graduate to a more expensive device. However, the XL is more expensive 
+than the Lumia 525 and is just about the same price as the brand new 
+Lumia 630 Dual SIM. Interestingly, while the 630 is a bit more powerful, it 
+doesn't have a front camera, flash, or some of the other niceties that 
+the XL does. We'll examine this curious state of affairs along with our 
+evaluation of the XL on its own merits.Look and feelThe 
+Nokia XL is a magnified version of the Nokia X in every way. It has 
+exactly the same proportions, lines and angles, and is even available in
+ the same retina-scalding palette of primary colours. The main 
+differences are the addition of a flash on the rear panel and a camera 
+on the front. The only other changes are inconsequentially minor: the 
+3.5mm headset socket is in the centre of the top edge rather than to one
+ side, and the speaker grille has evolved from a small patch to a long 
+slit.There's still only a single capacitive button on the front 
+face, and it's still not backlit. The front-facing camera sits next to 
+the Nokia logo, leaving the rest of the front pretty bare. There are no 
+status or charging indicators, but Nokia has included its Glance screen 
+tech which lets you see the time and notification alerts even when the 
+phone is in standby.The power and volume buttons are on the right
+ side, and the left edge is blank as is the case with most Nokias now. 
+The brightly coloured shell extends around the sides of the phone 
+itself, giving the front face a distinct border, but also adding bulk. 
+Beneath the shell, you'll see the removable battery and slots for two 
+Micro-SIM cards and a microSD card.The XL is pretty hefty and 
+unwieldy. The hard corners are even more of a problem than they were on 
+the X because you'll need to stretch to reach the corners of the larger 
+screen with your thumbs. At 190g, this phone is noticeably heavier than 
+nearly everything else of its size on the market today. Construction
+ quality is absolutely top-notch. The Nokia XL's finish is just as good 
+as that of any of the more expensive Lumias. You won't see rough edges 
+or cheap materials anywhere. The white and black variants actually feel 
+pretty premium.Specifications and featuresIf you were 
+hoping that Nokia would redefine value at this price point, you'll be 
+disappointed. The Nokia XL is built around a rather arthritic Qualcomm 
+Snapdragon S4 Play processor; a two year old dual-core model that runs 
+at 1GHz. There's 768MB of RAM; a paltry 256MB improvement over the Nokia
+ X. There's 4GB of internal storage space, of which less than 2GB is 
+available to users. You'll have to buy a microSD card, and at least the 
+XL supports capacities up to 32GB.The screen measures 5 inches 
+across diagonally, compared to its smaller sibling's 4-inch screen. It 
+doesn't sound like a huge difference, but it is. Sadly, the screen's 
+resolution wasn't scaled up with its size, so it's still the same 
+800x480 grid, except that it looks a whole lot worse. This works out to 
+186.6 pixels per inch, which is the lowest density we've seen in a very 
+long time - most phones around this price range and especially this 
+screen size are at least 960x540, if not 1280x720.Connectivity is
+ adequate - the XL supports 3G data only on the primary SIM, but there's
+ also Wi-Fi b/g/n and Bluetooth 3.0. There are a few sensors - an 
+accelerometer, proximity sensor and ambient light sensor - but nothing 
+fancy. The software is identical to that on the Nokia X, which 
+you can read about in great detail here. Android fans will find a lot of
+ familiar sights below the surface and it's all still fairly easy to 
+use, but the Nokia XL is ultimately limited by the underpowered 
+hardware. The single back/home button is also still annoying, as is the 
+somewhat unpredictability of whether you'll end up on the home screen or
+ Nokia's Fastlane screen of notifications and recently used apps. There 
+are also no shortcuts and no dock for frequently used apps such as the 
+phone dialler. Of course you're free to customise the experience and 
+experiment with grafting on the missing parts of the Android experience.Nokia's
+ excellent Mix Radio and Here maps are complemented by a large number of
+ preloaded apps and games: Bookmyshow, Facebook, Twitter, PicsArt, 
+Plants vs Zombies, Danger Dash, Bejeweled 2, Astro File Manager, Opera, 
+Vine, BBM, WeChat, NewsHunt and Sony Liv, amongst others.A 
+Cleanup app shows you a list of recently used applications that you can 
+close with a single tap, as well as a display of the amount of RAM 
+currently used. It's nice to have since there's no other way to switch 
+between running apps or close them.PerformanceThe Nokia XL
+ performed very slightly better in our tests than its smaller sibling 
+did, which is probably down to the marginal increase in the amount of 
+RAM available. Since all other hardware is the same, there's nothing 
+else we can attribute this result to. That's still not saying much, as 
+both sets of scores are amongst the lowest we have on record. The
+ interface is quite laggy, but we didn't see quite as many "Please wait"
+ screens as we did on the Nokia X. There still isn't much hope for video
+ playback, though. Even 720p videos were laggy to the point of being 
+unwatchable. Audio was loud enough, but not clear.We had no 
+problem with call quality, though there was at least one place in which 
+3G reception dropped out and we were forced to fall back on EDGE even 
+when other phones on the same network were fine. Battery life was 
+extremely disappointing - the Nokia XL lasted just 4 hours, 35 minutes 
+when looping a video, which makes us uncertain whether it can even 
+survive a full day of moderate usage without needing a recharge.CameraFor
+ all its other shortcomings, the Nokia XL has a fantastic camera. It's 
+almost unbelievable how good our test photos were. In daylight, images 
+were crisp and accurate without any clue that they had been taken with a
+ low-end phone. The camera had a bit of trouble judging exposure levels 
+in tricky scenes with light and dark elements, but other than that the 
+results were fantastic. Low-light shots came out quite well, but the 
+flash was a bit disappointing, and gave photos a somewhat artificial 
+quality. You can set the contrast, sharpness, saturation, ISO and
+ white balance, and there's also automatic face detection, 
+touch-to-focus, and a few simple colour filters. We were impressed to 
+see options for exposure metering and manual focus control, though these
+ are buried in the settings menu. The front camera is also pretty good, 
+but you have far less control over it.(Click to see full size)Photos are taken at 
+1600x1200 by default, but the resolution can go up to 2592x1944, and 
+there's also a wide aspect ratio 1920x1080 option. Picture quality is 
+set to "superfine" by default, which explains the sharpness and low 
+levels of noise. You can also choose between H.264, H.263 and MPEG4 
+encoding for videos, for some reason, but videos are recorded at the 
+pointlessly low resolution of 352x288 unless you change this manually. VerdictPerformance
+ that was just about acceptable from a phone costing Rs. 8,500 is more 
+than disappointing from a phone that costs Rs. 11,500. Not only has 
+Nokia acknowledged that the original X was overpriced, but fresh 
+competition in the form of the Moto E has made it even tougher to 
+recommend. That means the Nokia XL is even worse value right now. Sure,
+ you get a big screen, but it's comically low-resolution and there's no 
+advantage to it whatsoever unless you really love the Nokia X platform 
+and have poor eyesight or extremely large fingers. The flash and front 
+camera are also nice to have, but definitely not worth the premium.Despite
+ all its charms, we cannot recommend the Nokia XL, simply because there 
+are far better phones at its price in the market today - one of which is
+ Nokia's own Lumia 630. In a battle between the two, the XL would have 
+the better cameras and potential compatibility with Android apps, but 
+the Lumia 630 would tie or win on pretty much every other count, 
+including performance, battery life, screen quality, construction 
+quality, ease of use, practicality, and weight.On the Android 
+side of the fence, the Moto E is cheaper and the Moto G is only slightly
+ more expensive. There's also the Lenovo S660, Samsung Galaxy S Duos 2, 
+Sony Xperia E1 and HTC Desire 210, plus a whole raft of choices from 
+Indian brands.The Nokia XL's only saving grace is that some 
+people value large screens above everything else. We expect a hefty 
+price cut down the line, so even if you're tempted now, we'd suggest 
+holding off.  Nokia XL Dual SIM in pictures
+
+In our review of the pioneering Nokia X nearly a month ago, we said 
+we were uncertain of the Android-based platform's future. Considering 
+the fact that Microsoft was, at the time, just about to gain complete 
+control over the Finnish phonemaker, it seemed odd that the software 
+giant would embrace something fundamentally dependent on its biggest 
+competitor's work.
+
+Since then, the Microsoft-Nokia acquisition has
+ been finalised, and not only has the Nokia XL been launched, but 
+rumours of an improved second-generation Nokia X line are growing 
+stronger. On the other hand, the Nokia X has received a hefty price cut 
+and is already selling for around 25 percent less than its initial 
+launch price.
+
+Despite its obvious shortcomings, there's definitely
+ a place in the market for the Nokia X, even with strong new competition
+ in the form of the Motorola Moto E. Things aren't quite as clear when 
+it comes to the Nokia XL, a larger and more expensive variation of the 
+X. In terms of features and specifications, the two are almost 
+identical, which means the XL is at a disadvantage in a market already 
+crowded with relatively modern Android and even Windows Phone devices.
+
+The
+ Nokia X line was meant to sit below the Lumias and attract entry-level 
+customers to the Nokia brand, in the hope that they would someday 
+graduate to a more expensive device. However, the XL is more expensive 
+than the Lumia 525 and is just about the same price as the brand new 
+Lumia 630 Dual SIM. Interestingly, while the 630 is a bit more powerful, it 
+doesn't have a front camera, flash, or some of the other niceties that 
+the XL does. We'll examine this curious state of affairs along with our 
+evaluation of the XL on its own merits.
+
+Look and feelThe 
+Nokia XL is a magnified version of the Nokia X in every way. It has 
+exactly the same proportions, lines and angles, and is even available in
+ the same retina-scalding palette of primary colours. The main 
+differences are the addition of a flash on the rear panel and a camera 
+on the front. The only other changes are inconsequentially minor: the 
+3.5mm headset socket is in the centre of the top edge rather than to one
+ side, and the speaker grille has evolved from a small patch to a long 
+slit.
+
+There's still only a single capacitive button on the front 
+face, and it's still not backlit. The front-facing camera sits next to 
+the Nokia logo, leaving the rest of the front pretty bare. There are no 
+status or charging indicators, but Nokia has included its Glance screen 
+tech which lets you see the time and notification alerts even when the 
+phone is in standby.
+
+The power and volume buttons are on the right
+ side, and the left edge is blank as is the case with most Nokias now. 
+The brightly coloured shell extends around the sides of the phone 
+itself, giving the front face a distinct border, but also adding bulk. 
+Beneath the shell, you'll see the removable battery and slots for two 
+Micro-SIM cards and a microSD card.
+
+The XL is pretty hefty and 
+unwieldy. The hard corners are even more of a problem than they were on 
+the X because you'll need to stretch to reach the corners of the larger 
+screen with your thumbs. At 190g, this phone is noticeably heavier than 
+nearly everything else of its size on the market today. 
+
+Construction
+ quality is absolutely top-notch. The Nokia XL's finish is just as good 
+as that of any of the more expensive Lumias. You won't see rough edges 
+or cheap materials anywhere. The white and black variants actually feel 
+pretty premium.
+
+Specifications and featuresIf you were 
+hoping that Nokia would redefine value at this price point, you'll be 
+disappointed. The Nokia XL is built around a rather arthritic Qualcomm 
+Snapdragon S4 Play processor; a two year old dual-core model that runs 
+at 1GHz. There's 768MB of RAM; a paltry 256MB improvement over the Nokia
+ X. There's 4GB of internal storage space, of which less than 2GB is 
+available to users. You'll have to buy a microSD card, and at least the 
+XL supports capacities up to 32GB.
+
+The screen measures 5 inches 
+across diagonally, compared to its smaller sibling's 4-inch screen. It 
+doesn't sound like a huge difference, but it is. Sadly, the screen's 
+resolution wasn't scaled up with its size, so it's still the same 
+800x480 grid, except that it looks a whole lot worse. This works out to 
+186.6 pixels per inch, which is the lowest density we've seen in a very 
+long time - most phones around this price range and especially this 
+screen size are at least 960x540, if not 1280x720.
+
+Connectivity is
+ adequate - the XL supports 3G data only on the primary SIM, but there's
+ also Wi-Fi b/g/n and Bluetooth 3.0. There are a few sensors - an 
+accelerometer, proximity sensor and ambient light sensor - but nothing 
+fancy. 
+
+The software is identical to that on the Nokia X, which 
+you can read about in great detail here. Android fans will find a lot of
+ familiar sights below the surface and it's all still fairly easy to 
+use, but the Nokia XL is ultimately limited by the underpowered 
+hardware. The single back/home button is also still annoying, as is the 
+somewhat unpredictability of whether you'll end up on the home screen or
+ Nokia's Fastlane screen of notifications and recently used apps. There 
+are also no shortcuts and no dock for frequently used apps such as the 
+phone dialler. Of course you're free to customise the experience and 
+experiment with grafting on the missing parts of the Android experience.
+
+Nokia's
+ excellent Mix Radio and Here maps are complemented by a large number of
+ preloaded apps and games: Bookmyshow, Facebook, Twitter, PicsArt, 
+Plants vs Zombies, Danger Dash, Bejeweled 2, Astro File Manager, Opera, 
+Vine, BBM, WeChat, NewsHunt and Sony Liv, amongst others.
+
+A 
+Cleanup app shows you a list of recently used applications that you can 
+close with a single tap, as well as a display of the amount of RAM 
+currently used. It's nice to have since there's no other way to switch 
+between running apps or close them.
+
+PerformanceThe Nokia XL
+ performed very slightly better in our tests than its smaller sibling 
+did, which is probably down to the marginal increase in the amount of 
+RAM available. Since all other hardware is the same, there's nothing 
+else we can attribute this result to. That's still not saying much, as 
+both sets of scores are amongst the lowest we have on record. 
+
+The
+ interface is quite laggy, but we didn't see quite as many "Please wait"
+ screens as we did on the Nokia X. There still isn't much hope for video
+ playback, though. Even 720p videos were laggy to the point of being 
+unwatchable. Audio was loud enough, but not clear.
+
+We had no 
+problem with call quality, though there was at least one place in which 
+3G reception dropped out and we were forced to fall back on EDGE even 
+when other phones on the same network were fine. Battery life was 
+extremely disappointing - the Nokia XL lasted just 4 hours, 35 minutes 
+when looping a video, which makes us uncertain whether it can even 
+survive a full day of moderate usage without needing a recharge.
+
+CameraFor
+ all its other shortcomings, the Nokia XL has a fantastic camera. It's 
+almost unbelievable how good our test photos were. In daylight, images 
+were crisp and accurate without any clue that they had been taken with a
+ low-end phone. The camera had a bit of trouble judging exposure levels 
+in tricky scenes with light and dark elements, but other than that the 
+results were fantastic. Low-light shots came out quite well, but the 
+flash was a bit disappointing, and gave photos a somewhat artificial 
+quality. 
+
+You can set the contrast, sharpness, saturation, ISO and
+ white balance, and there's also automatic face detection, 
+touch-to-focus, and a few simple colour filters. We were impressed to 
+see options for exposure metering and manual focus control, though these
+ are buried in the settings menu. The front camera is also pretty good, 
+but you have far less control over it.
+
+(Click to see full size)
+
+Photos are taken at 
+1600x1200 by default, but the resolution can go up to 2592x1944, and 
+there's also a wide aspect ratio 1920x1080 option. Picture quality is 
+set to "superfine" by default, which explains the sharpness and low 
+levels of noise. You can also choose between H.264, H.263 and MPEG4 
+encoding for videos, for some reason, but videos are recorded at the 
+pointlessly low resolution of 352x288 unless you change this manually. 
+
+VerdictPerformance
+ that was just about acceptable from a phone costing Rs. 8,500 is more 
+than disappointing from a phone that costs Rs. 11,500. Not only has 
+Nokia acknowledged that the original X was overpriced, but fresh 
+competition in the form of the Moto E has made it even tougher to 
+recommend. That means the Nokia XL is even worse value right now. 
+
+Sure,
+ you get a big screen, but it's comically low-resolution and there's no 
+advantage to it whatsoever unless you really love the Nokia X platform 
+and have poor eyesight or extremely large fingers. The flash and front 
+camera are also nice to have, but definitely not worth the premium.
+
+Despite
+ all its charms, we cannot recommend the Nokia XL, simply because there 
+are far better phones at its price in the market today - one of which is
+ Nokia's own Lumia 630. In a battle between the two, the XL would have 
+the better cameras and potential compatibility with Android apps, but 
+the Lumia 630 would tie or win on pretty much every other count, 
+including performance, battery life, screen quality, construction 
+quality, ease of use, practicality, and weight.
+
+On the Android 
+side of the fence, the Moto E is cheaper and the Moto G is only slightly
+ more expensive. There's also the Lenovo S660, Samsung Galaxy S Duos 2, 
+Sony Xperia E1 and HTC Desire 210, plus a whole raft of choices from 
+Indian brands.
+
+The Nokia XL's only saving grace is that some 
+people value large screens above everything else. We expect a hefty 
+price cut down the line, so even if you're tempted now, we'd suggest 
+holding off. 
+

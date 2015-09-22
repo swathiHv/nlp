@@ -1,0 +1,356 @@
+Sony Xperia Z3 Compact Review: The Mighty Miniature
+
+When Sony released the Xperia Z1 Compact, a non-outsized phone with 
+specs nearly identical to the flagship Xperia Z1, we hoped it would be 
+the beginning of a new trend. Large screens might be nice, but users who
+ prefer something a little easier handle had been left out of the 
+flagship market altogether. Unlike its "mini" counterparts, the Z1 
+Compact boasted of a top-end processor and camera, with only the screen 
+really scaling down to suit the smaller body.Sony didn't refresh 
+the Z1 Compact (Review | Pictures) when the Xperia Z2 (Review | Pictures) was released, but thankfully the company 
+hasn't given up on the idea altogether. After skipping a generation, the
+ brand new Z3 Compact is here. It's a little less premium and a lot more
+ expensive than before, which means there isn't much of a gap between it
+ and its full-fat sibling. We're curious about whether the Z3 Compact 
+will carry on the mission its predecessor started, or will find a new 
+niche for itself in the market.Look and feelThe first 
+thing that struck us about the Z3 Compact is that it has ditched the 
+metal frame that stood out so prominently on the Z1 Compact. There's 
+plastic all around, which gives it a slightly lower-end feel, but the 
+aesthetics have actually improved. Sony has toned down the colours - 
+beyond the standard black and white, you can now choose a deep orange or
+ a pale green instead of the bright pink and yellow. The opaque 
+front and back sandwich a translucent middle band. The corners have the 
+same shock-absorbing properties as the ones on the new Xperia Z3 (Review | Pictures), but you won't 
+find any of its slick curved metal. The advantages of this are that the 
+magnetic dock connector is far better concealed, and the flaps covering 
+the ports and slots are easier to open. One thing the two siblings do 
+have in common is that their glass backs are so smooth, they both slide 
+around on flat surfaces like air hockey pucks.Sony's trademark 
+round silver power button is in its usual place on the right edge, with 
+the volume rocker right below it. Both are too low to be used easily, 
+and we wish Sony had placed them more appropriately considering how this
+ phone will typically be held. There's also a dedicated two-stage camera
+ shutter button which doubles as a shortcut to launch the camera app 
+even when the phone is in standby.There are twin stereo speakers 
+on the front. Our white review model had clearly visible cutouts for the
+ front camera and sensors. All the other variants have black front 
+panels, which we think looks a little better. The Z3 Compact has the 
+same IP68 rating as its sibling, which means it is resistant to damage 
+from exposure to dust and liquids. That's always a good thing, but the 
+tradeoff is that you'll have to deal with the fiddly side flap every 
+time you need to plug this phone in to charge.The Z3 Compact is 
+only a hair bigger than the Z1 Compact was , but it's also nearly a 
+millimetre thinner. It's light enough to be comfortable, and it isn't 
+too much of a stretch to use it with one hand. In terms of size, this 
+phone is a little wider than an iPhone 5s and about the same height, but
+ its screen occupies more of the front face. Interestingly, the Z3 
+Compact is smaller than (but not as thin as) the newly announced iPhone 
+6.Specifications and softwareThe list is pretty much 
+identical to that of the Xperia Z3. Both use the same quad-core Qualcomm
+ Snapdragon 801 running at 2.5GHz with integrated Adreno 330 graphics 
+and LTE modem. However, while the Z3 has 3GB of RAM, the Z3 Compact has 
+only 2GB. 16GB of internal storage and support for 128GB microSD cards 
+are common to both, along with Wi-Fi ac, Bluetooth 4.0, NFC, GPS, and a 
+full complement of environmental sensors.The biggest difference 
+is of course the screens. The Z3 Compact steps down from full-HD to 
+720x1280. It's a little less crisp in absolute terms of pixels per inch 
+(ppi), but it still looks very crisp and should be more than enough for 
+most people. Interestingly, the screen has been bumped up to 4.6-inches 
+diagonally, from the Z1 Compact's 4.3 inches, without any significant 
+increase in body size.As a result of the smaller body and less 
+power-hungry screen, the Z3 Compact can get by with a 2,600mAh battery 
+rather than the 3,100mAh required by the Z3. We'll be very interested in
+ seeing whether this compromises battery life in our tests and in 
+real-world usage.The camera is the same 20.7-megapixel unit as 
+the one on the Z3, and is also capable of recording 4K video. 
+High-resolution audio support and PS4 Remote Play also make their way 
+over. Nothing has been reserved or made exclusive to the more expensive 
+model. Considering our excellent impressions of the Z3, these are all 
+tempting reasons to buy the Z3 Compact instead, and we're glad we get to
+ choose between the two.The software is identical to that on the 
+Z3 - Android 4.4.4 with Sony's rather overbearing UI skin. The two 
+phones behave identically and their software looks just the same. You 
+can read all about the software usage experience, including the 
+unfortunate bloatware and the new camera app modes, in our detailed review of the
+ Z3.Now that Apple has announced its iPhone 6 and iPhone 6 Plus 
+with nearly identical specifications, comparisons to the Xperia Z3 and 
+Z3 Compact are inevitable - no one else offers such similar hardware in 
+two sizes. However, where Apple has tweaked its software to offer more 
+options and a richer UI on its larger model's bigger screen, Sony has 
+just scaled things up and down, pixel for pixel.PerformanceIf
+ you were expecting lower performance than that of the Xperia Z3, 
+prepare to be surprised. The Z3 Compact actually pulls ahead in a number
+ of tests - the lower-resolution screen is easier to push, giving the 
+smaller model an edge in tests that measure graphics performance. The 
+score of 41.2fps in GFXbench is the highest of any device we've tested 
+all year, and is comfortably higher than the Z3's score of 29.9fps (and a
+ decent improvement over the Z1 Compact's 34.9). (Click to see full size)Similarly, the 
+3DMark Ice Storm Unlimited test gave us 19,465 points as against the 
+16,995 that the Z3 managed. AnTuTu 5, which is a mixed test, showed a 
+lesser advantage to the Z3 Compact with a score of 42,493 compared to 
+39,441. Quadrant's overall score tipped in favour of the Z3 Compact, but
+ the CPU and memory sub-scores indicated that the Z3 a clear advantage 
+in these areas - they just get overshadowed by graphics performance.(Click to see full size)All
+ this means that the Z3 Compact will be an excellent device for gaming 
+on. The experience might not be very immersive, but games will be 
+smoother and look better. HD videos played perfectly, and the sound from the front stereo speakers was impressively loud, though just a little tinny. This isn't just the most powerful compact 
+phone on the market - it's one of the most powerful, period.(Click to see full size)Real-world
+ performance is also just as good. We couldn't find anything to complain
+ about in terms of UI responsiveness or app behaviour. This phone was a 
+total pleasure to use. Call quality was perfectly good, though you have 
+to make sure you position the tiny earpiece correctly.(Click to see full size)We weren't 
+entirely sure how the battery life equation would work out, with a 
+smaller battery but less demanding screen than the Z3. It turns out we 
+shouldn't have been worried - the Z3 Compact posted one of our best ever
+ battery life results with a very impressive 15 hours and 5 minutes of 
+uninterrupted video playback. You should easily get two or three days of
+ usage out of every full charge.We were constantly impressed by 
+how slowly the battery life percentage reduced, even during demanding 
+test situations. We charged the phone fully and put it away in storage 
+one night, only to find it happily kicking back at 99 percent the next 
+morning. In fact we tested the battery twice, because our initial 
+finding of 11 hours, 13 minutes (despite being impressive on its own) 
+didn't adequately bear out our impressions of what we should find.(Click to see full size)We
+ were also very happy to note that the Z3 Compact's camera is every bit 
+as good as the one on the Z3. There's still a lot to discover, 
+especially since Sony only makes various features available as separate 
+"camera apps", no matter how useful (or frivolous). Despite the 
+20.7-megapixel rating, we'd stick with the default 8-megapixel setting 
+which really is good enough, and makes storage and management easier. In
+ terms of image quality, we were more than happy with the camera's 
+performance in all conditions. Low-light and video reproduction could 
+have been a little better, but what we have is still miles ahead of the 
+competition at this price point.VerdictAs you can probably
+ tell, we are tremendously impressed with the Sony Xperia Z3 Compact. If
+ you've ever wanted a top-end phone but held back because of the sheer 
+size of the things today, this is easily the one for you. The only thing
+ working against it is its price - at Rs. 44,990, you might not see much
+ point in "stepping down" from the Z3, which costs Rs. 51,990. It's also
+ quite a bit more expensive than other manufactures' full-sized 
+flagships - the Samsung Galaxy S5 and HTC One (M8) included. The 
+decision truly comes down to just screen size, not budget.This 
+disappoints us a bit, because the Z1 Compact had the same equation with 
+its bigger sibling yet cost a lot less when it launched, making it a 
+very attractive proposition. In fact, the Z1 Compact is still available 
+for around Rs. 29,500 today, which makes it not only one of the best 
+choices at that price, but also a very compelling reason not to buy the 
+Z3 Compact.There isn't much difference between the Z1 Compact and
+ Z3 Compact - a little CPU speed, LTE support, a few camera tricks, a 
+marginally smaller screen, and 1mm of width. Despite all its amazing 
+qualities, the Z3 Compact has a deadly competitor in the form of its own
+ predecessor. As we noted in our wrap-up of the Xperia Z3 review, it's a
+ fantastic device when seen on its own, but it really makes its 
+lower-priced predecessor look even better.The Xperia Z3 Compact 
+represents a criminally under-exploited market segment and we're still 
+waiting for competition to jump in. Maybe the strategy will catch on now
+ that Apple has adopted it. It's high time that our fixation with huge 
+screens was reined in, and for now, Sony has the only options in town on
+ the Android side of the fence. Sony Xperia Z3 Compact in pictures
+
+When Sony released the Xperia Z1 Compact, a non-outsized phone with 
+specs nearly identical to the flagship Xperia Z1, we hoped it would be 
+the beginning of a new trend. Large screens might be nice, but users who
+ prefer something a little easier handle had been left out of the 
+flagship market altogether. Unlike its "mini" counterparts, the Z1 
+Compact boasted of a top-end processor and camera, with only the screen 
+really scaling down to suit the smaller body.
+
+Sony didn't refresh 
+the Z1 Compact (Review | Pictures) when the Xperia Z2 (Review | Pictures) was released, but thankfully the company 
+hasn't given up on the idea altogether. After skipping a generation, the
+ brand new Z3 Compact is here. It's a little less premium and a lot more
+ expensive than before, which means there isn't much of a gap between it
+ and its full-fat sibling. We're curious about whether the Z3 Compact 
+will carry on the mission its predecessor started, or will find a new 
+niche for itself in the market.
+
+Look and feelThe first 
+thing that struck us about the Z3 Compact is that it has ditched the 
+metal frame that stood out so prominently on the Z1 Compact. There's 
+plastic all around, which gives it a slightly lower-end feel, but the 
+aesthetics have actually improved. Sony has toned down the colours - 
+beyond the standard black and white, you can now choose a deep orange or
+ a pale green instead of the bright pink and yellow. 
+
+The opaque 
+front and back sandwich a translucent middle band. The corners have the 
+same shock-absorbing properties as the ones on the new Xperia Z3 (Review | Pictures), but you won't 
+find any of its slick curved metal. The advantages of this are that the 
+magnetic dock connector is far better concealed, and the flaps covering 
+the ports and slots are easier to open. One thing the two siblings do 
+have in common is that their glass backs are so smooth, they both slide 
+around on flat surfaces like air hockey pucks.
+
+Sony's trademark 
+round silver power button is in its usual place on the right edge, with 
+the volume rocker right below it. Both are too low to be used easily, 
+and we wish Sony had placed them more appropriately considering how this
+ phone will typically be held. There's also a dedicated two-stage camera
+ shutter button which doubles as a shortcut to launch the camera app 
+even when the phone is in standby.
+
+There are twin stereo speakers 
+on the front. Our white review model had clearly visible cutouts for the
+ front camera and sensors. All the other variants have black front 
+panels, which we think looks a little better. The Z3 Compact has the 
+same IP68 rating as its sibling, which means it is resistant to damage 
+from exposure to dust and liquids. That's always a good thing, but the 
+tradeoff is that you'll have to deal with the fiddly side flap every 
+time you need to plug this phone in to charge.
+
+The Z3 Compact is 
+only a hair bigger than the Z1 Compact was , but it's also nearly a 
+millimetre thinner. It's light enough to be comfortable, and it isn't 
+too much of a stretch to use it with one hand. In terms of size, this 
+phone is a little wider than an iPhone 5s and about the same height, but
+ its screen occupies more of the front face. Interestingly, the Z3 
+Compact is smaller than (but not as thin as) the newly announced iPhone 
+6.
+
+Specifications and softwareThe list is pretty much 
+identical to that of the Xperia Z3. Both use the same quad-core Qualcomm
+ Snapdragon 801 running at 2.5GHz with integrated Adreno 330 graphics 
+and LTE modem. However, while the Z3 has 3GB of RAM, the Z3 Compact has 
+only 2GB. 16GB of internal storage and support for 128GB microSD cards 
+are common to both, along with Wi-Fi ac, Bluetooth 4.0, NFC, GPS, and a 
+full complement of environmental sensors.
+
+The biggest difference 
+is of course the screens. The Z3 Compact steps down from full-HD to 
+720x1280. It's a little less crisp in absolute terms of pixels per inch 
+(ppi), but it still looks very crisp and should be more than enough for 
+most people. Interestingly, the screen has been bumped up to 4.6-inches 
+diagonally, from the Z1 Compact's 4.3 inches, without any significant 
+increase in body size.
+
+As a result of the smaller body and less 
+power-hungry screen, the Z3 Compact can get by with a 2,600mAh battery 
+rather than the 3,100mAh required by the Z3. We'll be very interested in
+ seeing whether this compromises battery life in our tests and in 
+real-world usage.
+
+The camera is the same 20.7-megapixel unit as 
+the one on the Z3, and is also capable of recording 4K video. 
+High-resolution audio support and PS4 Remote Play also make their way 
+over. Nothing has been reserved or made exclusive to the more expensive 
+model. Considering our excellent impressions of the Z3, these are all 
+tempting reasons to buy the Z3 Compact instead, and we're glad we get to
+ choose between the two.
+
+The software is identical to that on the 
+Z3 - Android 4.4.4 with Sony's rather overbearing UI skin. The two 
+phones behave identically and their software looks just the same. You 
+can read all about the software usage experience, including the 
+unfortunate bloatware and the new camera app modes, in our detailed review of the
+ Z3.
+
+Now that Apple has announced its iPhone 6 and iPhone 6 Plus 
+with nearly identical specifications, comparisons to the Xperia Z3 and 
+Z3 Compact are inevitable - no one else offers such similar hardware in 
+two sizes. However, where Apple has tweaked its software to offer more 
+options and a richer UI on its larger model's bigger screen, Sony has 
+just scaled things up and down, pixel for pixel.
+
+PerformanceIf
+ you were expecting lower performance than that of the Xperia Z3, 
+prepare to be surprised. The Z3 Compact actually pulls ahead in a number
+ of tests - the lower-resolution screen is easier to push, giving the 
+smaller model an edge in tests that measure graphics performance. The 
+score of 41.2fps in GFXbench is the highest of any device we've tested 
+all year, and is comfortably higher than the Z3's score of 29.9fps (and a
+ decent improvement over the Z1 Compact's 34.9). 
+
+(Click to see full size)
+
+Similarly, the 
+3DMark Ice Storm Unlimited test gave us 19,465 points as against the 
+16,995 that the Z3 managed. AnTuTu 5, which is a mixed test, showed a 
+lesser advantage to the Z3 Compact with a score of 42,493 compared to 
+39,441. Quadrant's overall score tipped in favour of the Z3 Compact, but
+ the CPU and memory sub-scores indicated that the Z3 a clear advantage 
+in these areas - they just get overshadowed by graphics performance.
+
+(Click to see full size)
+
+All
+ this means that the Z3 Compact will be an excellent device for gaming 
+on. The experience might not be very immersive, but games will be 
+smoother and look better. HD videos played perfectly, and the sound from the front stereo speakers was impressively loud, though just a little tinny. This isn't just the most powerful compact 
+phone on the market - it's one of the most powerful, period.
+
+(Click to see full size)
+
+Real-world
+ performance is also just as good. We couldn't find anything to complain
+ about in terms of UI responsiveness or app behaviour. This phone was a 
+total pleasure to use. Call quality was perfectly good, though you have 
+to make sure you position the tiny earpiece correctly.
+
+(Click to see full size)
+
+We weren't 
+entirely sure how the battery life equation would work out, with a 
+smaller battery but less demanding screen than the Z3. It turns out we 
+shouldn't have been worried - the Z3 Compact posted one of our best ever
+ battery life results with a very impressive 15 hours and 5 minutes of 
+uninterrupted video playback. You should easily get two or three days of
+ usage out of every full charge.
+
+We were constantly impressed by 
+how slowly the battery life percentage reduced, even during demanding 
+test situations. We charged the phone fully and put it away in storage 
+one night, only to find it happily kicking back at 99 percent the next 
+morning. In fact we tested the battery twice, because our initial 
+finding of 11 hours, 13 minutes (despite being impressive on its own) 
+didn't adequately bear out our impressions of what we should find.
+
+(Click to see full size)
+
+We
+ were also very happy to note that the Z3 Compact's camera is every bit 
+as good as the one on the Z3. There's still a lot to discover, 
+especially since Sony only makes various features available as separate 
+"camera apps", no matter how useful (or frivolous). Despite the 
+20.7-megapixel rating, we'd stick with the default 8-megapixel setting 
+which really is good enough, and makes storage and management easier. 
+
+In
+ terms of image quality, we were more than happy with the camera's 
+performance in all conditions. Low-light and video reproduction could 
+have been a little better, but what we have is still miles ahead of the 
+competition at this price point.
+
+VerdictAs you can probably
+ tell, we are tremendously impressed with the Sony Xperia Z3 Compact. If
+ you've ever wanted a top-end phone but held back because of the sheer 
+size of the things today, this is easily the one for you. The only thing
+ working against it is its price - at Rs. 44,990, you might not see much
+ point in "stepping down" from the Z3, which costs Rs. 51,990. It's also
+ quite a bit more expensive than other manufactures' full-sized 
+flagships - the Samsung Galaxy S5 and HTC One (M8) included. The 
+decision truly comes down to just screen size, not budget.
+
+This 
+disappoints us a bit, because the Z1 Compact had the same equation with 
+its bigger sibling yet cost a lot less when it launched, making it a 
+very attractive proposition. In fact, the Z1 Compact is still available 
+for around Rs. 29,500 today, which makes it not only one of the best 
+choices at that price, but also a very compelling reason not to buy the 
+Z3 Compact.
+
+There isn't much difference between the Z1 Compact and
+ Z3 Compact - a little CPU speed, LTE support, a few camera tricks, a 
+marginally smaller screen, and 1mm of width. Despite all its amazing 
+qualities, the Z3 Compact has a deadly competitor in the form of its own
+ predecessor. As we noted in our wrap-up of the Xperia Z3 review, it's a
+ fantastic device when seen on its own, but it really makes its 
+lower-priced predecessor look even better.
+
+The Xperia Z3 Compact 
+represents a criminally under-exploited market segment and we're still 
+waiting for competition to jump in. Maybe the strategy will catch on now
+ that Apple has adopted it. It's high time that our fixation with huge 
+screens was reined in, and for now, Sony has the only options in town on
+ the Android side of the fence.
+

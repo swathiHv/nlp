@@ -1,0 +1,169 @@
+Android 5.0 Lollipop Review: A Sweet Upgrade
+
+Android's sweet new "Lollipop" flavor brings security improvements and 
+easier ways to view and respond to notifications. The new Google 
+software for mobile devices even lets you lend out your phone without 
+worrying about a friend circulating your naked selfies on Facebook.I 
+tested Lollipop on Google's new Nexus 6 phone, which comes out this 
+week. I can only hope that as other phones get the upgrade over time, it
+ will be as good as what you get on the Nexus.It's a shame many 
+phone manufacturers that use Android believe they have to tweak it 
+extensively to make the software theirs and not Google's. Mucking around
+ with it only confuses customers and steers app developers toward 
+working on iPhone versions first, where there is more uniformity - and 
+thus incentive to incorporate the latest features.Assuming your phone maker is running Lollipop in its purest form, here's what you'll get:NotificationsYou
+ used to have to pull down the notification tray from the top, as you 
+would a window shade. With Lollipop, notifications appear in the center 
+of the lock screen. You can expand messages and reply right from the 
+lock screen.If you've set up a passcode - more on that in a bit -
+ you'll be prompted to enter it before composing that reply. You also 
+have the option to block all notifications or just those from specific 
+apps if you're worried about privacy. Or you can choose to hide 
+sensitive content. In those cases, you'll see you got an email or text, 
+but you won't see who sent it or what the message says.You can 
+also choose "priority" mode and get notifications only from apps you 
+mark as priority. In that mode, you can also choose to accept calls and 
+texts only from known contacts or favorites. You still see all incoming 
+calls or messages if you're looking, but you're not disrupted by 
+vibrations or rings.SecurityToo often, I've turned off the
+ passcode on my Android phone because I get tired of entering it every 
+time I pick it up. With Lollipop, you can keep your phone unlocked when 
+it's near a trusted device of your choosing - say, a Bluetooth-enabled 
+car or an Android smartwatch. Bluetooth range can extend 30 feet or 
+more, so be sure you trust your friends if you step away without your 
+phone. Or delete those naked selfies first.With Lollipop, Android
+ also joins Apple's iOS 8 software in encrypting data by default. This 
+is important if your phone is lost or stolen.Multiple profilesIf
+ you lend your phone out, or share it with a family member, you'll now 
+have profile options. You can set up to four profiles, each with its own
+ settings, contacts, photos and apps. Each user can be at a different 
+level on "Candy Crush Saga." Or a friend can download it without having 
+it clutter your apps list. Likewise, guests can use their own email and 
+Facebook accounts - not yours.Some options are disabled if you're
+ not the owner. For instance, your kid won't be able to restore the 
+phone to factory settings and wipe out all your data. But friends or 
+family can update your apps and accept permissions on your behalf. It's 
+your choice whether they can make calls and text, as they would still be
+ using your phone number. The browser and app store don't come with 
+parental controls, so it isn't meant for unsupervised use. And no 
+secondary profile will keep your kid from smearing grape jelly on the 
+screen.ShortcutsLollipop adds several shortcuts above the 
+notification tray. You can get quick access to the flashlight and the 
+setting for airplane mode, something some Android manufacturers have 
+added, but not all. There's also a new "Cast screen" button to send 
+video from your phone to a TV with an Android TV streaming device. 
+Unfortunately, you can't change the options. Those without an Android TV
+ device won't need "Cast screen," but might want a screen-rotation lock 
+instead, for instance.The new Android software also removes some 
+of the distinctions between apps and content. Previous versions of 
+Android offered ways to scroll through open apps to pick which goes to 
+the foreground. Now, individual tabs in the Chrome browser and 
+individual documents in Google Docs appear separately, so you can go 
+straight to your content without having to go to that app first. Other 
+app developers will be able to enable this feature, too.And the restLollipop
+ comes with an updated Calendar app that integrates with your Gmail 
+service so that flight reservations, concert tickets and other 
+confirmation emails get automatically turned into calendar events. The 
+app is also more visually pleasing and fun. Keywords such as "concerts,"
+ "dentist" and "brunch" trigger appropriate graphics.Still 
+missing, though, is the ability to decide whether individual apps can 
+access your location. I might want Google Maps but not Starbucks to have
+ my location. Apple's iOS software lets you choose on an app-by-app 
+basis, but it's all or nothing with Android.Nonetheless, Lollipop is a worthy upgrade that I hope will come to your Android device - unfettered - soon. 
+
+I 
+tested Lollipop on Google's new Nexus 6 phone, which comes out this 
+week. I can only hope that as other phones get the upgrade over time, it
+ will be as good as what you get on the Nexus.
+
+It's a shame many 
+phone manufacturers that use Android believe they have to tweak it 
+extensively to make the software theirs and not Google's. Mucking around
+ with it only confuses customers and steers app developers toward 
+working on iPhone versions first, where there is more uniformity - and 
+thus incentive to incorporate the latest features.
+
+Assuming your phone maker is running Lollipop in its purest form, here's what you'll get:
+
+NotificationsYou
+ used to have to pull down the notification tray from the top, as you 
+would a window shade. With Lollipop, notifications appear in the center 
+of the lock screen. You can expand messages and reply right from the 
+lock screen.
+
+If you've set up a passcode - more on that in a bit -
+ you'll be prompted to enter it before composing that reply. You also 
+have the option to block all notifications or just those from specific 
+apps if you're worried about privacy. Or you can choose to hide 
+sensitive content. In those cases, you'll see you got an email or text, 
+but you won't see who sent it or what the message says.
+
+You can 
+also choose "priority" mode and get notifications only from apps you 
+mark as priority. In that mode, you can also choose to accept calls and 
+texts only from known contacts or favorites. You still see all incoming 
+calls or messages if you're looking, but you're not disrupted by 
+vibrations or rings.
+
+SecurityToo often, I've turned off the
+ passcode on my Android phone because I get tired of entering it every 
+time I pick it up. With Lollipop, you can keep your phone unlocked when 
+it's near a trusted device of your choosing - say, a Bluetooth-enabled 
+car or an Android smartwatch. Bluetooth range can extend 30 feet or 
+more, so be sure you trust your friends if you step away without your 
+phone. Or delete those naked selfies first.
+
+With Lollipop, Android
+ also joins Apple's iOS 8 software in encrypting data by default. This 
+is important if your phone is lost or stolen.
+
+Multiple profilesIf
+ you lend your phone out, or share it with a family member, you'll now 
+have profile options. You can set up to four profiles, each with its own
+ settings, contacts, photos and apps. Each user can be at a different 
+level on "Candy Crush Saga." Or a friend can download it without having 
+it clutter your apps list. Likewise, guests can use their own email and 
+Facebook accounts - not yours.
+
+Some options are disabled if you're
+ not the owner. For instance, your kid won't be able to restore the 
+phone to factory settings and wipe out all your data. But friends or 
+family can update your apps and accept permissions on your behalf. It's 
+your choice whether they can make calls and text, as they would still be
+ using your phone number. The browser and app store don't come with 
+parental controls, so it isn't meant for unsupervised use. And no 
+secondary profile will keep your kid from smearing grape jelly on the 
+screen.
+
+ShortcutsLollipop adds several shortcuts above the 
+notification tray. You can get quick access to the flashlight and the 
+setting for airplane mode, something some Android manufacturers have 
+added, but not all. There's also a new "Cast screen" button to send 
+video from your phone to a TV with an Android TV streaming device. 
+Unfortunately, you can't change the options. Those without an Android TV
+ device won't need "Cast screen," but might want a screen-rotation lock 
+instead, for instance.
+
+The new Android software also removes some 
+of the distinctions between apps and content. Previous versions of 
+Android offered ways to scroll through open apps to pick which goes to 
+the foreground. Now, individual tabs in the Chrome browser and 
+individual documents in Google Docs appear separately, so you can go 
+straight to your content without having to go to that app first. Other 
+app developers will be able to enable this feature, too.
+
+And the restLollipop
+ comes with an updated Calendar app that integrates with your Gmail 
+service so that flight reservations, concert tickets and other 
+confirmation emails get automatically turned into calendar events. The 
+app is also more visually pleasing and fun. Keywords such as "concerts,"
+ "dentist" and "brunch" trigger appropriate graphics.
+
+Still 
+missing, though, is the ability to decide whether individual apps can 
+access your location. I might want Google Maps but not Starbucks to have
+ my location. Apple's iOS software lets you choose on an app-by-app 
+basis, but it's all or nothing with Android.
+
+Nonetheless, Lollipop is a worthy upgrade that I hope will come to your Android device - unfettered - soon.
+

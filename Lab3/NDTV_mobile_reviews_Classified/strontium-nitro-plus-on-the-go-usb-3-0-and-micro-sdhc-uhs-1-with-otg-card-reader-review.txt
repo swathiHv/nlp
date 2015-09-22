@@ -1,0 +1,199 @@
+Strontium Nitro Plus On-The-Go USB 3.0 and Micro SDHC UHS-1 With OTG Card Reader Review
+
+Strontium
+ seems to have jumped into mobile storage in a big way. After our 
+encounter with the Nitro iDrive for iOS, the company brought our 
+attention to a couple of products aimed at Android devices which support
+ USB On-The-Go. We've seen flash drives with Micro-USB connectors 
+before, but we haven't seen an external card reader.An increasing
+ number of Android smartphones do not allow storage expansion, and some 
+older ones don't support high-capacity microSD cards. Putting new data 
+onto a card and sharing large files with others is sometimes a pain, 
+requiring you to take your phone apart and pull out its battery or plug 
+your phone into a PC. USB-OTG can come in handy in some of those 
+situations. While a flash drive sticking out of your phone is no 
+substitute for a tiny microSD card, it can be really handy. You can 
+store large files such as movies that you don't need immediate access to
+ all the time, without filling up your phone's limited storage space. 
+You can transfer files between PCs and Android devices and share them 
+with friends. Most importantly, you can always be sure that your files 
+are accessible no matter what kind of device you have at your disposal.Strontium Nitro Plus USB On-The-Go 3.0We've
+ tested dual-interface flash drives from Kingston and SanDisk in the 
+recent past, and this one is no different. It's really tiny, with a 
+design that won't get in the way too much when plugged into a phone. It 
+supports USB 3.0 on the PC side which is a huge speed improvement over 
+USB 2.0. The body looks metallic but feels like plastic. The 
+gunmetal finish is quite nice and didn't seem as though it would wear 
+off soon.  A large red Strontium logo and the capacity of the drive are 
+printed on the front of the swivelling lid. We received a 32GB unit for 
+review. This drive would be really easy to lose - the company 
+does not provide a lanyard or tag and there's no hook for you to attach 
+one of your own. The two ends are pretty much always exposed, so you 
+might want to check the larger USB-A plug for pocket lint now and then. 
+Other than these things, we have no issues with the design or 
+construction quality.We tested the Nitro On-The-Go's USB 3.0 
+speeds and found it to perform quite well. SiSoft SANDRA and 
+CrystalDiskMark both reported consistent speeds. Sequential read speed, 
+which is the best-case scenario for such drives, averaged at 144MBps 
+which exceeded Strontium's own claim of 120MBps. Sequential reads were 
+of course slower, averaging at 26.68MBps. Random speeds were measured at
+ 133.71MBps for reads and 6.65MBps for writes. These scores were all a bit higher than those of the Kingston DataTraveler microDuo 3.0.Price: Rs. 749 (16GB); Rs. 1,349 (32GB); Rs. 2,399 (64GB)ProsSmall and lightUSB 3.0 speedConsNoneRatings (Out of 5)Design: 3Performance: 3.5Value for Money: 4Overall: 3.5Strontium Nitro Micro SDHC UHS-1 With OTG Card ReaderThe
+ second product we're looking at is something quite unique. It is 
+essentially the same sort of dual-interface drive but with a removable 
+microSD card instead of built-in flash memory. This of course allows for
+ added flexibility when copying photos or making backups - both the card
+ and the reader could be very useful on their own and when used 
+together.We aren't really impressed with the card reader's build 
+quality. The plastic feels relatively low-quality and the USB A plug is 
+of the flat variety with exposed contacts. A red LED shines through the 
+bottom of the body when it is plugged in. The unit is around the size of
+ a standard flash drive if not longer, and won't be easy to misplace. The
+ microSD slot doesn't have any eject mechanism so you'll have to pry a 
+card out with your fingernail, which is less than ideal. The bundled 
+microSD card in particular was difficult to remove because Strontium has
+ used an unusual coating process for its label which either makes it 
+thicker than usual or makes the grip on the end shallower. The print 
+quality is not very good and the label was easily scratched off just by 
+using the card in its own reader. The overall finish reminded us of 
+CD-Rs with stick-on inkjet labels which never look as good as 
+professionally printed discs.Strontium advertises a free app 
+called MyBackup Pro, which it values at $4.99 (approximately Rs. 317). 
+You'll have to download it from Strontium's own site, which means 
+modifying your Android device's security settings to allow apps from 
+third-party sources to be installed.In terms of performance, 
+we're limited to USB 2.0 speeds here. Strontium advertises the speed of 
+the card as "70MB/s 466X", though it's more clear to note that it is a 
+Class 10 card which guarantees sustained speeds of 10Mbps and makes the 
+card suitable for full HD video recording and bursts of still images. We
+ recorded an average sequential read score of 18.84MBps and an average 
+sequential write score of 16.3MBps. Random reads and writes came in at 
+18.28MBps and 8.25MBps respectively.Price: Rs. 609 (16GB); Rs. 1,099 (32GB); Rs. 2,349 (64GB)ProsFlexible usage possibilitiesWorks with USB-OTG devicesConsBelow-average construction and material qualityUSB 2.0 speedsRatings (Out of 5)Design: 2.5Performance: 2.5Value for Money: 3Overall: 3VerdictBoth of 
+Strontium's products offer mobile device users new and interesting ways 
+to manage their data. Of the two, the Nitro MicroSDHC with OTG Card 
+Reader is certainly more flexible, but less refined. We can't think of 
+many situations that call for having an external microSD card reader 
+handy - perhaps if you need to copy lots of files between multiple 
+phones and/or tablets, some of which don't have microSD card slots. We 
+would have liked the product to have been better built, and of course 
+USB 3.0 would have been most welcome, but it still enables some 
+interesting functionality.On the other hand, the Nitro Plus 
+On-The-Go USB 3.0 is plainer and simpler, with a clear purpose. 
+Dual-interface drives are becoming more and more common, which is a 
+great thing because you don't lose any functionality compared to a 
+standard flash drive. Eventually USB Type-C will make such products 
+redundant but until then we're glad to have options.  
+
+An increasing
+ number of Android smartphones do not allow storage expansion, and some 
+older ones don't support high-capacity microSD cards. Putting new data 
+onto a card and sharing large files with others is sometimes a pain, 
+requiring you to take your phone apart and pull out its battery or plug 
+your phone into a PC. 
+
+USB-OTG can come in handy in some of those 
+situations. While a flash drive sticking out of your phone is no 
+substitute for a tiny microSD card, it can be really handy. You can 
+store large files such as movies that you don't need immediate access to
+ all the time, without filling up your phone's limited storage space. 
+You can transfer files between PCs and Android devices and share them 
+with friends. Most importantly, you can always be sure that your files 
+are accessible no matter what kind of device you have at your disposal.
+
+Strontium Nitro Plus USB On-The-Go 3.0We've
+ tested dual-interface flash drives from Kingston and SanDisk in the 
+recent past, and this one is no different. It's really tiny, with a 
+design that won't get in the way too much when plugged into a phone. It 
+supports USB 3.0 on the PC side which is a huge speed improvement over 
+USB 2.0. 
+
+The body looks metallic but feels like plastic. The 
+gunmetal finish is quite nice and didn't seem as though it would wear 
+off soon.  A large red Strontium logo and the capacity of the drive are 
+printed on the front of the swivelling lid. We received a 32GB unit for 
+review. 
+
+This drive would be really easy to lose - the company 
+does not provide a lanyard or tag and there's no hook for you to attach 
+one of your own. The two ends are pretty much always exposed, so you 
+might want to check the larger USB-A plug for pocket lint now and then. 
+Other than these things, we have no issues with the design or 
+construction quality.
+
+We tested the Nitro On-The-Go's USB 3.0 
+speeds and found it to perform quite well. SiSoft SANDRA and 
+CrystalDiskMark both reported consistent speeds. Sequential read speed, 
+which is the best-case scenario for such drives, averaged at 144MBps 
+which exceeded Strontium's own claim of 120MBps. Sequential reads were 
+of course slower, averaging at 26.68MBps. Random speeds were measured at
+ 133.71MBps for reads and 6.65MBps for writes. These scores were all a bit higher than those of the Kingston DataTraveler microDuo 3.0.
+
+
+
+Cons
+
+Ratings (Out of 5)
+
+Strontium Nitro Micro SDHC UHS-1 With OTG Card ReaderThe
+ second product we're looking at is something quite unique. It is 
+essentially the same sort of dual-interface drive but with a removable 
+microSD card instead of built-in flash memory. This of course allows for
+ added flexibility when copying photos or making backups - both the card
+ and the reader could be very useful on their own and when used 
+together.
+
+We aren't really impressed with the card reader's build 
+quality. The plastic feels relatively low-quality and the USB A plug is 
+of the flat variety with exposed contacts. A red LED shines through the 
+bottom of the body when it is plugged in. The unit is around the size of
+ a standard flash drive if not longer, and won't be easy to misplace. 
+
+The
+ microSD slot doesn't have any eject mechanism so you'll have to pry a 
+card out with your fingernail, which is less than ideal. The bundled 
+microSD card in particular was difficult to remove because Strontium has
+ used an unusual coating process for its label which either makes it 
+thicker than usual or makes the grip on the end shallower. The print 
+quality is not very good and the label was easily scratched off just by 
+using the card in its own reader. The overall finish reminded us of 
+CD-Rs with stick-on inkjet labels which never look as good as 
+professionally printed discs.
+
+Strontium advertises a free app 
+called MyBackup Pro, which it values at $4.99 (approximately Rs. 317). 
+You'll have to download it from Strontium's own site, which means 
+modifying your Android device's security settings to allow apps from 
+third-party sources to be installed.
+
+In terms of performance, 
+we're limited to USB 2.0 speeds here. Strontium advertises the speed of 
+the card as "70MB/s 466X", though it's more clear to note that it is a 
+Class 10 card which guarantees sustained speeds of 10Mbps and makes the 
+card suitable for full HD video recording and bursts of still images. We
+ recorded an average sequential read score of 18.84MBps and an average 
+sequential write score of 16.3MBps. Random reads and writes came in at 
+18.28MBps and 8.25MBps respectively.
+
+
+
+Cons
+
+Ratings (Out of 5)
+
+VerdictBoth of 
+Strontium's products offer mobile device users new and interesting ways 
+to manage their data. Of the two, the Nitro MicroSDHC with OTG Card 
+Reader is certainly more flexible, but less refined. We can't think of 
+many situations that call for having an external microSD card reader 
+handy - perhaps if you need to copy lots of files between multiple 
+phones and/or tablets, some of which don't have microSD card slots. We 
+would have liked the product to have been better built, and of course 
+USB 3.0 would have been most welcome, but it still enables some 
+interesting functionality.
+
+On the other hand, the Nitro Plus 
+On-The-Go USB 3.0 is plainer and simpler, with a clear purpose. 
+Dual-interface drives are becoming more and more common, which is a 
+great thing because you don't lose any functionality compared to a 
+standard flash drive. Eventually USB Type-C will make such products 
+redundant but until then we're glad to have options. 
+

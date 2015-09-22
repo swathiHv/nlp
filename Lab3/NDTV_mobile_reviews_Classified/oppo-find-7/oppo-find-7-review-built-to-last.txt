@@ -1,0 +1,269 @@
+Oppo Find 7 Review: Built to Last
+
+Established manufacturers such as Samsung, HTC, Sony and Apple have contenders in the race for the best high-end 
+smartphone, and the entire world waits with bated breath for their 
+latest iterations year after year. Chinese company Oppo demonstrated its intention to enter this race last year 
+with the Oppo N1. It had a swivel camera and was the first phone to ship
+ with Cyanogenmod out of the box. Oppo introduced the N1 in 
+India too, albeit without Cyanogenmod, but it failed to create inroads 
+into the market. The company is back again; this time with a phone that 
+features almost all the high-end features one expects from a flagship 
+smartphone, plus a QHD (1440x2560) resolution screen and a new 
+charging technology. Does the world need another high-end 
+smartphone? Will the Oppo Find 7 manage to wow buyers with its 
+innovative features? We find answers to these questions and more in our 
+review. Look and FeelOppo might be a Chinese brand but the 
+design and the build quality of its smartphones belies the general perception of cheap phones created by Chinese manufacturers. More importantly, Oppo has been innovative. While the Oppo Find 7 doesn't break the mould as much as the N1 did, it is no doubt a well-built device that oozes 
+premium appeal from every angle. As we said in our initial 
+hands-on with the device, the nondescript pitch black front of the Oppo 
+Find 7 is mostly taken up by the large 5.5-inch screen and the front face doesn't have any visible branding. The bezels are thin but 
+not LG G3-thin. The phone itself cannot be considered thin by today's 
+standards with its 9.2mm girth, and it is also rather wide at
+ 75mm. Its weight of 172g makes it heavier than a lot of other flagship 
+devices. The
+subtle contours on the rear are supposed to aid grip, but 
+the smooth matte material makes it slippery to hold. We received the Astro 
+Black version for review, and the pattern on the rear remind us of the 
+Motorola Razr's Kevlar back. Initially, we thought the rear cover was fixed in place since the construction is almost as good as any unibody 
+smartphone. However it is indeed removable, and the 
+SIM card slot and memory card slot are beneath it, apart from the battery. Despite the mostly plastic body, the chamfered 
+edges are metal. On the left edge is the power 
+button and the right edge features the volume buttons. The 3.5mm jack is on top, and the micro-USB port for 
+charging and data transfer is on the bottom. The front camera, earpiece and almost 
+invisible array of sensors sit above the display. Oppo has decided to go
+ with capacitive buttons for navigation. We like the pulsating 
+blue lights below the screen which glow every time a notification pops up. Before
+ we get into the nitty gritty, we want to get the obvious out of the way
+ - the QHD (1440x2560) resolution of the 5.5-inch screen is absolutely 
+phenomenal. With its 538ppi density, the screen screams for attention 
+and we couldn't take our eyes off it. Until the LG G3 hits Indian 
+retail shelves, the Find 7 will be the only phone one can buy in India with a 2K 
+resolution screen. Colours are accurately calibrated, viewing 
+angles are great, and sunlight legibility is decent too. That said, 
+when compared to the LG G Pro 2 (review), which has a 1080p 5.9-inch display, we 
+couldn't really tell much difference in screen quality. While it's definitely nice to have, we are of the opinion that a QHD screen is overkill for 
+a smartphone. Features and SpecificationsWe aren't 
+surprised that Oppo has fitted the Find 7 with the best components, considering it is their new flagship. It comes with the latest 
+Snapdragon 801 SoC. The quad-core processor is 
+clocked at 2.5GHz and there is 3GB of RAM for running apps without 
+hiccups. The phone has 32GB of internal storage which can be 
+further expanded by 128GB using external micro-SD cards. On the connectivity front, the Find 7 can connect to LTE networks, including ones in India that operate on the 2300MHz band. The phone has a 13-megapixel rear camera with a Sony Exmor 
+IMX214 sensor and dual-LED flash. It also has a 5-megapixel front 
+camera. Providing the juice is a 3,000MAh battery under the hood.SoftwareOppo has a dedicated research and 
+development team that works on tweaking Android. In a meeting with 
+executives from Oppo's India arm we were made to understand that updates
+ to the ColorOS skin on top of Android take time to engineer, and as result the 
+latest version of Android could not be used on their smartphones. Even so, nearly all other flagship smartphones (and quite a few budget 
+smartphones) come with Android 4.4 KitKat out of the box. The 
+Find 7 runs Android 4.3 Jellybean, and there is
+ no word on an update yet. The ColorOS skin is a visual departure from regular Android.
+It doesn't feel heavy and is mostly lag-free. The Find 7 is filled
+ with the regular suite of Google apps and also a ton of Oppo's own
+ apps, not all of which might be useful. For example, the Lock Now 
+app merely replicates the function of the power button. Also present are O-Cloud, 
+Power Manager, Data Monitor, and a ton of other apps which are 
+meant to secure the device. A few boring Gameloft games are also pre-loaded. In other countries, customers have the option of buying a Find 7 with Cyanogenmod 
+preloaded instead of ColorOS, and we wish this option was also available here.CameraThe 13-megapixel rear camera 
+does a really good job of capturing detail and keeping noise levels to a
+ minimum. Even the captured colours are accurate, and exposure levels are quite good. In our daylight tests we found that green leaves on trees had incredible detail, and despite 
+the overcast conditions, we managed to capture some good photographs. 
+Even in low light the camera performs much better than a
+ lot of other smartphone cameras. Of course there is a noise algorithm 
+that works overtime but it is not too bad. Photos taken in low light look as good 
+as if not better than what's possible with an iPhone 5/5c. The 
+5-megapixel front camera is also really good, thanks to its BIS 
+sensor. The clarity surprised us, and we would go as far as to say that the Find 7's front camera is better than a lot of other smartphones' primary cameras. Selfie lovers will approve of this. (Click to see full size)With respect to the quality 
+of captured 4K video, all we have to say is if video recording is the main reason you're buying a smartphone, then look no 
+further than the Oppo Find 7. This is by a huge margin the best phone 
+for capturing video thanks to the crisp picture definition and near-accurate colours. On the flipside, the 120fps slow motion video capture 
+mode has muted colours and doesn't really do a good job.On the icon of
+ the camera app it says 'Designed by Oppo' (thanks to the QHD screen it 
+was legible) but the design looks like a mashup between Android's 
+default camera for Gingerbread and Ice Cream Sandwich. An
+icon floating over the on-screen viewfinder can be tapped to reveal the different camera modes. Scrolling through the vertical list
+ was, however, a bit of a pain. PerformanceThe powerful 
+specifications on paper spring to life in our benchmark tests and even 
+in real-life usage. Moving through home screens was a lag-free 
+experience, and apps opened and closed without any hesitation. In
+ our AnTuTu and Quadrant benchmark tests, the Find 7 scored 37,347 and 
+23,101 points, respectively. This is the fastest phone we've tested till
+ date. Since the Adreno 330 GPU has to power the QHD screen, the graphics
+ benchmark scores were lower than we would have liked. The phone managed to log scores of 19.6fps in GFXbench and 17,278 in the intensive 3DMark Ice Storm test.We weren't too surprised to find that the Find 7 managed 
+to play all our test videos including the high-bitrate 1080p videos. 
+We even played a 4K resolution video and the phone had no trouble. The loudspeaker on the phone is very powerful, and thankfully it is pretty clear too. We would easily equate 
+the sound quality to that of HTC's BoomSound speakers on the One (M8). 
+Even the bundled earphones are of premium quality and the bass, treble and mids are well defined. A new 
+feature in the Find 7 that Oppo is promoting via a melodramatic advertisement is the VOOC charging technology that claims 
+to charge the battery from zero to 75 percent in around 30 minutes. We 
+managed to achieve this in 37 minutes, using the rather bulky bundled charger. Users will probably appreciate this since the 3000mAh battery won't last more than a day. In our battery test the phone went from 100 to zero 
+percent in six hours and 22 minutes. Call quality is decent 
+and the phone manages to hold on to cellular networks even in areas with 
+low signal strength. VerdictOppo's entry into the Indian 
+market was with the N1 and the company got the most important aspect of 
+their retail strategy wrong - the pricing. For a brand that was looking 
+to make inroads in a market saturated with options and dominated by 
+Samsung, N1's premium price tag was a deterrent for buyers. With the Find 7, 
+however, we think Oppo manages to get it somewhat right. It is 
+priced at Rs. 37,990. It is currently one of the cheapest 
+high-end smartphones in the market and gives tough competition to the 
+likes of the Samsungs, Sonys and HTCs of the smartphone world. The one standout feature of the Oppo 
+Find 7, its QHD screen, is better than what the current crop of flagships such as the Samsung Galaxy S5 (review), the HTC One (M8) (review), Sony 
+Xperia Z2 (review) and even the Gionee Elife E7 (review) have to offer. The Find 7 is a contender for the top spot, and so eventually, it boils down to buyers' brand affinity.
+Oppo Find 7 in pictures
+
+Established manufacturers such as Samsung, HTC, Sony and Apple have contenders in the race for the best high-end 
+smartphone, and the entire world waits with bated breath for their 
+latest iterations year after year. Chinese company Oppo demonstrated its intention to enter this race last year 
+with the Oppo N1. It had a swivel camera and was the first phone to ship
+ with Cyanogenmod out of the box. 
+
+Oppo introduced the N1 in 
+India too, albeit without Cyanogenmod, but it failed to create inroads 
+into the market. The company is back again; this time with a phone that 
+features almost all the high-end features one expects from a flagship 
+smartphone, plus a QHD (1440x2560) resolution screen and a new 
+charging technology. 
+
+Does the world need another high-end 
+smartphone? Will the Oppo Find 7 manage to wow buyers with its 
+innovative features? We find answers to these questions and more in our 
+review. 
+
+Look and FeelOppo might be a Chinese brand but the 
+design and the build quality of its smartphones belies the general perception of cheap phones created by Chinese manufacturers. More importantly, Oppo has been innovative. While the Oppo Find 7 doesn't break the mould as much as the N1 did, it is no doubt a well-built device that oozes 
+premium appeal from every angle. 
+
+As we said in our initial 
+hands-on with the device, the nondescript pitch black front of the Oppo 
+Find 7 is mostly taken up by the large 5.5-inch screen and the front face doesn't have any visible branding. The bezels are thin but 
+not LG G3-thin. The phone itself cannot be considered thin by today's 
+standards with its 9.2mm girth, and it is also rather wide at
+ 75mm. Its weight of 172g makes it heavier than a lot of other flagship 
+devices. 
+
+The
+subtle contours on the rear are supposed to aid grip, but 
+the smooth matte material makes it slippery to hold. We received the Astro 
+Black version for review, and the pattern on the rear remind us of the 
+Motorola Razr's Kevlar back. Initially, we thought the rear cover was fixed in place since the construction is almost as good as any unibody 
+smartphone. However it is indeed removable, and the 
+SIM card slot and memory card slot are beneath it, apart from the battery. 
+
+Despite the mostly plastic body, the chamfered 
+edges are metal. On the left edge is the power 
+button and the right edge features the volume buttons. The 3.5mm jack is on top, and the micro-USB port for 
+charging and data transfer is on the bottom. The front camera, earpiece and almost 
+invisible array of sensors sit above the display. Oppo has decided to go
+ with capacitive buttons for navigation. We like the pulsating 
+blue lights below the screen which glow every time a notification pops up. 
+
+Before
+ we get into the nitty gritty, we want to get the obvious out of the way
+ - the QHD (1440x2560) resolution of the 5.5-inch screen is absolutely 
+phenomenal. With its 538ppi density, the screen screams for attention 
+and we couldn't take our eyes off it. Until the LG G3 hits Indian 
+retail shelves, the Find 7 will be the only phone one can buy in India with a 2K 
+resolution screen. Colours are accurately calibrated, viewing 
+angles are great, and sunlight legibility is decent too. That said, 
+when compared to the LG G Pro 2 (review), which has a 1080p 5.9-inch display, we 
+couldn't really tell much difference in screen quality. While it's definitely nice to have, we are of the opinion that a QHD screen is overkill for 
+a smartphone. 
+
+Features and SpecificationsWe aren't 
+surprised that Oppo has fitted the Find 7 with the best components, considering it is their new flagship. It comes with the latest 
+Snapdragon 801 SoC. The quad-core processor is 
+clocked at 2.5GHz and there is 3GB of RAM for running apps without 
+hiccups. 
+
+The phone has 32GB of internal storage which can be 
+further expanded by 128GB using external micro-SD cards. On the connectivity front, the Find 7 can connect to LTE networks, including ones in India that operate on the 2300MHz band. The phone has a 13-megapixel rear camera with a Sony Exmor 
+IMX214 sensor and dual-LED flash. It also has a 5-megapixel front 
+camera. Providing the juice is a 3,000MAh battery under the hood.
+
+SoftwareOppo has a dedicated research and 
+development team that works on tweaking Android. In a meeting with 
+executives from Oppo's India arm we were made to understand that updates
+ to the ColorOS skin on top of Android take time to engineer, and as result the 
+latest version of Android could not be used on their smartphones. Even so, nearly all other flagship smartphones (and quite a few budget 
+smartphones) come with Android 4.4 KitKat out of the box. The 
+Find 7 runs Android 4.3 Jellybean, and there is
+ no word on an update yet. 
+
+The ColorOS skin is a visual departure from regular Android.
+It doesn't feel heavy and is mostly lag-free. The Find 7 is filled
+ with the regular suite of Google apps and also a ton of Oppo's own
+ apps, not all of which might be useful. For example, the Lock Now 
+app merely replicates the function of the power button. Also present are O-Cloud, 
+Power Manager, Data Monitor, and a ton of other apps which are 
+meant to secure the device. A few boring Gameloft games are also pre-loaded. 
+
+In other countries, customers have the option of buying a Find 7 with Cyanogenmod 
+preloaded instead of ColorOS, and we wish this option was also available here.
+
+CameraThe 13-megapixel rear camera 
+does a really good job of capturing detail and keeping noise levels to a
+ minimum. Even the captured colours are accurate, and exposure levels are quite good. 
+
+In our daylight tests we found that green leaves on trees had incredible detail, and despite 
+the overcast conditions, we managed to capture some good photographs. 
+Even in low light the camera performs much better than a
+ lot of other smartphone cameras. Of course there is a noise algorithm 
+that works overtime but it is not too bad. Photos taken in low light look as good 
+as if not better than what's possible with an iPhone 5/5c. The 
+5-megapixel front camera is also really good, thanks to its BIS 
+sensor. The clarity surprised us, and we would go as far as to say that the Find 7's front camera is better than a lot of other smartphones' primary cameras. Selfie lovers will approve of this. 
+
+(Click to see full size)
+
+With respect to the quality 
+of captured 4K video, all we have to say is if video recording is the main reason you're buying a smartphone, then look no 
+further than the Oppo Find 7. This is by a huge margin the best phone 
+for capturing video thanks to the crisp picture definition and near-accurate colours. On the flipside, the 120fps slow motion video capture 
+mode has muted colours and doesn't really do a good job.
+
+On the icon of
+ the camera app it says 'Designed by Oppo' (thanks to the QHD screen it 
+was legible) but the design looks like a mashup between Android's 
+default camera for Gingerbread and Ice Cream Sandwich. An
+icon floating over the on-screen viewfinder can be tapped to reveal the different camera modes. Scrolling through the vertical list
+ was, however, a bit of a pain. 
+
+PerformanceThe powerful 
+specifications on paper spring to life in our benchmark tests and even 
+in real-life usage. Moving through home screens was a lag-free 
+experience, and apps opened and closed without any hesitation. 
+
+In
+ our AnTuTu and Quadrant benchmark tests, the Find 7 scored 37,347 and 
+23,101 points, respectively. This is the fastest phone we've tested till
+ date. Since the Adreno 330 GPU has to power the QHD screen, the graphics
+ benchmark scores were lower than we would have liked. The phone managed to log scores of 19.6fps in GFXbench and 17,278 in the intensive 3DMark Ice Storm test.
+
+We weren't too surprised to find that the Find 7 managed 
+to play all our test videos including the high-bitrate 1080p videos. 
+We even played a 4K resolution video and the phone had no trouble. The loudspeaker on the phone is very powerful, and thankfully it is pretty clear too. We would easily equate 
+the sound quality to that of HTC's BoomSound speakers on the One (M8). 
+Even the bundled earphones are of premium quality and the bass, treble and mids are well defined. 
+
+A new 
+feature in the Find 7 that Oppo is promoting via a melodramatic advertisement is the VOOC charging technology that claims 
+to charge the battery from zero to 75 percent in around 30 minutes. We 
+managed to achieve this in 37 minutes, using the rather bulky bundled charger. Users will probably appreciate this since the 3000mAh battery won't last more than a day. In our battery test the phone went from 100 to zero 
+percent in six hours and 22 minutes. Call quality is decent 
+and the phone manages to hold on to cellular networks even in areas with 
+low signal strength. 
+
+VerdictOppo's entry into the Indian 
+market was with the N1 and the company got the most important aspect of 
+their retail strategy wrong - the pricing. For a brand that was looking 
+to make inroads in a market saturated with options and dominated by 
+Samsung, N1's premium price tag was a deterrent for buyers. With the Find 7, 
+however, we think Oppo manages to get it somewhat right. It is 
+priced at Rs. 37,990. 
+
+It is currently one of the cheapest 
+high-end smartphones in the market and gives tough competition to the 
+likes of the Samsungs, Sonys and HTCs of the smartphone world. The one standout feature of the Oppo 
+Find 7, its QHD screen, is better than what the current crop of flagships such as the Samsung Galaxy S5 (review), the HTC One (M8) (review), Sony 
+Xperia Z2 (review) and even the Gionee Elife E7 (review) have to offer. The Find 7 is a contender for the top spot, and so eventually, it boils down to buyers' brand affinity.
+

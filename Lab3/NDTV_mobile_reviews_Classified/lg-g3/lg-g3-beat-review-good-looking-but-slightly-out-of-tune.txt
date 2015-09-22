@@ -1,0 +1,298 @@
+LG G3 Beat Review: Good Looking, but Slightly Out of Tune
+
+The
+ first time we heard of LG's idea to move the G2's power and volume 
+buttons to the rear, we thought it was ridiculous. When we actually 
+tried using that phone ourselves, we found the placement awkward 
+and frustrating. We just couldn't get used to not having a power button 
+near our fingertips. It seemed just like any other gimmick - great for 
+getting attention, but ultimately something that users would reject en 
+masse.We were wrong. There has been no significant backlash, and 
+now LG evidently feels as though buttons on the rear are not only 
+acceptable but desirable. The ultra-luxe G Flex (Review | Photos) and the 2014 flagship 
+model G3 (Review | Photos) have had their buttons on the rear, and now the scheme is 
+permeating through LG's product lineup.The new LG G3 Beat takes a
+ lot of its style cues from the G3, but other than that, there's little 
+reason for the two to share a family name. We absolutely loved the G3 
+when we had it in for review - it looks great, feels great, and 
+generally performs better than its competition. The only really bad 
+thing we had to say about it was that its buttons were on the rear, 
+making it difficult to actually use.Maybe users put up with the buttons because these phones' benefits outweighed 
+the button placement issue. So how will things work on a device that 
+doesn't have any major features to fall back on? Look and feelThe
+ G3 wowed us with its extraordinarily comfortable shape, premium 
+construction quality and top-end specifications. The G3 Beat attempts to
+ mimic it and actually looks quite nice, but suffers when compared to 
+the device it borrows its name from. Both models has the same general 
+shape, with a curved back and narrow sides. However the G3 Beat made of 
+plastic and the feel is definitely nowhere near as impressive as that of
+ its metal-bodied sibling. The rear panel has a brushed metal 
+appearance and the little chin below the screen has the same concentric 
+ring texture. There are no buttons on the front, and very little space 
+around the screen. The camera on the rear is clustered with its flash 
+and laser autofocus emitter along with the infamous buttons. The 3.5mm 
+headset jack and Micro-USB port are on the bottom, the Infrared LED is 
+the only thing on the top, and the two sides are completely blank. The 
+Micro-SIM and microSD card slots are stacked together beneath the 
+removable panel, and the battery is quite easily accessible as well.The
+ G3 Beat is quite an attractive device when judged on its own merit, and
+ not as a stripped-down version of the highly praised G3. We liked how 
+it fit the curve of our palms, and its reduced size makes it much easier
+ to work with than most of today's overgrown high-end phones.Specifications and softwareThis
+ phone really has little in common with the LG G3, other than some of 
+the physical styling and the laser autofocus system. It can be 
+considered a "mini" edition of LG's current flagship - the current trend
+ in the Android world is for such devices to not only have smaller 
+footprints, but also much lower specs. The G3 Beat is based on a 
+modest 1.2GHz quad-core Qualcomm Snapdragon 400 processor with 
+integrated Adreno 305 graphics. The screen, which was one of the G3's 
+most striking features, has been cut down to 5 inches and 720x1280 
+pixels. The specific model sold in India should support LTE on the 
+2300MHz band used here. There is 1GB of RAM and 8GB of internal storage.
+ There's Wi-Fi b/g/n, Bluetooth 4.0, though Infrared and NFC are nice, 
+uncommon touches. In short, this is a fairly ordinary mid-range phone 
+with a few little bonuses thrown in - we wouldn't have even bothered 
+comparing it to the original G3 if LG hadn't chosen to name and style it
+ after its current flagship.Android 4.4.2 is barely recognisable 
+under LG's extensive UI customisations. The interface is pretty much the
+ same as what we saw on the G3, with a flat, stylised look and a mixture
+ of inconsistent icons. There's a battery saver mode, a quiet mode, 
+Qslide (which lets you perform certain tasks in small floating windows) 
+and Quick Memo+ (which grabs a screenshot and lets you scribble or type 
+notes over it).There are a few options to help with one-handed 
+usage, which we didn't feel were necessary thanks to our own large hands
+ and the thin screen borders. You can also dismiss calls and snooze 
+alarms by flipping the phone over. A Guest Mode lets you hand your phone
+ to other people, ensuring that they only see preselected apps and none 
+of your private data.LG includes ThinkFree Viewer for common file
+ formats, and Opera Mini in addition to the stock browser. QuickRemote 
+lets you use the IR LED to control your electronics and can be 
+programmed to work with devices from most major brands although it isn't
+ as easy to set up DTH set-top boxes. An app called RemoteCall service 
+connects you to LG's service centre to help troubleshoot problems 
+directly on the device.You can double-tap the screen when it's 
+off to wake it, which helps overcome the inconvenient button placement 
+to some extent. However putting the phone back to sleep is another 
+matter - double-tapping only works from the home screen, if you can find
+ a blank spot to tap on. PerformanceThe LG G3 Beat was 
+pretty easy to use and felt snappy enough for us at most tasks. The 
+custom interface takes a little bit of getting used to, but everything's
+ where you would expect it to be. The screen is good enough, and 
+the graphic style of LG's UI helps a lot in making things look sharp and
+ modern. Viewing angles seemed okay, but reflections were a problem. 
+Amazingly, there is no ambient light sensor, so you'll have to adjust 
+screen brightness manually. This is a very strange omission - only the 
+lowest end phones drop this for cost-saving reasons and we were 
+frequently annoyed by this, especially at night and when trying to take 
+photos outdoors. There is an option to reduce brightness between 
+midnight and 6:00am which is somewhat useful but too inflexible for our 
+liking.We recorded benchmark results that were mostly in line 
+with other devices with the same specifications, such as the Motorola 
+Moto G (Gen 2) (Review | Photos). Graphics scores were pretty much identical between the 
+two: 10.9 vs 10.8fps in GFXBench respectively, and 5637 vs 5657 points 
+in 3DMark's Ice Storm test. More generic testing favoured the new Moto G
+ by very small margins: its AnTuTu and Quadrant scores of 18,470 and 
+8,932 respectively were just a little bit higher than the G3 Beat's 
+scores of 17,434 and 8,709.Our highest quality video samples 
+played without a hitch, but audio quality was quite sub-par with details
+ getting quite lost and the overall sound coming out scratchy and harsh.Camera
+ results were mixed. We didn't really like LG's app, which is 
+unnecessarily complicated only because it tries to be simple and hide 
+all controls away, but that's less important than actual image quality. 
+We liked the subtle details that were evident in close-up photos taken 
+in daylight, but the camera managed to botch a clear blue sky, which 
+came out looking grainy and artificial. Low-light performance was okay. 
+Videos are recorded at 720p by default but this can be raised to 1080p. 
+Video quality was also quite good. We did notice that focusing was quick
+ and very accurate, but it's hard to quantify the advantages specific to
+ the laser autofocus system. We managed to eke out 7 hours, 18 
+minutes of battery life which is pretty good. We'd be confident of 
+getting a full day's work done on the LG G3 Beat, with a bit of gaming 
+and plenty of 3G or LTE data usage. Call quality was good enough.VerdictThere's
+ quite a bit to like about the LG G3 Beat, except for its price, which 
+is officially Rs. 25,000 but is hovering at around Rs. 18,500 in retail 
+at the time of this review. Considering the relatively inconsequential 
+addition of a laser autofocus system and IR emitter, the fact that it 
+costs up to twice as much as the equally good Motorola Moto G (Gen 2) is
+ a little startling. If you aren't living in an LTE market or have no 
+need for greater-than-3G speeds, it makes even less sense. We weren't 
+huge fans of the Moto G's looks and the G3 Beat is definitely 
+improvement, aesthetically as well as in terms of size and comfort, but 
+this isn't worth the enormous price difference. We're also still 
+annoyed with the button placement. Some people might become used to it, 
+but we still haven't managed to and we suspect that people will 
+underestimate how much of a difference it makes to not have the power 
+button where it's needed. Otherwise, this is a really nice phone 
+and we would have had little problem recommending it to those who are 
+looking to make a style statement. If you can find it at a significant 
+discount, you won't be disappointed.LG G3 Beat in pictures
+
+The
+ first time we heard of LG's idea to move the G2's power and volume 
+buttons to the rear, we thought it was ridiculous. When we actually 
+tried using that phone ourselves, we found the placement awkward 
+and frustrating. We just couldn't get used to not having a power button 
+near our fingertips. It seemed just like any other gimmick - great for 
+getting attention, but ultimately something that users would reject en 
+masse.
+
+We were wrong. There has been no significant backlash, and 
+now LG evidently feels as though buttons on the rear are not only 
+acceptable but desirable. The ultra-luxe G Flex (Review | Photos) and the 2014 flagship 
+model G3 (Review | Photos) have had their buttons on the rear, and now the scheme is 
+permeating through LG's product lineup.
+
+The new LG G3 Beat takes a
+ lot of its style cues from the G3, but other than that, there's little 
+reason for the two to share a family name. We absolutely loved the G3 
+when we had it in for review - it looks great, feels great, and 
+generally performs better than its competition. The only really bad 
+thing we had to say about it was that its buttons were on the rear, 
+making it difficult to actually use.
+
+Maybe users put up with the buttons because these phones' benefits outweighed 
+the button placement issue. So how will things work on a device that 
+doesn't have any major features to fall back on? 
+
+Look and feelThe
+ G3 wowed us with its extraordinarily comfortable shape, premium 
+construction quality and top-end specifications. The G3 Beat attempts to
+ mimic it and actually looks quite nice, but suffers when compared to 
+the device it borrows its name from. Both models has the same general 
+shape, with a curved back and narrow sides. However the G3 Beat made of 
+plastic and the feel is definitely nowhere near as impressive as that of
+ its metal-bodied sibling. 
+
+The rear panel has a brushed metal 
+appearance and the little chin below the screen has the same concentric 
+ring texture. There are no buttons on the front, and very little space 
+around the screen. The camera on the rear is clustered with its flash 
+and laser autofocus emitter along with the infamous buttons. The 3.5mm 
+headset jack and Micro-USB port are on the bottom, the Infrared LED is 
+the only thing on the top, and the two sides are completely blank. The 
+Micro-SIM and microSD card slots are stacked together beneath the 
+removable panel, and the battery is quite easily accessible as well.
+
+The
+ G3 Beat is quite an attractive device when judged on its own merit, and
+ not as a stripped-down version of the highly praised G3. We liked how 
+it fit the curve of our palms, and its reduced size makes it much easier
+ to work with than most of today's overgrown high-end phones.
+
+Specifications and softwareThis
+ phone really has little in common with the LG G3, other than some of 
+the physical styling and the laser autofocus system. It can be 
+considered a "mini" edition of LG's current flagship - the current trend
+ in the Android world is for such devices to not only have smaller 
+footprints, but also much lower specs. 
+
+The G3 Beat is based on a 
+modest 1.2GHz quad-core Qualcomm Snapdragon 400 processor with 
+integrated Adreno 305 graphics. The screen, which was one of the G3's 
+most striking features, has been cut down to 5 inches and 720x1280 
+pixels. The specific model sold in India should support LTE on the 
+2300MHz band used here. There is 1GB of RAM and 8GB of internal storage.
+ There's Wi-Fi b/g/n, Bluetooth 4.0, though Infrared and NFC are nice, 
+uncommon touches. In short, this is a fairly ordinary mid-range phone 
+with a few little bonuses thrown in - we wouldn't have even bothered 
+comparing it to the original G3 if LG hadn't chosen to name and style it
+ after its current flagship.
+
+Android 4.4.2 is barely recognisable 
+under LG's extensive UI customisations. The interface is pretty much the
+ same as what we saw on the G3, with a flat, stylised look and a mixture
+ of inconsistent icons. There's a battery saver mode, a quiet mode, 
+Qslide (which lets you perform certain tasks in small floating windows) 
+and Quick Memo+ (which grabs a screenshot and lets you scribble or type 
+notes over it).
+
+There are a few options to help with one-handed 
+usage, which we didn't feel were necessary thanks to our own large hands
+ and the thin screen borders. You can also dismiss calls and snooze 
+alarms by flipping the phone over. A Guest Mode lets you hand your phone
+ to other people, ensuring that they only see preselected apps and none 
+of your private data.
+
+LG includes ThinkFree Viewer for common file
+ formats, and Opera Mini in addition to the stock browser. QuickRemote 
+lets you use the IR LED to control your electronics and can be 
+programmed to work with devices from most major brands although it isn't
+ as easy to set up DTH set-top boxes. An app called RemoteCall service 
+connects you to LG's service centre to help troubleshoot problems 
+directly on the device.
+
+You can double-tap the screen when it's 
+off to wake it, which helps overcome the inconvenient button placement 
+to some extent. However putting the phone back to sleep is another 
+matter - double-tapping only works from the home screen, if you can find
+ a blank spot to tap on. 
+
+PerformanceThe LG G3 Beat was 
+pretty easy to use and felt snappy enough for us at most tasks. The 
+custom interface takes a little bit of getting used to, but everything's
+ where you would expect it to be. 
+
+The screen is good enough, and 
+the graphic style of LG's UI helps a lot in making things look sharp and
+ modern. Viewing angles seemed okay, but reflections were a problem. 
+Amazingly, there is no ambient light sensor, so you'll have to adjust 
+screen brightness manually. This is a very strange omission - only the 
+lowest end phones drop this for cost-saving reasons and we were 
+frequently annoyed by this, especially at night and when trying to take 
+photos outdoors. There is an option to reduce brightness between 
+midnight and 6:00am which is somewhat useful but too inflexible for our 
+liking.
+
+We recorded benchmark results that were mostly in line 
+with other devices with the same specifications, such as the Motorola 
+Moto G (Gen 2) (Review | Photos). Graphics scores were pretty much identical between the 
+two: 10.9 vs 10.8fps in GFXBench respectively, and 5637 vs 5657 points 
+in 3DMark's Ice Storm test. More generic testing favoured the new Moto G
+ by very small margins: its AnTuTu and Quadrant scores of 18,470 and 
+8,932 respectively were just a little bit higher than the G3 Beat's 
+scores of 17,434 and 8,709.
+
+Our highest quality video samples 
+played without a hitch, but audio quality was quite sub-par with details
+ getting quite lost and the overall sound coming out scratchy and harsh.
+
+Camera
+ results were mixed. We didn't really like LG's app, which is 
+unnecessarily complicated only because it tries to be simple and hide 
+all controls away, but that's less important than actual image quality. 
+We liked the subtle details that were evident in close-up photos taken 
+in daylight, but the camera managed to botch a clear blue sky, which 
+came out looking grainy and artificial. Low-light performance was okay. 
+Videos are recorded at 720p by default but this can be raised to 1080p. 
+Video quality was also quite good. We did notice that focusing was quick
+ and very accurate, but it's hard to quantify the advantages specific to
+ the laser autofocus system. 
+
+We managed to eke out 7 hours, 18 
+minutes of battery life which is pretty good. We'd be confident of 
+getting a full day's work done on the LG G3 Beat, with a bit of gaming 
+and plenty of 3G or LTE data usage. Call quality was good enough.
+
+VerdictThere's
+ quite a bit to like about the LG G3 Beat, except for its price, which 
+is officially Rs. 25,000 but is hovering at around Rs. 18,500 in retail 
+at the time of this review. Considering the relatively inconsequential 
+addition of a laser autofocus system and IR emitter, the fact that it 
+costs up to twice as much as the equally good Motorola Moto G (Gen 2) is
+ a little startling. If you aren't living in an LTE market or have no 
+need for greater-than-3G speeds, it makes even less sense. We weren't 
+huge fans of the Moto G's looks and the G3 Beat is definitely 
+improvement, aesthetically as well as in terms of size and comfort, but 
+this isn't worth the enormous price difference. 
+
+We're also still 
+annoyed with the button placement. Some people might become used to it, 
+but we still haven't managed to and we suspect that people will 
+underestimate how much of a difference it makes to not have the power 
+button where it's needed. 
+
+Otherwise, this is a really nice phone 
+and we would have had little problem recommending it to those who are 
+looking to make a style statement. If you can find it at a significant 
+discount, you won't be disappointed.
+

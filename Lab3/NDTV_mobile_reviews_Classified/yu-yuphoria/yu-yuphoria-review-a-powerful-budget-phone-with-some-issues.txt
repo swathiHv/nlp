@@ -1,0 +1,206 @@
+Yu Yuphoria Review: A Powerful Budget Phone With Some Issues
+
+The
+ sudden influx of powerfully-specced smartphones in the sub-Rs. 10,000 segment has 
+thrown it wide open of late. We have compact phones
+such as the Motorola Moto E (Gen 2) (Review | Pictures), Xiaomi Redmi 2 (Review | Pictures) and Lenovo A6000 Plus (Review | Pictures) as well as phablets such as the Lenovo
+ A7000 (Review | Pictures)  and Yu Yureka (Review | Pictures). There is absolutely no dearth of options. Yu
+ Televentures is a subsidiary of Micromax and the first phone that the 
+company introduced was the Yureka. It saw a good deal of success thanks 
+to its good hardware and unbelievably low pricing. The company recently announced an even more affordable phone to target the under - Rs. 7,000 segment. The new Yu Yuphoria has the best specs on paper, but competition is stiff. Let's find out how it fares. Look and feelThe
+ founder of Yu Televentures spent a lot of time at the launch event 
+explaining how the engineers at the company worked hard to incorporate metal into the body of the Yuphoria, which is a budget phone at heart. 
+While the Yuphoria is one of the better looking devices in its category, the design of the phone is far from original, resembling the Nokia Lumia 830 (Review | Pictures). The Yuphoria is mostly made from 
+plastic and the metal is only a trim that runs along its edges. Unlike the Lumia 830, the corners are rounded off 
+smoothly on the Yuphoria. The top and bottom edges
+ of the Yuphoria have strips of plastic in between the metal where the 3.5mm audio jack (top) and Micro-USB port (bottom) are placed. We are not fans 
+of this design because it is quite distracting.The
+ right edge has the power button wedged in between two volume buttons, 
+which are slightly raised. This arrangement takes a little getting used 
+to but since the power button is shallower and longer it is easy enough to 
+feel for it while using the phone. The Yuphoria's primary camera 
+on the rear has a gigantic metallic ring around it which is quite 
+similar to what we saw on the Lumia 830. There is a break on the left, which is where the LED flash is placed. The 
+rear panel is a flimsy piece of plastic and also attracts a lot of 
+smudges. It conceals the battery compartment, two Micro-SIM card
+ slots, and a microSD card slot. The earpiece, front camera and ambient
+ light sensor are all placed above the display. The Yuphoria has on-screen 
+buttons for navigating through the operation system. The
+ phone is available in two colours: Buffed Steel and Champagne Gold. We
+ got the Buffed Steel version for review. The Yuphoria has a five inch
+ screen but compact overall dimensions of 142.4x73x9.35mm. Combine this
+ with the weight of 143g, and the phone feels sturdy and reassuring to hold. The 5-inch IPS LCD panel has a
+resolution of 720x1280 and is protected by Corning's Gorilla
+ Glass 3. The screen is crisp but it has a warm cast, which 
+looks distracting. Also, it is pretty reflective, which reduces sunlight legibility. The viewing angles are 
+also not up to the mark. The display could have been better, especially when compared to the superior screens
+ of the Lenovo A6000 and Xiaomi Redmi 2. Specifications and softwareThe
+Yu Yuphoria is powered by Qualcomm's 1.2GHz quad-core Snapdragon 410 SoC 
+which includes Adreno 306 graphics. More importantly, the phone has an ample 2GB of 
+RAM and 16GB of in-built storage. The storage can be expanded by
+ up to 32GB using a microSD card. It has an 8-megapixel 
+primary camera with f/2.2 aperture, and a 5-megapixel front-facing 
+camera with 85-degree wide-angle lens. The phone accepts two 
+Micro-SIM cards, one of which can connect to a 4G LTE network even on
+ the 2,300MHz frequency band. Other connectivity options include Wi-Fi 
+a/b/g/n and Bluetooth v.4.0. Unlike many other phones in this price 
+range, the Yuphoria also has a gyroscope sensor. There is a 2,230mAh battery 
+that provides the juice for the phone and moreover it also supports 
+Qualcomm's Quick Charge technology. Just like it's elder sibling the Yureka, the Yuphoria runs Cyanogen OS. Yu has gone with the latest version, Cyanogen 12, on top of Android 5.0.2. Cyanogen 12 is highly customisable and the best part is that it looks very
+ similar to stock Android Lollipop. The Settings app is a veritable 
+treasure trove of options which allows users to make the minutest of 
+changes, like the layout of the navigation buttons, custom apps on the 
+lockscreen, opening apps with specific gestures, gradually increasing the 
+ringtone volume, and much more. It might be daunting for some, but this 
+is exactly the kind of freedom a lot of people relish. Unlike many 
+phones in this price range, there are very few bundled third-party 
+apps.They include a new feature-rich email client powered by Boxer, 
+AudioFX for equaliser settings, Baton, which can be used to 'cloudify' 
+select apps (currently in beta), and finally Universe - a browser based 
+on Opera Mini. Performance and cameraWe were expecting smooth lag-free performance from the Yuphoria thanks to the 2GB on RAM and a fairly competent processor. However, the reality was 
+slightly different. On most occasions, the phone worked without any 
+interruptions, but when it did, the Yuphoria would just 
+hang. For example, MX Player would refuse to play videos on
+ reopening the app after it had been minimised. Also sometimes the entire 
+screen would stop responding despite repeated attempts. Although these 
+issues were far and few in between, and a software update should be able to solve them, the experience of using the phone was not up to our expectations. GFXbench failed to run but 
+3DMark Ice Storm returned a score of 4,971. In the AnTuTu and Quadrant 
+benchmark tests, the phone logged scores of 21,891 and 13,685. These 
+results are slightly better than what we achieved with other phones. We tried a few sample videos and they 
+played fine. Despite the presence of Pure Wolfson Sound and AAC speakers, which are meant to be better quality in-built digital-to-analog converters,
+ they don't really get too loud. However, the sound is crisp and tight. The 
+bundled earphones sound very bad and you'd be happier investing in
+ a better pair. Call quality is pretty good and we had no 
+real complaints about it. In our video loop battery test, the phone lasted 7 
+hours and 27 minutes. The battery held up for a day of moderate usage, 
+which is average at best. The 8-megapixel camera captures a decent 
+amount of detail in daylight, and the colours look natural too. 
+However, the camera on the Redmi 2 is far superior. On the flipside, 
+the 5-megapixel front camera with 4P lens captures some incredibly 
+detailed selfies. The captured 720p video was below par and unusable. (Click for full size)VerdictPriced
+ at Rs. 6,999, the Yu Yuphoria is a great bargain only if you can look 
+past the flaws in its current state. That said, there are a few 
+positives such as the sturdy design and good front camera. However, the 
+Xiaomi Redmi 2 and Lenovo A6000 Plus are much better phones in many 
+aspects. Make a calculated decision before you buy this phone.
+Yu Yuphoria in pictures
+
+
+The
+ sudden influx of powerfully-specced smartphones in the sub-Rs. 10,000 segment has 
+thrown it wide open of late. We have compact phones
+such as the Motorola Moto E (Gen 2) (Review | Pictures), Xiaomi Redmi 2 (Review | Pictures) and Lenovo A6000 Plus (Review | Pictures) as well as phablets such as the Lenovo
+ A7000 (Review | Pictures)  and Yu Yureka (Review | Pictures). There is absolutely no dearth of options. 
+
+
+
+Yu
+ Televentures is a subsidiary of Micromax and the first phone that the 
+company introduced was the Yureka. It saw a good deal of success thanks 
+to its good hardware and unbelievably low pricing. The company recently announced an even more affordable phone to target the under - Rs. 7,000 segment. The new Yu Yuphoria has the best specs on paper, but competition is stiff. Let's find out how it fares. 
+
+Look and feelThe
+ founder of Yu Televentures spent a lot of time at the launch event 
+explaining how the engineers at the company worked hard to incorporate metal into the body of the Yuphoria, which is a budget phone at heart. 
+While the Yuphoria is one of the better looking devices in its category, the design of the phone is far from original, resembling the Nokia Lumia 830 (Review | Pictures). 
+
+The Yuphoria is mostly made from 
+plastic and the metal is only a trim that runs along its edges. Unlike the Lumia 830, the corners are rounded off 
+smoothly on the Yuphoria. The top and bottom edges
+ of the Yuphoria have strips of plastic in between the metal where the 3.5mm audio jack (top) and Micro-USB port (bottom) are placed. We are not fans 
+of this design because it is quite distracting.
+
+
+
+The
+ right edge has the power button wedged in between two volume buttons, 
+which are slightly raised. This arrangement takes a little getting used 
+to but since the power button is shallower and longer it is easy enough to 
+feel for it while using the phone. 
+
+The Yuphoria's primary camera 
+on the rear has a gigantic metallic ring around it which is quite 
+similar to what we saw on the Lumia 830. There is a break on the left, which is where the LED flash is placed. The 
+rear panel is a flimsy piece of plastic and also attracts a lot of 
+smudges. It conceals the battery compartment, two Micro-SIM card
+ slots, and a microSD card slot. The earpiece, front camera and ambient
+ light sensor are all placed above the display. The Yuphoria has on-screen 
+buttons for navigating through the operation system. 
+
+The
+ phone is available in two colours: Buffed Steel and Champagne Gold. We
+ got the Buffed Steel version for review. The Yuphoria has a five inch
+ screen but compact overall dimensions of 142.4x73x9.35mm. Combine this
+ with the weight of 143g, and the phone feels sturdy and reassuring to hold. 
+
+The 5-inch IPS LCD panel has a
+resolution of 720x1280 and is protected by Corning's Gorilla
+ Glass 3. The screen is crisp but it has a warm cast, which 
+looks distracting. Also, it is pretty reflective, which reduces sunlight legibility. The viewing angles are 
+also not up to the mark. The display could have been better, especially when compared to the superior screens
+ of the Lenovo A6000 and Xiaomi Redmi 2. 
+
+Specifications and softwareThe
+Yu Yuphoria is powered by Qualcomm's 1.2GHz quad-core Snapdragon 410 SoC 
+which includes Adreno 306 graphics. More importantly, the phone has an ample 2GB of 
+RAM and 16GB of in-built storage. The storage can be expanded by
+ up to 32GB using a microSD card. It has an 8-megapixel 
+primary camera with f/2.2 aperture, and a 5-megapixel front-facing 
+camera with 85-degree wide-angle lens. 
+
+The phone accepts two 
+Micro-SIM cards, one of which can connect to a 4G LTE network even on
+ the 2,300MHz frequency band. Other connectivity options include Wi-Fi 
+a/b/g/n and Bluetooth v.4.0. Unlike many other phones in this price 
+range, the Yuphoria also has a gyroscope sensor. There is a 2,230mAh battery 
+that provides the juice for the phone and moreover it also supports 
+Qualcomm's Quick Charge technology. 
+
+Just like it's elder sibling the Yureka, the Yuphoria runs Cyanogen OS. Yu has gone with the latest version, Cyanogen 12, on top of Android 5.0.2. Cyanogen 12 is highly customisable and the best part is that it looks very
+ similar to stock Android Lollipop. The Settings app is a veritable 
+treasure trove of options which allows users to make the minutest of 
+changes, like the layout of the navigation buttons, custom apps on the 
+lockscreen, opening apps with specific gestures, gradually increasing the 
+ringtone volume, and much more. It might be daunting for some, but this 
+is exactly the kind of freedom a lot of people relish. Unlike many 
+phones in this price range, there are very few bundled third-party 
+apps.They include a new feature-rich email client powered by Boxer, 
+AudioFX for equaliser settings, Baton, which can be used to 'cloudify' 
+select apps (currently in beta), and finally Universe - a browser based 
+on Opera Mini. 
+
+Performance and cameraWe were expecting smooth lag-free performance from the Yuphoria thanks to the 2GB on RAM and a fairly competent processor. However, the reality was 
+slightly different. On most occasions, the phone worked without any 
+interruptions, but when it did, the Yuphoria would just 
+hang. For example, MX Player would refuse to play videos on
+ reopening the app after it had been minimised. Also sometimes the entire 
+screen would stop responding despite repeated attempts. Although these 
+issues were far and few in between, and a software update should be able to solve them, the experience of using the phone was not up to our expectations. 
+
+GFXbench failed to run but 
+3DMark Ice Storm returned a score of 4,971. In the AnTuTu and Quadrant 
+benchmark tests, the phone logged scores of 21,891 and 13,685. These 
+results are slightly better than what we achieved with other phones. We tried a few sample videos and they 
+played fine. Despite the presence of Pure Wolfson Sound and AAC speakers, which are meant to be better quality in-built digital-to-analog converters,
+ they don't really get too loud. However, the sound is crisp and tight. The 
+bundled earphones sound very bad and you'd be happier investing in
+ a better pair. 
+
+Call quality is pretty good and we had no 
+real complaints about it. In our video loop battery test, the phone lasted 7 
+hours and 27 minutes. The battery held up for a day of moderate usage, 
+which is average at best. 
+
+The 8-megapixel camera captures a decent 
+amount of detail in daylight, and the colours look natural too. 
+However, the camera on the Redmi 2 is far superior. On the flipside, 
+the 5-megapixel front camera with 4P lens captures some incredibly 
+detailed selfies. The captured 720p video was below par and unusable. 
+
+(Click for full size)VerdictPriced
+ at Rs. 6,999, the Yu Yuphoria is a great bargain only if you can look 
+past the flaws in its current state. That said, there are a few 
+positives such as the sturdy design and good front camera. However, the 
+Xiaomi Redmi 2 and Lenovo A6000 Plus are much better phones in many 
+aspects. Make a calculated decision before you buy this phone.
+

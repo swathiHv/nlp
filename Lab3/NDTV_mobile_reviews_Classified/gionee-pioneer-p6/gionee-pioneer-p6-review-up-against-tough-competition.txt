@@ -1,0 +1,193 @@
+Gionee Pioneer P6 Review: Up Against Tough Competition 
+
+Gionee,
+ a Chinese smartphone brand famous (or notorious) for pushing the 
+boundaries of smartphone slimness, also makes affordable phones for
+budget-conscious buyers. Gionee's Pioneer series of smartphones has been
+ around for some time now and the latest entrant in this range is the 
+Pioneer P6. It is the most expensive phone in the Pioneer range. On
+ paper, the Gionee Pioneer P6 has a mediocre set of specifications when 
+compared to the competition but we have put the phone through a battery 
+of tests to find out if the specs actually matter. Read on to find out 
+the results.Design and displayThe Gionee Pioneer P6 looks 
+quite like any other Android smartphone with a candybar design. The plastic rear of the phone has a metallic finish similar to
+ a few mid-range LG phones and its flagship from last year, the G3. This
+ finish actually makes the Pioneer P6 look premium when compared to 
+other phones in the same price range. The Pioneer P6's thickness 
+of 8.6mm combined with the weight of 150g makes it a hefty. But having 
+said that, it is reassuring to hold. 
+However, the glossy rear, more often than not, caused the phone to slip 
+from our hands. The body of the Pioneer P6 is made entirely of plastic 
+but Gionee adds a dash of character with a metal trim that runs along 
+the edges of the phone. A Micro-USB port sits on the bottom of 
+the phone whereas the 3.5mm jack is on the top. The earpiece, front 
+camera and a supporting flash are lined up above the display. Gionee
+ has implemented a row of capacitive buttons below the screen for 
+navigating through Android OS. The power button and the volume rocker 
+are placed on the right edge, and both these physical buttons offer 
+decent tactile feedback. The primary camera and the flash are on the 
+rear along with the speakers. Removing the cover reveals an 
+orange battery, two slots for Micro-SIM cards and a microSD 
+card slot. The Pioneer P6 has a 5-inch TFT screen with a 
+resolution of 480x854. The display has no toughened glass for protection. We 
+could see pixellation thanks to the low pixel density of 194ppi, the 
+colours looked muted and the viewing angles were completely off. Even 
+the sunlight legibility was not too great. Considering that Gionee 
+generally makes good displays we think the company has missed a trick 
+here. Specifications, software and cameraThe Pioneer P6 is
+ powered by a Mediatek MT6582 SoC, commonly found in budget smartphones these days. It includes a 1.3GHz quad-core processor 
+and Mali 400 GPU. There is 1GB of RAM and 8GB of internal storage space 
+for apps, documents and data in general. However, only around 4GB of the
+ 8GB space is available for the user. One can add up to 32GB of more storage space using a microSD card. The
+ phone has a 5-megapixel primary camera with a flash. 
+Interestingly, even the 2-megapixel front camera has a flash. The Dual-SIM setup of the Pioneer P6 works in dual-standby 
+mode. The rest of the connectivity options are Wi-Fi 
+a/b/g/n, Wi-Fi Direct and Bluetooth v4.0 with A2DP. A 1950mAh battery 
+inside the phone provides the juice. Unlike Gionee's flagship 
+devices, the Pioneer P6 doesn't use the Amigo UI skin with an app drawer. 
+Instead, the Amigo UI skin on top of Android 4.4.2 running on the 
+Pioneer P6 is similar to the  implementation saw on the Marathon M3 (Review | Pictures). 
+Head over to our review of the phone to read more about this UI in 
+detail. In short though, we still think you'd be better off uninstalling
+ all the bloatware Gionee bundles with the phone. (Click for full size)The 5-megapixel
+ camera shoots images that look good when scaled down on the phone's screen. On 
+closer inspection we noticed that there was some noise even in daylight 
+shots. On the other hand, the images had natural colour reproduction. 
+Surprisingly, the camera also handled bloom really well. In fact, the 
+HDR mode ended up over-exposing images rather than improving quality. In 
+low light, the camera tries hard but it struggles; our sample images 
+were unusable due to excessive noise. The front camera takes 
+serviceable selfies. The quality of the captured 1080p video wasn't too 
+great either.PerformanceIn daily usage, the Pioneer P6
+ used to stutter and hang on us frequently. We had noticed a similar 
+problem with the Marathon M3's performance. Opening multiple apps 
+stressed the processor and RAM so much so that the phone eventually 
+gave up functioning. Heavy games like Asphalt 8 and Dead Trigger 
+struggled to run without skipping frames or slowdowns. Casual games 
+worked fine.The 
+benchmark numbers, on the other hand, were slightly better that what 
+we've seen from other phones with the same processor, probably because the 
+Pioneer P6 uses a lower resolution screen. In AnTuTu and Quadrant, the phone scored 19,790 and 6,956 points respectively. 
+The phone also scored 9.6fps and 3,235 in the GFXbench and 3D Mark Ice Storm
+ GPU tests. The phone played all the videos we threw at it 
+without breaking a sweat and the sound quality of the loudspeaker was 
+pretty decent too. The bundled headset has an uncomfortable fit and 
+doesn't sound too great either. We tried our reference earphones and found that the sound quality improved drastically. The call quality of
+ the phone was pretty good, and both the caller and the receiver 
+sounded crystal clear. In our video loop battery life test the phone lasted 8 hours and 42 minutes, which should translate to a day's worth of 
+real world usage.VerdictThe Gionee Pioneer P6 tries to
+ bite off more than it can chew and the price tag of Rs. 8,990 
+definitely doesn't help. There is strong competition in the form of Micromax's Yu Yureka (Review | Pictures), the Asus Zenfone 5 (Review | 
+Pictures), the Xiaomi Redmi Note 4G (Review | Pictures) and the Lenovo A6000 
+(Review | Pictures). Buy the Pioneer P6 only if you want better battery 
+performance, otherwise you'd be better off with any of these other phones.
+
+
+Gionee,
+ a Chinese smartphone brand famous (or notorious) for pushing the 
+boundaries of smartphone slimness, also makes affordable phones for
+budget-conscious buyers. Gionee's Pioneer series of smartphones has been
+ around for some time now and the latest entrant in this range is the 
+Pioneer P6. It is the most expensive phone in the Pioneer range. 
+
+On
+ paper, the Gionee Pioneer P6 has a mediocre set of specifications when 
+compared to the competition but we have put the phone through a battery 
+of tests to find out if the specs actually matter. Read on to find out 
+the results.
+
+Design and displayThe Gionee Pioneer P6 looks 
+quite like any other Android smartphone with a candybar design. The plastic rear of the phone has a metallic finish similar to
+ a few mid-range LG phones and its flagship from last year, the G3. This
+ finish actually makes the Pioneer P6 look premium when compared to 
+other phones in the same price range. 
+
+The Pioneer P6's thickness 
+of 8.6mm combined with the weight of 150g makes it a hefty. But having 
+said that, it is reassuring to hold. 
+However, the glossy rear, more often than not, caused the phone to slip 
+from our hands. The body of the Pioneer P6 is made entirely of plastic 
+but Gionee adds a dash of character with a metal trim that runs along 
+the edges of the phone. 
+
+A Micro-USB port sits on the bottom of 
+the phone whereas the 3.5mm jack is on the top. The earpiece, front 
+camera and a supporting flash are lined up above the display. Gionee
+ has implemented a row of capacitive buttons below the screen for 
+navigating through Android OS. The power button and the volume rocker 
+are placed on the right edge, and both these physical buttons offer 
+decent tactile feedback. The primary camera and the flash are on the 
+rear along with the speakers. Removing the cover reveals an 
+orange battery, two slots for Micro-SIM cards and a microSD 
+card slot. 
+
+The Pioneer P6 has a 5-inch TFT screen with a 
+resolution of 480x854. The display has no toughened glass for protection. We 
+could see pixellation thanks to the low pixel density of 194ppi, the 
+colours looked muted and the viewing angles were completely off. Even 
+the sunlight legibility was not too great. Considering that Gionee 
+generally makes good displays we think the company has missed a trick 
+here. 
+
+Specifications, software and cameraThe Pioneer P6 is
+ powered by a Mediatek MT6582 SoC, commonly found in budget smartphones these days. It includes a 1.3GHz quad-core processor 
+and Mali 400 GPU. There is 1GB of RAM and 8GB of internal storage space 
+for apps, documents and data in general. However, only around 4GB of the
+ 8GB space is available for the user. One can add up to 32GB of more storage space using a microSD card. 
+
+The
+ phone has a 5-megapixel primary camera with a flash. 
+Interestingly, even the 2-megapixel front camera has a flash. The Dual-SIM setup of the Pioneer P6 works in dual-standby 
+mode. The rest of the connectivity options are Wi-Fi 
+a/b/g/n, Wi-Fi Direct and Bluetooth v4.0 with A2DP. A 1950mAh battery 
+inside the phone provides the juice. 
+
+Unlike Gionee's flagship 
+devices, the Pioneer P6 doesn't use the Amigo UI skin with an app drawer. 
+Instead, the Amigo UI skin on top of Android 4.4.2 running on the 
+Pioneer P6 is similar to the  implementation saw on the Marathon M3 (Review | Pictures). 
+Head over to our review of the phone to read more about this UI in 
+detail. In short though, we still think you'd be better off uninstalling
+ all the bloatware Gionee bundles with the phone. 
+
+(Click for full size)The 5-megapixel
+ camera shoots images that look good when scaled down on the phone's screen. On 
+closer inspection we noticed that there was some noise even in daylight 
+shots. On the other hand, the images had natural colour reproduction. 
+Surprisingly, the camera also handled bloom really well. In fact, the 
+HDR mode ended up over-exposing images rather than improving quality. In 
+low light, the camera tries hard but it struggles; our sample images 
+were unusable due to excessive noise. The front camera takes 
+serviceable selfies. The quality of the captured 1080p video wasn't too 
+great either.
+
+PerformanceIn daily usage, the Pioneer P6
+ used to stutter and hang on us frequently. We had noticed a similar 
+problem with the Marathon M3's performance. Opening multiple apps 
+stressed the processor and RAM so much so that the phone eventually 
+gave up functioning. Heavy games like Asphalt 8 and Dead Trigger 
+struggled to run without skipping frames or slowdowns. Casual games 
+worked fine.
+
+The 
+benchmark numbers, on the other hand, were slightly better that what 
+we've seen from other phones with the same processor, probably because the 
+Pioneer P6 uses a lower resolution screen. In AnTuTu and Quadrant, the phone scored 19,790 and 6,956 points respectively. 
+The phone also scored 9.6fps and 3,235 in the GFXbench and 3D Mark Ice Storm
+ GPU tests. 
+
+The phone played all the videos we threw at it 
+without breaking a sweat and the sound quality of the loudspeaker was 
+pretty decent too. The bundled headset has an uncomfortable fit and 
+doesn't sound too great either. We tried our reference earphones and found that the sound quality improved drastically. The call quality of
+ the phone was pretty good, and both the caller and the receiver 
+sounded crystal clear. In our video loop battery life test the phone lasted 8 hours and 42 minutes, which should translate to a day's worth of 
+real world usage.
+
+VerdictThe Gionee Pioneer P6 tries to
+ bite off more than it can chew and the price tag of Rs. 8,990 
+definitely doesn't help. There is strong competition in the form of Micromax's Yu Yureka (Review | Pictures), the Asus Zenfone 5 (Review | 
+Pictures), the Xiaomi Redmi Note 4G (Review | Pictures) and the Lenovo A6000 
+(Review | Pictures). Buy the Pioneer P6 only if you want better battery 
+performance, otherwise you'd be better off with any of these other phones.
+

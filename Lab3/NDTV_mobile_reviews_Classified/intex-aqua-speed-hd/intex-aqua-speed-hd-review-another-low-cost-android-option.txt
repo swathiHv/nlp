@@ -1,0 +1,278 @@
+Intex Aqua Speed HD Review: Another Low-Cost Android Option
+
+A little while ago, local Indian brands 
+started dominating the low end of the smartphone market. They were able 
+to edge out multinational companies by importing low-cost devices with 
+features and capabilities that had until then been out of reach. Even if
+ the devices weren't all that good, and even if they felt cheap, buyers 
+felt great about being able to have touchscreens, play games, watch 
+movies and take decent photos. Today, Chinese behemoths are 
+playing exactly the same game in India, edging out local companies by 
+cutting out the middlemen and using ecommerce to circumvent the bother 
+of establishing retail channels. Our performance and value charts are 
+now dominated by Xiaomi, Lenovo and Huawei, with several others likely to
+ join them soon.That's the backdrop against which Intex has 
+launched its latest low-cost model, the Intex Aqua Speed HD. In terms of
+ pricing, it goes right up against the category's heavyweights: the 
+Xiaomi Redmi 2 (Review | Pictures), Lenovo A6000 Plus (Review | Pictures) and Motorola Moto E (Gen 2) (Review | Pictures). Let's 
+see if it can be a disruptive force.Look and feelThe first
+ thing that stands out about the Intex Aqua Speed HD is the trim running
+ around its sides. Our white unit had a pale gold stripe, and we were 
+pleased that it wasn't too garish. However the front face isn't much to 
+look at; the camera and sensor cutouts above the screen look a bit ugly 
+and the rest of it is as generic as any other low-cost Android phone. 
+From some angles, the corners and edges seem inspired by the Sony Xperia
+ Z3 (Review | Pictures).The left and bottom are totally blank, with the Micro-USB 
+port and 3.5mm audio socket on top and the power and volume buttons on 
+the right. The power button is a tiny round nub almost flush with the 
+body, which is extremely inconvenient. Intex includes a thin plastic 
+case with this phone, and when it's on, you have to dig in with a 
+fingernail to use the power button. The rear is plain apart from 
+an Intex logo in the middle, the camera lens and twin-LED flash in one 
+corner, and a speaker cutout near the bottom. The cutout is flanked by 
+two raised points which should allow some sound to escape with the phone
+ placed flat on its back on a table.We had quite a bit of trouble
+ getting the rear panel on and off this phone.  It has little clips 
+around the edges much like other phones, but getting them to snap into 
+place and stay there was unnecessarily frustrating. The relatively small
+ battery must be popped out to access any of the card slots. There's one
+ for a regular-sized SIM, one for a Micro-SIM, and one for a microSD 
+card.This is one of the few phones now available with a 
+sub-5-inch screen, and as a result it's pretty compact. However, we 
+found that a corner would always dig into our palms when used with one 
+hand. The grip is otherwise just fine, and it's made even better when 
+using the included plastic shell.Specifications and softwareThe
+ Intex Aqua Speed HD belies its name with a relatively poky MediaTek 
+MT6582M SoC running the show. It has four CPU cores running at 1.3GHz, 
+and a Mali-400MP2 GPU. There's 2GB of RAM, which is nice to see, along 
+with 16GB of storage space. Unfortunately, microSD card capacity support
+ tops out at only 32GB. There's an 8-megapixel camera on the rear and a 
+5-megapixel one in front.The 720p HD screen isn't the best we've 
+seen, but it's more than adequate. We're a little concerned that the 
+battery capacity is only 1700mAh. There's also Bluetooth 4.0, Wi-Fi 
+b/g/n, FM radio and A-GPS. 3G is supported, but not LTE. There's also 
+HotKnot, MediaTek's innovative feature designed to let two compatible 
+phones send each other small bits of information such as contacts, using
+ sensors and the touchscreens themselves rather than Blutooth or any 
+other radio standard.Although the Aqua Speed HD comes running 
+Android 4.4.2, Intex has covered it up with one of the ugliest custom 
+skins we've ever seen. It has plenty of neat functionality, but it's 
+just visually awful - especially the icons, which look like they were 
+designed by a two-year-old. There are useful shortcuts on the 
+lockscreen, and two not-so-useful music and camera widgets that take up 
+an entire homescreen each (but can be disabled). Thankfully there is a 
+distinct app drawer and you can organise icons as you wish.Intex 
+has gone with a redundant Menu key below the screen rather than a 
+dedicated Recent apps key for multitasking. There's also an iOS-knockoff
+ quick settings menu that can be pulled up by flicking upwards from the 
+bottom of the screen which duplicates the brightness and toggle controls
+ found in the notifications shade. This was particularly annoying as it 
+was too easy to trigger from within full-screen apps, but again at least
+ it can be turned off.There are also other customisations, 
+including gestures and shortcuts - being able to double-tap the screen 
+to wake the phone somewhat makes up for the inaccessible power button, 
+and you can also swipe in specific patterns to wake and jump directly to
+ some of the preinstalled apps.PerformanceThe Intex Aqua 
+Speed HD didn't stutter or struggle with the basic tasks we put it 
+through. Screen transitions were animated smoothly and we didn't have 
+trouble with multitasking. However, benchmark the scores indicate that 
+you won't be able to push this phone very much. AnTuTu and Quadrant gave
+ us 18,478 and 7,067 points overall which are both on the lower end of 
+their scales. 3DMark Ice Storm produced a score of 3,149 which again was
+ below par. The phone struggled to play our sample 1080p video 
+file, which was smooth but full of artefacts. Furthermore, we found that
+ the rear got a bit too hot when the phone was subjected to any heavy 
+task. Battery life came in at only 4 hours, 19 minutes in our video loop
+ test, confirming our earlier worries. Voices sounded a bit artificial 
+in phone calls, though parties on the other end reported no problems.  As
+ we said earlier, the screen isn't the best we've seen at this level, 
+but it's pretty good. 720x1280 is a decent resolution for a budget 
+4.7-inch phone and things are sharp and clear enough. Colours are a bit 
+overblown but that's about it. On the other hand, the speaker is 
+absolutely dreadful. Our test tracks sounded like they had been mangled 
+by heavy machinery and even voices in videos were harsh and 
+unrecognisable.(Click to see full size)The final disappointment with this phone was its 
+camera. While not entirely awful, we often wound up with shots that were
+ completely unusable. It couldn't judge exposure levels very well and 
+several of our shots had overblown patches. When reviewed on a big 
+screen, photos appeared overcompressed and blotchy, with poor 
+reproduction of details - and the less said about video capture quality,
+ the better. The only positive was that some of the shots came out with 
+nice depth of field effects, especially close-ups of small objects taken
+ in favourable lighting. (Click to see full size)The same issues were magnified when 
+taking photos at night - most subjects came out completely black, but if
+ there was enough direct light, such as the area directly under a 
+streetlamp, things were better. There was still far too much noise and 
+compression though.VerdictA year or so ago, the Intex Aqua
+ Speed HD might have been a good phone to buy at this price level. With 
+increasingly sophisticated competitors entering the market, Intex will 
+have to do a lot better to stay in the game. The Xiaomi Redmi 2 and 
+Lenovo A6000 Plus cost a fair bit less and turn out better performance 
+in pretty much every test - and those two are not the only options 
+either.We're struggling to think of any factor that might be a 
+reason for someone to choose this phone over another, but we're drawing a
+ blank. Perhaps its looks might count, if that's what's important. Even 
+the fact that it's available outside of limited-quantity flash sales 
+doesn't really make up for all its flaws.This isn't a bad phone 
+by any means, but it is simply outclassed. Those shopping in the value 
+category obviously care about getting their money's worth, and 
+unfortunately for Intex this time, you can get better battery life, 
+better entertainment, a better camera and more power for less money.
+
+Today, Chinese behemoths are 
+playing exactly the same game in India, edging out local companies by 
+cutting out the middlemen and using ecommerce to circumvent the bother 
+of establishing retail channels. Our performance and value charts are 
+now dominated by Xiaomi, Lenovo and Huawei, with several others likely to
+ join them soon.
+
+That's the backdrop against which Intex has 
+launched its latest low-cost model, the Intex Aqua Speed HD. In terms of
+ pricing, it goes right up against the category's heavyweights: the 
+Xiaomi Redmi 2 (Review | Pictures), Lenovo A6000 Plus (Review | Pictures) and Motorola Moto E (Gen 2) (Review | Pictures). Let's 
+see if it can be a disruptive force.
+
+Look and feelThe first
+ thing that stands out about the Intex Aqua Speed HD is the trim running
+ around its sides. Our white unit had a pale gold stripe, and we were 
+pleased that it wasn't too garish. However the front face isn't much to 
+look at; the camera and sensor cutouts above the screen look a bit ugly 
+and the rest of it is as generic as any other low-cost Android phone. 
+From some angles, the corners and edges seem inspired by the Sony Xperia
+ Z3 (Review | Pictures).
+
+The left and bottom are totally blank, with the Micro-USB 
+port and 3.5mm audio socket on top and the power and volume buttons on 
+the right. The power button is a tiny round nub almost flush with the 
+body, which is extremely inconvenient. Intex includes a thin plastic 
+case with this phone, and when it's on, you have to dig in with a 
+fingernail to use the power button. 
+
+The rear is plain apart from 
+an Intex logo in the middle, the camera lens and twin-LED flash in one 
+corner, and a speaker cutout near the bottom. The cutout is flanked by 
+two raised points which should allow some sound to escape with the phone
+ placed flat on its back on a table.
+
+We had quite a bit of trouble
+ getting the rear panel on and off this phone.  It has little clips 
+around the edges much like other phones, but getting them to snap into 
+place and stay there was unnecessarily frustrating. The relatively small
+ battery must be popped out to access any of the card slots. There's one
+ for a regular-sized SIM, one for a Micro-SIM, and one for a microSD 
+card.
+
+This is one of the few phones now available with a 
+sub-5-inch screen, and as a result it's pretty compact. However, we 
+found that a corner would always dig into our palms when used with one 
+hand. The grip is otherwise just fine, and it's made even better when 
+using the included plastic shell.
+
+Specifications and softwareThe
+ Intex Aqua Speed HD belies its name with a relatively poky MediaTek 
+MT6582M SoC running the show. It has four CPU cores running at 1.3GHz, 
+and a Mali-400MP2 GPU. There's 2GB of RAM, which is nice to see, along 
+with 16GB of storage space. Unfortunately, microSD card capacity support
+ tops out at only 32GB. There's an 8-megapixel camera on the rear and a 
+5-megapixel one in front.
+
+The 720p HD screen isn't the best we've 
+seen, but it's more than adequate. We're a little concerned that the 
+battery capacity is only 1700mAh. There's also Bluetooth 4.0, Wi-Fi 
+b/g/n, FM radio and A-GPS. 3G is supported, but not LTE. There's also 
+HotKnot, MediaTek's innovative feature designed to let two compatible 
+phones send each other small bits of information such as contacts, using
+ sensors and the touchscreens themselves rather than Blutooth or any 
+other radio standard.
+
+Although the Aqua Speed HD comes running 
+Android 4.4.2, Intex has covered it up with one of the ugliest custom 
+skins we've ever seen. It has plenty of neat functionality, but it's 
+just visually awful - especially the icons, which look like they were 
+designed by a two-year-old. There are useful shortcuts on the 
+lockscreen, and two not-so-useful music and camera widgets that take up 
+an entire homescreen each (but can be disabled). Thankfully there is a 
+distinct app drawer and you can organise icons as you wish.
+
+Intex 
+has gone with a redundant Menu key below the screen rather than a 
+dedicated Recent apps key for multitasking. There's also an iOS-knockoff
+ quick settings menu that can be pulled up by flicking upwards from the 
+bottom of the screen which duplicates the brightness and toggle controls
+ found in the notifications shade. This was particularly annoying as it 
+was too easy to trigger from within full-screen apps, but again at least
+ it can be turned off.
+
+There are also other customisations, 
+including gestures and shortcuts - being able to double-tap the screen 
+to wake the phone somewhat makes up for the inaccessible power button, 
+and you can also swipe in specific patterns to wake and jump directly to
+ some of the preinstalled apps.
+
+PerformanceThe Intex Aqua 
+Speed HD didn't stutter or struggle with the basic tasks we put it 
+through. Screen transitions were animated smoothly and we didn't have 
+trouble with multitasking. However, benchmark the scores indicate that 
+you won't be able to push this phone very much. AnTuTu and Quadrant gave
+ us 18,478 and 7,067 points overall which are both on the lower end of 
+their scales. 3DMark Ice Storm produced a score of 3,149 which again was
+ below par.
+
+ 
+
+The phone struggled to play our sample 1080p video 
+file, which was smooth but full of artefacts. Furthermore, we found that
+ the rear got a bit too hot when the phone was subjected to any heavy 
+task. Battery life came in at only 4 hours, 19 minutes in our video loop
+ test, confirming our earlier worries. Voices sounded a bit artificial 
+in phone calls, though parties on the other end reported no problems.  
+
+As
+ we said earlier, the screen isn't the best we've seen at this level, 
+but it's pretty good. 720x1280 is a decent resolution for a budget 
+4.7-inch phone and things are sharp and clear enough. Colours are a bit 
+overblown but that's about it. On the other hand, the speaker is 
+absolutely dreadful. Our test tracks sounded like they had been mangled 
+by heavy machinery and even voices in videos were harsh and 
+unrecognisable.
+
+(Click to see full size)
+
+The final disappointment with this phone was its 
+camera. While not entirely awful, we often wound up with shots that were
+ completely unusable. It couldn't judge exposure levels very well and 
+several of our shots had overblown patches. When reviewed on a big 
+screen, photos appeared overcompressed and blotchy, with poor 
+reproduction of details - and the less said about video capture quality,
+ the better. The only positive was that some of the shots came out with 
+nice depth of field effects, especially close-ups of small objects taken
+ in favourable lighting. 
+
+(Click to see full size)
+
+The same issues were magnified when 
+taking photos at night - most subjects came out completely black, but if
+ there was enough direct light, such as the area directly under a 
+streetlamp, things were better. There was still far too much noise and 
+compression though.
+
+VerdictA year or so ago, the Intex Aqua
+ Speed HD might have been a good phone to buy at this price level. With 
+increasingly sophisticated competitors entering the market, Intex will 
+have to do a lot better to stay in the game. The Xiaomi Redmi 2 and 
+Lenovo A6000 Plus cost a fair bit less and turn out better performance 
+in pretty much every test - and those two are not the only options 
+either.
+
+We're struggling to think of any factor that might be a 
+reason for someone to choose this phone over another, but we're drawing a
+ blank. Perhaps its looks might count, if that's what's important. Even 
+the fact that it's available outside of limited-quantity flash sales 
+doesn't really make up for all its flaws.
+
+This isn't a bad phone 
+by any means, but it is simply outclassed. Those shopping in the value 
+category obviously care about getting their money's worth, and 
+unfortunately for Intex this time, you can get better battery life, 
+better entertainment, a better camera and more power for less money.
+

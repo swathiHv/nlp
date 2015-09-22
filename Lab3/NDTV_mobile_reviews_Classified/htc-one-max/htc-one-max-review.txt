@@ -1,0 +1,535 @@
+HTC One Max review
+
+Big-screened
+ phones are nothing new at this point. Samsung, which currently 
+dominates pretty much every price band of the Android market, wasn't the
+ first to market but it did prove that the category could be extremely 
+lucrative. The Galaxy Note was a runaway success, leaving other 
+manufacturers racing to play catch-up. HTC has had a bad few 
+years, and has in the past relied on software customizations to help it 
+distinguish itself in the market. Last year, it tried to project cheap 
+plastic construction as Samsung's Achilles' Heel, and introduced the 
+all-metal HTC One. The One should have been a runaway success, with its 
+gorgeous looks, full-HD screen and Snapdragon 600 processor, all of 
+which were either industry firsts or pretty close. Still, the 
+beleaguered Taiwanese company faced a lukewarm response from the market,
+ while its Korean rival raced ahead.So now, HTC has gone back to 
+doing what everyone else is doing, which is where the One Max comes in. 
+It's a huge phone, because everyone else is making huge phones. It's 
+made of plastic, because, well, that's what everyone else is doing. And 
+it has a fingerprint scanner because, err, that's what at least one 
+competitor is doing and it might have seemed like a good idea to just 
+toss one in just in case.Look and feelThe HTC One Max 
+trades on the One's name and reputation, but unfortunately doesn't do it
+ any justice. HTC isn't in a position to create or market a beautifully 
+crafted flagship device right now, and the company has cut a lot of 
+corners in manufacturing the One Max. Although it has a strong family 
+resemblance to the One, this phone is constructed out of plastic like 
+the One Mini. The front face is nearly identical to that of the One, but
+ you'll immediately notice an unsightly white plastic band around it. 
+Even on the back, it's clear that the metal pieces are only for 
+decoration. The odd combination of plastic, metal and glass gives this 
+phone a very awkward look. It's hard to think of this as a premium 
+device when we know its smaller, older sibling is so much better 
+constructed.The large aluminium backplate pops off when you press
+ down on a tiny tab that's located, oddly enough, on the phone's upper 
+left edge where control buttons usually reside. You'll notice that the 
+backplate doesn't really sit well in its plastic frame, and the sharp 
+corner nearest to the clasp stays raised enough to be annoying when you 
+hold the phone in your hands. You only ever need to take the panel off 
+to access the SIM and microSD card slots, which seems like a shocking 
+waste. Since the battery isn't accessible anyway, the entire body could 
+have been a lot thinner and better construction could have been applied 
+if the slots had simply been accessible from the phone's exterior.The
+ One Max is pretty bulky, at 217g and over 10mm thick, but its curved 
+back and slim proportions help mask that fact well. You'll find a 
+prominent camera cutout and sensors along the top of the front panel, 
+and there's a battery status and notification LED hidden in the speaker 
+grille as well. The power button and volume rocker sit on the right 
+side, with a microUSB data and charging port on the bottom. There's no 
+camera button, which is perhaps understandable for such an unwieldy 
+device. The left side has only the aforementioned clasp, while the top 
+hosts a standard 3.5mm headset jack as well as an infrared emitter used 
+by some of the bundled apps. Most interesting is the back panel, where 
+the camera and flash share the spotlight with a large square fingerprint
+ reader. Lower down, a set of three electrical contact points seem 
+designed for docking with accessories, though even HTC's own site 
+doesn't offer much information about which accessories use them. We're 
+actually glad to see that HTC has stopped printing giant red Beats Audio
+ logos on the back of its phones -- this is perhaps the sole area in which 
+the One Max looks better than the One.Samsung's defining feature 
+for its Note line is the S-pen, an active stylus that works in concert 
+with the customized Android UI and a few third-party apps to let users 
+take advantage of the available screen space. HTC has no equivalent 
+feature in either hardware or software, so you'll be using it with your 
+thumbs just like any other touchscreen phone.SpecificationsOn
+ the inside, the HTC One Max finds itself at a disadvantage compared to 
+today's flagships from competing manufacturers. The SoC is a quad-core 
+Qualcomm Snapdragon 600, which is a step lower in both CPU and graphics 
+performance compared to the Snapdragon 800 used by most of its peers. 
+There's 2GB of RAM, which is perfectly fine. In practical terms you 
+aren't likely to notice much difference right now except in the most 
+intensive games and apps, but it's worth noting for future 
+compatibility.The screen is sharp and bright, and we had no 
+trouble with it even in sunlight. 1920x1080 is the current standard 
+resolution for premium smartphones and we're glad to see that HTC has 
+not skimped in this regard. Videos are generally smooth, and viewing 
+angles are as good as anything we've ever seen. Games, of course, make 
+the best use of the large surface area. We're also happy to note that 
+the screen is protected by toughened Gorilla Glass 3.More 
+noteworthy are the twin front-facing stereo speakers, a feature that the
+ company calls BoomSound. The One Max's audio output is deep, rich, and 
+clearly audible from several feet away. It might not fill up an entire 
+room, but when held in your hands, this phone will transform the way you
+ experience movies and games. Even simple games like Temple Run really 
+come alive if you can play with the sound turned up. It's hard going 
+back to the tinny bottom- or rear-firing speakers on most other phones.As
+ far as connectivity is concerned, the One Max checks most of the right 
+boxes. The latest Wi-Fi standard, 802.11ac is supported, as is Bluetooth
+ 4.0 with aptX audio support. Wireless video streaming is supported 
+using Miracast, and you can use the device as a Wi-Fi hotspot to share 
+your 3G data connection. 4G LTE is supported, though not on the 2.3GHz 
+band that has been adopted in India. The One Max is the sole member of 
+its family to support expandable storage, and you can add up to 64GB 
+using standard microSD cards. CameraHTC has continued the 
+practice of rating its high-end cameras in "Ultrapixels", a word it uses
+ to emphasize the larger physical size of the individual receptors on 
+the sensor surface. First seen on the HTC One, the idea is to allow each
+ pixel to capture more incoming light, thus allowing for superior images
+ in terms of exposure and clarity, especially low-light conditions. 
+While it's still technically a 4-UltraPixel unit, HTC equates the amount 
+of data recorded to competing 13-megapixel models. The tradeoff is that 
+images are smaller than the ones taken by competing devices, but HTC 
+says the lack of compression and higher overall quality is more than 
+enough to make up for that. We aren't entirely convinced by these
+ arguments. In our testing, the low resolution became apparent in 
+certain situations, especially low-light macros. Larger images tend to 
+look sharper because they're scaled down on screen, but the One Max had 
+no such headroom to take advantage of. Photos are still fine for sharing
+ on social media and via email, but this isn't the type of device that 
+will make you feel like you never need a dedicated camera again. 
+Low-light scenes were indeed well lit, but we feel that this alone is 
+not worth the overall compromise, especially considering the calibre of 
+cameras on other manufacturers' current flagship phones.The HD 
+test videos we shot with the One Max had an artificial quality about 
+them, and artefacts were visible on the large screen when playing back 
+segments in which we tried to focus on fast-moving foreground objects.(Click to see full size)If
+ you like adjusting settings manually, the One Max's camera app menu 
+offers options for tweaking the exposure, saturation, sharpness, 
+contrast, ISO and white balance. Preset scenes include HDR, panorama and
+ "dual-capture" (which sticks a "selfie" of the user taken with the 
+front camera on top of regular photos). In video mode, you can choose 
+"Fast HD" for 60fps recording, slow motion, and video HDR.One of 
+HTC's other headlining features is Zoe, which captures short video clips
+ instead of still photos. This results in short moving pictures that can
+ capture moments more fully, such as spontaneously funny moments. Zoe 
+files aren't easily sharable to other people and devices, so HTC has 
+included an option to convert them into GIFs. (Click to see full size)SoftwareThe
+ One Max runs Android 4.3, though we expect the company to push out an 
+update to 4.4 in a month or two. HTC's Sense UI 5.5 customization lives 
+on top of the operating system, and thankfully, as opposed to its past 
+efforts, the current version of Sense is completely unobtrusive. Its 
+most notable feature is Blinkfeed, a visual that displays news and 
+social network updates in a tiled format. Blinkfeed was initially 
+intended to replace the home screen, showing fresh updates every time 
+you turn the phone on. Many users found this irritating, and so HTC has 
+responded by allowing you to set it as a secondary home screen or even 
+turn it off entirely. In addition to Facebook and Twitter, you can now 
+sign in to Instagram and Google+ to see even more social updates. 
+There's an improved mechanism for sorting through available news sources
+ and choose topic areas you're interested in.One other tweak 
+worth mentioning is in the Gallery app. There's a tab called Video 
+Highlights, in which you'll see a 30-second video clip made out of 
+photos from your collection, including Zoe moving videos. The app 
+automatically puts photos that it deems to be your "highlights" 
+together, but you can deselect ones you don't want. You can also add a 
+theme, much like the ones found in image filter apps. Finally, you can 
+add a soundtrack of your choice and decide whether the images play 
+chronologically or in a random order. Once done, you can share the 
+highlights video via all the usual social networks.Also in the 
+Gallery app, HTC has provided a number of editing options. You can 
+doodle on top of photos, rotate, crop and flip them. There are also a 
+number of creative filters and frames, plus tools to remove red eye, 
+brighten faces, and reduce glare. If a video is selected, you'll be able
+ to extract a still from it at any point, as well as trim the beginning 
+and end, but that's it for editing options. The One Max is 
+otherwise mostly unremarkable in terms of software. There's nothing 
+along the lines of Samsung's extensive customisations on the Galaxy 
+Note, which help the user get a lot of value out of the large screen and
+ stylus. There aren't too many bundled apps and home screen widgets 
+either, though a lot of people will appreciate this.Fingerprint sensorWe
+ were especially curious about how well the fingerprint reader would 
+work. When we first saw leaked photos and then the actual launch 
+announcement of this phone, we had to wonder whether it was just a 
+knee-jerk reaction to Apple's new TouchID sensor feature in the iPhone 
+5s. We might never know who had the idea first, but unfortunately HTC 
+and any other company that tries a fingerprint sensor now is going to be
+ held to Apple's standard. After a few days of use it's clear that HTC's
+ implementation just isn't as well thought out as Apple's. First 
+of all, HTC has placed the touch sensor in a really awkward place. It 
+seems that no one wanted to disturb the One Max's looks, and there just 
+isn't any room on the phone's front face, considering the display is 
+already so large. With the sensor on the back, you have to use it 
+without looking. There's nothing to guide your finger to it and we often
+ found ourselves swiping the camera lens, which actually feels exactly 
+the same. Furthermore, once you enrol your fingerprints, the One Max 
+insists you first try to use the sensor to unlock the phone, and it 
+takes an additional tap to show the keypad for passcode entry instead. 
+This also means you can't quickly unlock the phone when it's lying on a 
+table -- you either have to pick it up or tap the screen just to be able to
+ enter your passcode. You can store up to three fingers' prints, 
+and assign each of them to a different app, so for example, swiping with
+ your middle finger can take you straight to the camera, but swiping 
+with your ring finger will open the Web browser. It's a great idea, 
+except that the software doesn't make it clear that this is optional, so
+ we wound up assigning apps to each finger and then being unable to 
+simply unlock the phone and just go to the home screen.As far as 
+accuracy goes, we had the best luck with our index fingers. It wasn't 
+perfect all the time, but it didn't take more than three swipes at 
+worst. Perhaps because of the positioning of the sensor and the fact 
+that you have to swipe downwards, recognition with other fingers was not
+ good at all. We often found ourselves swiping four or five times before
+ either being locked out or just giving up and using our passcode.Finally,
+ it's worth noting that you can't use the fingerprint sensor to wake the
+ phone from standby; you have to first hit the power button and then 
+unlock the phone using the sensor. Once the phone is unlocked, the 
+sensor does absolutely nothing -- you can't even use it to launch your 
+associated apps, which would seem like an obvious thing. We don't
+ know if HTC plans to open up the sensor to third-party developers or 
+add any new functions in a future software update, but for now, it 
+definitely doesn't feel like a must-have feature that would make anyone 
+rush out to buy this phone.Performance and battery lifeWe've
+ seen how well the One's Snapdragon 600 performs, and since the One Max 
+has exactly the same chip inside, we had an idea of what to expect. We 
+saw scores of 12,188 in Quadrant and 6,903 in our 3DMark HD graphics 
+test run. We also ran a few CPU-intensive JavaScript tests such as 
+Sunspider and Browsermark, which returned decent scores. In terms of raw
+ numbers, these will obviously fall below the benchmark levels set by 
+competing phones that use the higher-performance Snapdragon 800, but in 
+real-world usage there isn't any noticeable practical difference. The 
+One Max handles 1080p HD video without breaking a sweat, and it's only a
+ handful of today's games that could really stress it out. Despite
+ this, the One Max loses out when we calculate its value for money 
+proposition. If this phone was even a little cheaper than its 
+competition, we'd be comfortable slotting it in just below the rest of 
+today's flagship phones, but it actually commands quite a premium in the
+ market. That makes us question how much useful life you'd get out of it
+ if you bought it today, compared to the other options available.   Audio
+ performance remains the One Max's standout feature, and call quality is
+ no exception. Voices are loud and clear over the phone's speaker.As far as battery life goes, we put the One Max through its paces with our video loop test, and it lasted for 10 hours, 40 minutes.VerdictHTC's
+ strategy has been to take a winning formula and adapt it to multiple 
+device sizes and price points. For better or worse, the intended 
+top-of-the-line One Max doesn't seem that much more of an improvement 
+over the One. Ultimately, if given a choice between the One Max and the 
+One, we'd go with the latter. With roughly the same power under the hood
+ and even the same screen resolution, the One Max simply doesn't 
+distinguish itself enough. It also doesn't help that it looks way 
+cheaper than the One, and doesn't have any unique features apart from 
+the forgettable fingerprint reader. If you're more focused on 
+productive work, consider something like Samsung's latest Galaxy Note 
+model. If you like the look and feel of this phone, you'll almost 
+certainly prefer the smaller One. It's only if you're seriously in love 
+with outsized phones and spend a lot of time gaming or watching videos 
+that the One Max is worth considering. 
+
+
+Big-screened
+ phones are nothing new at this point. Samsung, which currently 
+dominates pretty much every price band of the Android market, wasn't the
+ first to market but it did prove that the category could be extremely 
+lucrative. The Galaxy Note was a runaway success, leaving other 
+manufacturers racing to play catch-up. 
+
+HTC has had a bad few 
+years, and has in the past relied on software customizations to help it 
+distinguish itself in the market. Last year, it tried to project cheap 
+plastic construction as Samsung's Achilles' Heel, and introduced the 
+all-metal HTC One. The One should have been a runaway success, with its 
+gorgeous looks, full-HD screen and Snapdragon 600 processor, all of 
+which were either industry firsts or pretty close. Still, the 
+beleaguered Taiwanese company faced a lukewarm response from the market,
+ while its Korean rival raced ahead.
+
+So now, HTC has gone back to 
+doing what everyone else is doing, which is where the One Max comes in. 
+It's a huge phone, because everyone else is making huge phones. It's 
+made of plastic, because, well, that's what everyone else is doing. And 
+it has a fingerprint scanner because, err, that's what at least one 
+competitor is doing and it might have seemed like a good idea to just 
+toss one in just in case.
+
+Look and feelThe HTC One Max 
+trades on the One's name and reputation, but unfortunately doesn't do it
+ any justice. HTC isn't in a position to create or market a beautifully 
+crafted flagship device right now, and the company has cut a lot of 
+corners in manufacturing the One Max. Although it has a strong family 
+resemblance to the One, this phone is constructed out of plastic like 
+the One Mini. The front face is nearly identical to that of the One, but
+ you'll immediately notice an unsightly white plastic band around it. 
+Even on the back, it's clear that the metal pieces are only for 
+decoration. The odd combination of plastic, metal and glass gives this 
+phone a very awkward look. It's hard to think of this as a premium 
+device when we know its smaller, older sibling is so much better 
+constructed.
+
+The large aluminium backplate pops off when you press
+ down on a tiny tab that's located, oddly enough, on the phone's upper 
+left edge where control buttons usually reside. You'll notice that the 
+backplate doesn't really sit well in its plastic frame, and the sharp 
+corner nearest to the clasp stays raised enough to be annoying when you 
+hold the phone in your hands. You only ever need to take the panel off 
+to access the SIM and microSD card slots, which seems like a shocking 
+waste. Since the battery isn't accessible anyway, the entire body could 
+have been a lot thinner and better construction could have been applied 
+if the slots had simply been accessible from the phone's exterior.
+
+The
+ One Max is pretty bulky, at 217g and over 10mm thick, but its curved 
+back and slim proportions help mask that fact well. You'll find a 
+prominent camera cutout and sensors along the top of the front panel, 
+and there's a battery status and notification LED hidden in the speaker 
+grille as well. The power button and volume rocker sit on the right 
+side, with a microUSB data and charging port on the bottom. There's no 
+camera button, which is perhaps understandable for such an unwieldy 
+device. The left side has only the aforementioned clasp, while the top 
+hosts a standard 3.5mm headset jack as well as an infrared emitter used 
+by some of the bundled apps. Most interesting is the back panel, where 
+the camera and flash share the spotlight with a large square fingerprint
+ reader. Lower down, a set of three electrical contact points seem 
+designed for docking with accessories, though even HTC's own site 
+doesn't offer much information about which accessories use them. We're 
+actually glad to see that HTC has stopped printing giant red Beats Audio
+ logos on the back of its phones -- this is perhaps the sole area in which 
+the One Max looks better than the One.
+
+Samsung's defining feature 
+for its Note line is the S-pen, an active stylus that works in concert 
+with the customized Android UI and a few third-party apps to let users 
+take advantage of the available screen space. HTC has no equivalent 
+feature in either hardware or software, so you'll be using it with your 
+thumbs just like any other touchscreen phone.
+
+SpecificationsOn
+ the inside, the HTC One Max finds itself at a disadvantage compared to 
+today's flagships from competing manufacturers. The SoC is a quad-core 
+Qualcomm Snapdragon 600, which is a step lower in both CPU and graphics 
+performance compared to the Snapdragon 800 used by most of its peers. 
+There's 2GB of RAM, which is perfectly fine. In practical terms you 
+aren't likely to notice much difference right now except in the most 
+intensive games and apps, but it's worth noting for future 
+compatibility.
+
+The screen is sharp and bright, and we had no 
+trouble with it even in sunlight. 1920x1080 is the current standard 
+resolution for premium smartphones and we're glad to see that HTC has 
+not skimped in this regard. Videos are generally smooth, and viewing 
+angles are as good as anything we've ever seen. Games, of course, make 
+the best use of the large surface area. We're also happy to note that 
+the screen is protected by toughened Gorilla Glass 3.
+
+More 
+noteworthy are the twin front-facing stereo speakers, a feature that the
+ company calls BoomSound. The One Max's audio output is deep, rich, and 
+clearly audible from several feet away. It might not fill up an entire 
+room, but when held in your hands, this phone will transform the way you
+ experience movies and games. Even simple games like Temple Run really 
+come alive if you can play with the sound turned up. It's hard going 
+back to the tinny bottom- or rear-firing speakers on most other phones.
+
+As
+ far as connectivity is concerned, the One Max checks most of the right 
+boxes. The latest Wi-Fi standard, 802.11ac is supported, as is Bluetooth
+ 4.0 with aptX audio support. Wireless video streaming is supported 
+using Miracast, and you can use the device as a Wi-Fi hotspot to share 
+your 3G data connection. 4G LTE is supported, though not on the 2.3GHz 
+band that has been adopted in India. The One Max is the sole member of 
+its family to support expandable storage, and you can add up to 64GB 
+using standard microSD cards. 
+
+CameraHTC has continued the 
+practice of rating its high-end cameras in "Ultrapixels", a word it uses
+ to emphasize the larger physical size of the individual receptors on 
+the sensor surface. First seen on the HTC One, the idea is to allow each
+ pixel to capture more incoming light, thus allowing for superior images
+ in terms of exposure and clarity, especially low-light conditions. 
+While it's still technically a 4-UltraPixel unit, HTC equates the amount 
+of data recorded to competing 13-megapixel models. The tradeoff is that 
+images are smaller than the ones taken by competing devices, but HTC 
+says the lack of compression and higher overall quality is more than 
+enough to make up for that. 
+
+We aren't entirely convinced by these
+ arguments. In our testing, the low resolution became apparent in 
+certain situations, especially low-light macros. Larger images tend to 
+look sharper because they're scaled down on screen, but the One Max had 
+no such headroom to take advantage of. Photos are still fine for sharing
+ on social media and via email, but this isn't the type of device that 
+will make you feel like you never need a dedicated camera again. 
+Low-light scenes were indeed well lit, but we feel that this alone is 
+not worth the overall compromise, especially considering the calibre of 
+cameras on other manufacturers' current flagship phones.
+
+The HD 
+test videos we shot with the One Max had an artificial quality about 
+them, and artefacts were visible on the large screen when playing back 
+segments in which we tried to focus on fast-moving foreground objects.
+
+(Click to see full size)
+
+If
+ you like adjusting settings manually, the One Max's camera app menu 
+offers options for tweaking the exposure, saturation, sharpness, 
+contrast, ISO and white balance. Preset scenes include HDR, panorama and
+ "dual-capture" (which sticks a "selfie" of the user taken with the 
+front camera on top of regular photos). In video mode, you can choose 
+"Fast HD" for 60fps recording, slow motion, and video HDR.
+
+One of 
+HTC's other headlining features is Zoe, which captures short video clips
+ instead of still photos. This results in short moving pictures that can
+ capture moments more fully, such as spontaneously funny moments. Zoe 
+files aren't easily sharable to other people and devices, so HTC has 
+included an option to convert them into GIFs.
+
+ 
+
+(Click to see full size)
+
+SoftwareThe
+ One Max runs Android 4.3, though we expect the company to push out an 
+update to 4.4 in a month or two. HTC's Sense UI 5.5 customization lives 
+on top of the operating system, and thankfully, as opposed to its past 
+efforts, the current version of Sense is completely unobtrusive. Its 
+most notable feature is Blinkfeed, a visual that displays news and 
+social network updates in a tiled format. Blinkfeed was initially 
+intended to replace the home screen, showing fresh updates every time 
+you turn the phone on. Many users found this irritating, and so HTC has 
+responded by allowing you to set it as a secondary home screen or even 
+turn it off entirely. In addition to Facebook and Twitter, you can now 
+sign in to Instagram and Google+ to see even more social updates. 
+There's an improved mechanism for sorting through available news sources
+ and choose topic areas you're interested in.
+
+One other tweak 
+worth mentioning is in the Gallery app. There's a tab called Video 
+Highlights, in which you'll see a 30-second video clip made out of 
+photos from your collection, including Zoe moving videos. The app 
+automatically puts photos that it deems to be your "highlights" 
+together, but you can deselect ones you don't want. You can also add a 
+theme, much like the ones found in image filter apps. Finally, you can 
+add a soundtrack of your choice and decide whether the images play 
+chronologically or in a random order. Once done, you can share the 
+highlights video via all the usual social networks.
+
+Also in the 
+Gallery app, HTC has provided a number of editing options. You can 
+doodle on top of photos, rotate, crop and flip them. There are also a 
+number of creative filters and frames, plus tools to remove red eye, 
+brighten faces, and reduce glare. If a video is selected, you'll be able
+ to extract a still from it at any point, as well as trim the beginning 
+and end, but that's it for editing options. 
+
+The One Max is 
+otherwise mostly unremarkable in terms of software. There's nothing 
+along the lines of Samsung's extensive customisations on the Galaxy 
+Note, which help the user get a lot of value out of the large screen and
+ stylus. There aren't too many bundled apps and home screen widgets 
+either, though a lot of people will appreciate this.
+
+Fingerprint sensorWe
+ were especially curious about how well the fingerprint reader would 
+work. When we first saw leaked photos and then the actual launch 
+announcement of this phone, we had to wonder whether it was just a 
+knee-jerk reaction to Apple's new TouchID sensor feature in the iPhone 
+5s. We might never know who had the idea first, but unfortunately HTC 
+and any other company that tries a fingerprint sensor now is going to be
+ held to Apple's standard. After a few days of use it's clear that HTC's
+ implementation just isn't as well thought out as Apple's. 
+
+First 
+of all, HTC has placed the touch sensor in a really awkward place. It 
+seems that no one wanted to disturb the One Max's looks, and there just 
+isn't any room on the phone's front face, considering the display is 
+already so large. With the sensor on the back, you have to use it 
+without looking. There's nothing to guide your finger to it and we often
+ found ourselves swiping the camera lens, which actually feels exactly 
+the same. Furthermore, once you enrol your fingerprints, the One Max 
+insists you first try to use the sensor to unlock the phone, and it 
+takes an additional tap to show the keypad for passcode entry instead. 
+This also means you can't quickly unlock the phone when it's lying on a 
+table -- you either have to pick it up or tap the screen just to be able to
+ enter your passcode. 
+
+You can store up to three fingers' prints, 
+and assign each of them to a different app, so for example, swiping with
+ your middle finger can take you straight to the camera, but swiping 
+with your ring finger will open the Web browser. It's a great idea, 
+except that the software doesn't make it clear that this is optional, so
+ we wound up assigning apps to each finger and then being unable to 
+simply unlock the phone and just go to the home screen.
+
+As far as 
+accuracy goes, we had the best luck with our index fingers. It wasn't 
+perfect all the time, but it didn't take more than three swipes at 
+worst. Perhaps because of the positioning of the sensor and the fact 
+that you have to swipe downwards, recognition with other fingers was not
+ good at all. We often found ourselves swiping four or five times before
+ either being locked out or just giving up and using our passcode.
+
+Finally,
+ it's worth noting that you can't use the fingerprint sensor to wake the
+ phone from standby; you have to first hit the power button and then 
+unlock the phone using the sensor. Once the phone is unlocked, the 
+sensor does absolutely nothing -- you can't even use it to launch your 
+associated apps, which would seem like an obvious thing. 
+
+We don't
+ know if HTC plans to open up the sensor to third-party developers or 
+add any new functions in a future software update, but for now, it 
+definitely doesn't feel like a must-have feature that would make anyone 
+rush out to buy this phone.
+
+Performance and battery lifeWe've
+ seen how well the One's Snapdragon 600 performs, and since the One Max 
+has exactly the same chip inside, we had an idea of what to expect. We 
+saw scores of 12,188 in Quadrant and 6,903 in our 3DMark HD graphics 
+test run. We also ran a few CPU-intensive JavaScript tests such as 
+Sunspider and Browsermark, which returned decent scores. In terms of raw
+ numbers, these will obviously fall below the benchmark levels set by 
+competing phones that use the higher-performance Snapdragon 800, but in 
+real-world usage there isn't any noticeable practical difference. The 
+One Max handles 1080p HD video without breaking a sweat, and it's only a
+ handful of today's games that could really stress it out. 
+
+Despite
+ this, the One Max loses out when we calculate its value for money 
+proposition. If this phone was even a little cheaper than its 
+competition, we'd be comfortable slotting it in just below the rest of 
+today's flagship phones, but it actually commands quite a premium in the
+ market. That makes us question how much useful life you'd get out of it
+ if you bought it today, compared to the other options available.   
+
+Audio
+ performance remains the One Max's standout feature, and call quality is
+ no exception. Voices are loud and clear over the phone's speaker.
+
+As far as battery life goes, we put the One Max through its paces with our video loop test, and it lasted for 10 hours, 40 minutes.
+
+VerdictHTC's
+ strategy has been to take a winning formula and adapt it to multiple 
+device sizes and price points. For better or worse, the intended 
+top-of-the-line One Max doesn't seem that much more of an improvement 
+over the One. Ultimately, if given a choice between the One Max and the 
+One, we'd go with the latter. With roughly the same power under the hood
+ and even the same screen resolution, the One Max simply doesn't 
+distinguish itself enough. It also doesn't help that it looks way 
+cheaper than the One, and doesn't have any unique features apart from 
+the forgettable fingerprint reader. 
+
+If you're more focused on 
+productive work, consider something like Samsung's latest Galaxy Note 
+model. If you like the look and feel of this phone, you'll almost 
+certainly prefer the smaller One. It's only if you're seriously in love 
+with outsized phones and spend a lot of time gaming or watching videos 
+that the One Max is worth considering. 
+

@@ -1,0 +1,267 @@
+HTC Desire 820 Review: Several Improvements and One Drawback
+
+A
+ phone that was vital in bringing HTC back into the limelight last year was the HTC Desire 816 (Review | Pictures). This 
+mid-range phone had a large screen, ran the latest version of Android, 
+packed HTC's trademark BoomSound speakers, and boasted of a camera that 
+could capture some stunning photographs in the right lighting 
+conditions. Six months after the launch of the Desire 816, HTC 
+announced its successor - the Desire 820. Apart from subtle aesthetic changes, it has upgraded internal specs such as a new 
+future-proof 64-bit octa-core processor, slightly more RAM, more 
+internal storage space and a better front camera. Let's dive right in 
+and figure out if the Desire 820 will continue to capture the 
+attention of buyers looking for a phone in the mid-range segment. Look and feelWe
+ noticed that the front of the HTC Desire 820 looks quite similar to its predecessor, with dark borders around the screen and strips on
+ the top and the bottom to accommodate the front-firing BoomSound 
+speakers. What HTC has done differently this time around is use its industrial design 
+expertise to give the Desire 820 an attractive two-tone body. Unfortunately, the glossy plastic looks and feels
+ cheap. It attracts fingerprints and scratches very easily. 
+We'd suggest using a case with this phone - preferably the Dot View one. The
+ Desire 820 reduces the thickness and weight of the Desire 816 by 
+0.2mm and 10g respectively. At the same time, it is 
+1.1mm taller. These are minor changes, although the lower weight is actually perceptible. It felt rather light in our hands. We
+ got the Santorini White variant of the phone for review, which has blue accents around the edges on the front. It 
+also has a similar coat of blue paint around the edges of hardware the micro-USB port on the bottom, power button and volume rocker 
+on the right, and the camera ring and LED flash on the rear. The
+ plastic ring around the lens of the primary camera protrudes from the body to protect the lens. The 3.5mm jack sits on top of the phone. A 
+flap on the left covers the two Nano-SIM card slots 
+and the microSD card slot.The Taiwanese phone company has decided
+ to stick with the same 720p 5.5-inch screen which was used on the Desire 816. We had expected HTC to bump up the 
+resolution to 1080p, but HTC phones generally have great displays and the Desire 
+820 is no exception. It has good colour reproduction and brilliant viewing angles. 
+However, we did feel that the brightness level of this screen was 
+slightly on the lower side. Specifications and softwareThis
+ is one of the first phones HTC to feature 
+Qualcomm's new 64-bit octa-core SoC aimed at mid-range smartphones. The 
+Snapdragon 615 uses has four 1.5 GHz Cortex-A53 cores and 
+four 1.0 GHz Cortex-A53 cores, and includes the new Adreno 405 GPU. HTC 
+has bumped up the RAM to 2GB on the Desire 820, from 1.5GB on the Desire
+ 816. The internal storage, is now a 
+respectable 16GB compared to the 8GB ROM on its younger sibling. The 
+Desire 820 accepts microSD cards of up to 128GB capacity and you can connect storage devices using the microUSB port which should sort out all 
+your storage needs. The Desire 820's front camera has been bumped up
+ to 8 megapixels and the primary one on the rear is still a 
+13-megapixel shooter with LED flash. The phone can connect to other 
+devices over Bluetooth v4.0 and has support for apt-X, which improves the quality of streamed audio. The Desire 820 can connect to LTE networks in India which work on the 2300MHz
+ frequency band. Other connectivity options include Wi-Fi a/b/g/n and 
+Wi-Fi Direct. Also unchanged from the Desire 816 is the 2600mAh battery.
+ HTC's Sense UI 6.0 skin runs on top of Android 4.4.4 and the 
+company has promised an update to Android Lollipop in the near future. Of all the Android skins we've seen, Sense UI is the 
+lightest. Design-wise it is quite a departure from 
+stock Android but it is easy to use. The lock screen shows the home screen dock at 
+the bottom, which effectively means that
+ you can quickly launch important apps from the lock screen itself. The
+ first page of the home screen is the usual Blinkfeed, which is an 
+endless scroll of content from your favourite social networking and news
+ websites. The app drawer still scrolls vertically, and all apps 
+can be arranged by name, order of use, or a custom order 
+according to your preference. HTC Zoe, an app used to share 
+automatically remixed videos with friends, is also present and it looks 
+like HTC engineers are constantly striving to make it a more polished 
+experience. HTC also adds a few useful third-party apps like Facebook, 
+Polaris Office 5 and WeChat.CameraWe really liked how HTC 
+managed to pull a rabbit out of its hat with the performance of the 
+primary camera on the Desire 816. For a mid-range smartphone, it had a camera that could even rival some flagship smartphones. Not too 
+surprisingly, the Desire 820's 13-megapixel rear camera can capture 
+similarly impressive photographs in daylight. Why fix something that 
+isn't broken, right? The camera app is very polished and offers
+ a smorgasbord of options to the user. It shows only frequently used options by default. There 
+are a number of shooting modes available apart from your regular 
+suspects like Manual, Auto and Panorama. The Photo Booth mode offers filters, and Depth of Field mode is also one of our favourites. (Click for full size)In our test shots under good lighting conditions we 
+noticed that the camera captured great details with the noise levels 
+kept to a bare minimum. The images had a warm colour tone, which we 
+actually like. However, it may look undersaturated to some people. 
+Also, we didn't notice any barrel distortion or chromatic 
+aberration. The HDR mode creates some really dramatic improvements to the dynamic range. Compared
+ to other phones in the same price range, the Desire 820 can capture 
+decent shots even in low-light conditions. While our captured 
+images did have noise, there was a good amount of light. The
+ Desire 820 can also record really detailed 1080p shots but the 
+Slow Motion mode captures only 720p clips which don't look so good.
+ The 8-megapixel front camera does capture more details in a selfie than
+ the 5-megapixel shooter on the Desire 816 did, but it would have been great
+ if the lens had been wider. (Click for full size)PerformanceThe phone screamed 
+through any task we threw at it. From running multiple apps to 
+performing strenuous tasks like 3D gaming, the Desire 820 was ready and 
+raring to go. Unfortunately, as is the case with slim smartphones, all 
+this heavy lifting caused the upper half of the phone to heat up. It didn't get unbearably hot, but this has become too common and smartphone companies 
+need to find a solution soon.  In our AnTuTu and Quadrant 
+benchmarks, the Desire 820 scored 29,020 and 19,213 points respectively,
+ which is quite good. The phone 
+logged scores of 25fps in GFXbenchmark and 8,964 in 3D Mark Ice Storm. 
+It also managed to run all our test videos, including a
+ 40mbps one, with ease.The BoomSound speakers on the Desire 820 are 
+still the best one can find on a smartphone and the sound quality over 
+earphones was also pretty good. Call quality was top-notch as usual and 
+we have absolutely no qualms about it. The only drawback we found
+ with the Desire 820 is its battery life. The 2600mAh battery managed to
+ last only 5 hours and 55 minutes in our video loop test, which is 
+comparatively very low. Thankfully, the standby time is much better and 
+with moderate use we managed to squeeze a day out of the phone. Overall,
+ this is a big letdown for the phone. VerdictIn almost 
+every way, HTC has improved upon the Desire 816, and created a phone with a more 
+attractive design, stellar camera performance, and more power for 
+handling all kinds of tasks. But all these perks come at a cost - the battery
+ life. If you are planning on buying the Desire 820, we'd suggest 
+purchasing a battery pack along with it. There are other options in the same price range
+ that you could consider, such as the OnePlus
+ One (Review | Pictures), Lenovo Vibe X2 (Review | Pictures) and the 
+Gionee Elife S5.1 (Review | Pictures). All these phones have some 
+drawbacks but they have at least one redeeming feature that sets them 
+apart from the rest. One thing's for sure, we are finding 
+it increasingly difficult to pick a favourite in this price range. 
+HTC Desire 820 in pictures
+
+A
+ phone that was vital in bringing HTC back into the limelight last year was the HTC Desire 816 (Review | Pictures). This 
+mid-range phone had a large screen, ran the latest version of Android, 
+packed HTC's trademark BoomSound speakers, and boasted of a camera that 
+could capture some stunning photographs in the right lighting 
+conditions. 
+
+Six months after the launch of the Desire 816, HTC 
+announced its successor - the Desire 820. Apart from subtle aesthetic changes, it has upgraded internal specs such as a new 
+future-proof 64-bit octa-core processor, slightly more RAM, more 
+internal storage space and a better front camera. Let's dive right in 
+and figure out if the Desire 820 will continue to capture the 
+attention of buyers looking for a phone in the mid-range segment. 
+
+Look and feelWe
+ noticed that the front of the HTC Desire 820 looks quite similar to its predecessor, with dark borders around the screen and strips on
+ the top and the bottom to accommodate the front-firing BoomSound 
+speakers. What HTC has done differently this time around is use its industrial design 
+expertise to give the Desire 820 an attractive two-tone body. Unfortunately, the glossy plastic looks and feels
+ cheap. It attracts fingerprints and scratches very easily. 
+We'd suggest using a case with this phone - preferably the Dot View one. 
+
+The
+ Desire 820 reduces the thickness and weight of the Desire 816 by 
+0.2mm and 10g respectively. At the same time, it is 
+1.1mm taller. These are minor changes, although the lower weight is actually perceptible. It felt rather light in our hands.
+
+ 
+
+We
+ got the Santorini White variant of the phone for review, which has blue accents around the edges on the front. It 
+also has a similar coat of blue paint around the edges of hardware the micro-USB port on the bottom, power button and volume rocker 
+on the right, and the camera ring and LED flash on the rear. The
+ plastic ring around the lens of the primary camera protrudes from the body to protect the lens. The 3.5mm jack sits on top of the phone. A 
+flap on the left covers the two Nano-SIM card slots 
+and the microSD card slot.
+
+The Taiwanese phone company has decided
+ to stick with the same 720p 5.5-inch screen which was used on the Desire 816. We had expected HTC to bump up the 
+resolution to 1080p, but HTC phones generally have great displays and the Desire 
+820 is no exception. It has good colour reproduction and brilliant viewing angles. 
+However, we did feel that the brightness level of this screen was 
+slightly on the lower side. 
+
+Specifications and softwareThis
+ is one of the first phones HTC to feature 
+Qualcomm's new 64-bit octa-core SoC aimed at mid-range smartphones. The 
+Snapdragon 615 uses has four 1.5 GHz Cortex-A53 cores and 
+four 1.0 GHz Cortex-A53 cores, and includes the new Adreno 405 GPU. HTC 
+has bumped up the RAM to 2GB on the Desire 820, from 1.5GB on the Desire
+ 816. The internal storage, is now a 
+respectable 16GB compared to the 8GB ROM on its younger sibling. The 
+Desire 820 accepts microSD cards of up to 128GB capacity and you can connect storage devices using the microUSB port which should sort out all 
+your storage needs. 
+
+The Desire 820's front camera has been bumped up
+ to 8 megapixels and the primary one on the rear is still a 
+13-megapixel shooter with LED flash. The phone can connect to other 
+devices over Bluetooth v4.0 and has support for apt-X, which improves the quality of streamed audio. The Desire 820 can connect to LTE networks in India which work on the 2300MHz
+ frequency band. Other connectivity options include Wi-Fi a/b/g/n and 
+Wi-Fi Direct. Also unchanged from the Desire 816 is the 2600mAh battery.
+ 
+
+HTC's Sense UI 6.0 skin runs on top of Android 4.4.4 and the 
+company has promised an update to Android Lollipop in the near future. Of all the Android skins we've seen, Sense UI is the 
+lightest. Design-wise it is quite a departure from 
+stock Android but it is easy to use. The lock screen shows the home screen dock at 
+the bottom, which effectively means that
+ you can quickly launch important apps from the lock screen itself. The
+ first page of the home screen is the usual Blinkfeed, which is an 
+endless scroll of content from your favourite social networking and news
+ websites. The app drawer still scrolls vertically, and all apps 
+can be arranged by name, order of use, or a custom order 
+according to your preference.
+
+ 
+
+HTC Zoe, an app used to share 
+automatically remixed videos with friends, is also present and it looks 
+like HTC engineers are constantly striving to make it a more polished 
+experience. HTC also adds a few useful third-party apps like Facebook, 
+Polaris Office 5 and WeChat.
+
+CameraWe really liked how HTC 
+managed to pull a rabbit out of its hat with the performance of the 
+primary camera on the Desire 816. For a mid-range smartphone, it had a camera that could even rival some flagship smartphones. Not too 
+surprisingly, the Desire 820's 13-megapixel rear camera can capture 
+similarly impressive photographs in daylight. Why fix something that 
+isn't broken, right? 
+
+The camera app is very polished and offers
+ a smorgasbord of options to the user. It shows only frequently used options by default. There 
+are a number of shooting modes available apart from your regular 
+suspects like Manual, Auto and Panorama. The Photo Booth mode offers filters, and Depth of Field mode is also one of our favourites. 
+
+(Click for full size)In our test shots under good lighting conditions we 
+noticed that the camera captured great details with the noise levels 
+kept to a bare minimum. The images had a warm colour tone, which we 
+actually like. However, it may look undersaturated to some people. 
+Also, we didn't notice any barrel distortion or chromatic 
+aberration. The HDR mode creates some really dramatic improvements to the dynamic range. 
+
+Compared
+ to other phones in the same price range, the Desire 820 can capture 
+decent shots even in low-light conditions. While our captured 
+images did have noise, there was a good amount of light. The
+ Desire 820 can also record really detailed 1080p shots but the 
+Slow Motion mode captures only 720p clips which don't look so good.
+ The 8-megapixel front camera does capture more details in a selfie than
+ the 5-megapixel shooter on the Desire 816 did, but it would have been great
+ if the lens had been wider. 
+
+(Click for full size)PerformanceThe phone screamed 
+through any task we threw at it. From running multiple apps to 
+performing strenuous tasks like 3D gaming, the Desire 820 was ready and 
+raring to go. Unfortunately, as is the case with slim smartphones, all 
+this heavy lifting caused the upper half of the phone to heat up. It didn't get unbearably hot, but this has become too common and smartphone companies 
+need to find a solution soon. 
+
+ 
+
+In our AnTuTu and Quadrant 
+benchmarks, the Desire 820 scored 29,020 and 19,213 points respectively,
+ which is quite good. The phone 
+logged scores of 25fps in GFXbenchmark and 8,964 in 3D Mark Ice Storm. 
+It also managed to run all our test videos, including a
+ 40mbps one, with ease.The BoomSound speakers on the Desire 820 are 
+still the best one can find on a smartphone and the sound quality over 
+earphones was also pretty good. Call quality was top-notch as usual and 
+we have absolutely no qualms about it. 
+
+The only drawback we found
+ with the Desire 820 is its battery life. The 2600mAh battery managed to
+ last only 5 hours and 55 minutes in our video loop test, which is 
+comparatively very low. Thankfully, the standby time is much better and 
+with moderate use we managed to squeeze a day out of the phone. Overall,
+ this is a big letdown for the phone. 
+
+VerdictIn almost 
+every way, HTC has improved upon the Desire 816, and created a phone with a more 
+attractive design, stellar camera performance, and more power for 
+handling all kinds of tasks. But all these perks come at a cost - the battery
+ life. If you are planning on buying the Desire 820, we'd suggest 
+purchasing a battery pack along with it. 
+
+There are other options in the same price range
+ that you could consider, such as the OnePlus
+ One (Review | Pictures), Lenovo Vibe X2 (Review | Pictures) and the 
+Gionee Elife S5.1 (Review | Pictures). All these phones have some 
+drawbacks but they have at least one redeeming feature that sets them 
+apart from the rest. One thing's for sure, we are finding 
+it increasingly difficult to pick a favourite in this price range. 
+

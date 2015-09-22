@@ -1,0 +1,249 @@
+Coolpad Dazen 1 Review: The Low-Cost Workhorse
+
+Another week; another Chinese smartphone 
+brand. This time it's Coolpad, a name we're already somewhat familiar 
+with. Coolpad has been a major OEM player and its designs have ended up 
+in India under various names over the years. Now, with e-commerce majors
+ providing ready-made distribution and logistics networks, the company 
+has joined the long list of those hoping to grab a portion of the 
+massive potential for smartphone sales in India.Of course we 
+aren't complaining. More players means more competition and lower 
+prices. Flash sales go hand-in-hand with product scarcity, so it's 
+always good to have more options on hand. The company is hitting two 
+strategic price points with its debut products, the Coolpad Dazen 1 and 
+the Coolpad Dazen X7. We have the former with us for review today, and 
+right from the outset it looks as though things are about to get even 
+more interesting in the sub-Rs. 10,000 market.Look and feelThe
+ Coolpad Dazen 1 is pretty unremarkable as far as looks go. The 
+combination of a black front face and white rear shell has become rather
+ common, and so nothing really stands out about this phone. It's 
+pleasantly curved and rounded on the sides and rear, though a little on 
+the heavy side at 155g. The rear shell has a soft-touch texture that 
+unfortunately gets stained very easily and starts feeling clammy when 
+you hold the phone for long periods.Things are where you'd expect
+ them to be: power button on the right, volume buttons on the left, 
+headset socket on top and Micro-USB port on the bottom. The primary 
+camera has a small flash right next to it. There's a speaker grille 
+towards the bottom of the rear, with Coolpad and Dazen logos filling up 
+some of the empty space. The rear shell pops off easily and you'll find 
+the two Micro-SIM slots and the microSD slot arranged along the top of 
+the battery compartment. The capacitive buttons below the screen 
+light up only when touched, so you might miss when trying to hit them. 
+Only the Home button is marked with a circle. The earpiece is neatly 
+concealed along the top and the front-facing camera is barely visible. Overall,
+ this phone doesn't win many points for fashion, but will appeal to 
+those who like convenient, no-nonsense designs. We'd strongly suggest 
+using a protective plastic cover though. Specifications and softwareCoolpad
+ is showing up to war with some pretty heavy artillery. It seems that 
+the price and specifications have been calibrated to make the Dazen 1 
+compete directly with the Xiaomi Redmi 2 (Review | Pictures). Coolpad 
+has gone with the same 1.2GHz quad-core Qualcomm Snapdragon 410 but 
+there's 2GB of RAM rather than the Redmi 2's 1GB. Both phones offer 8GB 
+of internal storage and support for microSD cards of up to 32GB in 
+capacity.The Dazen 1 has a larger screen, at 5 inches, but the 
+same 720x1280 resolution. Other specifications are common between the 
+two competitors: 8-megapixel primary cameras, Wi-Fi b/g/n and Bluetooth 
+4.0. The Dazen 1 has a 5-megapixel front camera as opposed to the Redmi 
+2's 2-megapixel one, but the Redmi 2 supports LTE on both SIMs whereas 
+the Dazen 1 doesn't. However, Coolpad went with a higher-capacity 
+battery: 2500mAh as opposed to 2200mAh. Both phones run Android 
+4.4, and of course we would have liked to have seen Android 5.0 instead.
+ Coolpad's skin has a few interesting touches, most notably the ability 
+to switch from the default "minimal" mode to a "traditional" mode which 
+restores the dedicated app drawer and lets you clean up your 
+homescreens. We're beginning to see manufacturers take note of 
+individual preferences in this regard, which is great. The 
+navigation button layout is unfortunately stuck in old-school Android 
+land, so you get a redundant Menu key instead of a quick app switcher. 
+The Settings app is segregated into shortcuts and all settings which 
+adds an extra step to the process of getting to most functions. There's 
+also a useless duplicate set of shortcuts that pops up from the bottom 
+of the screen in an apparent attempt to copy the iOS Control Centre. We
+ liked the flexibility of the UI. On the other hand, there are traces of
+ poor Chinese-to-English translations in the menus. There's only very 
+little bloatware which is a good thing because none of it is useful. The
+ Cool Store marketplace app refused to work for us despite following its
+ instructions to update Google Play Services, while a theme picker 
+called CoolShow had only one theme option but it did let us tweak the 
+lock screen, alert sounds and wallpaper individually. Another shortcut 
+icon called Rock Wallpaper isn't actually an app, but triggers an 
+animated wallpaper transition. PerformanceAs expected, the
+ Coolpad Dazen 1 did fairly well in our benchmark suite. We recorded 
+scores of 20,123 in AnTuTu and 10,633 overall in Quadrant. Graphics 
+tests were okay, with a score of 2,670 in 3DMark Ice Storm Extreme and 
+9.5fps in GFXbench. The phone did get a little warm when running 
+processor-intensive tasks.General performance was also good, with
+ no perceptible lags or stutters. High-quality HD video files played 
+without any trouble. Sound from the speaker was a bit too soft even at 
+the highest volume level, but it was quite warm and full, and didn't 
+distort. The battery lasted a very impressive 12 hours, 19 
+minutes in our video loop test, which makes us glad that Coolpad chose 
+to go with a slightly bulky, heavy design compared to some of its 
+contemporaries. With reasonably moderate usage, this phone should last 
+well into a second day on each charge. We noted with some curiosity that
+ the SIM card slots appear to have been mislabled, so SIM 1 shows up as 
+SIM 2 in the phone's software and vice versa. Voice quality in calls was
+ pretty average.(Click to see full size)CameraWe were also very happy with the 
+Dazen 1's camera performance. Shots taken in bright sunlight had a 
+slightly warm cast and were just a little washed out, but were rich in 
+detail. Low-light shots were impressive when there was some incident 
+light such as a streetlamp, but areas in the shadows were lost. There 
+was very little noise, though textures and colour gradients seemed to 
+have been lost in the process of noise reduction. Shots looked great on 
+the phone's screen but lost a little quality when seen full-size. Even 
+so, we were impressed. (Click to see full size)We managed to get some nice depth of field
+ effects and we were happy to note that the autofocus and manually 
+tapping to focus worked quickly each time. A Pro mode lets you tweak the
+ white balance, ISO and exposure compensation using an interface ripped 
+off from Nokia's Lumia app. The front-facing camera worked nicely, and 
+there's a slider for you to adjust the "beautification" level, which now
+ seems to be a standard phone feature. There are a few basic filters and
+ settings such as HDR.VerdictCoolpad has put together an 
+interesting phone. The Dazen 1 feels much more like a workhorse than a 
+fashion statement, and that's fine by us. The camera and battery life 
+are its standout features, but there are also no major negatives to pick
+ apart. Customers now have one more choice in the red-hot sub-Rs.
+ 10,000 category. If you feel that it doesn't quite match your needs or 
+if supplies are constrained, there are plenty of other options in the 
+form of the Redmi 2, Motorola Moto E (Gen 2) 4G (Review), Yu Yuphoria (Review | Pictures) and Lenovo A6000 Plus (Review | Pictures), 
+each of which might appeal to you for a different reason. 
+
+
+Of course we 
+aren't complaining. More players means more competition and lower 
+prices. Flash sales go hand-in-hand with product scarcity, so it's 
+always good to have more options on hand. The company is hitting two 
+strategic price points with its debut products, the Coolpad Dazen 1 and 
+the Coolpad Dazen X7. We have the former with us for review today, and 
+right from the outset it looks as though things are about to get even 
+more interesting in the sub-Rs. 10,000 market.
+
+Look and feelThe
+ Coolpad Dazen 1 is pretty unremarkable as far as looks go. The 
+combination of a black front face and white rear shell has become rather
+ common, and so nothing really stands out about this phone. It's 
+pleasantly curved and rounded on the sides and rear, though a little on 
+the heavy side at 155g. The rear shell has a soft-touch texture that 
+unfortunately gets stained very easily and starts feeling clammy when 
+you hold the phone for long periods.
+
+Things are where you'd expect
+ them to be: power button on the right, volume buttons on the left, 
+headset socket on top and Micro-USB port on the bottom. The primary 
+camera has a small flash right next to it. There's a speaker grille 
+towards the bottom of the rear, with Coolpad and Dazen logos filling up 
+some of the empty space. The rear shell pops off easily and you'll find 
+the two Micro-SIM slots and the microSD slot arranged along the top of 
+the battery compartment. 
+
+The capacitive buttons below the screen 
+light up only when touched, so you might miss when trying to hit them. 
+Only the Home button is marked with a circle. The earpiece is neatly 
+concealed along the top and the front-facing camera is barely visible. 
+
+Overall,
+ this phone doesn't win many points for fashion, but will appeal to 
+those who like convenient, no-nonsense designs. We'd strongly suggest 
+using a protective plastic cover though. 
+
+Specifications and softwareCoolpad
+ is showing up to war with some pretty heavy artillery. It seems that 
+the price and specifications have been calibrated to make the Dazen 1 
+compete directly with the Xiaomi Redmi 2 (Review | Pictures). Coolpad 
+has gone with the same 1.2GHz quad-core Qualcomm Snapdragon 410 but 
+there's 2GB of RAM rather than the Redmi 2's 1GB. Both phones offer 8GB 
+of internal storage and support for microSD cards of up to 32GB in 
+capacity.
+
+The Dazen 1 has a larger screen, at 5 inches, but the 
+same 720x1280 resolution. Other specifications are common between the 
+two competitors: 8-megapixel primary cameras, Wi-Fi b/g/n and Bluetooth 
+4.0. The Dazen 1 has a 5-megapixel front camera as opposed to the Redmi 
+2's 2-megapixel one, but the Redmi 2 supports LTE on both SIMs whereas 
+the Dazen 1 doesn't. However, Coolpad went with a higher-capacity 
+battery: 2500mAh as opposed to 2200mAh. 
+
+Both phones run Android 
+4.4, and of course we would have liked to have seen Android 5.0 instead.
+ Coolpad's skin has a few interesting touches, most notably the ability 
+to switch from the default "minimal" mode to a "traditional" mode which 
+restores the dedicated app drawer and lets you clean up your 
+homescreens. We're beginning to see manufacturers take note of 
+individual preferences in this regard, which is great. 
+
+The 
+navigation button layout is unfortunately stuck in old-school Android 
+land, so you get a redundant Menu key instead of a quick app switcher. 
+The Settings app is segregated into shortcuts and all settings which 
+adds an extra step to the process of getting to most functions. There's 
+also a useless duplicate set of shortcuts that pops up from the bottom 
+of the screen in an apparent attempt to copy the iOS Control Centre. 
+
+We
+ liked the flexibility of the UI. On the other hand, there are traces of
+ poor Chinese-to-English translations in the menus. There's only very 
+little bloatware which is a good thing because none of it is useful. The
+ Cool Store marketplace app refused to work for us despite following its
+ instructions to update Google Play Services, while a theme picker 
+called CoolShow had only one theme option but it did let us tweak the 
+lock screen, alert sounds and wallpaper individually. Another shortcut 
+icon called Rock Wallpaper isn't actually an app, but triggers an 
+animated wallpaper transition. 
+
+PerformanceAs expected, the
+ Coolpad Dazen 1 did fairly well in our benchmark suite. We recorded 
+scores of 20,123 in AnTuTu and 10,633 overall in Quadrant. Graphics 
+tests were okay, with a score of 2,670 in 3DMark Ice Storm Extreme and 
+9.5fps in GFXbench. The phone did get a little warm when running 
+processor-intensive tasks.
+
+General performance was also good, with
+ no perceptible lags or stutters. High-quality HD video files played 
+without any trouble. Sound from the speaker was a bit too soft even at 
+the highest volume level, but it was quite warm and full, and didn't 
+distort. 
+
+The battery lasted a very impressive 12 hours, 19 
+minutes in our video loop test, which makes us glad that Coolpad chose 
+to go with a slightly bulky, heavy design compared to some of its 
+contemporaries. With reasonably moderate usage, this phone should last 
+well into a second day on each charge. We noted with some curiosity that
+ the SIM card slots appear to have been mislabled, so SIM 1 shows up as 
+SIM 2 in the phone's software and vice versa. Voice quality in calls was
+ pretty average.
+
+(Click to see full size)
+
+CameraWe were also very happy with the 
+Dazen 1's camera performance. Shots taken in bright sunlight had a 
+slightly warm cast and were just a little washed out, but were rich in 
+detail. Low-light shots were impressive when there was some incident 
+light such as a streetlamp, but areas in the shadows were lost. There 
+was very little noise, though textures and colour gradients seemed to 
+have been lost in the process of noise reduction. Shots looked great on 
+the phone's screen but lost a little quality when seen full-size. Even 
+so, we were impressed. 
+
+(Click to see full size)
+
+We managed to get some nice depth of field
+ effects and we were happy to note that the autofocus and manually 
+tapping to focus worked quickly each time. A Pro mode lets you tweak the
+ white balance, ISO and exposure compensation using an interface ripped 
+off from Nokia's Lumia app. The front-facing camera worked nicely, and 
+there's a slider for you to adjust the "beautification" level, which now
+ seems to be a standard phone feature. There are a few basic filters and
+ settings such as HDR.
+
+VerdictCoolpad has put together an 
+interesting phone. The Dazen 1 feels much more like a workhorse than a 
+fashion statement, and that's fine by us. The camera and battery life 
+are its standout features, but there are also no major negatives to pick
+ apart. 
+
+Customers now have one more choice in the red-hot sub-Rs.
+ 10,000 category. If you feel that it doesn't quite match your needs or 
+if supplies are constrained, there are plenty of other options in the 
+form of the Redmi 2, Motorola Moto E (Gen 2) 4G (Review), Yu Yuphoria (Review | Pictures) and Lenovo A6000 Plus (Review | Pictures), 
+each of which might appeal to you for a different reason. 
+

@@ -1,0 +1,468 @@
+LG G3 Review: Taking Smartphones to a Whole New Level
+
+ LG was notably missing in action when the rest of the 
+world's biggest Android smartphone makers unveiled their 2014 flagships 
+at or around the Mobile World Congress trade show. Sony, Samsung and HTC
+ debuted largely similar products, and although each one has its own 
+personality, it's hard to choose a single winner between the three.By
+ waiting a few months, LG has managed to pull a trick out of its hat 
+that none of the others did. In fact had it not been for the upstart 
+Oppo and its new Find 7, LG would have been the first to market with a 
+QHD (1440x2560-pixel) screen. It's a little mind-boggling that a screen 
+resolution once reserved for gigantic, expensive workstation-class 
+monitors is now possible on a relatively affordable pocket-sized device,
+ so we've been dying to get our hands on LG's new top-end smartphone, the G3, for
+ quite some time now.Look and feelWe really have to hand 
+it to LG - this might be the best-looking smartphone available today, 
+period. It's absolutely gorgeous. This phone is slick, understated, and 
+oozes class. At first glance it appears to be made out of metal, though 
+it becomes clear that the body is all plastic when you pick it up. The
+ curves and proportions make it feel smaller than it is, though that 
+isn't saying much for a phone with a 5.5-inch screen. This also makes it
+ the largest of the current generation of flagships, whose screens 
+generally range from 5 to 5.2 inches diagonally. LG has managed 
+to shave the side bezels down to just a few millimetres, but the 
+unusually small forehead and chin stand out even more. There's only just
+ about enough space on top for the earpiece, front camera and sensors, 
+while there's only a smallish LG logo on the bottom. Beneath the glass, 
+you'll notice a very subtle pattern of concentric rings on the chin. 
+It's much less pronounced than the very similar design on Asus' Zenfone 
+series.The only things on the top edge are an infrared LED for 
+the remote control feature, and a mic for noise suppression. The headset
+ jack, Micro-USB port and primary microphone are on the bottom. Thanks 
+to LG's controversial decision to move all buttons to the rear, the two 
+sides are entirely blank.We've seen this rear-button 
+configuration on several models now, including the G Flex and G Pro 2, 
+but it still isn't easy to get used to. LG has improved upon its idea 
+and the volume buttons now form a concave pad with the power button in 
+between them like a dimple. It's easy to feel for the buttons thanks to 
+this design and their different textures, but that still doesn't solve 
+the problem of accidentally clicking them and not being able to reach 
+them when needed.Also on the phone's rear, you'll see the primary
+ camera, flash, infrared focus assist LED, and speaker grille. Unlike most other high-end devices, the rear panel is removable and so is the battery. We 
+still like being able to swap batteries, even though it means there's no
+ chance of waterproofing which both Samsung and Sony offer. You can 
+hot-swap microSD cards, but you'll have to pop out the battery to insert
+ or remove a SIM card.The G3 feels good in hand, but we'd still trade the curved back and tapered sides for sensibly placed buttons. Features and specificationsThere
+ is absolutely nothing not to like about the G3's list of 
+specifications. LG has chosen the best of everything available today, 
+starting with a Qualcomm Snapdragon 801 SoC with four CPU cores running 
+at 2.5GHz and an Adreno 330 GPU. Two versions of the G3 will be sold; 
+one with 2GB of RAM and 16GB of internal storage, and one with 3GB of 
+RAM and 32GB of storage. We got the 2GB/16GB version for review, and we 
+expect that there will be a slight performance improvement with the more
+ expensive model.There's Wi-Fi b/g/n/ac, Bluetooth 4.0 LE, FM 
+radio, A-GPS with GLONASS and NFC. We'd have to struggle to find any 
+omission - about the only thing LG could have done better would have 
+been to use a USB 3.0 port, but we can do without that quite 
+easily.Incidentally, the version sold in India is the European D855 
+model, which supports Indian LTE bands. And then there's the 
+screen. It is absolutely, outrageously, unnecessarily decadent, and we 
+love it. 1440x2560 pixels on a 5.5-inch panel works out to 534 dots per 
+inch, which is just staggering. When Apple first introduced its 326ppi 
+Retina Display on the iPhone 4, the company famously claimed that the 
+human eye cannot even perceive that much detail. Looking at the LG G3, 
+we have to disagree. Text seems as though it's etched onto highly 
+polished marble, and LG's obviously optimised wallpapers are just 
+stunning. Not all apps scale perfectly, but those that do are beyond 
+impressive. The leap from 432ppi (roughly the density of the 
+Samsung Galaxy S5's 5.1-inch 1080p screen) to 534ppi isn't anywhere near
+ as transformational as the leap from pre-Retina 163ppi to 326ppi was, 
+but it's definitely noticeable. The G3's screen is a frivolous luxury, 
+in the way that fancy car interiors are, but if you're looking for the 
+absolute best, this is the new standard.SoftwareWe don't 
+really know what to make of LG's new UI aesthetic direction, which is brand new and quite different, in keeping with the company's new "simple is the new smart" motto. LG is thus the latest to jump onto the "flat design" bandwagon, 
+but the G3's interface is not entirely coherent. For starters some of 
+the default app icons are round, some are square and a few are freeform,
+ for no apparent reason. Folder icons are also round, and there are 
+weird shadows going on in some places. The notification tray borrows 
+heavily from Samsung's colour scheme and Apple's rounded icon style.Thankfully,
+ the company's typical over-the-top animations and transitions have been
+ scaled back a lot. The new style is oddly similar to Google's recently 
+revealed Material Design ideology. There are distinct colour themes for different apps, but we don't like the way LG blends 
+the usually cluttered status bar into apps' toolbars. There are also 
+lots of small niggles, such as text labels that overflow in some places 
+and are compressed in others - not a big deal, but still jarring on such
+ a premium device.Many Android UIs now reserve the left-most home
+ screen for a news feed or dashboard-style display of content. LG has 
+done the same, but it doesn't actually seem to have anything to show 
+off. You get a screen with two panels; LG Health is on top and Smart 
+Tips is on the bottom. The health app is pretty interesting, but this 
+seems to be the only way to get to it. Smart Tips, on the other hand, is
+ nothing but a series of links to videos demonstrating the G3's 
+features, and there's no need for it to be there all the time.LG 
+Health isn't as full-featured as Samsung's S Health app, and we hope it 
+will work with wearable devices as well as the phone's internal sensors.
+ The app asks you to define your gender, age, height and weight, after 
+which it tells you what your current and ideal BMI values are and sets 
+daily exercise and calorie burn goals. The good thing about it is you 
+don't have to tell the app when to begin recording activity; it's 
+automatically triggered by motion. You can also manually record your 
+route if you're walking, running, cycling, hiking or skating, and you'll
+ see a list of routes in the app's history.There are plenty of 
+other little features to discover. EasyHome is a simplified launcher 
+which puts the phone dialler front and centre, with apps as a secondary 
+concern. It might be designed for elderly users or those confused about 
+technology, but we have to wonder why they're buying a premium QHD 
+smartphone in the first place. Smart Screen prevents the G3 from going 
+to sleep when it detects you're looking it at. One-handed Operation lets
+ you reposition the phone dialler, keyboard and lock screen controls for
+ easier access. The volume keys can be long-pressed to trigger shortcuts
+ when the screen is off - the Notes and Camera apps are the default 
+settings.Guest Mode lets you hand your phone to someone else 
+while hiding apps and information of your choosing. Gestures, such as 
+lifting the phone to answer a call or flipping it over to mute it are 
+also supported. You can double-tap the screen when it's off to wake up 
+the G3, and also double-tap any blank space on any home screen to lock 
+it.Dual Window mode lets you run two apps, one on top of the 
+other (or side by side when the phone is held horizontally). The split 
+doesn't have to be 50-50, which is a nice touch. There's also LG's 
+QSlide feature which lets you launch certain apps in independent 
+floating windows. These features work simultaneously, so you can have 
+two apps tiled in the background and up to two more floating above them.
+ Both features are limited to small sets of preloaded apps.The LG
+ G3's keyboard is pretty interesting. It really takes advantage of the 
+huge screen and resolution, with a dedicated number row and special 
+characters on each key. You can choose which punctuation marks and 
+settings shortcuts are visible on the bottom row. You can adjust the 
+keyboard's height or split it, and turn off word suggestions if you 
+like. There's a Swype-style tracing input method, handwriting 
+recognition, and also voice input. You can swipe across the space bar to
+ move the cursor forward or back, which is fantastically convenient. 
+There are even keyboard themes - different colours and patterns to set 
+your phone apart!LG is also pretty proud of its Knock Code 
+feature, which is a unique take on the common pattern-swipe unlock 
+method. Rather than tracing a pattern, which could leave identifiable 
+smudges on screen, you simply tap out your code. You can have between 
+three and eight taps in any four zones. This works even with the screen 
+off, which is a handy way to deal with the power button being on the 
+back.The Quick Remote app is much the same as it is on other LG 
+handsets, and has presets for Indian set-top boxes, TVs and audio 
+equipment. It can also be programmed to work with other devices such as 
+air conditioners.Other preloaded apps include ThinkFree Viewer, 
+Box, QuickMemo+ and McAfee Security. LG throws in its own Update Center 
+and an app called Smart World which lets you download themes, 
+wallpapers, fonts, and various curated apps. CameraThe 
+G3's 13-megapixel camera is pretty pedestrian compared to what some of 
+the competition is putting out, but that doesn't mean it has no tricks 
+of its own. For starters, the laser autofocus system is genuinely snappy
+ and we couldn't find any fault with it. Then there's the app, which is 
+clean and simple with only a few useful options. There are four modes: 
+Auto, Magic Focus, Panorama, and Dual. Auto works perfectly well 
+in most situations, though some users will be annoyed that there doesn't
+ seem to be any way to set the ISO, white balance, or any other 
+parameter. Magic Focus lets you take photos and then adjust the focus 
+between foreground and background afterwards. It works pretty well, but 
+there's no going back after you commit the changes you make. Dual mode 
+superimposes a shot of you taken with the front camera over whatever 
+you're shooting with the rear camera.There's a timer, composition
+ grid, and voice command feature. HDR can be set to automatic, which is 
+fantastically convenient. When you switch to the front camera, a 
+"Beauty" slider is permanently visible, allowing you to magically smooth
+ over skin blemishes.Photos themselves are impressive enough, if 
+light conditions are favourable. We tested the G3 on cloudy and sunny 
+days, and found a significant difference in the levels of detail we were
+ able to capture. There is a bit of noticeable compression which becomes
+ much worse in low light. Subjects close at hand came out beautifully, 
+while landscape shots weren't as convincing. Indoor low-light 
+performance was good, and the front camera actually surprised us with 
+its quality. 4K video turned out to be disappointing, but this could 
+again be due to varying light conditions. (Click to see full size)PerformanceIt 
+should come as no surprise that the Snapdragon 801 processor sliced 
+through our benchmark tests without a care in the world. Test results in
+ most cases were surprisingly lower than those of the Samsung Galaxy S5,
+ Sony Xperia Z2 and HTC One (M8) although there wasn't much subjective 
+difference in the usage experience. Graphics scores were especially 
+impacted by the pixel-dense screen.Games will look phenomenal if 
+they take advantage of the native resolution, but undoubtedly run slower
+ than they would on a competing phone with the same processor and a 
+1080p screen. Videos look great no matter the resolution, and we were 
+happy with the G3's viewing angles.Sound is surprisingly loud 
+both on the earpiece during calls and on the speaker while playing audio
+ and video files. The speaker is very powerful, but sound tends to 
+crackle and isn't particularly well defined. You'll find that games and 
+videos are clear enough, but music of all types gets muddled.The 
+battery lasted 8 hours, 14 minutes in our video loop test. That should 
+get you through an entire day of reasonable usage without reaching for 
+the charger.VerdictIt's really hard not to like the LG G3.
+ It definitely stands out against the current crop of flagship phones, 
+and it isn't outrageously expensive either - the 16GB/2GB version has 
+launched at Rs. 47,990 and the 32GB/3GB version at Rs. 50,990. If you're
+ looking for an extra-large phone, it doesn't get a lot better than 
+this. That said, you have to be willing to get used to the buttons on 
+the rear - this is probably our biggest concern about being able to live
+ with the G3. LG's software innovation and overall polish are 
+also well worth consideration. A lot of thought has gone into the design
+ of this phone and, aside from a few hiccups, it does show. Competitors
+ are sure to respond with their own QHD phones before the end of this 
+year, but if you want to get in on the action early, the LG G3 and Oppo 
+Find 7 are your only choices.  LG G3 in pictures
+
+LG was notably missing in action when the rest of the 
+world's biggest Android smartphone makers unveiled their 2014 flagships 
+at or around the Mobile World Congress trade show. Sony, Samsung and HTC
+ debuted largely similar products, and although each one has its own 
+personality, it's hard to choose a single winner between the three.
+
+By
+ waiting a few months, LG has managed to pull a trick out of its hat 
+that none of the others did. In fact had it not been for the upstart 
+Oppo and its new Find 7, LG would have been the first to market with a 
+QHD (1440x2560-pixel) screen. It's a little mind-boggling that a screen 
+resolution once reserved for gigantic, expensive workstation-class 
+monitors is now possible on a relatively affordable pocket-sized device,
+ so we've been dying to get our hands on LG's new top-end smartphone, the G3, for
+ quite some time now.
+
+Look and feelWe really have to hand 
+it to LG - this might be the best-looking smartphone available today, 
+period. It's absolutely gorgeous. This phone is slick, understated, and 
+oozes class. At first glance it appears to be made out of metal, though 
+it becomes clear that the body is all plastic when you pick it up. 
+
+The
+ curves and proportions make it feel smaller than it is, though that 
+isn't saying much for a phone with a 5.5-inch screen. This also makes it
+ the largest of the current generation of flagships, whose screens 
+generally range from 5 to 5.2 inches diagonally. 
+
+LG has managed 
+to shave the side bezels down to just a few millimetres, but the 
+unusually small forehead and chin stand out even more. There's only just
+ about enough space on top for the earpiece, front camera and sensors, 
+while there's only a smallish LG logo on the bottom. Beneath the glass, 
+you'll notice a very subtle pattern of concentric rings on the chin. 
+It's much less pronounced than the very similar design on Asus' Zenfone 
+series.
+
+The only things on the top edge are an infrared LED for 
+the remote control feature, and a mic for noise suppression. The headset
+ jack, Micro-USB port and primary microphone are on the bottom. Thanks 
+to LG's controversial decision to move all buttons to the rear, the two 
+sides are entirely blank.
+
+We've seen this rear-button 
+configuration on several models now, including the G Flex and G Pro 2, 
+but it still isn't easy to get used to. LG has improved upon its idea 
+and the volume buttons now form a concave pad with the power button in 
+between them like a dimple. It's easy to feel for the buttons thanks to 
+this design and their different textures, but that still doesn't solve 
+the problem of accidentally clicking them and not being able to reach 
+them when needed.
+
+Also on the phone's rear, you'll see the primary
+ camera, flash, infrared focus assist LED, and speaker grille. Unlike most other high-end devices, the rear panel is removable and so is the battery. We 
+still like being able to swap batteries, even though it means there's no
+ chance of waterproofing which both Samsung and Sony offer. You can 
+hot-swap microSD cards, but you'll have to pop out the battery to insert
+ or remove a SIM card.
+
+The G3 feels good in hand, but we'd still trade the curved back and tapered sides for sensibly placed buttons. 
+
+Features and specificationsThere
+ is absolutely nothing not to like about the G3's list of 
+specifications. LG has chosen the best of everything available today, 
+starting with a Qualcomm Snapdragon 801 SoC with four CPU cores running 
+at 2.5GHz and an Adreno 330 GPU. Two versions of the G3 will be sold; 
+one with 2GB of RAM and 16GB of internal storage, and one with 3GB of 
+RAM and 32GB of storage. We got the 2GB/16GB version for review, and we 
+expect that there will be a slight performance improvement with the more
+ expensive model.
+
+There's Wi-Fi b/g/n/ac, Bluetooth 4.0 LE, FM 
+radio, A-GPS with GLONASS and NFC. We'd have to struggle to find any 
+omission - about the only thing LG could have done better would have 
+been to use a USB 3.0 port, but we can do without that quite 
+easily.Incidentally, the version sold in India is the European D855 
+model, which supports Indian LTE bands. 
+
+And then there's the 
+screen. It is absolutely, outrageously, unnecessarily decadent, and we 
+love it. 1440x2560 pixels on a 5.5-inch panel works out to 534 dots per 
+inch, which is just staggering. When Apple first introduced its 326ppi 
+Retina Display on the iPhone 4, the company famously claimed that the 
+human eye cannot even perceive that much detail. Looking at the LG G3, 
+we have to disagree. Text seems as though it's etched onto highly 
+polished marble, and LG's obviously optimised wallpapers are just 
+stunning. Not all apps scale perfectly, but those that do are beyond 
+impressive. 
+
+The leap from 432ppi (roughly the density of the 
+Samsung Galaxy S5's 5.1-inch 1080p screen) to 534ppi isn't anywhere near
+ as transformational as the leap from pre-Retina 163ppi to 326ppi was, 
+but it's definitely noticeable. The G3's screen is a frivolous luxury, 
+in the way that fancy car interiors are, but if you're looking for the 
+absolute best, this is the new standard.
+
+SoftwareWe don't 
+really know what to make of LG's new UI aesthetic direction, which is brand new and quite different, in keeping with the company's new "simple is the new smart" motto. LG is thus the latest to jump onto the "flat design" bandwagon, 
+but the G3's interface is not entirely coherent. For starters some of 
+the default app icons are round, some are square and a few are freeform,
+ for no apparent reason. Folder icons are also round, and there are 
+weird shadows going on in some places. The notification tray borrows 
+heavily from Samsung's colour scheme and Apple's rounded icon style.
+
+Thankfully,
+ the company's typical over-the-top animations and transitions have been
+ scaled back a lot. The new style is oddly similar to Google's recently 
+revealed Material Design ideology. There are distinct colour themes for different apps, but we don't like the way LG blends 
+the usually cluttered status bar into apps' toolbars. There are also 
+lots of small niggles, such as text labels that overflow in some places 
+and are compressed in others - not a big deal, but still jarring on such
+ a premium device.
+
+Many Android UIs now reserve the left-most home
+ screen for a news feed or dashboard-style display of content. LG has 
+done the same, but it doesn't actually seem to have anything to show 
+off. You get a screen with two panels; LG Health is on top and Smart 
+Tips is on the bottom. The health app is pretty interesting, but this 
+seems to be the only way to get to it. Smart Tips, on the other hand, is
+ nothing but a series of links to videos demonstrating the G3's 
+features, and there's no need for it to be there all the time.
+
+LG 
+Health isn't as full-featured as Samsung's S Health app, and we hope it 
+will work with wearable devices as well as the phone's internal sensors.
+ The app asks you to define your gender, age, height and weight, after 
+which it tells you what your current and ideal BMI values are and sets 
+daily exercise and calorie burn goals. The good thing about it is you 
+don't have to tell the app when to begin recording activity; it's 
+automatically triggered by motion. You can also manually record your 
+route if you're walking, running, cycling, hiking or skating, and you'll
+ see a list of routes in the app's history.
+
+There are plenty of 
+other little features to discover. EasyHome is a simplified launcher 
+which puts the phone dialler front and centre, with apps as a secondary 
+concern. It might be designed for elderly users or those confused about 
+technology, but we have to wonder why they're buying a premium QHD 
+smartphone in the first place. Smart Screen prevents the G3 from going 
+to sleep when it detects you're looking it at. One-handed Operation lets
+ you reposition the phone dialler, keyboard and lock screen controls for
+ easier access. The volume keys can be long-pressed to trigger shortcuts
+ when the screen is off - the Notes and Camera apps are the default 
+settings.
+
+Guest Mode lets you hand your phone to someone else 
+while hiding apps and information of your choosing. Gestures, such as 
+lifting the phone to answer a call or flipping it over to mute it are 
+also supported. You can double-tap the screen when it's off to wake up 
+the G3, and also double-tap any blank space on any home screen to lock 
+it.
+
+Dual Window mode lets you run two apps, one on top of the 
+other (or side by side when the phone is held horizontally). The split 
+doesn't have to be 50-50, which is a nice touch. There's also LG's 
+QSlide feature which lets you launch certain apps in independent 
+floating windows. These features work simultaneously, so you can have 
+two apps tiled in the background and up to two more floating above them.
+ Both features are limited to small sets of preloaded apps.
+
+The LG
+ G3's keyboard is pretty interesting. It really takes advantage of the 
+huge screen and resolution, with a dedicated number row and special 
+characters on each key. You can choose which punctuation marks and 
+settings shortcuts are visible on the bottom row. You can adjust the 
+keyboard's height or split it, and turn off word suggestions if you 
+like. There's a Swype-style tracing input method, handwriting 
+recognition, and also voice input. You can swipe across the space bar to
+ move the cursor forward or back, which is fantastically convenient. 
+There are even keyboard themes - different colours and patterns to set 
+your phone apart!
+
+LG is also pretty proud of its Knock Code 
+feature, which is a unique take on the common pattern-swipe unlock 
+method. Rather than tracing a pattern, which could leave identifiable 
+smudges on screen, you simply tap out your code. You can have between 
+three and eight taps in any four zones. This works even with the screen 
+off, which is a handy way to deal with the power button being on the 
+back.
+
+The Quick Remote app is much the same as it is on other LG 
+handsets, and has presets for Indian set-top boxes, TVs and audio 
+equipment. It can also be programmed to work with other devices such as 
+air conditioners.
+
+Other preloaded apps include ThinkFree Viewer, 
+Box, QuickMemo+ and McAfee Security. LG throws in its own Update Center 
+and an app called Smart World which lets you download themes, 
+wallpapers, fonts, and various curated apps. 
+
+CameraThe 
+G3's 13-megapixel camera is pretty pedestrian compared to what some of 
+the competition is putting out, but that doesn't mean it has no tricks 
+of its own. For starters, the laser autofocus system is genuinely snappy
+ and we couldn't find any fault with it. Then there's the app, which is 
+clean and simple with only a few useful options. There are four modes: 
+Auto, Magic Focus, Panorama, and Dual. 
+
+Auto works perfectly well 
+in most situations, though some users will be annoyed that there doesn't
+ seem to be any way to set the ISO, white balance, or any other 
+parameter. Magic Focus lets you take photos and then adjust the focus 
+between foreground and background afterwards. It works pretty well, but 
+there's no going back after you commit the changes you make. Dual mode 
+superimposes a shot of you taken with the front camera over whatever 
+you're shooting with the rear camera.
+
+There's a timer, composition
+ grid, and voice command feature. HDR can be set to automatic, which is 
+fantastically convenient. When you switch to the front camera, a 
+"Beauty" slider is permanently visible, allowing you to magically smooth
+ over skin blemishes.
+
+Photos themselves are impressive enough, if 
+light conditions are favourable. We tested the G3 on cloudy and sunny 
+days, and found a significant difference in the levels of detail we were
+ able to capture. There is a bit of noticeable compression which becomes
+ much worse in low light. Subjects close at hand came out beautifully, 
+while landscape shots weren't as convincing. Indoor low-light 
+performance was good, and the front camera actually surprised us with 
+its quality. 4K video turned out to be disappointing, but this could 
+again be due to varying light conditions. 
+
+(Click to see full size)
+
+PerformanceIt 
+should come as no surprise that the Snapdragon 801 processor sliced 
+through our benchmark tests without a care in the world. Test results in
+ most cases were surprisingly lower than those of the Samsung Galaxy S5,
+ Sony Xperia Z2 and HTC One (M8) although there wasn't much subjective 
+difference in the usage experience. Graphics scores were especially 
+impacted by the pixel-dense screen.
+
+Games will look phenomenal if 
+they take advantage of the native resolution, but undoubtedly run slower
+ than they would on a competing phone with the same processor and a 
+1080p screen. Videos look great no matter the resolution, and we were 
+happy with the G3's viewing angles.
+
+Sound is surprisingly loud 
+both on the earpiece during calls and on the speaker while playing audio
+ and video files. The speaker is very powerful, but sound tends to 
+crackle and isn't particularly well defined. You'll find that games and 
+videos are clear enough, but music of all types gets muddled.
+
+The 
+battery lasted 8 hours, 14 minutes in our video loop test. That should 
+get you through an entire day of reasonable usage without reaching for 
+the charger.
+
+VerdictIt's really hard not to like the LG G3.
+ It definitely stands out against the current crop of flagship phones, 
+and it isn't outrageously expensive either - the 16GB/2GB version has 
+launched at Rs. 47,990 and the 32GB/3GB version at Rs. 50,990. If you're
+ looking for an extra-large phone, it doesn't get a lot better than 
+this. That said, you have to be willing to get used to the buttons on 
+the rear - this is probably our biggest concern about being able to live
+ with the G3. 
+
+LG's software innovation and overall polish are 
+also well worth consideration. A lot of thought has gone into the design
+ of this phone and, aside from a few hiccups, it does show. 
+
+Competitors
+ are sure to respond with their own QHD phones before the end of this 
+year, but if you want to get in on the action early, the LG G3 and Oppo 
+Find 7 are your only choices. 
+

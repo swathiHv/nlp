@@ -1,0 +1,231 @@
+Micromax Canvas 4 Plus Review: Quite Like Something
+
+Not
+ one to be unnerved by the recent onslaught of smartphones sold by Chinese 
+companies, Micromax has continued to dominate the Indian smartphone industry. Recently, it came close to overtaking Samsung to claim the spot of the largest smartphone vendor in India. We've noticed that Micromax's most recent products have been better built than before,
+ and they are finally coming close to the fit and finish we'd generally expect from a 
+large smartphone vendor. We have with us the recently launched 
+Micromax Canvas 4 Plus which boasts of good looks, a slim body, and a 
+powerful set of specifications. Surprisingly, this phone was launched 
+without much fanfare unlike the Canvas Nitro (Review | Pictures). Let's see if subtlety actually helps Micromax in creating an underdog. Look and feelThere is no mistaking the fact that with respect to the design of the Canvas 4 
+Plus, Micromax has been inspired by the best in the business. Apart from the front face, this phone looks strikingly similar to the Apple iPhone 6 with its rounded edges 
+and aluminium backplate. The gold backplate takes up most of the 
+rear and there are two white strips running on the top and bottom. This 
+design is reminiscent of the iPhone 5s and gold is the only
+ colour available in retail. Unlike any iPhone, there is an aluminium trim outlining the 
+white front. The phone has a svelte 7mm body and feels 
+really, really light. Ergonomically, the phone fits in 
+the hand rather nicely and the grip is pretty good too. However, just 
+like the iPhone 5s, the metal plate becomes cold in an air-conditioned 
+environment and as a result feels a little uncomfortable. The primary 
+camera, accompanied by an LED flash, sits in a familiar corner on the top 
+of the rear whereas the loudspeaker is bang in centre of the lower white strip. The bottom is mostly bare save for a 
+hole for the microphone. The earpiece sits above the
+ display and is flanked by a front-facing camera and an ambient
+ light sensor. There is a row of three neatly marked capacitive buttons 
+for navigation below the screen. The Micro-USB port and the 3.5mm audio jack are on the 
+top, and the right edge houses the power button and the 
+tray for the Micro-SIM card which extends to also cover a microSD card slot. The volume rocker and the flap covering the regular-sized SIM card slot are on the left edge. The opening mechanism is rather awkward as one has
+ to push in one corner of the flap on the left and then grab it with a fingernail, while the tray on the right requires a pin to pop it out with. Overall, despite its derivative design 
+that made us feel as though we were using a knockoff iPhone, the Micromax 
+Canvas 4 Plus turns heads. Still, it would have been nice if Micromax
+ could have a design identity of its beyond its trademark 
+'M' logo that looks like a fist.Specifications and softwareMoving
+ on from outward appearances, the Canvas 4 Plus has a decent list of 
+specifications. The SoC is an octa-core Mediatek MT6592 clocked at 1.7GHz per core, with an integrated Mali-450MP 
+GPU. There is 1GB of RAM and 16GB of storage space, which can be expanded by 32GB using a microSD card. Additionally, the Canvas 4 Plus 
+also has support for USB On-the-Go, which means that you 
+don't have to worry about storage. The phone sports a
+ 13-megapixel primary camera with LED flash and a 5-megapixel front 
+camera for selfies. It can connect to 3G mobile networks and there are other connectivity options in the form of Wi-Fi and 
+Bluetooth.
+The battery is not removable The 5-inch AMOLED screen has a resolution of 
+720x1280. Even for Micromax's standards, this screen is super-saturated and has a yellowish tinge. However, 
+it is pretty crisp and we found that text looks rather nice. The 
+screen is pretty legible under direct sunlight, too. The viewing angles 
+on the other hand are not that great. Also, 
+Micromax seems to have tweaked the touch sensitivity of the screen as a 
+result of which swipes and gestures feel very smooth. The 
+Canvas 4 Plus runs Android 4.4.2 (KitKat). Micromax doesn't deviate too 
+much from stock Android apart from adding a few visual and functional 
+tweaks, some of which we also saw in the Canvas Nitro. The pitch black 
+lockscreen displays only notifications on coloured 
+strips, the homepage widget for camera functions, and QuickLook are all 
+carried over from the Canvas Nitro. QuickLook still doesn't have options
+ to customise the feed by adding specific sources. The Smart Pause feature
+ is missing in the Canvas 4 Plus and instead Micromax adds Air-Shuffle, 
+which allows users to wave their hands above the ambient light
+ sensor to change songs in the Music app, FM radio stations and 
+images in the Gallery, and to take pictures using the Camera app. Micromax
+ bundles quite a few apps including Games Club, 
+GetIt, M!Games, M!Insurance, M!Live, M!Pick and M!Security - all of 
+which cannot be uninstalled. There are a few trial versions of Disney 
+games like Smash It! and Where's My Perry. Micromax also bundles  SwiftKey, one of 
+our favourite third-party keyboards, with this phone. CameraAs we mentioned earlier, there is a camera widget on the home screen, which gives users immediate access to a few modes. 
+The Frontback mode is still pointless in our opinion. The camera app 
+in itself is just a tweaked version of the Android Gingerbread app and doesn't have too many features.  For example, there are only four 
+shooting modes and no filters. The app gives access to a few manual
+ options such as ISO settings. (Click for full size)In our daylight 
+tests, the camera had problems getting the exposure right and as a result it would often blow out highlights in the 
+background. In a 
+few shots, certain areas were clearly underexposed. The HDR mode helps 
+in negating this a bit this causes a bit of lag. In close-up
+ shots, we noticed that the camera performed incredibly well. It captured 
+good details and the colours were close to natural too. Take a look at the image above to judge for yourself. The camera sensor couldn't do justice to low-light shots and they looked way too grainy. Despite a high megapixel count, the front camera was mostly 
+disappointing. We ended up with soft images that looked dreamy at best. 
+The camera can capture 1080p videos but unfortunately they don't look very good. PerformanceThe phone does not lag in day-to-day use and
+ works smoothly for most operations. It achieved really good benchmark 
+numbers too. In AnTuTu and Quadrant, the phone scored 31,352 
+and 17,429 respectively. In our intensive graphics benchmarks, GFXbench and 3DMrk Ice Storm, the phone scored 13.8fps and 6,824 
+respectively. These numbers are really good but they are not drastically
+ different from those of the cheaper Canvas Nitro. As we've seen with 
+phones fitted with the Mediatek MT6592 processor, the Canvas 4 Plus 
+managed to play all the videos we threw at it without skipping frames. 
+The loudspeaker puts out clear sound but it is not very loud. On the other hand, the headset (which incidentally looks exactly like the trademark EarPods Apple bundles with 
+its iPhones) sounds really good. The call quality was very good and call drops were non-existent. We
+ ran our battery test which runs a video in an endless loop, and found that 
+the 2000mAh battery lasted 7 hours and 22 minutes before it 
+died. This is better than many phones in the same price range but 
+Micromax's very own Canvas Nitro has a much better battery life. VerdictImitation
+ is the sincerest form of flattery, no doubt, but how far will a company 
+go with this strategy? In the case of the Canvas 4 Plus, Micromax has a created a smartphone that people might be slightly embarrassed to
+ pull out of their pockets if there is an iPhone 6 around. That 
+being said, the Canvas 4 Plus is sturdily built and is probably Micromax's best 
+looking phone to date. Too bad it isn't an original look. We can't find fault with the performance of the 
+phone but the cheaper Canvas Nitro has equally good performance in regular use. If you've been using Micromax's products and don't mind the copied
+ design then by all means pick up the Canvas 4 Plus, but if you want a 
+more dependable device, it would be worth also taking a look at the Moto G
+ (Gen 2) (Review | Pictures). 
+Micromax Canvas 4 Plus in pictures
+
+Not
+ one to be unnerved by the recent onslaught of smartphones sold by Chinese 
+companies, Micromax has continued to dominate the Indian smartphone industry. Recently, it came close to overtaking Samsung to claim the spot of the largest smartphone vendor in India. We've noticed that Micromax's most recent products have been better built than before,
+ and they are finally coming close to the fit and finish we'd generally expect from a 
+large smartphone vendor. 
+
+We have with us the recently launched 
+Micromax Canvas 4 Plus which boasts of good looks, a slim body, and a 
+powerful set of specifications. Surprisingly, this phone was launched 
+without much fanfare unlike the Canvas Nitro (Review | Pictures). Let's see if subtlety actually helps Micromax in creating an underdog. 
+
+Look and feelThere is no mistaking the fact that with respect to the design of the Canvas 4 
+Plus, Micromax has been inspired by the best in the business. Apart from the front face, this phone looks strikingly similar to the Apple iPhone 6 with its rounded edges 
+and aluminium backplate. The gold backplate takes up most of the 
+rear and there are two white strips running on the top and bottom. This 
+design is reminiscent of the iPhone 5s and gold is the only
+ colour available in retail. Unlike any iPhone, there is an aluminium trim outlining the 
+white front. 
+
+The phone has a svelte 7mm body and feels 
+really, really light. Ergonomically, the phone fits in 
+the hand rather nicely and the grip is pretty good too. However, just 
+like the iPhone 5s, the metal plate becomes cold in an air-conditioned 
+environment and as a result feels a little uncomfortable. 
+
+The primary 
+camera, accompanied by an LED flash, sits in a familiar corner on the top 
+of the rear whereas the loudspeaker is bang in centre of the lower white strip. The bottom is mostly bare save for a 
+hole for the microphone. The earpiece sits above the
+ display and is flanked by a front-facing camera and an ambient
+ light sensor. There is a row of three neatly marked capacitive buttons 
+for navigation below the screen. The Micro-USB port and the 3.5mm audio jack are on the 
+top, and the right edge houses the power button and the 
+tray for the Micro-SIM card which extends to also cover a microSD card slot. The volume rocker and the flap covering the regular-sized SIM card slot are on the left edge. The opening mechanism is rather awkward as one has
+ to push in one corner of the flap on the left and then grab it with a fingernail, while the tray on the right requires a pin to pop it out with. 
+
+Overall, despite its derivative design 
+that made us feel as though we were using a knockoff iPhone, the Micromax 
+Canvas 4 Plus turns heads. Still, it would have been nice if Micromax
+ could have a design identity of its beyond its trademark 
+'M' logo that looks like a fist.
+
+Specifications and softwareMoving
+ on from outward appearances, the Canvas 4 Plus has a decent list of 
+specifications. The SoC is an octa-core Mediatek MT6592 clocked at 1.7GHz per core, with an integrated Mali-450MP 
+GPU. There is 1GB of RAM and 16GB of storage space, which can be expanded by 32GB using a microSD card. Additionally, the Canvas 4 Plus 
+also has support for USB On-the-Go, which means that you 
+don't have to worry about storage. 
+
+The phone sports a
+ 13-megapixel primary camera with LED flash and a 5-megapixel front 
+camera for selfies. It can connect to 3G mobile networks and there are other connectivity options in the form of Wi-Fi and 
+Bluetooth.
+The battery is not removable 
+
+The 5-inch AMOLED screen has a resolution of 
+720x1280. Even for Micromax's standards, this screen is super-saturated and has a yellowish tinge. However, 
+it is pretty crisp and we found that text looks rather nice. The 
+screen is pretty legible under direct sunlight, too. The viewing angles 
+on the other hand are not that great. Also, 
+Micromax seems to have tweaked the touch sensitivity of the screen as a 
+result of which swipes and gestures feel very smooth. 
+
+The 
+Canvas 4 Plus runs Android 4.4.2 (KitKat). Micromax doesn't deviate too 
+much from stock Android apart from adding a few visual and functional 
+tweaks, some of which we also saw in the Canvas Nitro. The pitch black 
+lockscreen displays only notifications on coloured 
+strips, the homepage widget for camera functions, and QuickLook are all 
+carried over from the Canvas Nitro. QuickLook still doesn't have options
+ to customise the feed by adding specific sources. The Smart Pause feature
+ is missing in the Canvas 4 Plus and instead Micromax adds Air-Shuffle, 
+which allows users to wave their hands above the ambient light
+ sensor to change songs in the Music app, FM radio stations and 
+images in the Gallery, and to take pictures using the Camera app. 
+
+Micromax
+ bundles quite a few apps including Games Club, 
+GetIt, M!Games, M!Insurance, M!Live, M!Pick and M!Security - all of 
+which cannot be uninstalled. There are a few trial versions of Disney 
+games like Smash It! and Where's My Perry. Micromax also bundles  SwiftKey, one of 
+our favourite third-party keyboards, with this phone. 
+
+CameraAs we mentioned earlier, there is a camera widget on the home screen, which gives users immediate access to a few modes. 
+The Frontback mode is still pointless in our opinion. The camera app 
+in itself is just a tweaked version of the Android Gingerbread app and doesn't have too many features.  For example, there are only four 
+shooting modes and no filters. The app gives access to a few manual
+ options such as ISO settings. 
+
+(Click for full size)In our daylight 
+tests, the camera had problems getting the exposure right and as a result it would often blow out highlights in the 
+background. In a 
+few shots, certain areas were clearly underexposed. The HDR mode helps 
+in negating this a bit this causes a bit of lag. In close-up
+ shots, we noticed that the camera performed incredibly well. It captured 
+good details and the colours were close to natural too. Take a look at the image above to judge for yourself. The camera sensor couldn't do justice to low-light shots and they looked way too grainy. Despite a high megapixel count, the front camera was mostly 
+disappointing. We ended up with soft images that looked dreamy at best. 
+The camera can capture 1080p videos but unfortunately they don't look very good. 
+
+PerformanceThe phone does not lag in day-to-day use and
+ works smoothly for most operations. It achieved really good benchmark 
+numbers too. In AnTuTu and Quadrant, the phone scored 31,352 
+and 17,429 respectively. In our intensive graphics benchmarks, GFXbench and 3DMrk Ice Storm, the phone scored 13.8fps and 6,824 
+respectively. These numbers are really good but they are not drastically
+ different from those of the cheaper Canvas Nitro. 
+
+As we've seen with 
+phones fitted with the Mediatek MT6592 processor, the Canvas 4 Plus 
+managed to play all the videos we threw at it without skipping frames. 
+The loudspeaker puts out clear sound but it is not very loud. On the other hand, the headset (which incidentally looks exactly like the trademark EarPods Apple bundles with 
+its iPhones) sounds really good. The call quality was very good and call drops were non-existent. 
+
+We
+ ran our battery test which runs a video in an endless loop, and found that 
+the 2000mAh battery lasted 7 hours and 22 minutes before it 
+died. This is better than many phones in the same price range but 
+Micromax's very own Canvas Nitro has a much better battery life. 
+
+VerdictImitation
+ is the sincerest form of flattery, no doubt, but how far will a company 
+go with this strategy? In the case of the Canvas 4 Plus, Micromax has a created a smartphone that people might be slightly embarrassed to
+ pull out of their pockets if there is an iPhone 6 around. That 
+being said, the Canvas 4 Plus is sturdily built and is probably Micromax's best 
+looking phone to date. Too bad it isn't an original look. 
+
+We can't find fault with the performance of the 
+phone but the cheaper Canvas Nitro has equally good performance in regular use. If you've been using Micromax's products and don't mind the copied
+ design then by all means pick up the Canvas 4 Plus, but if you want a 
+more dependable device, it would be worth also taking a look at the Moto G
+ (Gen 2) (Review | Pictures). 
+

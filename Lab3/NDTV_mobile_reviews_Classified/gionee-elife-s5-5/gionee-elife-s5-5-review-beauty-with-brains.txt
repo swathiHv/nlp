@@ -1,0 +1,229 @@
+Gionee Elife S5.5 Review: Beauty with Brains
+
+In
+ the not-so-distant past, Chinese phones had a terrible reputation. They
+ were either knock-offs or just plain cheap phones filled with 
+multiple pointless and annoying features - remember phones with five speakers? You won't see as many of those around now, but for some reason, the reputation has persisted. With
+ the entry of brands like Oppo and Gionee in India, and the impending 
+entry of Xiaomi, premium Chinese phone-makers and their offerings might actually be able to change public perception. Barring a few problems with the software, we were impressed 
+with the flagship Gionee Elife E7. Gionee's Elife S5.5, the 
+younger sibling of that phone, is touted as the slimmest smartphone in the world. 
+It features top-of-the-line specifications too. The phone managed to 
+catch our fancy and we recently received a unit to review in our lab. We find out if it can stand strong against the big league of 
+smartphones. Look and FeelThe Gionee Elife S5.5 could give professional supermodels a run for their money. At 5.6mm,
+ this phone is the slimmest one we've ever seen. On top of that, it
+ is lightweight at 135g. Despite the anorexic physical attributes, the 
+S5.5 is a sturdily built device and can handle a few falls thanks to the
+ magnesium alloy material used for the construction. Exuding premium 
+quality, this Gionee phone definitely beats the pants off much of the competition in
+ its price range, and even looks better than a few flagships we've seen
+ (we're looking at you, Samsung). On the right edge of
+ the Elife S5.5 is the micro-SIM card tray, and on the left edge are the
+ power button and volume rocker. The slightly raised physical 
+buttons feel soft when pressed, which is good. The bottom edge has a 3.5mm audio jack while the top edge features a Micro-USB port for 
+charging. Right above the screen is the front camera and an invisible 
+array of sensors. The unibody design means that the phone has a 
+non-removable battery. The rear of the device is almost as reflective as
+ a mirror.  Slightly raised to accommodate the optics, the rear 
+camera and flash are devoid of any protection. As a result, they are susceptible to scratches. One more problem with the glossy exterior is 
+that attracts smudges very easily. Features and SpecificationsThe Elife S5.5 is beautiful and powerful too, at least on paper. Under the hood is a Mediatek MT6589 
+octa-core processor clocked at 1.7GHz, with integrated 
+Mali 450MP4 graphics. There's 2GB of RAM supporting it. Only around 
+9GB of the 16GB of internal storage is available to users, which isn't much at all considering there 
+is no support for memory cards. There is a single slot 
+for a micro-SIM card, which of course can connect to 3G networks. Unlike a lot of other 
+phones with the same specifications in this price range, the Elife S5.5 
+has incorporated Bluetooth 4.0, which is good. The 13-megapixel rear 
+camera can also shoot videos at a resolution of 1980x1080. Just like the
+ HTC Desire 816 we recently reviewed, the S5.5 also has a 5-megapixel front 
+camera.This is probably one of the very few smartphones with a 
+full-HD resolution screen at this price level, and we think it looks 
+fantastic. At 5 inches with a density of 467ppi, pixellation is not a problem at all. Blacks are deep and colours pop 
+a bit too much - fans of over-saturated images won't be disappointed
+ at all, but regular reds looked 
+like bright orange during our testing, which to us is a bit of overkill. SoftwarePotent
+ hardware is of no use if the software doesn't keep up, which is why it is important that manufacturers trying to fork Android
+ ensure that both hardware and software work together to deliver a good user experience. This is unfortunately where Gionee falters.Gionee's
+ custom "Amigo OS" UI runs on top of the now-dated Android 4.2.2 (Jellybean).
+ We've discussed the various problems of this software 
+at length in our review of the Elife E7. The same problems 
+persist in this phone as well - wasted space, a single-screen view of 
+all apps, a cluttered settings panel in the notification slider, 
+options that can't be found without multiple taps, and much more. Even if we can look 
+past all the problems plaguing the software, the theme itself is a bit of an eyesore. The fact that themes can be changed is not much help either, since all the three 
+options that are available are just as bad as each other. The quality and value of the default apps, including six games, are also debatable. Fortunately, we could delete some of them. The only saving 
+grace in this mess was the intuitive keyboard. We 
+appreciate Gionee's attempt at differentiation, but Amigo OS needs more work for it to be 
+user-friendly. Until then, we are heading to 
+the Play Store to find a replacement launcher.CameraSince the quality of photographs captured by the 
+Gionee Elife E7 impressed us we had high hopes for the Gionee Elife S5.5's camera as
+ well. Our expectations might have therefore been a bit too high, and it turned out that the performance of the 13-megapixel rear camera was only slightly above average. (Click to see full size)In our 
+daylight testing, photos looked a bit dim. This dullness led to certain details being hidden. In HDR mode, the camera goes a bit overboard in trying to enhance the dynamic range, and ends up producing overexposed shots. Colours are also slightly 
+off the mark in captured photos. In low light, focusing is a major issue and we more 
+often than not ended up with blurred images. Photos were also devoid of 
+detail and had a yellow tinge to them. Focussing is jerky even when shooting video, but the captured 1080p video looks really good. The 5-megapixel front camera couldn't capture
+ as much detail as the one on the HTC Desire 816, but the extremely wide-angled lens helps when we want 
+to incorporate more people in the image. Anyone who wants to try aping 
+Ellen DeGeneres' Oscar selfie should take note. The camera app is minimalistic with transparent icons lined up along the edges of the screen. Oddly, the settings page opens up vertically instead of horizontally when you tap its button. PerformanceThe S5.5 returned scores of 27,952 and 
+16,658 in AnTuTu and Quadrant respectively. While respectable, the scores are not a true 
+reflection of the potential performance of this phone's hardware. In daily use, we found 
+that the Elife S5.5 stutters and lags a lot in spite of its powerful 
+specifications. We attribute this disparity in 
+scores and real-life performance to the clunky software. Graphics performance is not that great, either. We played Shadowgun and 
+noticed that it lagged in sections which were filled with hordes of villains. The 
+GFXbench test returned a score of 10.5fps which corroborates 
+our experience with gaming. One area where the Elife S5.5 shines 
+throughout is video playback. Though it was no surprise that the phone 
+managed to play all the videos we threw at it, we were glad that it did 
+so without skipping frames. The gorgeous screen makes watching 
+videos totally enjoyable.On the other hand, this phone heats up quite a bit. This could be due to the way all the internal components are crammed within this slim, all-metal body. Battery life isn't great  - the S5.5 lasted only six hours and 28 minutes before dying in our continuous video 
+loop test. Call quality is decent with both the caller and the 
+receiver hearing each other without issues. VerdictQuite surprisingly, we managed to spot the Elife S5.5 in the 
+wild inside a local train and noticed that the person using it was 
+engrossed in a movie. After striking up a conversation, we discovered that 
+he had purchased the phone because of the 1080p screen and phone's looks. Perhaps this is a sign that users can indeed warm up to the 
+idea of a Chinese brand making premium smartphones. Our new friend had easily identified the two major 
+reasons your should consider the Gionee Elife S5.5 at its current price of Rs. 22,999. However, you also now know that the camera isn't all that 
+great, and the heating issue could potentially be harmful for the phone in the long run. If that puts you off, at least this price segment is littered with options now. Our 
+favourites are the big-screened HTC Desire 816 with its capable camera, the 
+Moto X (review) with its unique voice commands, and the Elife S5.5's
+ elder sibling, the Elife E7, which is a flagship on a budget.
+Gionee Elife S5.5 in pictures
+
+In
+ the not-so-distant past, Chinese phones had a terrible reputation. They
+ were either knock-offs or just plain cheap phones filled with 
+multiple pointless and annoying features - remember phones with five speakers? You won't see as many of those around now, but for some reason, the reputation has persisted. 
+
+With
+ the entry of brands like Oppo and Gionee in India, and the impending 
+entry of Xiaomi, premium Chinese phone-makers and their offerings might actually be able to change public perception. Barring a few problems with the software, we were impressed 
+with the flagship Gionee Elife E7. 
+
+Gionee's Elife S5.5, the 
+younger sibling of that phone, is touted as the slimmest smartphone in the world. 
+It features top-of-the-line specifications too. The phone managed to 
+catch our fancy and we recently received a unit to review in our lab. We find out if it can stand strong against the big league of 
+smartphones. 
+
+Look and FeelThe Gionee Elife S5.5 could give professional supermodels a run for their money. At 5.6mm,
+ this phone is the slimmest one we've ever seen. On top of that, it
+ is lightweight at 135g. Despite the anorexic physical attributes, the 
+S5.5 is a sturdily built device and can handle a few falls thanks to the
+ magnesium alloy material used for the construction. Exuding premium 
+quality, this Gionee phone definitely beats the pants off much of the competition in
+ its price range, and even looks better than a few flagships we've seen
+ (we're looking at you, Samsung). 
+
+On the right edge of
+ the Elife S5.5 is the micro-SIM card tray, and on the left edge are the
+ power button and volume rocker. The slightly raised physical 
+buttons feel soft when pressed, which is good. The bottom edge has a 3.5mm audio jack while the top edge features a Micro-USB port for 
+charging. Right above the screen is the front camera and an invisible 
+array of sensors. The unibody design means that the phone has a 
+non-removable battery. 
+
+The rear of the device is almost as reflective as
+ a mirror.  Slightly raised to accommodate the optics, the rear 
+camera and flash are devoid of any protection. As a result, they are susceptible to scratches. One more problem with the glossy exterior is 
+that attracts smudges very easily. 
+
+Features and SpecificationsThe Elife S5.5 is beautiful and powerful too, at least on paper. Under the hood is a Mediatek MT6589 
+octa-core processor clocked at 1.7GHz, with integrated 
+Mali 450MP4 graphics. There's 2GB of RAM supporting it. Only around 
+9GB of the 16GB of internal storage is available to users, which isn't much at all considering there 
+is no support for memory cards. 
+
+There is a single slot 
+for a micro-SIM card, which of course can connect to 3G networks. Unlike a lot of other 
+phones with the same specifications in this price range, the Elife S5.5 
+has incorporated Bluetooth 4.0, which is good. The 13-megapixel rear 
+camera can also shoot videos at a resolution of 1980x1080. Just like the
+ HTC Desire 816 we recently reviewed, the S5.5 also has a 5-megapixel front 
+camera.
+
+This is probably one of the very few smartphones with a 
+full-HD resolution screen at this price level, and we think it looks 
+fantastic. At 5 inches with a density of 467ppi, pixellation is not a problem at all. Blacks are deep and colours pop 
+a bit too much - fans of over-saturated images won't be disappointed
+ at all, but regular reds looked 
+like bright orange during our testing, which to us is a bit of overkill. 
+
+SoftwarePotent
+ hardware is of no use if the software doesn't keep up, which is why it is important that manufacturers trying to fork Android
+ ensure that both hardware and software work together to deliver a good user experience. This is unfortunately where Gionee falters.
+
+Gionee's
+ custom "Amigo OS" UI runs on top of the now-dated Android 4.2.2 (Jellybean).
+ We've discussed the various problems of this software 
+at length in our review of the Elife E7. The same problems 
+persist in this phone as well - wasted space, a single-screen view of 
+all apps, a cluttered settings panel in the notification slider, 
+options that can't be found without multiple taps, and much more. 
+
+Even if we can look 
+past all the problems plaguing the software, the theme itself is a bit of an eyesore. The fact that themes can be changed is not much help either, since all the three 
+options that are available are just as bad as each other. The quality and value of the default apps, including six games, are also debatable. Fortunately, we could delete some of them. The only saving 
+grace in this mess was the intuitive keyboard. 
+
+We 
+appreciate Gionee's attempt at differentiation, but Amigo OS needs more work for it to be 
+user-friendly. Until then, we are heading to 
+the Play Store to find a replacement launcher.
+
+CameraSince the quality of photographs captured by the 
+Gionee Elife E7 impressed us we had high hopes for the Gionee Elife S5.5's camera as
+ well. Our expectations might have therefore been a bit too high, and it turned out that the performance of the 13-megapixel rear camera was only slightly above average. 
+
+(Click to see full size)
+
+In our 
+daylight testing, photos looked a bit dim. This dullness led to certain details being hidden. In HDR mode, the camera goes a bit overboard in trying to enhance the dynamic range, and ends up producing overexposed shots. Colours are also slightly 
+off the mark in captured photos. 
+
+In low light, focusing is a major issue and we more 
+often than not ended up with blurred images. Photos were also devoid of 
+detail and had a yellow tinge to them. Focussing is jerky even when shooting video, but the captured 1080p video looks really good. The 5-megapixel front camera couldn't capture
+ as much detail as the one on the HTC Desire 816, but the extremely wide-angled lens helps when we want 
+to incorporate more people in the image. Anyone who wants to try aping 
+Ellen DeGeneres' Oscar selfie should take note. 
+
+The camera app is minimalistic with transparent icons lined up along the edges of the screen. Oddly, the settings page opens up vertically instead of horizontally when you tap its button. 
+
+PerformanceThe S5.5 returned scores of 27,952 and 
+16,658 in AnTuTu and Quadrant respectively. While respectable, the scores are not a true 
+reflection of the potential performance of this phone's hardware. In daily use, we found 
+that the Elife S5.5 stutters and lags a lot in spite of its powerful 
+specifications. We attribute this disparity in 
+scores and real-life performance to the clunky software. 
+
+Graphics performance is not that great, either. We played Shadowgun and 
+noticed that it lagged in sections which were filled with hordes of villains. The 
+GFXbench test returned a score of 10.5fps which corroborates 
+our experience with gaming. 
+
+One area where the Elife S5.5 shines 
+throughout is video playback. Though it was no surprise that the phone 
+managed to play all the videos we threw at it, we were glad that it did 
+so without skipping frames. The gorgeous screen makes watching 
+videos totally enjoyable.
+
+On the other hand, this phone heats up quite a bit. This could be due to the way all the internal components are crammed within this slim, all-metal body. Battery life isn't great  - the S5.5 lasted only six hours and 28 minutes before dying in our continuous video 
+loop test. Call quality is decent with both the caller and the 
+receiver hearing each other without issues. 
+
+VerdictQuite surprisingly, we managed to spot the Elife S5.5 in the 
+wild inside a local train and noticed that the person using it was 
+engrossed in a movie. After striking up a conversation, we discovered that 
+he had purchased the phone because of the 1080p screen and phone's looks. Perhaps this is a sign that users can indeed warm up to the 
+idea of a Chinese brand making premium smartphones. 
+
+Our new friend had easily identified the two major 
+reasons your should consider the Gionee Elife S5.5 at its current price of Rs. 22,999. However, you also now know that the camera isn't all that 
+great, and the heating issue could potentially be harmful for the phone in the long run. 
+
+If that puts you off, at least this price segment is littered with options now. Our 
+favourites are the big-screened HTC Desire 816 with its capable camera, the 
+Moto X (review) with its unique voice commands, and the Elife S5.5's
+ elder sibling, the Elife E7, which is a flagship on a budget.
+

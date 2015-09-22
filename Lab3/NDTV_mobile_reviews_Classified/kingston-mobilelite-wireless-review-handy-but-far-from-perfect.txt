@@ -1,0 +1,278 @@
+Kingston MobileLite Wireless Review: Handy, But Far From Perfect
+
+All
+ iOS devices (and a few Android ones as well) have limited storage 
+capacities and there's nothing a user can do about it once the device 
+has been bought. Apple charges a ridiculous amount for higher-capacity 
+variants of its products, and sometimes even the largest size isn't 
+enough. You could use cloud services and rack up massive 3G bills, or 
+fiddle around with inelegant accessories or USB OTG dongles.  Kingston's
+ MobileLite Wireless uses the universal Wi-Fi standard to add storage 
+space (and versatility) to your Android and iOS devices. The MobileLite 
+acts as a Wi-Fi access point, and if you connect your device to it, you 
+can use the free companion app to browse the contents of an attached USB
+ drive or SD card. This seems like a simple and effective solution in theory, but let's see how well it works in the real world.Look and feelThe
+ Kingston MobileLite Wireless is a rectangular brick that's around the 
+size of a laptop charger, though much lighter. Its two-toned grey 
+plastic body is simple and unassuming - you probably wouldn't guess what
+ this thing does at first glance. There's a full-sized SD card slot on 
+one end, while the other has a USB port and a Micro-USB port. There's 
+also a small power button on one side, with three status LEDs above it.The
+ MobileLite doesn't have any built-in storage, but it does have an 
+1,800mAh battery which can be used to charge other devices via USB. Its 
+primary purpose is to act as a Wi-Fi access point so that you 
+can access the contents of an SD card or USB pen drive from your phone 
+or tablet.There's a green power indicator, and two more for Wi-Fi. One
+ tells you whether the MobileLite itself is broadcasting, and the other 
+tells you whether its pass-through function is activeKingston includes a USB cable and a microSD-to-SD adapter. We would have liked an actual SD card to be included with the package - how much would that have cost the company? Setup and usageThere
+ really isn't much to setting up the MobileLite - all you have to do is 
+press the power button for one second to begin charging a device over 
+USB, or three seconds to turn on the Wi-Fi features. We loaded a 4GB SD 
+card and a 16GB USB drive full of assorted files and plugged them both 
+in. Both our test devices, an iPhone 5c and a fourth-generation iPad, 
+were able to detect and connect to the MobileLite's Wi-Fi broadcast 
+without any trouble - there's no security by default.We had 
+downloaded the Kingston MobileLite app in advance on both devices. The 
+app is clean and simple. It displays the contents of the two 
+storage devices, plus a section labelled Offline Files which shows files
+ that you've copied over to your device's local storage. We could browse
+ through files by folder, or filter by photos, videos or songs across 
+USB and SD media.In terms of the interface, you can shuffle and 
+repeat audio tracks but you can't create playlists, which would have 
+been very nice. Music can play in the background in iOS, and lockscreen 
+integration also works perfectly.The Copy from Photos option lets
+ you select photos in your Camera Roll and other albums and then copy 
+them to either media, which is a handy way to back up photos or access 
+them quickly from other devices. You can also rearrange files on your 
+media, delete them, and sort them into folders.We used the iPhone
+ first, but interestingly, when we fired up the same app on the iPad, it
+ took us through an initial setup wizard which prompted us to change the
+ MobileLite's SSID (Wi-Fi name), create a password, and set up the Wi-Fi
+ pass-through.Since most portable devices can only connect to one
+ Wi-Fi access point at a time, you have to connect to the MobileLite 
+instead of your usual Wi-Fi router or access point. Ordinarily this would
+ mean losing Internet and home network connectivity, which would be 
+highly inconvenient. Kingston circumvents this by using the MobileLite 
+as a relay for your Wi-Fi connection and passing it through to your 
+portable devices. Thus, the MobileLite connects to your usual Wi-Fi 
+network and your devices connect through it. Not an ideal situation, but
+ this is a limitation of portable devices.The Kingston MobileLite
+ Wireless is advertised as compatible with iOS and Android. There's no 
+mention of PC access, but we tested this anyway. Our test laptop 
+connected to the MobileLite's Wi-Fi AP just fine, and after digging out 
+its default gateway IP (192.168.200.254), we found that we could browse 
+its contents via a Web browser just fine. Not only that, but the Web 
+interface has a settings menu just like the one in the iOS app - we 
+could check the battery's charge level, change wireless security 
+settings, and even configure the pass-through Wi-Fi network. None of the
+ media sorting functions are available, and you can download files but 
+there's no obvious way to upload. It's not really necessary since most 
+laptops have SD card slots, but it would have been nice.PerformanceIt
+ was really easy to browse through the contents of SD and USB media. 
+There was often a delay of a few seconds when selecting files. The app 
+can display most common formats including text, images and PDFs. MP3s 
+play fine, and the app has a simple Now Playing screen with album 
+artwork and playback controls. Video was another story - the app seems 
+very sensitive to file formats. AVI files just didn't play, and even 
+Apple-native MOVs played without sound. Most MP4 files seemed to work - 
+you'll definitely want to check exactly which codecs and containers are 
+supported.Our main problem was that our test devices just didn't 
+stay connected to the MobileLite. We'd select it in the list of 
+available Wi-Fi connections only to see the link drop a few seconds 
+later. Often, it would drop after we had switched to the MobileLite app,
+ which did not have any indication of whether the reader was connected 
+or not. We only managed to force it to work by erasing the saved sign-in
+ credentials of our existing Wi-Fi router, which prevented the devices 
+from automatically connecting to it. This should not have been 
+necessary.We also noticed that the app sometimes displayed 
+filenames even if the connection to the MobileLite had dropped, or if a 
+SD card had been removed. The app still let us select these files and 
+took us to the Now Playing screen, after which nothing happened. It just
+ seemed like another long pause, till we manually verified what was 
+wrong.The Wi-Fi pass-through worked well enough, but that 
+depended on our iOS devices remaining connected to the MobileLite in the
+ first place. Web browsing speeds were noticeably impacted when 
+connecting through the MobileLite. Wi-Fi pass-through settings 
+are seemingly saved on the MobileLite itself, so if you've set this up 
+on one device, it's automatically pre-set when you pull up the app on 
+other devices. Kingston says three devices can connect to the MobileLite
+ at a time, and we found this to be true. We used the MobileLite 
+Wireless on and off for two days and the battery held up just fine. We 
+would expect several hours of continuous file access to be possible - 
+Kingston says you can watch three movies per charge, and that seems like
+ a fair estimate. We tried charging the iPhone 5c and got it up from 
+zero to around 65 percent. VerdictThere's no denying the 
+usefulness of the Kingston MobileLite Wireless, but we just wish that 
+using it was a less uncertain experience. Most of the hiccups 
+encountered aren't Kingston's fault; the company has cleverly used a 
+workaround to iOS's restrictions but only so much can be done.The poor video file format support is disappointing, but again that isn't strictly Kingston's fault. On the upside, there doesn't seem to be any upper limit to the capacity of SDXC cards supported. It's
+ easy to leave in a bag or vehicle, just as many people are now used to keeping a 
+portable battery handy. If you've hit the storage limit on your iPhone 
+or iPad and have a long drive or flight coming up, you'll definitely 
+appreciate having it around.  Price: Rs. 4,000 ProsVersatileSmall and portableWorks across platformsConsWi-Fi connection stability issuesApp could use a little polishRatings (Out of 5)Design: 3Performance: 3Value for Money: 4Overall: 3
+
+All
+ iOS devices (and a few Android ones as well) have limited storage 
+capacities and there's nothing a user can do about it once the device 
+has been bought. Apple charges a ridiculous amount for higher-capacity 
+variants of its products, and sometimes even the largest size isn't 
+enough. You could use cloud services and rack up massive 3G bills, or 
+fiddle around with inelegant accessories or USB OTG dongles.  
+
+Kingston's
+ MobileLite Wireless uses the universal Wi-Fi standard to add storage 
+space (and versatility) to your Android and iOS devices. The MobileLite 
+acts as a Wi-Fi access point, and if you connect your device to it, you 
+can use the free companion app to browse the contents of an attached USB
+ drive or SD card. 
+
+This seems like a simple and effective solution in theory, but let's see how well it works in the real world.
+
+Look and feelThe
+ Kingston MobileLite Wireless is a rectangular brick that's around the 
+size of a laptop charger, though much lighter. Its two-toned grey 
+plastic body is simple and unassuming - you probably wouldn't guess what
+ this thing does at first glance. There's a full-sized SD card slot on 
+one end, while the other has a USB port and a Micro-USB port. There's 
+also a small power button on one side, with three status LEDs above it.
+
+The
+ MobileLite doesn't have any built-in storage, but it does have an 
+1,800mAh battery which can be used to charge other devices via USB. Its 
+primary purpose is to act as a Wi-Fi access point so that you 
+can access the contents of an SD card or USB pen drive from your phone 
+or tablet.
+
+There's a green power indicator, and two more for Wi-Fi. One
+ tells you whether the MobileLite itself is broadcasting, and the other 
+tells you whether its pass-through function is active
+
+Kingston includes a USB cable and a microSD-to-SD adapter. We would have liked an actual SD card to be included with the package - how much would that have cost the company? 
+
+Setup and usageThere
+ really isn't much to setting up the MobileLite - all you have to do is 
+press the power button for one second to begin charging a device over 
+USB, or three seconds to turn on the Wi-Fi features. We loaded a 4GB SD 
+card and a 16GB USB drive full of assorted files and plugged them both 
+in. Both our test devices, an iPhone 5c and a fourth-generation iPad, 
+were able to detect and connect to the MobileLite's Wi-Fi broadcast 
+without any trouble - there's no security by default.
+
+We had 
+downloaded the Kingston MobileLite app in advance on both devices. The 
+app is clean and simple. It displays the contents of the two 
+storage devices, plus a section labelled Offline Files which shows files
+ that you've copied over to your device's local storage. We could browse
+ through files by folder, or filter by photos, videos or songs across 
+USB and SD media.
+
+In terms of the interface, you can shuffle and 
+repeat audio tracks but you can't create playlists, which would have 
+been very nice. Music can play in the background in iOS, and lockscreen 
+integration also works perfectly.
+
+The Copy from Photos option lets
+ you select photos in your Camera Roll and other albums and then copy 
+them to either media, which is a handy way to back up photos or access 
+them quickly from other devices. You can also rearrange files on your 
+media, delete them, and sort them into folders.
+
+We used the iPhone
+ first, but interestingly, when we fired up the same app on the iPad, it
+ took us through an initial setup wizard which prompted us to change the
+ MobileLite's SSID (Wi-Fi name), create a password, and set up the Wi-Fi
+ pass-through.
+
+Since most portable devices can only connect to one
+ Wi-Fi access point at a time, you have to connect to the MobileLite 
+instead of your usual Wi-Fi router or access point. Ordinarily this would
+ mean losing Internet and home network connectivity, which would be 
+highly inconvenient. Kingston circumvents this by using the MobileLite 
+as a relay for your Wi-Fi connection and passing it through to your 
+portable devices. Thus, the MobileLite connects to your usual Wi-Fi 
+network and your devices connect through it. Not an ideal situation, but
+ this is a limitation of portable devices.
+
+The Kingston MobileLite
+ Wireless is advertised as compatible with iOS and Android. There's no 
+mention of PC access, but we tested this anyway. Our test laptop 
+connected to the MobileLite's Wi-Fi AP just fine, and after digging out 
+its default gateway IP (192.168.200.254), we found that we could browse 
+its contents via a Web browser just fine. Not only that, but the Web 
+interface has a settings menu just like the one in the iOS app - we 
+could check the battery's charge level, change wireless security 
+settings, and even configure the pass-through Wi-Fi network. None of the
+ media sorting functions are available, and you can download files but 
+there's no obvious way to upload. It's not really necessary since most 
+laptops have SD card slots, but it would have been nice.
+
+PerformanceIt
+ was really easy to browse through the contents of SD and USB media. 
+There was often a delay of a few seconds when selecting files. The app 
+can display most common formats including text, images and PDFs. MP3s 
+play fine, and the app has a simple Now Playing screen with album 
+artwork and playback controls. Video was another story - the app seems 
+very sensitive to file formats. AVI files just didn't play, and even 
+Apple-native MOVs played without sound. Most MP4 files seemed to work - 
+you'll definitely want to check exactly which codecs and containers are 
+supported.
+
+Our main problem was that our test devices just didn't 
+stay connected to the MobileLite. We'd select it in the list of 
+available Wi-Fi connections only to see the link drop a few seconds 
+later. Often, it would drop after we had switched to the MobileLite app,
+ which did not have any indication of whether the reader was connected 
+or not. We only managed to force it to work by erasing the saved sign-in
+ credentials of our existing Wi-Fi router, which prevented the devices 
+from automatically connecting to it. This should not have been 
+necessary.
+
+We also noticed that the app sometimes displayed 
+filenames even if the connection to the MobileLite had dropped, or if a 
+SD card had been removed. The app still let us select these files and 
+took us to the Now Playing screen, after which nothing happened. It just
+ seemed like another long pause, till we manually verified what was 
+wrong.
+
+The Wi-Fi pass-through worked well enough, but that 
+depended on our iOS devices remaining connected to the MobileLite in the
+ first place. Web browsing speeds were noticeably impacted when 
+connecting through the MobileLite. 
+
+Wi-Fi pass-through settings 
+are seemingly saved on the MobileLite itself, so if you've set this up 
+on one device, it's automatically pre-set when you pull up the app on 
+other devices. Kingston says three devices can connect to the MobileLite
+ at a time, and we found this to be true. 
+
+We used the MobileLite 
+Wireless on and off for two days and the battery held up just fine. We 
+would expect several hours of continuous file access to be possible - 
+Kingston says you can watch three movies per charge, and that seems like
+ a fair estimate. We tried charging the iPhone 5c and got it up from 
+zero to around 65 percent. 
+
+VerdictThere's no denying the 
+usefulness of the Kingston MobileLite Wireless, but we just wish that 
+using it was a less uncertain experience. Most of the hiccups 
+encountered aren't Kingston's fault; the company has cleverly used a 
+workaround to iOS's restrictions but only so much can be done.
+
+The poor video file format support is disappointing, but again that isn't strictly Kingston's fault. On the upside, there doesn't seem to be any upper limit to the capacity of SDXC cards supported. 
+
+It's
+ easy to leave in a bag or vehicle, just as many people are now used to keeping a 
+portable battery handy. If you've hit the storage limit on your iPhone 
+or iPad and have a long drive or flight coming up, you'll definitely 
+appreciate having it around. 
+
+
+
+Price: Rs. 4,000
+
+
+
+Cons
+
+Ratings (Out of 5)
+

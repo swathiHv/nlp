@@ -1,0 +1,294 @@
+Xolo Black Review: Back in Black
+
+Competition in the budget smartphone market is heating up quicker than 
+an overclocked processor in a frying pan. The most excitement is happening in the sub-Rs. 15,000 price bracket. Brands such as Xiaomi, 
+Motorola, Yu Televentures, Micromax and a handful of small-name 
+upstarts are battling furiously for your money.Not one to be
+ left out, Lava Mobiles' premium brand Xolo is making its presence felt 
+with the Rs. 12,999 Xolo Black. As the name suggests, it is only available in
+ one colour, and there are no prizes for guessing which. It's well specified, 
+has some quirky features such as dual cameras and a front flash, and tries very hard to scream 'premium'. But the market is a cutthroat and 
+unpredictable place, so Xolo has its work cut out for it. We find out if it has
+ what it takes in our review.Look and feelThe Xolo Black 
+bears an uncanny resemblance to the Sony Xperia Z3 (Review | Pictures), thanks to its curved
+ edges and matte-finished metal frame. Where most of the competition 
+(including the similarly priced Xiaomi Mi4i) uses polycarbonate as the 
+material for the body, the Xolo Black uses glass. Both the front and 
+back panels are toughened Corning Gorilla Glass, which should help in 
+keeping them scratch-free. They're also incredibly 
+reflective and are grime magnets, so you'll find that you need to wipe the 
+phone clean quite often.The 5.5-inch full-HD screen makes up a
+ little over 69 percent of the front of the Xolo Black, with narrow side bezels and a bit more space on the top and bottom. There are off-screen 
+soft keys below the screen, which we feel are too small and too widely spaced. These stay dark by default until pressed. This makes them a bit tricky to 
+use, and we often found ourselves tapping on dead space. The
+ front camera and its dedicated flash are in the two top corners of the 
+front, while the earpiece occupies a small portion of the top-middle.The
+ back of the device has the Xolo and Hive branding, along with the 
+dual-camera setup. The two lenses are placed symmetrically on either side of the 
+rear flash. The metallic edge wraps around the device smoothly, with the
+ charging port and speakers at the bottom, and the 3.5mm headset socket at
+ the top. The SIM tray is on the left and holds both SIM cards, 
+while the power and volume buttons are on the right. An annoying trend 
+that we've been seeing now finds its way to the
+ Xolo Black: the second SIM slot doubles up as the microSD card card 
+slot, which means you have to choose between dual-SIM functionality and more storage. We don't believe there is any good reason that anyone should
+ be forced to make that choice. The power button doubles up 
+as a status light, which we found a bit strange. This means that
+ you can't see that you have new notifications unless the Xolo 
+Black is facing you at a specific angle, which somewhat defeats the purpose of having the light. A traditional notification 
+light at the front of the device would have made much more sense.On
+ the whole, it's a well built and smartphone that stands out next to its competition and feels more premium than its price tag of Rs. 12,999 would suggest. Specifications and SoftwareThe Xolo Black uses the 
+extremely popular Qualcomm Snapdragon 615 (2nd Gen) SoC, which means it supports 4G. Fortunately, it is compatible with band 40, so the 
+phone can be used for 4G services from Indian operators. The 5.5-inch 
+display has a full-HD resolution, with a pixels-per-inch count of 401. 
+The Xolo Black also features 2GB RAM, 16GB of internal storage (with support for up to 32GB microSD cards), and a 3,200mAh Lithium-polymer 
+battery. The rear camera setup features two sensors; a 
+13-megapixel primary camera and a 2-megapixel secondary unit. The front 
+camera uses a 5-megapixel sensor, and both the front and back have their
+ own flashes.Android Lollipop 5.0.2 powers the Xolo Black, 
+with the company's proprietary Hive user interface layered on top. 
+Hive is an attractive UI for the most part, with a handful of features 
+and tweaks that aren't available on other devices in the 
+price range. The app drawer is different, for one, and sorts apps 
+horizontally by category. You can sort by alphabet, time of installation
+ or app category, which is a good way to differentiate from the typical 
+app drawer that we're used to.Hive itself is sometimes a bit slow
+ for our liking. It's occasionally sluggish in loading screens, and its 
+animations take too long to play through. Most of the time, it does work
+ well, so we can't complain too much. The default Hive lock screen is 
+terrible, with very little appeal to it. Luckily, it can be disabled and
+ replaced with the stock Android lock screen. The stock option also lets 
+you customise quick launch keys and displays notifications 
+without you having to unlock the device, so it's the obvious choice here.All
+ in all, it's a better user interface that what most other manufacturers
+ offer. It's heavily customisable with plenty of tweaks and settings for
+ the user to play with. The Xolo Black also has a handful of useful preinstalled apps, 
+including McAfee, Comet Browser and a few Hive-branded security and 
+privacy tools. The preinstalled apps unfortunately can't be removed, but
+ they aren't too heavy on the phone's resources and can be stopped from the app settings menu and then ignored.CameraThe
+ Xolo Black interestingly uses a dual-camera setup on the rear. This comprises of a 13-megapixel primary sensor and a 
+2-megapixel secondary sensor. This is meant to improve autofocus speed and also let you refocus on different parts of the picture 
+after it has been taken, similar to the HTC One (M8)'s dual-camera feature. Autofocus is a bit quicker than we've noticed on most other similarly priced smartphones,
+ but not significantly so. The refocusing feature works well, but is 
+still essentially a gimmick that won't be put to use very often by most 
+people.A couple of other camera features of note are OptiZoom and
+ ChromaFlash. OptiZoom aims to improve the quality of zoomed in images, 
+but does not actually do much. Digitally zoomed 
+images are grainy as always. ChromaFlash involves capturing two 
+images in quick succession; one with the flash
+ and one without. The frames are then combined by the software to create
+ a single image that tones down the effect of the flash for improved
+realism. This works surprisingly well; images came out a 
+fair bit better than what we've seen from similar smartphones in terms of 
+colour and brightness.(Click for full-size image)The camera itself is decent, taking 
+pictures that are sharp, detailed and fairly vibrant. Whites have a 
+tendency to appear too bright, so pictures with a lot of white tend to 
+lose some detail. The front camera is a standard 
+5-megapixel shooter, but interestingly has its own flash. Selfie 
+lovers will be pleased with this, since it significantly improves shots 
+taken in dark places. It's reasonable to say that snap-happy users will 
+be pleased with the cameras on the Xolo Black.The camera software is easy to use and features all the settings and modes that you'd 
+ordinarily want from a smartphone. However, there are two apps for the 
+camera; the ordinary one that features a bunch of filters and settings 
+modes, and the dual-camera app which utilises the 2-megapixel secondary 
+sensor but does away with a lot of the features that the main app offers. This 
+turned out to be very confusing for us, since taking a picture now 
+additionally involved making a decision as to which app's features would be better for 
+the picture we intended to take. It would have been better to have the 
+dual-camera mode worked into the standard app, and we're hoping a future
+ firmware update fixes this.PerformancePerformance is decent on the Xolo Black, with the device handling most 
+tasks well. Hive UI is a little sluggish at times, but this 
+doesn't affect performance in apps and games. We had no serious 
+concerns with the phone during our time with it; the Black ran smoothly 
+and had no malfunctions or crashes of any sort. Voice call quality was 
+standard, as was performance with audio using both headphones and the 
+device's own speakers.We also put the Black through our 
+assortment of HD videos. The device ran most of them with ease, and 
+had file format issues with some of the others. We played Sonic Runners 
+on the phone and felt no lag or performance issues whatsoever. 
+Multitasking would tend to slow the phone down a little bit, so it's 
+advisable not to keep too many apps running at the same time. The 
+display, while full-HD and suitably sharp, is a little weak in terms of 
+colour and contrast. It certainly isn't the cleanest full-HD display 
+we've seen on a smartphone.The Xolo Black
+ scored 32,519 in AnTuTu and 20,996 in Quadrant. We also ran 3D Mark Ice
+ Storm Extreme and GFXBench, where the phone scored 5427 points and 14fps 
+respectively. This is more or less on par with other Snapdragon 615 
+devices. The battery lasted 9 hours, 41 minutes during our video loop 
+battery test, which is a bit low for device with a 3,200mAh battery. In day
+ to day use, the battery lasted a whole day with ease.VerdictThe
+ Xolo Black is essentially a no-fuss smartphone with slightly above-average capabilities. It performs on par with most 
+other devices in its price range, looks decent, and has a couple of 
+features that stand out.  Its dual rear cameras, front flash and 
+generally pleasing performance with photography do help distinguish it in a way.We like this phone, and we think you'll like too. If 
+you're looking for a decent phone that does its job, and don't want to 
+spend a lot of money, the Xolo Black is definitely one to consider.
+ It's available on Flipkart now.
+Xolo Black in pictures
+
+
+
+Not one to be
+ left out, Lava Mobiles' premium brand Xolo is making its presence felt 
+with the Rs. 12,999 Xolo Black. As the name suggests, it is only available in
+ one colour, and there are no prizes for guessing which. It's well specified, 
+has some quirky features such as dual cameras and a front flash, and tries very hard to scream 'premium'. But the market is a cutthroat and 
+unpredictable place, so Xolo has its work cut out for it. We find out if it has
+ what it takes in our review.
+
+Look and feelThe Xolo Black 
+bears an uncanny resemblance to the Sony Xperia Z3 (Review | Pictures), thanks to its curved
+ edges and matte-finished metal frame. Where most of the competition 
+(including the similarly priced Xiaomi Mi4i) uses polycarbonate as the 
+material for the body, the Xolo Black uses glass. Both the front and 
+back panels are toughened Corning Gorilla Glass, which should help in 
+keeping them scratch-free. They're also incredibly 
+reflective and are grime magnets, so you'll find that you need to wipe the 
+phone clean quite often.
+
+The 5.5-inch full-HD screen makes up a
+ little over 69 percent of the front of the Xolo Black, with narrow side bezels and a bit more space on the top and bottom. There are off-screen 
+soft keys below the screen, which we feel are too small and too widely spaced. These stay dark by default until pressed. This makes them a bit tricky to 
+use, and we often found ourselves tapping on dead space. The
+ front camera and its dedicated flash are in the two top corners of the 
+front, while the earpiece occupies a small portion of the top-middle.
+
+The
+ back of the device has the Xolo and Hive branding, along with the 
+dual-camera setup. The two lenses are placed symmetrically on either side of the 
+rear flash. The metallic edge wraps around the device smoothly, with the
+ charging port and speakers at the bottom, and the 3.5mm headset socket at
+ the top.
+
+ The SIM tray is on the left and holds both SIM cards, 
+while the power and volume buttons are on the right. An annoying trend 
+that we've been seeing now finds its way to the
+ Xolo Black: the second SIM slot doubles up as the microSD card card 
+slot, which means you have to choose between dual-SIM functionality and more storage. We don't believe there is any good reason that anyone should
+ be forced to make that choice. 
+
+The power button doubles up 
+as a status light, which we found a bit strange. This means that
+ you can't see that you have new notifications unless the Xolo 
+Black is facing you at a specific angle, which somewhat defeats the purpose of having the light. A traditional notification 
+light at the front of the device would have made much more sense.
+
+On
+ the whole, it's a well built and smartphone that stands out next to its competition and feels more premium than its price tag of Rs. 12,999 would suggest.
+
+ 
+
+Specifications and SoftwareThe Xolo Black uses the 
+extremely popular Qualcomm Snapdragon 615 (2nd Gen) SoC, which means it supports 4G. Fortunately, it is compatible with band 40, so the 
+phone can be used for 4G services from Indian operators. The 5.5-inch 
+display has a full-HD resolution, with a pixels-per-inch count of 401. 
+The Xolo Black also features 2GB RAM, 16GB of internal storage (with support for up to 32GB microSD cards), and a 3,200mAh Lithium-polymer 
+battery. The rear camera setup features two sensors; a 
+13-megapixel primary camera and a 2-megapixel secondary unit. The front 
+camera uses a 5-megapixel sensor, and both the front and back have their
+ own flashes.
+
+Android Lollipop 5.0.2 powers the Xolo Black, 
+with the company's proprietary Hive user interface layered on top. 
+Hive is an attractive UI for the most part, with a handful of features 
+and tweaks that aren't available on other devices in the 
+price range. The app drawer is different, for one, and sorts apps 
+horizontally by category. You can sort by alphabet, time of installation
+ or app category, which is a good way to differentiate from the typical 
+app drawer that we're used to.
+
+Hive itself is sometimes a bit slow
+ for our liking. It's occasionally sluggish in loading screens, and its 
+animations take too long to play through. Most of the time, it does work
+ well, so we can't complain too much. The default Hive lock screen is 
+terrible, with very little appeal to it. Luckily, it can be disabled and
+ replaced with the stock Android lock screen. The stock option also lets 
+you customise quick launch keys and displays notifications 
+without you having to unlock the device, so it's the obvious choice here.
+
+All
+ in all, it's a better user interface that what most other manufacturers
+ offer. It's heavily customisable with plenty of tweaks and settings for
+ the user to play with. The Xolo Black also has a handful of useful preinstalled apps, 
+including McAfee, Comet Browser and a few Hive-branded security and 
+privacy tools. The preinstalled apps unfortunately can't be removed, but
+ they aren't too heavy on the phone's resources and can be stopped from the app settings menu and then ignored.
+
+CameraThe
+ Xolo Black interestingly uses a dual-camera setup on the rear. This comprises of a 13-megapixel primary sensor and a 
+2-megapixel secondary sensor. This is meant to improve autofocus speed and also let you refocus on different parts of the picture 
+after it has been taken, similar to the HTC One (M8)'s dual-camera feature. Autofocus is a bit quicker than we've noticed on most other similarly priced smartphones,
+ but not significantly so. The refocusing feature works well, but is 
+still essentially a gimmick that won't be put to use very often by most 
+people.
+
+A couple of other camera features of note are OptiZoom and
+ ChromaFlash. OptiZoom aims to improve the quality of zoomed in images, 
+but does not actually do much. Digitally zoomed 
+images are grainy as always. ChromaFlash involves capturing two 
+images in quick succession; one with the flash
+ and one without. The frames are then combined by the software to create
+ a single image that tones down the effect of the flash for improved
+realism. This works surprisingly well; images came out a 
+fair bit better than what we've seen from similar smartphones in terms of 
+colour and brightness.
+
+(Click for full-size image)
+
+The camera itself is decent, taking 
+pictures that are sharp, detailed and fairly vibrant. Whites have a 
+tendency to appear too bright, so pictures with a lot of white tend to 
+lose some detail. The front camera is a standard 
+5-megapixel shooter, but interestingly has its own flash. Selfie 
+lovers will be pleased with this, since it significantly improves shots 
+taken in dark places. It's reasonable to say that snap-happy users will 
+be pleased with the cameras on the Xolo Black.
+
+The camera software is easy to use and features all the settings and modes that you'd 
+ordinarily want from a smartphone. However, there are two apps for the 
+camera; the ordinary one that features a bunch of filters and settings 
+modes, and the dual-camera app which utilises the 2-megapixel secondary 
+sensor but does away with a lot of the features that the main app offers. This 
+turned out to be very confusing for us, since taking a picture now 
+additionally involved making a decision as to which app's features would be better for 
+the picture we intended to take. It would have been better to have the 
+dual-camera mode worked into the standard app, and we're hoping a future
+ firmware update fixes this.
+
+PerformancePerformance is decent on the Xolo Black, with the device handling most 
+tasks well. Hive UI is a little sluggish at times, but this 
+doesn't affect performance in apps and games. We had no serious 
+concerns with the phone during our time with it; the Black ran smoothly 
+and had no malfunctions or crashes of any sort. Voice call quality was 
+standard, as was performance with audio using both headphones and the 
+device's own speakers.
+
+We also put the Black through our 
+assortment of HD videos. The device ran most of them with ease, and 
+had file format issues with some of the others. We played Sonic Runners 
+on the phone and felt no lag or performance issues whatsoever. 
+Multitasking would tend to slow the phone down a little bit, so it's 
+advisable not to keep too many apps running at the same time. The 
+display, while full-HD and suitably sharp, is a little weak in terms of 
+colour and contrast. It certainly isn't the cleanest full-HD display 
+we've seen on a smartphone.
+
+The Xolo Black
+ scored 32,519 in AnTuTu and 20,996 in Quadrant. We also ran 3D Mark Ice
+ Storm Extreme and GFXBench, where the phone scored 5427 points and 14fps 
+respectively. This is more or less on par with other Snapdragon 615 
+devices. The battery lasted 9 hours, 41 minutes during our video loop 
+battery test, which is a bit low for device with a 3,200mAh battery. In day
+ to day use, the battery lasted a whole day with ease.
+
+VerdictThe
+ Xolo Black is essentially a no-fuss smartphone with slightly above-average capabilities. It performs on par with most 
+other devices in its price range, looks decent, and has a couple of 
+features that stand out.  Its dual rear cameras, front flash and 
+generally pleasing performance with photography do help distinguish it in a way.
+
+We like this phone, and we think you'll like too. If 
+you're looking for a decent phone that does its job, and don't want to 
+spend a lot of money, the Xolo Black is definitely one to consider.
+ It's available on Flipkart now.
+

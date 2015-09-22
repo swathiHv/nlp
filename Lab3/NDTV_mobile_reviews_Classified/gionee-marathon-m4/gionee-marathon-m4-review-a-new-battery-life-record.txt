@@ -1,0 +1,345 @@
+Gionee Marathon M4 Review: A New Battery Life Record
+
+Every year, phones get slimmer and every 
+year, we wonder why manufacturers don't just shrink the internals and 
+use all the space they've saved for bigger batteries. We know there are 
+millions of people who wouldn't mind trading a few mm extra and a few 
+grams of weight for an hour or two more talktime. When you get to the 
+end of a workday and your battery looks like it won't even last through 
+the ride home, you know there's something wrong with the priorities of 
+the industry.Gionee is one of the few companies that don't seem 
+to want to make half their money selling extra chargers. The Marathon 
+series of phones, so named for their long-lasting batteries, serves a 
+segment of the market that really isn't so niche anymore. We reviewed 
+last year's Gionee Marathon M3 (Review | Pictures) model and were fully satisfied that it 
+delivered on its promise, although there seemed to be significant 
+tradeoffs in other areas. Since the recently launched Gionee Marathon M4
+ doesn't have a bigger battery than its predecessor, we're hoping that 
+Gionee has improved things in other areas, specifically the software and
+ overall usage experience. Phones today cannot be one-trick ponies, no 
+matter how appealing that one trick might be. Read on to find out if the
+ company has succeeded.Look and feelAt 10.1mm thick and 
+176g in weight, the Gionee Marathon M4 definitely doesn't fit the mould 
+of current-day smartphones. That said, it isn't much bulkier than phones
+ that were considered stylish not too long ago, and the curved rear 
+makes it quite easy to hold. The band around the sides is reassuringly 
+metal, and everything about the overall finish and construction quality 
+is quite impressive. We find that the Marathon M4 is an enormous 
+improvement over its predecessor in this regard.The front is 
+totally black except for the outlines of the three Android navigation 
+buttons, which are done in the modern Lollipop style. You can just about
+ see the front camera and earpiece cutout on top. The rear is removable 
+and made of a smooth, lighter coloured plastic. It's meant to peel off 
+but the clasps are extraordinarily strong and you'll need long 
+fingernails or a screwdriver to get it to come loose. Beneath the cover,
+ you'll find two Micro-SIM card slots, the microSD slot, and the shiny 
+silver battery which isn't removable.Gionee hasn't skimped on the
+ box contents: in addition to the standard charger, cable and headset, 
+we found a handy USB OTG adapter, a second plastic back with an attached
+ flip cover (but a less attractive fake leather texture), an adhesive 
+screen guard, and a small lint-free cloth.SpecificationsWhile
+ the build quality generally surpasses that of other phones at this 
+price, the specifications bring us back down to reality. This phone runs
+ on a 1.3GHz quad-core MediaTek MT6735 SoC, which is pretty modern and 
+so far uncommon. The MT6735 has four 64-bit ARM Cortex-A53 CPU cores, 
+Mali-T720 MP2 graphics and even integrated LTE, all of which make it 
+quite interesting. There's a standard 2GB of RAM and 16GB of internal 
+storage space. MicroSD support is limited to 32GB, but you can use USB 
+OTG storage devices. There's Bluetooth 4.0, Wi-Fi b/g/n and FM radio. 
+Indian 4G bands are supported, which is a nice touch. The screen 
+measures 5 inches diagonally and has a resolution of 720x1280. The rear 
+camera has an 8-megapixel sensor and the front one has a 5-megapixel 
+sensor. All of this is pretty unexciting, but there are no glaring 
+omissions either. What you're really paying for is the battery.Speaking
+ of which, the battery has the same hefty 5,000mAh capacity that the one
+ in the Marathon M3 did, so our expectations are already quite high. 
+Gionee claims up to 440 hours of standby time and up to 50 hours of 
+talktime, which are both exceptional numbers.SoftwareGionee,
+ like pretty much all Chinese companies, forces its own UI on top of 
+Android in order to stand out and be memorable. This involves a bunch of
+ proprietary features and preloaded apps which users might not always 
+like. Those who comfortable with Android might want to override these 
+choices, but the experience won't be as smooth as it could be with stock
+ Android. Amigo UI has lots of nice touches, but there's loads of
+ room for improvement. For one, the shortcuts panel isn't in its usual 
+place in the notifications shade, but copies the iOS Command Centre and 
+must be pulled up from the bottom of the screen. This is especially 
+awkward because you have to be very careful not to accidentally hit one 
+of the capacitive buttons below the screen when trying to pull it up. 
+You also can't get to it from within apps, somewhat defeating its 
+purpose. For another thing, there's loads of awkward English everywhere,
+ especially in the Settings app. Gionee really needs to hire someone to 
+redo its UI translations, because some of the help text is anything but 
+helpful.The default keyboard is called TouchPal, and it has a few
+ quirks such as popup hints that interfere with typing and could confuse
+ users. However, the quick clipboard shortcuts and general 
+customisability could make it quite popular.Another oddball 
+feature is the Fake Call button, which we've seen in previous Gionee 
+phones as well. This lets you discretely trigger an incoming call in 15 
+seconds in order to get out of an uncomfortable situation. The phone 
+behaves just as if you're actually receiving a call - there's even a 
+prerecorded message asking you to send "the files" urgently.You 
+don't get a separate app drawer, so all app icons and widgets have to 
+live mixed up on the home screens. Gionee does include a customisation 
+app called Theme Park which has an icon set similar to the default 
+Android L one. There's also an app called Chameleon that lets you point 
+the camera at anything, and then picks out three complementary colours 
+to create a new theme out of. Amigo Paper is a massive collection of 
+wallpapers, very few of which were appealing to us.UC Browser is 
+pinned to the dock by default though you'll find Chrome buried in a 
+folder if you go hunting for it. There's also GameZone, a mini app store
+ for some very crude-looking games and apps. System Manager is a cleanup
+ and monitoring tool that includes a handy cellular data counter and the
+ ability to cut off network access to specific apps. There's also Saavn,
+ WPS Office, Yahoo Cricket, Twitter, DU Speed Booster and Gionee Xender.Despite
+ having a huge battery, the phone offers two power saving modes. The 
+less aggressive one shuts down background data and kills running apps, 
+while the more extreme mode switches to a monochrome mode in which only 
+the dialler, messaging app and clock are available. We've seen this idea
+ implemented on many other phones, but in this case, a user could 
+stretch battery life by several days which could make the phone really 
+handy in any number of situations.The included flip cover is much
+ appreciated, but it does present its own set of problems. The phone 
+knows when the cover is closed and immediately presents a small amount 
+of information such as the date, time and notifications, through the 
+clear window. There's also a quick shortcut to the torch. Flipping the 
+cover open automatically wakes up the phone. The problem is that the 
+cover doesn't stay closed, which means the phone tends to wake up all 
+the time, and it's really easy to accidentally hit the torch shortcut.PerformanceWe
+ didn't feel any lags when swiping around the interface or in apps. 
+Multitasking was also not a problem. However we did find that the screen
+ wasn't as sharp as we've come to expect, and text did look a bit 
+jagged. Viewing angles were decent and we didn't have trouble with the 
+screen under direct sunlight. Benchmarks gave us unsurprisingly 
+ordinary performance numbers. The Marathon M4 managed 27,742 points in 
+AnTuTu and only 9,487 overall in Quadrant. Graphics performance wasn't 
+too bad, with 15fps in GFXBench and 3,240 points in 3DMark Ice Storm 
+Extreme. SunSpider ran in 1279.1ms. Videos played well and the 
+phone's speaker got surprisingly loud without distorting, though music 
+wasn't reproduced very well. In real-world usage including a few gaming 
+and video streaming sessions, we felt only mild heat on the phone's 
+rear. In terms of usability, we were a bit annoyed that the capacitive 
+Android navigation buttons aren't backlit. The camera app is 
+pretty full featured, though the interface doesn't really expose many 
+options until you start tapping around. We liked the fact that exposure 
+can be set independently of focus just by dragging the on-screen 
+reticule around. There are also filters and several creative modes, 
+though the help captions were total gibberish and in many cases were 
+arbitrarily cut off mid-sentence.Photos taken in daylight came 
+out surprisingly well. We had some trouble with exposure detection but 
+colours were vivid, textures were reproduced well even in the 
+background, and noise was low. Photos actually looked really good when 
+reviewed at full size. Low light shots were also good though clarity 
+took a huge hit, noise was a problem, and shutter lag resulted in some 
+missed opportunities. (Click to see full size)But of course everyone wants to know the 
+battery life score, and it turns out it was well worth the wait. This 
+phone lasted a record-shattering 21 hours, 23 minutes in our video loop 
+test. That's far better than even its predecessor managed. We were able 
+to get through entire days of normal usage including a few games and 
+videos and lots of 4G data usage with plenty of capacity to spare. Even 
+better, we found that the phone charged surprisingly quickly thanks to 
+the beefy 2,000mA charger included in the box - standard 1,000mA 
+chargers will work, but will take longer.VerdictThe Gionee
+ Marathon M4 truly earns its name. While the battery isn't larger than 
+the one its predecessor had, assorted improvements including software 
+optimisations have resulted in an overall boost to effective battery 
+life. That means this phone could be an enormous asset to those who have
+ highly demanding jobs and don't like carrying external batteries 
+around, but also to those who could find themselves away from a power 
+outlet for days at a stretch.There's nothing that really stands 
+out on the spec sheet, but that's okay with us especially considering 
+the impressive build quality and overall experience of using this phone.
+ If battery life isn't a concern, you can find plenty of other models that are slimmer and probably faster for the same amount of money or less. But this phone is all about the battery, and in that respect it has no competition. We only hope that Gionee will pay more attention to the quality of its UI translations in the next software release.
+
+Gionee is one of the few companies that don't seem 
+to want to make half their money selling extra chargers. The Marathon 
+series of phones, so named for their long-lasting batteries, serves a 
+segment of the market that really isn't so niche anymore. We reviewed 
+last year's Gionee Marathon M3 (Review | Pictures) model and were fully satisfied that it 
+delivered on its promise, although there seemed to be significant 
+tradeoffs in other areas. 
+
+Since the recently launched Gionee Marathon M4
+ doesn't have a bigger battery than its predecessor, we're hoping that 
+Gionee has improved things in other areas, specifically the software and
+ overall usage experience. Phones today cannot be one-trick ponies, no 
+matter how appealing that one trick might be. Read on to find out if the
+ company has succeeded.
+
+Look and feelAt 10.1mm thick and 
+176g in weight, the Gionee Marathon M4 definitely doesn't fit the mould 
+of current-day smartphones. That said, it isn't much bulkier than phones
+ that were considered stylish not too long ago, and the curved rear 
+makes it quite easy to hold. The band around the sides is reassuringly 
+metal, and everything about the overall finish and construction quality 
+is quite impressive. We find that the Marathon M4 is an enormous 
+improvement over its predecessor in this regard.
+
+The front is 
+totally black except for the outlines of the three Android navigation 
+buttons, which are done in the modern Lollipop style. You can just about
+ see the front camera and earpiece cutout on top. The rear is removable 
+and made of a smooth, lighter coloured plastic. It's meant to peel off 
+but the clasps are extraordinarily strong and you'll need long 
+fingernails or a screwdriver to get it to come loose. Beneath the cover,
+ you'll find two Micro-SIM card slots, the microSD slot, and the shiny 
+silver battery which isn't removable.
+
+Gionee hasn't skimped on the
+ box contents: in addition to the standard charger, cable and headset, 
+we found a handy USB OTG adapter, a second plastic back with an attached
+ flip cover (but a less attractive fake leather texture), an adhesive 
+screen guard, and a small lint-free cloth.
+
+SpecificationsWhile
+ the build quality generally surpasses that of other phones at this 
+price, the specifications bring us back down to reality. This phone runs
+ on a 1.3GHz quad-core MediaTek MT6735 SoC, which is pretty modern and 
+so far uncommon. The MT6735 has four 64-bit ARM Cortex-A53 CPU cores, 
+Mali-T720 MP2 graphics and even integrated LTE, all of which make it 
+quite interesting. There's a standard 2GB of RAM and 16GB of internal 
+storage space. MicroSD support is limited to 32GB, but you can use USB 
+OTG storage devices. There's Bluetooth 4.0, Wi-Fi b/g/n and FM radio. 
+Indian 4G bands are supported, which is a nice touch. 
+
+The screen 
+measures 5 inches diagonally and has a resolution of 720x1280. The rear 
+camera has an 8-megapixel sensor and the front one has a 5-megapixel 
+sensor. All of this is pretty unexciting, but there are no glaring 
+omissions either. What you're really paying for is the battery.
+
+Speaking
+ of which, the battery has the same hefty 5,000mAh capacity that the one
+ in the Marathon M3 did, so our expectations are already quite high. 
+Gionee claims up to 440 hours of standby time and up to 50 hours of 
+talktime, which are both exceptional numbers.
+
+SoftwareGionee,
+ like pretty much all Chinese companies, forces its own UI on top of 
+Android in order to stand out and be memorable. This involves a bunch of
+ proprietary features and preloaded apps which users might not always 
+like. Those who comfortable with Android might want to override these 
+choices, but the experience won't be as smooth as it could be with stock
+ Android. 
+
+Amigo UI has lots of nice touches, but there's loads of
+ room for improvement. For one, the shortcuts panel isn't in its usual 
+place in the notifications shade, but copies the iOS Command Centre and 
+must be pulled up from the bottom of the screen. This is especially 
+awkward because you have to be very careful not to accidentally hit one 
+of the capacitive buttons below the screen when trying to pull it up. 
+You also can't get to it from within apps, somewhat defeating its 
+purpose. For another thing, there's loads of awkward English everywhere,
+ especially in the Settings app. Gionee really needs to hire someone to 
+redo its UI translations, because some of the help text is anything but 
+helpful.
+
+The default keyboard is called TouchPal, and it has a few
+ quirks such as popup hints that interfere with typing and could confuse
+ users. However, the quick clipboard shortcuts and general 
+customisability could make it quite popular.
+
+Another oddball 
+feature is the Fake Call button, which we've seen in previous Gionee 
+phones as well. This lets you discretely trigger an incoming call in 15 
+seconds in order to get out of an uncomfortable situation. The phone 
+behaves just as if you're actually receiving a call - there's even a 
+prerecorded message asking you to send "the files" urgently.
+
+You 
+don't get a separate app drawer, so all app icons and widgets have to 
+live mixed up on the home screens. Gionee does include a customisation 
+app called Theme Park which has an icon set similar to the default 
+Android L one. There's also an app called Chameleon that lets you point 
+the camera at anything, and then picks out three complementary colours 
+to create a new theme out of. Amigo Paper is a massive collection of 
+wallpapers, very few of which were appealing to us.
+
+UC Browser is 
+pinned to the dock by default though you'll find Chrome buried in a 
+folder if you go hunting for it. There's also GameZone, a mini app store
+ for some very crude-looking games and apps. System Manager is a cleanup
+ and monitoring tool that includes a handy cellular data counter and the
+ ability to cut off network access to specific apps. There's also Saavn,
+ WPS Office, Yahoo Cricket, Twitter, DU Speed Booster and Gionee Xender.
+
+Despite
+ having a huge battery, the phone offers two power saving modes. The 
+less aggressive one shuts down background data and kills running apps, 
+while the more extreme mode switches to a monochrome mode in which only 
+the dialler, messaging app and clock are available. We've seen this idea
+ implemented on many other phones, but in this case, a user could 
+stretch battery life by several days which could make the phone really 
+handy in any number of situations.
+
+The included flip cover is much
+ appreciated, but it does present its own set of problems. The phone 
+knows when the cover is closed and immediately presents a small amount 
+of information such as the date, time and notifications, through the 
+clear window. There's also a quick shortcut to the torch. Flipping the 
+cover open automatically wakes up the phone. The problem is that the 
+cover doesn't stay closed, which means the phone tends to wake up all 
+the time, and it's really easy to accidentally hit the torch shortcut.
+
+PerformanceWe
+ didn't feel any lags when swiping around the interface or in apps. 
+Multitasking was also not a problem. However we did find that the screen
+ wasn't as sharp as we've come to expect, and text did look a bit 
+jagged. Viewing angles were decent and we didn't have trouble with the 
+screen under direct sunlight. 
+
+Benchmarks gave us unsurprisingly 
+ordinary performance numbers. The Marathon M4 managed 27,742 points in 
+AnTuTu and only 9,487 overall in Quadrant. Graphics performance wasn't 
+too bad, with 15fps in GFXBench and 3,240 points in 3DMark Ice Storm 
+Extreme. SunSpider ran in 1279.1ms. 
+
+Videos played well and the 
+phone's speaker got surprisingly loud without distorting, though music 
+wasn't reproduced very well. In real-world usage including a few gaming 
+and video streaming sessions, we felt only mild heat on the phone's 
+rear. In terms of usability, we were a bit annoyed that the capacitive 
+Android navigation buttons aren't backlit. 
+
+The camera app is 
+pretty full featured, though the interface doesn't really expose many 
+options until you start tapping around. We liked the fact that exposure 
+can be set independently of focus just by dragging the on-screen 
+reticule around. There are also filters and several creative modes, 
+though the help captions were total gibberish and in many cases were 
+arbitrarily cut off mid-sentence.
+
+Photos taken in daylight came 
+out surprisingly well. We had some trouble with exposure detection but 
+colours were vivid, textures were reproduced well even in the 
+background, and noise was low. Photos actually looked really good when 
+reviewed at full size. Low light shots were also good though clarity 
+took a huge hit, noise was a problem, and shutter lag resulted in some 
+missed opportunities. 
+
+(Click to see full size)
+
+But of course everyone wants to know the 
+battery life score, and it turns out it was well worth the wait. This 
+phone lasted a record-shattering 21 hours, 23 minutes in our video loop 
+test. That's far better than even its predecessor managed. We were able 
+to get through entire days of normal usage including a few games and 
+videos and lots of 4G data usage with plenty of capacity to spare. Even 
+better, we found that the phone charged surprisingly quickly thanks to 
+the beefy 2,000mA charger included in the box - standard 1,000mA 
+chargers will work, but will take longer.
+
+VerdictThe Gionee
+ Marathon M4 truly earns its name. While the battery isn't larger than 
+the one its predecessor had, assorted improvements including software 
+optimisations have resulted in an overall boost to effective battery 
+life. That means this phone could be an enormous asset to those who have
+ highly demanding jobs and don't like carrying external batteries 
+around, but also to those who could find themselves away from a power 
+outlet for days at a stretch.
+
+There's nothing that really stands 
+out on the spec sheet, but that's okay with us especially considering 
+the impressive build quality and overall experience of using this phone.
+ If battery life isn't a concern, you can find plenty of other models that are slimmer and probably faster for the same amount of money or less. But this phone is all about the battery, and in that respect it has no competition. We only hope that Gionee will pay more attention to the quality of its UI translations in the next software release.
+

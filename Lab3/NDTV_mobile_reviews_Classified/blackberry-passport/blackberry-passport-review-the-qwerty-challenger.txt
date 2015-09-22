@@ -1,0 +1,462 @@
+BlackBerry Passport Review: The QWERTY Challenger
+
+Many, many articles have been written about BlackBerry's fall from 
+grace; about how it completely failed to read and respond to a changing 
+market, and the sequence of poor judgment calls that transformed its 
+product line from a dominant cultural force into a vaguely unpleasant 
+memory. This is a company that managed to alienate its core user base, 
+eliminate the feature they loved most, and not understand for years what
+ it had been doing wrong. The post-decline BlackBerry product line has 
+had more misses than hits and the appeal of the platform has all but 
+evaporated.And still, the company isn't dead. Still, there are people
+ who cling to their old phones or cry that the ones they've had to move 
+to just don't feel right. Still, there are people who desperately want 
+the company to release a phone that feels and functions just like a 
+classic QWERTY BlackBerry and will race to buy it as soon as that 
+happens.The Passport is not that phone. It's something entirely 
+new; it might make some of those loyal customers very happy while 
+disappointing others, but it also might appeal to those who never 
+thought they'd consider a BlackBerry again. It's a brave, imaginative 
+device that rethinks what a smartphone should be and how it should work.
+ Coming from a company that has spent many years in a mad blind dash to keep 
+up with its competition, this product represents a massive change of 
+direction.This is BlackBerry in attack mode; finding things that 
+its competitors cannot or will not do, leveraging its strengths in 
+hardware and software, and exploiting the shortcomings of the homogenous
+ rectangles that all smartphones have come to be. This is the company 
+deliberately upsetting the status quo and giving buyers something different and
+ potentially better to consider.There's a lot that the Passport needs to do in order to break through, and we're going to give it a fair chance to do so.Look and feelCustomers
+ clearly want large screens, and up until now that has meant disposing 
+of everything but the screen - keyboards, control buttons, and most 
+importantly, comfort. Rectangular screens have become the de facto 
+standard, and although they're good for movies and many forms of games, 
+they aren't the most natural shape for many other things. Sensing an 
+opportunity to improve productivity, BlackBerry has gone with a 
+perfectly square 1:1 screen, with room beneath it for a three-line 
+keyboard.This makes the phone wide and squat; only slightly wider
+ and taller than an actual passport. It will fit in a jacket pocket but 
+will look and feel awkward in a trouser pocket. It's awkward to hold and
+ carry, but not more so than any of today's popular phablets. You might 
+love it or hate it, and either way, it will take a while to become 
+accustomed to. Beyond its initial impression, the Passport feels 
+fantastic. Its construction and material quality are top-notch. The 
+phone is built around an exposed metal frame and is quite hefty, but you
+ know just by looking at it that it's a very premium device. The front 
+face is all shiny glass, and the keyboard has BlackBerry's trademark 
+silver "frets" between each row. The rear is a soft-touch plastic and is
+ curved just right to mask this phone's thickness. The BlackBerry
+ 10 OS is controlled entirely by on-screen gestures, so there's no need 
+for any navigation buttons. There are still volume buttons on the side 
+with a smaller button to trigger the voice command feature between them.
+ The power button is on top, and it really is awkward to reach. There's a
+ standard 3.5mm headset jack on top and a SlimPort compliant Micro-USB 
+port on the bottom, which means a separate display output is not 
+required. The Nano-SIM and microSD card slots are concealed beneath the 
+upper panel on the rear, which is removable.Given its high-end aspirations, the Passport comes in an outsized box which includes a stiff  formal card with a VIP support email address printed on it, and not one or two but three chargers of the American, European and British plug standards. It's an obvious nod to the Passport name (not that this phone has any other travel-related feature, hardware or software) and one that frequent fliers will actually appreciate.The keyboardMost
+ importantly, there's the keyboard. This isn't the standard BlackBerry 
+keyboard that purists might have been hoping and wishing for. 
+First of all, it has only three rows which means that the space bar 
+divides the ZXCV and BNM keys. You'll also notice the lack of Shift and 
+Alt modifiers. If that wasn't horrifying enough, the keys have been 
+stripped of their alternate symbols. The secret, which is the Passport's
+ most brilliant innovation, is that the physical keyboard is only half 
+the story: the other half has been implemented in software. The 
+keyboard is not restricted to its three physical rows. A fourth row is 
+visible on screen, and it can expand to show three additional rows and 
+change according to what you're typing at any time. There's also a row 
+showing autocomplete suggestions. The Passport's design, with the screen
+ and keyboard nearly touching, make this integration extremely slick. 
+It's a brilliant idea - no one has thought of this before, and it really
+ does combine the best of both worlds conceptually.There's 
+another huge aspect to this: the entire surface of the keyboard is 
+touch-sensitive. You can swipe your finger across it like you would on a
+ trackpad, and that is registered contextually as input. While typing, a
+ swipe to the left erases entire words at a time. You can hold down the 
+on-screen Shift key and slide a finger around the keyboard to select 
+text as if with a cursor. You can flick upwards to fling a word from the
+ autocomplete bar into your text field, so your fingers never leave the 
+keyboard. In other places, you can scroll around by swiping across the 
+keyboard. The idea is sheer genius and we love it.In terms of 
+implementation and usage, we had a few issues. The first was just 
+getting used to the keyboard layout - this is where purists will feel 
+let down. Apart from the split bottom row, there's the fact that the 
+Shift button, punctuation and symbols are all on the soft row above the 
+keys. It's a little counterintuitive (we ended up long-pressing keys 
+rather than reaching for the Shift button), and we really miss that 
+fourth physical row - surely if it was so important to have a keyboard, 
+it should have been one with a more useful layout?Another slight 
+inconvenience is the keyboard's placement. You have to hold the phone 
+awkwardly if you want both thumbs on the keyboard, and balance its 
+weight so it doesn't fall. We found that while scrolling worked well in 
+apps such as the browser, it didn't work in other obvious places such as
+ the home screens. However, it feels good to type on and those who have 
+never been able to get used to a touchscreen will certainly appreciate 
+it. There are also loads and loads of shortcuts to learn - some hints 
+are displayed on screen but there's more beneath the surface if you want to discover it.The screenAt
+ 1440x1440 pixels, the BlackBerry Passport's screen is wonderfully 
+crisp. If the device's construction quality didn't clue you in to this 
+phone's premium aspirations, the screen will. PC power users will vouch 
+for the fact that 16:9 monitors, which are inescapable today, are 
+absolutely awful for productivity. The limited appeal of watching movies
+ without black bands does not make up for the loss of usable area when 
+working with text, graphics or spreadsheets. Similarly, smartphone users
+ have become used to rotating their phones between portrait and 
+landscape to suit different tasks. The Passport's 1:1 screen is a
+ complete rejection of the current status quo and it's something we 
+could get used to very easily. It's genuinely useful in nearly every 
+situation - BlackBerry has used spreadsheets, reports and medical 
+imagery as particular examples of this but it works just as well for more mundane things such as the calendar, 
+Hub, maps, and especially text. The company has for the most part done a
+ good job of adapting its OS interface and default apps.Of course
+ third-party apps are another matter. Some do scale well, others are 
+awkward, and then there are those which run letterboxed with black 
+strips on either side. We were particularly unsure of how Android apps 
+would run, but you can swipe down from the top of the screen to reveal 
+an option that lets you zoom in or out of an app. In some cases, apps 
+will crash when you do this. Temple Run 2, for example, shows its splash
+ screen in a letterbox while the game itself runs fullscreen and isn't 
+bad at all.It's really only video that poses a problem, but the 
+Passport is positioned as a hardcore productivity device for high-end 
+customers who will find enough value in the square screen not to mind. Specifications and softwareBlackBerry
+ has gone high-end with the Passport, and its specs match those of 
+current flagship phones. You'll find a Qualcomm Snapdragon 801 under the
+ hood, with four cores running at 2.26GHz. There's 3GB of RAM and 32GB 
+of storage space. The battery is not removable but has a whopping
+ 3450mAh capacity. You also get dual-band Wi-Fi ac, Bluetooth 4.0, NFC, 
+GPS and FM radio. Honestly, BlackBerry phones have not been able to 
+compete on specifications in quite a while - this is the only company 
+that hasn't refreshed its flagship-level offerings, the Z10 (Review | Photos) and Q10 (Review | Photos), in 
+nearly two years. The Passport blows its predecessors out of the water.On
+ the software front, the Passport comes with BlackBerry 10.3, the latest
+ version of its BB 10 platform. The big news here is the built-in Amazon
+ app store. This is a big step forward for users who won't have to even 
+think about how to get the apps they want. Compatibility is said to be 
+improved, and we didn't have much trouble in our limited time with the 
+Passport.OS 10.3 introduces other features and improvements too - the Hub is one of the most notable examples. All emails, messages and notifications go here, and now you can tap an icon to turn on Instant Actions which let you perform common actions on each type of message with one tap right from the inbox view. 
+The first home screen still shows thumbnails of running apps, but more 
+fit on screen now. The general look and feel of the OS has been spruced 
+up as well.There's also BlackBerry Assistant, an intelligent 
+voice command tool on the lines of Siri and Cortana. You can tell it to 
+perform phone functions including email, messaging and calling, as well 
+as to search for information online. It doesn't have much of a sense of 
+humour - a few joke responses are programmed in, but not many - though 
+it is pretty accurate in terms of voice recognition. You can see plenty 
+of examples of instructions on screen.BB 10 as a platform still 
+has its quirks, though. The gesture-based interface isn't for everyone, 
+and with no physical space at all below the screen, it can be a little 
+tricky to get the basic Home gesture right. Some things, such as the 
+Hub, will take a while for new users to get used to but can become 
+familiar with practice. PerformanceAs expected, the 
+BlackBerry Paassport feels fantastically quick and responsive in use. We
+ had no problems at all with lags or delays. Other than its physical 
+awkwardness, we had a great time using this phone. The screen is bright 
+and sharp, though viewing angles aren't all that great. Videos played 
+well enough, but the experience wasn't great on the square screen. The 
+keyboard is a pleasure to use in terms of tactile quality, even if it is
+ a little too clever. The speaker is surprisingly loud and clear, and 
+even call quality is superb.(Click to see full size)Our Android benchmark tests did not 
+run, and even if they did, results wouldn't be easily comparable thanks 
+to the non-standard screen and Android compatibility layer. SunSpider 
+and Mozilla Kraken, which run in the browser, gave us scores of 1018.2 
+and 18,029.2 respectively.We did notice that the right side of the
+ the device got rather uncomfortably warm when any stressful app was 
+running. We also found that the Passport had an unfortunate tendency of 
+unlocking itself and doing things such as dialling the last used number 
+when it was in our front trouser pocket. We often detected this only 
+because the heat buildup became quite uncomfortable. 
+This might have to do with its shape, which resulted in it stretching 
+the fabric and being pressed against our skin, even though there were 
+layers of cloth in between. A passcode will mitigate this behaviour, but
+ it's still a concern.(Click to see full size)Battery life was very impressive. We were 
+able to get 13 hours, 43 minutes of continuous video playback time, and 
+we noticed that the phone lasted up to two days with moderate-to-heavy 
+usage. The camera is very good. We were more than happy with its 
+performance, even in low light. Details were sharp in most cases, with 
+only a little bit of blurring noticeable in distant objects. Colours 
+were a little subdued but the overall quality made up for that. Focusing
+ is quick enough, and the camera can detect different conditions and 
+prompt you to enable HDR, for example. The main annoyance was that it 
+was set to capture 1:1 photos by default. While square photos fill up 
+the screen and look good on the Passport, they're most likely not what 
+you want for any other purpose.VerdictOverall, we love BlackBerry's 
+innovative streak here. This phone has one of the most distinct and 
+unique personalities of any we've tested so far this year. It's the 
+product of a lot of smart thinking and we have to give BlackBerry credit
+ for investing in its idea and crafting such a high-end product 
+even when the company itself is down. We doubted, in our review of the 
+recently launched Z3 (Review | Photos), whether that phone would be enough to turn the company 
+around. It wasn't, but the Passport might very well be - especially if 
+there's more stuff like it coming. We think BlackBerry is really 
+on to something here. It is targeting working professionals with 
+specific needs beyond just being constantly in touch, such as doctors, 
+architects and lawyers. People in these fields are most likely 
+familiar with BlackBerry devices already, and could easily be willing to
+ carry a second if not third phone around. It's also no coincidence that
+ they tend to be high-net-worth individuals.Large, awkward 
+phablets are already popular so there's little worry about the shape and
+ size being a turn-off. There's only the question of whether people will
+ be willing to give BlackBerry a try. Devices such as the Z10 and Z3 
+simply don't have what it takes to stand out in a crowd of Android 
+phones, but the Passport is new and different, and has very easily 
+understandable benefits to offer. After many, many long years, 
+BlackBerry might finally have done something completely right.    BlackBerry Passport in pictures
+
+And still, the company isn't dead. Still, there are people
+ who cling to their old phones or cry that the ones they've had to move 
+to just don't feel right. Still, there are people who desperately want 
+the company to release a phone that feels and functions just like a 
+classic QWERTY BlackBerry and will race to buy it as soon as that 
+happens.
+
+The Passport is not that phone. It's something entirely 
+new; it might make some of those loyal customers very happy while 
+disappointing others, but it also might appeal to those who never 
+thought they'd consider a BlackBerry again. It's a brave, imaginative 
+device that rethinks what a smartphone should be and how it should work.
+ Coming from a company that has spent many years in a mad blind dash to keep 
+up with its competition, this product represents a massive change of 
+direction.
+
+This is BlackBerry in attack mode; finding things that 
+its competitors cannot or will not do, leveraging its strengths in 
+hardware and software, and exploiting the shortcomings of the homogenous
+ rectangles that all smartphones have come to be. This is the company 
+deliberately upsetting the status quo and giving buyers something different and
+ potentially better to consider.
+
+There's a lot that the Passport needs to do in order to break through, and we're going to give it a fair chance to do so.
+
+Look and feelCustomers
+ clearly want large screens, and up until now that has meant disposing 
+of everything but the screen - keyboards, control buttons, and most 
+importantly, comfort. Rectangular screens have become the de facto 
+standard, and although they're good for movies and many forms of games, 
+they aren't the most natural shape for many other things. Sensing an 
+opportunity to improve productivity, BlackBerry has gone with a 
+perfectly square 1:1 screen, with room beneath it for a three-line 
+keyboard.
+
+This makes the phone wide and squat; only slightly wider
+ and taller than an actual passport. It will fit in a jacket pocket but 
+will look and feel awkward in a trouser pocket. It's awkward to hold and
+ carry, but not more so than any of today's popular phablets. You might 
+love it or hate it, and either way, it will take a while to become 
+accustomed to. 
+
+Beyond its initial impression, the Passport feels 
+fantastic. Its construction and material quality are top-notch. The 
+phone is built around an exposed metal frame and is quite hefty, but you
+ know just by looking at it that it's a very premium device. The front 
+face is all shiny glass, and the keyboard has BlackBerry's trademark 
+silver "frets" between each row. The rear is a soft-touch plastic and is
+ curved just right to mask this phone's thickness. 
+
+The BlackBerry
+ 10 OS is controlled entirely by on-screen gestures, so there's no need 
+for any navigation buttons. There are still volume buttons on the side 
+with a smaller button to trigger the voice command feature between them.
+ The power button is on top, and it really is awkward to reach. There's a
+ standard 3.5mm headset jack on top and a SlimPort compliant Micro-USB 
+port on the bottom, which means a separate display output is not 
+required. The Nano-SIM and microSD card slots are concealed beneath the 
+upper panel on the rear, which is removable.
+
+Given its high-end aspirations, the Passport comes in an outsized box which includes a stiff  formal card with a VIP support email address printed on it, and not one or two but three chargers of the American, European and British plug standards. It's an obvious nod to the Passport name (not that this phone has any other travel-related feature, hardware or software) and one that frequent fliers will actually appreciate.
+
+The keyboardMost
+ importantly, there's the keyboard. This isn't the standard BlackBerry 
+keyboard that purists might have been hoping and wishing for. 
+First of all, it has only three rows which means that the space bar 
+divides the ZXCV and BNM keys. You'll also notice the lack of Shift and 
+Alt modifiers. If that wasn't horrifying enough, the keys have been 
+stripped of their alternate symbols. The secret, which is the Passport's
+ most brilliant innovation, is that the physical keyboard is only half 
+the story: the other half has been implemented in software. 
+
+The 
+keyboard is not restricted to its three physical rows. A fourth row is 
+visible on screen, and it can expand to show three additional rows and 
+change according to what you're typing at any time. There's also a row 
+showing autocomplete suggestions. The Passport's design, with the screen
+ and keyboard nearly touching, make this integration extremely slick. 
+It's a brilliant idea - no one has thought of this before, and it really
+ does combine the best of both worlds conceptually.
+
+There's 
+another huge aspect to this: the entire surface of the keyboard is 
+touch-sensitive. You can swipe your finger across it like you would on a
+ trackpad, and that is registered contextually as input. While typing, a
+ swipe to the left erases entire words at a time. You can hold down the 
+on-screen Shift key and slide a finger around the keyboard to select 
+text as if with a cursor. You can flick upwards to fling a word from the
+ autocomplete bar into your text field, so your fingers never leave the 
+keyboard. In other places, you can scroll around by swiping across the 
+keyboard. The idea is sheer genius and we love it.
+
+In terms of 
+implementation and usage, we had a few issues. The first was just 
+getting used to the keyboard layout - this is where purists will feel 
+let down. Apart from the split bottom row, there's the fact that the 
+Shift button, punctuation and symbols are all on the soft row above the 
+keys. It's a little counterintuitive (we ended up long-pressing keys 
+rather than reaching for the Shift button), and we really miss that 
+fourth physical row - surely if it was so important to have a keyboard, 
+it should have been one with a more useful layout?
+
+Another slight 
+inconvenience is the keyboard's placement. You have to hold the phone 
+awkwardly if you want both thumbs on the keyboard, and balance its 
+weight so it doesn't fall. We found that while scrolling worked well in 
+apps such as the browser, it didn't work in other obvious places such as
+ the home screens. However, it feels good to type on and those who have 
+never been able to get used to a touchscreen will certainly appreciate 
+it. There are also loads and loads of shortcuts to learn - some hints 
+are displayed on screen but there's more beneath the surface if you want to discover it.
+
+The screenAt
+ 1440x1440 pixels, the BlackBerry Passport's screen is wonderfully 
+crisp. If the device's construction quality didn't clue you in to this 
+phone's premium aspirations, the screen will. PC power users will vouch 
+for the fact that 16:9 monitors, which are inescapable today, are 
+absolutely awful for productivity. The limited appeal of watching movies
+ without black bands does not make up for the loss of usable area when 
+working with text, graphics or spreadsheets. Similarly, smartphone users
+ have become used to rotating their phones between portrait and 
+landscape to suit different tasks. 
+
+The Passport's 1:1 screen is a
+ complete rejection of the current status quo and it's something we 
+could get used to very easily. It's genuinely useful in nearly every 
+situation - BlackBerry has used spreadsheets, reports and medical 
+imagery as particular examples of this but it works just as well for more mundane things such as the calendar, 
+Hub, maps, and especially text. The company has for the most part done a
+ good job of adapting its OS interface and default apps.
+
+Of course
+ third-party apps are another matter. Some do scale well, others are 
+awkward, and then there are those which run letterboxed with black 
+strips on either side. We were particularly unsure of how Android apps 
+would run, but you can swipe down from the top of the screen to reveal 
+an option that lets you zoom in or out of an app. In some cases, apps 
+will crash when you do this. Temple Run 2, for example, shows its splash
+ screen in a letterbox while the game itself runs fullscreen and isn't 
+bad at all.
+
+It's really only video that poses a problem, but the 
+Passport is positioned as a hardcore productivity device for high-end 
+customers who will find enough value in the square screen not to mind. 
+
+Specifications and softwareBlackBerry
+ has gone high-end with the Passport, and its specs match those of 
+current flagship phones. You'll find a Qualcomm Snapdragon 801 under the
+ hood, with four cores running at 2.26GHz. There's 3GB of RAM and 32GB 
+of storage space. 
+
+The battery is not removable but has a whopping
+ 3450mAh capacity. You also get dual-band Wi-Fi ac, Bluetooth 4.0, NFC, 
+GPS and FM radio. Honestly, BlackBerry phones have not been able to 
+compete on specifications in quite a while - this is the only company 
+that hasn't refreshed its flagship-level offerings, the Z10 (Review | Photos) and Q10 (Review | Photos), in 
+nearly two years. The Passport blows its predecessors out of the water.
+
+On
+ the software front, the Passport comes with BlackBerry 10.3, the latest
+ version of its BB 10 platform. The big news here is the built-in Amazon
+ app store. This is a big step forward for users who won't have to even 
+think about how to get the apps they want. Compatibility is said to be 
+improved, and we didn't have much trouble in our limited time with the 
+Passport.
+
+OS 10.3 introduces other features and improvements too - the Hub is one of the most notable examples. All emails, messages and notifications go here, and now you can tap an icon to turn on Instant Actions which let you perform common actions on each type of message with one tap right from the inbox view. 
+The first home screen still shows thumbnails of running apps, but more 
+fit on screen now. The general look and feel of the OS has been spruced 
+up as well.
+
+There's also BlackBerry Assistant, an intelligent 
+voice command tool on the lines of Siri and Cortana. You can tell it to 
+perform phone functions including email, messaging and calling, as well 
+as to search for information online. It doesn't have much of a sense of 
+humour - a few joke responses are programmed in, but not many - though 
+it is pretty accurate in terms of voice recognition. You can see plenty 
+of examples of instructions on screen.
+
+BB 10 as a platform still 
+has its quirks, though. The gesture-based interface isn't for everyone, 
+and with no physical space at all below the screen, it can be a little 
+tricky to get the basic Home gesture right. Some things, such as the 
+Hub, will take a while for new users to get used to but can become 
+familiar with practice. 
+
+PerformanceAs expected, the 
+BlackBerry Paassport feels fantastically quick and responsive in use. We
+ had no problems at all with lags or delays. Other than its physical 
+awkwardness, we had a great time using this phone. The screen is bright 
+and sharp, though viewing angles aren't all that great. Videos played 
+well enough, but the experience wasn't great on the square screen. The 
+keyboard is a pleasure to use in terms of tactile quality, even if it is
+ a little too clever. The speaker is surprisingly loud and clear, and 
+even call quality is superb.
+
+(Click to see full size)
+
+Our Android benchmark tests did not 
+run, and even if they did, results wouldn't be easily comparable thanks 
+to the non-standard screen and Android compatibility layer. SunSpider 
+and Mozilla Kraken, which run in the browser, gave us scores of 1018.2 
+and 18,029.2 respectively.
+
+We did notice that the right side of the
+ the device got rather uncomfortably warm when any stressful app was 
+running. We also found that the Passport had an unfortunate tendency of 
+unlocking itself and doing things such as dialling the last used number 
+when it was in our front trouser pocket. We often detected this only 
+because the heat buildup became quite uncomfortable. 
+This might have to do with its shape, which resulted in it stretching 
+the fabric and being pressed against our skin, even though there were 
+layers of cloth in between. A passcode will mitigate this behaviour, but
+ it's still a concern.
+
+(Click to see full size)
+
+Battery life was very impressive. We were 
+able to get 13 hours, 43 minutes of continuous video playback time, and 
+we noticed that the phone lasted up to two days with moderate-to-heavy 
+usage. 
+
+The camera is very good. We were more than happy with its 
+performance, even in low light. Details were sharp in most cases, with 
+only a little bit of blurring noticeable in distant objects. Colours 
+were a little subdued but the overall quality made up for that. Focusing
+ is quick enough, and the camera can detect different conditions and 
+prompt you to enable HDR, for example. The main annoyance was that it 
+was set to capture 1:1 photos by default. While square photos fill up 
+the screen and look good on the Passport, they're most likely not what 
+you want for any other purpose.
+
+VerdictOverall, we love BlackBerry's 
+innovative streak here. This phone has one of the most distinct and 
+unique personalities of any we've tested so far this year. It's the 
+product of a lot of smart thinking and we have to give BlackBerry credit
+ for investing in its idea and crafting such a high-end product 
+even when the company itself is down. We doubted, in our review of the 
+recently launched Z3 (Review | Photos), whether that phone would be enough to turn the company 
+around. It wasn't, but the Passport might very well be - especially if 
+there's more stuff like it coming. 
+
+We think BlackBerry is really 
+on to something here. It is targeting working professionals with 
+specific needs beyond just being constantly in touch, such as doctors, 
+architects and lawyers. People in these fields are most likely 
+familiar with BlackBerry devices already, and could easily be willing to
+ carry a second if not third phone around. It's also no coincidence that
+ they tend to be high-net-worth individuals.
+
+Large, awkward 
+phablets are already popular so there's little worry about the shape and
+ size being a turn-off. There's only the question of whether people will
+ be willing to give BlackBerry a try. Devices such as the Z10 and Z3 
+simply don't have what it takes to stand out in a crowd of Android 
+phones, but the Passport is new and different, and has very easily 
+understandable benefits to offer. After many, many long years, 
+BlackBerry might finally have done something completely right.   
+

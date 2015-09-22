@@ -1,0 +1,282 @@
+HTC One (E8) Dual SIM Review: Tweaking a Winning Formula
+
+After
+ HTC managed to garner some traction with the HTC One (M8) and the HTC 
+Desire 816, we think that the company might be on the road to 
+recovery. Taking advantage of this positive trend, HTC has tweaking the winning 
+formula very slightly, to appeal to a broader audience. The Taiwanese company has announced the HTC One (E8) 
+Dual SIM recently.In a polycarbonate shell, the One 
+(E8) has a lower price tag than the One (M8), but almost the same specifications as its 
+elder brother. One could equate the One (E8) to Apple's iPhone 5C. 
+Anyway, this phone has the task of living up to the fine precedent set by
+ the One (M8). Let's find out if it succeeds. Look and feelHTC
+ nailed it with the design of both the One (M7) (Review | Pictures) and the One (M8). The 
+aluminium chassis of both models have been hailed by critics, 
+including us, as the best designed phones of their generations. 
+With the One (E8), HTC strips away all the metal goodness and creates a 
+polycarbonate lookalike. The Misty Gray colour option has a 
+matte texture, while the rest of them - Polar White, Electric Crimson, 
+Maldives Blue, and Purple -  have shiny glossy exteriors. We got the Polar
+ White version for review. The dimensions of the HTC One (E8) are only marginally different from those of its elder sibling. The width has 
+increased ever so slightly by 0.1mm to 70.7mm. The One (E8) is also 
+146.4mm tall and 9.9mm thick. The bulge on the rear is concentrated at 
+the center and as a result the phone actually feels a lot slimmer while 
+using it. Moreover, the use of plastic actually makes the device lighter
+ at 145g.The front of the phone is identical to that of the One (M8).  
+The two front-firing BoomSound speakers are above and below the 5-inch screen which takes up most of the area on the 
+front face. Above the screen there is also a front-facing camera and an 
+array of sensors.  The power button is on the top as usual and still 
+feels difficult to reach.  On the bottom are the Micro-USB port and the 
+3.5mm jack. The right edge has the volume rocker and a tray for the 
+microSD card, and similarly on the left is a tray for two Nano SIM cards.
+ The rear has the primary camera and flash, both of which have silver rings around them. The colour of the ring varies depending on the body colour, for example the Misty Gray version has a golden ring. Overall, the One (E8) is sturdily built and is rather comfortable to use.Specifications and softwareThe
+ hardware components housed inside the polycarbonate body of the HTC One
+ (E8) don't vary too much from those of the One (M8). It has the same 
+quad-core Qualcomm Snapdragon 801 processor clocked at 2.5GHz with an integrated Adreno 330 GPU. 
+There is 2GB of RAM, which is sufficient for multitasking. The phone has 16GB of internal storage which can be further expanded by 128GB using a 
+microSD card.The One (M7) and One (M8) stood apart from their competitors thanks to their unique UltraPixel cameras. With the One (E8), HTC has decided to 
+go with a tried-and-tested 13-megapixel camera on the rear and a 5-megapixel one on the front. Both can shoot 
+1080p videos. The One (E8) can connect to LTE networks but not on the 2300MHz 
+band and as a result it won't work in India. The phone has support for 
+Wi-Fi a/b/g/n, Bluetooth 4.0, and pairing using NFC. It also doesn't have an 
+Infrared LED, unlike the One (M8). The 5-inch screen is 
+protected by Gorilla Glass 3. It has a resolution of 1080x1920, 
+which translates to a crazy 441ppi. The viewing angles,
+sunlight legibility, colour reproduction and saturation 
+levels are all so good that we think this is the best screen we've seen 
+on a smartphone. The same holds true 
+for the 5-inch screen of the One (M8).HTC has slapped its own Sense UI 6 
+on top of Android 4.4.2 for the One (E8). It is not too 
+different from what we saw on the HTC One (M8). There is a simple 
+software tweak that is very useful and once we got used to it couldn't 
+find one reason why it shouldn't be a staple feature in all smartphones -
+ the unlocking procedure. One can not only swipe upwards on the screen to 
+unlock the phone, but also double tap to wake it up, and swipe from the left to 
+go to Blinkfeed directly. It came in rather handy since the physical button on the top is tough to reach. Additionally when somebody calls, 
+the user can just raise the phone to their ear in order to pick up the call. The
+ default homescreen is HTC Blinkfeed, a Flipboard-style magazine which 
+shows curated content from pre-determined websites and social networks. 
+We really hope that HTC in a future update removes the dock which 
+sits as an overlay on top of Blinkfeed. HTC's Zoe app has finally 
+entered its beta stage and the company has stated that there are bound to be
+ bugs. The final version is expected to be released sometime in September. Zoe,
+ at its core, lets the user choose from a set of photos and videos on 
+the device (or shoot them if necessary) to create a compilation video 
+using the pre-set themes that are available. At the moment, the number 
+the available themes are low. There are a few third-party apps that are 
+pre-installed but fret not since they are all pretty good. Users of 
+Fitbit's fitness bands are in for some luck here since the Fitbit app is
+ pre-installed.CameraSince the phone doesn't have an 
+UltraPixel camera or the dual-camera setup found in its metal-bodied 
+counterpart, the inventive shooting modes are also missing. In fact, the
+ camera app is the same one we saw in the HTC Desire 816, minus the 
+software-generated Depth-of-Field mode. The images 
+captured by the 13-megapixel camera in good lighting conditions portray 
+warm, natural and accurate colours, which might seem muted for users who
+ want the colours to pop. However, the captured details looked smudged 
+when zoomed in. The camera also has a problem over-exposing backgrounds. Low-light images have some detail and the camera manages to 
+capture a decent amount of light but at the end of the day we have to 
+remember that we are talking about a smartphone camera and there is only
+ so much it can achieve. The rear camera can capture 1080p videos. What 
+is even better is that it can do so at 60fps. The captured 
+video quality is really good and you won't be disappointed with the 
+results. (Click for full size)The front-facing 5-megapixel camera is a bit of a 
+letdown. We expected it to capture more details but most of the captured
+ area was smudged. The camera app allows users to change the level of 
+make-up on images captured by the front camera, which essentially 
+removes blemishes on the face. PerformanceNot 
+surprisingly, the phone was very snappy during daily usage considering 
+it has the same specifications as HTC's flagship One (M8). We opened a 
+ton of apps and the Snapdragon 801 processor coupled with the 2GB of RAM
+ didn't allow the phone to break a sweat. We played Real Racing 3 and 
+Shadowgun, and both worked flawlessly with absolutely no lag. In
+ our AnTuTu and Quadrant benchmarks, the phone scored 37,321 and 23,513 
+respectively, which is very close to what the One (M8) achieved. 
+Similarly, the Adreno 330 GPU managed to log scores of 29.4fps and 
+18,711 in the GFXbench and 3D Mark Ice Storm (Unlimited) tests. In fact,
+ in our Sunspider test for loading HTML pages, the One (E8) scored a 
+very good 643.1, which is better than what the elder sibling achieved. The
+ phone played all our test HD videos without skipping frames or artefacting. 
+In fact, viewing videos on the phone is a pretty immersive experience 
+for a smartphone thanks to the gorgeous screen and the tireless 
+performance of the internal hardware. By now we know that the BoomSound 
+speakers have the best sound output on a smartphone 
+and HTC has fitted the One (E8) with this feature as well. We loved the stereo 
+separation on the speakers and crystal clear sound definition even at 
+the highest volume setting. Our review unit didn't come with a bundled 
+headset but we tried our reference headphones and the quality of sound 
+was really good.During a phone call, we were treated to clear 
+sound and not once did the phone lose reception in the 
+half-an-hour conversation that we had. In our battery test, the phone 
+lasted us 9 hours and 7 minutes, which is less than what the elder 
+sibling managed. However, there is a power saver mode that works really 
+well and one could use it in case there is a dire need to use the phone for a while without charging it.
+   VerdictHTC seems to have hit another home run with the One 
+(E8). If you do not mind the polycarbonate outer casing (we don't), it 
+is a cheaper and much more sensible buy than its elder brother at Rs. 
+33,990. There are options such as the Nexus 5 (Review | Pictures), iPhone 5C and the LG G2 
+(Review) which are also available  - but keep in mind that all of them run year-old 
+specs. If you want the latest and greatest specs the One (E8) is 
+definitely a great buy at this price. That is unless you want to buy two
+ Xiaomi Mi 3 (Review | Pictures) phones. 
+
+After
+ HTC managed to garner some traction with the HTC One (M8) and the HTC 
+Desire 816, we think that the company might be on the road to 
+recovery. Taking advantage of this positive trend, HTC has tweaking the winning 
+formula very slightly, to appeal to a broader audience. The Taiwanese company has announced the HTC One (E8) 
+Dual SIM recently.
+
+In a polycarbonate shell, the One 
+(E8) has a lower price tag than the One (M8), but almost the same specifications as its 
+elder brother. One could equate the One (E8) to Apple's iPhone 5C. 
+Anyway, this phone has the task of living up to the fine precedent set by
+ the One (M8). Let's find out if it succeeds. 
+
+Look and feelHTC
+ nailed it with the design of both the One (M7) (Review | Pictures) and the One (M8). The 
+aluminium chassis of both models have been hailed by critics, 
+including us, as the best designed phones of their generations. 
+With the One (E8), HTC strips away all the metal goodness and creates a 
+polycarbonate lookalike. The Misty Gray colour option has a 
+matte texture, while the rest of them - Polar White, Electric Crimson, 
+Maldives Blue, and Purple -  have shiny glossy exteriors. We got the Polar
+ White version for review. 
+
+The dimensions of the HTC One (E8) are only marginally different from those of its elder sibling. The width has 
+increased ever so slightly by 0.1mm to 70.7mm. The One (E8) is also 
+146.4mm tall and 9.9mm thick. The bulge on the rear is concentrated at 
+the center and as a result the phone actually feels a lot slimmer while 
+using it. Moreover, the use of plastic actually makes the device lighter
+ at 145g.
+
+The front of the phone is identical to that of the One (M8).  
+The two front-firing BoomSound speakers are above and below the 5-inch screen which takes up most of the area on the 
+front face. Above the screen there is also a front-facing camera and an 
+array of sensors.  The power button is on the top as usual and still 
+feels difficult to reach.  On the bottom are the Micro-USB port and the 
+3.5mm jack. The right edge has the volume rocker and a tray for the 
+microSD card, and similarly on the left is a tray for two Nano SIM cards.
+ The rear has the primary camera and flash, both of which have silver rings around them. The colour of the ring varies depending on the body colour, for example the Misty Gray version has a golden ring. 
+
+Overall, the One (E8) is sturdily built and is rather comfortable to use.
+
+Specifications and softwareThe
+ hardware components housed inside the polycarbonate body of the HTC One
+ (E8) don't vary too much from those of the One (M8). It has the same 
+quad-core Qualcomm Snapdragon 801 processor clocked at 2.5GHz with an integrated Adreno 330 GPU. 
+There is 2GB of RAM, which is sufficient for multitasking. The phone has 16GB of internal storage which can be further expanded by 128GB using a 
+microSD card.
+
+The One (M7) and One (M8) stood apart from their competitors thanks to their unique UltraPixel cameras. With the One (E8), HTC has decided to 
+go with a tried-and-tested 13-megapixel camera on the rear and a 5-megapixel one on the front. Both can shoot 
+1080p videos. The One (E8) can connect to LTE networks but not on the 2300MHz 
+band and as a result it won't work in India. The phone has support for 
+Wi-Fi a/b/g/n, Bluetooth 4.0, and pairing using NFC. It also doesn't have an 
+Infrared LED, unlike the One (M8). 
+
+The 5-inch screen is 
+protected by Gorilla Glass 3. It has a resolution of 1080x1920, 
+which translates to a crazy 441ppi. The viewing angles,
+sunlight legibility, colour reproduction and saturation 
+levels are all so good that we think this is the best screen we've seen 
+on a smartphone. The same holds true 
+for the 5-inch screen of the One (M8).
+
+HTC has slapped its own Sense UI 6 
+on top of Android 4.4.2 for the One (E8). It is not too 
+different from what we saw on the HTC One (M8). There is a simple 
+software tweak that is very useful and once we got used to it couldn't 
+find one reason why it shouldn't be a staple feature in all smartphones -
+ the unlocking procedure. One can not only swipe upwards on the screen to 
+unlock the phone, but also double tap to wake it up, and swipe from the left to 
+go to Blinkfeed directly. It came in rather handy since the physical button on the top is tough to reach. Additionally when somebody calls, 
+the user can just raise the phone to their ear in order to pick up the call. 
+
+The
+ default homescreen is HTC Blinkfeed, a Flipboard-style magazine which 
+shows curated content from pre-determined websites and social networks. 
+We really hope that HTC in a future update removes the dock which 
+sits as an overlay on top of Blinkfeed. 
+
+HTC's Zoe app has finally 
+entered its beta stage and the company has stated that there are bound to be
+ bugs. The final version is expected to be released sometime in September. 
+
+Zoe,
+ at its core, lets the user choose from a set of photos and videos on 
+the device (or shoot them if necessary) to create a compilation video 
+using the pre-set themes that are available. At the moment, the number 
+the available themes are low. There are a few third-party apps that are 
+pre-installed but fret not since they are all pretty good. Users of 
+Fitbit's fitness bands are in for some luck here since the Fitbit app is
+ pre-installed.
+
+CameraSince the phone doesn't have an 
+UltraPixel camera or the dual-camera setup found in its metal-bodied 
+counterpart, the inventive shooting modes are also missing. In fact, the
+ camera app is the same one we saw in the HTC Desire 816, minus the 
+software-generated Depth-of-Field mode. 
+
+The images 
+captured by the 13-megapixel camera in good lighting conditions portray 
+warm, natural and accurate colours, which might seem muted for users who
+ want the colours to pop. However, the captured details looked smudged 
+when zoomed in. The camera also has a problem over-exposing backgrounds. Low-light images have some detail and the camera manages to 
+capture a decent amount of light but at the end of the day we have to 
+remember that we are talking about a smartphone camera and there is only
+ so much it can achieve. The rear camera can capture 1080p videos. What 
+is even better is that it can do so at 60fps. The captured 
+video quality is really good and you won't be disappointed with the 
+results. 
+
+(Click for full size)The front-facing 5-megapixel camera is a bit of a 
+letdown. We expected it to capture more details but most of the captured
+ area was smudged. The camera app allows users to change the level of 
+make-up on images captured by the front camera, which essentially 
+removes blemishes on the face. 
+
+PerformanceNot 
+surprisingly, the phone was very snappy during daily usage considering 
+it has the same specifications as HTC's flagship One (M8). We opened a 
+ton of apps and the Snapdragon 801 processor coupled with the 2GB of RAM
+ didn't allow the phone to break a sweat. We played Real Racing 3 and 
+Shadowgun, and both worked flawlessly with absolutely no lag. 
+
+In
+ our AnTuTu and Quadrant benchmarks, the phone scored 37,321 and 23,513 
+respectively, which is very close to what the One (M8) achieved. 
+Similarly, the Adreno 330 GPU managed to log scores of 29.4fps and 
+18,711 in the GFXbench and 3D Mark Ice Storm (Unlimited) tests. In fact,
+ in our Sunspider test for loading HTML pages, the One (E8) scored a 
+very good 643.1, which is better than what the elder sibling achieved. 
+
+The
+ phone played all our test HD videos without skipping frames or artefacting. 
+In fact, viewing videos on the phone is a pretty immersive experience 
+for a smartphone thanks to the gorgeous screen and the tireless 
+performance of the internal hardware. By now we know that the BoomSound 
+speakers have the best sound output on a smartphone 
+and HTC has fitted the One (E8) with this feature as well. We loved the stereo 
+separation on the speakers and crystal clear sound definition even at 
+the highest volume setting. Our review unit didn't come with a bundled 
+headset but we tried our reference headphones and the quality of sound 
+was really good.
+
+During a phone call, we were treated to clear 
+sound and not once did the phone lose reception in the 
+half-an-hour conversation that we had. In our battery test, the phone 
+lasted us 9 hours and 7 minutes, which is less than what the elder 
+sibling managed. However, there is a power saver mode that works really 
+well and one could use it in case there is a dire need to use the phone for a while without charging it.
+   
+
+VerdictHTC seems to have hit another home run with the One 
+(E8). If you do not mind the polycarbonate outer casing (we don't), it 
+is a cheaper and much more sensible buy than its elder brother at Rs. 
+33,990. There are options such as the Nexus 5 (Review | Pictures), iPhone 5C and the LG G2 
+(Review) which are also available  - but keep in mind that all of them run year-old 
+specs. If you want the latest and greatest specs the One (E8) is 
+definitely a great buy at this price. That is unless you want to buy two
+ Xiaomi Mi 3 (Review | Pictures) phones.
+

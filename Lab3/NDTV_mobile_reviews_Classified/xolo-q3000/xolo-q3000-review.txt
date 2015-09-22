@@ -1,0 +1,287 @@
+Xolo Q3000 review
+
+Xolo is trying to move into a new premium space with the launch of 
+its Q3000 smartphone. While most of its launches have been products in 
+the range of Rs. 7,000 to Rs. 12,000, this new device is one of the 
+company's most expensive ever, with a launch MRP of Rs. 20,999. To 
+justify that price tag, Xolo is throwing in the kind of banner features 
+that everyone else is advertising in their own flagship phones today: a 
+full-HD 1920x1080-pixel screen, large battery, quad-core processor, and 
+camera that's sensitive in low light. International brands that 
+sell phones with such specifications ususally price them at Rs. 35,000 
+or more, so we're curious to see whether Xolo is actually trying to 
+match their performance, or is simply offering something that appears to
+ tick all the right boxes but doesn't perform as well in the real world.Look and feelThe
+ Q3000 arrived for testing in a very smart-looking white box. The front 
+is mostly unadorned, but the back has a list of features and highlights.
+ The box slides open with a light pull, and the phone itself sits right 
+on top. Beneath it is a compartment that holds the bundled flip case and
+ screen guard, and below that are two more compartments which contain 
+the battery, USB-OTG dongle, charger, headset, and printed quick start 
+booklet. It's all very neatly presented, which made us even more eager 
+to put the phone through its paces.The Q3000 itself is 
+unmistakably a mass-manufactured Android phone. You definitely wouldn't 
+mistake it for a Samsung or HTC phone. Little things, like the 
+rubberized plastic finish of the rear cover and the plastic assembly 
+around the camera lens and ports, look a bit cheap. Construction quality
+ is fairly solid, though. We had no complaints with the buttons or the 
+way the phone is put together.The rear cover peels off when you 
+pry it a bit with a fingernail. You have to work your way around the 
+edges of the phone to release five or six clasps before the entire thing
+ pops off. Beneath the cover is a cavernous space for the phone's 
+4,000mAh battery, in addition to slots for two SIM cards and a micro-SD 
+storage card. Strangely, the primary SIM card slot takes only the older 
+mini-SIM size but the secondary slot needs a micro-SIM.As with 
+most phones this size, the power/standby button has been moved to the 
+upper right edge, approximately where your thumb would be if you held 
+the phone in your right hand. The volume rocker is exactly opposite it, 
+and there's nothing else on the sides. The headset jack and micro-USB 
+port are on the top, while the bottom is blank. In another strange 
+design decision, the primary microphone for voice calls is on the back. 
+The phone's tapered edge means it's still pointed downwards, but we're 
+going to have to test for ourselves whether or not this is a problem.FeaturesXolo
+ really has tried to pack everything it can into the Q3000. It's billed 
+as a non-stop entertainment device, so the first thing we need to check 
+is the screen. Thankfully, Xolo has used an excellent panel. The full HD
+ resolution of course means that every little detail is crisp and clear.
+ Colours are clean, but a little muted. We were especially pleased with 
+the viewing angles. Of secondary importance is the sound, and it's here 
+that we were disappointed. The phone's speaker is just not powerful 
+enough at all. It's surprisingly soft even at full volume, and we 
+weren't impressed at all with the quality and depth we of what were able
+ to hear. There isn't much to get excited about with
+ the Q3000's camera. When seen at their full resolution of 4864x2736, 
+photos are grainy and artefacted. Thankfully there's enough headroom to 
+scale them down, which definitely improves their sharpness. There's an 
+HDR mode which works quite well, exposing areas in shadow alongside 
+those in bright light. Nighttime performance, however, is a whole 
+different story. The flash barely made a difference in poorly lit areas,
+ and there wasn't much of the scene we could make out at all. (Click here to see full size.)Videos
+ are recorded in 3GP format. At 1080p, these were sharp enough for us. 
+Focusing was a bit laggy, but otherwise we had no complaints. SoftwareThe
+ Q3000 runs Android 4.2.1, which is quite old now. We're not sure that 
+this phone's target audience will care all that much about such details,
+ but it's worth noting for future compatibility issues. There isn't much
+ modification to the basic Android OS, but Xolo has bundled a few apps. 
+Xolo Power is a neat tool for monitoring the health of the battery. It 
+shows how much time you're likely to have left for various tasks such as
+ audio playback and 3G browsing, and also reports whether the general 
+health of the battery has deteriorated. On another tab, you get quick 
+access to battery saving features such as a Night Mode and Sync 
+Frequency. The last mode actually has nothing to do with the battery: it
+ shows you how active each of the four CPU cores is, and shows you which
+ applications have crashed recently. Xolo Secure is an anti-theft
+ and security app that lets you remotely track your phone, make it sound
+ an alarm, wipe out all personal data, and take photos of anyone who 
+tries to unlock it. If the phone's SIM card is changed, the app will 
+send alerts to up to two preregistered numbers and your email address. 
+The app itself can be locked down with a 6-digit PIN. Finally, while 
+Google automatically backs up contacts, the app promises to also back up
+ your SMS and call history databases.Another interesting touch is
+ what Xolo calls "one-handed mode". With a long press on the Back button
+ at any point, the entire interface shrinks to about two-thirds its size
+ and appears to run inside a window. You can drag this window around the
+ screen, which remains black. It's designed to help people reach all 
+corners of the screen when holding the device in one hand, which is an 
+admirable thought. However, the windowed mode is extremely sluggish. It 
+feels like we're running a remote-access session to a phone somewhere 
+far away. You really can't get much done in this mode, which makes us 
+question the way in which it has been implemented.Performance and battery lifeThe
+ Mediatek MTK6589T that powers the Xolo Q3000 isn't exactly the newest 
+or most powerful piece of silicone available. It was launched in late 
+2012, and even then, it wasn't at the top of the heap. It's based on 
+ARM's relatively low-powered Cortex A7 processing core, which was 
+specifically designed for low-power, low-intensity applications. 
+Graphics are handled by an integrated PowerVR SGX544 GPU: again, not 
+exactly cutting-edge technology.As a result, the benchmark scores
+ are not impressive at all. In fact, the performance numbers across most
+ of our tests indicated that this phone performs barely half as well as 
+today's high-end phones from mainstream brands. CPU performance wasn't 
+all that bad: we recorded scores of 15,130 in AnTuTu and 5,832 in 
+Quadrant. Graphics performance, on the other hand, was quite abysmal. 
+The phone managed to push out only 3.4 frames per second in the GFXbench
+ test, and 1,879 in 3DMark's Ice Storm Extreme test.By now, our 
+expectations had been tempered and so the video playback test results 
+weren't a surprise. The Q3000 was able to handle video files in various 
+formats at resolutions up to 720p, but 1080p was completely unwatchable.
+ Some of our test files didn't play at all, others were completely 
+mangled, and only one played with heavy stuttering. It's a bit jarring 
+for a device to not be able to play video at its own native resolution -
+ and that includes videos recorded with the phone's own camera.The
+ scores show that the hardware simply isn't up to the task of pushing 
+anything more intensive than simple 2D graphics on the full-HD screen, 
+which is a shame. You won't notice much of a problem if you only run 
+basic apps, but modern games are pretty much out of the question.Despite
+ the massive 4,000mAh battery, we were surprised that our video loop 
+test ran for only six hours and twenty minutes. We've had phones with 
+similar screens and smaller batteries last for well over 10 hours under 
+exactly the same conditions.VerdictThe Q3000's price will 
+attract some of the buyers who were looking at Samsung and HTC's larger 
+offerings but were put off by the high cost. If you only want a 
+big-screened phone for the sake of having a big screen, you'll be happy 
+with this phone. Not only is the size impressive, but the full HD 
+resolution gives it a sharpness that other models with 720p screens 
+can't compare to. However, having an HD screen in this case won't mean 
+you get to enjoy HD content.With a lower-grade panel, Xolo could 
+have put out a much better balanced phone at a lower price. We won't 
+deny that the screen looks fantastic, so if you want your apps to look 
+good and aren't concerned with movies and games, there's nothing 
+stopping you from buying this phone.  
+
+Xolo is trying to move into a new premium space with the launch of 
+its Q3000 smartphone. While most of its launches have been products in 
+the range of Rs. 7,000 to Rs. 12,000, this new device is one of the 
+company's most expensive ever, with a launch MRP of Rs. 20,999. To 
+justify that price tag, Xolo is throwing in the kind of banner features 
+that everyone else is advertising in their own flagship phones today: a 
+full-HD 1920x1080-pixel screen, large battery, quad-core processor, and 
+camera that's sensitive in low light. 
+
+International brands that 
+sell phones with such specifications ususally price them at Rs. 35,000 
+or more, so we're curious to see whether Xolo is actually trying to 
+match their performance, or is simply offering something that appears to
+ tick all the right boxes but doesn't perform as well in the real world.
+
+Look and feelThe
+ Q3000 arrived for testing in a very smart-looking white box. The front 
+is mostly unadorned, but the back has a list of features and highlights.
+ The box slides open with a light pull, and the phone itself sits right 
+on top. Beneath it is a compartment that holds the bundled flip case and
+ screen guard, and below that are two more compartments which contain 
+the battery, USB-OTG dongle, charger, headset, and printed quick start 
+booklet. It's all very neatly presented, which made us even more eager 
+to put the phone through its paces.
+
+The Q3000 itself is 
+unmistakably a mass-manufactured Android phone. You definitely wouldn't 
+mistake it for a Samsung or HTC phone. Little things, like the 
+rubberized plastic finish of the rear cover and the plastic assembly 
+around the camera lens and ports, look a bit cheap. Construction quality
+ is fairly solid, though. We had no complaints with the buttons or the 
+way the phone is put together.
+
+The rear cover peels off when you 
+pry it a bit with a fingernail. You have to work your way around the 
+edges of the phone to release five or six clasps before the entire thing
+ pops off. Beneath the cover is a cavernous space for the phone's 
+4,000mAh battery, in addition to slots for two SIM cards and a micro-SD 
+storage card. Strangely, the primary SIM card slot takes only the older 
+mini-SIM size but the secondary slot needs a micro-SIM.
+
+As with 
+most phones this size, the power/standby button has been moved to the 
+upper right edge, approximately where your thumb would be if you held 
+the phone in your right hand. The volume rocker is exactly opposite it, 
+and there's nothing else on the sides. The headset jack and micro-USB 
+port are on the top, while the bottom is blank. In another strange 
+design decision, the primary microphone for voice calls is on the back. 
+The phone's tapered edge means it's still pointed downwards, but we're 
+going to have to test for ourselves whether or not this is a problem.
+
+FeaturesXolo
+ really has tried to pack everything it can into the Q3000. It's billed 
+as a non-stop entertainment device, so the first thing we need to check 
+is the screen. Thankfully, Xolo has used an excellent panel. The full HD
+ resolution of course means that every little detail is crisp and clear.
+ Colours are clean, but a little muted. We were especially pleased with 
+the viewing angles. Of secondary importance is the sound, and it's here 
+that we were disappointed. The phone's speaker is just not powerful 
+enough at all. It's surprisingly soft even at full volume, and we 
+weren't impressed at all with the quality and depth we of what were able
+ to hear. 
+
+(Click here to see full size.)
+
+Videos
+ are recorded in 3GP format. At 1080p, these were sharp enough for us. 
+Focusing was a bit laggy, but otherwise we had no complaints. 
+
+SoftwareThe
+ Q3000 runs Android 4.2.1, which is quite old now. We're not sure that 
+this phone's target audience will care all that much about such details,
+ but it's worth noting for future compatibility issues. There isn't much
+ modification to the basic Android OS, but Xolo has bundled a few apps. 
+Xolo Power is a neat tool for monitoring the health of the battery. It 
+shows how much time you're likely to have left for various tasks such as
+ audio playback and 3G browsing, and also reports whether the general 
+health of the battery has deteriorated. On another tab, you get quick 
+access to battery saving features such as a Night Mode and Sync 
+Frequency. The last mode actually has nothing to do with the battery: it
+ shows you how active each of the four CPU cores is, and shows you which
+ applications have crashed recently. 
+
+Xolo Secure is an anti-theft
+ and security app that lets you remotely track your phone, make it sound
+ an alarm, wipe out all personal data, and take photos of anyone who 
+tries to unlock it. If the phone's SIM card is changed, the app will 
+send alerts to up to two preregistered numbers and your email address. 
+The app itself can be locked down with a 6-digit PIN. Finally, while 
+Google automatically backs up contacts, the app promises to also back up
+ your SMS and call history databases.
+
+Another interesting touch is
+ what Xolo calls "one-handed mode". With a long press on the Back button
+ at any point, the entire interface shrinks to about two-thirds its size
+ and appears to run inside a window. You can drag this window around the
+ screen, which remains black. It's designed to help people reach all 
+corners of the screen when holding the device in one hand, which is an 
+admirable thought. However, the windowed mode is extremely sluggish. It 
+feels like we're running a remote-access session to a phone somewhere 
+far away. You really can't get much done in this mode, which makes us 
+question the way in which it has been implemented.
+
+Performance and battery lifeThe
+ Mediatek MTK6589T that powers the Xolo Q3000 isn't exactly the newest 
+or most powerful piece of silicone available. It was launched in late 
+2012, and even then, it wasn't at the top of the heap. It's based on 
+ARM's relatively low-powered Cortex A7 processing core, which was 
+specifically designed for low-power, low-intensity applications. 
+Graphics are handled by an integrated PowerVR SGX544 GPU: again, not 
+exactly cutting-edge technology.
+
+As a result, the benchmark scores
+ are not impressive at all. In fact, the performance numbers across most
+ of our tests indicated that this phone performs barely half as well as 
+today's high-end phones from mainstream brands. CPU performance wasn't 
+all that bad: we recorded scores of 15,130 in AnTuTu and 5,832 in 
+Quadrant. Graphics performance, on the other hand, was quite abysmal. 
+The phone managed to push out only 3.4 frames per second in the GFXbench
+ test, and 1,879 in 3DMark's Ice Storm Extreme test.
+
+By now, our 
+expectations had been tempered and so the video playback test results 
+weren't a surprise. The Q3000 was able to handle video files in various 
+formats at resolutions up to 720p, but 1080p was completely unwatchable.
+ Some of our test files didn't play at all, others were completely 
+mangled, and only one played with heavy stuttering. It's a bit jarring 
+for a device to not be able to play video at its own native resolution -
+ and that includes videos recorded with the phone's own camera.
+
+The
+ scores show that the hardware simply isn't up to the task of pushing 
+anything more intensive than simple 2D graphics on the full-HD screen, 
+which is a shame. You won't notice much of a problem if you only run 
+basic apps, but modern games are pretty much out of the question.
+
+Despite
+ the massive 4,000mAh battery, we were surprised that our video loop 
+test ran for only six hours and twenty minutes. We've had phones with 
+similar screens and smaller batteries last for well over 10 hours under 
+exactly the same conditions.
+
+VerdictThe Q3000's price will 
+attract some of the buyers who were looking at Samsung and HTC's larger 
+offerings but were put off by the high cost. If you only want a 
+big-screened phone for the sake of having a big screen, you'll be happy 
+with this phone. Not only is the size impressive, but the full HD 
+resolution gives it a sharpness that other models with 720p screens 
+can't compare to. However, having an HD screen in this case won't mean 
+you get to enjoy HD content.
+
+With a lower-grade panel, Xolo could 
+have put out a much better balanced phone at a lower price. We won't 
+deny that the screen looks fantastic, so if you want your apps to look 
+good and aren't concerned with movies and games, there's nothing 
+stopping you from buying this phone. 
+
